@@ -282,7 +282,7 @@
 - **SAM.MD:** Saikat Roy, Tassilo Wald, Gregor Koehler, Maximilian R. Rokuss, Nico Disch, Julius Holzschuh, David Zimmerer, Klaus H. Maier-Hein.<br />
   "SAM.MD: Zero-shot medical image segmentation capabilities of the Segment Anything Model." ArXiv (2023).
   [[paper]( https://arxiv.org/abs/2304.05396)] 
-  [[code]( Saikat Roy, Tassilo Wald, Gregor Koehler, Maximilian R. Rokuss, Nico Disch, Julius Holzschuh, David Zimmerer, Klaus H. Maier-Hein)]
+
 
 - **SAM vs BET:** Sovesh Mohapatra, Advait Gosai, Gottfried Schlaug.<br />
   "SAM vs BET: A Comparative Study for Brain Extraction and Segmentation of Magnetic Resonance Images using Deep Learning." ArXiv (2023).
