@@ -41,6 +41,13 @@
   [[paper]( https://arxiv.org/abs/2211.06220)] 
 [[homepage](https://praeclarumjj3.github.io/oneformer)] 
   [[code](https://github.com/SHI-Labs/OneFormer)]
+  
+- **ImageBind:** Rohit Girdhar, Alaaeldin El-Nouby, Zhuang Liu, Mannat Singh, Kalyan Vasudev Alwala, Armand Joulin, Ishan Misra.<br />
+  "ImageBind: One Embedding Space To Bind Them All." CVPR (2023).
+  [[paper](https://arxiv.org/abs/2305.05665)] 
+  [[homepage](https://imagebind.metademolab.com/)] 
+  [[code](https://github.com/facebookresearch/ImageBind)]
+
 
 
 ### Follow-up Papers
