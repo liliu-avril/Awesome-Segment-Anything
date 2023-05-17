@@ -45,6 +45,10 @@
 
 ### Follow-up Papers
 
+- **Leaf Only SAM:** Dominic Williams, Fraser MacFarlane, Avril Britten.<br />
+  "Leaf Only SAM: A Segment Anything Pipeline for Zero-Shot Automated Leaf Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.09418)] 
+
 - **KD-SAM:** Sahib Julka, Michael Granitzer.<br />
   "Knowledge distillation with Segment Anything (SAM) model for Planetary Geological Mapping." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2305.07586)] 
