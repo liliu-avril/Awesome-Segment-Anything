@@ -51,6 +51,20 @@
 
 
 ### Follow-up Papers
+- **PromptUNet:** Junde Wu.<br />
+  "PromptUNet: Toward Interactive Medical Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.10300)] 
+  [[code](https://github.com/WuJunde/PromptUNet)]
+
+
+- **EAC:** Ao Sun, Pingchuan Ma, Yuanyuan Yuan, Shuai Wang.<br />
+  "Explain Any Concept: Segment Anything Meets Concept-Based Explanation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.10289)] 
+
+- Xiao Yang, Haixing Dai, Zihao Wu, Ramesh Bist, Sachin Subedi, Jin Sun, Guoyu Lu, Changying Li, Tianming Liu, Lilong Chai.<br />
+  "SAM for Poultry Science." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.10254)] 
+
 
 - **Leaf Only SAM:** Dominic Williams, Fraser MacFarlane, Avril Britten.<br />
   "Leaf Only SAM: A Segment Anything Pipeline for Zero-Shot Automated Leaf Segmentation." ArXiv (2023).
