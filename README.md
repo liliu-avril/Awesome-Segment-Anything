@@ -57,7 +57,7 @@
   [[code](https://github.com/OpenGVLab/Instruct2Act)]
 
 
-- **WSCOS:** Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li.<br />
+- **WS-SAM:** Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li.<br />
   "Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2305.11003)] 
 
