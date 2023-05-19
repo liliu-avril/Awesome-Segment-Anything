@@ -51,6 +51,28 @@
 
 
 ### Follow-up Papers
+- **Instruct2Act:** Siyuan Huang, Zhengkai Jiang, Hao Dong, Yu Qiao, Peng Gao, Hongsheng Li.<br />
+  "Instruct2Act: Mapping Multi-modality Instructions to Robotic Actions with Large Language Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.11176)] 
+  [[code](https://github.com/OpenGVLab/Instruct2Act)]
+
+
+- **WSCOS:** Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li.<br />
+  "Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.11003)] 
+
+
+- **SAA+:** Yunkang Cao, Xiaohao Xu, Chen Sun, Yuqi Cheng, Zongwei Du, Liang Gao, Weiming Shen.<br />
+  "Segment Any Anomaly without Training via Hybrid Prompt Regularization." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.10724)] 
+  [[code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
+
+
+- **OR-NeRF:** Youtan Yin, Zhoujie Fu, Fan Yang, Guosheng Lin.<br />
+  "OR-NeRF: Object Removing from 3D Scenes Guided by Multiview Segmentation with Neural Radiance Fields." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.10503)] 
+
+
 - **PromptUNet:** Junde Wu.<br />
   "PromptUNet: Toward Interactive Medical Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2305.10300)] 
