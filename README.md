@@ -51,6 +51,28 @@
 
 
 ### Follow-up Papers
+- **Matcher:** Yang Liu, Muzhi Zhu, Hengtao Li, Hao Chen, Xinlong Wang, Chunhua Shen.<br />
+  "Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.13310)] 
+  [[code](https://github.com/aim-uofa/Matcher)]
+
+
+- **RAP:** Jiaxi Jiang, Christian Holz.<br />
+  "Restore Anything Pipeline: Segment Anything Meets Image Restoration." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.13093)] 
+  [[code](https://github.com/eth-siplab/RAP)]
+
+
+- **UVOSAM:** Zhenghao Zhang, Zhichao Wei, Shengfan Zhang, Zuozhuo Dai, Siyu Zhu.<br />
+  "UVOSAM: A Mask-free Paradigm for Unsupervised Video Object Segmentation via Segment Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.12659)] 
+
+
+- **BreastSAM:** Mingzhe Hu, Yuheng Li, Xiaofeng Yang.<br />
+  "BreastSAM: A Study of Segment Anything Model for Breast Tumor Detection in Ultrasound Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.12447)] 
+
+
 - **SAMSh:** Leiping Jie, Hui Zhang.<br />
   "When SAM Meets Shadow Detection." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2305.11513)] 
