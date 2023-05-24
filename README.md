@@ -51,6 +51,16 @@
 
 
 ### Follow-up Papers
+- **SAD:** Jun Cen, Yizheng Wu, Kewei Wang, Xingyi Li, Jingkang Yang, Yixuan Pei, Lingdong Kong, Ziwei Liu, Qifeng Chen.<br />
+  "SAD: Segment Any RGBD." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.14207)] 
+  [[code](https://github.com/Jun-CEN/SegmentAnyRGBD)]
+
+- **SPT:** Zeyu Xiao, Jiawang Bai, Zhihe Lu, Zhiwei Xiong.<br />
+  "A Dive into SAM Prior in Image Restoration." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.13620)] 
+
+
 - **Matcher:** Yang Liu, Muzhi Zhu, Hengtao Li, Hao Chen, Xinlong Wang, Chunhua Shen.<br />
   "Matcher: Segment Anything with One Shot Using All-Purpose Feature Matching." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2305.13310)] 
