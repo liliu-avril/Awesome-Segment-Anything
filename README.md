@@ -51,6 +51,12 @@
 
 
 ### Follow-up Papers
+
+- **SAMScore:** Yunxiang Li, Meixu Chen, Wenxuan Yang, Kai Wang, Jun Ma, Alan C. Bovik, You Zhang.<br />
+  "SAMScore: A Semantic Structural Similarity Metric for Image Translation Evaluation." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2305.15367)] 
+  [[code]( https://github.com/Kent0n-Li/SAMScore)]
+
 - **SAD:** Jun Cen, Yizheng Wu, Kewei Wang, Xingyi Li, Jingkang Yang, Yixuan Pei, Lingdong Kong, Ziwei Liu, Qifeng Chen.<br />
   "SAD: Segment Any RGBD." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2305.14207)] 
