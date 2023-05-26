@@ -51,6 +51,14 @@
 
 
 ### Follow-up Papers
+- **ISA-NeRF:** Xiaokang Chen, Jiaxiang Tang, Diwen Wan, Jingbo Wang, Gang Zeng.<br />
+  "Interactive Segment Anything NeRF with Feature Imitation." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2305.16233)] 
+  [[homepage]( https://me.kiui.moe/san/)]
+
+- Yihao Huang, Yue Cao, Tianlin Li, Felix Juefei-Xu, Di Lin, Ivor W. Tsang, Yang Liu, Qing Guo.<br />
+  "On the Robustness of Segment Anything." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2305.16220)] 
 
 - **SAMScore:** Yunxiang Li, Meixu Chen, Wenxuan Yang, Kai Wang, Jun Ma, Alan C. Bovik, You Zhang.<br />
   "SAMScore: A Semantic Structural Similarity Metric for Image Translation Evaluation." ArXiv (2023).
