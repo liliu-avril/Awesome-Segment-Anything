@@ -51,6 +51,12 @@
 
 
 ### Follow-up Papers
+- **ShadowSAM:** Yonghui Wang, Wengang Zhou, Yunyao Mao, Houqiang Li.<br />
+  "Detect Any Shadow: Segment Anything for Video Shadow Detection." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2305.16698)] 
+[[code](https://github.com/harrytea/Detect-AnyShadow)]
+
+
 - **ISA-NeRF:** Xiaokang Chen, Jiaxiang Tang, Diwen Wan, Jingbo Wang, Gang Zeng.<br />
   "Interactive Segment Anything NeRF with Feature Imitation." ArXiv (2023).
   [[paper]( https://arxiv.org/abs/2305.16233)] 
