@@ -51,6 +51,16 @@
 
 
 ### Follow-up Papers
+- **InstructEdit:** Qian Wang, Biao Zhang, Michael Birsak, Peter Wonka.<br />
+  "InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2305.18047)] 
+  [[code]( https://github.com/QianWangX/InstructEdit)]
+
+- **AIMS:** Lu Qi, Jason Kuen, Weidong Guo, Jiuxiang Gu, Zhe Lin, Bo Du, Yu Xu, Ming-Hsuan Yang.<br />
+  "AIMS: All-Inclusive Multi-Level Segmentation." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2305.17768)] 
+  [[code](https://github.com/dvlab-research/Entity)]
+
 - **ShadowSAM:** Yonghui Wang, Wengang Zhou, Yunyao Mao, Houqiang Li.<br />
   "Detect Any Shadow: Segment Anything for Video Shadow Detection." ArXiv (2023).
   [[paper]( https://arxiv.org/abs/2305.16698)] 
