@@ -50,7 +50,9 @@
 
 
 
-### Follow-up Papers
+### Follow-up Papers (Last updated on: 30 May 2023)
+
+
 - **InstructEdit:** Qian Wang, Biao Zhang, Michael Birsak, Peter Wonka.<br />
   "InstructEdit: Improving Automatic Masks for Diffusion-based Image Editing With User Instructions." ArXiv (2023).
   [[paper]( https://arxiv.org/abs/2305.18047)] 
