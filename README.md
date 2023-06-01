@@ -50,7 +50,11 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 31 &ensp; May &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 1 &ensp; June &ensp; 2023)$ 
+- **FineRewards:** Guian Fang, Zutao Jiang, Jianhua Han, Guangsong Lu, Hang Xu, Xiaodan Liang.<br />
+  "Boosting Text-to-Image Diffusion Models with Fine-Grained Semantic Rewards." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.19599)] 
+  [[code](https://github.com/Enderfga/FineRewards)]
 
 
 - **InstructEdit:** Qian Wang, Biao Zhang, Michael Birsak, Peter Wonka.<br />
