@@ -50,7 +50,13 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 1 &ensp; June &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 2 &ensp; June &ensp; 2023)$ 
+- **DeSAM:** Yifan Gao, Wei Xia, Dingdu Hu, Xin Gao.<br />
+  "DeSAM: Decoupling Segment Anything Model for Generalizable Medical Image Segmentation." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2306.00499)] 
+  [[code]( https://github.com/yifangao112/DeSAM)]
+ 
+ 
 - **FineRewards:** Guian Fang, Zutao Jiang, Jianhua Han, Guangsong Lu, Hang Xu, Xiaodan Liang.<br />
   "Boosting Text-to-Image Diffusion Models with Fine-Grained Semantic Rewards." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2305.19599)] 
