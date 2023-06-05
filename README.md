@@ -50,7 +50,13 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 2 &ensp; June &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 5 &ensp; June &ensp; 2023)$ 
+- **HQ-SAM:** Lei Ke, Mingqiao Ye, Martin Danelljan, Yifan Liu, Yu-Wing Tai, Chi-Keung Tang, Fisher Yu.<br />
+  "Segment Anything in High Quality." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.01567)] 
+  [[code](https://github.com/SysCV/SAM-HQ)]
+
+
 - **DeSAM:** Yifan Gao, Wei Xia, Dingdu Hu, Xin Gao.<br />
   "DeSAM: Decoupling Segment Anything Model for Generalizable Medical Image Segmentation." ArXiv (2023).
   [[paper]( https://arxiv.org/abs/2306.00499)] 
