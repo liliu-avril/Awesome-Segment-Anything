@@ -50,7 +50,29 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 5 &ensp; June &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 6 &ensp; June &ensp; 2023)$ 
+- **Calib-Anything:** Zhaotong Luo, Guohang Yan, Yikang Li.<br />
+  " Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration Method Using Segment Anything." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2306.02656)] 
+  [[code](https://github.com/OpenCalib/CalibAnything)]
+
+-  Shijie Chang, Zeqi Hao, Ben Kang, Xiaoqi Zhao, Jiawen Zhu, Zhenyu Chen, Lihe Zhang, Lu Zhang, Huchuan Lu.<br />
+  " 3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2306.02291)] 
+
+- **USD:** Yulin He, Wei Chen, Yusong Tan, Siqi Wang.<br />
+  " USD: Unknown Sensitive Detector Empowered by Decoupled Objectness and Segment Anything Model." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2306.02275)] 
+
+- **SAM3D:** Dingyuan Zhang, Dingkang Liang, Hongcheng Yang, Zhikang Zou, Xiaoqing Ye, Zhe Liu, Xiang Bai.<br />
+  "SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model." ArXiv (2023).
+  [[paper]( https://arxiv.org/abs/2306.02245)] 
+  [[code]( https://github.com/DYZhang09/SAM3D)]
+
+-  Shehbaz Tariq, Brian Estadimas Arfeto, Chaoning Zhang, Hyundong Shin.<br />
+  "Segment Anything Meets Semantic Communication." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.02094)] 
+
 - **HQ-SAM:** Lei Ke, Mingqiao Ye, Martin Danelljan, Yifan Liu, Yu-Wing Tai, Chi-Keung Tang, Fisher Yu.<br />
   "Segment Anything in High Quality." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.01567)] 
