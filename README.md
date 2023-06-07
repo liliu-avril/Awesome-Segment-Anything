@@ -50,7 +50,17 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 6 &ensp; June &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 7 &ensp; June &ensp; 2023)$ 
+- **CNS:** Runnan Chen, Youquan Liu, Lingdong Kong, Nenglun Chen, Xinge Zhu, Yuexin Ma, Tongliang Liu, Wenping Wang.<br />
+  "Towards Label-free Scene Understanding by Vision Foundation Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.03899)] 
+  [[code](https://github.com/runnanchen/Label-Free-Scene-Understanding)]
+
+- **SAM3D:** Yunhan Yang, Xiaoyang Wu, Tong He, Hengshuang Zhao, Xihui Liu.<br />
+  "SAM3D: Segment Anything in 3D Scenes." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.03908)] 
+  [[code](https://github.com/Pointcept/SegmentAnything3D)]
+
 - **Calib-Anything:** Zhaotong Luo, Guohang Yan, Yikang Li.<br />
   " Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration Method Using Segment Anything." ArXiv (2023).
   [[paper]( https://arxiv.org/abs/2306.02656)] 
