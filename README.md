@@ -48,9 +48,19 @@
   [[homepage](https://imagebind.metademolab.com/)] 
   [[code](https://github.com/facebookresearch/ImageBind)]
 
+- **RAM:** Youcai Zhang, Xinyu Huang, Jinyu Ma, Zhaoyang Li, Zhaochuan Luo, Yanchun Xie, Yuzhuo Qin, Tong Luo, Yaqian Li, Shilong Liu, Yandong Guo, Lei Zhang.<br />
+  "Recognize Anything: A Strong Image Tagging Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.03514)] 
+  [[homepage](https://recognize-anything.github.io/)] 
+  [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 7 &ensp; June &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 8 &ensp; June &ensp; 2023)$ 
+- **MatAny:** Jingfeng Yao, Xinggang Wang, Lang Ye, Wenyu Liu.<br />
+  "Matte Anything: Interactive Natural Image Matting with Segment Anything Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.04121)] 
+  [[code](https://github.com/hustvl/Matte-Anything)]
+
 - **CNS:** Runnan Chen, Youquan Liu, Lingdong Kong, Nenglun Chen, Xinge Zhu, Yuexin Ma, Tongliang Liu, Wenping Wang.<br />
   "Towards Label-free Scene Understanding by Vision Foundation Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.03899)] 
