@@ -55,7 +55,17 @@
   [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 8 &ensp; June &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 9 &ensp; June &ensp; 2023)$ 
+- **MAM:** Jiachen Li, Jitesh Jain, Humphrey Shi.<br />
+  "Matting Anything." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.05399)] 
+  [[code](https://chrisjuniorli.github.io/project/Matting-Anything/)]
+
+-  Haochen Xue, Mingyu Jin, Chong Zhang, Yuxuan Huang, Qian Weng, Xiaobo Jin.<br />
+  "Automatic Image Blending Algorithm Based on SAM and DINO." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.05382)] 
+
+
 - **MatAny:** Jingfeng Yao, Xinggang Wang, Lang Ye, Wenyu Liu.<br />
   "Matte Anything: Interactive Natural Image Matting with Segment Anything Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.04121)] 
