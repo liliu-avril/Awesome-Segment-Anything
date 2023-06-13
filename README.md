@@ -1,7 +1,7 @@
 # Awesome Segment Anything
 ## Welcome to summit your project [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)]
 ## Survey
-- **SAM Survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
+- **The First Comprehensive SAM Survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
   "A Comprehensive Survey on Segment Anything Model for Vision and Beyond." ArXiv (2023).
   [[paper]( https://arxiv.org/abs/2305.08196)] 
   [[homepage]( https://github.com/liliu-avril/Awesome-Segment-Anything)] 
@@ -55,7 +55,21 @@
   [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 9 &ensp; June &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 13 &ensp; June &ensp; 2023)$ 
+- **AutoSAM:** Tal Shaharabany, Aviad Dahan, Raja Giryes, Lior Wolf.<br />
+  "AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.06370)] 
+ 
+- **SAM-shadow:** Xiaofeng Zhang, Chaochen Gu, Shanying Zhu.<br />
+  "SAM-helps-Shadow:When Segment Anything Model meet shadow removal." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.06113)] 
+  [[code]( https://github.com/zhangbaijin/SAM-helps-Shadow)]
+
+- Chaoning Zhang, Sheng Zheng, Chenghao Li, Yu Qiao, Taegoo Kang, Xinru Shan, Chenshuang Zhang, Caiyan Qin, Francois Rameau, Sung-Ho Bae, Choong Seon Hong.<br />
+  "A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.06211)] 
+
+
 - **MAM:** Jiachen Li, Jitesh Jain, Humphrey Shi.<br />
   "Matting Anything." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.05399)] 
@@ -552,3 +566,15 @@
 - [Awesome Segment Anything](https://github.com/Hedlen/awesome-segment-anything)
 - [Awesome-Segment-Anything](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything)
 - [Awesome-segment-anything-extensions](https://github.com/JerryX1110/awesome-segment-anything-extensions)
+
+## Citing SAM Survey
+If this survey is useful in your research, please use the following BibTeX entry.
+
+```
+@article{kirillov2023segany,
+  title={A Comprehensive Survey on Segment Anything Model for Vision and Beyond},
+  author={Chunhui Zhang, and Li Liu, and Yawen Cui, and Guanjie Huang, and Weilin Lin, and Yiqian Yang, and Yuehong Hu},
+  journal={arXiv:2305.08196},
+  year={2023}
+}
+```
