@@ -1,7 +1,7 @@
 # Awesome Segment Anything
 ## Welcome to summit your project [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)]
 ## Survey
-- **SAM Survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
+- **The First Comprehensive SAM Survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
   "A Comprehensive Survey on Segment Anything Model for Vision and Beyond." ArXiv (2023).
   [[paper]( https://arxiv.org/abs/2305.08196)] 
   [[homepage]( https://github.com/liliu-avril/Awesome-Segment-Anything)] 
