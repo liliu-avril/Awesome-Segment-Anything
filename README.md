@@ -1,7 +1,7 @@
 # Awesome Segment Anything
 ## Welcome to summit your project [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)]
 ## Survey
-- **The First Comprehensive SAM Survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
+- **SAM Survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
   "A Comprehensive Survey on Segment Anything Model for Vision and Beyond." ArXiv (2023).
   [[paper]( https://arxiv.org/abs/2305.08196)] 
   [[homepage]( https://github.com/liliu-avril/Awesome-Segment-Anything)] 
@@ -67,8 +67,7 @@
 
 - Chaoning Zhang, Sheng Zheng, Chenghao Li, Yu Qiao, Taegoo Kang, Xinru Shan, Chenshuang Zhang, Caiyan Qin, Francois Rameau, Sung-Ho Bae, Choong Seon Hong.<br />
   "A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2306.06211)] 
-
+  [[paper](https://arxiv.org/abs/2306.06211)]
 
 - **MAM:** Jiachen Li, Jitesh Jain, Humphrey Shi.<br />
   "Matting Anything." ArXiv (2023).
@@ -568,13 +567,15 @@
 - [Awesome-segment-anything-extensions](https://github.com/JerryX1110/awesome-segment-anything-extensions)
 
 ## Citing SAM Survey
+
 If this survey is useful in your research, please use the following BibTeX entry.
 
 ```
-@article{kirillov2023segany,
+@article{chunhui2023samsurvey,
   title={A Comprehensive Survey on Segment Anything Model for Vision and Beyond},
-  author={Chunhui Zhang, and Li Liu, and Yawen Cui, and Guanjie Huang, and Weilin Lin, and Yiqian Yang, and Yuehong Hu},
-  journal={arXiv:2305.08196},
+  author={Zhang, Chunhui and Liu, Li and Cui, Yawen and Huang, Guanjie and Lin, Weilin and Yang, Yiqian and Hu, Yuehong},
+  journal={arXiv:2304.02643},
   year={2023}
 }
 ```
+
