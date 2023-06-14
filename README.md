@@ -55,7 +55,11 @@
   [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 13 &ensp; June &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 14 &ensp; June &ensp; 2023)$ 
+- Yu Qiao, Chaoning Zhang, Taegoo Kang, Donghun Kim, Shehbaz Tariq, Chenshuang Zhang, Choong Seon Hong.<br />
+  "Robustness of SAM: Segment Anything Under Corruptions and Beyond." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.07713)] 
+
 - **AutoSAM:** Tal Shaharabany, Aviad Dahan, Raja Giryes, Lior Wolf.<br />
   "AutoSAM: Adapting SAM to Medical Images by Overloading the Prompt Encoder." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.06370)] 
