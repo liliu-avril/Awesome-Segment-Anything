@@ -70,10 +70,11 @@
   [[paper](https://arxiv.org/abs/2306.08609)] 
   [[code](https://github.com/fsemerar/SlicerTomoSAM)]
   
-:boom: Madeline Chantry Schiappa, Sachidanand VS, Yunhao Ge, Ondrej Miksik, Yogesh S. Rawat, Vibhav Vineet.<br />
-  "Madeline Chantry Schiappa, Sachidanand VS, Yunhao Ge, Ondrej Miksik, Yogesh S. Rawat, Vibhav Vineet." ArXiv (2023).
+:boom:Madeline Chantry Schiappa, Sachidanand VS, Yunhao Ge, Ondrej Miksik, Yogesh S. Rawat, Vibhav Vineet.<br />
+  "Robustness Analysis on Foundational Segmentation Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.09278)] 
   [[code](https://tinyurl.com/fm-robust)]
+
   
 
 - Yu Qiao, Chaoning Zhang, Taegoo Kang, Donghun Kim, Shehbaz Tariq, Chenshuang Zhang, Choong Seon Hong.<br />
