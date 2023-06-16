@@ -56,16 +56,16 @@
 
 
 ### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 16 &ensp; June &ensp; 2023)$ 
-- **SAA+:** Yunkang Cao, Xiaohao Xu, Chen Sun, Yuqi Cheng, Liang Gao, Weiming Shen.<br />
+:boom:**SAA+:** Yunkang Cao, Xiaohao Xu, Chen Sun, Yuqi Cheng, Liang Gao, Weiming Shen.<br />
   "Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection." CVPR2023 Workshop.
   [[paper](https://arxiv.org/abs/2306.09067)] 
   [[code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
 
-- **TEPO:** Chuyun Shen, Wenhao Li, Ya Zhang, Xiangfeng Wang.<br />
+:boom:**TEPO:** Chuyun Shen, Wenhao Li, Ya Zhang, Xiangfeng Wang.<br />
   "Temporally-Extended Prompts Optimization for SAM in Interactive Medical Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.08958)] 
 
-- **TomoSAM:** Federico Semeraro, Alexandre Quintart, Sergio Fraile Izquierdo, Joseph C. Ferguson.<br />
+:boom:**TomoSAM:** Federico Semeraro, Alexandre Quintart, Sergio Fraile Izquierdo, Joseph C. Ferguson.<br />
   "TomoSAM: a 3D Slicer extension using SAM for tomography segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.08609)] 
   [[code](https://github.com/fsemerar/SlicerTomoSAM)]
