@@ -4,7 +4,7 @@
 - **The First Comprehensive SAM Survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
   "A Comprehensive Survey on Segment Anything Model for Vision and Beyond." ArXiv (2023).
   [[paper]( https://arxiv.org/abs/2305.08196)] 
-  [[homepage]( https://github.com/liliu-avril/Awesome-Segment-Anything)] 
+  [[homepage]( https://github.com/liliu-avril/Awesome-Segment-Anything)][[中文解读](https://mp.weixin.qq.com/s/uYpRzvRp22-40x8e0pLVIg)] 
 
 
 ## Papers
