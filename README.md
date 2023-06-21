@@ -55,28 +55,36 @@
   [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 16 &ensp; June &ensp; 2023)$ 
-:boom:**SAA+:** Yunkang Cao, Xiaohao Xu, Chen Sun, Yuqi Cheng, Liang Gao, Weiming Shen.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 21 &ensp; June &ensp; 2023)$ 
+:boom:Lian Zhang, Zhengliang Liu, Lu Zhang, Zihao Wu, Xiaowei Yu, Jason Holmes, Hongying Feng, Haixing Dai, Xiang Li, Quanzheng Li, Dajiang Zhu, Tianming Liu, Wei Liu.<br />
+  "Segment Anything Model (SAM) for Radiation Oncology." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.11730)] 
+
+:boom:**Enlighten-Anything:** Qihan Zhao, Xiaofeng Zhang, Hao Tang, Chaochen Gu, Shanying Zhu.<br />
+  "Enlighten-anything:When Segment Anything Model Meets Low-light Image Enhancement." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.10286)] 
+  [[code](https://github.com/zhangbaijin/enlighten-anything)]
+
+- **SAA+:** Yunkang Cao, Xiaohao Xu, Chen Sun, Yuqi Cheng, Liang Gao, Weiming Shen.<br />
   "Winning Solution for the CVPR2023 Visual Anomaly and Novelty Detection Challenge: Multimodal Prompting for Data-centric Anomaly Detection." CVPR2023 Workshop.
   [[paper](https://arxiv.org/abs/2306.09067)] 
   [[code](https://github.com/caoyunkang/Segment-Any-Anomaly)]
 
-:boom:**TEPO:** Chuyun Shen, Wenhao Li, Ya Zhang, Xiangfeng Wang.<br />
+- **TEPO:** Chuyun Shen, Wenhao Li, Ya Zhang, Xiangfeng Wang.<br />
   "Temporally-Extended Prompts Optimization for SAM in Interactive Medical Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.08958)] 
 
-:boom:**TomoSAM:** Federico Semeraro, Alexandre Quintart, Sergio Fraile Izquierdo, Joseph C. Ferguson.<br />
+- **TomoSAM:** Federico Semeraro, Alexandre Quintart, Sergio Fraile Izquierdo, Joseph C. Ferguson.<br />
   "TomoSAM: a 3D Slicer extension using SAM for tomography segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.08609)] 
   [[code](https://github.com/fsemerar/SlicerTomoSAM)]
   
-:boom:Madeline Chantry Schiappa, Sachidanand VS, Yunhao Ge, Ondrej Miksik, Yogesh S. Rawat, Vibhav Vineet.<br />
+- Madeline Chantry Schiappa, Sachidanand VS, Yunhao Ge, Ondrej Miksik, Yogesh S. Rawat, Vibhav Vineet.<br />
   "Robustness Analysis on Foundational Segmentation Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.09278)] 
   [[code](https://tinyurl.com/fm-robust)]
 
   
-
 - Yu Qiao, Chaoning Zhang, Taegoo Kang, Donghun Kim, Shehbaz Tariq, Chenshuang Zhang, Choong Seon Hong.<br />
   "Robustness of SAM: Segment Anything Under Corruptions and Beyond." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.07713)] 
