@@ -55,18 +55,23 @@
   [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 21 &ensp; June &ensp; 2023)$ 
-:boom:**Seal:** Youquan Liu, Lingdong Kong, Jun Cen, Runnan Chen, Wenwei Zhang, Liang Pan, Kai Chen, Ziwei Liu.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 22 &ensp; June &ensp; 2023)$ 
+:boom:**FastSAM:** Xu Zhao, Wenchao Ding, Yongqi An, Yinglong Du, Tao Yu, Min Li, Ming Tang, Jinqiao Wang.<br />
+  "Fast Segment Anything." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.12156)] 
+  [[code](https://github.com/CASIA-IVA-Lab/FastSAM)]
+
+- **Seal:** Youquan Liu, Lingdong Kong, Jun Cen, Runnan Chen, Wenwei Zhang, Liang Pan, Kai Chen, Ziwei Liu.<br />
   "Segment Any Point Cloud Sequences by Distilling Vision Foundation Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.09347)] 
   [[code](https://github.com/youquanl/Segment-Any-Point-Cloud)]
   [[homepage](https://ldkong.com/Seal)]
 
-:boom:Lian Zhang, Zhengliang Liu, Lu Zhang, Zihao Wu, Xiaowei Yu, Jason Holmes, Hongying Feng, Haixing Dai, Xiang Li, Quanzheng Li, Dajiang Zhu, Tianming Liu, Wei Liu.<br />
+- Lian Zhang, Zhengliang Liu, Lu Zhang, Zihao Wu, Xiaowei Yu, Jason Holmes, Hongying Feng, Haixing Dai, Xiang Li, Quanzheng Li, Dajiang Zhu, Tianming Liu, Wei Liu.<br />
   "Segment Anything Model (SAM) for Radiation Oncology." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.11730)] 
 
-:boom:**Enlighten-Anything:** Qihan Zhao, Xiaofeng Zhang, Hao Tang, Chaochen Gu, Shanying Zhu.<br />
+- **Enlighten-Anything:** Qihan Zhao, Xiaofeng Zhang, Hao Tang, Chaochen Gu, Shanying Zhu.<br />
   "Enlighten-anything:When Segment Anything Model Meets Low-light Image Enhancement." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.10286)] 
   [[code](https://github.com/zhangbaijin/enlighten-anything)]
