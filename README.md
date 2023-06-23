@@ -56,7 +56,16 @@
 
 
 ### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 22 &ensp; June &ensp; 2023)$ 
-:boom:**FastSAM:** Xu Zhao, Wenchao Ding, Yongqi An, Yinglong Du, Tao Yu, Min Li, Ming Tang, Jinqiao Wang.<br />
+:boom:**SAM-LST:** Shurong Chai, Rahul Kumar Jain, Shiyu Teng, Jiaqing Liu, Yinhao Li, Tomoko Tateyama, Yen-wei Chen.<br />
+  "Ladder Fine-tuning approach for SAM integrating complementary network." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.12737)] 
+  [[code](https://github.com/11yxk/SAM-LST)]
+
+:boom:Mohsen Ahmadi, Masoumeh Farhadi Nia, Sara Asgarian, Kasra Danesh, Elyas Irankhah, Ahmad Gholizadeh Lonbar, Abbas Sharifi.<br />
+  "Comparative Analysis of Segment Anything Model and U-Net for Breast Tumor Detection in Ultrasound and Mammography Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.12510)] 
+
+- **FastSAM:** Xu Zhao, Wenchao Ding, Yongqi An, Yinglong Du, Tao Yu, Min Li, Ming Tang, Jinqiao Wang.<br />
   "Fast Segment Anything." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.12156)] 
   [[code](https://github.com/CASIA-IVA-Lab/FastSAM)]
