@@ -55,7 +55,7 @@
   [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 22 &ensp; June &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 23 &ensp; June &ensp; 2023)$ 
 :boom:**SAM-LST:** Shurong Chai, Rahul Kumar Jain, Shiyu Teng, Jiaqing Liu, Yinhao Li, Tomoko Tateyama, Yen-wei Chen.<br />
   "Ladder Fine-tuning approach for SAM integrating complementary network." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.12737)] 
