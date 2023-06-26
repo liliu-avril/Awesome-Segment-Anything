@@ -55,13 +55,22 @@
   [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 23 &ensp; June &ensp; 2023)$ 
-:boom:**SAM-LST:** Shurong Chai, Rahul Kumar Jain, Shiyu Teng, Jiaqing Liu, Yinhao Li, Tomoko Tateyama, Yen-wei Chen.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 26 &ensp; June &ensp; 2023)$ 
+:boom:**3DSAM-adapter:** Shizhan Gong, Yuan Zhong, Wenao Ma, Jinpeng Li, Zhao Wang, Jingyang Zhang, Pheng-Ann Heng, Qi Dou.<br />
+  "3DSAM-adapter: Holistic Adaptation of SAM from 2D to 3D for Promptable Medical Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.13465)] 
+  [[code](https://github.com/med-air/3DSAM-adapter)]
+
+:boom:Xinru Shan, Chaoning Zhang.<br />
+  "Robustness of Segment Anything Model (SAM) for Autonomous Driving in Adverse Weather Conditions." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.13290)] 
+
+- **SAM-LST:** Shurong Chai, Rahul Kumar Jain, Shiyu Teng, Jiaqing Liu, Yinhao Li, Tomoko Tateyama, Yen-wei Chen.<br />
   "Ladder Fine-tuning approach for SAM integrating complementary network." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.12737)] 
   [[code](https://github.com/11yxk/SAM-LST)]
 
-:boom:Mohsen Ahmadi, Masoumeh Farhadi Nia, Sara Asgarian, Kasra Danesh, Elyas Irankhah, Ahmad Gholizadeh Lonbar, Abbas Sharifi.<br />
+- Mohsen Ahmadi, Masoumeh Farhadi Nia, Sara Asgarian, Kasra Danesh, Elyas Irankhah, Ahmad Gholizadeh Lonbar, Abbas Sharifi.<br />
   "Comparative Analysis of Segment Anything Model and U-Net for Breast Tumor Detection in Ultrasound and Mammography Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.12510)] 
 
