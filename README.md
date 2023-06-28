@@ -56,6 +56,12 @@
 
 
 ### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 28 &ensp; June &ensp; 2023)$ 
+:boom:**MMPM:** Jiange Yang, Wenhui Tan, Chuhao Jin, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang.<br />
+  "Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.05716)] 
+  [[YouTube](https://www.youtube.com/watch?v=1m9wNzfp_4E)]
+  [[Bilibili](https://www.bilibili.com/video/BV178411Z7H2/)]
+
 :boom:**CellViT:** Fabian Hörst, Moritz Rempe, Lukas Heine, Constantin Seibold, Julius Keyl, Giulia Baldini, Selma Ugurel, Jens Siveke, Barbara Grünwald, Jan Egger, Jens Kleesiek.<br />
   "CellViT: Vision Transformers for Precise Cell Segmentation and Classification." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.15350)] 
