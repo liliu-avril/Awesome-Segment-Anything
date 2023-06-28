@@ -55,23 +55,28 @@
   [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 27 &ensp; June &ensp; 2023)$ 
-:boom:**MedLSAM:** Wenhui Lei, Xu Wei, Xiaofan Zhang, Kang Li, Shaoting Zhang.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 28 &ensp; June &ensp; 2023)$ 
+:boom:**CellViT:** Fabian Hörst, Moritz Rempe, Lukas Heine, Constantin Seibold, Julius Keyl, Giulia Baldini, Selma Ugurel, Jens Siveke, Barbara Grünwald, Jan Egger, Jens Kleesiek.<br />
+  "CellViT: Vision Transformers for Precise Cell Segmentation and Classification." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.15350)] 
+  [[code](https://github.com/TIO-IKIM/CellViT)]
+
+- **MedLSAM:** Wenhui Lei, Xu Wei, Xiaofan Zhang, Kang Li, Shaoting Zhang.<br />
   "MedLSAM: Localize and Segment Anything Model for 3D Medical Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.14752)] 
   [[code](https://github.com/openmedlab/MedLSAM)]
 
-:boom:**MobileSAM:** Chaoning Zhang, Dongshen Han, Yu Qiao, Jung Uk Kim, Sung-Ho Bae, Seungkyu Lee, Choong Seon Hong.<br />
+- **MobileSAM:** Chaoning Zhang, Dongshen Han, Yu Qiao, Jung Uk Kim, Sung-Ho Bae, Seungkyu Lee, Choong Seon Hong.<br />
   "Faster Segment Anything: Towards Lightweight SAM for Mobile Applications." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.14289)] 
   [[code](https://github.com/ChaoningZhang/MobileSAM)]
 
-:boom:**SonarSAM:** Lin Wang, Xiufen Ye, Liqiang Zhu, Weijie Wu, Jianguo Zhang, Huiming Xing, Chao Hu.<br />
+- **SonarSAM:** Lin Wang, Xiufen Ye, Liqiang Zhu, Weijie Wu, Jianguo Zhang, Huiming Xing, Chao Hu.<br />
   "When SAM Meets Sonar Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.14109)] 
   [[code](https://github.com/wangsssky/SonarSAM)]
 
-:boom:**AutoSAM:** Xinrong Hu, Xiaowei Xu, Yiyu Shi.<br />
+- **AutoSAM:** Xinrong Hu, Xiaowei Xu, Yiyu Shi.<br />
   "How to Efficiently Adapt Large Segmentation Model(SAM) to Medical Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.13731)] 
   [[code](https://github.com/xhu248/AutoSAM)]
