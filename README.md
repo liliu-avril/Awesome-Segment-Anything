@@ -55,14 +55,36 @@
   [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 28 &ensp; June &ensp; 2023)$ 
-:boom:**MMPM:** Jiange Yang, Wenhui Tan, Chuhao Jin, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 29 &ensp; June &ensp; 2023)$ 
+:boom:**RSPrompter:** Keyan Chen, Chenyang Liu, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Zou, Zhenwei Shi.<br />
+  "RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.16269)] 
+  [[code](https://kyanchen.github.io/RSPrompter)]
+
+:boom:Zhewei Chen, Wai Keung Wong, Zuofeng Zhong, Jinpiao Liao, Ying Qu.<br />
+  "Effective Transfer of Pretrained Large Visual Model for Fabric Defect Segmentation via Specifc Knowledge Injection." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.16186)] 
+
+:boom:Zheyan Jin, Shiqi Chen, Yueting Chen, Zhihai Xu, Huajun Feng.<br />
+  "Let Segment Anything Help Image Dehaze." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.15870)] 
+
+:boom:**CLIP-SAM:** Evan Kellener, Ihina Nath, An Ngo, Thomas Nguyen, Joshua Schuman, Coen Adler, Arnav Kartikeya.<br />
+  "Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.15692)] 
+ 
+:boom:**MESS:** Benedikt Blumenstiel, Johannes Jakubik, Hilde Kühne, Michael Vössing.<br />
+  "What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.15521)] 
+  [[code](https://github.com/blumenstiel/MESS)]
+
+- **MMPM:** Jiange Yang, Wenhui Tan, Chuhao Jin, Bei Liu, Jianlong Fu, Ruihua Song, Limin Wang.<br />
   "Pave the Way to Grasp Anything: Transferring Foundation Models for Universal Pick-Place Robots." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.05716)] 
   [[YouTube](https://www.youtube.com/watch?v=1m9wNzfp_4E)]
   [[Bilibili](https://www.bilibili.com/video/BV178411Z7H2/)]
 
-:boom:**CellViT:** Fabian Hörst, Moritz Rempe, Lukas Heine, Constantin Seibold, Julius Keyl, Giulia Baldini, Selma Ugurel, Jens Siveke, Barbara Grünwald, Jan Egger, Jens Kleesiek.<br />
+- **CellViT:** Fabian Hörst, Moritz Rempe, Lukas Heine, Constantin Seibold, Julius Keyl, Giulia Baldini, Selma Ugurel, Jens Siveke, Barbara Grünwald, Jan Egger, Jens Kleesiek.<br />
   "CellViT: Vision Transformers for Precise Cell Segmentation and Classification." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.15350)] 
   [[code](https://github.com/TIO-IKIM/CellViT)]
