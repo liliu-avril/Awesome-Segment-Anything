@@ -54,26 +54,42 @@
   [[homepage](https://recognize-anything.github.io/)] 
   [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
+:boom:**PACGen:** Yuheng Li, Haotian Liu, Yangming Wen, Yong Jae Lee.<br />
+  "Generate Anything Anywhere in Any Scene." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.17154)] 
+ [[homepage](https://github.com/Yuheng-Li/PACGen)] 
+  [[code](https://yuheng-li.github.io/PACGen/)]
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 29 &ensp; June &ensp; 2023)$ 
-:boom:**RSPrompter:** Keyan Chen, Chenyang Liu, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Zou, Zhenwei Shi.<br />
+
+
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 30 &ensp; June &ensp; 2023)$ 
+:boom:**DADF:** Yingxin Lai, Zhiming Luo, Zitong Yu.<br />
+  "Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.17075)] 
+  [[code](https://github.com/laiyingxin2/DADF)]
+
+:boom:Lucas Prado Osco, Qiusheng Wu, Eduardo Lopes de Lemos, Wesley Nunes Gonçalves, Ana Paula Marques Ramos, Jonathan Li, José Marcato Junior.<br />
+  "The Segment Anything Model (SAM) for Remote Sensing Applications: From Zero to One Shot." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.16623)] 
+
+- **RSPrompter:** Keyan Chen, Chenyang Liu, Hao Chen, Haotian Zhang, Wenyuan Li, Zhengxia Zou, Zhenwei Shi.<br />
   "RSPrompter: Learning to Prompt for Remote Sensing Instance Segmentation based on Visual Foundation Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.16269)] 
   [[code](https://kyanchen.github.io/RSPrompter)]
 
-:boom:Zhewei Chen, Wai Keung Wong, Zuofeng Zhong, Jinpiao Liao, Ying Qu.<br />
+- Zhewei Chen, Wai Keung Wong, Zuofeng Zhong, Jinpiao Liao, Ying Qu.<br />
   "Effective Transfer of Pretrained Large Visual Model for Fabric Defect Segmentation via Specifc Knowledge Injection." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.16186)] 
 
-:boom:Zheyan Jin, Shiqi Chen, Yueting Chen, Zhihai Xu, Huajun Feng.<br />
+- Zheyan Jin, Shiqi Chen, Yueting Chen, Zhihai Xu, Huajun Feng.<br />
   "Let Segment Anything Help Image Dehaze." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.15870)] 
 
-:boom:**CLIP-SAM:** Evan Kellener, Ihina Nath, An Ngo, Thomas Nguyen, Joshua Schuman, Coen Adler, Arnav Kartikeya.<br />
+- **CLIP-SAM:** Evan Kellener, Ihina Nath, An Ngo, Thomas Nguyen, Joshua Schuman, Coen Adler, Arnav Kartikeya.<br />
   "Utilizing Segment Anything Model For Assessing Localization of GRAD-CAM in Medical Imaging." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.15692)] 
  
-:boom:**MESS:** Benedikt Blumenstiel, Johannes Jakubik, Hilde Kühne, Michael Vössing.<br />
+- **MESS:** Benedikt Blumenstiel, Johannes Jakubik, Hilde Kühne, Michael Vössing.<br />
   "What a MESS: Multi-Domain Evaluation of Zero-Shot Semantic Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.15521)] 
   [[code](https://github.com/blumenstiel/MESS)]
