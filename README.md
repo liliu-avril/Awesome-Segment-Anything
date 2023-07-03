@@ -54,7 +54,7 @@
   [[homepage](https://recognize-anything.github.io/)] 
   [[code](https://github.com/xinyu1205/Recognize_Anything-Tag2Text)]
 
-:boom:**PACGen:** Yuheng Li, Haotian Liu, Yangming Wen, Yong Jae Lee.<br />
+- **PACGen:** Yuheng Li, Haotian Liu, Yangming Wen, Yong Jae Lee.<br />
   "Generate Anything Anywhere in Any Scene." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.17154)] 
  [[homepage](https://github.com/Yuheng-Li/PACGen)] 
@@ -62,13 +62,17 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 30 &ensp; June &ensp; 2023)$ 
-:boom:**DADF:** Yingxin Lai, Zhiming Luo, Zitong Yu.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 3 &ensp; July &ensp; 2023)$ 
+:boom:**TDA:** Ruben Glatt, Shusen Liu.<br />
+  "Topological Data Analysis Guided Segment Anything Model Prompt Optimization for Zero-Shot Segmentation in Biological Imaging." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.17400)] 
+
+- **DADF:** Yingxin Lai, Zhiming Luo, Zitong Yu.<br />
   "Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.17075)] 
   [[code](https://github.com/laiyingxin2/DADF)]
 
-:boom:Lucas Prado Osco, Qiusheng Wu, Eduardo Lopes de Lemos, Wesley Nunes Gonçalves, Ana Paula Marques Ramos, Jonathan Li, José Marcato Junior.<br />
+- Lucas Prado Osco, Qiusheng Wu, Eduardo Lopes de Lemos, Wesley Nunes Gonçalves, Ana Paula Marques Ramos, Jonathan Li, José Marcato Junior.<br />
   "The Segment Anything Model (SAM) for Remote Sensing Applications: From Zero to One Shot." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.16623)] 
 
