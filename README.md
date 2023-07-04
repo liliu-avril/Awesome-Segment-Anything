@@ -93,6 +93,10 @@
   [[paper](https://arxiv.org/abs/2307.00038)] 
   [[code](https://github.com/shizenglin/training-free-object-counter)]
 
+:boom:Xiaoyu Shi, Shurong Chai, Yinhao Li, Jingliang Cheng, Jie Bai, Guohua Zhao, Yen-Wei Chen.<br />
+  "Cross-modality Attention Adapter: A Glioma Segmentation Fine-tuning Method for SAM Using Multimodal Brain MR Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.01124)] 
+
 
 - **TDA:** Ruben Glatt, Shusen Liu.<br />
   "Topological Data Analysis Guided Segment Anything Model Prompt Optimization for Zero-Shot Segmentation in Biological Imaging." ArXiv (2023).
