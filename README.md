@@ -62,38 +62,42 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 4 &ensp; July &ensp; 2023)$ 
-:boom:**SAM-PT:** Frano Rajič, Lei Ke, Yu-Wing Tai, Chi-Keung Tang, Martin Danelljan, Fisher Yu.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 6 &ensp; July &ensp; 2023)$ 
+:boom:**EM-SAM:** Ao Cheng, Guoqiang Zhao, Lirong Wang, Ruobing Zhang.<br />
+  "AxonCallosumEM Dataset: Axon Semantic Segmentation of Whole Corpus Callosum cross section from EM Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.02464)] 
+
+- **SAM-PT:** Frano Rajič, Lei Ke, Yu-Wing Tai, Chi-Keung Tang, Martin Danelljan, Fisher Yu.<br />
   "Segment Anything Meets Point Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.01197)] 
   [[code](https://github.com/SysCV/sam-pt)]
 
-:boom:**SAMAug:** Haixing Dai, Chong Ma, Zhengliang Liu, Yiwei Li, Peng Shu, Xiaozheng Wei, Lin Zhao, Zihao Wu, Dajiang Zhu, Wei Liu, Quanzheng Li, Tianming Liu, Xiang Li.<br />
+- **SAMAug:** Haixing Dai, Chong Ma, Zhengliang Liu, Yiwei Li, Peng Shu, Xiaozheng Wei, Lin Zhao, Zihao Wu, Dajiang Zhu, Wei Liu, Quanzheng Li, Tianming Liu, Xiang Li.<br />
   "SAMAug: Point Prompt Augmentation for Segment Anything Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.01187)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 
-:boom:**SAM-DA:** Liangliang Yao, Haobo Zuo, Guangze Zheng, Changhong Fu, Jia Pan.<br />
+- **SAM-DA:** Liangliang Yao, Haobo Zuo, Guangze Zheng, Changhong Fu, Jia Pan.<br />
   "SAM-DA: UAV Tracks Anything at Night with SAM-Powered Domain Adaptation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.01024)] 
   [[code](https://github.com/vision4robotics/SAM-DA)]
 
-:boom:**RefSAM:** Yonglin Li, Jing Zhang, Xiao Teng, Long Lan.<br />
+- **RefSAM:** Yonglin Li, Jing Zhang, Xiao Teng, Long Lan.<br />
   "RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.00997)] 
   [[code](https://github.com/LancasterLi/RefSAM)]
 
-:boom:**All-in-SAM:** Can Cui, Ruining Deng, Quan Liu, Tianyuan Yao, Shunxing Bao, Lucas W. Remedios, Yucheng Tang, Yuankai Huo.<br />
+- **All-in-SAM:** Can Cui, Ruining Deng, Quan Liu, Tianyuan Yao, Shunxing Bao, Lucas W. Remedios, Yucheng Tang, Yuankai Huo.<br />
   "All-in-SAM: from Weak Annotation to Pixel-wise Nuclei Segmentation with Prompt-based Finetuning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.00290)] 
   
 
-:boom:Zenglin Shi, Ying Sun, Mengmi Zhang.<br />
+- Zenglin Shi, Ying Sun, Mengmi Zhang.<br />
   "Training-free Object Counting with Prompts." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.00038)] 
   [[code](https://github.com/shizenglin/training-free-object-counter)]
 
-:boom:Xiaoyu Shi, Shurong Chai, Yinhao Li, Jingliang Cheng, Jie Bai, Guohua Zhao, Yen-Wei Chen.<br />
+- Xiaoyu Shi, Shurong Chai, Yinhao Li, Jingliang Cheng, Jie Bai, Guohua Zhao, Yen-Wei Chen.<br />
   "Cross-modality Attention Adapter: A Glioma Segmentation Fine-tuning Method for SAM Using Multimodal Brain MR Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.01124)] 
 
