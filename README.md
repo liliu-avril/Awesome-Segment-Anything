@@ -62,8 +62,12 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 6 &ensp; July &ensp; 2023)$ 
-:boom:**EM-SAM:** Ao Cheng, Guoqiang Zhao, Lirong Wang, Ruobing Zhang.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 7 &ensp; July &ensp; 2023)$ 
+:boom:**MSDeAOT:** Yuanyou Xu, Jiahao Li, Zongxin Yang, Yi Yang, Yueting Zhuang.<br />
+  "ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.02508)] 
+
+- **EM-SAM:** Ao Cheng, Guoqiang Zhao, Lirong Wang, Ruobing Zhang.<br />
   "AxonCallosumEM Dataset: Axon Semantic Segmentation of Whole Corpus Callosum cross section from EM Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.02464)] 
 
