@@ -62,8 +62,16 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 7 &ensp; July &ensp; 2023)$ 
-:boom:**MSDeAOT:** Yuanyou Xu, Jiahao Li, Zongxin Yang, Yi Yang, Yueting Zhuang.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 10 &ensp; July &ensp; 2023)$ 
+:boom:**Cross-SAM:** Xiaoyu Bai, Fan Bai, Xiaofei Huo, Jia Ge, Tony C. W. Mok, Zi Li, Minfeng Xu, Jingren Zhou, Le Lu, Dakai Jin, Xianghua Ye, Jingjing Lu, Ke Yan.<br />
+  "Matching in the Wild: Learning Anatomical Embeddings for Multi-Modality Images." ArXiv (2023).
+  [[paper]()] 
+
+:boom:**LAM-SC:** Feibo Jiang, Yubo Peng, Li Dong, Kezhi Wang, Kun Yang, Cunhua Pan, Xiaohu You.<br />
+  "Large AI Model-Based Semantic Communications." ArXiv (2023).
+  [[paper]()] 
+
+- **MSDeAOT:** Yuanyou Xu, Jiahao Li, Zongxin Yang, Yi Yang, Yueting Zhuang.<br />
   "ZJU ReLER Submission for EPIC-KITCHEN Challenge 2023: TREK-150 Single Object Tracking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.02508)] 
 
