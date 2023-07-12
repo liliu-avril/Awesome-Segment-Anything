@@ -62,13 +62,17 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 11 &ensp; July &ensp; 2023)$ 
-:boom:**Semantic-SAM:** Feng Li, Hao Zhang, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 12 &ensp; July &ensp; 2023)$ 
+:boom:**SAM-U:** Guoyao Deng, Ke Zou, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu Fu.<br />
+  "SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image." ArXiv (2023).
+  [[paper]()] 
+
+- **Semantic-SAM:** Feng Li, Hao Zhang, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.<br />
   "Semantic-SAM: Segment and Recognize Anything at Any Granularity." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.04767)] 
   [[code](https://github.com/UX-Decoder/Semantic-SAM)]
 
-:boom:**SAM-IQA:** Xinpeng Li, Ting Jiang, Haoqiang Fan, Shuaicheng Liu.<br />
+- **SAM-IQA:** Xinpeng Li, Ting Jiang, Haoqiang Fan, Shuaicheng Liu.<br />
   "SAM-IQA: Can Segment Anything Boost Image Quality Assessment?." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.04455)] 
   [[code](https://github.com/Hedlen/SAM-IQA)]
