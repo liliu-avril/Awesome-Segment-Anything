@@ -62,8 +62,16 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 12 &ensp; July &ensp; 2023)$ 
-:boom:**SAM-U:** Guoyao Deng, Ke Zou, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu Fu.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 13 &ensp; July &ensp; 2023)$ 
+:boom:**OG:** Zichao Dong, Hang Ji, Weikun Zhang, Xufeng Huang, Junbo Chen.<br />
+  "OG: Equip vision occupancy with instance segmentation and visual grounding." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.05873)] 
+
+:boom:**$SAM^{Med}$:** Chenglong Wang, Dexuan Li, Sucheng Wang, Chengxiu Zhang, Yida Wang, Yun Liu, Guang Yang.<br />
+  $SAM^{Med}$: A medical image annotation framework based on large vision model. ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.05617)] 
+
+- **SAM-U:** Guoyao Deng, Ke Zou, Kai Ren, Meng Wang, Xuedong Yuan, Sancong Ying, Huazhu Fu.<br />
   "SAM-U: Multi-box prompts triggered uncertainty estimation for reliable SAM in medical image." ArXiv (2023).
   [[paper]()] 
 
