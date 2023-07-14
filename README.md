@@ -1,4 +1,6 @@
 # Awesome Segment Anything
+## News :boom:"Segment Anything" has been accepted by ICCV 2023:boom:
+
 ## Welcome to summit your project [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)]
 ## Survey
 - **The First Comprehensive SAM Survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
@@ -9,7 +11,7 @@
 
 ## Papers
 ### :star2: Recommendations :star2:
-:boom:**SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
+- **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
   "Segment Anything." **ICCV (2023)**.
   [[paper](https://arxiv.org/abs/2304.02643)] 
   [[homepage](https://segment-anything.com/)] 
