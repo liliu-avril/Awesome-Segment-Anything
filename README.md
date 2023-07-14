@@ -9,15 +9,15 @@
 
 ## Papers
 ### :star2: Recommendations :star2:
-- **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
-  "Segment Anything." ArXiv (2023).
-  [[paper](https://arxiv.org/pdf/2304.02643v1.pdf)] 
+:boom:**SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
+  "Segment Anything." **ICCV (2023)**.
+  [[paper](https://arxiv.org/abs/2304.02643)] 
   [[homepage](https://segment-anything.com/)] 
   [[code](https://github.com/facebookresearch/segment-anything)]
 
 - **SEEM:** Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee.<br />
   "Segment Everything Everywhere All at Once." ArXiv (2023).
-  [[paper](https://arxiv.org/pdf/2304.06718v1.pdf)] 
+  [[paper](https://arxiv.org/abs/2304.06718)] 
   [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
   
 - **SegGPT:** Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang.<br />
@@ -62,7 +62,7 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 13 &ensp; July &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 14 &ensp; July &ensp; 2023)$ 
 :boom:**OG:** Zichao Dong, Hang Ji, Weikun Zhang, Xufeng Huang, Junbo Chen.<br />
   "OG: Equip vision occupancy with instance segmentation and visual grounding." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.05873)] 
