@@ -16,6 +16,8 @@
   [[paper](https://arxiv.org/abs/2304.02643)] 
   [[homepage](https://segment-anything.com/)] 
   [[code](https://github.com/facebookresearch/segment-anything)]
+  [[Zhihu](https://www.zhihu.com/question/593914819)]
+  [[Reddit](https://www.reddit.com/r/singularity/comments/12cq56n/meta_ai_has_released_both_the_model_and_the/)]
 
 - **SEEM:** Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee.<br />
   "Segment Everything Everywhere All at Once." ArXiv (2023).
@@ -64,7 +66,7 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 14 &ensp; July &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 17 &ensp; July &ensp; 2023)$ 
 :boom:**OG:** Zichao Dong, Hang Ji, Weikun Zhang, Xufeng Huang, Junbo Chen.<br />
   "OG: Equip vision occupancy with instance segmentation and visual grounding." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.05873)] 
@@ -772,10 +774,11 @@
 | 064  |SearchAnything|  SearchAnything | [Zhihu blog](https://zhuanlan.zhihu.com/p/641128049), [Twitter](https://twitter.com/jd92wang/status/1676114619168067585)	 |[Code](https://github.com/Immortalise/SearchAnything)	| CAS and MSRA |	A semantic local search engine powered by various AI models. |
 
 ## Awesome Repositories for SAM
-- [Awesome-Anything](https://github.com/VainF/Awesome-Anything)
-- [Awesome Segment Anything](https://github.com/Hedlen/awesome-segment-anything)
-- [Awesome-Segment-Anything](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything)
-- [Awesome-segment-anything-extensions](https://github.com/JerryX1110/awesome-segment-anything-extensions)
+- [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything)
+- [Hedlen/Awesome Segment Anything](https://github.com/Hedlen/awesome-segment-anything)
+- [Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything](https://github.com/Vision-Intelligence-and-Robots-Group/Awesome-Segment-Anything)
+- [JerryX1110/Awesome-segment-anything-extensions](https://github.com/JerryX1110/awesome-segment-anything-extensions)
+- [dk-liang/Awesome-Segment-Anything](https://github.com/dk-liang/Awesome-Segment-Anything)
 
 ## Citing SAM Survey
 
