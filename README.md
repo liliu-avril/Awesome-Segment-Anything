@@ -66,12 +66,22 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 17 &ensp; July &ensp; 2023)$ 
-:boom:**OG:** Zichao Dong, Hang Ji, Weikun Zhang, Xufeng Huang, Junbo Chen.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 18 &ensp; July &ensp; 2023)$ 
+:boom:**BuboGPT:** Yang Zhao, Zhijie Lin, Daquan Zhou, Zilong Huang, Jiashi Feng, Bingyi Kang.<br />
+  "BuboGPT: Enabling Visual Grounding in Multi-Modal LLMs." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.08581)] 
+  [[code](https://bubo-gpt.github.io)]
+
+:boom:**OpenSU:** Ruiping Liu, Jiaming Zhang, Kunyu Peng, Junwei Zheng, Ke Cao, Yufan Chen, Kailun Yang, Rainer Stiefelhagen.<br />
+  "Open Scene Understanding: Grounded Situation Recognition Meets Segment Anything for Helping People with Visual Impairments." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.07757)] 
+  [[code](https://github.com/RuipingL/OpenSU)]
+
+- **OG:** Zichao Dong, Hang Ji, Weikun Zhang, Xufeng Huang, Junbo Chen.<br />
   "OG: Equip vision occupancy with instance segmentation and visual grounding." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.05873)] 
 
-:boom:**$SAM^{Med}$:** Chenglong Wang, Dexuan Li, Sucheng Wang, Chengxiu Zhang, Yida Wang, Yun Liu, Guang Yang.<br />
+- **$SAM^{Med}$:** Chenglong Wang, Dexuan Li, Sucheng Wang, Chengxiu Zhang, Yida Wang, Yun Liu, Guang Yang.<br />
   $SAM^{Med}$: A medical image annotation framework based on large vision model. ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.05617)] 
 
