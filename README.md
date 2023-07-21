@@ -66,8 +66,13 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 20 &ensp; July &ensp; 2023)$ 
-:boom:**SAM-Path:** Jingwei Zhang, Ke Ma, Saarthak Kapse, Joel Saltz, Maria Vakalopoulou, Prateek Prasanna, Dimitris Samaras.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 21 &ensp; July &ensp; 2023)$ 
+:boom:**CNOS:** Van Nguyen Nguyen, Tomas Hodan, Georgy Ponimatkin, Thibault Groueix, Vincent Lepetit.<br />
+  "CNOS: A Strong Baseline for CAD-based Novel Object Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.11067)] 
+  [[code](https://github.com/nv-nguyen/cnos)]
+
+- **SAM-Path:** Jingwei Zhang, Ke Ma, Saarthak Kapse, Joel Saltz, Maria Vakalopoulou, Prateek Prasanna, Dimitris Samaras.<br />
   "SAM-Path: A Segment Anything Model for Semantic Segmentation in Digital Pathology." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.09570)] 
 
