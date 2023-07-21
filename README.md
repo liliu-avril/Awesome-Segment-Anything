@@ -64,6 +64,10 @@
  [[homepage](https://github.com/Yuheng-Li/PACGen)] 
   [[code](https://yuheng-li.github.io/PACGen/)]
 
+- **OpenSeeD:** Hao Zhang, Feng Li, Xueyan Zou, Shilong Liu, Chunyuan Li, Jianfeng Gao, Jianwei Yang, Lei Zhang.<br />
+  "A Simple Framework for Open-Vocabulary Segmentation and Detection." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2303.08131)] 
+  [[code](https://github.com/IDEA-Research/OpenSeeD)]
 
 
 ### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 21 &ensp; July &ensp; 2023)$ 
