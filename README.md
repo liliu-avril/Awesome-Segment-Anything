@@ -70,8 +70,13 @@
   [[code](https://github.com/IDEA-Research/OpenSeeD)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 21 &ensp; July &ensp; 2023)$ 
-:boom:**CNOS:** Van Nguyen Nguyen, Tomas Hodan, Georgy Ponimatkin, Thibault Groueix, Vincent Lepetit.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 25 &ensp; July &ensp; 2023)$ 
+:boom:**Industrial-SA:** Keno Moenck, Arne Wendt, Philipp Prünte, Julian Koch, Arne Sahrhage, Johann Gierecker, Ole Schmedemann, Falko Kähler, Dirk Holst, Martin Gomse, Thorsten Schüppstuhl, Daniel Schoepflin.<br />
+  "Industrial Segment Anything -- a Case Study in Aircraft Manufacturing, Intralogistics, Maintenance, Repair, and Overhaul." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.12674)] 
+
+
+- **CNOS:** Van Nguyen Nguyen, Tomas Hodan, Georgy Ponimatkin, Thibault Groueix, Vincent Lepetit.<br />
   "CNOS: A Strong Baseline for CAD-based Novel Object Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.11067)] 
   [[code](https://github.com/nv-nguyen/cnos)]
