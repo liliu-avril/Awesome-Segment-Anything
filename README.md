@@ -70,14 +70,19 @@
   [[code](https://github.com/IDEA-Research/OpenSeeD)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 26 &ensp; July &ensp; 2023)$ 
-:boom:**Fashion Matrix:** Zheng Chong, Xujie Zhang, Fuwei Zhao, Zhenyu Xie, Xiaodan Liang.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 27 &ensp; July &ensp; 2023)$ 
+:boom:**HQTrack:** Jiawen Zhu, Zhenyu Chen, Zeqi Hao, Shijie Chang, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li.<br />
+  "Tracking Anything in High Quality." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.13974)] 
+  [[code](https://github.com/jiawen-zhu/HQTrack)]
+
+- **Fashion Matrix:** Zheng Chong, Xujie Zhang, Fuwei Zhao, Zhenyu Xie, Xiaodan Liang.<br />
   "Fashion Matrix: Editing Photos by Just Talking." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.13240)] 
   [[homepage](https://zheng-chong.github.io/FashionMatrix/)]
   [[code](https://github.com/Zheng-Chong/FashionMatric)]
 
-:boom:**RoboChop:** Atharva Dikshit, Alison Bartsch, Abraham George, Amir Barati Farimani.<br />
+- **RoboChop:** Atharva Dikshit, Alison Bartsch, Abraham George, Amir Barati Farimani.<br />
   "RoboChop: Autonomous Framework for Fruit and Vegetable Chopping Leveraging Foundational Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.13159)] 
 
