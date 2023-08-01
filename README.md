@@ -70,8 +70,12 @@
   [[code](https://github.com/IDEA-Research/OpenSeeD)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 27 &ensp; July &ensp; 2023)$ 
-:boom:**HQTrack:** Jiawen Zhu, Zhenyu Chen, Zeqi Hao, Shijie Chang, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 1 &ensp; August &ensp; 2023)$ 
+:boom:**SAMFlow:** Shili Zhou, Ruian He, Weimin Tan, Bo Yan.<br />
+  "SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.16586)] 
+
+- **HQTrack:** Jiawen Zhu, Zhenyu Chen, Zeqi Hao, Shijie Chang, Lu Zhang, Dong Wang, Huchuan Lu, Bin Luo, Jun-Yan He, Jin-Peng Lan, Hanyuan Chen, Chenyang Li.<br />
   "Tracking Anything in High Quality." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.13974)] 
   [[code](https://github.com/jiawen-zhu/HQTrack)]
