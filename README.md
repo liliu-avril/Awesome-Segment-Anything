@@ -70,8 +70,12 @@
   [[code](https://github.com/IDEA-Research/OpenSeeD)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 1 &ensp; August &ensp; 2023)$ 
-:boom:**SAMFlow:** Shili Zhou, Ruian He, Weimin Tan, Bo Yan.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 2 &ensp; August &ensp; 2023)$ 
+:boom:Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister.<br />
+  "Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.00675)] 
+
+- **SAMFlow:** Shili Zhou, Ruian He, Weimin Tan, Bo Yan.<br />
   "SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.16586)] 
 
