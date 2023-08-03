@@ -70,8 +70,12 @@
   [[code](https://github.com/IDEA-Research/OpenSeeD)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 2 &ensp; August &ensp; 2023)$ 
-:boom:Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 3 &ensp; August &ensp; 2023)$ 
+:boom:Ziyi Huang, Hongshan Liu, Haofeng Zhang, Fuyong Xing, Andrew Laine, Elsa Angelini, Christine Hendon, Yu Gan.<br />
+  "Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.00883)] 
+
+- Cheng-Yu Hsieh, Si-An Chen, Chun-Liang Li, Yasuhisa Fujii, Alexander Ratner, Chen-Yu Lee, Ranjay Krishna, Tomas Pfister.<br />
   "Tool Documentation Enables Zero-Shot Tool-Usage with Large Language Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.00675)] 
 
