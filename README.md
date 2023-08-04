@@ -69,8 +69,14 @@
   [[paper](https://arxiv.org/abs/2303.08131)] 
   [[code](https://github.com/IDEA-Research/OpenSeeD)]
 
+:boom:**ASM:** Weiyun Wang, Min Shi, Qingyun Li, Wenhai Wang, Zhenhang Huang, Linjie Xing, Zhe Chen, Hao Li, Xizhou Zhu, Zhiguo Cao, Yushi Chen, Tong Lu, Jifeng Dai, Yu Qiao.<br />
+  "The All-Seeing Project: Towards Panoptic Visual Recognition and Understanding of the Open World." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.01907)] 
+  [[homepage](https://github.com/OpenGVLab/All-Seeing)] 
+  [[demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 3 &ensp; August &ensp; 2023)$ 
+
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 4 &ensp; August &ensp; 2023)$ 
 :boom:Ziyi Huang, Hongshan Liu, Haofeng Zhang, Fuyong Xing, Andrew Laine, Elsa Angelini, Christine Hendon, Yu Gan.<br />
   "Push the Boundary of SAM: A Pseudo-label Correction Framework for Medical Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.00883)] 
