@@ -76,8 +76,12 @@
   [[demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 8 &ensp; August &ensp; 2023)$ 
-:boom:**AdaptiveSAM:** Jay N. Paranjape, Nithin Gopalakrishnan Nair, Shameema Sikder, S. Swaroop Vedula, Vishal M. Patel.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 9 &ensp; August &ensp; 2023)$ 
+:boom:**AquaSAM:** Muduo Xu, Jianhao Su, Yutao Liu.<br />
+  "AquaSAM: Underwater Image Foreground Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.04218)] 
+
+- **AdaptiveSAM:** Jay N. Paranjape, Nithin Gopalakrishnan Nair, Shameema Sikder, S. Swaroop Vedula, Vishal M. Patel.<br />
   "AdaptiveSAM: Towards Efficient Tuning of SAM for Surgical Scene Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.03726)] 
   [[code](https://github.com/JayParanjape/biastuning)]
