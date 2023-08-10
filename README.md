@@ -75,8 +75,16 @@
   [[homepage](https://github.com/OpenGVLab/All-Seeing)] 
   [[demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
 
+:boom:**Meta-Transformer:** Yiyuan Zhang, Kaixiong Gong, Kaipeng Zhang, Hongsheng Li, Yu Qiao, Wanli Ouyang, Xiangyu Yue.<br />
+  "Meta-Transformer: A Unified Framework for Multimodal Learning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.10802)] 
+  [[homepage](https://github.com/invictus717/MetaTransformer)]
+  [[code](https://github.com/invictus717/MetaTransformer)]
+  [[中文解读](https://mp.weixin.qq.com/s/r38bzqdJxDZUvtDI0c9CEw?poc_token=HJBW1GSjrlLI_fXbnZeCfAefBIyL3OT0__QH-hfc)]
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 9 &ensp; August &ensp; 2023)$ 
+
+
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 10 &ensp; August &ensp; 2023)$ 
 :boom:**AquaSAM:** Muduo Xu, Jianhao Su, Yutao Liu.<br />
   "AquaSAM: Underwater Image Foreground Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.04218)] 
