@@ -75,7 +75,7 @@
   [[homepage](https://github.com/OpenGVLab/All-Seeing)] 
   [[demo](https://huggingface.co/spaces/OpenGVLab/all-seeing)]
 
-:boom:**Meta-Transformer:** Yiyuan Zhang, Kaixiong Gong, Kaipeng Zhang, Hongsheng Li, Yu Qiao, Wanli Ouyang, Xiangyu Yue.<br />
+- **Meta-Transformer:** Yiyuan Zhang, Kaixiong Gong, Kaipeng Zhang, Hongsheng Li, Yu Qiao, Wanli Ouyang, Xiangyu Yue.<br />
   "Meta-Transformer: A Unified Framework for Multimodal Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.10802)] 
   [[homepage](https://github.com/invictus717/MetaTransformer)]
@@ -84,8 +84,18 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 10 &ensp; August &ensp; 2023)$ 
-:boom:**AquaSAM:** Muduo Xu, Jianhao Su, Yutao Liu.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 11 &ensp; August &ensp; 2023)$ 
+:boom:**FAn :** Alaa Maalouf, Ninad Jadhav, Krishna Murthy Jatavallabhula, Makram Chahine, Daniel M. Vogt, Robert J. Wood, Antonio Torralba, Daniela Rus.<br />
+  "Follow Anything: Open-set detection, tracking, and following in real-time." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.05737)] 
+  [[code](https://github.com/alaamaalouf/FollowAnything)]
+  [[demo](https://www.youtube.com/watch?v=6Mgt3EPytrw)]
+
+:boom:**SSOM:** Ruikai Cui, Siyuan He, Shi Qiu.<br />
+  "Adaptive Low Rank Adaptation of Segment Anything to Salient Object Detection." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.05426)] 
+
+- **AquaSAM:** Muduo Xu, Jianhao Su, Yutao Liu.<br />
   "AquaSAM: Underwater Image Foreground Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.04218)] 
 
