@@ -84,14 +84,23 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 11 &ensp; August &ensp; 2023)$ 
-:boom:**FAn :** Alaa Maalouf, Ninad Jadhav, Krishna Murthy Jatavallabhula, Makram Chahine, Daniel M. Vogt, Robert J. Wood, Antonio Torralba, Daniela Rus.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 14 &ensp; August &ensp; 2023)$ 
+:boom:**FoodSAM:** Xing Lan, Jiayi Lyu, Hanyu Jiang, Kun Dong, Zehai Niu, Yi Zhang, Jian Xue.<br />
+  "FoodSAM: Any Food Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.05938)] 
+  [[code](https://github.com/jamesjg/FoodSAM)]
+
+:boom:**SAM-L:** Xueyuan Li, Ruining Deng, Yucheng Tang, Shunxing Bao, Haichun Yang, Yuankai Huo.<br />
+  "Leverage Weakly Annotation to Pixel-wise Annotation via Zero-shot Segment Anything Model for Molecular-empowered Learning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.05785)] 
+
+- **FAn :** Alaa Maalouf, Ninad Jadhav, Krishna Murthy Jatavallabhula, Makram Chahine, Daniel M. Vogt, Robert J. Wood, Antonio Torralba, Daniela Rus.<br />
   "Follow Anything: Open-set detection, tracking, and following in real-time." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.05737)] 
   [[code](https://github.com/alaamaalouf/FollowAnything)]
   [[demo](https://www.youtube.com/watch?v=6Mgt3EPytrw)]
 
-:boom:**SSOM:** Ruikai Cui, Siyuan He, Shi Qiu.<br />
+- **SSOM:** Ruikai Cui, Siyuan He, Shi Qiu.<br />
   "Adaptive Low Rank Adaptation of Segment Anything to Salient Object Detection." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.05426)] 
 
