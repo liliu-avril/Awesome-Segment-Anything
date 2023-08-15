@@ -84,13 +84,41 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 14 &ensp; August &ensp; 2023)$ 
-:boom:**FoodSAM:** Xing Lan, Jiayi Lyu, Hanyu Jiang, Kun Dong, Zehai Niu, Yi Zhang, Jian Xue.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 15 &ensp; August &ensp; 2023)$ 
+:boom:**SurgicalSAM:** An Wang, Mobarakol Islam, Mengya Xu, Yang Zhang, Hongliang Ren.<br />
+  "SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation." MICCAI MedAGI Workshop (2023).
+  [[paper](https://arxiv.org/abs/2308.07156)] 
+
+:boom:**OSTRA:** Jiexiong Xu, Weikun Zhao, Zhiyan Tang, Xiangchao Gan.<br />
+  "A One Stop 3D Target Reconstruction and multilevel Segmentation Method." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.06974)] 
+  [[code](https://github.com/ganlab/OSTRA)]
+
+:boom:**CEmb-SAM:** Dongik Shin, Beomsuk Kim, Seungjun Baek.<br />
+  "CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.06957)] 
+
+:boom:**CLE Diffusion:** Yuyang Yin, Dejia Xu, Chuangchuang Tan, Ping Liu, Yao Zhao, Yunchao Wei.<br />
+  "CLE Diffusion: Controllable Light Enhancement Diffusion Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.06725)] 
+  [[code](https://yuyangyin.github.io/CLEDiffusion/)]
+
+:boom:**Polyp-SAM++:** Risab Biswas.<br />
+  "Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?" ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.06623)] 
+  [[code](https://github.com/RisabBiswas/Polyp-SAM++)]
+
+:boom:**TongueSAM:** Shan Cao, Qunsheng Ruan, Qingfeng Wu.<br />
+  "TongueSAM: An Universal Tongue Segmentation Model Based on SAM with Zero-Shot." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.06444)] 
+  [[code](https://github.com/cshan-github/TongueSAM)]
+
+- **FoodSAM:** Xing Lan, Jiayi Lyu, Hanyu Jiang, Kun Dong, Zehai Niu, Yi Zhang, Jian Xue.<br />
   "FoodSAM: Any Food Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.05938)] 
   [[code](https://github.com/jamesjg/FoodSAM)]
 
-:boom:**SAM-L:** Xueyuan Li, Ruining Deng, Yucheng Tang, Shunxing Bao, Haichun Yang, Yuankai Huo.<br />
+- **SAM-L:** Xueyuan Li, Ruining Deng, Yucheng Tang, Shunxing Bao, Haichun Yang, Yuankai Huo.<br />
   "Leverage Weakly Annotation to Pixel-wise Annotation via Zero-shot Segment Anything Model for Molecular-empowered Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.05785)] 
 
