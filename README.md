@@ -84,31 +84,40 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 15 &ensp; August &ensp; 2023)$ 
-:boom:**SurgicalSAM:** An Wang, Mobarakol Islam, Mengya Xu, Yang Zhang, Hongliang Ren.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 16 &ensp; August &ensp; 2023)$ 
+:boom:**Few-Shot-Self-Prompt-SAM:** Qi Wu, Yuyao Zhang, Marawan Elbatel.<br />
+  "Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation." MICCAI DART Workshop (2023).
+  [[paper](https://arxiv.org/abs/2308.07624)] 
+  [[code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM)]
+
+:boom:**Dancing Avatar:** Bosheng Qin, Wentao Ye, Qifan Yu, Siliang Tang, Yueting Zhuang.<br />
+  "Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.07749)] 
+
+- **SurgicalSAM:** An Wang, Mobarakol Islam, Mengya Xu, Yang Zhang, Hongliang Ren.<br />
   "SAM Meets Robotic Surgery: An Empirical Study on Generalization, Robustness and Adaptation." MICCAI MedAGI Workshop (2023).
   [[paper](https://arxiv.org/abs/2308.07156)] 
 
-:boom:**OSTRA:** Jiexiong Xu, Weikun Zhao, Zhiyan Tang, Xiangchao Gan.<br />
+- **OSTRA:** Jiexiong Xu, Weikun Zhao, Zhiyan Tang, Xiangchao Gan.<br />
   "A One Stop 3D Target Reconstruction and multilevel Segmentation Method." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.06974)] 
   [[code](https://github.com/ganlab/OSTRA)]
 
-:boom:**CEmb-SAM:** Dongik Shin, Beomsuk Kim, Seungjun Baek.<br />
+- **CEmb-SAM:** Dongik Shin, Beomsuk Kim, Seungjun Baek.<br />
   "CEmb-SAM: Segment Anything Model with Condition Embedding for Joint Learning from Heterogeneous Datasets." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.06957)] 
 
-:boom:**CLE Diffusion:** Yuyang Yin, Dejia Xu, Chuangchuang Tan, Ping Liu, Yao Zhao, Yunchao Wei.<br />
+- **CLE Diffusion:** Yuyang Yin, Dejia Xu, Chuangchuang Tan, Ping Liu, Yao Zhao, Yunchao Wei.<br />
   "CLE Diffusion: Controllable Light Enhancement Diffusion Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.06725)] 
   [[code](https://yuyangyin.github.io/CLEDiffusion/)]
 
-:boom:**Polyp-SAM++:** Risab Biswas.<br />
+- **Polyp-SAM++:** Risab Biswas.<br />
   "Polyp-SAM++: Can A Text Guided SAM Perform Better for Polyp Segmentation?" ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.06623)] 
   [[code](https://github.com/RisabBiswas/Polyp-SAM++)]
 
-:boom:**TongueSAM:** Shan Cao, Qunsheng Ruan, Qingfeng Wu.<br />
+- **TongueSAM:** Shan Cao, Qunsheng Ruan, Qingfeng Wu.<br />
   "TongueSAM: An Universal Tongue Segmentation Model Based on SAM with Zero-Shot." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.06444)] 
   [[code](https://github.com/cshan-github/TongueSAM)]
