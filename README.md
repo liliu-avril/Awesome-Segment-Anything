@@ -84,13 +84,17 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 16 &ensp; August &ensp; 2023)$ 
-:boom:**Few-Shot-Self-Prompt-SAM:** Qi Wu, Yuyao Zhang, Marawan Elbatel.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 17 &ensp; August &ensp; 2023)$ 
+:boom:**U-SAM:** Hantao Zhang, Weidong Guo, Chenyang Qiu, Shouhong Wan, Bingbing Zou, Wanqin Wang, Peiquan Jin.<br />
+  "CARE: A Large Scale CT Image Dataset and Clinical Applicable Benchmark Model for Rectal Cancer Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.08283)] 
+
+- **Few-Shot-Self-Prompt-SAM:** Qi Wu, Yuyao Zhang, Marawan Elbatel.<br />
   "Self-Prompting Large Vision Models for Few-Shot Medical Image Segmentation." MICCAI DART Workshop (2023).
   [[paper](https://arxiv.org/abs/2308.07624)] 
   [[code](https://github.com/PeterYYZhang/few-shot-self-prompt-SAM)]
 
-:boom:**Dancing Avatar:** Bosheng Qin, Wentao Ye, Qifan Yu, Siliang Tang, Yueting Zhuang.<br />
+- **Dancing Avatar:** Bosheng Qin, Wentao Ye, Qifan Yu, Siliang Tang, Yueting Zhuang.<br />
   "Dancing Avatar: Pose and Text-Guided Human Motion Videos Synthesis with Image Diffusion Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.07749)] 
 
