@@ -640,7 +640,12 @@
 
 - **AV-SAM:** Shentong Mo, Yapeng Tian.<br />
   "AV-SAM: Segment Anything Model Meets Audio-Visual Localization and Segmentation." ArXiv (2023).
-  [[paper]( https://arxiv.org/abs/2305.01836)] 
+  [[paper]( https://arxiv.org/abs/2305.01836)]
+
+- **SAMA-AVS:** Jinxiang Liu, Yu Wang, Chen Ju, Chaofan Ma, Ya Zhang, Weidi Xie.<br />
+"Annotation-free Audio-Visual Segmentation." WACV (2024).
+  [[paper]( https://arxiv.org/pdf/2305.11019v3.pdf)] 
+  [[code]( https://github.com/jinxiang-liu/anno-free-AVS)]
 
 - **WSSS:** Weixuan Sun, Zheyuan Liu, Yanhao Zhang, Yiran Zhong, Nick Barnes.<br />
   "An Alternative to WSSS? An Empirical Study of the Segment Anything Model (SAM) on Weakly-Supervised Semantic Segmentation Problems." ArXiv (2023).
