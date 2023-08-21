@@ -84,8 +84,12 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 17 &ensp; August &ensp; 2023)$ 
-:boom:**U-SAM:** Hantao Zhang, Weidong Guo, Chenyang Qiu, Shouhong Wan, Bingbing Zou, Wanqin Wang, Peiquan Jin.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 21 &ensp; August &ensp; 2023)$ 
+:boom:**SAMedOCT:** Botond Fazekas, José Morano, Dmitrii Lachinov, Guilherme Aresta, Hrvoje Bogunović.<br />
+  "SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.09331)] 
+
+- **U-SAM:** Hantao Zhang, Weidong Guo, Chenyang Qiu, Shouhong Wan, Bingbing Zou, Wanqin Wang, Peiquan Jin.<br />
   "CARE: A Large Scale CT Image Dataset and Clinical Applicable Benchmark Model for Rectal Cancer Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.08283)] 
 
