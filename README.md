@@ -85,6 +85,11 @@
 
 
 ### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 21 &ensp; August &ensp; 2023)$ 
+:boom:**SurgicalSAM:** Wenxi Yue, Jing Zhang, Kun Hu, Yong Xia, Jiebo Luo, Zhiyong Wang.<br />
+  "SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.08746)] 
+  [[code](https://github.com/wenxi-yue/SurgicalSAM)]
+
 :boom:**SAMedOCT:** Botond Fazekas, José Morano, Dmitrii Lachinov, Guilherme Aresta, Hrvoje Bogunović.<br />
   "SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.09331)] 
