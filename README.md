@@ -84,13 +84,18 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 21 &ensp; August &ensp; 2023)$ 
-:boom:**SurgicalSAM:** Wenxi Yue, Jing Zhang, Kun Hu, Yong Xia, Jiebo Luo, Zhiyong Wang.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 22 &ensp; August &ensp; 2023)$ 
+:boom:**SS2V:** Xing Yao, Han Liu, Dewei Hu, Daiwei Lu, Ange Lou, Hao Li, Ruining Deng, Gabriel Arenas, Baris Oguz, Nadav Schwartz, Brett C Byram, Ipek Oguz.<br />
+  "False Negative/Positive Control for SAM on Noisy Medical Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.10382)] 
+  [[code](https://github.com/xyimaging/FNPC)]
+
+- **SurgicalSAM:** Wenxi Yue, Jing Zhang, Kun Hu, Yong Xia, Jiebo Luo, Zhiyong Wang.<br />
   "SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.08746)] 
   [[code](https://github.com/wenxi-yue/SurgicalSAM)]
 
-:boom:**SAMedOCT:** Botond Fazekas, José Morano, Dmitrii Lachinov, Guilherme Aresta, Hrvoje Bogunović.<br />
+- **SAMedOCT:** Botond Fazekas, José Morano, Dmitrii Lachinov, Guilherme Aresta, Hrvoje Bogunović.<br />
   "SAMedOCT: Adapting Segment Anything Model (SAM) for Retinal OCT." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.09331)] 
 
