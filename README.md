@@ -84,8 +84,18 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 22 &ensp; August &ensp; 2023)$ 
-:boom:**SS2V:** Xing Yao, Han Liu, Dewei Hu, Daiwei Lu, Ange Lou, Hao Li, Ruining Deng, Gabriel Arenas, Baris Oguz, Nadav Schwartz, Brett C Byram, Ipek Oguz.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 24 &ensp; August &ensp; 2023)$ 
+:boom:**SPPNet:** Qing Xu, Wenwei Kuang, Zeyu Zhang, Xueyao Bao, Haoran Chen, Wenting Duan.<br />
+  "SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.12231)] 
+  [[code](https://github.com/xq141839/SPPNet)]
+
+:boom:**SAMSNeRF:** Ange Lou, Yamin Li, Xing Yao, Yike Zhang, Jack Noble.<br />
+  "SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.11774)] 
+  [[code](https://github.com/AngeLouCN/SAMSNeRF)]
+
+- **SS2V:** Xing Yao, Han Liu, Dewei Hu, Daiwei Lu, Ange Lou, Hao Li, Ruining Deng, Gabriel Arenas, Baris Oguz, Nadav Schwartz, Brett C Byram, Ipek Oguz.<br />
   "False Negative/Positive Control for SAM on Noisy Medical Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.10382)] 
   [[code](https://github.com/xyimaging/FNPC)]
