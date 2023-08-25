@@ -84,13 +84,22 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 24 &ensp; August &ensp; 2023)$ 
-:boom:**SPPNet:** Qing Xu, Wenwei Kuang, Zeyu Zhang, Xueyao Bao, Haoran Chen, Wenting Duan.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 25 &ensp; August &ensp; 2023)$ 
+:boom:**Expedit-SAM:** Weicong Liang, Yuhui Yuan, Henghui Ding, Xiao Luo, Weihong Lin, Ding Jia, Zheng Zhang, Chao Zhang, Han Hu.<br />
+  "Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning." NeurIPS (2022).
+  [[paper](https://arxiv.org/abs/2210.01035)] 
+  [[code](https://github.com/Expedit-LargeScale-Vision-Transformer/Expedit-SAM)]
+
+:boom:**DiffSeg:** Junjiao Tian, Lavisha Aggarwal, Andrea Colaco, Zsolt Kira, Mar Gonzalez-Franco.<br />
+  "Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.12469)] 
+
+- **SPPNet:** Qing Xu, Wenwei Kuang, Zeyu Zhang, Xueyao Bao, Haoran Chen, Wenting Duan.<br />
   "SPPNet: A Single-Point Prompt Network for Nuclei Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.12231)] 
   [[code](https://github.com/xq141839/SPPNet)]
 
-:boom:**SAMSNeRF:** Ange Lou, Yamin Li, Xing Yao, Yike Zhang, Jack Noble.<br />
+- **SAMSNeRF:** Ange Lou, Yamin Li, Xing Yao, Yike Zhang, Jack Noble.<br />
   "SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.11774)] 
   [[code](https://github.com/AngeLouCN/SAMSNeRF)]
