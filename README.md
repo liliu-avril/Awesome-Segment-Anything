@@ -84,13 +84,17 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 25 &ensp; August &ensp; 2023)$ 
-:boom:**Expedit-SAM:** Weicong Liang, Yuhui Yuan, Henghui Ding, Xiao Luo, Weihong Lin, Ding Jia, Zheng Zhang, Chao Zhang, Han Hu.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 28 &ensp; August &ensp; 2023)$ 
+:boom:**RSISeg:** Zhe Wang, Shoukun Sun, Xiang Que, Xiaogang Ma.<br />
+  "Interactive segmentation in aerial images: a new benchmark and an open access web-based tool." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.13174)] 
+
+- **Expedit-SAM:** Weicong Liang, Yuhui Yuan, Henghui Ding, Xiao Luo, Weihong Lin, Ding Jia, Zheng Zhang, Chao Zhang, Han Hu.<br />
   "Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning." NeurIPS (2022).
   [[paper](https://arxiv.org/abs/2210.01035)] 
   [[code](https://github.com/Expedit-LargeScale-Vision-Transformer/Expedit-SAM)]
 
-:boom:**DiffSeg:** Junjiao Tian, Lavisha Aggarwal, Andrea Colaco, Zsolt Kira, Mar Gonzalez-Franco.<br />
+- **DiffSeg:** Junjiao Tian, Lavisha Aggarwal, Andrea Colaco, Zsolt Kira, Mar Gonzalez-Franco.<br />
   "Diffuse, Attend, and Segment: Unsupervised Zero-Shot Segmentation using Stable Diffusion." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.12469)] 
 
