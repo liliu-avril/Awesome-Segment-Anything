@@ -84,8 +84,35 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 28 &ensp; August &ensp; 2023)$ 
-:boom:**RSISeg:** Zhe Wang, Shoukun Sun, Xiang Que, Xiaogang Ma.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 29 &ensp; August &ensp; 2023)$ 
+:boom:Leo Fillioux, Emilie Gontran, Jérôme Cartry, Jacques RR Mathieu, Sabrina Bedja, Alice Boilève, Paul-Henry Cournède, Fanny Jaulin, Stergios Christodoulidis, Maria Vakalopoulou.<br />
+  "Spatio-Temporal Analysis of Patient-Derived Organoid Videos Using Deep Learning for the Prediction of Drug Efficacy." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.14461)] 
+
+:boom:**SAM-PARSER:** Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen.<br />
+  "SAM-PARSER: Fine-tuning SAM Efficiently by Parameter Space Reconstruction." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.14604)] 
+
+:boom:Weijia Feng, Lingting Zhu, Lequan Yu.<br />
+  "Cheap Lunch for Medical Image Segmentation by Fine-tuning SAM on Few Exemplars." MICCAI BrainLes Workshop (2023).
+  [[paper](https://arxiv.org/abs/2308.14133)] 
+ 
+
+:boom:Zihan Dong, ZhengDong Zhang.<br />
+  "Enhancing Bloodstain Analysis Through AI-Based Segmentation: Leveraging Segment Anything Model for Crime Scene Investigation." KDD Workshop (2023).
+  [[paper](https://arxiv.org/abs/2308.13979)] 
+  [[code](https://github.com/Zdong104/Bloodstain_Analysis_Ai_Tool)]
+
+:boom:**SCESAME:** Hiroaki Yamagiwa, Yusuke Takase, Hiroyuki Kambe, Ryosuke Nakamoto.<br />
+  "Zero-Shot Edge Detection with SCESAME: Spectral Clustering-based Ensemble for Segment Anything Model Estimation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.13779)] 
+
+:boom:**SamDSK:** Yizhe Zhang, Tao Zhou, Shuo Wang, Ye Wu, Pengfei Gu, Danny Z. Chen.<br />
+  "SamDSK: Combining Segment Anything Model with Domain-Specific Knowledge for Semi-Supervised Learning in Medical Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.13759)] 
+  [[code](https://github.com/yizhezhang2000/SamDSK)]
+
+- **RSISeg:** Zhe Wang, Shoukun Sun, Xiang Que, Xiaogang Ma.<br />
   "Interactive segmentation in aerial images: a new benchmark and an open access web-based tool." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.13174)] 
 
