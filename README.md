@@ -84,8 +84,13 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 30 &ensp; August &ensp; 2023)$ 
-:boom:**AutoSAM Adapter:** Chengyin Li, Prashant Khanduri, Yao Qiang, Rafi Ibn Sultan, Indrin Chetty, Dongxiao Zhu.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 31 &ensp; August &ensp; 2023)$ 
+:boom:**SAM-Med2D:** Junlong Cheng, Jin Ye, Zhongying Deng, Jianpin Chen, Tianbin Li, Haoyu Wang, Yanzhou Su, Ziyan Huang, Jilong Chen, Lei Jiang, Hui Sun, Junjun He, Shaoting Zhang, Min Zhu, Yu Qiao.<br />
+  "SAM-Med2D." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.16184)] 
+  [[code](https://github.com/uni-medical/SAM-Med2D)]
+
+- **AutoSAM Adapter:** Chengyin Li, Prashant Khanduri, Yao Qiang, Rafi Ibn Sultan, Indrin Chetty, Dongxiao Zhu.<br />
   "Auto-Prompting SAM for Mobile Friendly 3D Medical Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.14936)] 
 
