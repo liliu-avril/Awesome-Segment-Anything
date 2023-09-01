@@ -84,8 +84,12 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 31 &ensp; August &ensp; 2023)$ 
-:boom:**SAM-Med2D:** Junlong Cheng, Jin Ye, Zhongying Deng, Jianpin Chen, Tianbin Li, Haoyu Wang, Yanzhou Su, Ziyan Huang, Jilong Chen, Lei Jiang, Hui Sun, Junjun He, Shaoting Zhang, Min Zhu, Yu Qiao.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 1 &ensp; September &ensp; 2023)$ 
+:boom:**SSM-SAM:** Yiming Zhang, Tianang Leng, Kun Han, Xiaohui Xie.<br />
+  "Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.16466)] 
+
+- **SAM-Med2D:** Junlong Cheng, Jin Ye, Zhongying Deng, Jianpin Chen, Tianbin Li, Haoyu Wang, Yanzhou Su, Ziyan Huang, Jilong Chen, Lei Jiang, Hui Sun, Junjun He, Shaoting Zhang, Min Zhu, Yu Qiao.<br />
   "SAM-Med2D." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.16184)] 
   [[code](https://github.com/uni-medical/SAM-Med2D)]
