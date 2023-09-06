@@ -84,8 +84,25 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 1 &ensp; September &ensp; 2023)$ 
-:boom:**SSM-SAM:** Yiming Zhang, Tianang Leng, Kun Han, Xiaohui Xie.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 6 &ensp; September &ensp; 2023)$ 
+:boom:**CIP-WPIS:** Qingtao Yu, Heming Du, Chen Liu, Xin Yu.<br />
+  "When 3D Bounding-Box Meets SAM: Point Cloud Instance Segmentation with Weak-and-Noisy Supervision." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.00828)] 
+
+:boom:**SAM-Deblur:** Siwei Li, Mingxuan Liu, Yating Zhang, Shu Chen, Haoxiang Li, Hong Chen, Zifei Dou.<br />
+  "SAM-Deblur: Let Segment Anything Boost Image Deblurring." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.02270)] 
+  [[code](https://github.com/HPLQAQ/SAM-Deblur)]
+
+:boom:Hassan El-Hajj, Matteo Valleriani.<br />
+  "Prompt me a Dataset: An investigation of text-image prompting for historical image dataset creation using foundation models." ICIAP  (2023), AI4DH workshop.
+  [[paper](https://arxiv.org/abs/2309.01674)] 
+
+:boom:**SAM-CD:** Lei Ding, Kun Zhu, Daifeng Peng, Hao Tang, Haitao Guo.<br />
+  "Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.01429)] 
+
+- **SSM-SAM:** Yiming Zhang, Tianang Leng, Kun Han, Xiaohui Xie.<br />
   "Self-Sampling Meta SAM: Enhancing Few-shot Medical Image Segmentation with Meta-Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.16466)] 
 
