@@ -84,21 +84,33 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 6 &ensp; September &ensp; 2023)$ 
-:boom:**CIP-WPIS:** Qingtao Yu, Heming Du, Chen Liu, Xin Yu.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 8 &ensp; September &ensp; 2023)$ 
+:boom:**SAM3D:** Nhat-Tan Bui, Dinh-Hieu Hoang, Minh-Triet Tran, Ngan Le.<br />
+  "SAM3D: Segment Anything Model in Volumetric Medical Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.03493)] 
+
+:boom:**CropFormer:** Lu Qi, Jason Kuen, Weidong Guo, Tiancheng Shen, Jiuxiang Gu, Jiaya Jia, Zhe Lin, Ming-Hsuan Yang.<br />
+  "High-Quality Entity Segmentation." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2211.05776)] 
+  [[project page](https://github.com/qqlu/Entity/tree/main/Entityv2)]
+  [[code](https://github.com/qqlu/Entity/blob/main/Entityv2/README.md)]
+  [[中文解读](https://mp.weixin.qq.com/s/wa_AfAM4xRb1tX3vyU7a6w)]
+
+
+- **CIP-WPIS:** Qingtao Yu, Heming Du, Chen Liu, Xin Yu.<br />
   "When 3D Bounding-Box Meets SAM: Point Cloud Instance Segmentation with Weak-and-Noisy Supervision." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.00828)] 
 
-:boom:**SAM-Deblur:** Siwei Li, Mingxuan Liu, Yating Zhang, Shu Chen, Haoxiang Li, Hong Chen, Zifei Dou.<br />
+- **SAM-Deblur:** Siwei Li, Mingxuan Liu, Yating Zhang, Shu Chen, Haoxiang Li, Hong Chen, Zifei Dou.<br />
   "SAM-Deblur: Let Segment Anything Boost Image Deblurring." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.02270)] 
   [[code](https://github.com/HPLQAQ/SAM-Deblur)]
 
-:boom:Hassan El-Hajj, Matteo Valleriani.<br />
+- Hassan El-Hajj, Matteo Valleriani.<br />
   "Prompt me a Dataset: An investigation of text-image prompting for historical image dataset creation using foundation models." ICIAP  (2023), AI4DH workshop.
   [[paper](https://arxiv.org/abs/2309.01674)] 
 
-:boom:**SAM-CD:** Lei Ding, Kun Zhu, Daifeng Peng, Hao Tang, Haitao Guo.<br />
+- **SAM-CD:** Lei Ding, Kun Zhu, Daifeng Peng, Hao Tang, Haitao Guo.<br />
   "Adapting Segment Anything Model for Change Detection in HR Remote Sensing Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.01429)] 
 
