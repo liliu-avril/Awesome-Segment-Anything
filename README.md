@@ -85,6 +85,12 @@
 
 
 ### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 8 &ensp; September &ensp; 2023)$ 
+:boom:**DEVA:** Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee.<br />
+  "Tracking Anything with Decoupled Video Segmentation." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2309.03903)] 
+  [[project page](https://hkchengrex.com/Tracking-Anything-with-DEVA/)]
+  [[code](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)]
+
 :boom:**SAM3D:** Nhat-Tan Bui, Dinh-Hieu Hoang, Minh-Triet Tran, Ngan Le.<br />
   "SAM3D: Segment Anything Model in Volumetric Medical Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.03493)] 
