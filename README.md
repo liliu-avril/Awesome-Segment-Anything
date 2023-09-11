@@ -84,18 +84,22 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 8 &ensp; September &ensp; 2023)$ 
-:boom:**DEVA:** Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 11 &ensp; September &ensp; 2023)$ 
+:boom:Chenbin Liu, Zhengliang Liu, Jason Holmes, Lu Zhang, Lian Zhang, Yuzhen Ding, Peng Shu, Zihao Wu, Haixing Dai, Yiwei Li, Dinggang Shen, Ninghao Liu, Quanzheng Li, Xiang Li, Dajiang Zhu, Tianming Liu, Wei Liu.<br />
+  "Artificial General Intelligence for Radiation Oncology." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.02590)] 
+
+- **DEVA:** Ho Kei Cheng, Seoung Wug Oh, Brian Price, Alexander Schwing, Joon-Young Lee.<br />
   "Tracking Anything with Decoupled Video Segmentation." ICCV (2023).
   [[paper](https://arxiv.org/abs/2309.03903)] 
   [[project page](https://hkchengrex.com/Tracking-Anything-with-DEVA/)]
   [[code](https://github.com/hkchengrex/Tracking-Anything-with-DEVA)]
 
-:boom:**SAM3D:** Nhat-Tan Bui, Dinh-Hieu Hoang, Minh-Triet Tran, Ngan Le.<br />
+- **SAM3D:** Nhat-Tan Bui, Dinh-Hieu Hoang, Minh-Triet Tran, Ngan Le.<br />
   "SAM3D: Segment Anything Model in Volumetric Medical Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.03493)] 
 
-:boom:**CropFormer:** Lu Qi, Jason Kuen, Weidong Guo, Tiancheng Shen, Jiuxiang Gu, Jiaya Jia, Zhe Lin, Ming-Hsuan Yang.<br />
+- **CropFormer:** Lu Qi, Jason Kuen, Weidong Guo, Tiancheng Shen, Jiuxiang Gu, Jiaya Jia, Zhe Lin, Ming-Hsuan Yang.<br />
   "High-Quality Entity Segmentation." ICCV (2023).
   [[paper](https://arxiv.org/abs/2211.05776)] 
   [[project page](https://github.com/qqlu/Entity/tree/main/Entityv2)]
