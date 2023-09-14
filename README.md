@@ -84,12 +84,22 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 11 &ensp; September &ensp; 2023)$ 
-:boom:Xiaodan Xing, Chunling Tang, Yunzhe Guo, Nicholas Kurniawan, Guang Yang.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 14 &ensp; September &ensp; 2023)$ 
+:boom:**SAMUS:** Xian Lin, Yangyang Xiang, Li Zhang, Xin Yang, Zengqiang Yan, Li Yu.<br />
+  "SAMUS: Adapting Segment Anything Model for Clinically-Friendly and Generalizable Ultrasound Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.06824)] 
+  [[code](https://github.com/xianlin7/SAMUS)]
+  
+:boom:**CMSF:** Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Xiatian Zhu.<br />
+  "Leveraging Foundation models for Unsupervised Audio-Visual Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.06728)] 
+
+
+- Xiaodan Xing, Chunling Tang, Yunzhe Guo, Nicholas Kurniawan, Guang Yang.<br />
   "SegmentAnything helps microscopy images based automatic and quantitative organoid detection and analysis." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.04190)] 
 
-:boom:Chenbin Liu, Zhengliang Liu, Jason Holmes, Lu Zhang, Lian Zhang, Yuzhen Ding, Peng Shu, Zihao Wu, Haixing Dai, Yiwei Li, Dinggang Shen, Ninghao Liu, Quanzheng Li, Xiang Li, Dajiang Zhu, Tianming Liu, Wei Liu.<br />
+- Chenbin Liu, Zhengliang Liu, Jason Holmes, Lu Zhang, Lian Zhang, Yuzhen Ding, Peng Shu, Zihao Wu, Haixing Dai, Yiwei Li, Dinggang Shen, Ninghao Liu, Quanzheng Li, Xiang Li, Dajiang Zhu, Tianming Liu, Wei Liu.<br />
   "Artificial General Intelligence for Radiation Oncology." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.02590)] 
 
