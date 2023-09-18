@@ -84,18 +84,23 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 17 &ensp; September &ensp; 2023)$ 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 18 &ensp; September &ensp; 2023)$ 
 :boom:**samgeo:** Qiusheng Wu and Lucas Prado Osco.<br />
   "samgeo: A Python package for segmenting geospatial data with the Segment Anything Model (SAM)." JOSS (2023).
   [[paper](https://joss.theoj.org/papers/10.21105/joss.05663)] 
   [[code](https://github.com/opengeos/segment-geospatial)]
 
-:boom:**SAMUS:** Xian Lin, Yangyang Xiang, Li Zhang, Xin Yang, Zengqiang Yan, Li Yu.<br />
+:boom:Peng Zhang, Yaping Wang.<br />
+  "Segment Anything Model for Brain Tumor Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.08434)] 
+
+
+- **SAMUS:** Xian Lin, Yangyang Xiang, Li Zhang, Xin Yang, Zengqiang Yan, Li Yu.<br />
   "SAMUS: Adapting Segment Anything Model for Clinically-Friendly and Generalizable Ultrasound Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.06824)] 
   [[code](https://github.com/xianlin7/SAMUS)]
   
-:boom:**CMSF:** Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Xiatian Zhu.<br />
+- **CMSF:** Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Xiatian Zhu.<br />
   "Leveraging Foundation models for Unsupervised Audio-Visual Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.06728)] 
 
