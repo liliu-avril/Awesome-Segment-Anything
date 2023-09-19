@@ -84,13 +84,23 @@
 
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 18 &ensp; September &ensp; 2023)$ 
-:boom:**samgeo:** Qiusheng Wu and Lucas Prado Osco.<br />
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 19 &ensp; September &ensp; 2023)$ 
+:boom:**OCTA-FRNet:** Haojian Ning, Chengliang Wang, Xinrun Chen, Shiying Li.<br />
+  "An Accurate and Efficient Neural Network for OCTA Vessel Segmentation and a New Dataset." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.09483)] 
+  [[code](https://github.com/nhjydywd/OCTA-FRNet)]
+
+:boom:**MA-SAM:** Cheng Chen, Juzheng Miao, Dufan Wu, Zhiling Yan, Sekeun Kim, Jiang Hu, Aoxiao Zhong, Zhengliang Liu, Lichao Sun, Xiang Li, Tianming Liu, Pheng-Ann Heng, Quanzheng Li.<br />
+  "MA-SAM: Modality-agnostic SAM Adaptation for 3D Medical Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.08842)] 
+  [[code](https://github.com/cchen-cc/MA-SAM)]
+
+- **samgeo:** Qiusheng Wu and Lucas Prado Osco.<br />
   "samgeo: A Python package for segmenting geospatial data with the Segment Anything Model (SAM)." JOSS (2023).
   [[paper](https://joss.theoj.org/papers/10.21105/joss.05663)] 
   [[code](https://github.com/opengeos/segment-geospatial)]
 
-:boom:Peng Zhang, Yaping Wang.<br />
+- Peng Zhang, Yaping Wang.<br />
   "Segment Anything Model for Brain Tumor Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.08434)] 
 
