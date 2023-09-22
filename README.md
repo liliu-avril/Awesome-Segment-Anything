@@ -83,9 +83,22 @@
   [[中文解读](https://mp.weixin.qq.com/s/r38bzqdJxDZUvtDI0c9CEw?poc_token=HJBW1GSjrlLI_fXbnZeCfAefBIyL3OT0__QH-hfc)]
 
 
+### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 22 &ensp; September &ensp; 2023)$
+:boom:**SAM-OCTA:** Chengliang Wang, Xinrun Chen, Haojian Ning, Shiying Li.<br />
+  "SAM-OCTA: A Fine-Tuning Strategy for Applying Foundation Model to OCTA Image Segmentation Tasks." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.11758)] 
+  [[code](https://github.com/ShellRedia/SAM-OCTA)]
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 21 &ensp; September &ensp; 2023)$ 
-:boom:**3D-U-SAM:** Yifu Zhang, Zuozhu Liu, Yang Feng, Renjing Xu.<br />
+:boom:**MoPA:**  Haozhi Cao, Yuecong Xu, Jianfei Yang, Pengyu Yin, Shenghai Yuan, Lihua Xie.<br />
+  "MoPA: Multi-Modal Prior Aided Domain Adaptation for 3D Semantic Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.11839)] 
+  [[code](https://github.com/AronCao49/MoPA)]
+
+:boom:**Deshadow-Anything:** Xiao Feng Zhang, Tian Yi Song, Jia Wei Yao.<br />
+  "Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.11715)] 
+
+- **3D-U-SAM:** Yifu Zhang, Zuozhu Liu, Yang Feng, Renjing Xu.<br />
   "3D-U-SAM Network For Few-shot Tooth Segmentation in CBCT Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.11015)] 
 
@@ -886,7 +899,7 @@
   [[paper]( https://arxiv.org/abs/2304.12600)] 
 
 - **SA3D:** Jiazhong Cen, Zanwei Zhou, Jiemin Fang, Wei Shen, Lingxi Xie, Dongsheng Jiang, Xiaopeng Zhang, Qi Tian.<br />
-  " Segment Anything in 3D with NeRFs." ArXiv (2023).
+  " Segment Anything in 3D with NeRFs." NeurIPS (2023).
   [[paper]( https://arxiv.org/abs/2304.12308)] 
   [[code]( https://jumpat.github.io/SA3D/)]
 
