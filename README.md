@@ -83,7 +83,10 @@
   [[中文解读](https://mp.weixin.qq.com/s/r38bzqdJxDZUvtDI0c9CEw?poc_token=HJBW1GSjrlLI_fXbnZeCfAefBIyL3OT0__QH-hfc)]
 
 
-### Follow-up Papers $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 22 &ensp; September &ensp; 2023)$
+
+### Follow-up Papers 
+$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 22 &ensp; September &ensp; 2023)$ 
+
 :boom:**SAM-OCTA:** Chengliang Wang, Xinrun Chen, Haojian Ning, Shiying Li.<br />
   "SAM-OCTA: A Fine-Tuning Strategy for Applying Foundation Model to OCTA Image Segmentation Tasks." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.11758)] 
