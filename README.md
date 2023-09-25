@@ -85,19 +85,27 @@
 
 
 ### Follow-up Papers 
-$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 22 &ensp; September &ensp; 2023)$ 
+$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 25 &ensp; September &ensp; 2023)$ 
 
-:boom:**SAM-OCTA:** Chengliang Wang, Xinrun Chen, Haojian Ning, Shiying Li.<br />
+:boom:**PointSSC:** Yuxiang Yan, Boda Liu, Jianfei Ai, Qinbu Li, Ru Wan, Jian Pu.<br />
+  "PointSSC: A Cooperative Vehicle-Infrastructure Point Cloud Benchmark for Semantic Scene Completion." ICRA (2024).
+  [[paper](https://arxiv.org/abs/2309.12708)] 
+
+:boom:**NOC:** Xiaobao Wei, Renrui Zhang, Jiarui Wu, Jiaming Liu, Ming Lu, Yandong Guo, Shanghang Zhang.<br />
+  "NOC: High-Quality Neural Object Cloning with 3D Lifting of Segment Anything." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.12790)] 
+
+- **SAM-OCTA:** Chengliang Wang, Xinrun Chen, Haojian Ning, Shiying Li.<br />
   "SAM-OCTA: A Fine-Tuning Strategy for Applying Foundation Model to OCTA Image Segmentation Tasks." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.11758)] 
   [[code](https://github.com/ShellRedia/SAM-OCTA)]
 
-:boom:**MoPA:**  Haozhi Cao, Yuecong Xu, Jianfei Yang, Pengyu Yin, Shenghai Yuan, Lihua Xie.<br />
+- **MoPA:**  Haozhi Cao, Yuecong Xu, Jianfei Yang, Pengyu Yin, Shenghai Yuan, Lihua Xie.<br />
   "MoPA: Multi-Modal Prior Aided Domain Adaptation for 3D Semantic Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.11839)] 
   [[code](https://github.com/AronCao49/MoPA)]
 
-:boom:**Deshadow-Anything:** Xiao Feng Zhang, Tian Yi Song, Jia Wei Yao.<br />
+- **Deshadow-Anything:** Xiao Feng Zhang, Tian Yi Song, Jia Wei Yao.<br />
   "Deshadow-Anything: When Segment Anything Model Meets Zero-shot shadow removal." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.11715)] 
 
