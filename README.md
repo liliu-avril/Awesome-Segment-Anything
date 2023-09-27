@@ -85,7 +85,7 @@
 
 
 ### Follow-up Papers 
-$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 26 &ensp; September &ensp; 2023)$ 
+$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 27 &ensp; September &ensp; 2023)$ 
 
 :boom:Khoa Dang Nguyen, Thanh-Hai Phung, Hoang-Giang Cao.<br />
   "A SAM-based Solution for Hierarchical Panoptic Segmentation of Crops and Weeds Competition." ICCV Workshop (2023).
@@ -821,7 +821,7 @@ $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 26 &ensp; September &ensp
   [[code]( https://github.com/ttengwang/Caption-Anything)]
 
 - **SAMRS:** Di Wang, Jing Zhang, Bo Du, Dacheng Tao, Liangpei Zhang.<br />
-  "Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model." ArXiv (2023).
+  "Scaling-up Remote Sensing Segmentation Dataset with Segment Anything Model." NeurIPS 2023 Datasets and Benchmarks Track (2023).
   [[paper]( https://arxiv.org/abs/2305.02034)] 
   [[code]( https://github.com/ViTAE-Transformer/SAMRS)]
 
