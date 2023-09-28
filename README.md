@@ -85,13 +85,18 @@
 
 
 ### Follow-up Papers 
-$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 27 &ensp; September &ensp; 2023)$ 
+$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 28 &ensp; September &ensp; 2023)$ 
 
-:boom:Khoa Dang Nguyen, Thanh-Hai Phung, Hoang-Giang Cao.<br />
+:boom:Mayara E. Bonani, Max Schwarz, Sven Behnke.<br />
+  "Learning from SAM: Harnessing a Segmentation Foundation Model for Sim2Real Domain Adaptation through Regularization." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.15562)] 
+
+
+- Khoa Dang Nguyen, Thanh-Hai Phung, Hoang-Giang Cao.<br />
   "A SAM-based Solution for Hierarchical Panoptic Segmentation of Crops and Weeds Competition." ICCV Workshop (2023).
   [[paper](https://arxiv.org/abs/2309.13578)] 
   
-:boom:**MediViSTA-SAM:** Sekeun Kim, Kyungsang Kim, Jiang Hu, Cheng Chen, Zhiliang Lyu, Ren Hui, Sunghwan Kim, Zhengliang Liu, Aoxiao Zhong, Xiang Li, Tianming Liu, Quanzheng Li.<br />
+- **MediViSTA-SAM:** Sekeun Kim, Kyungsang Kim, Jiang Hu, Cheng Chen, Zhiliang Lyu, Ren Hui, Sunghwan Kim, Zhengliang Liu, Aoxiao Zhong, Xiang Li, Tianming Liu, Quanzheng Li.<br />
   "MediViSTA-SAM: Zero-shot Medical Video Analysis with Spatio-temporal SAM Adaptation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.13539)] 
   [[code](https://github.com/kimsekeun/MediViSTA-SAM)]
