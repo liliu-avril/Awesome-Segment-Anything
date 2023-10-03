@@ -85,9 +85,32 @@
 
 
 ### Follow-up Papers 
-$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 28 &ensp; September &ensp; 2023)$ 
+$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 3 &ensp; October &ensp; 2023)$ 
 
-:boom:Mayara E. Bonani, Max Schwarz, Sven Behnke.<br />
+:boom:**SLP:** David Balaban, Justin Medich, Pranay Gosar, Justin Hart.<br />
+  "Propagating Semantic Labels in Video Data." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.00783)] 
+  [[homepage](https://dataverse.tdl.org/dataverse/robotics)]
+
+:boom:Amin Ranem, Niklas Babendererde, Moritz Fuchs, Anirban Mukhopadhyay.<br />
+  "Exploring SAM Ablations for Enhancing Medical Segmentation in Radiology and Pathology." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.00504)] 
+
+:boom:**UniQuadric:** Linghao Yang, Yanmin Wu, Yu Deng, Rui Tian, Xinggang Hu, Tiefeng Ma.<br />
+  "UniQuadric: A SLAM Backend for Unknown Rigid Object 3D Tracking and Light-Weight Modeling." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.17036)] 
+
+:boom:**SAMFeat:**  Jingqian Wu, Rongtao Xu, Zach Wood-Doughty, Changwei Wang.<br />
+  "Segment Anything Model is a Good Teacher for Local Feature Learning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.16992)] 
+  [[code](https://github.com/vignywang/SAMFeat)]
+
+:boom:**nnSAM:** Yunxiang Li, Bowen Jing, Xiang Feng, Zihan Li, Yongbo He, Jing Wang, You Zhang.<br />
+  "nnSAM: Plug-and-play Segment Anything Model Improves nnUNet Performance." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.16967)] 
+  [[code](https://github.com/Kent0n-Li/Medical-Image-Segmentation)]
+
+- Mayara E. Bonani, Max Schwarz, Sven Behnke.<br />
   "Learning from SAM: Harnessing a Segmentation Foundation Model for Sim2Real Domain Adaptation through Regularization." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2309.15562)] 
 
