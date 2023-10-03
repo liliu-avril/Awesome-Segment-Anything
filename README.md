@@ -87,6 +87,10 @@
 ### Follow-up Papers 
 $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 3 &ensp; October &ensp; 2023)$ 
 
+:boom:**BaDLAD:** Kazi Reyazul Hasan, Mubasshira Musarrat, Sadif Ahmed, Shahriar Raj.<br />
+  "Framework and Model Analysis on Bengali Document Layout Analysis Dataset: BaDLAD." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.16700)] 
+
 :boom:**SLP:** David Balaban, Justin Medich, Pranay Gosar, Justin Hart.<br />
   "Propagating Semantic Labels in Video Data." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.00783)] 
