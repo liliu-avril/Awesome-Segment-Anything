@@ -85,9 +85,13 @@
 
 
 ### Follow-up Papers 
-$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 4 &ensp; October &ensp; 2023)$ 
+$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 5 &ensp; October &ensp; 2023)$ 
 
-:boom:Ali Mayladan, Hasan Nasrallah, Hasan Moughnieh, Mustafa Shukor, Ali J. Ghandour.<br />
+:boom:Xiangru Li, Yifei Zhang, Liang Zhao.<br />
+  "Multi-Prompt Fine-Tuning of Foundation Models for Enhanced Medical Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.02381)] 
+
+- Ali Mayladan, Hasan Nasrallah, Hasan Moughnieh, Mustafa Shukor, Ali J. Ghandour.<br />
   "Zero-Shot Refinement of Buildings' Segmentation Models using SAM." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.01845)] 
 
