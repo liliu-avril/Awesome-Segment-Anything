@@ -20,12 +20,12 @@
   [[Reddit](https://www.reddit.com/r/singularity/comments/12cq56n/meta_ai_has_released_both_the_model_and_the/)]
 
 - **SEEM:** Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee.<br />
-  "Segment Everything Everywhere All at Once." ArXiv (2023).
+  "Segment Everything Everywhere All at Once." ICCV (2023).
   [[paper](https://arxiv.org/abs/2304.06718)] 
   [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
   
 - **SegGPT:** Xinlong Wang, Xiaosong Zhang, Yue Cao, Wen Wang, Chunhua Shen, Tiejun Huang.<br />
-  "SegGPT: Segmenting Everything In Context." ArXiv (2023).
+  "SegGPT: Segmenting Everything In Context." ICCV (2023).
   [[paper](https://arxiv.org/abs/2304.03284)] 
   [[code](https://github.com/baaivision/Painter)]
 
@@ -85,9 +85,14 @@
 
 
 ### Follow-up Papers 
-$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 5 &ensp; October &ensp; 2023)$ 
+$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 9 &ensp; October &ensp; 2023)$ 
 
-:boom:Xiangru Li, Yifei Zhang, Liang Zhao.<br />
+:boom:**TiC:** Song Zhang, Qingzhong Wang, Jiang Bian, Haoyi Xiong.<br />
+  "TiC: Exploring Vision Transformer in Convolution." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.04134)] 
+  [[code](https://github.com/zs670980918/MSA-Conv)]
+
+- Xiangru Li, Yifei Zhang, Liang Zhao.<br />
   "Multi-Prompt Fine-Tuning of Foundation Models for Enhanced Medical Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.02381)] 
 
