@@ -85,9 +85,13 @@
 
 
 ### Follow-up Papers 
-$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 9 &ensp; October &ensp; 2023)$ 
+$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 10 &ensp; October &ensp; 2023)$ 
 
-:boom:**TiC:** Song Zhang, Qingzhong Wang, Jiang Bian, Haoyi Xiong.<br />
+:boom:**Tree-GPT:** Siqi Du, Shengjun Tang, Weixi Wang, Xiaoming Li, Renzhong Guo.<br />
+  "Tree-GPT: Modular Large Language Model Expert System for Forest Remote Sensing Image Understanding and Interactive Analysis." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.04698)] 
+
+- **TiC:** Song Zhang, Qingzhong Wang, Jiang Bian, Haoyi Xiong.<br />
   "TiC: Exploring Vision Transformer in Convolution." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.04134)] 
   [[code](https://github.com/zs670980918/MSA-Conv)]
@@ -699,7 +703,7 @@ $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 9 &ensp; October &ensp; 2
   [[paper](https://arxiv.org/abs/2306.02094)] 
 
 - **HQ-SAM:** Lei Ke, Mingqiao Ye, Martin Danelljan, Yifan Liu, Yu-Wing Tai, Chi-Keung Tang, Fisher Yu.<br />
-  "Segment Anything in High Quality." ArXiv (2023).
+  "Segment Anything in High Quality." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2306.01567)] 
   [[code](https://github.com/SysCV/SAM-HQ)]
 
@@ -812,7 +816,7 @@ $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 9 &ensp; October &ensp; 2
 
 
 - **EAC:** Ao Sun, Pingchuan Ma, Yuanyuan Yuan, Shuai Wang.<br />
-  "Explain Any Concept: Segment Anything Meets Concept-Based Explanation." ArXiv (2023).
+  "Explain Any Concept: Segment Anything Meets Concept-Based Explanation." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2305.10289)] 
 
 - Xiao Yang, Haixing Dai, Zihao Wu, Ramesh Bist, Sachin Subedi, Jin Sun, Guoyu Lu, Changying Li, Tianming Liu, Lilong Chai.<br />
