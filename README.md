@@ -20,7 +20,7 @@
   [[Reddit](https://www.reddit.com/r/singularity/comments/12cq56n/meta_ai_has_released_both_the_model_and_the/)]
 
 - **SEEM:** Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee.<br />
-  "Segment Everything Everywhere All at Once." ICCV (2023).
+  "Segment Everything Everywhere All at Once." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2304.06718)] 
   [[code](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once)]
   
