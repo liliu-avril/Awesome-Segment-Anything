@@ -1,16 +1,49 @@
-# Awesome Segment Anything
-## News :boom:"Segment Anything" has been accepted by ICCV 2023:boom:
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![PR's Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat)](http://makeapullrequest.com)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Welcome to summit your project [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)]
-## Survey
-- **The First Comprehensive SAM Survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
-  "A Comprehensive Survey on Segment Anything Model for Vision and Beyond." ArXiv (2023).
-  [[paper]( https://arxiv.org/abs/2305.08196)] 
-  [[homepage]( https://github.com/liliu-avril/Awesome-Segment-Anything)][[中文解读](https://mp.weixin.qq.com/s/uYpRzvRp22-40x8e0pLVIg)] 
+# A Comprehensive Survey on Segment Anything Model for Vision and Beyond
+
+> **The First Comprehensive SAM Survey: A Comprehensive Survey on Segment Anything Model for Vision and Beyond.** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu. [[paper](https://arxiv.org/abs/2305.08196)] [[homepage](https://github.com/liliu-avril/Awesome-Segment-Anything)][[中文解读](https://mp.weixin.qq.com/s/uYpRzvRp22-40x8e0pLVIg)] 
+
+> **<p align="justify"> Abstract:** *Artificial intelligence (AI) is evolving towards artificial general intelligence, which refers to the ability of an AI system to perform a wide range of tasks and exhibit a level of intelligence similar to that of a human being. This is in contrast to narrow or specialized AI, which is designed to perform specific tasks with a high degree of efficiency. Therefore, it is urgent to design a general class of models, which we term foundation models, trained on broad data that can be adapted to various downstream tasks. The recently proposed segment anything model (SAM) has made significant progress in breaking the boundaries of segmentation, greatly promoting the development of foundation models for computer vision. To fully comprehend SAM, we conduct a survey study. As the first to comprehensively review the progress of segmenting anything task for vision and beyond based on the foundation model of SAM, this work focuses on its applications to various tasks and data types by discussing its historical development, recent progress, and profound impact on broad applications. We first introduce the background and terminology for foundation models including SAM, as well as state-of-the-art methods contemporaneous with SAM that are significant for segmenting anything task. Then, we analyze and summarize the advantages and limitations of SAM across various image processing applications, including software scenes, real-world scenes, and complex scenes. Importantly, many insights are drawn to guide future research to develop more versatile foundation models and improve the architecture of SAM. We also summarize massive other amazing applications of SAM in vision and beyond. Finally, we maintain a continuously updated paper list and an open-source project summary for foundation model SAM at [here](https://github.com/liliu-avril/Awesome-Segment-Anything).* </p>
+
+> **Awesome Segment Anything Models:** A curated list of awesome segment anything models in computer vision and beyond. This repository supplements our survey paper. We intend to continuously update it.
+
+We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)].
+
+____
+
+## News
+```
+- 2023.10.11: Latest update of paper list. 
+- 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
+- 2023.05.16: An initial version of recent papers and projects.
+- 2023.04.05: The paper of "Segment Anything" was online.
+```
+## Contents
+
+- [Paper List](#paper-list) 
+  - [Seminal Papers](#seminal-papers)
+  - [Follow-up Papers ](#follow-up-papers)
+- [Open Source Projects](#open-source-projects)
+- [Awesome Repositories for SAM](#awesome-repositories-for-sam)
+
+## Citation
+
+If you find our work useful in your research, please consider citing:
+```
+@article{chunhui2023samsurvey,
+  title={A Comprehensive Survey on Segment Anything Model for Vision and Beyond},
+  author={Zhang, Chunhui and Liu, Li and Cui, Yawen and Huang, Guanjie and Lin, Weilin and Yang, Yiqian and Hu, Yuehong},
+  journal={arXiv:2304.02643},
+  year={2023}
+}
+```
 
 
-## Papers
-### :star2: Recommendations :star2:
+## Paper List
+### Seminal Papers
 - **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
   "Segment Anything." **ICCV (2023)**.
   [[paper](https://arxiv.org/abs/2304.02643)] 
@@ -85,7 +118,6 @@
 
 
 ### Follow-up Papers 
-$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 11 &ensp; October &ensp; 2023)$ 
 
 :boom:**MED:** Haijie Ren, Weiqiang Wang, Wentao Tang, Rui Zhang.<br />
   "Machine Eye for Defects: Machine Learning-Based Solution to Identify and Characterize Topological Defects in Textured Images of Nematic Materials." ArXiv (2023).
@@ -1170,16 +1202,6 @@ $\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 11 &ensp; October &ensp; 
 - [JerryX1110/Awesome-segment-anything-extensions](https://github.com/JerryX1110/awesome-segment-anything-extensions)
 - [dk-liang/Awesome-Segment-Anything](https://github.com/dk-liang/Awesome-Segment-Anything)
 
-## Citing SAM Survey
 
-If this survey is useful in your research, please use the following BibTeX entry.
-
-```
-@article{chunhui2023samsurvey,
-  title={A Comprehensive Survey on Segment Anything Model for Vision and Beyond},
-  author={Zhang, Chunhui and Liu, Li and Cui, Yawen and Huang, Guanjie and Lin, Weilin and Yang, Yiqian and Hu, Yuehong},
-  journal={arXiv:2304.02643},
-  year={2023}
-}
-```
-
+## License
+This project is released under the MIT license. Please see the [LICENSE](LICENSE) file for more information.
