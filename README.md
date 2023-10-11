@@ -85,9 +85,17 @@
 
 
 ### Follow-up Papers 
-$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 10 &ensp; October &ensp; 2023)$ 
+$\color{Magenta}(Last &ensp; updated &ensp; on: &ensp; 11 &ensp; October &ensp; 2023)$ 
 
-:boom:**Tree-GPT:** Siqi Du, Shengjun Tang, Weixi Wang, Xiaoming Li, Renzhong Guo.<br />
+:boom:**MED:** Haijie Ren, Weiqiang Wang, Wentao Tang, Rui Zhang.<br />
+  "Machine Eye for Defects: Machine Learning-Based Solution to Identify and Characterize Topological Defects in Textured Images of Nematic Materials." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.06406)] 
+
+:boom:Mohammad Peivandi, Jason Zhang, Michael Lu, Dongxiao Zhu, Zhifeng Kou.<br />
+  "Empirical Evaluation of the Segment Anything Model (SAM) for Brain Tumor Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.06162)] 
+
+- **Tree-GPT:** Siqi Du, Shengjun Tang, Weixi Wang, Xiaoming Li, Renzhong Guo.<br />
   "Tree-GPT: Modular Large Language Model Expert System for Forest Remote Sensing Image Understanding and Interactive Analysis." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.04698)] 
 
