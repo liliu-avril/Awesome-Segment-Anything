@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.10.11: Latest update of paper list. 
+- 2023.10.12: Latest update of paper list. 
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -118,12 +118,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers 
+:boom:**SAM-OCTA:** Xinrun Chen, Chengliang Wang, Haojian Ning, Shiying Li.<br />
+  "SAM-OCTA: Prompting Segment-Anything for OCTA Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.07183)] 
+  [[code](https://github.com/ShellRedia/SAM-OCTA)]
 
-:boom:**MED:** Haijie Ren, Weiqiang Wang, Wentao Tang, Rui Zhang.<br />
+- **MED:** Haijie Ren, Weiqiang Wang, Wentao Tang, Rui Zhang.<br />
   "Machine Eye for Defects: Machine Learning-Based Solution to Identify and Characterize Topological Defects in Textured Images of Nematic Materials." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.06406)] 
 
-:boom:Mohammad Peivandi, Jason Zhang, Michael Lu, Dongxiao Zhu, Zhifeng Kou.<br />
+- Mohammad Peivandi, Jason Zhang, Michael Lu, Dongxiao Zhu, Zhifeng Kou.<br />
   "Empirical Evaluation of the Segment Anything Model (SAM) for Brain Tumor Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.06162)] 
 
