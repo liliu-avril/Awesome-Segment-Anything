@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.10.12: Latest update of paper list. 
+- 2023.10.13: Latest update of paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -118,7 +118,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers 
-:boom:**SAM-OCTA:** Xinrun Chen, Chengliang Wang, Haojian Ning, Shiying Li.<br />
+:boom:**MCREA:** Xu Chen, Yunde Jia, Yuwei Wu.<br />
+  "Fine-Grained Annotation for Face Anti-Spoofing." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.08142)] 
+
+- **SAM-OCTA:** Xinrun Chen, Chengliang Wang, Haojian Ning, Shiying Li.<br />
   "SAM-OCTA: Prompting Segment-Anything for OCTA Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.07183)] 
   [[code](https://github.com/ShellRedia/SAM-OCTA)]
