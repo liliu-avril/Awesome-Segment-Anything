@@ -10,13 +10,13 @@
 
 > **Awesome Segment Anything Models:** A curated list of awesome segment anything models in computer vision and beyond. This repository supplements our survey paper. We intend to continuously update it.
 
-We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)].
+#### We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)].
 
 ____
 
 ## News
 ```
-- 2023.10.13: Latest update of paper list.
+- 2023.10.16: Latest update of paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -118,7 +118,19 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers 
-:boom:**MCREA:** Xu Chen, Yunde Jia, Yuwei Wu.<br />
+:boom:**SAM-guided UDA:** Xidong Peng, Runnan Chen, Feng Qiao, Lingdong Kong, Youquan Liu, Tai Wang, Xinge Zhu, Yuexin Ma.<br />
+  "SAM-guided Unsupervised Domain Adaptation for 3D Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.08820)] 
+
+:boom:**SemCom:** Avi Deb Raha, Md. Shirajum Munir, Apurba Adhikary, Yu Qiao, Choong Seon Hong.<br />
+  "Generative AI-driven Semantic Communication Framework for NextG Wireless Network." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.09021)] 
+
+:boom:Christian A. Schiller.<br />
+  "Virtual Augmented Reality for Atari Reinforcement Learning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.08683)] 
+
+- **MCREA:** Xu Chen, Yunde Jia, Yuwei Wu.<br />
   "Fine-Grained Annotation for Face Anti-Spoofing." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.08142)] 
 
