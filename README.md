@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.10.16: Latest update of paper list.
+- 2023.10.17: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -118,15 +118,36 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers 
-:boom:**SAM-guided UDA:** Xidong Peng, Runnan Chen, Feng Qiao, Lingdong Kong, Youquan Liu, Tai Wang, Xinge Zhu, Yuexin Ma.<br />
+:boom:**SAM_Interactive_Histopathology:** SeungKyu Kim, Hyun-Jic Oh, Seonghui Min, Won-Ki Jeong.<br />
+  "Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation." MICCAI Workshop (2023).
+  [[paper](https://arxiv.org/abs/2310.10493)] 
+  [[code](https://github.com/hvcl/SAM_Interactive_Histopathology)]
+
+:boom:Yao Qianxiang, Bin Jiang.<br />
+  "Recursive Segmentation Living Image: An eXplainable AI (XAI) Approach for Computing Structural Beauty of Images or the Livingness of Space." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.10149)] 
+
+:boom:Sheng Zheng, Chaoning Zhang.<br />
+  "Black-box Targeted Adversarial Attack on Segment Anything (SAM)." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.10010)] 
+
+:boom:Jiahao Xia, Gavin Gong 2, Jiawei Liu, Zhigang Zhu, Hao Tang.<br />
+  "Segment Anything Model for Pedestrian Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.09918)] 
+
+:boom:**PUCD :** Youngtack Oh, Minseok Seo, Doyi Ki, Junghoon Seo.<br />
+  "Prototype-oriented Unsupervised Change Detection for Disaster Management." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.09759)] 
+
+- **SAM-guided UDA:** Xidong Peng, Runnan Chen, Feng Qiao, Lingdong Kong, Youquan Liu, Tai Wang, Xinge Zhu, Yuexin Ma.<br />
   "SAM-guided Unsupervised Domain Adaptation for 3D Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.08820)] 
 
-:boom:**SemCom:** Avi Deb Raha, Md. Shirajum Munir, Apurba Adhikary, Yu Qiao, Choong Seon Hong.<br />
+- **SemCom:** Avi Deb Raha, Md. Shirajum Munir, Apurba Adhikary, Yu Qiao, Choong Seon Hong.<br />
   "Generative AI-driven Semantic Communication Framework for NextG Wireless Network." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.09021)] 
 
-:boom:Christian A. Schiller.<br />
+- Christian A. Schiller.<br />
   "Virtual Augmented Reality for Atari Reinforcement Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.08683)] 
 
