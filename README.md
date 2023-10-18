@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.10.17: Latest update of this paper list.
+- 2023.10.18: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -118,24 +118,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers 
-:boom:**SAM_Interactive_Histopathology:** SeungKyu Kim, Hyun-Jic Oh, Seonghui Min, Won-Ki Jeong.<br />
+:boom:**SoM-GPT4V:** Jianwei Yang, Hao Zhang, Feng Li, Xueyan Zou, Chunyuan Li, Jianfeng Gao.<br />
+  "Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.11441)] 
+  [[homepage](https://som-gpt4v.github.io/)]
+  [[code](https://github.com/microsoft/SoM)]
+
+:boom:**IPSeg:** Lv Tang, Peng-Tao Jiang, Hao-Ke Xiao, Bo Li.<br />
+  "Towards Training-free Open-world Segmentation via Image Prompting Foundation Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.10912)] 
+
+- **SAM_Interactive_Histopathology:** SeungKyu Kim, Hyun-Jic Oh, Seonghui Min, Won-Ki Jeong.<br />
   "Evaluation and improvement of Segment Anything Model for interactive histopathology image segmentation." MICCAI Workshop (2023).
   [[paper](https://arxiv.org/abs/2310.10493)] 
   [[code](https://github.com/hvcl/SAM_Interactive_Histopathology)]
 
-:boom:Yao Qianxiang, Bin Jiang.<br />
+- Yao Qianxiang, Bin Jiang.<br />
   "Recursive Segmentation Living Image: An eXplainable AI (XAI) Approach for Computing Structural Beauty of Images or the Livingness of Space." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.10149)] 
 
-:boom:Sheng Zheng, Chaoning Zhang.<br />
+- Sheng Zheng, Chaoning Zhang.<br />
   "Black-box Targeted Adversarial Attack on Segment Anything (SAM)." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.10010)] 
 
-:boom:Jiahao Xia, Gavin Gong 2, Jiawei Liu, Zhigang Zhu, Hao Tang.<br />
+- Jiahao Xia, Gavin Gong 2, Jiawei Liu, Zhigang Zhu, Hao Tang.<br />
   "Segment Anything Model for Pedestrian Infrastructure Inventory: Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.09918)] 
 
-:boom:**PUCD :** Youngtack Oh, Minseok Seo, Doyi Ki, Junghoon Seo.<br />
+- **PUCD :** Youngtack Oh, Minseok Seo, Doyi Ki, Junghoon Seo.<br />
   "Prototype-oriented Unsupervised Change Detection for Disaster Management." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.09759)] 
 
