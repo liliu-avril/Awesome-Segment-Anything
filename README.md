@@ -119,9 +119,13 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 :boom:**Mammo-SAM:** Xinyu Xiong, Churan Wang, Wenxue Li, Guanbin Li.<br />
-  "Mammo-SAM: Adapting Foundation Segment Anything Model for Automatic Breast Mass Segmentation in Whole Mammograms." ArXiv (2023).
+  "Mammo-SAM: Adapting Foundation Segment Anything Model for Automatic Breast Mass Segmentation in Whole Mammograms." ResearchGate (2023).
 [[paper](https://www.researchgate.net/publication/374739539_Mammo-SAM_Adapting_Foundation_Segment_Anything_Model_for_Automatic_Breast_Mass_Segmentation_in_Whole_Mammograms)] 
 
+:boom:Anwai Archit, Sushmita Nair, Nabeel Khalid, Paul Hilt, Vikas Rajashekar, Marei Freitag, Sagnik Gupta, Andreas Dengel, Sheraz Ahmed, Constantin Pape.<br />
+  "Segment Anything for Microscopy." ResearchGate (2023).
+  [[paper](https://www.biorxiv.org/content/10.1101/2023.08.21.554208v1.full.pdf)] 
+  
 :boom:Dongshen Han, Sheng Zheng, Chaoning Zhang.<br />
   "Segment Anything Meets Universal Adversarial Perturbation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.12431)] 
@@ -130,9 +134,6 @@ If you find our work useful in your research, please consider citing:
   "Efficient Segment-Anything Model for Automatic Mask Region Extraction in Livestock Monitoring." IEEE ICCT(2023).
   [[paper](https://www.researchgate.net/publication/373265261_Efficient_Segment-Anything_Model_for_Automatic_Mask_Region_Extraction_in_Livestock_Monitoring)] 
 
-:boom:Anwai Archit, Sushmita Nair, Nabeel Khalid, Paul Hilt, Vikas Rajashekar, Marei Freitag, Sagnik Gupta, Andreas Dengel, Sheraz Ahmed, Constantin Pape.<br />
-  "Segment Anything for Microscopy." ArXiv (2023).
-  [[paper](https://www.biorxiv.org/content/10.1101/2023.08.21.554208v1.full.pdf)] 
 
 - **SoM-GPT4V:** Jianwei Yang, Hao Zhang, Feng Li, Xueyan Zou, Chunyuan Li, Jianfeng Gao.<br />
   "Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V." ArXiv (2023).
