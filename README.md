@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.10.19: Latest update of this paper list.
+- 2023.10.20: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -118,13 +118,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers 
-:boom:**SoM-GPT4V:** Jianwei Yang, Hao Zhang, Feng Li, Xueyan Zou, Chunyuan Li, Jianfeng Gao.<br />
+:boom:Dongshen Han, Sheng Zheng, Chaoning Zhang.<br />
+  "Segment Anything Meets Universal Adversarial Perturbation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.12431)] 
+
+- **SoM-GPT4V:** Jianwei Yang, Hao Zhang, Feng Li, Xueyan Zou, Chunyuan Li, Jianfeng Gao.<br />
   "Set-of-Mark Prompting Unleashes Extraordinary Visual Grounding in GPT-4V." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.11441)] 
   [[homepage](https://som-gpt4v.github.io/)]
   [[code](https://github.com/microsoft/SoM)]
 
-:boom:**IPSeg:** Lv Tang, Peng-Tao Jiang, Hao-Ke Xiao, Bo Li.<br />
+- **IPSeg:** Lv Tang, Peng-Tao Jiang, Hao-Ke Xiao, Bo Li.<br />
   "Towards Training-free Open-world Segmentation via Image Prompting Foundation Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.10912)] 
 
