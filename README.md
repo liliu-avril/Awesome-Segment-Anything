@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.10.20: Latest update of this paper list.
+- 2023.10.23: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -118,19 +118,27 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Mammo-SAM:** Xinyu Xiong, Churan Wang, Wenxue Li, Guanbin Li.<br />
+:boom:Zhaozheng Chen, Qianru Sun.<br />
+  "Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.13026)] 
+
+:boom:Sumit Pandey, Kuan-Fu Chen, Erik B. Dam.<br />
+  "Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.12995)] 
+
+- **Mammo-SAM:** Xinyu Xiong, Churan Wang, Wenxue Li, Guanbin Li.<br />
   "Mammo-SAM: Adapting Foundation Segment Anything Model for Automatic Breast Mass Segmentation in Whole Mammograms." ResearchGate (2023).
 [[paper](https://www.researchgate.net/publication/374739539_Mammo-SAM_Adapting_Foundation_Segment_Anything_Model_for_Automatic_Breast_Mass_Segmentation_in_Whole_Mammograms)] 
 
-:boom:Anwai Archit, Sushmita Nair, Nabeel Khalid, Paul Hilt, Vikas Rajashekar, Marei Freitag, Sagnik Gupta, Andreas Dengel, Sheraz Ahmed, Constantin Pape.<br />
+- Anwai Archit, Sushmita Nair, Nabeel Khalid, Paul Hilt, Vikas Rajashekar, Marei Freitag, Sagnik Gupta, Andreas Dengel, Sheraz Ahmed, Constantin Pape.<br />
   "Segment Anything for Microscopy." ResearchGate (2023).
   [[paper](https://www.biorxiv.org/content/10.1101/2023.08.21.554208v1.full.pdf)] 
   
-:boom:Dongshen Han, Sheng Zheng, Chaoning Zhang.<br />
+- Dongshen Han, Sheng Zheng, Chaoning Zhang.<br />
   "Segment Anything Meets Universal Adversarial Perturbation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.12431)] 
 
-:boom:Su Myat Noe.<br />
+- Su Myat Noe.<br />
   "Efficient Segment-Anything Model for Automatic Mask Region Extraction in Livestock Monitoring." IEEE ICCT(2023).
   [[paper](https://www.researchgate.net/publication/373265261_Efficient_Segment-Anything_Model_for_Automatic_Mask_Region_Extraction_in_Livestock_Monitoring)] 
 
