@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.10.23: Latest update of this paper list.
+- 2023.10.24: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -118,11 +118,20 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Zhaozheng Chen, Qianru Sun.<br />
+:boom:**SAM-Med3D:** Haoyu Wang, Sizheng Guo, Jin Ye, Zhongying Deng, Junlong Cheng, Tianbin Li, Jianpin Chen, Yanzhou Su, Ziyan Huang, Yiqing Shen, Bin Fu, Shaoting Zhang, Junjun He, Yu Qiao.<br />
+  "SAM-Med3D." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.15161)] 
+  [[code](https://github.com/uni-medical/SAM-Med3D)]
+
+:boom:**SAMCLR:** Benjamin Missaoui, Chongbin Yuan.<br />
+  "SAMCLR: Contrastive pre-training on complex scenes using SAM for view sampling." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.14736)] 
+
+- Zhaozheng Chen, Qianru Sun.<br />
   "Weakly-Supervised Semantic Segmentation with Image-Level Labels: from Traditional Models to Foundation Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.13026)] 
 
-:boom:Sumit Pandey, Kuan-Fu Chen, Erik B. Dam.<br />
+- Sumit Pandey, Kuan-Fu Chen, Erik B. Dam.<br />
   "Comprehensive Multimodal Segmentation in Medical Imaging: Combining YOLOv8 with SAM and HQ-SAM Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.12995)] 
 
