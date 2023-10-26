@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.10.25: Latest update of this paper list.
+- 2023.10.26: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -118,7 +118,15 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAM-CLIP:** Haoxiang Wang, Pavan Kumar Anasosalu Vasu, Fartash Faghri, Raviteja Vemulapalli, Mehrdad Farajtabar, Sachin Mehta, Mohammad Rastegari, Oncel Tuzel, Hadi Pouransari.<br />
+:boom:**EdgeCalib:** Xingchen Li, Yifan Duan, Beibei Wang, Haojie Ren, Guoliang You, Yu Sheng, Jianmin Ji, Yanyong Zhang.<br />
+  "EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.16629)] 
+
+:boom:**Open-NeRF:** Hao Zhang, Fang Li, Narendra Ahuja.<br />
+  "Open-NeRF: Towards Open Vocabulary NeRF Decomposition." WACV (2024).
+  [[paper](https://arxiv.org/abs/2310.16383)] 
+
+- **SAM-CLIP:** Haoxiang Wang, Pavan Kumar Anasosalu Vasu, Fartash Faghri, Raviteja Vemulapalli, Mehrdad Farajtabar, Sachin Mehta, Mohammad Rastegari, Oncel Tuzel, Hadi Pouransari.<br />
   "SAM-CLIP: Merging Vision Foundation Models towards Semantic and Spatial Understanding." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.15308)] 
 
