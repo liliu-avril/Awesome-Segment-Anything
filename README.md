@@ -494,7 +494,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2308.06957)] 
 
 - **CLE Diffusion:** Yuyang Yin, Dejia Xu, Chuangchuang Tan, Ping Liu, Yao Zhao, Yunchao Wei.<br />
-  "CLE Diffusion: Controllable Light Enhancement Diffusion Model." ArXiv (2023).
+  "CLE Diffusion: Controllable Light Enhancement Diffusion Model." ACM MM (2023).
   [[paper](https://arxiv.org/abs/2308.06725)] 
   [[code](https://yuyangyin.github.io/CLEDiffusion/)]
 
