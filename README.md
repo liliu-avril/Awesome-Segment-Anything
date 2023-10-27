@@ -124,7 +124,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2310.17128)] 
 
 :boom:**SonoSAM:** Hariharan Ravishankar, Rohan Patil, Vikram Melapudi, Parminder Bhatia, Kass-Hout Taha, Pavan Annangi.<br />
-  "SonoSAM -- Segment Anything on Ultrasound Images." ArXiv (2023).
+  "SonoSAM -- Segment Anything on Ultrasound Images." ASMUS (2023).
   [[paper](https://arxiv.org/abs/2310.16872)] 
 
 - **EdgeCalib:** Xingchen Li, Yifan Duan, Beibei Wang, Haojie Ren, Guoliang You, Yu Sheng, Jianmin Ji, Yanyong Zhang.<br />
@@ -404,7 +404,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2308.14936)] 
 
 - Leo Fillioux, Emilie Gontran, Jérôme Cartry, Jacques RR Mathieu, Sabrina Bedja, Alice Boilève, Paul-Henry Cournède, Fanny Jaulin, Stergios Christodoulidis, Maria Vakalopoulou.<br />
-  "Spatio-Temporal Analysis of Patient-Derived Organoid Videos Using Deep Learning for the Prediction of Drug Efficacy." ArXiv (2023).
+  "Spatio-Temporal Analysis of Patient-Derived Organoid Videos Using Deep Learning for the Prediction of Drug Efficacy." ICCV Workshop (2023).
   [[paper](https://arxiv.org/abs/2308.14461)] 
 
 - **SAM-PARSER:** Zelin Peng, Zhengqin Xu, Zhilin Zeng, Xiaokang Yang, Wei Shen.<br />
