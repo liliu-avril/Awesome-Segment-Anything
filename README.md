@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.10.26: Latest update of this paper list.
+- 2023.10.27: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -118,11 +118,20 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**EdgeCalib:** Xingchen Li, Yifan Duan, Beibei Wang, Haojie Ren, Guoliang You, Yu Sheng, Jianmin Ji, Yanyong Zhang.<br />
+
+:boom:**SAMPOT:** Rachana Sathish, Rahul Venkataramani, K S Shriram, Prasad Sudhakar.<br />
+  "Task-driven Prompt Evolution for Foundation Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.17128)] 
+
+:boom:**SonoSAM:** Hariharan Ravishankar, Rohan Patil, Vikram Melapudi, Parminder Bhatia, Kass-Hout Taha, Pavan Annangi.<br />
+  "SonoSAM -- Segment Anything on Ultrasound Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.16872)] 
+
+- **EdgeCalib:** Xingchen Li, Yifan Duan, Beibei Wang, Haojie Ren, Guoliang You, Yu Sheng, Jianmin Ji, Yanyong Zhang.<br />
   "EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.16629)] 
 
-:boom:**Open-NeRF:** Hao Zhang, Fang Li, Narendra Ahuja.<br />
+- **Open-NeRF:** Hao Zhang, Fang Li, Narendra Ahuja.<br />
   "Open-NeRF: Towards Open Vocabulary NeRF Decomposition." WACV (2024).
   [[paper](https://arxiv.org/abs/2310.16383)] 
 
