@@ -569,7 +569,7 @@ If you find our work useful in your research, please consider citing:
 
 
 - **CNOS:** Van Nguyen Nguyen, Tomas Hodan, Georgy Ponimatkin, Thibault Groueix, Vincent Lepetit.<br />
-  "CNOS: A Strong Baseline for CAD-based Novel Object Segmentation." ArXiv (2023).
+  "CNOS: A Strong Baseline for CAD-based Novel Object Segmentation." ICCV Workshop (2023).
   [[paper](https://arxiv.org/abs/2307.11067)] 
   [[code](https://github.com/nv-nguyen/cnos)]
 
