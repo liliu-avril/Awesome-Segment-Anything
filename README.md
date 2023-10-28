@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.10.27: Latest update of this paper list.
+- 2023.10.28: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -127,6 +127,314 @@ If you find our work useful in your research, please consider citing:
   "SonoSAM -- Segment Anything on Ultrasound Images." ASMUS (2023).
   [[paper](https://arxiv.org/abs/2310.16872)] 
 
+- **HFGFA:** Rongsheng Wang, Yaofei Duan, YuKun Li.<br />
+  "Segment anything also detect anything." ArXiv (2023).
+  [[paper](https://6login.easychair.org/publications/preprint_download/T1rc)] 
+
+- **NP-SAM:** Rasmus Larsen, Torben L. Villadsen, Jette K. Mathiesen, Kirsten M. Ø. Jensen, Espen D. Bøjesen.<br />
+  "NP-SAM: Implementing the Segment Anything Model for Easy Nanoparticle Segmentation in Electron Microscopy Images." ArXiv (2023).
+  [[paper](https://chemrxiv.org/engage/chemrxiv/article-details/6463c10aa32ceeff2dc08c49)] 
+  [[code](https://gitlab.au.dk/disorder/np-sam.git)]
+
+- **POPE:** Zhiwen Fan, Panwang Pan, Peihao Wang, Yifan Jiang, Dejia Xu, Hanwen Jiang, Zhangyang Wang.<br />
+  "POPE: 6-DoF Promptable Pose Estimation of Any Object, in Any Scene, with One Reference." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.15727)] 
+  [[code](https://paulpanwang.github.io/POPE/)]
+
+- **Bridge3D:** Zhimin Chen, Bing Li.<br />
+  "Bridging the Domain Gap: Self-Supervised 3D Scene Understanding with Foundation Models." ArXiv (2023).
+  [[paper](https://arxiv.org/pdf/2305.08776.pdf)] 
+
+- **Make-A-Protagonist:** Yuyang Zhao, Enze Xie, Lanqing Hong, Zhenguo Li, Gim Hee Lee.<br />
+  "Make-A-Protagonist: Generic Video Editing with An Ensemble of Experts." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.08850)] 
+  [[code](https://make-a-protagonist.github.io/)]
+
+- **TDA:** Ruben Glatt, Shusen Liu.<br />
+  "Topological Data Analysis Guided Segment Anything Model Prompt Optimization for Zero-Shot Segmentation in Biological Imaging." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.17400)] 
+ 
+- **ZeroPose:** Jianqiu Chen, Mingshan Sun, Tianpeng Bao, Rui Zhao, Liwei Wu, Zhenyu He.<br />
+  "ZeroPose: CAD-Model-based Zero-Shot Pose Estimation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.17934)] 
+ 
+- **IIR-Net:** Zhongping Zhang, Jian Zheng, Jacob Zhiyuan Fang, Bryan A. Plummer.<br />
+  "Text-to-image Editing by Image Information Removal." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.17489)] 
+
+- Chaoning Zhang, Yu Qiao, Shehbaz Tariq, Sheng Zheng, Chenshuang Zhang, Chenghao Li, Hyundong Shin, Choong Seon Hong.<br />
+  "Understanding segment anything model: Sam is biased towards texture rather than shape." ArXiv (2023).
+  [[paper](https://www.researchgate.net/profile/Yu-Qiao-52/publication/371070480_Understanding_Segment_Anything_Model_SAM_is_Biased_Towards_Texture_Rather_than_Shape/links/6470de25a25e543829cedeee/Understanding-Segment-Anything-Model-SAM-is-Biased-Towards-Texture-Rather-than-Shape.pdf)] 
+  
+- Xavier F. Cadet, Ranya Aloufi, Alain Miranville, Sara Ahmadi-Abhari, Hamed Haddadi.<br />
+  "Evaluating The Robustness of Self-Supervised Representations to Background/Foreground Removal." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.01398)] 
+  
+- **3D Shape Match:** Ahmed Abdelreheem, Abdelrahman Eldesokey, Maks Ovsjanikov, Peter Wonka.<br />
+  "Zero-Shot 3D Shape Correspondence." SIGGRAPH ASIA (2023).
+  [[paper](https://arxiv.org/abs/2306.03253)] 
+  [[code](https://samir55.github.io/3dshapematch/)]
+
+- Siddharth Shankar, Leigh A. Stearns, Cornelis J. van der Veen.<br />
+  "Segment Anything in Glaciology: An initial study implementing the Segment Anything Model (SAM)." ArXiv (2023).
+  [[paper](https://www.researchsquare.com/article/rs-3011246/v1)] 
+
+- Xiang Li, Lu Zhang, Zihao Wu, Zhengliang Liu, Lin Zhao, Yixuan Yuan, Jun Liu, Gang Li, Dajiang Zhu, Pingkun Yan, Quanzheng Li, Wei Liu, Tianming Liu, Dinggang Shen.<br />
+  "Artificial General Intelligence for Medical Imaging." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.05480)] 
+ 
+- **ViDA:** Jiaming Liu, Senqiao Yang, Peidong Jia, Renrui Zhang, Ming Lu, Yandong Guo, Wei Xue, Shanghang Zhang.<br />
+  "ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.04344)] 
+  [[code](https://github.com/Yangsenqiao/vida)]
+
+- **FGVP:** Lingfeng Yang, Yueze Wang, Xiang Li, Xinlong Wang, Jian Yang.<br />
+  "Fine-Grained Visual Prompting." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.04356)] 
+
+- **AssistGPT:** Difei Gao, Lei Ji, Luowei Zhou, Kevin Qinghong Lin, Joya Chen, Zihan Fan, Mike Zheng Shou.<br />
+  "AssistGPT: A General Multi-modal Assistant that can Plan, Execute, Inspect, and Learn." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.08640)] 
+  [[code](https://showlab.github.io/assistgpt/)]
+
+- Matthew Baugh, James Batten, Johanna P. Müller, Bernhard Kainz.<br />
+  "Zero-Shot Anomaly Detection with Pre-trained Segmentation Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2306.09269)] 
+
+- Guochen Ning, Hanyin Liang, Zhongliang Jiang, Hui Zhang, Hongen Liao.<br />
+  "The potential of 'Segment Anything' (SAM) for universal intelligent ultrasound image guidance." BioScience Trends (2023).
+  [[paper](https://www.jstage.jst.go.jp/article/bst/advpub/0/advpub_2023.01119/_article/-char/ja/)] 
+  
+- **SeaDronesSee-3D and BOArienT:** Benjamin Kiefer, Timon Höfer, Andreas Zell.<br />
+  "Stable Yaw Estimation of Boats from the Viewpoint of UAVs and USVs." ECMR  (2023).
+  [[paper](https://arxiv.org/abs/2306.14056)] 
+
+- **DEFT:** Aditya Kannan.<br />
+  "Learning from Human Videos for Robotic Manipulation." ArXiv (2023).
+  [[paper](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/2023/CMU-CS-23-124.pdf)] 
+  [[code](https://github.com/adityak77/masters-thesis)]
+
+- **FOCUS :** Stefano Ferraro, Pietro Mazzaglia, Tim Verbelen, Bart Dhoedt.<br />
+  "FOCUS: Object-Centric World Models for Robotics Manipulation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.02427)] 
+  [[code](https://focus-manipulation.github.io/)]
+
+- **DisCo:** Tan Wang, Linjie Li, Kevin Lin, Yuanhao Zhai, Chung-Ching Lin, Zhengyuan Yang, Hanwang Zhang, Zicheng Liu, Lijuan Wang.<br />
+  "DisCo: Disentangled Control for Realistic Human Dance Generation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.00040)] 
+  [[code](https://disco-dance.github.io/)]
+
+- Vaibhav Vavilala, David Forsyth.<br />
+  "Applying a Color Palette with Local Control using Diffusion Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.02698)] 
+  
+- **SegAnimeChara:** Andy Yu-Hsiang Tseng, Wen-Fan Wang, Bing-Yu Chen.<br />
+  "SegAnimeChara: Segmenting Anime Characters Generated by AI." ACM  SIGGRAPH (2023).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3588028.3603685)] 
+ 
+
+- **SAM-LIV:** Junyao Shi, Jianing Qian, Yecheng Jason Ma, Dinesh Jayaraman.<br />
+  "Plug-And-Play Object-Centric Representations From “What” and “Where” Foundation Models." ArXiv (2023).
+  [[paper](https://mit-spark.github.io/robotRepresentations-RSS2023/assets/papers/17.pdf)] 
+
+- **UGainS:** Alexey Nekrasov, Alexander Hermans, Lars Kuhnert, Bastian Leibe.<br />
+  "UGainS: Uncertainty Guided Anomaly Instance Segmentation." GCPR (2023).
+  [[paper](https://arxiv.org/abs/2308.02046)] 
+  [[code](https://vision.rwth-aachen.de/ugains)]
+
+- **TASS:** Mengqi He, Jing Zhang, Zhaoyuan Yang, Mingyi He, Nick Barnes, Yuchao Dai.<br />
+  "Transferable Attack for Semantic Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2307.16572)] 
+  [[code](https://github.com/anucvers/TASS)]
+
+- **SAM zero-shot segmentator:** Loris Nanni, Carlo Fantozzi, Alberto Pretto , Daniel Fusaro.<br />
+  "Improving Existing Segmentators Performance with Zero-Shot Segmentators." ArXiv (2023).
+  [[paper](https://www.preprints.org/manuscript/202307.1729/v1)] 
+
+- Chaoqin Huang, Aofan Jiang, Ya Zhang, Yanfeng Wang.<br />
+  "Multi-Scale Memory Comparison for Zero-/Few-Shot Anomaly Detection." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.04789)] 
+
+- Dwith Chenna, Suyash Bhogawar.<br />
+  "Segment Anything Model (SAM) For Brain Extraction in fMRI Studies." IJAIMED (2023).
+  [[paper](https://www.researchgate.net/profile/Yn-Dwith-Chenna/publication/373013991_Segment_Anything_Model_SAM_For_Brain_Extraction_in_fMRI_Studies/links/64d40025c80b930269fb88cb/Segment-Anything-Model-SAM-For-Brain-Extraction-in-fMRI-Studies.pdf)] 
+
+- **OSTRA :** Jiexiong Xu, Weikun Zhao, Zhiyan Tang, Xiangchao Gan.<br />
+  "A One Stop 3D Target Reconstruction and multilevel Segmentation Method." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.06974)] 
+  [[code](https://github.com/ganlab/OSTRA)]
+
+- **ROSGPT_Vision:** https://arxiv.org/abs/2308.11236.<br />
+  "ROSGPT_Vision: Commanding Robots Using Only Language Models' Prompts." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.11236)] 
+  [[code](https://github.com/bilel-bj/ROSGPT_Vision)]
+
+- **CoDeF:** Hao Ouyang, Qiuyu Wang, Yuxi Xiao, Qingyan Bai, Juntao Zhang, Kecheng Zheng, Xiaowei Zhou, Qifeng Chen, Yujun Shen.<br />
+  "CoDeF: Content Deformation Fields for Temporally Consistent Video Processing." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.07926)] 
+  [[code](https://qiuyu96.github.io/CoDeF/)]
+
+- **WALL-E:** Tianyu Wang, Yifan Li, Haitao Lin, Xiangyang Xue, Yanwei Fu.<br />
+  "WALL-E: Embodied Robotic WAiter Load Lifting with Large Language Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.15962)] 
+  [[code](https://star-uu-wang.github.io/WALL-E/)]
+
+- **Ref-Diff:** Minheng Ni, Yabo Zhang, Kailai Feng, Xiaoming Li, Yiwen Guo, Wangmeng Zuo.<br />
+  "Ref-Diff: Zero-shot Referring Image Segmentation with Generative Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2308.16777)] 
+  [[code](https://github.com/kodenii/Ref-Diff)]
+
+- **GAVS:** Yaoting Wang, Weisong Liu, Guangyao Li, Jian Ding, Di Hu, Xi Li.<br />
+  "Prompting Segmentation with Sound is Generalizable Audio-Visual Source LocalizerPrompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.07929)] 
+
+- Raha, Avi Deb and Adhikary, Apurba and Munir, Md. Shirajum and Qiao, Yu and Hong, Choong Seon.<br />
+  "Segment Anything Model Aided Beam Prediction for the Millimeter Wave Communication." APNOMS (2023).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10258199)] 
+
+- **PVLFF:** Haoran Chen, Kenneth Blomqvist, Francesco Milano, Roland Siegwart.<br />
+  "Panoptic Vision-Language Feature Fields." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.05448)] 
+  [[code](https://github.com/ethz-asl/autolabel)]
+
+- **SAMStyler:** Psychogyios, Konstantinos and Leligou, Helen C. and Melissari, Filisia and Bourou, Stavroula and Anastasakis, Zacharias and Zahariadis, Theodore.<br />
+  "SAMStyler: Enhancing Visual Creativity With Neural Style Transfer and Segment Anything Model (SAM)." IEEE Access (2023).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10250775)] 
+ 
+- Aneesh Rangnekar, Jue Jiang, Harini Veeraraghavan.<br />
+  "3D Swin Transformer for Partial Medical Auto Segmentation." MICCAI-FLARE (2023).
+  [[paper](https://openreview.net/forum?id=IlQQU5Pp5p)] 
+
+- **ASA:** Yaqin Li, Dandan Wang, Cao Yuan, Hao Li, Jing Hu.<br />
+  "Enhancing Agricultural Image Segmentation with an Agricultural Segment Anything Model Adapter." Sensors (2023).
+  [[paper](https://www.mdpi.com/1424-8220/23/18/7884)] 
+
+- **CMSF:** Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Xiatian Zhu.<br />
+  "Leveraging Foundation models for Unsupervised Audio-Visual Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.06728)] 
+
+- **SCROD:** Valentyn Boreiko, Matthias Hein, Jan Hendrik Metzen.<br />
+  "Identifying Systematic Errors in Object Detectors with the SCROD Pipeline." ICCV Workshop (2023).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2023W/BRAVO/html/Boreiko_Identifying_Systematic_Errors_in_Object_Detectors_with_the_SCROD_Pipeline_ICCVW_2023_paper.html)] 
+
+- Iraklis Giannakis, Anshuman Bhardwaj, Lydia Sam, Georgios Leontidis.<br />
+  "A flexible deep learning crater detection scheme using Segment Anything Model (SAM)." ICARUS (2023).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0019103523003755)] 
+  
+- **SuPerPM:** Shan Lin, Albert J. Miao, Ali Alabiad, Fei Liu, Kaiyuan Wang, Jingpei Lu, Florian Richter, Michael C. Yip.<br />
+  "SuPerPM: A Large Deformation-Robust Surgical Perception Framework Based on Deep Point Matching Learned from Physical Constrained Simulation Data" ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2309.13863)] 
+ 
+- Bertrand Chauveau, Pierre Merville.<br />
+  "Segment Anything by Meta as a foundation model for image segmentation: a new era for histopathological images." Pathology (2023).
+  [[paper](https://www.pathologyjournal.rcpa.edu.au/article/S0031-3025(23)00242-8/fulltext)] 
+ 
+- **Bi-SAM:** Ying Zhao, Kechen Song, Wenqi Cui, Hang Ren, Yunhui Yan.<br />
+  "MFS enhanced SAM: Achieving superior performance in bimodal few-shot segmentation." JVCIR (2023).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1047320323001967)] 
+  [[code](https://github.com/VDT-2048/Bi-SAM)]
+
+- **MAFT:** Siyu Jiao, Yunchao Wei, Yaowei Wang, Yao Zhao, Humphrey Shi.<br />
+  "Learning Mask-aware CLIP Representations for Zero-Shot Segmentation." NeurIPS (2023).
+  [[paper](https://arxiv.org/pdf/2310.00240.pdf)] 
+  [[code](https://github.com/jiaosiyu1999/MAFT.git)]
+
+- **GroupPrompter:** Yichuang Luo, Fang Wang, Jing Xing, Xiaohu Liu.<br />
+  "GroupPrompter: A Prompting Method for Semantic Segmentation Based on SAM." IEEE Access  (2023).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10265054)] 
+ 
+- Ardiansyah Koeshidayatullah.<br />
+  "Riding the Wave: One-Touch Automatic Salt Segmentation by Coupling SAM and SegGPT ." ArXiv (2023).
+  [[paper](https://onepetro.org/SPEADIP/proceedings-abstract/23ADIP/2-23ADIP/534677)] 
+
+- **LuGSAM:** Dhanush Babu Ramesh, Rishika Iytha Sridhar, Pulakesh Upadhyaya and Rishikesan Kamaleswaran.<br />
+  "Lung Grounded-SAM (LuGSAM): A Novel Framework for Integrating Text prompts to Segment Anything Model (SAM) for Segmentation Tasks of ICU Chest X-Rays." ArXiv (2023).
+  [[paper](https://www.techrxiv.org/articles/preprint/Lung_Grounded-SAM_LuGSAM_A_Novel_Framework_for_Integrating_Text_prompts_to_Segment_Anything_Model_SAM_for_Segmentation_Tasks_of_ICU_Chest_X-Rays/24224761)] 
+  
+- **Zero123++:** Ruoxi Shi, Hansheng Chen, Zhuoyang Zhang, Minghua Liu, Chao Xu, Xinyue Wei, Linghao Chen, Chong Zeng, Hao Su.<br />
+  "Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.15110)] 
+  [[code](https://github.com/SUDO-AI-3D/zero123plus)]
+
+- **SAM-Adapter:** Tianrun Chen, Lanyun Zhu, Chaotao Deng, Runlong Cao, Yan Wang, Shangzhan Zhang, Zejian Li, Lingyun Sun, Ying Zang, Papa Mao.<br />
+  "SAM-Adapter: Adapting Segment Anything in Underperformed Scenes." ICCV Workshop (2023).
+  [[paper](https://openaccess.thecvf.com/content/ICCV2023W/VCL/html/Chen_SAM-Adapter_Adapting_Segment_Anything_in_Underperformed_Scenes_ICCVW_2023_paper.html)] 
+  [[code](http://research.kokoni3d.com/sam-adapter)]
+
+- **ConceptFusion:** Krishna Murthy Jatavallabhula, Alihusein Kuwajerwala, Qiao Gu, Mohd Omama, Tao Chen, Alaa Maalouf, Shuang Li, Ganesh Iyer, Soroush Saryazdi, Nikhil Keetha, Ayush Tewari, Joshua B. Tenenbaum, Celso Miguel de Melo, Madhava Krishna, Liam Paull, Florian Shkurti, Antonio Torralba.<br />
+  "ConceptFusion: Open-set Multimodal 3D Mapping." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2302.07241)] 
+  [[code](https://github.com/concept-fusion/concept-fusion)]
+
+- **EfficientViT:** Han Cai, Junyan Li, Muyan Hu, Chuang Gan, Song Han.<br />
+  "EfficientViT: Multi-Scale Linear Attention for High-Resolution Dense Prediction." ICCV (2023).
+  [[paper](https://arxiv.org/abs/2205.14756)] 
+  [[code](https://github.com/mit-han-lab/efficientvit)]
+
+- **CryoSegNet:** Rajan Gyawali, Ashwin Dhakal, Liguo Wang, Jianlin Cheng.<br />
+  "Accurate cryo-EM protein particle picking by integrating the foundational AI image segmentation model and specialized U-Net." ArXiv (2023).
+  [[paper](https://www.biorxiv.org/content/10.1101/2023.10.02.560572v1.abstract)] 
+  
+- **CISRU:** Silvia Romero-Azpitartea, Cristina Lunaa, Alba Guerraa, Mercedes Alonsoa, Pablo Romeo Manriquea, Marina L. Seoanea, Daniel Olayoa, Almudena Morenoa, Pablo Castellanosa, Fernando Gandíaa, Gianfranco Visentinb.<br />
+  "Enabling In-Situ Resources Utilisation by leveraging collaborative robotics and astronaut-robot interaction." IAC (2023).
+  [[paper](https://www.researchgate.net/profile/Cristina-Luna-10/publication/374451757_Enabling_In-Situ_Resources_Utilisation_by_leveraging_collaborative_robotics_and_astronaut-robot_interaction/links/651eb2bdd717ef1293cedaa1/Enabling-In-Situ-Resources-Utilisation-by-leveraging-collaborative-robotics-and-astronaut-robot-interaction.pdf)] 
+ 
+- **DiffPrompter:** Sanket Kalwar, Mihir Ungarala, Shruti Jain, Aaron Monis, Krishna Reddy Konda, Sourav Garg, K Madhava Krishna.<br />
+  "DiffPrompter: Differentiable Implicit Visual Prompts for Semantic-Segmentation in Adverse Conditions." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.04181)] 
+  [[code](https://diffprompter.github.io/)]
+
+- Alessandro Saviolo, Pratyaksh Rao, Vivek Radhakrishnan, Jiuhong Xiao, Giuseppe Loianno.<br />
+  "Unifying Foundation Models with Quadrotor Control for Visual Tracking Beyond Object Categories." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.04781)] 
+
+- Ruoqing Zhao, Xi Wang, Hongliang Dai, Pan Gao, Piji Li.<br />
+  "Medical Report Generation Based on Segment-Enhanced Contrastive Representation Learning." NLPCC (2023).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-44696-2_65)] 
+
+- Robin Karlsson, Francisco Lepe-Salazar, Kazuya Takeda.<br />
+  "Compositional Semantics for Open Vocabulary Spatio-semantic Representations." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.04981)] 
+ 
+- **InstructDET :** Ronghao Dang, Jiangyan Feng, Haodong Zhang, Chongjian Ge, Lin Song, Lijun Gong, Chengju Liu, Qijun Chen, Feng Zhu, Rui Zhao, Yibing Song.<br />
+  "InstructDET: Diversifying Referring Object Detection with Generalized Instructions." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.05136)] 
+  [[code](https://github.com/jyFengGoGo/InstructDet)]
+
+- **HICOME:** Peng Zheng.<br />
+  "Discriminative Consensus Mining with A Thousand Group for More Accurate Co-Salient Object Detection." ArXiv (2023).
+  [[paper](https://aaltodoc.aalto.fi/handle/123456789/124134)] 
+  [[code](https://github.com/ZhengPeng7/CoSINe)]
+
+- **Ferret:** Haoxuan You, Haotian Zhang, Zhe Gan, Xianzhi Du, Bowen Zhang, Zirui Wang, Liangliang Cao, Shih-Fu Chang, Yinfei Yang.<br />
+  "." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.07704)] 
+  [[code](https://github.com/apple/ml-ferret)]
+
+- **OVTracktor:** Wen-Hsuan Chu, Adam W. Harley, Pavel Tokmakov, Achal Dave, Leonidas Guibas, Katerina Fragkiadaki.<br />
+  "Zero-Shot Open-Vocabulary Tracking with Large Pre-Trained Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.06992)] 
+  [[code](https://wenhsuanchu.github.io/ovtracktor/)]
+
+- **OpenAnnotate3D:** Yijie Zhou, Likun Cai, Xianhui Cheng, Zhongxue Gan, Xiangyang Xue, Wenchao Ding.<br />
+  "OpenAnnotate3D: Open-Vocabulary Auto-Labeling System for Multi-modal 3D Data." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.13398)] 
+  [[code](https://github.com/Fudan-ProjectTitan/OpenAnnotate3D)]
+
+- **SSC:** Francisco Eiras, Kemal Oksuz, Adel Bibi, Philip H.S. Torr, Puneet K. Dokania.<br />
+  "Segment, Select, Correct: A Framework for Weakly-Supervised Referring Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.13479)] 
+  [[code](https://github.com/fgirbal/segment-select-correct)]
+
+- Shichang Liu, Junxin Chen, Ben-Guo He, Tao Chen, Gwanggil Jeon, Wei Wang.<br />
+  "Adapting Segment Anything Model for Shield Tunnel Water Leakage Segmentation." AMC-SME Workshop (2023).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3606042.3616453)] 
+
+- Sofia H. Gelado, César Quilodrán-Casas, Loïc Chagot.<br />
+  "Enhancing Microdroplet Image Analysis with Deep Learning." Micromachines (2023).
+  [[paper](https://www.mdpi.com/2072-666X/14/10/1964)] 
+
+  
 - **EdgeCalib:** Xingchen Li, Yifan Duan, Beibei Wang, Haojie Ren, Guoliang You, Yu Sheng, Jianmin Ji, Yanyong Zhang.<br />
   "EdgeCalib: Multi-Frame Weighted Edge Features for Automatic Targetless LiDAR-Camera Calibration." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.16629)] 
