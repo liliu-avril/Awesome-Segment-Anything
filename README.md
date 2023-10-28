@@ -264,7 +264,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2308.06974)] 
   [[code](https://github.com/ganlab/OSTRA)]
 
-- **ROSGPT_Vision:** https://arxiv.org/abs/2308.11236.<br />
+- **ROSGPT_Vision:** Bilel Benjdira, Anis Koubaa, Anas M. Ali.<br />
   "ROSGPT_Vision: Commanding Robots Using Only Language Models' Prompts." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.11236)] 
   [[code](https://github.com/bilel-bj/ROSGPT_Vision)]
