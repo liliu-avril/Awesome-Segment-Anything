@@ -118,6 +118,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**TGVE:** Jay Zhangjie Wu, Xiuyu Li, Difei Gao, Zhen Dong, Jinbin Bai, Aishani Singh, Xiaoyu Xiang, Youzeng Li, Zuwei Huang, Yuanxi Sun, Rui He, Feng Hu, Junhua Hu, Hai Huang, Hanyu Zhu, Xu Cheng, Jie Tang, Mike Zheng Shou, Kurt Keutzer, Forrest Iandola.<br />
+  "CVPR 2023 Text Guided Video Editing Competition." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.16003)] 
+  [[code](https://sites.google.com/view/loveucvpr23/track4)]
+
+:boom:**ViewControl:** Jinbin Bai, Zhen Dong, Aosong Feng, Xiao Zhang, Tian Ye, Kaicheng Zhou, Mike Zheng Shou.<br />
+  "Integrating View Conditions for Image Synthesis." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.16002)] 
+  
+:boom:**SparseDFF:** Qianxu Wang, Haotong Zhang, Congyue Deng, Yang You, Hao Dong, Yixin Zhu, Leonidas Guibas.<br />
+  "SparseDFF: Sparse-View Feature Distillation for One-Shot Dexterous Manipulation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.16838)] 
 
 :boom:**SAMPOT:** Rachana Sathish, Rahul Venkataramani, K S Shriram, Prasad Sudhakar.<br />
   "Task-driven Prompt Evolution for Foundation Models." ArXiv (2023).
@@ -891,7 +903,7 @@ If you find our work useful in your research, please consider citing:
   [[code](https://bubo-gpt.github.io)]
 
 - **OpenSU:** Ruiping Liu, Jiaming Zhang, Kunyu Peng, Junwei Zheng, Ke Cao, Yufan Chen, Kailun Yang, Rainer Stiefelhagen.<br />
-  "Open Scene Understanding: Grounded Situation Recognition Meets Segment Anything for Helping People with Visual Impairments." ArXiv (2023).
+  "Open Scene Understanding: Grounded Situation Recognition Meets Segment Anything for Helping People with Visual Impairments." ICCV Workshop (2023).
   [[paper](https://arxiv.org/abs/2307.07757)] 
   [[code](https://github.com/RuipingL/OpenSU)]
 
@@ -1455,7 +1467,7 @@ If you find our work useful in your research, please consider citing:
   [[code]( https://github.com/Douglas2Code/Text2Seg)]
 
 - Maciej A. Mazurowski, Haoyu Dong, Hanxue Gu, Jichen Yang, Nicholas Konz, Yixin Zhang.<br />
-  "Segment Anything Model for Medical Image Analysis: an Experimental Study." ArXiv (2023).
+  "Segment Anything Model for Medical Image Analysis: an Experimental Study." MIA (2023).
   [[paper]( https://arxiv.org/abs/2304.10517)] 
 
 - **Anything-3D:** Qiuhong Shen, Xingyi Yang, Xinchao Wang.<br />
