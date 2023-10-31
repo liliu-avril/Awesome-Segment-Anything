@@ -129,6 +129,33 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**InsDet :** Qianqian Shen, Yunhan Zhao, Nahyun Kwon, Jeeeun Kim, Yanan Li, Shu Kong.<br />
+  "A High-Resolution Dataset for Instance Detection with Multi-View Instance Capture." NeurIPS Datasets and Benchmarks Track (2023).
+  [[paper](https://arxiv.org/abs/2310.19257)] 
+  [[code](https://github.com/insdet/instance-detection)]
+  [2023.10]
+
+:boom:Deepa Anand, Gurunath Reddy M, Vanika Singhal, Dattesh D. Shanbhag, Shriram KS, Uday Patil, Chitresh Bhushan, Kavitha Manickam, Dawei Gui, Rakesh Mullick, Avinash Gopal, Parminder Bhatia, Taha Kass-Hout.<br />
+  "One-shot Localization and Segmentation of Medical Images with Foundation Models." NeurIPS Workshop (2023).
+  [[paper](https://arxiv.org/abs/2310.18642)] 
+  [2023.10]
+
+:boom:**AVIS :** Ruohao Guo, Yaru Chen, Yanyu Qi, Wenzhen Yue, Dantong Niu, Xianghua Ying.<br />
+  "Audio-Visual Instance Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.18709)] 
+  [2023.10]
+
+:boom:**ProMISe:** Hao Li, Han Liu, Dewei Hu, Jiacheng Wang, Ipek Oguz.<br />
+  "Promise:Prompt-driven 3D Medical Image Segmentation Using Image Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.19721)] 
+  [[code](https://github.com/MedICL-VU/ProMISe)]
+  [2023.10]
+
+:boom:Joana Palés Huix, Adithya Raju Ganeshan, Johan Fredin Haslum, Magnus Söderberg, Christos Matsoukas, Kevin Smith.<br />
+  "Are Natural Domain Foundation Models Useful for Medical Image Classification?." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.19522)] 
+  [2023.10]
+
 :boom:**OBM:** Kai Li, Yupeng Deng, Yunlong Kong, Diyou Liu, Jingbo Chen, Yu Meng, Junxian Ma.<br />
   "Rebuild City Buildings from Off-Nadir Aerial Images with Offset-Building Model (OBM)." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.16717)] 
