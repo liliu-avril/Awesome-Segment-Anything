@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.01: Latest update of this paper list.
+- 2023.11.02: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,7 +129,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Fen Fang, Yi Cheng, Ying Sun, Qianli Xu.<br />
+:boom:**MVS:** Mykhailo Shvets, Dongxu Zhao, Marc Niethammer, Roni Sengupta, Alexander C. Berg.<br />
+  "Joint Depth Prediction and Semantic Segmentation with Multi-View SAM." WACV (2024).
+  [[paper](https://arxiv.org/abs/2311.00134)] 
+  [2023.11]
+
+- Fen Fang, Yi Cheng, Ying Sun, Qianli Xu.<br />
   "Team I2R-VI-FF Technical Report on EPIC-KITCHENS VISOR Hand Object Segmentation Challenge 2023." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.20120)] 
   [2023.10]
