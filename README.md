@@ -134,6 +134,17 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2311.00134)] 
   [2023.11]
 
+:boom:**EditAnything:** Shanghua Gao, Zhijie Lin, Xingyu Xie, Pan Zhou, Ming-Ming Cheng, Shuicheng Yan.<br />
+  "EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation." ACM  MM (2023).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612680)] 
+  [[code](https://github.com/sail-sg/EditAnything)]
+  [2023.10]
+
+:boom:**ImEW:** ImEW: A Framework for Editing Image in the Wild.<br />
+  "Tasnim Mohiuddi, Tianyi Zhang, Maowen Nie, Jing Huang, Qianqian Chen, Wei Shi." LGM3A Workshop (2023).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3607827.3616840)] 
+  [2023.10]
+  
 - Fen Fang, Yi Cheng, Ying Sun, Qianli Xu.<br />
   "Team I2R-VI-FF Technical Report on EPIC-KITCHENS VISOR Hand Object Segmentation Challenge 2023." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.20120)] 
