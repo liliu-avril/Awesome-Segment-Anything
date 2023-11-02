@@ -460,17 +460,6 @@ If you find our work useful in your research, please consider citing:
   "Exploring SAM Ablations for Enhancing Medical Segmentation in Radiology and Pathology." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2310.00504)] 
   [2023.10] 
-  
-- **SLP:** David Balaban, Justin Medich, Pranay Gosar, Justin Hart.<br />
-  "Propagating Semantic Labels in Video Data." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2310.00783)] 
-  [[homepage](https://dataverse.tdl.org/dataverse/robotics)]
-  [2023.10] 
-
-- Amin Ranem, Niklas Babendererde, Moritz Fuchs, Anirban Mukhopadhyay.<br />
-  "Exploring SAM Ablations for Enhancing Medical Segmentation in Radiology and Pathology." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2310.00504)] 
-  [2023.10] 
 
 - Xiangru Li, Yifei Zhang, Liang Zhao.<br />
   "Multi-Prompt Fine-Tuning of Foundation Models for Enhanced Medical Image Segmentation." ArXiv (2023).
@@ -1555,7 +1544,7 @@ If you find our work useful in your research, please consider citing:
   [2023.05]
 
 - **WS-SAM:** Chunming He, Kai Li, Yachao Zhang, Guoxia Xu, Longxiang Tang, Yulun Zhang, Zhenhua Guo, Xiu Li.<br />
-  "Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping." ArXiv (2023).
+  "Weakly-Supervised Concealed Object Segmentation with SAM-based Pseudo Labeling and Multi-scale Feature Grouping." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2305.11003)] 
   [2023.05]
 
