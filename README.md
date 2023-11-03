@@ -518,10 +518,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://www.mdpi.com/1424-8220/23/18/7884)] 
   [2023.09] 
 
-- **CMSF:** Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Xiatian Zhu.<br />
-  "Leveraging Foundation models for Unsupervised Audio-Visual Segmentation." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2309.06728)] 
-  [2023.09] 
+
 
 - **SCROD:** Valentyn Boreiko, Matthias Hein, Jan Hendrik Metzen.<br />
   "Identifying Systematic Errors in Object Detectors with the SCROD Pipeline." ICCV Workshop (2023).
