@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.02: Latest update of this paper list.
+- 2023.11.03: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,18 +129,29 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**MVS:** Mykhailo Shvets, Dongxu Zhao, Marc Niethammer, Roni Sengupta, Alexander C. Berg.<br />
+:boom:**RegionSpot:** Haosen Yang, Chuofan Ma, Bin Wen, Yi Jiang, Zehuan Yuan, Xiatian Zhu.<br />
+  "Recognize Any Regions." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.01373)] 
+  [[code](https://github.com/Surrey-UPLab/Recognize-Any-Regions)]
+  [2023.11]
+
+:boom:**MSMedCap:** Gaoang Wang, Zhenyu Zhang, Benlu Wang, Weijie Liang, Yizhi Li, Xuechen Guo, Guanhong Wang, Shiyan Li.<br />
+  "Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.01004)] 
+  [2023.11]
+
+- **MVS:** Mykhailo Shvets, Dongxu Zhao, Marc Niethammer, Roni Sengupta, Alexander C. Berg.<br />
   "Joint Depth Prediction and Semantic Segmentation with Multi-View SAM." WACV (2024).
   [[paper](https://arxiv.org/abs/2311.00134)] 
   [2023.11]
 
-:boom:**EditAnything:** Shanghua Gao, Zhijie Lin, Xingyu Xie, Pan Zhou, Ming-Ming Cheng, Shuicheng Yan.<br />
+- **EditAnything:** Shanghua Gao, Zhijie Lin, Xingyu Xie, Pan Zhou, Ming-Ming Cheng, Shuicheng Yan.<br />
   "EditAnything: Empowering Unparalleled Flexibility in Image Editing and Generation." ACM  MM (2023).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3581783.3612680)] 
   [[code](https://github.com/sail-sg/EditAnything)]
   [2023.10]
 
-:boom:**ImEW:** ImEW: A Framework for Editing Image in the Wild.<br />
+- **ImEW:** ImEW: A Framework for Editing Image in the Wild.<br />
   "Tasnim Mohiuddi, Tianyi Zhang, Maowen Nie, Jing Huang, Qianqian Chen, Wei Shi." LGM3A Workshop (2023).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3607827.3616840)] 
   [2023.10]
