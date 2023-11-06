@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.03: Latest update of this paper list.
+- 2023.11.06: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,13 +129,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**RegionSpot:** Haosen Yang, Chuofan Ma, Bin Wen, Yi Jiang, Zehuan Yuan, Xiatian Zhu.<br />
+:boom:**CSF:** Shichao Dong, Fayao Liu, Guosheng Lin.<br />
+  "Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.01989)] 
+  [2023.11]
+
+- **RegionSpot:** Haosen Yang, Chuofan Ma, Bin Wen, Yi Jiang, Zehuan Yuan, Xiatian Zhu.<br />
   "Recognize Any Regions." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.01373)] 
   [[code](https://github.com/Surrey-UPLab/Recognize-Any-Regions)]
   [2023.11]
 
-:boom:**MSMedCap:** Gaoang Wang, Zhenyu Zhang, Benlu Wang, Weijie Liang, Yizhi Li, Xuechen Guo, Guanhong Wang, Shiyan Li.<br />
+- **MSMedCap:** Gaoang Wang, Zhenyu Zhang, Benlu Wang, Weijie Liang, Yizhi Li, Xuechen Guo, Guanhong Wang, Shiyan Li.<br />
   "Sam-Guided Enhanced Fine-Grained Encoding with Mixed Semantic Learning for Medical Image Captioning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.01004)] 
   [2023.11]
