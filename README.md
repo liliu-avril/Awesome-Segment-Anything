@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.06: Latest update of this paper list.
+- 2023.11.07: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,7 +129,30 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**CSF:** Shichao Dong, Fayao Liu, Guosheng Lin.<br />
+:boom:**T-NT:** Zhenjun Yu, Wenqiang Xu, Siqiong Yao, Jieji Ren, Tutian Tang, Yutong Li, Guoying Gu, Cewu Lu.<br />
+  "Precise Robotic Needle-Threading with Tactile Perception and Reinforcement Learning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.02396)] 
+  [[code](https://sites.google.com/view/tac-needlethreading)]
+  [2023.11]
+
+:boom:**GLaMM:** Hanoona Rasheed, Muhammad Maaz, Sahal Shaji, Abdelrahman Shaker, Salman Khan, Hisham Cholakkal, Rao M. Anwer, Erix Xing, Ming-Hsuan Yang, Fahad S. Khan.<br />
+  "GLaMM: Pixel Grounding Large Multimodal Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.03356)] 
+  [[code](https://mbzuai-oryx.github.io/groundingLMM)]
+  [2023.11]
+
+:boom:**Masking:** Elias Arbash, Andréa de Lima Ribeiro, Sam Thiele, Nina Gnann, Behnood Rasti, Margret Fuchs, Pedram Ghamisi, Richard Gloaguen.<br />
+  "Masking Hyperspectral Imaging Data with Pretrained Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.03053)] 
+  [[code](https://github.com/hifexplo/Masking)]
+  [2023.11]
+
+:boom:Yiran Li, Junpeng Wang, Prince Aboagye, Michael Yeh, Yan Zheng, Liang Wang, Wei Zhang, Kwan-Liu Ma.<br />
+  "Visual Analytics for Efficient Image Exploration and User-Guided Image Captioning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.01016)] 
+  [2023.11]
+
+- **CSF:** Shichao Dong, Fayao Liu, Guosheng Lin.<br />
   "Leveraging Large-Scale Pretrained Vision Foundation Models for Label-Efficient 3D Point Cloud Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.01989)] 
   [2023.11]
