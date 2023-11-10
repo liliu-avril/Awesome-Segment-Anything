@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.09: Latest update of this paper list.
+- 2023.11.10: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,13 +129,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Danielle Ferreira, Rima Arnaout.<br />
+:boom:**SAMVG:** Haokun Zhu, Juang Ian Chong, Teng Hu, Ran Yi, Yu-Kun Lai, Paul L. Rosin.<br />
+  "SAMVG: A Multi-stage Image Vectorization Model with the Segment-Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.05276)] 
+  [2023.11]
+
+- Danielle Ferreira, Rima Arnaout.<br />
   "Are foundation models efficient for medical image segmentation?" ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.04847)] 
   [[code](github.com/ArnaoutLabUCSF/CardioML)]
   [2023.11]
 
-:boom:**VFMV:** Kejun Wu, Qiong Liu, Kim-Hui Yap, and You Yang.<br />
+- **VFMV:** Kejun Wu, Qiong Liu, Kim-Hui Yap, and You Yang.<br />
   "High dimensional optical data — varifocal multiview imaging, compression and evaluation." Optics Express (2023).
   [[paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-24-39483&id=541443)] 
   [2023.11]
