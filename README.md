@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.10: Latest update of this paper list.
+- 2023.11.13: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,7 +129,20 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAMVG:** Haokun Zhu, Juang Ian Chong, Teng Hu, Ran Yi, Yu-Kun Lai, Paul L. Rosin.<br />
+:boom:**EVA-VOS:** Thanos Delatolas, Vicky Kalogeiton, Dim P. Papadopoulos.<br />
+  "Learning the What and How of Annotation in Video Object Segmentation." WACV  (2023).
+  [[paper](https://arxiv.org/abs/2311.04414)] 
+  [[code](https://eva-vos.compute.dtu.dk/)]
+  [2023.11]
+
+:boom:**NExT-Chat:** Ao Zhang, Liming Zhao, Chen-Wei Xie, Yun Zheng, Wei Ji, Tat-Seng Chua.<br />
+  "NExT-Chat: An LMM for Chat, Detection and Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.04498)] 
+  [[code](https://next-chatv.github.io)]
+  [2023.11]
+
+
+- **SAMVG:** Haokun Zhu, Juang Ian Chong, Teng Hu, Ran Yi, Yu-Kun Lai, Paul L. Rosin.<br />
   "SAMVG: A Multi-stage Image Vectorization Model with the Segment-Anything Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.05276)] 
   [2023.11]
