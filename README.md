@@ -129,6 +129,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**EviPrompt:** Yinsong Xu, Jiaqi Tang, Aidong Men, Qingchao Chen.<br />
+  "EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.06400)] 
+  [2023.11]
+
+:boom:**FDNet:** Xiang Feng, Chengkai Wang, Chengyu Wu, Yunxiang Li, Yongbo He, Shuai Wang, Yaiqi Wang.<br />
+  "FDNet: Feature Decoupled Segmentation Network for Tooth CBCT Image." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.06551)] 
+  [2023.11]
+
 :boom:**GISCup23:** Xuanshu Luo, Paul Walther, Wejdene Mansour, Balthasar Teuscher, Johann Maximilian Zollner, Hao Li, Martin Werner.<br />
   "Exploring GeoAI Methods for Supraglacial Lake Mapping on Greenland Ice Sheet." ArXiv (2023).
   [[paper](https://www.bgd.ed.tum.de/pdf/2023_giscup_Luo.pdf)] 
