@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.13: Latest update of this paper list.
+- 2023.11.14: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,13 +129,30 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**EVA-VOS:** Thanos Delatolas, Vicky Kalogeiton, Dim P. Papadopoulos.<br />
+:boom:**GISCup23:** Xuanshu Luo, Paul Walther, Wejdene Mansour, Balthasar Teuscher, Johann Maximilian Zollner, Hao Li, Martin Werner.<br />
+  "Exploring GeoAI Methods for Supraglacial Lake Mapping on Greenland Ice Sheet." ArXiv (2023).
+  [[paper](https://www.bgd.ed.tum.de/pdf/2023_giscup_Luo.pdf)] 
+  [[code](https://github.com/tum-bgd/GISCup23)]
+  [2023.11]
+
+:boom:**u-LLaVA:** Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Yanchun Xie, Yi-Jie Huang, Yaqian Li.<br />
+  "u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.05348)] 
+  [2023.11]
+
+:boom:**LLaVA-Plus:** Shilong Liu, Hao Cheng, Haotian Liu, Hao Zhang, Feng Li, Tianhe Ren, Xueyan Zou, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang, Jianfeng Gao, Chunyuan Li.<br />
+  "LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.05437)] 
+  [[code](https://llava-vl.github.io/llava-plus/)]
+  [2023.11]
+
+- **EVA-VOS:** Thanos Delatolas, Vicky Kalogeiton, Dim P. Papadopoulos.<br />
   "Learning the What and How of Annotation in Video Object Segmentation." WACV  (2023).
   [[paper](https://arxiv.org/abs/2311.04414)] 
   [[code](https://eva-vos.compute.dtu.dk/)]
   [2023.11]
 
-:boom:**NExT-Chat:** Ao Zhang, Liming Zhao, Chen-Wei Xie, Yun Zheng, Wei Ji, Tat-Seng Chua.<br />
+- **NExT-Chat:** Ao Zhang, Liming Zhao, Chen-Wei Xie, Yun Zheng, Wei Ji, Tat-Seng Chua.<br />
   "NExT-Chat: An LMM for Chat, Detection and Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.04498)] 
   [[code](https://next-chatv.github.io)]
