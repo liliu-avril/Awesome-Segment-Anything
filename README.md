@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.14: Latest update of this paper list.
+- 2023.11.15: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,28 +129,50 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**EviPrompt:** Yinsong Xu, Jiaqi Tang, Aidong Men, Qingchao Chen.<br />
+:boom:**Uni-COAL:** Zhiyun Song, Zengxin Qi, Xin Wang, Xiangyu Zhao, Zhenrong Shen, Sheng Wang, Manman Fei, Zhe Wang, Di Zang, Dongdong Chen, Linlin Yao, Qian Wang, Xuehai Wu, Lichi Zhang.<br />
+  "Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.08225)] 
+  [2023.11]
+
+:boom:**SAMIHS:** Yinuo Wang, Kai Chen, Weimin Yuan, Cai Meng, XiangZhi Bai.<br />
+  "SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.08190)] 
+  [[code](https://github.com/mileswyn/SAMIHS)]
+  [2023.11]
+
+:boom:Virmarie Maquiling, Sean Anthony Byrne, Diederick C. Niehorster, Marcus Nyström, Enkelejda Kasneci.<br />
+  "Zero-Shot Segmentation of Eye Features Using the Segment Anything Model (SAM)." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.08077)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  [2023.11]
+  
+ :boom:**GlanceSeg:** Hongyang Jiang, Mengdi Gao, Zirong Liu, Chen Tang, Xiaoqing Zhang, Shuai Jiang, Wu Yuan, Jiang Liu.<br />
+  "GlanceSeg: Real-time microaneurysm lesion segmentation with gaze-map-guided foundation model for early detection of diabetic retinopathy." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.08075)] 
+  [2023.11]
+
+- **EviPrompt:** Yinsong Xu, Jiaqi Tang, Aidong Men, Qingchao Chen.<br />
   "EviPrompt: A Training-Free Evidential Prompt Generation Method for Segment Anything Model in Medical Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.06400)] 
   [2023.11]
 
-:boom:**FDNet:** Xiang Feng, Chengkai Wang, Chengyu Wu, Yunxiang Li, Yongbo He, Shuai Wang, Yaiqi Wang.<br />
+- **FDNet:** Xiang Feng, Chengkai Wang, Chengyu Wu, Yunxiang Li, Yongbo He, Shuai Wang, Yaiqi Wang.<br />
   "FDNet: Feature Decoupled Segmentation Network for Tooth CBCT Image." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.06551)] 
   [2023.11]
 
-:boom:**GISCup23:** Xuanshu Luo, Paul Walther, Wejdene Mansour, Balthasar Teuscher, Johann Maximilian Zollner, Hao Li, Martin Werner.<br />
+- **GISCup23:** Xuanshu Luo, Paul Walther, Wejdene Mansour, Balthasar Teuscher, Johann Maximilian Zollner, Hao Li, Martin Werner.<br />
   "Exploring GeoAI Methods for Supraglacial Lake Mapping on Greenland Ice Sheet." ArXiv (2023).
   [[paper](https://www.bgd.ed.tum.de/pdf/2023_giscup_Luo.pdf)] 
   [[code](https://github.com/tum-bgd/GISCup23)]
   [2023.11]
 
-:boom:**u-LLaVA:** Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Yanchun Xie, Yi-Jie Huang, Yaqian Li.<br />
+- **u-LLaVA:** Jinjin Xu, Liwu Xu, Yuzhe Yang, Xiang Li, Yanchun Xie, Yi-Jie Huang, Yaqian Li.<br />
   "u-LLaVA: Unifying Multi-Modal Tasks via Large Language Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.05348)] 
   [2023.11]
 
-:boom:**LLaVA-Plus:** Shilong Liu, Hao Cheng, Haotian Liu, Hao Zhang, Feng Li, Tianhe Ren, Xueyan Zou, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang, Jianfeng Gao, Chunyuan Li.<br />
+- **LLaVA-Plus:** Shilong Liu, Hao Cheng, Haotian Liu, Hao Zhang, Feng Li, Tianhe Ren, Xueyan Zou, Jianwei Yang, Hang Su, Jun Zhu, Lei Zhang, Jianfeng Gao, Chunyuan Li.<br />
   "LLaVA-Plus: Learning to Use Tools for Creating Multimodal Agents." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.05437)] 
   [[code](https://llava-vl.github.io/llava-plus/)]
