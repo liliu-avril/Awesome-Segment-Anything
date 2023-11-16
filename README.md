@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.15: Latest update of this paper list.
+- 2023.11.16: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,24 +129,30 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Uni-COAL:** Zhiyun Song, Zengxin Qi, Xin Wang, Xiangyu Zhao, Zhenrong Shen, Sheng Wang, Manman Fei, Zhe Wang, Di Zang, Dongdong Chen, Linlin Yao, Qian Wang, Xuehai Wu, Lichi Zhang.<br />
+:boom:**AdapterShadow:** Leiping Jie, Hui Zhang.<br />
+  "AdapterShadow: Adapting Segment Anything Model for Shadow Detection." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.08891)] 
+  [[code](https://github.com/LeipingJie/AdapterShadow)]
+  [2023.11]
+
+- **Uni-COAL:** Zhiyun Song, Zengxin Qi, Xin Wang, Xiangyu Zhao, Zhenrong Shen, Sheng Wang, Manman Fei, Zhe Wang, Di Zang, Dongdong Chen, Linlin Yao, Qian Wang, Xuehai Wu, Lichi Zhang.<br />
   "Uni-COAL: A Unified Framework for Cross-Modality Synthesis and Super-Resolution of MR Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.08225)] 
   [2023.11]
 
-:boom:**SAMIHS:** Yinuo Wang, Kai Chen, Weimin Yuan, Cai Meng, XiangZhi Bai.<br />
+- **SAMIHS:** Yinuo Wang, Kai Chen, Weimin Yuan, Cai Meng, XiangZhi Bai.<br />
   "SAMIHS: Adaptation of Segment Anything Model for Intracranial Hemorrhage Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.08190)] 
   [[code](https://github.com/mileswyn/SAMIHS)]
   [2023.11]
 
-:boom:Virmarie Maquiling, Sean Anthony Byrne, Diederick C. Niehorster, Marcus Nyström, Enkelejda Kasneci.<br />
+- Virmarie Maquiling, Sean Anthony Byrne, Diederick C. Niehorster, Marcus Nyström, Enkelejda Kasneci.<br />
   "Zero-Shot Segmentation of Eye Features Using the Segment Anything Model (SAM)." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.08077)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
   [2023.11]
   
- :boom:**GlanceSeg:** Hongyang Jiang, Mengdi Gao, Zirong Liu, Chen Tang, Xiaoqing Zhang, Shuai Jiang, Wu Yuan, Jiang Liu.<br />
+- **GlanceSeg:** Hongyang Jiang, Mengdi Gao, Zirong Liu, Chen Tang, Xiaoqing Zhang, Shuai Jiang, Wu Yuan, Jiang Liu.<br />
   "GlanceSeg: Real-time microaneurysm lesion segmentation with gaze-map-guided foundation model for early detection of diabetic retinopathy." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.08075)] 
   [2023.11]
