@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.16: Latest update of this paper list.
+- 2023.11.17: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,7 +129,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**AdapterShadow:** Leiping Jie, Hui Zhang.<br />
+:boom:**MM-Navigator:** An Yan, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwei Yang, Yiwu Zhong, Julian McAuley, Jianfeng Gao, Zicheng Liu, Lijuan Wang.<br />
+  “GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.07562)] 
+  [[code](https://github.com/zzxslp/MM-Navigator)]
+  [2023.11]
+
+:boom:**TriDental:** Tomáš Kunzo, Viktor Kocur, Lukáš Gajdošech, Martin Madaras.<br />
+  "Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning." DISA (2023).
+  [[paper](https://arxiv.org/abs/2311.07398)] 
+  [2023.11]
+
+ :boom:Hyungeun Lee, Ung Hwang, Seungwon Yu, Chang-Hun Lee, Kijung Yoon.<br />
+  "Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning." ML4H (2023).
+  [[paper](https://arxiv.org/abs/2311.06834)] 
+  [2023.11]
+
+- **AdapterShadow:** Leiping Jie, Hui Zhang.<br />
   "AdapterShadow: Adapting Segment Anything Model for Shadow Detection." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.08891)] 
   [[code](https://github.com/LeipingJie/AdapterShadow)]
