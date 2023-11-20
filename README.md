@@ -129,6 +129,25 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**DMV3D:** Yinghao Xu, Hao Tan, Fujun Luan, Sai Bi, Peng Wang, Jiahao Li, Zifan Shi, Kalyan Sunkavalli, Gordon Wetzstein, Zexiang Xu, Kai Zhang.<br />
+  "DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.09217)] 
+  [[code](https://justimyhxu.github.io/projects/dmv3d/)]
+  [2023.11]
+
+:boom:**InterpAny-Clearer:** Zhihang Zhong, Gurunandan Krishnan, Xiao Sun, Yu Qiao, Sizhuo Ma, Jian Wang.<br />
+  "Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.08007)] 
+  [[homepage](https://zzh-tech.github.io/InterpAny-Clearer/)]
+  [[code](https://github.com/zzh-tech/InterpAny-Clearer)]
+  [2023.11]
+
+:boom:**OSM:** Qihang Yu, Xiaohui Shen, Liang-Chieh Chen.<br />
+  "Towards Open-Ended Visual Recognition with Large Language Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.08400)] 
+  [[code](https://github.com/bytedance/OmniScient-Model)]
+  [2023.11]
+
 :boom:**UR-SAM:** Yichi Zhang, Shiyao Hu, Chen Jiang, Yuan Cheng, Yuan Qi.<br />
   "Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10529)] 
