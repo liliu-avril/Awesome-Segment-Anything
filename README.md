@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.17: Latest update of this paper list.
+- 2023.11.20: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,18 +129,39 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**MM-Navigator:** An Yan, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwei Yang, Yiwu Zhong, Julian McAuley, Jianfeng Gao, Zicheng Liu, Lijuan Wang.<br />
+:boom:**UR-SAM:** Yichi Zhang, Shiyao Hu, Chen Jiang, Yuan Cheng, Yuan Qi.<br />
+  "Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.10529)] 
+  [2023.11]
+
+:boom:**DefectSAM:** Bozhen Hu, Bin Gao, Cheng Tan, Tongle Wu, Stan Z. Li.<br />
+  "Segment Anything in Defect Detection." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.10245)] 
+  [2023.11]
+
+:boom:**UnifiedVisionGPT:** Chris Kelly, Luhui Hu, Cindy Yang, Yu Tian, Deshun Yang, Bang Yang, Zaoshan Huang, Zihao Li, Yuexian Zou.<br />
+  "UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.10125)] 
+  [[code](https://github.com/LHBuilder/SA-Segment-Anything)]
+  [2023.11]
+
+:boom:**Slide-SAM:** Quan Quan, Fenghe Tang, Zikang Xu, Heqin Zhu, S. Kevin Zhou.<br />
+  "Slide-SAM: Medical SAM Meets Sliding Window." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.10121)] 
+  [2023.11]
+
+- **MM-Navigator:** An Yan, Zhengyuan Yang, Wanrong Zhu, Kevin Lin, Linjie Li, Jianfeng Wang, Jianwei Yang, Yiwu Zhong, Julian McAuley, Jianfeng Gao, Zicheng Liu, Lijuan Wang.<br />
   “GPT-4V in Wonderland: Large Multimodal Models for Zero-Shot Smartphone GUI Navigation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.07562)] 
   [[code](https://github.com/zzxslp/MM-Navigator)]
   [2023.11]
 
-:boom:**TriDental:** Tomáš Kunzo, Viktor Kocur, Lukáš Gajdošech, Martin Madaras.<br />
+- **TriDental:** Tomáš Kunzo, Viktor Kocur, Lukáš Gajdošech, Martin Madaras.<br />
   "Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning." DISA (2023).
   [[paper](https://arxiv.org/abs/2311.07398)] 
   [2023.11]
 
- :boom:Hyungeun Lee, Ung Hwang, Seungwon Yu, Chang-Hun Lee, Kijung Yoon.<br />
+- Hyungeun Lee, Ung Hwang, Seungwon Yu, Chang-Hun Lee, Kijung Yoon.<br />
   "Processing and Segmentation of Human Teeth from 2D Images using Weakly Supervised Learning." ML4H (2023).
   [[paper](https://arxiv.org/abs/2311.06834)] 
   [2023.11]
