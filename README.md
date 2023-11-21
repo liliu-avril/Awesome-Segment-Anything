@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.20: Latest update of this paper list.
+- 2023.11.21: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,42 +129,76 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**DMV3D:** Yinghao Xu, Hao Tan, Fujun Luan, Sai Bi, Peng Wang, Jiahao Li, Zifan Shi, Kalyan Sunkavalli, Gordon Wetzstein, Zexiang Xu, Kai Zhang.<br />
+:boom:**MorSeg-CAM-SAM:** Xin Yue, Qing Zhao, Jianqiang Li, Xiaoling Liu, Changwei Song, Suqin Liu, Guanghui Fu.<br />
+  "Morphology-Enhanced CAM-Guided SAM for weakly supervised Breast Lesion Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.11176)] 
+  [[code](https://github.com/YueXin18/MorSeg-CAM-SAM)]
+  [2023.11]
+
+:boom:**SA-Med2D-20M:** Jin Ye, Junlong Cheng, Jianpin Chen, Zhongying Deng, Tianbin Li, Haoyu Wang, Yanzhou Su, Ziyan Huang, Jilong Chen, Lei Jiang, Hui Sun, Min Zhu, Shaoting Zhang, Junjun He, Yu Qiao.<br />
+  "SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.11969)] 
+  [[code](https://github.com/OpenGVLab/SAM-Med2D)]
+  [2023.11]
+
+:boom:**OmniSeg3D:** Haiyang Ying, Yixuan Yin, Jinzhi Zhang, Fan Wang, Tao Yu, Ruqi Huang, Lu Fang.<br />
+  "OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.11666)] 
+  [[homepage](https://oceanying.github.io/OmniSeg3D/)]
+  [2023.11]
+
+:boom:**GeoSAM:** Rafi Ibn Sultan, Chengyin Li, Hui Zhu, Prashant Khanduri, Marco Brocanelli, Dongxiao Zhu.<br />
+  "GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.11319)] 
+  [2023.11]
+
+:boom:**CellSAM :** Uriah Israel, Markus Marks, Rohit Dilip, Qilin Li, Morgan Schwartz, Elora Pradhan, Edward Pao, Shenyi Li, Alexander Pearson-Goulart, Pietro Perona, Georgia Gkioxari, Ross Barnowski, Yisong Yue, David Van Valen.<br />
+  "A Foundation Model for Cell Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.11004)] 
+  [[code](https://label-dev.deepcell.org/)]
+  [2023.11]
+
+:boom:**RockSAM:** Zhaoyang Ma, Xupeng He, Shuyu Sun, Bicheng Yan, Hyung Kwak, Jun Gao.<br />
+  "Zero-Shot Digital Rock Image Segmentation with a Fine-Tuned Segment Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.10865)] 
+  [2023.11]
+
+- **DMV3D:** Yinghao Xu, Hao Tan, Fujun Luan, Sai Bi, Peng Wang, Jiahao Li, Zifan Shi, Kalyan Sunkavalli, Gordon Wetzstein, Zexiang Xu, Kai Zhang.<br />
   "DMV3D: Denoising Multi-View Diffusion using 3D Large Reconstruction Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.09217)] 
   [[code](https://justimyhxu.github.io/projects/dmv3d/)]
   [2023.11]
 
-:boom:**InterpAny-Clearer:** Zhihang Zhong, Gurunandan Krishnan, Xiao Sun, Yu Qiao, Sizhuo Ma, Jian Wang.<br />
+- **InterpAny-Clearer:** Zhihang Zhong, Gurunandan Krishnan, Xiao Sun, Yu Qiao, Sizhuo Ma, Jian Wang.<br />
   "Clearer Frames, Anytime: Resolving Velocity Ambiguity in Video Frame Interpolation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.08007)] 
   [[homepage](https://zzh-tech.github.io/InterpAny-Clearer/)]
   [[code](https://github.com/zzh-tech/InterpAny-Clearer)]
   [2023.11]
 
-:boom:**OSM:** Qihang Yu, Xiaohui Shen, Liang-Chieh Chen.<br />
+- **OSM:** Qihang Yu, Xiaohui Shen, Liang-Chieh Chen.<br />
   "Towards Open-Ended Visual Recognition with Large Language Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.08400)] 
   [[code](https://github.com/bytedance/OmniScient-Model)]
   [2023.11]
 
-:boom:**UR-SAM:** Yichi Zhang, Shiyao Hu, Chen Jiang, Yuan Cheng, Yuan Qi.<br />
+- **UR-SAM:** Yichi Zhang, Shiyao Hu, Chen Jiang, Yuan Cheng, Yuan Qi.<br />
   "Segment Anything Model with Uncertainty Rectification for Auto-Prompting Medical Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10529)] 
   [2023.11]
 
-:boom:**DefectSAM:** Bozhen Hu, Bin Gao, Cheng Tan, Tongle Wu, Stan Z. Li.<br />
+- **DefectSAM:** Bozhen Hu, Bin Gao, Cheng Tan, Tongle Wu, Stan Z. Li.<br />
   "Segment Anything in Defect Detection." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10245)] 
   [2023.11]
 
-:boom:**UnifiedVisionGPT:** Chris Kelly, Luhui Hu, Cindy Yang, Yu Tian, Deshun Yang, Bang Yang, Zaoshan Huang, Zihao Li, Yuexian Zou.<br />
+- **UnifiedVisionGPT:** Chris Kelly, Luhui Hu, Cindy Yang, Yu Tian, Deshun Yang, Bang Yang, Zaoshan Huang, Zihao Li, Yuexian Zou.<br />
   "UnifiedVisionGPT: Streamlining Vision-Oriented AI through Generalized Multimodal Framework." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10125)] 
   [[code](https://github.com/LHBuilder/SA-Segment-Anything)]
   [2023.11]
 
-:boom:**Slide-SAM:** Quan Quan, Fenghe Tang, Zikang Xu, Heqin Zhu, S. Kevin Zhou.<br />
+- **Slide-SAM:** Quan Quan, Fenghe Tang, Zikang Xu, Heqin Zhu, S. Kevin Zhou.<br />
   "Slide-SAM: Medical SAM Meets Sliding Window." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10121)] 
   [2023.11]
