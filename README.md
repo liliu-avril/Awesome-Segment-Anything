@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.21: Latest update of this paper list.
+- 2023.11.22: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,36 +129,63 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**MorSeg-CAM-SAM:** Xin Yue, Qing Zhao, Jianqiang Li, Xiaoling Liu, Changwei Song, Suqin Liu, Guanghui Fu.<br />
+:boom:**PseCo:** Huang Zhizhong, Dai Mingliang, Zhang Yi, Zhang Junping, Shan Hongming.<br />
+  "Point, Segment and Count: A Generalized Framework for Object Counting." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.12386)] 
+  [[code](https://github.com/Hzzone/PseCo)]
+  [2023.11]
+
+:boom:**FreeKD:** Yuan Zhang, Tao Huang, Jiaming Liu, Tao Jiang, Kuan Cheng, Shanghang Zhang.<br />
+  "FreeKD: Knowledge Distillation via Semantic Frequency Prompt." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.12079)] 
+  [2023.11]
+
+:boom:Rohit Bharadwaj, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan.<br />
+  "Enhancing Novel Object Detection via Cooperative Foundational Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.12068)] 
+  [[code](https://github.com/rohit901/cooperative-foundational-models)]
+  [2023.11]
+
+:boom:**GMISeg:** Jing Xu.<br />
+  "GMISeg: General Medical Image Segmentation without Re-Training." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.12539)] 
+  [2023.11]
+
+:boom:Tian Meng, Yang Tao, Wuliang Yin.<br />
+  "Few-Shot Classification & Segmentation Using Large Language Models Agent." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.12065)] 
+  [2023.11]
+
+- **MorSeg-CAM-SAM:** Xin Yue, Qing Zhao, Jianqiang Li, Xiaoling Liu, Changwei Song, Suqin Liu, Guanghui Fu.<br />
   "Morphology-Enhanced CAM-Guided SAM for weakly supervised Breast Lesion Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.11176)] 
   [[code](https://github.com/YueXin18/MorSeg-CAM-SAM)]
   [2023.11]
 
-:boom:**SA-Med2D-20M:** Jin Ye, Junlong Cheng, Jianpin Chen, Zhongying Deng, Tianbin Li, Haoyu Wang, Yanzhou Su, Ziyan Huang, Jilong Chen, Lei Jiang, Hui Sun, Min Zhu, Shaoting Zhang, Junjun He, Yu Qiao.<br />
+- **SA-Med2D-20M:** Jin Ye, Junlong Cheng, Jianpin Chen, Zhongying Deng, Tianbin Li, Haoyu Wang, Yanzhou Su, Ziyan Huang, Jilong Chen, Lei Jiang, Hui Sun, Min Zhu, Shaoting Zhang, Junjun He, Yu Qiao.<br />
   "SA-Med2D-20M Dataset: Segment Anything in 2D Medical Imaging with 20 Million masks." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.11969)] 
   [[code](https://github.com/OpenGVLab/SAM-Med2D)]
   [2023.11]
 
-:boom:**OmniSeg3D:** Haiyang Ying, Yixuan Yin, Jinzhi Zhang, Fan Wang, Tao Yu, Ruqi Huang, Lu Fang.<br />
+- **OmniSeg3D:** Haiyang Ying, Yixuan Yin, Jinzhi Zhang, Fan Wang, Tao Yu, Ruqi Huang, Lu Fang.<br />
   "OmniSeg3D: Omniversal 3D Segmentation via Hierarchical Contrastive Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.11666)] 
   [[homepage](https://oceanying.github.io/OmniSeg3D/)]
   [2023.11]
 
-:boom:**GeoSAM:** Rafi Ibn Sultan, Chengyin Li, Hui Zhu, Prashant Khanduri, Marco Brocanelli, Dongxiao Zhu.<br />
+- **GeoSAM:** Rafi Ibn Sultan, Chengyin Li, Hui Zhu, Prashant Khanduri, Marco Brocanelli, Dongxiao Zhu.<br />
   "GeoSAM: Fine-tuning SAM with Sparse and Dense Visual Prompting for Automated Segmentation of Mobility Infrastructure." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.11319)] 
   [2023.11]
 
-:boom:**CellSAM :** Uriah Israel, Markus Marks, Rohit Dilip, Qilin Li, Morgan Schwartz, Elora Pradhan, Edward Pao, Shenyi Li, Alexander Pearson-Goulart, Pietro Perona, Georgia Gkioxari, Ross Barnowski, Yisong Yue, David Van Valen.<br />
+- **CellSAM :** Uriah Israel, Markus Marks, Rohit Dilip, Qilin Li, Morgan Schwartz, Elora Pradhan, Edward Pao, Shenyi Li, Alexander Pearson-Goulart, Pietro Perona, Georgia Gkioxari, Ross Barnowski, Yisong Yue, David Van Valen.<br />
   "A Foundation Model for Cell Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.11004)] 
   [[code](https://label-dev.deepcell.org/)]
   [2023.11]
 
-:boom:**RockSAM:** Zhaoyang Ma, Xupeng He, Shuyu Sun, Bicheng Yan, Hyung Kwak, Jun Gao.<br />
+- **RockSAM:** Zhaoyang Ma, Xupeng He, Shuyu Sun, Bicheng Yan, Hyung Kwak, Jun Gao.<br />
   "Zero-Shot Digital Rock Image Segmentation with a Fine-Tuned Segment Anything Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10865)] 
   [2023.11]
