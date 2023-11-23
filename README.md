@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.22: Latest update of this paper list.
+- 2023.11.23: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,29 +129,40 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**PseCo:** Huang Zhizhong, Dai Mingliang, Zhang Yi, Zhang Junping, Shan Hongming.<br />
+:boom:**Few-shot SLVM:** Xiyu Qi, Yifan Wu, Yongqiang Mao, Wenhui Zhang, Yidan Zhang.<br />
+  "Self-guided Few-shot Semantic Segmentation for Remote Sensing Imagery Based on Large Vision Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.13200)] 
+  [2023.11]
+
+:boom:**OCT-mosaicking:** Jiacheng Wang, Hao Li, Dewei Hu, Yuankai K. Tao, Ipek Oguz.<br />
+  "Novel OCT mosaicking pipeline with Feature- and Pixel-based registration." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.13052)] 
+  [[code](https://github.com/MedICL-VU/OCT-mosaicking)]
+  [2023.11]
+
+- **PseCo:** Huang Zhizhong, Dai Mingliang, Zhang Yi, Zhang Junping, Shan Hongming.<br />
   "Point, Segment and Count: A Generalized Framework for Object Counting." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.12386)] 
   [[code](https://github.com/Hzzone/PseCo)]
   [2023.11]
 
-:boom:**FreeKD:** Yuan Zhang, Tao Huang, Jiaming Liu, Tao Jiang, Kuan Cheng, Shanghang Zhang.<br />
+- **FreeKD:** Yuan Zhang, Tao Huang, Jiaming Liu, Tao Jiang, Kuan Cheng, Shanghang Zhang.<br />
   "FreeKD: Knowledge Distillation via Semantic Frequency Prompt." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.12079)] 
   [2023.11]
 
-:boom:Rohit Bharadwaj, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan.<br />
+- Rohit Bharadwaj, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan.<br />
   "Enhancing Novel Object Detection via Cooperative Foundational Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.12068)] 
   [[code](https://github.com/rohit901/cooperative-foundational-models)]
   [2023.11]
 
-:boom:**GMISeg:** Jing Xu.<br />
+- **GMISeg:** Jing Xu.<br />
   "GMISeg: General Medical Image Segmentation without Re-Training." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.12539)] 
   [2023.11]
 
-:boom:Tian Meng, Yang Tao, Wuliang Yin.<br />
+- Tian Meng, Yang Tao, Wuliang Yin.<br />
   "Few-Shot Classification & Segmentation Using Large Language Models Agent." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.12065)] 
   [2023.11]
