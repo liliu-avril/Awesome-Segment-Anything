@@ -148,7 +148,7 @@ If you find our work useful in your research, please consider citing:
 
 :boom:Yu Ando, Nora Jee-Young Park and, Gun Oh Chong, Seokhwan Ko, Donghyeon Lee, Junghwan Cho, Hyungsoo Han.<br />
   "Interpretable pap smear cell representation for cervical cancer screening." ArXiv (2023).
-  [[paper](Interpretable pap smear cell representation for cervical cancer screening)] 
+  [[paper](https://arxiv.org/abs/2311.10269)] 
   [2023.11]
 
 :boom:**GT-Maps:** Yimeng Li, Navid Rajabi, Sulabh Shrestha, Md Alimoor Reza, Jana Kosecka.<br />
