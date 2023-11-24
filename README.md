@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.23: Latest update of this paper list.
+- 2023.11.24: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,12 +129,76 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Few-shot SLVM:** Xiyu Qi, Yifan Wu, Yongqiang Mao, Wenhui Zhang, Yidan Zhang.<br />
+:boom:**MetaDreamer:** Lincong Feng, Muyu Wang, Maoyu Wang, Kuo Xu, Xiaoli Liu.<br />
+  "MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.10123)] 
+  [[code](https://metadreamer3d.github.io/)]
+  [2023.11]
+
+:boom:**Emu Edit:** Shelly Sheynin, Adam Polyak, Uriel Singer, Yuval Kirstain, Amit Zohar, Oron Ashual, Devi Parikh, Yaniv Taigman.<br />
+  "Emu Edit: Precise Image Editing via Recognition and Generation Tasks." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.10089)] 
+  [[homepage](https://emu-edit.metademolab.com/)]
+  [2023.11]
+
+:boom:Duy Minh Ho Nguyen, Tan Ngoc Pham, Nghiem Tuong Diep, Nghi Quoc Phan, Quang Pham, Vinh Tong, Binh T. Nguyen, Ngan Hoang Le, Nhat Ho, Pengtao Xie, Daniel Sonntag, Mathias Niepert.<br />
+  "On the Out of Distribution Robustness of Foundation Models in Medical Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.11096)] 
+  [2023.11]
+
+:boom:Yu Ando, Nora Jee-Young Park and, Gun Oh Chong, Seokhwan Ko, Donghyeon Lee, Junghwan Cho, Hyungsoo Han.<br />
+  "Interpretable pap smear cell representation for cervical cancer screening." ArXiv (2023).
+  [[paper](Interpretable pap smear cell representation for cervical cancer screening)] 
+  [2023.11]
+
+:boom:**GT-Maps:** Yimeng Li, Navid Rajabi, Sulabh Shrestha, Md Alimoor Reza, Jana Kosecka.<br />
+  "Labeling Indoor Scenes with Fusion of Out-of-the-Box Perception Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.10883)] 
+  [2023.11]
+
+:boom:Nam V. Nguyen, Hieu Trung Huynh, and Phuc-Lu Le.<br />
+  "Deep Learning Techniques for Segmenting Breast Lesion Regions and Classifying Mammography Images." ArXiv (2023).
+  [[paper](https://link.springer.com/chapter/10.1007/978-981-99-8296-7_34)] 
+  [2023.11]
+
+:boom:Ren Li, Corentin Dumery, Benoît Guillard, Pascal Fua.<br />
+  "Garment Recovery with Shape and Deformation Priors." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.10356)] 
+  [2023.11]
+
+:boom:**MROS:** Kechen Song, Hongwei Wen, Xiaotong Xue, Liming Huang, Yingying Ji, Yunhui Yan .<br />
+  "Modality Registration and Object Search Framework for UAV-based Unregistered RGB-T Image Salient Object Detection." ArXiv (2023).
+  [[paper](https://www.researchgate.net/profile/Ke-Chen-Song/publication/375623798_Modality_Registration_and_Object_Search_Framework_for_UAV-based_Unregistered_RGB-T_Image_Salient_Object_Detection/links/65558ed9b1398a779d9086ed/Modality-Registration-and-Object-Search-Framework-for-UAV-Based-Unregistered-RGB-T-Image-Salient-Object-Detection.pdf)] 
+  [[code](https://github.com/VDT-2048/UAV-RGB-T-2400)]
+  [2023.11]
+
+:boom:**CPVLF:** Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li.<br />
+  "Generalization and Hallucination of Large Vision-Language Models through a Camouflaged Lens." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.11273)] 
+  [2023.11]
+
+:boom:Zixuan Xie, Rengan Xie, Rong Li, Kai Huang, Pengju Qiao, Jingsen Zhu, Xu Yin, Qi Ye, Wei Hua, Yuchi Huo, Hujun Bao.<br />
+  "Holistic Inverse Rendering of Complex Facade via Aerial 3D Scanning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.11825)] 
+  [2023.11]
+
+:boom:**Clarity ChatGPT:** Yanyan Wei, Zhao Zhang, Jiahuan Ren, Xiaogang Xu, Richang Hong, Yi Yang, Shuicheng Yan, Meng Wang.<br />
+  "Clarity ChatGPT: An Interactive and Adaptive Processing System for Image Restoration and Enhancement." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.11695)] 
+  [2023.11]
+
+:boom:**GCDSS:** Zhengyuan Peng, Qijian Tian, Jianqing Xu, Yizhang Jin, Xuequan Lu, Xin Tan, Yuan Xie, Lizhuang Ma.<br />
+  "Generalized Category Discovery in Semantic Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.11525)] 
+  [[code](https://github.com/JethroPeng/GCDSS)]
+  [2023.11]
+
+- **Few-shot SLVM:** Xiyu Qi, Yifan Wu, Yongqiang Mao, Wenhui Zhang, Yidan Zhang.<br />
   "Self-guided Few-shot Semantic Segmentation for Remote Sensing Imagery Based on Large Vision Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.13200)] 
   [2023.11]
 
-:boom:**OCT-mosaicking:** Jiacheng Wang, Hao Li, Dewei Hu, Yuankai K. Tao, Ipek Oguz.<br />
+- **OCT-mosaicking:** Jiacheng Wang, Hao Li, Dewei Hu, Yuankai K. Tao, Ipek Oguz.<br />
   "Novel OCT mosaicking pipeline with Feature- and Pixel-based registration." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.13052)] 
   [[code](https://github.com/MedICL-VU/OCT-mosaicking)]
