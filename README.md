@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.24: Latest update of this paper list.
+- 2023.11.26: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,6 +129,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**P2RBox:** Guangming Cao, Xuehui Yu, Wenwen Yu, Xumeng Han, Xue Yang, Guorong Li, Jianbin Jiao, Zhenjun Han.<br />
+  "P2RBox: A Single Point is All You Need for Oriented Object Detection." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.13128)] 
+  [2023.11]
+
+:boom:**PG-Video-LLaVA:** Shehan Munasinghe, Rusiru Thushara, Muhammad Maaz, Hanoona Abdul Rasheed, Salman Khan, Mubarak Shah, Fahad Khan.<br />
+  "PG-Video-LLaVA: Pixel Grounding Large Video-Language Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.13435)] 
+  [[code](https://github.com/mbzuai-oryx/Video-LLaVA)]
+  [2023.11]
+
 :boom:**MetaDreamer:** Lincong Feng, Muyu Wang, Maoyu Wang, Kuo Xu, Xiaoli Liu.<br />
   "MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10123)] 
