@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.26: Latest update of this paper list.
+- 2023.11.27: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,6 +129,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Francesco Croce, Matthias Hein.<br />
+  "Segment (Almost) Nothing: Prompt-Agnostic Adversarial Attacks on Segmentation Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.14450)] 
+  [2023.11]
+
 :boom:**P2RBox:** Guangming Cao, Xuehui Yu, Wenwen Yu, Xumeng Han, Xue Yang, Guorong Li, Jianbin Jiao, Zhenjun Han.<br />
   "P2RBox: A Single Point is All You Need for Oriented Object Detection." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.13128)] 
