@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.27: Latest update of this paper list.
+- 2023.11.28: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,81 +129,121 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Francesco Croce, Matthias Hein.<br />
+:boom:**Obj-NeRF:** Zhiyi Li, Lihe Ding, Tianfan Xue.<br />
+  "Obj-NeRF: Extract Object NeRFs from Multi-view Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.15291)] 
+  [[code](https://objnerf.github.io/)]
+  [2023.11]
+
+:boom:Ming Li, Guang Yang.<br />
+  "Where to Begin? From Random to Foundation Model Instructed Initialization in Federated Learning for Medical Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.15463)] 
+  [2023.11]
+
+:boom:**SAM-6D:** Jiehong Lin, Lihua Liu, Dekun Lu, Kui Jia.<br />
+  "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.15707)] 
+  [[code](https://github.com/JiehongLin/SAM-6D)]
+  [2023.11]
+
+:boom:**MARIS:** Mengxi Zhang, Yiming Liu, Xiangjun Yin, Huanjing Yue, Jingyu Yang.<br />
+  "MARIS: Referring Image Segmentation via Mutual-Aware Attention Features." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.15727)] 
+  [2023.11]
+
+:boom:**Stable-SAM:** Qi Fan, Xin Tao, Lei Ke, Mingqiao Ye, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Yu-Wing Tai, Chi-Keung Tang.<br />
+  "Stable Segment Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.15776)] 
+  [[code](https://github.com/fanq15/Stable-SAM)]
+  [2023.11]
+
+:boom:**PromptNucSeg:** Zhongyi Shui, Yunlong Zhang, Kai Yao, Chenglu Zhu, Yuxuan Sun, Lin Yang.<br />
+  "Unleashing the Power of Prompt-driven Nucleus Instance Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.15939)] 
+  [[code](https://github.com/windygoo/PromptNucSeg)]
+  [2023.11]
+
+:boom:Rutuja Gurav, Het Patel, Zhuocheng Shang, Ahmed Eldawy, Jia Chen, Elia Scudiero, Evangelos Papalexakis.<br />
+  "Can SAM recognize crops? Quantifying the zero-shot performance of a semantic segmentation foundation model on generating crop-type maps using satellite imagery for precision agriculture." NeurIPS (2023).
+  [[paper](https://arxiv.org/abs/2311.15138)] 
+  [[code](http://reliable.to/)]
+  [2023.11]
+
+- Francesco Croce, Matthias Hein.<br />
   "Segment (Almost) Nothing: Prompt-Agnostic Adversarial Attacks on Segmentation Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.14450)] 
   [2023.11]
 
-:boom:**P2RBox:** Guangming Cao, Xuehui Yu, Wenwen Yu, Xumeng Han, Xue Yang, Guorong Li, Jianbin Jiao, Zhenjun Han.<br />
+- **P2RBox:** Guangming Cao, Xuehui Yu, Wenwen Yu, Xumeng Han, Xue Yang, Guorong Li, Jianbin Jiao, Zhenjun Han.<br />
   "P2RBox: A Single Point is All You Need for Oriented Object Detection." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.13128)] 
   [2023.11]
 
-:boom:**PG-Video-LLaVA:** Shehan Munasinghe, Rusiru Thushara, Muhammad Maaz, Hanoona Abdul Rasheed, Salman Khan, Mubarak Shah, Fahad Khan.<br />
+- **PG-Video-LLaVA:** Shehan Munasinghe, Rusiru Thushara, Muhammad Maaz, Hanoona Abdul Rasheed, Salman Khan, Mubarak Shah, Fahad Khan.<br />
   "PG-Video-LLaVA: Pixel Grounding Large Video-Language Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.13435)] 
   [[code](https://github.com/mbzuai-oryx/Video-LLaVA)]
   [2023.11]
 
-:boom:**MetaDreamer:** Lincong Feng, Muyu Wang, Maoyu Wang, Kuo Xu, Xiaoli Liu.<br />
+- **MetaDreamer:** Lincong Feng, Muyu Wang, Maoyu Wang, Kuo Xu, Xiaoli Liu.<br />
   "MetaDreamer: Efficient Text-to-3D Creation With Disentangling Geometry and Texture." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10123)] 
   [[code](https://metadreamer3d.github.io/)]
   [2023.11]
 
-:boom:**Emu Edit:** Shelly Sheynin, Adam Polyak, Uriel Singer, Yuval Kirstain, Amit Zohar, Oron Ashual, Devi Parikh, Yaniv Taigman.<br />
+- **Emu Edit:** Shelly Sheynin, Adam Polyak, Uriel Singer, Yuval Kirstain, Amit Zohar, Oron Ashual, Devi Parikh, Yaniv Taigman.<br />
   "Emu Edit: Precise Image Editing via Recognition and Generation Tasks." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10089)] 
   [[homepage](https://emu-edit.metademolab.com/)]
   [2023.11]
 
-:boom:Duy Minh Ho Nguyen, Tan Ngoc Pham, Nghiem Tuong Diep, Nghi Quoc Phan, Quang Pham, Vinh Tong, Binh T. Nguyen, Ngan Hoang Le, Nhat Ho, Pengtao Xie, Daniel Sonntag, Mathias Niepert.<br />
+- Duy Minh Ho Nguyen, Tan Ngoc Pham, Nghiem Tuong Diep, Nghi Quoc Phan, Quang Pham, Vinh Tong, Binh T. Nguyen, Ngan Hoang Le, Nhat Ho, Pengtao Xie, Daniel Sonntag, Mathias Niepert.<br />
   "On the Out of Distribution Robustness of Foundation Models in Medical Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.11096)] 
   [2023.11]
 
-:boom:Yu Ando, Nora Jee-Young Park and, Gun Oh Chong, Seokhwan Ko, Donghyeon Lee, Junghwan Cho, Hyungsoo Han.<br />
+- Yu Ando, Nora Jee-Young Park and, Gun Oh Chong, Seokhwan Ko, Donghyeon Lee, Junghwan Cho, Hyungsoo Han.<br />
   "Interpretable pap smear cell representation for cervical cancer screening." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10269)] 
   [2023.11]
 
-:boom:**GT-Maps:** Yimeng Li, Navid Rajabi, Sulabh Shrestha, Md Alimoor Reza, Jana Kosecka.<br />
+- **GT-Maps:** Yimeng Li, Navid Rajabi, Sulabh Shrestha, Md Alimoor Reza, Jana Kosecka.<br />
   "Labeling Indoor Scenes with Fusion of Out-of-the-Box Perception Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10883)] 
   [2023.11]
 
-:boom:Nam V. Nguyen, Hieu Trung Huynh, and Phuc-Lu Le.<br />
+- Nam V. Nguyen, Hieu Trung Huynh, and Phuc-Lu Le.<br />
   "Deep Learning Techniques for Segmenting Breast Lesion Regions and Classifying Mammography Images." ArXiv (2023).
   [[paper](https://link.springer.com/chapter/10.1007/978-981-99-8296-7_34)] 
   [2023.11]
 
-:boom:Ren Li, Corentin Dumery, Benoît Guillard, Pascal Fua.<br />
+- Ren Li, Corentin Dumery, Benoît Guillard, Pascal Fua.<br />
   "Garment Recovery with Shape and Deformation Priors." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.10356)] 
   [2023.11]
 
-:boom:**MROS:** Kechen Song, Hongwei Wen, Xiaotong Xue, Liming Huang, Yingying Ji, Yunhui Yan .<br />
+- **MROS:** Kechen Song, Hongwei Wen, Xiaotong Xue, Liming Huang, Yingying Ji, Yunhui Yan .<br />
   "Modality Registration and Object Search Framework for UAV-based Unregistered RGB-T Image Salient Object Detection." ArXiv (2023).
   [[paper](https://www.researchgate.net/profile/Ke-Chen-Song/publication/375623798_Modality_Registration_and_Object_Search_Framework_for_UAV-based_Unregistered_RGB-T_Image_Salient_Object_Detection/links/65558ed9b1398a779d9086ed/Modality-Registration-and-Object-Search-Framework-for-UAV-Based-Unregistered-RGB-T-Image-Salient-Object-Detection.pdf)] 
   [[code](https://github.com/VDT-2048/UAV-RGB-T-2400)]
   [2023.11]
 
-:boom:**CPVLF:** Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li.<br />
+- **CPVLF:** Lv Tang, Peng-Tao Jiang, Zhihao Shen, Hao Zhang, Jinwei Chen, Bo Li.<br />
   "Generalization and Hallucination of Large Vision-Language Models through a Camouflaged Lens." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.11273)] 
   [2023.11]
 
-:boom:Zixuan Xie, Rengan Xie, Rong Li, Kai Huang, Pengju Qiao, Jingsen Zhu, Xu Yin, Qi Ye, Wei Hua, Yuchi Huo, Hujun Bao.<br />
+- Zixuan Xie, Rengan Xie, Rong Li, Kai Huang, Pengju Qiao, Jingsen Zhu, Xu Yin, Qi Ye, Wei Hua, Yuchi Huo, Hujun Bao.<br />
   "Holistic Inverse Rendering of Complex Facade via Aerial 3D Scanning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.11825)] 
   [2023.11]
 
-:boom:**Clarity ChatGPT:** Yanyan Wei, Zhao Zhang, Jiahuan Ren, Xiaogang Xu, Richang Hong, Yi Yang, Shuicheng Yan, Meng Wang.<br />
+- **Clarity ChatGPT:** Yanyan Wei, Zhao Zhang, Jiahuan Ren, Xiaogang Xu, Richang Hong, Yi Yang, Shuicheng Yan, Meng Wang.<br />
   "Clarity ChatGPT: An Interactive and Adaptive Processing System for Image Restoration and Enhancement." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.11695)] 
   [2023.11]
 
-:boom:**GCDSS:** Zhengyuan Peng, Qijian Tian, Jianqing Xu, Yizhang Jin, Xuequan Lu, Xin Tan, Yuan Xie, Lizhuang Ma.<br />
+- **GCDSS:** Zhengyuan Peng, Qijian Tian, Jianqing Xu, Yizhang Jin, Xuequan Lu, Xin Tan, Yuan Xie, Lizhuang Ma.<br />
   "Generalized Category Discovery in Semantic Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.11525)] 
   [[code](https://github.com/JethroPeng/GCDSS)]
