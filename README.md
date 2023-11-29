@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.28: Latest update of this paper list.
+- 2023.11.29: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,41 +129,51 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Obj-NeRF:** Zhiyi Li, Lihe Ding, Tianfan Xue.<br />
+:boom:**RAH-Bench:** Zhiyang Chen, Yousong Zhu, Yufei Zhan, Zhaowen Li, Chaoyang Zhao, Jinqiao Wang, Ming Tang.<br />
+  "Mitigating Hallucination in Visual Language Models with Visual Supervision." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.16479)] 
+  [2023.11]
+
+:boom:Fei He, Zhiyuan Yang, Mingyue Gao, Biplab Poudel, Newgin Sam Ebin Sam Dhas, Rajan Gyawali, Ashwin Dhakal, Jianlin Cheng, Dong Xu.<br />
+  "Adapting Segment Anything Model (SAM) through Prompt-based Learning for Enhanced Protein Identification in Cryo-EM Micrographs." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.16140)] 
+  [2023.11]
+
+- **Obj-NeRF:** Zhiyi Li, Lihe Ding, Tianfan Xue.<br />
   "Obj-NeRF: Extract Object NeRFs from Multi-view Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.15291)] 
   [[code](https://objnerf.github.io/)]
   [2023.11]
 
-:boom:Ming Li, Guang Yang.<br />
+- Ming Li, Guang Yang.<br />
   "Where to Begin? From Random to Foundation Model Instructed Initialization in Federated Learning for Medical Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.15463)] 
   [2023.11]
 
-:boom:**SAM-6D:** Jiehong Lin, Lihua Liu, Dekun Lu, Kui Jia.<br />
+- **SAM-6D:** Jiehong Lin, Lihua Liu, Dekun Lu, Kui Jia.<br />
   "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.15707)] 
   [[code](https://github.com/JiehongLin/SAM-6D)]
   [2023.11]
 
-:boom:**MARIS:** Mengxi Zhang, Yiming Liu, Xiangjun Yin, Huanjing Yue, Jingyu Yang.<br />
+- **MARIS:** Mengxi Zhang, Yiming Liu, Xiangjun Yin, Huanjing Yue, Jingyu Yang.<br />
   "MARIS: Referring Image Segmentation via Mutual-Aware Attention Features." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.15727)] 
   [2023.11]
 
-:boom:**Stable-SAM:** Qi Fan, Xin Tao, Lei Ke, Mingqiao Ye, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Yu-Wing Tai, Chi-Keung Tang.<br />
+- **Stable-SAM:** Qi Fan, Xin Tao, Lei Ke, Mingqiao Ye, Yuan Zhang, Pengfei Wan, Zhongyuan Wang, Yu-Wing Tai, Chi-Keung Tang.<br />
   "Stable Segment Anything Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.15776)] 
   [[code](https://github.com/fanq15/Stable-SAM)]
   [2023.11]
 
-:boom:**PromptNucSeg:** Zhongyi Shui, Yunlong Zhang, Kai Yao, Chenglu Zhu, Yuxuan Sun, Lin Yang.<br />
+- **PromptNucSeg:** Zhongyi Shui, Yunlong Zhang, Kai Yao, Chenglu Zhu, Yuxuan Sun, Lin Yang.<br />
   "Unleashing the Power of Prompt-driven Nucleus Instance Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.15939)] 
   [[code](https://github.com/windygoo/PromptNucSeg)]
   [2023.11]
 
-:boom:Rutuja Gurav, Het Patel, Zhuocheng Shang, Ahmed Eldawy, Jia Chen, Elia Scudiero, Evangelos Papalexakis.<br />
+- Rutuja Gurav, Het Patel, Zhuocheng Shang, Ahmed Eldawy, Jia Chen, Elia Scudiero, Evangelos Papalexakis.<br />
   "Can SAM recognize crops? Quantifying the zero-shot performance of a semantic segmentation foundation model on generating crop-type maps using satellite imagery for precision agriculture." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2311.15138)] 
   [[code](http://reliable.to/)]
