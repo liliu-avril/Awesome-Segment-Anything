@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.29: Latest update of this paper list.
+- 2023.11.30: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,12 +129,33 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**RAH-Bench:** Zhiyang Chen, Yousong Zhu, Yufei Zhan, Zhaowen Li, Chaoyang Zhao, Jinqiao Wang, Ming Tang.<br />
+:boom:**SAMPro3D:** Mutian Xu, Xingyilang Yin, Lingteng Qiu, Yang Liu, Xin Tong, Xiaoguang Han.<br />
+  "SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17707)] 
+  [[code](https://mutianxu.github.io/sampro3d/)]
+  [2023.11]
+
+:boom:**SAM-COBOT:** Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, Wei Shen.<br />
+  "Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17112)] 
+  [2023.11]
+
+:boom:**SemReID:** Siyuan Huang, Yifan Zhou, Ram Prabhakar Kathirvel, Rama Chellappa, Chun Pong Lau.<br />
+  "Self-Supervised Learning of Whole and Component-Based Semantic Representations for Person Re-Identification." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17074)] 
+  [2023.11]
+
+:boom:**I-MedSAM:** Xiaobao Wei, Jiajun Cao, Yizhu Jin, Ming Lu, Guangyu Wang, Shanghang Zhang.<br />
+  "I-MedSAM: Implicit Medical Image Segmentation with Segment Anything." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17081)] 
+  [2023.11]
+
+- **RAH-Bench:** Zhiyang Chen, Yousong Zhu, Yufei Zhan, Zhaowen Li, Chaoyang Zhao, Jinqiao Wang, Ming Tang.<br />
   "Mitigating Hallucination in Visual Language Models with Visual Supervision." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.16479)] 
   [2023.11]
 
-:boom:Fei He, Zhiyuan Yang, Mingyue Gao, Biplab Poudel, Newgin Sam Ebin Sam Dhas, Rajan Gyawali, Ashwin Dhakal, Jianlin Cheng, Dong Xu.<br />
+- Fei He, Zhiyuan Yang, Mingyue Gao, Biplab Poudel, Newgin Sam Ebin Sam Dhas, Rajan Gyawali, Ashwin Dhakal, Jianlin Cheng, Dong Xu.<br />
   "Adapting Segment Anything Model (SAM) through Prompt-based Learning for Enhanced Protein Identification in Cryo-EM Micrographs." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.16140)] 
   [2023.11]
