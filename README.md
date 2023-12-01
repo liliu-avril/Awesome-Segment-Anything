@@ -129,9 +129,10 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**D-SAM & SAM-S:** Aayush Kumar Tyagi, Vaibhav Mishra, Prathosh A. P., Mausam.<br />
+:boom:**SAM-ILP:** Aayush Kumar Tyagi, Vaibhav Mishra, Prathosh A. P., Mausam.<br />
   "Guided Prompting in SAM for Weakly Supervised Cell Segmentation in Histopathological Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.17960)] 
+  [[code](https://github.com/dair-iitd/Guided-Prompting-SAM)]
   [2023.11]
 
 - **SAMPro3D:** Mutian Xu, Xingyilang Yin, Lingteng Qiu, Yang Liu, Xin Tong, Xiaoguang Han.<br />
