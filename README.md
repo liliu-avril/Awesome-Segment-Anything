@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.11.30: Latest update of this paper list.
+- 2023.12.01: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,23 +129,28 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAMPro3D:** Mutian Xu, Xingyilang Yin, Lingteng Qiu, Yang Liu, Xin Tong, Xiaoguang Han.<br />
+:boom:**D-SAM & SAM-S:** Aayush Kumar Tyagi, Vaibhav Mishra, Prathosh A. P., Mausam.<br />
+  "Guided Prompting in SAM for Weakly Supervised Cell Segmentation in Histopathological Images." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17960)] 
+  [2023.11]
+
+- **SAMPro3D:** Mutian Xu, Xingyilang Yin, Lingteng Qiu, Yang Liu, Xin Tong, Xiaoguang Han.<br />
   "SAMPro3D: Locating SAM Prompts in 3D for Zero-Shot Scene Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.17707)] 
   [[code](https://mutianxu.github.io/sampro3d/)]
   [2023.11]
 
-:boom:**SAM-COBOT:** Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, Wei Shen.<br />
+- **SAM-COBOT:** Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, Wei Shen.<br />
   "Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.17112)] 
   [2023.11]
 
-:boom:**SemReID:** Siyuan Huang, Yifan Zhou, Ram Prabhakar Kathirvel, Rama Chellappa, Chun Pong Lau.<br />
+- **SemReID:** Siyuan Huang, Yifan Zhou, Ram Prabhakar Kathirvel, Rama Chellappa, Chun Pong Lau.<br />
   "Self-Supervised Learning of Whole and Component-Based Semantic Representations for Person Re-Identification." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.17074)] 
   [2023.11]
 
-:boom:**I-MedSAM:** Xiaobao Wei, Jiajun Cao, Yizhu Jin, Ming Lu, Guangyu Wang, Shanghang Zhang.<br />
+- **I-MedSAM:** Xiaobao Wei, Jiajun Cao, Yizhu Jin, Ming Lu, Guangyu Wang, Shanghang Zhang.<br />
   "I-MedSAM: Implicit Medical Image Segmentation with Segment Anything." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.17081)] 
   [2023.11]
