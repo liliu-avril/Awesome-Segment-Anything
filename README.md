@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.01: Latest update of this paper list.
+- 2023.12.03: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -129,7 +129,120 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAM-ILP:** Aayush Kumar Tyagi, Vaibhav Mishra, Prathosh A. P., Mausam.<br />
+:boom:**S2M:** Wenjie Zhao, Jia Li, Xin Dong, Yu Xiang, Yunhui Guo.<br />
+  "Segment Every Out-of-Distribution Object." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.16516)] 
+  [2023.11]
+
+:boom:**ZeroPS:** Yuheng Xue, Nenglun Chen, Jun Liu, Wenyun Sun.<br />
+  "ZeroPS: High-quality Cross-modal Knowledge Transfer for Zero-Shot 3D Part Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.14262)] 
+  [2023.11]
+
+:boom:**GigaPose:** Van Nguyen Nguyen, Thibault Groueix, Mathieu Salzmann, Vincent Lepetit.<br />
+  "GigaPose: Fast and Robust Novel Object Pose Estimation via One Correspondence." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.14155)] 
+  [[code](https://github.com/nv-nguyen/gigaPose)]
+  [2023.11]
+
+:boom:**ToddlerDiffusion:** Eslam Mohamed Bakr, Liangbing Zhao, Vincent Tao Hu, Matthieu Cord, Patrick Perez, Mohamed Elhoseiny.<br />
+  "ToddlerDiffusion: Flash Interpretable Controllable Diffusion Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.14542)] 
+  [2023.11]
+
+:boom:**GaussianEditor:** Yiwen Chen, Zilong Chen, Chi Zhang, Feng Wang, Xiaofeng Yang, Yikai Wang, Zhongang Cai, Lei Yang, Huaping Liu, Guosheng Lin.<br />
+  "GaussianEditor: Swift and Controllable 3D Editing with Gaussian Splatting." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.14521)] 
+  [[code](https://buaacyw.github.io/gaussian-editor)]
+  [2023.11]
+
+:boom:**SEGIC:** Lingchen Meng, Shiyi Lan, Hengduo Li, Jose M. Alvarez, Zuxuan Wu, Yu-Gang Jiang.<br />
+  "SEGIC: Unleashing the Emergent Correspondence for In-Context Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.14671)] 
+  [[code](https://github.com/MengLcool/SEGIC)]
+  [2023.11]
+
+:boom:Nguyen, Le Quan, Jihye Shin, Sanghuyn Ryu, L. Minh Dang, Han Yong Park, O New Lee, and Hyeonjoon Moon.<br />
+  "Innovative Cucumber Phenotyping: A Smartphone-Based and Data-Labeling-Free Model." ArXiv (2023).
+  [[paper](https://www.mdpi.com/2079-9292/12/23/4775)] 
+  [2023.11]
+
+:boom:Nicholas Lui, Bryan Chia, William Berrios, Candace Ross, Douwe Kiela.<br />
+  "Leveraging Diffusion Perturbations for Measuring Fairness in Computer Vision." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.15108)] 
+  [2023.11]
+
+:boom:**RO-LLaMA:** Kwanyoung Kim, Yujin Oh, Sangjoon Park, Hwa Kyung Byun, Jin Sung Kim, Yong Bae Kim, Jong Chul Ye.<br />
+  "RO-LLaMA: Generalist LLM for Radiation Oncology via Noise Augmentation and Consistency Regularization." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.15876)] 
+  [2023.11]
+
+:boom:**SiTH:** Hsuan-I Ho, Jie Song, Otmar Hilliges.<br />
+  "SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.15855)] 
+  [[code](https://ait.ethz.ch/sith)]
+  [2023.11]
+
+:boom:**GaussianEditor:** Jiemin Fang, Junjie Wang, Xiaopeng Zhang, Lingxi Xie, Qi Tian.<br />
+  "GaussianEditor: Editing 3D Gaussians Delicately with Text Instructions." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.16037)] 
+  [[homepage](https://gaussianeditor.github.io/)]
+  [2023.11]
+
+:boom:**VLPrompt:** Zijian Zhou, Miaojing Shi, Holger Caesar.<br />
+  "VLPrompt: Vision-Language Prompting for Panoptic Scene Graph Generation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.16492)] 
+  [2023.11]
+
+:boom:**MotionZero:** Sitong Su, Litao Guo, Lianli Gao, Hengtao Shen, Jingkuan Song.<br />
+  "MotionZero:Exploiting Motion Priors for Zero-shot Text-to-Video Generation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.16635)] 
+  [2023.11]
+
+:boom:**SEED-Bench-2:** Bohao Li, Yuying Ge, Yixiao Ge, Guangzhi Wang, Rui Wang, Ruimao Zhang, Ying Shan.<br />
+  "SEED-Bench-2: Benchmarking Multimodal Large Language Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17092)] 
+  [[code](https://github.com/AILab-CVC/SEED-Bench)]
+  [2023.11]
+
+:boom:**MLKG:** Shupeng Cheng, Ge-Peng Ji, Pengda Qin, Deng-Ping Fan, Bowen Zhou, Peng Xu.<br />
+  "Large Model Based Referring Camouflaged Object Detection." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17122)] 
+  [2023.11]
+
+:boom:**APAP:** Seungwoo Yoo, Kunho Kim, Vladimir G. Kim, Minhyuk Sung.<br />
+  "As-Plausible-As-Possible: Plausibility-Aware Mesh Deformation Using 2D Diffusion Priors." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.16739)] 
+  [[homepage](https://as-plausible-as-possible.github.io/)]
+  [2023.11]
+
+:boom:**ROSO:** Yusuke Miyashita, Dimitris Gahtidis, Colin La, Jeremy Rabinowicz, Jurgen Leitner.<br />
+  "ROSO: Improving Robotic Policy Inference via Synthetic Observations." ACRA (2023).
+  [[paper](https://arxiv.org/abs/2311.16680)] 
+  [[code](https://yusuke710.github.io/roso.github.io/)]
+  [2023.11]
+
+:boom:**Exo2EgoDVC:** Takehiko Ohkawa, Takuma Yagi, Taichi Nishimura, Ryosuke Furuta, Atsushi Hashimoto, Yoshitaka Ushiku, Yoichi Sato.<br />
+  "Exo2EgoDVC: Dense Video Captioning of Egocentric Procedural Activities Using Web Instructional Videos." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.16444)] 
+  [2023.11]
+
+:boom:**ESAM:** Chengwen Zhang, Yingwei Zhao.<br />
+  "Efficient SAM for Medical Image Analysis." ArXiv (2023).
+  [[paper](https://www.researchgate.net/profile/Yingwei-Zhao-4/publication/375895620_EFFICIENT_SAM_FOR_MEDICAL_IMAGE_ANALYSIS/links/6561c43bb1398a779db369d5/EFFICIENT-SAM-FOR-MEDICAL-IMAGE-ANALYSIS.pdf)] 
+  [2023.11]
+
+:boom:**MMA-Diffusion:** Yijun Yang, Ruiyuan Gao, Xiaosen Wang, Nan Xu, Qiang Xu.<br />
+  "MMA-Diffusion: MultiModal Attack on Diffusion Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17516)] 
+  [2023.11]
+
+:boom:**LLM-State:** Siwei Chen, Anxing Xiao, David Hsu.<br />
+  "LLM-State: Expandable State Representation for Long-horizon Task Planning in the Open World." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17406)] 
+  [2023.11]
+
+- **SAM-ILP:** Aayush Kumar Tyagi, Vaibhav Mishra, Prathosh A. P., Mausam.<br />
   "Guided Prompting in SAM for Weakly Supervised Cell Segmentation in Histopathological Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.17960)] 
   [[code](https://github.com/dair-iitd/Guided-Prompting-SAM)]
