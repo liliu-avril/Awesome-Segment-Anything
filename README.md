@@ -242,6 +242,18 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2311.17406)] 
   [2023.11]
 
+:boom:Narendra Dev, J. John Soundar Jerome, Hélène Scolan, Jean-Philippe Matas.<br />
+  "Liquid inertia versus bubble cloud buoyancy in circular plunging jet experiments." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17572)] 
+  [2023.11]
+
+:boom:**HUGS:** Muhammed Kocabas, Jen-Hao Rick Chang, James Gabriel, Oncel Tuzel, Anurag Ranjan.<br />
+  "HUGS: Human Gaussian Splats." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2311.17910)] 
+  [[code](https://github.com/apple/ml-hugs)]
+  [2023.11]
+
+
 - **SAM-ILP:** Aayush Kumar Tyagi, Vaibhav Mishra, Prathosh A. P., Mausam.<br />
   "Guided Prompting in SAM for Weakly Supervised Cell Segmentation in Histopathological Images." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.17960)] 
