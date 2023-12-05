@@ -77,7 +77,12 @@ If you find our work useful in your research, please consider citing:
   [[homepage](https://imagebind.metademolab.com/)] 
   [[code](https://github.com/facebookresearch/ImageBind)]
   [2023.05]
-  
+
+- **LanguageBind:** Bin Zhu, Bin Lin, Munan Ning, Yang Yan, Jiaxi Cui, HongFa Wang, Yatian Pang, Wenhao Jiang, Junwu Zhang, Zongwei Li, Wancai Zhang, Zhifeng Li, Wei Liu, Li Yuan.<br />
+  "LanguageBind: Extending Video-Language Pretraining to N-modality by Language-based Semantic Alignment." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.01852)] 
+  [[code](https://github.com/PKU-YuanGroup/LanguageBind)]
+
 - **Meta-Transformer:** Yiyuan Zhang, Kaixiong Gong, Kaipeng Zhang, Hongsheng Li, Yu Qiao, Wanli Ouyang, Xiangyu Yue.<br />
   "Meta-Transformer: A Unified Framework for Multimodal Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.10802)] 
