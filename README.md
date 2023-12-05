@@ -134,6 +134,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAGA:** Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, Wei Shen, Qi Tian.<br />
+  "Segment Any 3D Gaussians." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.00860)] 
+  [[homepage](https://jumpat.github.io/SAGA/)]
+  [2023.12]
+
 :boom:**APE:** Yunhang Shen, Chaoyou Fu, Peixian Chen, Mengdan Zhang, Ke Li, Xing Sun, Yunsheng Wu, Shaohui Lin, Rongrong Ji.<br />
   "Aligning and Prompting Everything All at Once for Universal Visual Perception." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02153)] 
