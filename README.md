@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.05: Latest update of this paper list.
+- 2023.12.06: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -134,42 +134,53 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAGA:** Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, Wei Shen, Qi Tian.<br />
+:boom:**SGO & SGB:** Xianping Ma, Qianqian Wu, Xingyu Zhao, Xiaokang Zhang, Man-On Pun, Bo Huang.<br />
+  "SAM-Assisted Remote Sensing Imagery Semantic Segmentation with Object and Boundary Constraints." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.02464)] 
+  [[code](https://github.com/sstary/SSRS)]
+  [2023.12]
+
+:boom:**GranSAM:** Rohit Kundu, Sudipta Paul, Rohit Lal, Amit K. Roy-Chowdhury.<br />
+  "Towards Granularity-adjusted Pixel-level Semantic Annotation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.02420)] 
+  [2023.12]
+
+- **SAGA:** Jiazhong Cen, Jiemin Fang, Chen Yang, Lingxi Xie, Xiaopeng Zhang, Wei Shen, Qi Tian.<br />
   "Segment Any 3D Gaussians." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.00860)] 
   [[homepage](https://jumpat.github.io/SAGA/)]
   [2023.12]
 
-:boom:**APE:** Yunhang Shen, Chaoyou Fu, Peixian Chen, Mengdan Zhang, Ke Li, Xing Sun, Yunsheng Wu, Shaohui Lin, Rongrong Ji.<br />
+- **APE:** Yunhang Shen, Chaoyou Fu, Peixian Chen, Mengdan Zhang, Ke Li, Xing Sun, Yunsheng Wu, Shaohui Lin, Rongrong Ji.<br />
   "Aligning and Prompting Everything All at Once for Universal Visual Perception." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02153)] 
   [[code](https://github.com/shenyunhang/APE)]
   [2023.12]
 
-:boom:**SANeRF-HQ:** Yichen Liu, Benran Hu, Chi-Keung Tang, Yu-Wing Tai.<br />
+- **SANeRF-HQ:** Yichen Liu, Benran Hu, Chi-Keung Tang, Yu-Wing Tai.<br />
   "SANeRF-HQ: Segment Anything for NeRF in High Quality." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.01531)] 
   [[code](https://lyclyc52.github.io/SANeRF-HQ/)]
   [2023.12]
 
-:boom:**ObjectChangeDetection:** Aikaterini Adam, Konstantinos Karantzalos, Lazaros Grammatikopoulos, Torsten Sattler.<br />
+- **ObjectChangeDetection:** Aikaterini Adam, Konstantinos Karantzalos, Lazaros Grammatikopoulos, Torsten Sattler.<br />
   "Has Anything Changed? 3D Change Detection by 2D Segmentation Masks." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.01148)] 
   [[code](https://github.com/katadam/ObjectChangeDetection)]
   [2023.12]
 
-:boom:**SCA:** Xiaoke Huang, Jianfeng Wang, Yansong Tang, Zheng Zhang, Han Hu, Jiwen Lu, Lijuan Wang, Zicheng Liu.<br />
+- **SCA:** Xiaoke Huang, Jianfeng Wang, Yansong Tang, Zheng Zhang, Han Hu, Jiwen Lu, Lijuan Wang, Zicheng Liu.<br />
   "Segment and Caption Anything." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.00869)] 
   [[code](https://xk-huang.github.io/segment-caption-anything/)]
   [2023.12]
 
-:boom:**EfficientSAM:** Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Zhu, Xiaoliang Dai, Dilin Wang, Fei Sun, Forrest Iandola, Raghuraman Krishnamoorthi, Vikas Chandra.<br />
+- **EfficientSAM:** Yunyang Xiong, Bala Varadarajan, Lemeng Wu, Xiaoyu Xiang, Fanyi Xiao, Chenchen Zhu, Xiaoliang Dai, Dilin Wang, Fei Sun, Forrest Iandola, Raghuraman Krishnamoorthi, Vikas Chandra.<br />
   "EfficientSAM: Leveraged Masked Image Pretraining for Efficient Segment Anything." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.00863)] 
   [2023.12]
 
-:boom:**U-BDD++:** Yiyun Zhang, Zijian Wang, Yadan Luo, Xin Yu, Zi Huang.<br />
+- **U-BDD++:** Yiyun Zhang, Zijian Wang, Yadan Luo, Xin Yu, Zi Huang.<br />
   "Learning Efficient Unsupervised Satellite Image-based Building Damage Detection." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.01576)] 
   [[code](https://github.com/fzmi/ubdd)]
