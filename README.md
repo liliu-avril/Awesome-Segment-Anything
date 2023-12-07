@@ -53,6 +53,13 @@ If you find our work useful in your research, please consider citing:
   [[Reddit](https://www.reddit.com/r/singularity/comments/12cq56n/meta_ai_has_released_both_the_model_and_the/)]
   [2023.04]
 
+- **Gemini:** Gemini Team, Googl.<br />
+  "Gemini: A Family of Highly Capable Multimodal Models." ArXiv (2023).
+  [[paper](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)] 
+  [[homepage](https://blog.google/technology/ai/google-gemini-ai/#sundar-note)]
+  [2023.12]
+
+
 - **SEEM:** Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee.<br />
   "Segment Everything Everywhere All at Once." NeurIPS (2023).
   [[paper](https://arxiv.org/abs/2304.06718)] 
