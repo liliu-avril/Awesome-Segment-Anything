@@ -57,8 +57,14 @@ If you find our work useful in your research, please consider citing:
   "Gemini: A Family of Highly Capable Multimodal Models." ArXiv (2023).
   [[paper](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)] 
   [[homepage](https://blog.google/technology/ai/google-gemini-ai/#sundar-note)]
+  [[blog](https://deepmind.google/technologies/gemini/#introduction)]
   [2023.12]
 
+- **GPT-4V:** OpenAI.<br />
+  "GPT-4V(ision) System Card." ArXiv (2023).
+  [[paper](https://cdn.openai.com/papers/GPTV_System_Card.pdf)] 
+  [[homepage](https://openai.com/research/gpt-4v-system-card)]
+  [2023.09]
 
 - **SEEM:** Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee.<br />
   "Segment Everything Everywhere All at Once." NeurIPS (2023).
