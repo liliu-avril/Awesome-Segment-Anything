@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.07: Latest update of this paper list.
+- 2023.12.08: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,36 +147,52 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**PartSLIP++:** Yuchen Zhou, Jiayuan Gu, Xuanlin Li, Minghua Liu, Yunhao Fang, Hao Su.<br />
+:boom:**CrackSAM:** Kang Ge, Chen Wang, Yutao Guo.<br />
+  "Fine-tune vision foundation model for crack segmentation in civil infrastructures." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.04233)] 
+  [2023.12]
+
+:boom:**SAMBA:** Ronan Docherty, Isaac Squires, Antonis Vamvakeros, Samuel J. Cooper.<br />
+  "SAMBA: A Trainable Segmentation Web-App with Smart Labelling." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.04197)] 
+  [[code](https://www.sambasegment.com/)]
+  [2023.12]
+
+:boom:Israt Zarin Era, Imtiaz Ahmed, Zhichao Liu, Srinjoy Das.<br />
+  "An unsupervised approach towards promptable defect segmentation in laser-based additive manufacturing by Segment Anything." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.04063)] 
+  [2023.12]
+
+- **PartSLIP++:** Yuchen Zhou, Jiayuan Gu, Xuanlin Li, Minghua Liu, Yunhao Fang, Hao Su.<br />
   "PartSLIP++: Enhancing Low-Shot 3D Part Segmentation via Multi-View Instance Segmentation and Maximum Likelihood Estimation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03015)] 
   [[code](https://github.com/zyc00/PartSLIP2)]
   [2023.12]
 
-:boom:**Sambor:** Xumeng Han, Longhui Wei, Xuehui Yu, Zhiyang Dou, Xin He, Kuiran Wang, Zhenjun Han, Qi Tian.<br />
+- **Sambor:** Xumeng Han, Longhui Wei, Xuehui Yu, Zhiyang Dou, Xin He, Kuiran Wang, Zhenjun Han, Qi Tian.<br />
   "Boosting Segment Anything Model Towards Open-Vocabulary Learning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03628)] 
   [[code](https://github.com/ucas-vg/Sambor)]
   [2023.12]
 
-:boom:**SAMS:** Xiaobo Yang, Xiaojin Gong.<br />
+- **SAMS:** Xiaobo Yang, Xiaojin Gong.<br />
   "Foundation Model Assisted Weakly Supervised Semantic Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03585)] 
   [2023.12]
 
-:boom:**WeSAM:** Haojie Zhang, Yongyi Su, Xun Xu, Kui Jia.<br />
+- **WeSAM:** Haojie Zhang, Yongyi Su, Xun Xu, Kui Jia.<br />
   "Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03502)] 
   [[code](https://github.com/Zhang-Haojie/WeSAM)]
   [2023.12]
 
-:boom:**Feature 3DGS:** Shijie Zhou, Haoran Chang, Sicheng Jiang, Zhiwen Fan, Zehao Zhu, Dejia Xu, Pradyumna Chari, Suya You, Zhangyang Wang, Achuta Kadambi.<br />
+- **Feature 3DGS:** Shijie Zhou, Haoran Chang, Sicheng Jiang, Zhiwen Fan, Zehao Zhu, Dejia Xu, Pradyumna Chari, Suya You, Zhangyang Wang, Achuta Kadambi.<br />
   "Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature Fields." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03203)] 
   [[code](https://feature-3dgs.github.io/)]
   [2023.12]
 
-:boom:**AI-SAM:** Yimu Pan, Sitao Zhang, Alison D. Gernand, Jeffery A. Goldstein, James Z. Wang.<br />
+- **AI-SAM:** Yimu Pan, Sitao Zhang, Alison D. Gernand, Jeffery A. Goldstein, James Z. Wang.<br />
   "AI-SAM: Automatic and Interactive Segment Anything Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03119)] 
   [[code](https://github.com/ymp5078/AI-SAM)]
