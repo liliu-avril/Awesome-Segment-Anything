@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.10: Latest update of this paper list.
+- 2023.12.11: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,6 +147,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**CAR:** Fangzhou Song, Bin Zhu, Yanbin Hao, Shuo Wang, Xiangnan He.<br />
+  "CAR: Consolidation, Augmentation and Regulation for Recipe Retrieval
+." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.04763)] 
+  [2023.12]
+
 :boom:**HOLD:** Zicong Fan, Maria Parelli, Maria Eleni Kadoglou, Muhammed Kocabas, Xu Chen, Michael J. Black, Otmar Hilliges.<br />
   "HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.18448)] 
