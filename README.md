@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.11: Latest update of this paper list.
+- 2023.12.12: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,156 +147,184 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**CAR:** Fangzhou Song, Bin Zhu, Yanbin Hao, Shuo Wang, Xiangnan He.<br />
-  "CAR: Consolidation, Augmentation and Regulation for Recipe Retrieval
-." ArXiv (2023).
+:boom:**EdgeSAM:** Chong Zhou, Xiangtai Li, Chen Change Loy, Bo Dai.<br />
+  "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.06660)] 
+  [[code](https://github.com/chongzhou96/EdgeSAM)]
+  [2023.12]
+
+:boom:**SeCo:** Dong Zhao, Ruizhi Yang, Shuang Wang, Qi Zang, Yang Hu, Licheng Jiao, Nicu Sebe, Zhun Zhong.<br />
+  "Semantic Connectivity-Driven Pseudo-labeling for Cross-domain Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.06331)] 
+  [[code](https://github.com/DZhaoXd/SeCo)]
+  [2023.12]
+
+:boom:**SemiSAM:** Yichi Zhang, Yuan Cheng, Yuan Qi.<br />
+  "SemiSAM: Exploring SAM for Enhancing Semi-Supervised Medical Image Segmentation with Extremely Limited Annotations." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.06316)] 
+  [2023.12]
+
+:boom:**RepViT-SAM:** Ao Wang, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding.<br />
+  "RepViT-SAM: Towards Real-Time Segmenting Anything." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.05760)] 
+  [[code](https://github.com/THU-MIG/RepViT)]
+  [2023.12]
+
+:boom:**SlimSAM:** Zigeng Chen, Gongfan Fang, Xinyin Ma, Xinchao Wang.<br />
+  "0.1% Data Makes Segment Anything Slim." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.05284)] 
+  [[code](https://github.com/czg1225/SlimSAM)]
+  [2023.12]
+
+- **CAR:** Fangzhou Song, Bin Zhu, Yanbin Hao, Shuo Wang, Xiangnan He.<br />
+  "CAR: Consolidation, Augmentation and Regulation for Recipe Retrieval." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.04763)] 
   [2023.12]
 
-:boom:**HOLD:** Zicong Fan, Maria Parelli, Maria Eleni Kadoglou, Muhammed Kocabas, Xu Chen, Michael J. Black, Otmar Hilliges.<br />
+- **HOLD:** Zicong Fan, Maria Parelli, Maria Eleni Kadoglou, Muhammed Kocabas, Xu Chen, Michael J. Black, Otmar Hilliges.<br />
   "HOLD: Category-agnostic 3D Reconstruction of Interacting Hands and Objects from Video." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.18448)] 
   [[code](https://github.com/zc-alexfan/hold)]
   [2023.12]
 
-:boom:**ViP-LLaVA:** Mu Cai, Haotian Liu, Siva Karthik Mustikovela, Gregory P. Meyer, Yuning Chai, Dennis Park, Yong Jae Lee.<br />
+- **ViP-LLaVA:** Mu Cai, Haotian Liu, Siva Karthik Mustikovela, Gregory P. Meyer, Yuning Chai, Dennis Park, Yong Jae Lee.<br />
   "Making Large Multimodal Models Understand Arbitrary Visual Prompts." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.00784)] 
   [[code](https://vip-llava.github.io/)]
   [2023.12]
 
-:boom:**SPEC:** Wujian Peng, Sicheng Xie, Zuyao You, Shiyi Lan, Zuxuan Wu.<br />
+- **SPEC:** Wujian Peng, Sicheng Xie, Zuyao You, Shiyi Lan, Zuxuan Wu.<br />
   "Synthesize, Diagnose, and Optimize: Towards Fine-Grained Vision-Language Understanding." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.00081)] 
   [[code](https://github.com/wjpoom/SPEC)]
   [2023.12]
 
-:boom:**HiFi Tuner:** Zhonghao Wang, Wei Wei, Yang Zhao, Zhisheng Xiao, Mark Hasegawa-Johnson, Humphrey Shi, Tingbo Hou.<br />
+- **HiFi Tuner:** Zhonghao Wang, Wei Wei, Yang Zhao, Zhisheng Xiao, Mark Hasegawa-Johnson, Humphrey Shi, Tingbo Hou.<br />
   "HiFi Tuner: High-Fidelity Subject-Driven Fine-Tuning for Diffusion Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.00079)] 
   [2023.12]
 
-:boom:**TrafficMOT:** Lihao Liu, Yanqi Cheng, Zhongying Deng, Shujun Wang, Dongdong Chen, Xiaowei Hu, Pietro Liò, Carola-Bibiane Schönlieb, Angelica Aviles-Rivero.<br />
+- **TrafficMOT:** Lihao Liu, Yanqi Cheng, Zhongying Deng, Shujun Wang, Dongdong Chen, Xiaowei Hu, Pietro Liò, Carola-Bibiane Schönlieb, Angelica Aviles-Rivero.<br />
   "TrafficMOT: A Challenging Dataset for Multi-Object Tracking in Complex Traffic Scenarios." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.18839)] 
   [2023.12]
 
-:boom:**VideoBooth:** Yuming Jiang, Tianxing Wu, Shuai Yang, Chenyang Si, Dahua Lin, Yu Qiao, Chen Change Loy, Ziwei Liu.<br />
+- **VideoBooth:** Yuming Jiang, Tianxing Wu, Shuai Yang, Chenyang Si, Dahua Lin, Yu Qiao, Chen Change Loy, Ziwei Liu.<br />
   "VideoBooth: Diffusion-based Video Generation with Image Prompts." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.00777)] 
   [[code](https://vchitect.github.io/VideoBooth-project/)]
   [2023.12]
 
-:boom:**Portrait Diffusion:** Jin Liu, Huaibo Huang, Chao Jin, Ran He.<br />
+- **Portrait Diffusion:** Jin Liu, Huaibo Huang, Chao Jin, Ran He.<br />
   "Portrait Diffusion: Training-free Face Stylization with Chain-of-Painting." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02212)] 
   [[code](https://github.com/liujin112/)]
   [2023.12]
 
-:boom:**NPGs:** Devikalyan Das, Christopher Wewer, Raza Yunus, Eddy Ilg, Jan Eric Lenssen.<br />
+- **NPGs:** Devikalyan Das, Christopher Wewer, Raza Yunus, Eddy Ilg, Jan Eric Lenssen.<br />
   "Neural Parametric Gaussians for Monocular Non-Rigid Object Reconstruction." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.01196)] 
   [2023.12]
 
-:boom:**Diffusion Handles:** Karran Pandey, Paul Guerrero, Matheus Gadelha, Yannick Hold-Geoffroy, Karan Singh, Niloy Mitra.<br />
+- **Diffusion Handles:** Karran Pandey, Paul Guerrero, Matheus Gadelha, Yannick Hold-Geoffroy, Karan Singh, Niloy Mitra.<br />
   "Diffusion Handles: Enabling 3D Edits for Diffusion Models by Lifting Activations to 3D." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02190)] 
   [[code](https://diffusionhandles.github.io/)]
   [2023.12]
 
-:boom:**VLTSeg:** Christoph Hümmer, Manuel Schwonberg, Liangwei Zhong, Hu Cao, Alois Knoll, Hanno Gottschalk.<br />
+- **VLTSeg:** Christoph Hümmer, Manuel Schwonberg, Liangwei Zhong, Hu Cao, Alois Knoll, Hanno Gottschalk.<br />
   "VLTSeg: Simple Transfer of CLIP-Based Vision-Language Representations for Domain Generalized Semantic Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02021)] 
   [2023.12]
 
-:boom:**CustomNeRF:** Runze He, Shaofei Huang, Xuecheng Nie, Tianrui Hui, Luoqi Liu, Jiao Dai, Jizhong Han, Guanbin Li, Si Liu.<br />
+- **CustomNeRF:** Runze He, Shaofei Huang, Xuecheng Nie, Tianrui Hui, Luoqi Liu, Jiao Dai, Jizhong Han, Guanbin Li, Si Liu.<br />
   "Customize your NeRF: Adaptive Source Driven 3D Scene Editing via Local-Global Iterative Training." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.01663)] 
   [[code](https://customnerf.github.io/)]
   [2023.12]
 
-:boom:Yilin Ye, Qian Zhu, Shishi Xiao, Kang Zhang, Wei Zeng.<br />
+- Yilin Ye, Qian Zhu, Shishi Xiao, Kang Zhang, Wei Zeng.<br />
   "The Contemporary Art of Image Search: Iterative User Intent Expansion via Vision-Language Model." CSCW (2024).
   [[paper](https://arxiv.org/abs/2312.01656)] 
   [2023.12]
 
-:boom:**StoryGPT-V:** Xiaoqian Shen, Mohamed Elhoseiny.<br />
+- **StoryGPT-V:** Xiaoqian Shen, Mohamed Elhoseiny.<br />
   "Large Language Models as Consistent Story Visualizers." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02252)] 
   [[code](https://storygpt-v.s3.amazonaws.com/index.html)]
   [2023.12]
 
-:boom:**PixelLM:** Zhongwei Ren, Zhicheng Huang, Yunchao Wei, Yao Zhao, Dongmei Fu, Jiashi Feng, Xiaojie Jin.<br />
+- **PixelLM:** Zhongwei Ren, Zhicheng Huang, Yunchao Wei, Yao Zhao, Dongmei Fu, Jiashi Feng, Xiaojie Jin.<br />
   "PixelLM: Pixel Reasoning with Large Multimodal Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02228)] 
   [[code](https://pixellm.github.io/)]
   [2023.12]
 
-:boom:**SAGE:** Haoran Geng, Songlin Wei, Congyue Deng, Bokui Shen, He Wang, Leonidas Guibas.<br />
+- **SAGE:** Haoran Geng, Songlin Wei, Congyue Deng, Bokui Shen, He Wang, Leonidas Guibas.<br />
   "SAGE: Bridging Semantic and Actionable Parts for GEneralizable Articulated-Object Manipulation under Language Instructions." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.01307)] 
   [[code](https://geometry.stanford.edu/projects/sage/)]
   [2023.12]
 
-:boom:**TranSegPGD:** Xiaojun Jia, Jindong Gu, Yihao Huang, Simeng Qin, Qing Guo, Yang Liu, Xiaochun Cao.<br />
+- **TranSegPGD:** Xiaojun Jia, Jindong Gu, Yihao Huang, Simeng Qin, Qing Guo, Yang Liu, Xiaochun Cao.<br />
   "TranSegPGD: Improving Transferability of Adversarial Examples on Semantic Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02207)] 
   [2023.12]
 
-:boom:**MANUS:** Chandradeep Pokhariya, Ishaan N Shah, Angela Xing, Zekun Li, Kefan Chen, Avinash Sharma, Srinath Sridhar.<br />
+- **MANUS:** Chandradeep Pokhariya, Ishaan N Shah, Angela Xing, Zekun Li, Kefan Chen, Avinash Sharma, Srinath Sridhar.<br />
   "MANUS: Markerless Hand-Object Grasp Capture using Articulated 3D Gaussians." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02137)] 
   [[code](https://ivl.cs.brown.edu/research/manus.html)]
   [2023.12]
 
-:boom:Yao-Chih Lee, Zhoutong Zhang, Kevin Blackburn-Matzen, Simon Niklaus, Jianming Zhang, Jia-Bin Huang, Feng Liu.<br />
+- Yao-Chih Lee, Zhoutong Zhang, Kevin Blackburn-Matzen, Simon Niklaus, Jianming Zhang, Jia-Bin Huang, Feng Liu.<br />
   "Fast View Synthesis of Casual Videos." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02135)] 
   [[code](https://casual-fvs.github.io/)]
   [2023.12]
 
-:boom:**UniLSeg:** Yong Liu, Cairong Zhang, Yitong Wang, Jiahao Wang, Yujiu Yang, Yansong Tang.<br />
+- **UniLSeg:** Yong Liu, Cairong Zhang, Yitong Wang, Jiahao Wang, Yujiu Yang, Yansong Tang.<br />
   "Universal Segmentation at Arbitrary Granularity with Language Instruction." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.01623)] 
   [[code](https://github.com/workforai/UniLSeg)]
   [2023.12]
 
-:boom:**LooseControl:** Shariq Farooq Bhat, Niloy J. Mitra, Peter Wonka.<br />
+- **LooseControl:** Shariq Farooq Bhat, Niloy J. Mitra, Peter Wonka.<br />
   "LooseControl: Lifting ControlNet for Generalized Depth Conditioning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03079)] 
   [[code](https://shariqfarooq123.github.io/loose-control/)]
   [2023.12]
 
-:boom:Yankun Wu, Yuta Nakashima, Noa Garcia.<br />
+- Yankun Wu, Yuta Nakashima, Noa Garcia.<br />
   "Stable Diffusion Exposed: Gender Bias from Prompt to Image." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03027)] 
   [2023.12]
 
-:boom:**Drag-A-Video:** Yao Teng, Enze Xie, Yue Wu, Haoyu Han, Zhenguo Li, Xihui Liu.<br />
+- **Drag-A-Video:** Yao Teng, Enze Xie, Yue Wu, Haoyu Han, Zhenguo Li, Xihui Liu.<br />
   "Drag-A-Video: Non-rigid Video Editing with Point-based Interaction." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02936)] 
   [[code](https://drag-a-video.github.io/)]
   [2023.12]
 
-:boom:**SAVE:** Yeji Song, Wonsik Shin, Junsoo Lee, Jeesoo Kim, Nojun Kwak.<br />
+- **SAVE:** Yeji Song, Wonsik Shin, Junsoo Lee, Jeesoo Kim, Nojun Kwak.<br />
   "SAVE: Protagonist Diversification with Structure Agnostic Video Editing." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02503)] 
   [[code](https://ldynx.github.io/SAVE/)]
   [2023.12]
 
-:boom:**RA-SRGT:** Mengke Song, Linfeng Li, Dunquan Wu, Wenfeng Song, Chenglizhao Chen.<br />
+- **RA-SRGT:** Mengke Song, Linfeng Li, Dunquan Wu, Wenfeng Song, Chenglizhao Chen.<br />
   "Rethinking Object Saliency Ranking: A Novel Whole-flow Processing Paradigm." IEEE TIP (2023).
   [[paper](https://arxiv.org/abs/2312.03226)] 
   [[code](https://github.com/MengkeSong/Saliency-Ranking-Paradigm)]
   [2023.12]
 
-:boom:**TokenCompose:** Zirui Wang, Zhizhou Sha, Zheng Ding, Yilin Wang, Zhuowen Tu.<br />
+- **TokenCompose:** Zirui Wang, Zhizhou Sha, Zheng Ding, Yilin Wang, Zhuowen Tu.<br />
   "TokenCompose: Grounding Diffusion with Token-level Supervision." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03626)] 
   [[code](https://mlpc-ucsd.github.io/TokenCompose)]
   [2023.12]
 
-:boom:**FoodFusion:** Olivia Markham, Yuhao Chen, Chi-en Amy Tai, Alexander Wong.<br />
+- **FoodFusion:** Olivia Markham, Yuhao Chen, Chi-en Amy Tai, Alexander Wong.<br />
   "FoodFusion: A Latent Diffusion Model for Realistic Food Image Generation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03540)] 
   [[code](https://bit.ly/genai4good)]
