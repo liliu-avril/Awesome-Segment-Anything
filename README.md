@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.12: Latest update of this paper list.
+- 2023.12.13: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,30 +147,47 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**EdgeSAM:** Chong Zhou, Xiangtai Li, Chen Change Loy, Bo Dai.<br />
+:boom:**GenSAM:** Jian Hu, Jiayi Lin, Weitong Cai, Shaogang Gong.<br />
+  "Relax Image-Specific Prompt Requirement in SAM: A Single Generic Prompt for Segmenting Camouflaged Objects." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2312.07374)] 
+  [[code](https://lwpyh.github.io/GenSAM/)]
+  [2023.12]
+
+:boom:**AM-RADIO:** Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov.<br />
+  "AM-RADIO: Agglomerative Model – Reduce All Domains Into One." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.06709)] 
+  [[code](https://github.com/NVlabs/RADIO)]
+  [2023.12]
+
+:boom:**SqueezeSAM:** Balakrishnan Varadarajan, Bilge Soran, Forrest Iandola, Xiaoyu Xiang, Yunyang Xiong, Chenchen Zhu, Raghuraman Krishnamoorthi, Vikas Chandra.<br />
+  "SqueezeSAM: User friendly mobile interactive segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.06736)] 
+  [2023.12]
+
+- **EdgeSAM:** Chong Zhou, Xiangtai Li, Chen Change Loy, Bo Dai.<br />
   "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.06660)] 
   [[code](https://github.com/chongzhou96/EdgeSAM)]
   [2023.12]
 
-:boom:**SeCo:** Dong Zhao, Ruizhi Yang, Shuang Wang, Qi Zang, Yang Hu, Licheng Jiao, Nicu Sebe, Zhun Zhong.<br />
+- **SeCo:** Dong Zhao, Ruizhi Yang, Shuang Wang, Qi Zang, Yang Hu, Licheng Jiao, Nicu Sebe, Zhun Zhong.<br />
   "Semantic Connectivity-Driven Pseudo-labeling for Cross-domain Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.06331)] 
   [[code](https://github.com/DZhaoXd/SeCo)]
   [2023.12]
 
-:boom:**SemiSAM:** Yichi Zhang, Yuan Cheng, Yuan Qi.<br />
+- **SemiSAM:** Yichi Zhang, Yuan Cheng, Yuan Qi.<br />
   "SemiSAM: Exploring SAM for Enhancing Semi-Supervised Medical Image Segmentation with Extremely Limited Annotations." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.06316)] 
   [2023.12]
 
-:boom:**RepViT-SAM:** Ao Wang, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding.<br />
+- **RepViT-SAM:** Ao Wang, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding.<br />
   "RepViT-SAM: Towards Real-Time Segmenting Anything." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.05760)] 
   [[code](https://github.com/THU-MIG/RepViT)]
   [2023.12]
 
-:boom:**SlimSAM:** Zigeng Chen, Gongfan Fang, Xinyin Ma, Xinchao Wang.<br />
+- **SlimSAM:** Zigeng Chen, Gongfan Fang, Xinyin Ma, Xinchao Wang.<br />
   "0.1% Data Makes Segment Anything Slim." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.05284)] 
   [[code](https://github.com/czg1225/SlimSAM)]
