@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.13: Latest update of this paper list.
+- 2023.12.14: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,19 +147,30 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**GenSAM:** Jian Hu, Jiayi Lin, Weitong Cai, Shaogang Gong.<br />
+:boom:**SAM--Graph:** Haoyu Guo, He Zhu, Sida Peng, Yuang Wang, Yujun Shen, Ruizhen Hu, Xiaowei Zhou.<br />
+  "SAM-guided Graph Cut for 3D Instance Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.08372)] 
+  [[code](https://zju3dv.github.io/sam_graph)]
+  [2023.12]
+
+:boom:**ASLseg:** Shiyun Chen, Li Lin, Pujin Cheng, Xiaoying Tang.<br />
+  "ASLseg: Adapting SAM in the Loop for Semi-supervised Liver Tumor Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.07969)] 
+  [2023.12]
+
+- **GenSAM:** Jian Hu, Jiayi Lin, Weitong Cai, Shaogang Gong.<br />
   "Relax Image-Specific Prompt Requirement in SAM: A Single Generic Prompt for Segmenting Camouflaged Objects." AAAI (2024).
   [[paper](https://arxiv.org/abs/2312.07374)] 
   [[code](https://lwpyh.github.io/GenSAM/)]
   [2023.12]
 
-:boom:**AM-RADIO:** Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov.<br />
+- **AM-RADIO:** Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov.<br />
   "AM-RADIO: Agglomerative Model – Reduce All Domains Into One." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.06709)] 
   [[code](https://github.com/NVlabs/RADIO)]
   [2023.12]
 
-:boom:**SqueezeSAM:** Balakrishnan Varadarajan, Bilge Soran, Forrest Iandola, Xiaoyu Xiang, Yunyang Xiong, Chenchen Zhu, Raghuraman Krishnamoorthi, Vikas Chandra.<br />
+- **SqueezeSAM:** Balakrishnan Varadarajan, Bilge Soran, Forrest Iandola, Xiaoyu Xiang, Yunyang Xiong, Chenchen Zhu, Raghuraman Krishnamoorthi, Vikas Chandra.<br />
   "SqueezeSAM: User friendly mobile interactive segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.06736)] 
   [2023.12]
