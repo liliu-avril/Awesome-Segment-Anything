@@ -53,18 +53,18 @@ If you find our work useful in your research, please consider citing:
   [[Reddit](https://www.reddit.com/r/singularity/comments/12cq56n/meta_ai_has_released_both_the_model_and_the/)]
   [2023.04]
 
-- **Gemini:** Gemini Team, Googl.<br />
-  "Gemini: A Family of Highly Capable Multimodal Models." ArXiv (2023).
-  [[paper](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)] 
-  [[homepage](https://blog.google/technology/ai/google-gemini-ai/#sundar-note)]
-  [[blog](https://deepmind.google/technologies/gemini/#introduction)]
-  [2023.12]
-
 - **GPT-4V:** OpenAI.<br />
   "GPT-4V(ision) System Card." ArXiv (2023).
   [[paper](https://cdn.openai.com/papers/GPTV_System_Card.pdf)] 
   [[homepage](https://openai.com/research/gpt-4v-system-card)]
   [2023.09]
+
+  - **Gemini:** Gemini Team, Googl.<br />
+  "Gemini: A Family of Highly Capable Multimodal Models." ArXiv (2023).
+  [[paper](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)] 
+  [[homepage](https://blog.google/technology/ai/google-gemini-ai/#sundar-note)]
+  [[blog](https://deepmind.google/technologies/gemini/#introduction)]
+  [2023.12]
 
 - **SEEM:** Xueyan Zou, Jianwei Yang, Hao Zhang, Feng Li, Linjie Li, Jianfeng Gao, Yong Jae Lee.<br />
   "Segment Everything Everywhere All at Once." NeurIPS (2023).
@@ -147,7 +147,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAM--Graph:** Haoyu Guo, He Zhu, Sida Peng, Yuang Wang, Yujun Shen, Ruizhen Hu, Xiaowei Zhou.<br />
+:boom:**SAM-Graph:** Haoyu Guo, He Zhu, Sida Peng, Yuang Wang, Yujun Shen, Ruizhen Hu, Xiaowei Zhou.<br />
   "SAM-guided Graph Cut for 3D Instance Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.08372)] 
   [[code](https://zju3dv.github.io/sam_graph)]
