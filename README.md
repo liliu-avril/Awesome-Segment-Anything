@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.14: Latest update of this paper list.
+- 2023.12.15: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,13 +147,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAM-Graph:** Haoyu Guo, He Zhu, Sida Peng, Yuang Wang, Yujun Shen, Ruizhen Hu, Xiaowei Zhou.<br />
+:boom:**TAP:** ing Pan, Lulu Tang, Xinlong Wang, Shiguang Shan.<br />
+  "Tokenize Anything via Prompting." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.09128)] 
+  [[code](https://github.com/baaivision/tokenize-anything)]
+  [2023.12]
+
+:boom:Josh Stein, Maxime Di Folco, Julia A. Schnabel.<br />
+  "Influence of Prompting Strategies on Segment Anything Model (SAM) for Short-axis Cardiac MRI segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.08932)] 
+  [2023.12]
+
+- **SAM-Graph:** Haoyu Guo, He Zhu, Sida Peng, Yuang Wang, Yujun Shen, Ruizhen Hu, Xiaowei Zhou.<br />
   "SAM-guided Graph Cut for 3D Instance Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.08372)] 
   [[code](https://zju3dv.github.io/sam_graph)]
   [2023.12]
 
-:boom:**ASLseg:** Shiyun Chen, Li Lin, Pujin Cheng, Xiaoying Tang.<br />
+- **ASLseg:** Shiyun Chen, Li Lin, Pujin Cheng, Xiaoying Tang.<br />
   "ASLseg: Adapting SAM in the Loop for Semi-supervised Liver Tumor Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.07969)] 
   [2023.12]
