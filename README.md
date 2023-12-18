@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.17: Latest update of this paper list.
+- 2023.12.18: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,107 +147,137 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Alpha-CLIP:** Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang.<br />
+:boom:**TIFace:** Ruijie Zhu, Jiahao Chang, Ziyang Song, Jiahuan Yu, Tianzhu Zhang.<br />
+  "TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces." ICCV  Workshop (2023).
+  [[paper](https://arxiv.org/abs/2312.09527)] 
+  [[code](https://github.com/RuijieZhu94/TI-Face)]
+  [2023.12]
+
+:boom:**Osprey:** Yuqian Yuan, Wentong Li, Jian Liu, Dongqi Tang, Xinjie Luo, Chi Qin, Lei Zhang, Jianke Zhu.<br />
+  "Osprey: Pixel Understanding with Visual Instruction Tuning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.10032)] 
+  [[code](https://github.com/CircleRadon/Osprey)]
+  [2023.12]
+
+:boom:**SQA-SAM:** Yizhe Zhang, Shuo Wang, Tao Zhou, Qi Dou, Danny Z. Chen.<br />
+  "SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.09899)] 
+  [[code](https://github.com/yizhezhang2000/SQA-SAM)]
+  [2023.12]
+
+:boom:**CLOUDS:** Yasser Benigmim, Subhankar Roy, Slim Essid, Vicky Kalogeiton, Stéphane Lathuilière.<br />
+  "Collaborating Foundation models for Domain Generalized Semantic Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.09788)] 
+  [[code](https://github.com/yasserben/CLOUDS)]
+  [2023.12]
+
+:boom:**MobileSAMv2:** Chaoning Zhang, Dongshen Han, Sheng Zheng, Jinwoo Choi, Tae-Ho Kim, Choong Seon Hong.<br />
+  "MobileSAMv2: Faster Segment Anything to Everything." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.09579)] 
+  [[code](https://github.com/ChaoningZhang/MobileSAM)]
+  [2023.12]
+
+- **Alpha-CLIP:** Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang.<br />
   "Alpha-CLIP: A CLIP Model Focusing on Wherever You Want." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03818)] 
   [[homepage](https://aleafy.github.io/alpha-clip)]
   [[code](https://github.com/SunzeY/AlphaCLIP)]
   [2023.12]
 
- :boom:**WonderJourney:** Hong-Xing Yu, Haoyi Duan, Junhwa Hur, Kyle Sargent, Michael Rubinstein, William T. Freeman, Forrester Cole, Deqing Sun, Noah Snavely, Jiajun Wu, Charles Herrmann.<br />
+- **WonderJourney:** Hong-Xing Yu, Haoyi Duan, Junhwa Hur, Kyle Sargent, Michael Rubinstein, William T. Freeman, Forrester Cole, Deqing Sun, Noah Snavely, Jiajun Wu, Charles Herrmann.<br />
   "WonderJourney: Going from Anywhere to Everywhere." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.03884)] 
   [[code](https://kovenyu.com/WonderJourney/)]
   [2023.12]
 
-:boom:**MobileSAM-Track:** Liu, Yehui, Yuliang Zhao, Xinyue Zhang, Xiaoai Wang, Chao Lian, Jian Li, Peng Shan, Changzeng Fu, Xiaoyong Lyu, Lianjiang Li, and et al.<br />
+- **MobileSAM-Track:** Liu, Yehui, Yuliang Zhao, Xinyue Zhang, Xiaoai Wang, Chao Lian, Jian Li, Peng Shan, Changzeng Fu, Xiaoyong Lyu, Lianjiang Li, and et al.<br />
   "MobileSAM-Track: Lightweight One-Shot Tracking and Segmentation of Small Objects on Edge Devices." Remote Sensing (2023).
   [[paper](https://www.mdpi.com/2072-4292/15/24/5665)] 
   [2023.12]
 
-:boom:**IT3DEgo:** Yunhan Zhao, Haoyu Ma, Shu Kong, Charless Fowlkes.<br />
+- **IT3DEgo:** Yunhan Zhao, Haoyu Ma, Shu Kong, Charless Fowlkes.<br />
   "Instance Tracking in 3D Scenes from Egocentric Videos." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.04117)] 
   [[code](https://github.com/IT3DEgo/IT3DEgo/)]
   [2023.12]
 
-:boom:**Rein:** Zhixiang Wei, Lin Chen, Yi Jin, Xiaoxiao Ma, Tianle Liu, Pengyang Lin, Ben Wang, Huaian Chen, Jinjin Zheng.<br />
+- **Rein:** Zhixiang Wei, Lin Chen, Yi Jin, Xiaoxiao Ma, Tianle Liu, Pengyang Lin, Ben Wang, Huaian Chen, Jinjin Zheng.<br />
   "Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.04265)] 
   [[code](https://github.com/w1oves/Rein.git)]
   [2023.12]
 
-:boom:**MR.HARM:** Hongzhan Lin, Ziyang Luo, Jing Ma, Long Chen.<br />
+- **MR.HARM:** Hongzhan Lin, Ziyang Luo, Jing Ma, Long Chen.<br />
   "Beneath the Surface: Unveiling Harmful Memes with Multimodal Reasoning Distilled from Large Language Models." EMNLP (2023).
   [[paper](https://arxiv.org/abs/2312.05434)] 
   [2023.12]
 
-:boom:**ControlRoom3D:** Jonas Schult, Sam Tsai, Lukas Höllein, Bichen Wu, Jialiang Wang, Chih-Yao Ma, Kunpeng Li, Xiaofang Wang, Felix Wimbauer, Zijian He, Peizhao Zhang, Bastian Leibe, Peter Vajda, Ji Hou.<br />
+- **ControlRoom3D:** Jonas Schult, Sam Tsai, Lukas Höllein, Bichen Wu, Jialiang Wang, Chih-Yao Ma, Kunpeng Li, Xiaofang Wang, Felix Wimbauer, Zijian He, Peizhao Zhang, Bastian Leibe, Peter Vajda, Ji Hou.<br />
   "ControlRoom3D: Room Generation using Semantic Proxy Rooms." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.05208)] 
   [[code](https://jonasschult.github.io/ControlRoom3D/)]
   [2023.12]
 
-:boom:**SmartEdit:** Yuzhou Huang, Liangbin Xie, Xintao Wang, Ziyang Yuan, Xiaodong Cun, Yixiao Ge, Jiantao Zhou, Chao Dong, Rui Huang, Ruimao Zhang, Ying Shan.<br />
+- **SmartEdit:** Yuzhou Huang, Liangbin Xie, Xintao Wang, Ziyang Yuan, Xiaodong Cun, Yixiao Ge, Jiantao Zhou, Chao Dong, Rui Huang, Ruimao Zhang, Ying Shan.<br />
   "SmartEdit: Exploring Complex Instruction-based Image Editing with Multimodal Large Language Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.06739)] 
   [[code](https://github.com/TencentARC/SmartEdit)]
   [2023.12]
 
-:boom:**COMBO:** Qi Yang, Xing Nie, Tong Li, Pengfei Gao, Ying Guo, Cheng Zhen, Pengfei Yan, Shiming Xiang.<br />
+- **COMBO:** Qi Yang, Xing Nie, Tong Li, Pengfei Gao, Ying Guo, Cheng Zhen, Pengfei Yan, Shiming Xiang.<br />
   "Cooperation Does Matter: Exploring Multi-Order Bilateral Relations for Audio-Visual Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.06462)] 
   [[code](https://combo-avs.github.io/)]
   [2023.12]
 
-:boom:**Vary:** Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, Jinrong Yang, Jianjian Sun, Chunrui Han, Xiangyu Zhang.<br />
+- **Vary:** Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, Jinrong Yang, Jianjian Sun, Chunrui Han, Xiangyu Zhang.<br />
   "Vary: Scaling up the Vision Vocabulary for Large Vision-Language Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.06109)] 
   [[code](https://varybase.github.io/)]
   [2023.12]
 
-:boom:**Annolid:** Chen Yang, Jeremy Forest, Matthew Einhorn, Thomas A. Cleland.<br />
+- **Annolid:** Chen Yang, Jeremy Forest, Matthew Einhorn, Thomas A. Cleland.<br />
   "Automated Behavioral Analysis Using Instance Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.07723)] 
   [[code](https://github.com/cplab/annolid)]
   [2023.12]
 
-:boom:**FIND:** Xueyan Zou, Linjie Li, Jianfeng Wang, Jianwei Yang, Mingyu Ding, Zhengyuan Yang, Feng Li, Hao Zhang, Shilong Liu, Arul Aravinthan, Yong Jae Lee, Lijuan Wang.<br />
+- **FIND:** Xueyan Zou, Linjie Li, Jianfeng Wang, Jianwei Yang, Mingyu Ding, Zhengyuan Yang, Feng Li, Hao Zhang, Shilong Liu, Arul Aravinthan, Yong Jae Lee, Lijuan Wang.<br />
   "Interfacing Foundation Models’ Embeddings." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.07532)] 
   [[code](https://github.com/UX-Decoder/FIND)]
   [2023.12]
 
-:boom:**ScribblePrompt:** Hallee E. Wong, Marianne Rakic, John Guttag, Adrian V. Dalca.<br />
+- **ScribblePrompt:** Hallee E. Wong, Marianne Rakic, John Guttag, Adrian V. Dalca.<br />
   "ScribblePrompt: Fast and Flexible Interactive Segmentation for Any Medical Image." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.07381)] 
   [[code](https://scribbleprompt.csail.mit.edu/)]
   [2023.12]
 
-:boom:**MWSIS:** Guangfeng Jiang, Jun Liu, Yuzhi Wu, Wenlong Liao, Tao He, Pai Peng.<br />
+- **MWSIS:** Guangfeng Jiang, Jun Liu, Yuzhi Wu, Wenlong Liao, Tao He, Pai Peng.<br />
   "MWSIS: Multimodal Weakly Supervised Instance Segmentation with 2D Box Annotations for Autonomous Driving." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.06988)] 
   [[code](https://github.com/jiangxb98/mwsis-plugin)]
   [2023.12]
 
-:boom:**Mask as Supervision:** Yuchen Yang, Yu Qiao, Xiao Sun.<br />
+- **Mask as Supervision:** Yuchen Yang, Yu Qiao, Xiao Sun.<br />
   "Mask as Supervision: Leveraging Unified Mask Information for Unsupervised 3D Pose Estimation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.07051)] 
   [[code](https://github.com/Charrrrrlie/Mask-as-Supervision)]
   [2023.12]
 
-:boom:**IPSL:** Yujun Chen, Xin Tan, Zhizhong Zhang, Yanyun Qu, Yuan Xie.<br />
+- **IPSL:** Yujun Chen, Xin Tan, Zhizhong Zhang, Yanyun Qu, Yuan Xie.<br />
   "Beyond the Label Itself: Latent Labels Enhance Semi-supervised Point Cloud Panoptic Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.08234)] 
   [2023.12]
 
-:boom:**SESAME:** Tsung-Han Wu, Giscard Biamby, David Chan, Lisa Dunlap, Ritwik Gupta, Xudong Wang, Joseph E. Gonzalez, Trevor Darrell.<br />
+- **SESAME:** Tsung-Han Wu, Giscard Biamby, David Chan, Lisa Dunlap, Ritwik Gupta, Xudong Wang, Joseph E. Gonzalez, Trevor Darrell.<br />
   "See, Say, and Segment: Teaching LMMs to Overcome False Premises." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.08366)] 
   [[code](https://see-say-segment.github.io/)]
   [2023.12]
 
-:boom:**RefCOCOm:** Wenxuan Wang, Tongtian Yue, Yisi Zhang, Longteng Guo, Xingjian He, Xinlong Wang, Jing Liu.<br />
+- **RefCOCOm:** Wenxuan Wang, Tongtian Yue, Yisi Zhang, Longteng Guo, Xingjian He, Xinlong Wang, Jing Liu.<br />
   "Unveiling Parts Beyond Objects:Towards Finer-Granularity Referring Expression Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.08007)] 
   [[code](https://github.com/Rubics-Xuan/MRES)]
