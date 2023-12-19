@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.18: Latest update of this paper list.
+- 2023.12.19: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,31 +147,52 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**TIFace:** Ruijie Zhu, Jiahao Chang, Ziyang Song, Jiahuan Yu, Tianzhu Zhang.<br />
+:boom:**GSVA:** Zhuofan Xia, Dongchen Han, Yizeng Han, Xuran Pan, Shiji Song, Gao Huang.<br />
+  "GSVA: Generalized Segmentation via Multimodal Large Language Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.10103)] 
+  [[code](https://github.com/LeapLabTHU/GSVA)]
+  [2023.12]
+
+:boom:**ABR:** Junyu Xie, Weidi Xie, Andrew Zisserman.<br />
+  "Appearance-based Refinement for Object-Centric Motion Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.11463)] 
+  [2023.12]
+
+:boom:Yixin Zhang, Shen Zhao, Hanxue Gu, Maciej A. Mazurowski.<br />
+  "Cut your annotation cost: An empirical study on the use of weak, noisy, and SAM-generated annotations for segmentation network training." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.10600)] 
+  [2023.12]
+
+:boom:Isabelle Tingzon, Nuala Margaret Cowan, Pierre Chrzanowski.<br />
+  "Mapping Housing Stock Characteristics from Drone Images for Climate Resilience in the Caribbean." NeurIPS  Workshop (2023).
+  [[paper](https://arxiv.org/abs/2312.10306)] 
+  [2023.12]
+
+- **TIFace:** Ruijie Zhu, Jiahao Chang, Ziyang Song, Jiahuan Yu, Tianzhu Zhang.<br />
   "TIFace: Improving Facial Reconstruction through Tensorial Radiance Fields and Implicit Surfaces." ICCV  Workshop (2023).
   [[paper](https://arxiv.org/abs/2312.09527)] 
   [[code](https://github.com/RuijieZhu94/TI-Face)]
   [2023.12]
 
-:boom:**Osprey:** Yuqian Yuan, Wentong Li, Jian Liu, Dongqi Tang, Xinjie Luo, Chi Qin, Lei Zhang, Jianke Zhu.<br />
+- **Osprey:** Yuqian Yuan, Wentong Li, Jian Liu, Dongqi Tang, Xinjie Luo, Chi Qin, Lei Zhang, Jianke Zhu.<br />
   "Osprey: Pixel Understanding with Visual Instruction Tuning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.10032)] 
   [[code](https://github.com/CircleRadon/Osprey)]
   [2023.12]
 
-:boom:**SQA-SAM:** Yizhe Zhang, Shuo Wang, Tao Zhou, Qi Dou, Danny Z. Chen.<br />
+- **SQA-SAM:** Yizhe Zhang, Shuo Wang, Tao Zhou, Qi Dou, Danny Z. Chen.<br />
   "SQA-SAM: Segmentation Quality Assessment for Medical Images Utilizing the Segment Anything Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.09899)] 
   [[code](https://github.com/yizhezhang2000/SQA-SAM)]
   [2023.12]
 
-:boom:**CLOUDS:** Yasser Benigmim, Subhankar Roy, Slim Essid, Vicky Kalogeiton, Stéphane Lathuilière.<br />
+- **CLOUDS:** Yasser Benigmim, Subhankar Roy, Slim Essid, Vicky Kalogeiton, Stéphane Lathuilière.<br />
   "Collaborating Foundation models for Domain Generalized Semantic Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.09788)] 
   [[code](https://github.com/yasserben/CLOUDS)]
   [2023.12]
 
-:boom:**MobileSAMv2:** Chaoning Zhang, Dongshen Han, Sheng Zheng, Jinwoo Choi, Tae-Ho Kim, Choong Seon Hong.<br />
+- **MobileSAMv2:** Chaoning Zhang, Dongshen Han, Sheng Zheng, Jinwoo Choi, Tae-Ho Kim, Choong Seon Hong.<br />
   "MobileSAMv2: Faster Segment Anything to Everything." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.09579)] 
   [[code](https://github.com/ChaoningZhang/MobileSAM)]
