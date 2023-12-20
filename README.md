@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.19: Latest update of this paper list.
+- 2023.12.20: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,23 +147,45 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**GSVA:** Zhuofan Xia, Dongchen Han, Yizeng Han, Xuran Pan, Shiji Song, Gao Huang.<br />
+:boom:**WSOVOD:** Jianghang Lin, Yunhang Shen, Bingquan Wang, Shaohui Lin, Ke Li, Liujuan Cao.<br />
+  "Weakly Supervised Open-Vocabulary Object Detection." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2312.12437)] 
+  [[code](https://github.com/HunterJ-Lin/WSOVOD)]
+  [2023.12]
+
+:boom:**SAI3D:** Yingda Yin, Yuzheng Liu, Yang Xiao, Daniel Cohen-Or, Jingwei Huang, Baoquan Chen.<br />
+  "SAI3D: Segment Any Instance in 3D Scenes." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.11557)] 
+  [[code](https://yd-yin.github.io/SAI3D)]
+  [2023.12]
+
+:boom:**SAMBA:** Mohannad Barakat, Noha Magdy, Jjuuko George William, Ethel Phiri, Raymond Confidence, Dong Zhang, Udunna C Anazodo.<br />
+  "Towards SAMBA: Segment Anything Model for Brain Tumor Segmentation in Sub-Sharan African Populations." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.11775)] 
+  [2023.12]
+
+:boom:**EVI-SAM:** Weipeng Guan, Peiyu Chen, Huibin Zhao, Yu Wang, Peng Lu.<br />
+  "EVI-SAM: Robust, Real-time, Tightly-coupled Event-Visual-Inertial State Estimation and 3D Dense Mapping." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.11911)] 
+  [2023.12]
+
+- **GSVA:** Zhuofan Xia, Dongchen Han, Yizeng Han, Xuran Pan, Shiji Song, Gao Huang.<br />
   "GSVA: Generalized Segmentation via Multimodal Large Language Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.10103)] 
   [[code](https://github.com/LeapLabTHU/GSVA)]
   [2023.12]
 
-:boom:**ABR:** Junyu Xie, Weidi Xie, Andrew Zisserman.<br />
+- **ABR:** Junyu Xie, Weidi Xie, Andrew Zisserman.<br />
   "Appearance-based Refinement for Object-Centric Motion Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.11463)] 
   [2023.12]
 
-:boom:Yixin Zhang, Shen Zhao, Hanxue Gu, Maciej A. Mazurowski.<br />
+- Yixin Zhang, Shen Zhao, Hanxue Gu, Maciej A. Mazurowski.<br />
   "Cut your annotation cost: An empirical study on the use of weak, noisy, and SAM-generated annotations for segmentation network training." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.10600)] 
   [2023.12]
 
-:boom:Isabelle Tingzon, Nuala Margaret Cowan, Pierre Chrzanowski.<br />
+- Isabelle Tingzon, Nuala Margaret Cowan, Pierre Chrzanowski.<br />
   "Mapping Housing Stock Characteristics from Drone Images for Climate Resilience in the Caribbean." NeurIPS  Workshop (2023).
   [[paper](https://arxiv.org/abs/2312.10306)] 
   [2023.12]
