@@ -120,7 +120,7 @@ If you find our work useful in your research, please consider citing:
 - **PACGen:** Yuheng Li, Haotian Liu, Yangming Wen, Yong Jae Lee.<br />
   "Generate Anything Anywhere in Any Scene." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.17154)] 
- [[homepage](https://github.com/Yuheng-Li/PACGen)] 
+  [[homepage](https://github.com/Yuheng-Li/PACGen)] 
   [[code](https://yuheng-li.github.io/PACGen/)]
   [2023.06]
 
@@ -134,7 +134,7 @@ If you find our work useful in your research, please consider citing:
 - **OneFormer:** Jitesh Jain, Jiachen Li, MangTik Chiu, Ali Hassani, Nikita Orlov, Humphrey Shi.<br />
   "OneFormer: One Transformer to Rule Universal Image Segmentation." CVPR (2023).
   [[paper]( https://arxiv.org/abs/2211.06220)] 
-[[homepage](https://praeclarumjj3.github.io/oneformer)] 
+  [[homepage](https://praeclarumjj3.github.io/oneformer)] 
   [[code](https://github.com/SHI-Labs/OneFormer)]
   [2022.11]
   
@@ -1877,8 +1877,10 @@ If you find our work useful in your research, please consider citing:
   [2023.08] 
 
 - **SCESAME:** Hiroaki Yamagiwa, Yusuke Takase, Hiroyuki Kambe, Ryosuke Nakamoto.<br />
-  "Zero-Shot Edge Detection with SCESAME: Spectral Clustering-based Ensemble for Segment Anything Model Estimation." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2308.13779)] 
+  "Zero-Shot Edge Detection With SCESAME: Spectral Clustering-Based Ensemble for Segment Anything Model Estimation." WACV Workshop (2024).
+  [[arXiv](https://arxiv.org/abs/2308.13779)]
+  [[paper](https://openaccess.thecvf.com/content/WACV2024W/Pretrain/html/Yamagiwa_Zero-Shot_Edge_Detection_With_SCESAME_Spectral_Clustering-Based_Ensemble_for_Segment_WACVW_2024_paper.html)]
+  [[code](https://github.com/ymgw55/SCESAME)]
   [2023.08] 
 
 - **SamDSK:** Yizhe Zhang, Tao Zhou, Shuo Wang, Ye Wu, Pengfei Gu, Danny Z. Chen.<br />
