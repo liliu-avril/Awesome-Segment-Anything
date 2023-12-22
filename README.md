@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.21: Latest update of this paper list.
+- 2023.12.22: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,12 +147,19 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SRIN:** Haoxing Chen, Yaohui Li, Zhangxuan Gu, Zhuoer Xu, Jun Lan, Huaxiong Li.<br />
+:boom:**TinySAM:** Han Shu, Wenshuo Li, Yehui Tang, Yiman Zhang, Yihao Chen, Houqiang Li, Yunhe Wang, Xinghao Chen.<br />
+  "TinySAM: Pushing the Envelope for Efficient Segment Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.13789)] 
+  [[code](https://github.com/xinghaochen/TinySAM)]
+  [[weights](https://gitee.com/mindspore/models/tree/master/research/cv/TinySAM)]
+  [2023.12]
+
+- **SRIN:** Haoxing Chen, Yaohui Li, Zhangxuan Gu, Zhuoer Xu, Jun Lan, Huaxiong Li.<br />
   "Segment Anything Model Meets Image Harmonization." ICASSP  (2024).
   [[paper](https://arxiv.org/abs/2312.12729)] 
   [2023.12]
 
-:boom:José Guilherme de Almeida, Nuno M. Rodrigues, Sara Silva, Nickolas Papanikolaou.<br />
+- José Guilherme de Almeida, Nuno M. Rodrigues, Sara Silva, Nickolas Papanikolaou.<br />
   "Testing the Segment Anything Model on radiology data." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.12880)] 
   [2023.12]
