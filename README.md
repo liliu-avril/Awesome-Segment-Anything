@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.22: Latest update of this paper list.
+- 2023.12.24: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,7 +147,76 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**TinySAM:** Han Shu, Wenshuo Li, Yehui Tang, Yiman Zhang, Yihao Chen, Houqiang Li, Yunhe Wang, Xinghao Chen.<br />
+:boom:**RadOcc:** Haiming Zhang, Xu Yan, Dongfeng Bai, Jiantao Gao, Pan Wang, Bingbing Liu, Shuguang Cui, Zhen Li.<br />
+  "RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2312.11829)] 
+  [2023.12]
+
+:boom:**CreativeConnect:** DaEun Choi, Sumin Hong, Jeongeon Park, John Joon Young Chung, Juho Kim.<br />
+  "CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.11949)] 
+  [2023.12]
+
+Fei Pan, Sangryul Jeon, Brian Wang, Frank Mckenna, Stella X. Yu.<br />
+  "Zero-Shot Building Attribute Extraction From Large-Scale Vision and Language Models." WACV (2024).
+  [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Zero-Shot_Building_Attribute_Extraction_From_Large-Scale_Vision_and_Language_Models_WACV_2024_paper.html)] 
+  [2023.12]
+
+:boom:**MSFM:** Shijian Zheng and Rujing Wang and Shitao Zheng and Fenmei Wang and Liusan Wang and Zhigui Liu.<br />
+  "A Multi-scale feature modulation network for efficient underwater image enhancement." JKSUCI (2023).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1319157823004421)] 
+  [[code](https://github.com/zhengshijian1993/MFMN)]
+  [2023.12]
+
+:boom:Pranjay Shyam, HyunJin Yoo.<br />
+  "Lightweight Thermal Super-Resolution and Object Detection for Robust Perception in Adverse Weather Conditions." WACV (2024).
+  [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Shyam_Lightweight_Thermal_Super-Resolution_and_Object_Detection_for_Robust_Perception_in_WACV_2024_paper.html)] 
+  [2023.12]
+
+:boom:Weiyi Xie, Nathalie Willems, Shubham Patil, Yang Li, Mayank Kumar.<br />
+  "SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images." WACV (2024).
+  [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Xie_SAM_Fewshot_Finetuning_for_Anatomical_Segmentation_in_Medical_Images_WACV_2024_paper.html)] 
+  [2023.12]
+
+:boom:**PMVC:** Chushan Zhang, Jinguang Tong, Tao Jun Lin, Chuong Nguyen, Hongdong Li.<br />
+  "PMVC: Promoting Multi-View Consistency for 3D Scene Reconstruction." WACV (2024).
+  [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Zhang_PMVC_Promoting_Multi-View_Consistency_for_3D_Scene_Reconstruction_WACV_2024_paper.html)] 
+  [2023.12]
+
+:boom:**BBPM:** Colbert, Zachery Morton and Arrington, Daniel and Foote, Matthew and Gårding, Jonas and Fay, Dominik and Huo, Michael and Pinkham, Mark and Ramachandran, Prabhakar.<br />
+  "Repurposing Traditional U-Net Predictions for Sparse SAM Prompting in Medical Image Segmentation." BPEE (2023).
+  [[paper](https://iopscience.iop.org/article/10.1088/2057-1976/ad17a7/meta)] 
+  [2023.12]
+
+:boom:**Hi-Viscont:** Weiwei Gu, Anant Sah, Nakul Gopalan.<br />
+  "Interactive Visual Task Learning for Robots."  AAAI (2024).
+  [[paper](https://arxiv.org/abs/2312.13219)] 
+  [2023.12]
+
+:boom:Sushil Sharma, Aryan Singh, Ganesh Sistu, Mark Halton, Ciarán Eising.<br />
+  "Optimizing Ego Vehicle Trajectory Prediction: The Graph Enhancement Approach." EI-AVM (2024).
+  [[paper](https://arxiv.org/abs/2312.13104)] 
+  [2023.12]
+
+:boom:**Loitering:** Johnny Núñez, Zenjie Li, Sergio Escalera, Kamal Nasrollahi.<br />
+  "Identifying Loitering Behavior with Trajectory Analysis." WACV Workshop (2024).
+  [[paper](https://openaccess.thecvf.com/content/WACV2024W/RWS/html/Nunez_Identifying_Loitering_Behavior_With_Trajectory_Analysis_WACVW_2024_paper.html)] 
+  [[code](https://github.com/johnnynunez/RS-WACV24_Loitering)]
+  [2023.12]
+
+:boom:**Emu2:** Quan Sun, Yufeng Cui, Xiaosong Zhang, Fan Zhang, Qiying Yu, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang.<br />
+  "Generative Multimodal Models are In-Context Learners." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.13286)] 
+  [[homepage](https://baaivision.github.io/emu2)]
+  [[code](https://github.com/baaivision/Emu)] 
+  [2023.12]
+
+:boom:Giorgos Savathrakis, Antonis Argyros.<br />
+  "An Automated Method for the Creation of Oriented Bounding Boxes in Remote Sensing Ship Detection Datasets." WACV Workshop (2024).
+  [[paper](https://openaccess.thecvf.com/content/WACV2024W/MaCVi/html/Savathrakis_An_Automated_Method_for_the_Creation_of_Oriented_Bounding_Boxes_WACVW_2024_paper.html)] 
+  [2023.12]
+
+- **TinySAM:** Han Shu, Wenshuo Li, Yehui Tang, Yiman Zhang, Yihao Chen, Houqiang Li, Yunhe Wang, Xinghao Chen.<br />
   "TinySAM: Pushing the Envelope for Efficient Segment Anything Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.13789)] 
   [[code](https://github.com/xinghaochen/TinySAM)]
