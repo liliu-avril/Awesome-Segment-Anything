@@ -267,7 +267,7 @@ Fei Pan, Sangryul Jeon, Brian Wang, Frank Mckenna, Stella X. Yu.<br />
   [2023.12]
 
 - Yixin Zhang, Shen Zhao, Hanxue Gu, Maciej A. Mazurowski.<br />
-  "Cut your annotation cost: An empirical study on the use of weak, noisy, and SAM-generated annotations for segmentation network training." ArXiv (2023).
+  "How to Efficiently Annotate Images for Best-Performing Deep Learning Based Segmentation Models: An Empirical Study with Weak and Noisy Annotations and Segment Anything Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.10600)] 
   [2023.12]
 
@@ -2887,7 +2887,7 @@ Fei Pan, Sangryul Jeon, Brian Wang, Frank Mckenna, Stella X. Yu.<br />
   [2023.04]
 
 - Simiao Ren, Francesco Luzi, Saad Lahrichi, Kaleb Kassaw, Leslie M. Collins, Kyle Bradbury, Jordan M. Malof.<br />
-  "Segment anything, from space?." ArXiv (2023).
+  "Segment anything, from space?." WACV (2024).
   [[paper]( https://arxiv.org/abs/2304.13000)] 
   [2023.04]
 
