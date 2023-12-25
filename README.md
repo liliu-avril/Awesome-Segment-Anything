@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.24: Latest update of this paper list.
+- 2023.12.25: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,6 +147,40 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Customize-It-3D:** Nan Huang, Ting Zhang, Yuhui Yuan, Dong Chen, Shanghang Zhang.<br />
+  "Customize-It-3D: High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.11535)] 
+  [[code](https://nnanhuang.github.io/projects/customize-it-3d/)]
+  [2023.12]
+
+:boom:**Ins-HOI:** Jiajun Zhang, Yuxiang Zhang, Hongwen Zhang, Boyao Zhou, Ruizhi Shao, Zonghai Hu, Yebin Liu.<br />
+  "Ins-HOI: Instance Aware Human-Object Interactions Recovery." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.09641)] 
+  [[code](https://jiajunzhang16.github.io/ins-hoi)]
+  [2023.12]
+
+:boom:**GPS:** Zhi Zhang, Qizhe Zhang, Zijun Gao, Renrui Zhang, Ekaterina Shutova, Shiji Zhou, Shanghang Zhang.<br />
+  "Gradient-based Parameter Selection for Efficient Fine-Tuning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.10136)] 
+  [2023.12]
+
+:boom:**PixelLLM:** Jiarui Xu, Xingyi Zhou, Shen Yan, Xiuye Gu, Anurag Arnab, Chen Sun, Xiaolong Wang, Cordelia Schmid.<br />
+  "Pixel Aligned Language Models." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.09237)] 
+  [[code](https://jerryxu.net/PixelLLM/)]
+  [2023.12]
+
+:boom:**VectorTalker:** Hao Hu, Xuan Wang, Jingxiang Sun, Yanbo Fan, Yu Guo, Caigui Jiang.<br />
+  "VectorTalker: SVG Talking Face Generation with Progressive Vectorisation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.11568)] 
+  [2023.12]
+
+:boom:**Open3DIS:** Phuc D.A. Nguyen, Tuan Duc Ngo, Chuang Gan, Evangelos Kalogerakis, Anh Tran, Cuong Pham, Khoi Nguyen.<br />
+  "Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.10671)] 
+  [[code](https://open3dis.github.io/)]
+  [2023.12]
+
 :boom:**RadOcc:** Haiming Zhang, Xu Yan, Dongfeng Bai, Jiantao Gao, Pan Wang, Bingbing Liu, Shuguang Cui, Zhen Li.<br />
   "RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation." AAAI (2024).
   [[paper](https://arxiv.org/abs/2312.11829)] 
