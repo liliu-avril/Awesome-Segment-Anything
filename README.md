@@ -147,6 +147,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**FM-OV3D:** Dongmei Zhang, Chang Li, Ray Zhang, Shenghao Xie, Wei Xue, Xiaodong Xie, Shanghang Zhang.<br />
+  "FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2312.14465)] 
+  [[code](https://github.com/dmzhang0425/FM-OV3D.git)]
+  [2023.12]
+
+:boom:**SP-SAM:** Wenxi Yue, Jing Zhang, Kun Hu, Qiuxia Wu, Zongyuan Ge, Yong Xia, Jiebo Luo, Zhiyong Wang.<br />
+  "Part to Whole: Collaborative Prompting for Surgical Instrument Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.14481)] 
+  [[code](https://github.com/wenxi-yue/SurgicalPart-SAM)]
+  [2023.12]
+
 :boom:**Customize-It-3D:** Nan Huang, Ting Zhang, Yuhui Yuan, Dong Chen, Shanghang Zhang.<br />
   "Customize-It-3D: High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.11535)] 
