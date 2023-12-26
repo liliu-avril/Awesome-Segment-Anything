@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.25: Latest update of this paper list.
+- 2023.12.26: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,117 +147,128 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**FM-OV3D:** Dongmei Zhang, Chang Li, Ray Zhang, Shenghao Xie, Wei Xue, Xiaodong Xie, Shanghang Zhang.<br />
+:boom:**ASSISTGUI:** Difei Gao, Lei Ji, Zechen Bai, Mingyu Ouyang, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou.<br />
+  "ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.13108)] 
+  [2023.12]
+
+:boom:**VStar:** Penghao Wu, Saining Xie.<br />
+  "V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.14135)] 
+  [[code](https://github.com/penghao-wu/vstar)]
+  [2023.12]
+
+- **FM-OV3D:** Dongmei Zhang, Chang Li, Ray Zhang, Shenghao Xie, Wei Xue, Xiaodong Xie, Shanghang Zhang.<br />
   "FM-OV3D: Foundation Model-based Cross-modal Knowledge Blending for Open-Vocabulary 3D Detection." AAAI (2024).
   [[paper](https://arxiv.org/abs/2312.14465)] 
   [[code](https://github.com/dmzhang0425/FM-OV3D.git)]
   [2023.12]
 
-:boom:**SP-SAM:** Wenxi Yue, Jing Zhang, Kun Hu, Qiuxia Wu, Zongyuan Ge, Yong Xia, Jiebo Luo, Zhiyong Wang.<br />
+- **SP-SAM:** Wenxi Yue, Jing Zhang, Kun Hu, Qiuxia Wu, Zongyuan Ge, Yong Xia, Jiebo Luo, Zhiyong Wang.<br />
   "Part to Whole: Collaborative Prompting for Surgical Instrument Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.14481)] 
   [[code](https://github.com/wenxi-yue/SurgicalPart-SAM)]
   [2023.12]
 
-:boom:**Customize-It-3D:** Nan Huang, Ting Zhang, Yuhui Yuan, Dong Chen, Shanghang Zhang.<br />
+- **Customize-It-3D:** Nan Huang, Ting Zhang, Yuhui Yuan, Dong Chen, Shanghang Zhang.<br />
   "Customize-It-3D: High-Quality 3D Creation from A Single Image Using Subject-Specific Knowledge Prior." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.11535)] 
   [[code](https://nnanhuang.github.io/projects/customize-it-3d/)]
   [2023.12]
 
-:boom:**Ins-HOI:** Jiajun Zhang, Yuxiang Zhang, Hongwen Zhang, Boyao Zhou, Ruizhi Shao, Zonghai Hu, Yebin Liu.<br />
+- **Ins-HOI:** Jiajun Zhang, Yuxiang Zhang, Hongwen Zhang, Boyao Zhou, Ruizhi Shao, Zonghai Hu, Yebin Liu.<br />
   "Ins-HOI: Instance Aware Human-Object Interactions Recovery." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.09641)] 
   [[code](https://jiajunzhang16.github.io/ins-hoi)]
   [2023.12]
 
-:boom:**GPS:** Zhi Zhang, Qizhe Zhang, Zijun Gao, Renrui Zhang, Ekaterina Shutova, Shiji Zhou, Shanghang Zhang.<br />
+- **GPS:** Zhi Zhang, Qizhe Zhang, Zijun Gao, Renrui Zhang, Ekaterina Shutova, Shiji Zhou, Shanghang Zhang.<br />
   "Gradient-based Parameter Selection for Efficient Fine-Tuning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.10136)] 
   [2023.12]
 
-:boom:**PixelLLM:** Jiarui Xu, Xingyi Zhou, Shen Yan, Xiuye Gu, Anurag Arnab, Chen Sun, Xiaolong Wang, Cordelia Schmid.<br />
+- **PixelLLM:** Jiarui Xu, Xingyi Zhou, Shen Yan, Xiuye Gu, Anurag Arnab, Chen Sun, Xiaolong Wang, Cordelia Schmid.<br />
   "Pixel Aligned Language Models." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.09237)] 
   [[code](https://jerryxu.net/PixelLLM/)]
   [2023.12]
 
-:boom:**VectorTalker:** Hao Hu, Xuan Wang, Jingxiang Sun, Yanbo Fan, Yu Guo, Caigui Jiang.<br />
+- **VectorTalker:** Hao Hu, Xuan Wang, Jingxiang Sun, Yanbo Fan, Yu Guo, Caigui Jiang.<br />
   "VectorTalker: SVG Talking Face Generation with Progressive Vectorisation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.11568)] 
   [2023.12]
 
-:boom:**Open3DIS:** Phuc D.A. Nguyen, Tuan Duc Ngo, Chuang Gan, Evangelos Kalogerakis, Anh Tran, Cuong Pham, Khoi Nguyen.<br />
+- **Open3DIS:** Phuc D.A. Nguyen, Tuan Duc Ngo, Chuang Gan, Evangelos Kalogerakis, Anh Tran, Cuong Pham, Khoi Nguyen.<br />
   "Open3DIS: Open-vocabulary 3D Instance Segmentation with 2D Mask Guidance." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.10671)] 
   [[code](https://open3dis.github.io/)]
   [2023.12]
 
-:boom:**RadOcc:** Haiming Zhang, Xu Yan, Dongfeng Bai, Jiantao Gao, Pan Wang, Bingbing Liu, Shuguang Cui, Zhen Li.<br />
+- **RadOcc:** Haiming Zhang, Xu Yan, Dongfeng Bai, Jiantao Gao, Pan Wang, Bingbing Liu, Shuguang Cui, Zhen Li.<br />
   "RadOcc: Learning Cross-Modality Occupancy Knowledge through Rendering Assisted Distillation." AAAI (2024).
   [[paper](https://arxiv.org/abs/2312.11829)] 
   [2023.12]
 
-:boom:**CreativeConnect:** DaEun Choi, Sumin Hong, Jeongeon Park, John Joon Young Chung, Juho Kim.<br />
+- **CreativeConnect:** DaEun Choi, Sumin Hong, Jeongeon Park, John Joon Young Chung, Juho Kim.<br />
   "CreativeConnect: Supporting Reference Recombination for Graphic Design Ideation with Generative AI." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.11949)] 
   [2023.12]
 
-Fei Pan, Sangryul Jeon, Brian Wang, Frank Mckenna, Stella X. Yu.<br />
+- Fei Pan, Sangryul Jeon, Brian Wang, Frank Mckenna, Stella X. Yu.<br />
   "Zero-Shot Building Attribute Extraction From Large-Scale Vision and Language Models." WACV (2024).
   [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Pan_Zero-Shot_Building_Attribute_Extraction_From_Large-Scale_Vision_and_Language_Models_WACV_2024_paper.html)] 
   [2023.12]
 
-:boom:**MSFM:** Shijian Zheng and Rujing Wang and Shitao Zheng and Fenmei Wang and Liusan Wang and Zhigui Liu.<br />
+- **MSFM:** Shijian Zheng and Rujing Wang and Shitao Zheng and Fenmei Wang and Liusan Wang and Zhigui Liu.<br />
   "A Multi-scale feature modulation network for efficient underwater image enhancement." JKSUCI (2023).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1319157823004421)] 
   [[code](https://github.com/zhengshijian1993/MFMN)]
   [2023.12]
 
-:boom:Pranjay Shyam, HyunJin Yoo.<br />
+- Pranjay Shyam, HyunJin Yoo.<br />
   "Lightweight Thermal Super-Resolution and Object Detection for Robust Perception in Adverse Weather Conditions." WACV (2024).
   [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Shyam_Lightweight_Thermal_Super-Resolution_and_Object_Detection_for_Robust_Perception_in_WACV_2024_paper.html)] 
   [2023.12]
 
-:boom:Weiyi Xie, Nathalie Willems, Shubham Patil, Yang Li, Mayank Kumar.<br />
+- Weiyi Xie, Nathalie Willems, Shubham Patil, Yang Li, Mayank Kumar.<br />
   "SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images." WACV (2024).
   [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Xie_SAM_Fewshot_Finetuning_for_Anatomical_Segmentation_in_Medical_Images_WACV_2024_paper.html)] 
   [2023.12]
 
-:boom:**PMVC:** Chushan Zhang, Jinguang Tong, Tao Jun Lin, Chuong Nguyen, Hongdong Li.<br />
+- **PMVC:** Chushan Zhang, Jinguang Tong, Tao Jun Lin, Chuong Nguyen, Hongdong Li.<br />
   "PMVC: Promoting Multi-View Consistency for 3D Scene Reconstruction." WACV (2024).
   [[paper](https://openaccess.thecvf.com/content/WACV2024/html/Zhang_PMVC_Promoting_Multi-View_Consistency_for_3D_Scene_Reconstruction_WACV_2024_paper.html)] 
   [2023.12]
 
-:boom:**BBPM:** Colbert, Zachery Morton and Arrington, Daniel and Foote, Matthew and Gårding, Jonas and Fay, Dominik and Huo, Michael and Pinkham, Mark and Ramachandran, Prabhakar.<br />
+- **BBPM:** Colbert, Zachery Morton and Arrington, Daniel and Foote, Matthew and Gårding, Jonas and Fay, Dominik and Huo, Michael and Pinkham, Mark and Ramachandran, Prabhakar.<br />
   "Repurposing Traditional U-Net Predictions for Sparse SAM Prompting in Medical Image Segmentation." BPEE (2023).
   [[paper](https://iopscience.iop.org/article/10.1088/2057-1976/ad17a7/meta)] 
   [2023.12]
 
-:boom:**Hi-Viscont:** Weiwei Gu, Anant Sah, Nakul Gopalan.<br />
+- **Hi-Viscont:** Weiwei Gu, Anant Sah, Nakul Gopalan.<br />
   "Interactive Visual Task Learning for Robots."  AAAI (2024).
   [[paper](https://arxiv.org/abs/2312.13219)] 
   [2023.12]
 
-:boom:Sushil Sharma, Aryan Singh, Ganesh Sistu, Mark Halton, Ciarán Eising.<br />
+- Sushil Sharma, Aryan Singh, Ganesh Sistu, Mark Halton, Ciarán Eising.<br />
   "Optimizing Ego Vehicle Trajectory Prediction: The Graph Enhancement Approach." EI-AVM (2024).
   [[paper](https://arxiv.org/abs/2312.13104)] 
   [2023.12]
 
-:boom:**Loitering:** Johnny Núñez, Zenjie Li, Sergio Escalera, Kamal Nasrollahi.<br />
+- **Loitering:** Johnny Núñez, Zenjie Li, Sergio Escalera, Kamal Nasrollahi.<br />
   "Identifying Loitering Behavior with Trajectory Analysis." WACV Workshop (2024).
   [[paper](https://openaccess.thecvf.com/content/WACV2024W/RWS/html/Nunez_Identifying_Loitering_Behavior_With_Trajectory_Analysis_WACVW_2024_paper.html)] 
   [[code](https://github.com/johnnynunez/RS-WACV24_Loitering)]
   [2023.12]
 
-:boom:**Emu2:** Quan Sun, Yufeng Cui, Xiaosong Zhang, Fan Zhang, Qiying Yu, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang.<br />
+- **Emu2:** Quan Sun, Yufeng Cui, Xiaosong Zhang, Fan Zhang, Qiying Yu, Zhengxiong Luo, Yueze Wang, Yongming Rao, Jingjing Liu, Tiejun Huang, Xinlong Wang.<br />
   "Generative Multimodal Models are In-Context Learners." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.13286)] 
   [[homepage](https://baaivision.github.io/emu2)]
   [[code](https://github.com/baaivision/Emu)] 
   [2023.12]
 
-:boom:Giorgos Savathrakis, Antonis Argyros.<br />
+- Giorgos Savathrakis, Antonis Argyros.<br />
   "An Automated Method for the Creation of Oriented Bounding Boxes in Remote Sensing Ship Detection Datasets." WACV Workshop (2024).
   [[paper](https://openaccess.thecvf.com/content/WACV2024W/MaCVi/html/Savathrakis_An_Automated_Method_for_the_Creation_of_Oriented_Bounding_Boxes_WACVW_2024_paper.html)] 
   [2023.12]
