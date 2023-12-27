@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.26: Latest update of this paper list.
+- 2023.12.27: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,12 +147,45 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**ASSISTGUI:** Difei Gao, Lei Ji, Zechen Bai, Mingyu Ouyang, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou.<br />
+:boom:**UniRef++:** Jiannan Wu, Yi Jiang, Bin Yan, Huchuan Lu, Zehuan Yuan, Ping Luo.<br />
+  "UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.15715)] 
+  [[code](https://github.com/FoundationVision/UniRef)]
+  [2023.12]
+
+:boom:**LangSplat:** Minghan Qin, Wanhua Li, Jiawei Zhou, Haoqian Wang, Hanspeter Pfister.<br />
+  "LangSplat: 3D Language Gaussian Splatting." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.16084)] 
+  [[code](https://langsplat.github.io/)]
+  [2023.12]
+
+:boom:**HRFFM:** Yan Han, Xiaogang Xu, Yingqi Lin, Jiafei Wu, Zhe Liu.<br />
+  "Video Frame Interpolation with Region-Distinguishable Priors from SAM." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.15868)] 
+  [2023.12]
+
+:boom:**MSCL:** Ruoqing Zhao, Xi Wang, Hongliang Dai, Pan Gao, Piji Li.<br />
+  "Medical Report Generation based on Segment-Enhanced Contrastive Representation Learning." NLPCC (2023).
+  [[paper](https://arxiv.org/abs/2312.15869)] 
+  [2023.12]
+
+:boom:**SAPNet:** Zhaoyang Wei, Pengfei Chen, Xuehui Yu, Guorong Li, Jianbin Jiao, Zhenjun Han.<br />
+  "Semantic-aware SAM for Point-Prompted Instance Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.15895)] 
+  [2023.12]
+
+:boom:Dingkun Guo.<br />
+  "Learning Multi-Step Manipulation Tasks from A Single Human Demonstration." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.15346)] 
+  [[code](https://robot-dishwashing.github.io/)]
+  [2023.12]
+
+- **ASSISTGUI:** Difei Gao, Lei Ji, Zechen Bai, Mingyu Ouyang, Peiran Li, Dongxing Mao, Qinchen Wu, Weichen Zhang, Peiyi Wang, Xiangwu Guo, Hengxu Wang, Luowei Zhou, Mike Zheng Shou.<br />
   "ASSISTGUI: Task-Oriented Desktop Graphical User Interface Automation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.13108)] 
   [2023.12]
 
-:boom:**VStar:** Penghao Wu, Saining Xie.<br />
+- **VStar:** Penghao Wu, Saining Xie.<br />
   "V∗: Guided Visual Search as a Core Mechanism in Multimodal LLMs." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.14135)] 
   [[code](https://github.com/penghao-wu/vstar)]
