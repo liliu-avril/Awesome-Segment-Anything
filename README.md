@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.27: Latest update of this paper list.
+- 2023.12.29: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,34 +147,64 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**UniRef++:** Jiannan Wu, Yi Jiang, Bin Yan, Huchuan Lu, Zehuan Yuan, Ping Luo.<br />
+:boom:**EventSAM:** Zhiwen Chen, Zhiyu Zhu, Yifan Zhang, Junhui Hou, Guangming Shi, Jinjian Wu.<br />
+  "Segment Any Events via Weighted Adaptation of Pivotal Tokens." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.16222)] 
+  [[code](http://github.com/happychenpipi/EventSAM)]
+  [2023.12]
+
+:boom:**SCM:** Xiaoliang Tan, Guanzhou Chen, Tong Wang, Jiaqi Wang, Xiaodong Zhang.<br />
+  "Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.16410)] 
+  [[code](https://github.com/StephenApX/UCD-SCM)]
+  [2023.12]
+
+:boom:**SAM-G:** Ziyu Wang, Yanjie Ze, Yifei Sun, Zhecheng Yuan, Huazhe Xu.<br />
+  "Generalizable Visual Reinforcement Learning with Segment Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.17116)] 
+  [[code](https://yanjieze.com/SAM-G/)]
+  [2023.12]
+
+:boom:**SAT-Nano:** Ziheng Zhao, Yao Zhang, Chaoyi Wu, Xiaoman Zhang, Ya Zhang, Yanfeng Wang, Weidi Xie.<br />
+  "One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.17183)] 
+  [[code](https://zhaoziheng.github.io/MedUniSeg)]
+  [2023.12]
+
+:boom:**TTP:** Keyan Chen, Chengyang Liu, Wenyuan Li, Zili Liu, Hao Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi.<br />
+  "Time Travelling Pixels: Bitemporal Features Integration with Foundation Model for Remote Sensing Image Change Detection." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.16202)] 
+  [[code](https://kychen.me/TTP)]
+  [2023.12]
+
+- **UniRef++:** Jiannan Wu, Yi Jiang, Bin Yan, Huchuan Lu, Zehuan Yuan, Ping Luo.<br />
   "UniRef++: Segment Every Reference Object in Spatial and Temporal Spaces." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.15715)] 
   [[code](https://github.com/FoundationVision/UniRef)]
   [2023.12]
 
-:boom:**LangSplat:** Minghan Qin, Wanhua Li, Jiawei Zhou, Haoqian Wang, Hanspeter Pfister.<br />
+- **LangSplat:** Minghan Qin, Wanhua Li, Jiawei Zhou, Haoqian Wang, Hanspeter Pfister.<br />
   "LangSplat: 3D Language Gaussian Splatting." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.16084)] 
   [[code](https://langsplat.github.io/)]
   [2023.12]
 
-:boom:**HRFFM:** Yan Han, Xiaogang Xu, Yingqi Lin, Jiafei Wu, Zhe Liu.<br />
+- **HRFFM:** Yan Han, Xiaogang Xu, Yingqi Lin, Jiafei Wu, Zhe Liu.<br />
   "Video Frame Interpolation with Region-Distinguishable Priors from SAM." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.15868)] 
   [2023.12]
 
-:boom:**MSCL:** Ruoqing Zhao, Xi Wang, Hongliang Dai, Pan Gao, Piji Li.<br />
+- **MSCL:** Ruoqing Zhao, Xi Wang, Hongliang Dai, Pan Gao, Piji Li.<br />
   "Medical Report Generation based on Segment-Enhanced Contrastive Representation Learning." NLPCC (2023).
   [[paper](https://arxiv.org/abs/2312.15869)] 
   [2023.12]
 
-:boom:**SAPNet:** Zhaoyang Wei, Pengfei Chen, Xuehui Yu, Guorong Li, Jianbin Jiao, Zhenjun Han.<br />
+- **SAPNet:** Zhaoyang Wei, Pengfei Chen, Xuehui Yu, Guorong Li, Jianbin Jiao, Zhenjun Han.<br />
   "Semantic-aware SAM for Point-Prompted Instance Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.15895)] 
   [2023.12]
 
-:boom:Dingkun Guo.<br />
+- Dingkun Guo.<br />
   "Learning Multi-Step Manipulation Tasks from A Single Human Demonstration." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.15346)] 
   [[code](https://robot-dishwashing.github.io/)]
