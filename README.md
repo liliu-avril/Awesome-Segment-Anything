@@ -147,6 +147,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**IS5Net:** Xianjie Liu, Keren Fu, Qijun Zhao.<br />
+  "Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2401.00248)] 
+  [2023.12]
+
 :boom:**DN-SLAM:** Chenyu Ruan; Qiuyu Zang; Kehua Zhang; Kai Huang.<br />
   "DN-SLAM: A Visual SLAM with ORB Features and NeRF Mapping in Dynamic Environments." IEEE Sensors Journal (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10376402/authors#authors)] 
