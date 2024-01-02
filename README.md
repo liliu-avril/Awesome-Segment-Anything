@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2023.12.29: Latest update of this paper list.
+- 2024.01.02: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,31 +147,53 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**EventSAM:** Zhiwen Chen, Zhiyu Zhu, Yifan Zhang, Junhui Hou, Guangming Shi, Jinjian Wu.<br />
+:boom:**DN-SLAM:** Chenyu Ruan; Qiuyu Zang; Kehua Zhang; Kai Huang.<br />
+  "DN-SLAM: A Visual SLAM with ORB Features and NeRF Mapping in Dynamic Environments." IEEE Sensors Journal (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10376402/authors#authors)] 
+  [2023.12]
+
+:boom:**ZONE:** Shanglin Li, Bohan Zeng, Yutang Feng, Sicheng Gao, Xuhui Liu, Jiaming Liu, Li Lin, Xu Tang, Yao Hu, Jianzhuang Liu, Baochang Zhang.<br />
+  "ZONE: Zero-Shot Instruction-Guided Local Editing." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.16794)] 
+  [2023.12]
+
+:boom:**Segment3D:** Rui Huang, Songyou Peng, Ayca Takmaz, Federico Tombari, Marc Pollefeys, Shiji Song, Gao Huang, Francis Engelmann.<br />
+  "Segment3D: Learning Fine-Grained Class-Agnostic 3D Segmentation without Manual Labels." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.17232)] 
+  [[code](http://segment3d.github.io/)]
+  [2023.12]
+
+:boom:**Unified-IO 2:** Jiasen Lu, Christopher Clark, Sangho Lee, Zichen Zhang, Savya Khosla, Ryan Marten, Derek Hoiem, Aniruddha Kembhavi.<br />
+  "Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.17172)] 
+  [[code](https://unified-io-2.allenai.org/)]
+  [2023.12]
+
+- **EventSAM:** Zhiwen Chen, Zhiyu Zhu, Yifan Zhang, Junhui Hou, Guangming Shi, Jinjian Wu.<br />
   "Segment Any Events via Weighted Adaptation of Pivotal Tokens." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.16222)] 
   [[code](http://github.com/happychenpipi/EventSAM)]
   [2023.12]
 
-:boom:**SCM:** Xiaoliang Tan, Guanzhou Chen, Tong Wang, Jiaqi Wang, Xiaodong Zhang.<br />
+- **SCM:** Xiaoliang Tan, Guanzhou Chen, Tong Wang, Jiaqi Wang, Xiaodong Zhang.<br />
   "Segment Change Model (SCM) for Unsupervised Change detection in VHR Remote Sensing Images: a Case Study of Buildings." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.16410)] 
   [[code](https://github.com/StephenApX/UCD-SCM)]
   [2023.12]
 
-:boom:**SAM-G:** Ziyu Wang, Yanjie Ze, Yifei Sun, Zhecheng Yuan, Huazhe Xu.<br />
+- **SAM-G:** Ziyu Wang, Yanjie Ze, Yifei Sun, Zhecheng Yuan, Huazhe Xu.<br />
   "Generalizable Visual Reinforcement Learning with Segment Anything Model." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.17116)] 
   [[code](https://yanjieze.com/SAM-G/)]
   [2023.12]
 
-:boom:**SAT-Nano:** Ziheng Zhao, Yao Zhang, Chaoyi Wu, Xiaoman Zhang, Ya Zhang, Yanfeng Wang, Weidi Xie.<br />
+- **SAT-Nano:** Ziheng Zhao, Yao Zhang, Chaoyi Wu, Xiaoman Zhang, Ya Zhang, Yanfeng Wang, Weidi Xie.<br />
   "One Model to Rule them All: Towards Universal Segmentation for Medical Images with Text Prompts." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.17183)] 
   [[code](https://zhaoziheng.github.io/MedUniSeg)]
   [2023.12]
 
-:boom:**TTP:** Keyan Chen, Chengyang Liu, Wenyuan Li, Zili Liu, Hao Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi.<br />
+- **TTP:** Keyan Chen, Chengyang Liu, Wenyuan Li, Zili Liu, Hao Chen, Haotian Zhang, Zhengxia Zou, Zhenwei Shi.<br />
   "Time Travelling Pixels: Bitemporal Features Integration with Foundation Model for Remote Sensing Image Change Detection." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.16202)] 
   [[code](https://kychen.me/TTP)]
