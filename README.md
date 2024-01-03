@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.02: Latest update of this paper list.
+- 2024.01.03: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,28 +147,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**IS5Net:** Xianjie Liu, Keren Fu, Qijun Zhao.<br />
+:boom:**UCAD:** Jiaqi Liu, Kai Wu, Qiang Nie, Ying Chen, Bin-Bin Gao, Yong Liu, Jinbao Wang, Chengjie Wang, Feng Zheng.<br />
+  "Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2401.01010)] 
+  [[code](https://github.com/shirowalker/UCAD)]
+  [2024.01]
+
+- **IS5Net:** Xianjie Liu, Keren Fu, Qijun Zhao.<br />
   "Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2401.00248)] 
   [2023.12]
 
-:boom:**DN-SLAM:** Chenyu Ruan; Qiuyu Zang; Kehua Zhang; Kai Huang.<br />
+- **DN-SLAM:** Chenyu Ruan; Qiuyu Zang; Kehua Zhang; Kai Huang.<br />
   "DN-SLAM: A Visual SLAM with ORB Features and NeRF Mapping in Dynamic Environments." IEEE Sensors Journal (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10376402/authors#authors)] 
   [2023.12]
 
-:boom:**ZONE:** Shanglin Li, Bohan Zeng, Yutang Feng, Sicheng Gao, Xuhui Liu, Jiaming Liu, Li Lin, Xu Tang, Yao Hu, Jianzhuang Liu, Baochang Zhang.<br />
+- **ZONE:** Shanglin Li, Bohan Zeng, Yutang Feng, Sicheng Gao, Xuhui Liu, Jiaming Liu, Li Lin, Xu Tang, Yao Hu, Jianzhuang Liu, Baochang Zhang.<br />
   "ZONE: Zero-Shot Instruction-Guided Local Editing." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.16794)] 
   [2023.12]
 
-:boom:**Segment3D:** Rui Huang, Songyou Peng, Ayca Takmaz, Federico Tombari, Marc Pollefeys, Shiji Song, Gao Huang, Francis Engelmann.<br />
+- **Segment3D:** Rui Huang, Songyou Peng, Ayca Takmaz, Federico Tombari, Marc Pollefeys, Shiji Song, Gao Huang, Francis Engelmann.<br />
   "Segment3D: Learning Fine-Grained Class-Agnostic 3D Segmentation without Manual Labels." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.17232)] 
   [[code](http://segment3d.github.io/)]
   [2023.12]
 
-:boom:**Unified-IO 2:** Jiasen Lu, Christopher Clark, Sangho Lee, Zichen Zhang, Savya Khosla, Ryan Marten, Derek Hoiem, Aniruddha Kembhavi.<br />
+- **Unified-IO 2:** Jiasen Lu, Christopher Clark, Sangho Lee, Zichen Zhang, Savya Khosla, Ryan Marten, Derek Hoiem, Aniruddha Kembhavi.<br />
   "Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision, Language, Audio, and Action." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.17172)] 
   [[code](https://unified-io-2.allenai.org/)]
