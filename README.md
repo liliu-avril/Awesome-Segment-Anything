@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.03: Latest update of this paper list.
+- 2024.01.04: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -152,6 +152,19 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2401.01010)] 
   [[code](https://github.com/shirowalker/UCAD)]
   [2024.01]
+
+:boom:**TrackGPT:** Jiawen Zhu, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Huchuan Lu, Yifeng Geng, Xuansong Xie.<br />
+  "Tracking with Human-Intent Reasoning." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2312.17448)] 
+  [[code](https://github.com/jiawen-zhu/TrackGPT)]
+   [2023.12]
+
+
+:boom:**Wild2Avatar:** Tiange Xiang, Adam Sun, Scott Delp, Kazuki Kozuka, Li Fei-Fei, Ehsan Adeli.<br />
+  "Wild2Avatar: Rendering Humans Behind Occlusions." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2401.00431)] 
+  [[code](https://cs.stanford.edu/~xtiange/projects/wild2avatar/)]
+   [2023.12]
 
 - **IS5Net:** Xianjie Liu, Keren Fu, Qijun Zhao.<br />
   "Promoting Segment Anything Model towards Highly Accurate Dichotomous Image Segmentation." ArXiv (2023).
