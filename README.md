@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.04: Latest update of this paper list.
+- 2024.01.05: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,20 +147,37 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**UCAD:** Jiaqi Liu, Kai Wu, Qiang Nie, Ying Chen, Bin-Bin Gao, Yong Liu, Jinbao Wang, Chengjie Wang, Feng Zheng.<br />
+:boom:**BA-SAM:** Yiran Song, Qianyu Zhou, Xiangtai Li, Deng-Ping Fan, Xuequan Lu, Lizhuang Ma.<br />
+  "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2401.02317)] 
+  [2024.01]
+
+:boom:**SAMMed:** Hanhui Wang, Huaize Ye, Yi Xia, Xueyan Zhang.<br />
+  "Leveraging SAM for Single-Source Domain Generalization in Medical Image Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2401.02076)] 
+  [[code](https://github.com/SARIHUST/SAMMed)]
+  [2024.01]
+
+:boom:**CWSAM:** Xinyang Pu, Hecheng Jia, Linghao Zheng, Feng Wang, Feng Xu.<br />
+  "ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2401.02326)] 
+  [[code](https://github.com/xypu98/CWSAM)]
+  [2024.01]
+
+- **UCAD:** Jiaqi Liu, Kai Wu, Qiang Nie, Ying Chen, Bin-Bin Gao, Yong Liu, Jinbao Wang, Chengjie Wang, Feng Zheng.<br />
   "Unsupervised Continual Anomaly Detection with Contrastively-learned Prompt." AAAI (2024).
   [[paper](https://arxiv.org/abs/2401.01010)] 
   [[code](https://github.com/shirowalker/UCAD)]
   [2024.01]
 
-:boom:**TrackGPT:** Jiawen Zhu, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Huchuan Lu, Yifeng Geng, Xuansong Xie.<br />
+- **TrackGPT:** Jiawen Zhu, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Huchuan Lu, Yifeng Geng, Xuansong Xie.<br />
   "Tracking with Human-Intent Reasoning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.17448)] 
   [[code](https://github.com/jiawen-zhu/TrackGPT)]
    [2023.12]
 
 
-:boom:**Wild2Avatar:** Tiange Xiang, Adam Sun, Scott Delp, Kazuki Kozuka, Li Fei-Fei, Ehsan Adeli.<br />
+- **Wild2Avatar:** Tiange Xiang, Adam Sun, Scott Delp, Kazuki Kozuka, Li Fei-Fei, Ehsan Adeli.<br />
   "Wild2Avatar: Rendering Humans Behind Occlusions." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2401.00431)] 
   [[code](https://cs.stanford.edu/~xtiange/projects/wild2avatar/)]
