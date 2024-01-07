@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.05: Latest update of this paper list.
+- 2024.01.07: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,19 +147,35 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**DSR :** Yanni Wang, Hecheng Jia, Shilei Fu, Huiping Lin, Feng Xu.<br />
+  "Reinforcement Learning for SAR View Angle Inversion with Differentiable SAR Renderer." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.01165)] 
+  [2024.01]
+
+:boom:Thomas Lips, Victor-Louis De Gusseme, Francis wyffels.<br />
+  "Learning Keypoints for Robotic Cloth Manipulation using Synthetic Data." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.01734)] 
+  [[code](https://github.com/tlpss/synthetic-cloth-data)]
+  [2024.01]
+
+:boom:**SwinSAM:** Zhoushan Feng, Yuliang Zhanga, Yanhong Chenc, Yu Liua, Wen Sunc , Lili Dua, Dunjin Chen.<br />
+  "SwinSAM: Fine-Grained Polyp Segmentation in Colonoscopy Images via Segment Anything Model Integrated with a Swin Transformer Decoder." ArXiv (2024).
+  [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4673046)] 
+  [2024.01]
+
 :boom:**BA-SAM:** Yiran Song, Qianyu Zhou, Xiangtai Li, Deng-Ping Fan, Xuequan Lu, Lizhuang Ma.<br />
-  "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model." ArXiv (2023).
+  "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.02317)] 
   [2024.01]
 
 :boom:**SAMMed:** Hanhui Wang, Huaize Ye, Yi Xia, Xueyan Zhang.<br />
-  "Leveraging SAM for Single-Source Domain Generalization in Medical Image Segmentation." ArXiv (2023).
+  "Leveraging SAM for Single-Source Domain Generalization in Medical Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.02076)] 
   [[code](https://github.com/SARIHUST/SAMMed)]
   [2024.01]
 
 :boom:**CWSAM:** Xinyang Pu, Hecheng Jia, Linghao Zheng, Feng Wang, Feng Xu.<br />
-  "ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation." ArXiv (2023).
+  "ClassWise-SAM-Adapter: Parameter Efficient Fine-tuning Adapts Segment Anything to SAR Domain for Semantic Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.02326)] 
   [[code](https://github.com/xypu98/CWSAM)]
   [2024.01]
