@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.08: Latest update of this paper list.
+- 2024.01.09: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,7 +147,40 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**OV-SAM:** Haobo Yuan, Xiangtai Li, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy.<br />
+:boom:**SBSM:** Zizhang Li, Dor Litvak, Ruining Li, Yunzhi Zhang, Tomas Jakab, Christian Rupprecht, Shangzhe Wu, Andrea Vedaldi, Jiajun Wu.<br />
+  "Learning the 3D Fauna of the Web." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2401.02400)] 
+  [[code](https://kyleleey.github.io/3DFauna/)]
+  [2024.01]
+
+:boom:**DeepBID:** Binglin Shen, Chenggui Luo, Wen Pang, Yajing Jiang, Wenbo Wu, Rui Hu, Junle Qu, Bobo Gu, Liwei Liu.<br />
+  "Surmounting photon limits and motion artifacts for biological dynamics imaging via dual-perspective self-supervised learning." PhotoniX (2024).
+  [[paper](https://link.springer.com/article/10.1186/s43074-023-00117-0)] 
+  [2024.01]
+
+:boom:**DSALVANet:** Jinghui He, Bo Liu, Fan Cao, Jian Xu, Yanshan Xiao.<br />
+  "Few-Shot Object Counting with Dynamic Similarity-Aware in Latent Space." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10381743)] 
+  [[code](https://github.com/kadvinj/DSALVANet)]
+  [2024.01]
+
+:boom:Fengtian Lu, Yuzhi Li, Feng Tian.<br />
+  "Exploring challenge and explainable shot type classification using SAM-guided approaches." SIVP (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11760-023-02928-x)] 
+  [2024.01]
+
+:boom:**RoboFusion:** Ziying Song, Guoxing Zhang, Lin Liu, Lei Yang, Shaoqing Xu, Caiyan Jia, Feiyang Jia, Li Wang.<br />
+  "RoboFusion: Towards Robust Multi-Modal 3D obiect Detection via SAM." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.03907)] 
+  [2024.01]
+
+:boom:**SAM4MIS:** Yichi Zhang, Zhenrong Shen, Rushi Jiao.<br />
+  "Segment Anything Model for Medical Image Segmentation: Current Applications and Future Directions." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.03495)] 
+  [[code](https://github.com/YichiZhang98/SAM4MIS)]
+  [2024.01]
+
+- **OV-SAM:** Haobo Yuan, Xiangtai Li, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy.<br />
   "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.02955)] 
   [[project page](https://www.mmlab-ntu.com/project/ovsam)]
