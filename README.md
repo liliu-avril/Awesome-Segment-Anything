@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.11: Latest update of this paper list.
+- 2024.01.12: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,7 +147,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Galib Muhammad Shahriar Himel, Md. Masudul Islam, Kh Abdullah Al-Aff, Shams Ibne Karim, Md. Kabir Uddin Sikder.<br />
+:boom:**PartSTAD:** Hyunjin Kim, Minhyuk Sung.<br />
+  "PartSTAD: 2D-to-3D Part Segmentation Task Adaptation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.05906)] 
+  [2024.01]
+
+:boom:**MatSAM:** Changtai Li, Xu Han, Chao Yao, Xiaojuan Ban.<br />
+  "MatSAM: Efficient Materials Microstructure Extraction via Visual Large Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.05638)] 
+  [2024.01]
+
+- Galib Muhammad Shahriar Himel, Md. Masudul Islam, Kh Abdullah Al-Aff, Shams Ibne Karim, Md. Kabir Uddin Sikder.<br />
   "Skin Cancer Segmentation and Classification Using Vision Transformer for Automatic Analysis in Dermatoscopy-based Non-invasive Digital System." IJBI (2024).
   [[paper](https://arxiv.org/abs/2401.04746)] 
   [2024.01]
