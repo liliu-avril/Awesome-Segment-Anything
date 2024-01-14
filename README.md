@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.12: Latest update of this paper list.
+- 2024.01.14: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,12 +147,30 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**PartSTAD:** Hyunjin Kim, Minhyuk Sung.<br />
+:boom:**RePLan:** Marta Skreta, Zihan Zhou, Jia Lin Yuan, Kourosh Darvish, Alán Aspuru-Guzik, Animesh Garg.<br />
+  "RePLan: Robotic Replanning with Perception and Language Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.04157)] 
+  [[code](https://replan-lm.github.io/replan.github.io/)]
+  [2024.01]
+
+:boom:**SOS-SLAM:** Jouko Kinnari, Annika Thomas, Parker Lusk, Kota Kondo, Jonathan P. How.<br />
+  "SOS-SLAM: Segmentation for Open-Set SLAM in Unstructured Environments." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.04791)] 
+  [[code](https://acl.mit.edu/SOS-SLAM/)]
+  [2024.01]
+
+:boom:**LRV:** Yunhua Zhang, Hazel Doughty, Cees G.M. Snoek.<br />
+  "Low-Resource Vision Challenges for Foundation Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.04716)] 
+  [[code](https://xiaobai1217.github.io/Low-Resource-Vision/)]
+  [2024.01]
+
+- **PartSTAD:** Hyunjin Kim, Minhyuk Sung.<br />
   "PartSTAD: 2D-to-3D Part Segmentation Task Adaptation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.05906)] 
   [2024.01]
 
-:boom:**MatSAM:** Changtai Li, Xu Han, Chao Yao, Xiaojuan Ban.<br />
+- **MatSAM:** Changtai Li, Xu Han, Chao Yao, Xiaojuan Ban.<br />
   "MatSAM: Efficient Materials Microstructure Extraction via Visual Large Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.05638)] 
   [2024.01]
