@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.15: Latest update of this paper list.
+- 2024.01.16: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,12 +147,27 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SD-MVS:** Zhenlong Yuan, Jiakai Cao, Zhaoxin Li, Hao Jiang, Zhaoqi Wang.<br />
+:boom:**LandmarkBreaker:** Yuezun Li and Pu Sun and Honggang Qi and Siwei Lyu.<br />
+  "LandmarkBreaker: A proactive method to obstruct DeepFakes via disrupting facial landmark extraction." CVIU (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S107731422400016X)] 
+  [2024.01]
+
+:boom:**GSC:** Luis Bolanos, Shih-Yang Su, Helge Rhodin.<br />
+  "Gaussian Shadow Casting for Neural Characters." ArXiv (2024).  
+   [[paper](https://arxiv.org/abs/2401.06116)] 
+  [2024.01]
+
+:boom:Liu, Yue, Tao Sun, Kaixing Wu, Hongwei Zhang, Jingwei Zhang, Xinwen Jiang, Quanwei Lin, and Mei Feng..<br />
+  "Fractal-Based Pattern Quantification of Mineral Grains: A Case Study of Yichun Rare-Metal Granite." Fractal and Fractional (2024).
+  [[paper](https://www.mdpi.com/2504-3110/8/1/49)] 
+  [2024.01]
+
+- **SD-MVS:** Zhenlong Yuan, Jiakai Cao, Zhaoxin Li, Hao Jiang, Zhaoqi Wang.<br />
   "SD-MVS: Segmentation-Driven Deformation Multi-View Stereo with Spherical Refinement and EM optimization." AAAI (2024).
   [[paper](https://arxiv.org/abs/2401.06385)] 
   [2024.01]
   
-:boom:**SamLP:** Haoxuan Ding, Junyu Gao, Yuan Yuan, Qi Wang.<br />
+- **SamLP:** Haoxuan Ding, Junyu Gao, Yuan Yuan, Qi Wang.<br />
   "SamLP: A Customized Segment Anything Model for License Plate Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.06374)] 
   [[code](https://github.com/Dinghaoxuan/SamLP)]
