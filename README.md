@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.16: Latest update of this paper list.
+- 2024.01.17: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,17 +147,44 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**LandmarkBreaker:** Yuezun Li and Pu Sun and Honggang Qi and Siwei Lyu.<br />
+:boom:**Forge_VFM4AD:** Xu Yan, Haiming Zhang, Yingjie Cai, Jingming Guo, Weichao Qiu, Bin Gao, Kaiqiang Zhou, Yue Zhao, Huan Jin, Jiantao Gao, Zhen Li, Lihui Jiang, Wei Zhang, Hongbo Zhang, Dengxin Dai, Bingbing Liu.<br />
+  "Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.08045)] 
+  [[code](https://github.com/zhanghm1995/Forge_VFM4AD)]
+  [2024.01]
+
+:boom:Ho Hin Lee, Yu Gu, Theodore Zhao, Yanbo Xu, Jianwei Yang, Naoto Usuyama, Cliff Wong, Mu Wei, Bennett A. Landman, Yuankai Huo, Alberto Santamaria-Pang, Hoifung Poon.<br />
+  "Foundation Models for Biomedical Image Segmentation: A Survey." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.07654)] 
+  [2024.01]
+
+:boom:**SAM-OIL:** Wenhui Wu, Man Sing Wong, Xinyu Yu, Guoqiang Shi, Coco Yin Tung Kwok, Kang Zou.<br />
+  "Compositional Oil Spill Detection Based on Object Detector and Adapted Segment Anything Model from SAR Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.07502)] 
+  [2024.01]
+
+:boom:**UV-SAM:** Xin Zhang, Yu Liu, Yuming Lin, Qingming Liao, Yong Li.<br />
+  "UV-SAM: Adapting Segment Anything Model for Urban Village Identification." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2401.08083)] 
+  [[code](https://github.com/tsinghua-fib-lab/UV-SAM)]
+  [2024.01]
+
+:boom:**“AttEN”:** Ching-Hao Chiu, Yu-Jen Chen, Yawen Wu, Yiyu Shi, Tsung-Yi Ho.<br />
+  "Achieve Fairness without Demographics for Dermatological Disease Diagnosis." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.08066)] 
+  [2024.01]
+
+- **LandmarkBreaker:** Yuezun Li and Pu Sun and Honggang Qi and Siwei Lyu.<br />
   "LandmarkBreaker: A proactive method to obstruct DeepFakes via disrupting facial landmark extraction." CVIU (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S107731422400016X)] 
   [2024.01]
 
-:boom:**GSC:** Luis Bolanos, Shih-Yang Su, Helge Rhodin.<br />
+- **GSC:** Luis Bolanos, Shih-Yang Su, Helge Rhodin.<br />
   "Gaussian Shadow Casting for Neural Characters." ArXiv (2024).  
    [[paper](https://arxiv.org/abs/2401.06116)] 
   [2024.01]
 
-:boom:Liu, Yue, Tao Sun, Kaixing Wu, Hongwei Zhang, Jingwei Zhang, Xinwen Jiang, Quanwei Lin, and Mei Feng..<br />
+- Liu, Yue, Tao Sun, Kaixing Wu, Hongwei Zhang, Jingwei Zhang, Xinwen Jiang, Quanwei Lin, and Mei Feng..<br />
   "Fractal-Based Pattern Quantification of Mineral Grains: A Case Study of Yichun Rare-Metal Granite." Fractal and Fractional (2024).
   [[paper](https://www.mdpi.com/2504-3110/8/1/49)] 
   [2024.01]
