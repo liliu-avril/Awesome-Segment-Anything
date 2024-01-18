@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.17: Latest update of this paper list.
+- 2024.01.18: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,29 +147,57 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Forge_VFM4AD:** Xu Yan, Haiming Zhang, Yingjie Cai, Jingming Guo, Weichao Qiu, Bin Gao, Kaiqiang Zhou, Yue Zhao, Huan Jin, Jiantao Gao, Zhen Li, Lihui Jiang, Wei Zhang, Hongbo Zhang, Dengxin Dai, Bingbing Liu.<br />
+:boom:Wenwen Li, Chia-Yu Hsu, Sizhe Wang, Yezhou Yang, Hyunho Lee, Anna Liljedahl, Chandi Witharana, Yili Yang, Brendan M. Rogers, Samantha T. Arundel, Matthew B. Jones, Kenton McHenry, Patricia Solis.<br />
+  "Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.08787)] 
+  [2024.01]
+
+:boom:**SAM-MCD:** Hongruixuan Chen, Jian Song, Naoto Yokoya.<br />
+  "Change Detection Between Optical Remote Sensing Imagery and Map Data via Segment Anything Model (SAM)." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.09019)] 
+  [2024.01]
+
+:boom:**GARField:** Chung Min Kim, Mingxuan Wu, Justin Kerr, Ken Goldberg, Matthew Tancik, Angjoo Kanazawa.<br />
+  "GARField: Group Anything with Radiance Fields." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.09419)] 
+  [[code](https://www.garfield.studio/)]
+  [2024.01]
+
+:boom:**CPAB:** Hexiang Wang, Fengqi Liu, Qianyu Zhou, Ran Yi, Xin Tan, Lizhuang Ma.<br />
+  "Continuous Piecewise-Affine Based Motion Model for Image Animation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.09146)] 
+  [[code](https://github.com/DevilPG/AAAI2024-CPABMM)]
+  [2024.01]
+
+:boom:**SAM4UDASS:** Weihao Yan, Yeqiang Qian, Xingyuan Chen, Hanyang Zhuang, Chunxiang Wang, Ming Yang.<br />
+  "SAM4UDASS: When SAM Meets Unsupervised Domain Adaptive Semantic Segmentation in Intelligent Vehicles." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.08604)] 
+  [[code](https://github.com/ywher/SAM4UDASS)]
+  [2024.01]
+
+- **Forge_VFM4AD:** Xu Yan, Haiming Zhang, Yingjie Cai, Jingming Guo, Weichao Qiu, Bin Gao, Kaiqiang Zhou, Yue Zhao, Huan Jin, Jiantao Gao, Zhen Li, Lihui Jiang, Wei Zhang, Hongbo Zhang, Dengxin Dai, Bingbing Liu.<br />
   "Forging Vision Foundation Models for Autonomous Driving: Challenges, Methodologies, and Opportunities." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.08045)] 
   [[code](https://github.com/zhanghm1995/Forge_VFM4AD)]
   [2024.01]
 
-:boom:Ho Hin Lee, Yu Gu, Theodore Zhao, Yanbo Xu, Jianwei Yang, Naoto Usuyama, Cliff Wong, Mu Wei, Bennett A. Landman, Yuankai Huo, Alberto Santamaria-Pang, Hoifung Poon.<br />
+- Ho Hin Lee, Yu Gu, Theodore Zhao, Yanbo Xu, Jianwei Yang, Naoto Usuyama, Cliff Wong, Mu Wei, Bennett A. Landman, Yuankai Huo, Alberto Santamaria-Pang, Hoifung Poon.<br />
   "Foundation Models for Biomedical Image Segmentation: A Survey." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.07654)] 
   [2024.01]
 
-:boom:**SAM-OIL:** Wenhui Wu, Man Sing Wong, Xinyu Yu, Guoqiang Shi, Coco Yin Tung Kwok, Kang Zou.<br />
+- **SAM-OIL:** Wenhui Wu, Man Sing Wong, Xinyu Yu, Guoqiang Shi, Coco Yin Tung Kwok, Kang Zou.<br />
   "Compositional Oil Spill Detection Based on Object Detector and Adapted Segment Anything Model from SAR Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.07502)] 
   [2024.01]
 
-:boom:**UV-SAM:** Xin Zhang, Yu Liu, Yuming Lin, Qingming Liao, Yong Li.<br />
+- **UV-SAM:** Xin Zhang, Yu Liu, Yuming Lin, Qingming Liao, Yong Li.<br />
   "UV-SAM: Adapting Segment Anything Model for Urban Village Identification." AAAI (2024).
   [[paper](https://arxiv.org/abs/2401.08083)] 
   [[code](https://github.com/tsinghua-fib-lab/UV-SAM)]
   [2024.01]
 
-:boom:**“AttEN”:** Ching-Hao Chiu, Yu-Jen Chen, Yawen Wu, Yiyu Shi, Tsung-Yi Ho.<br />
+- **“AttEN”:** Ching-Hao Chiu, Yu-Jen Chen, Yawen Wu, Yiyu Shi, Tsung-Yi Ho.<br />
   "Achieve Fairness without Demographics for Dermatological Disease Diagnosis." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.08066)] 
   [2024.01]
