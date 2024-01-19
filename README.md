@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.18: Latest update of this paper list.
+- 2024.01.19: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,29 +147,46 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Wenwen Li, Chia-Yu Hsu, Sizhe Wang, Yezhou Yang, Hyunho Lee, Anna Liljedahl, Chandi Witharana, Yili Yang, Brendan M. Rogers, Samantha T. Arundel, Matthew B. Jones, Kenton McHenry, Patricia Solis.<br />
+:boom:**OMG-Seg:** Xiangtai Li, Haobo Yuan, Wei Li, Henghui Ding, Size Wu, Wenwei Zhang, Yining Li, Kai Chen, Chen Change Loy.<br />
+  "OMG-Seg: Is One Model Good Enough For All Segmentation?." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.10229)] 
+  [[code](https://github.com/lxtGH/OMG-Seg)]
+  [2024.01]
+
+:boom:**RAP-SAM:** Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, Yibo Yang, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem, Xiangtai Li, Ming-Hsuan Yang.<br />
+  "RAP-SAM: Towards Real-Time All-Purpose Segment Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.10228)] 
+  [[code](https://xushilin1.github.io/rap_sam/)]
+  [2024.01]
+
+:boom:**PRS:** Chen-Bin Feng, Qi Lai, Kangdao Liu, Houcheng Su, Chi-Man Vong.<br />
+  "Boosting Few-Shot Semantic Segmentation Via Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.09826)] 
+  [2024.01]
+
+- Wenwen Li, Chia-Yu Hsu, Sizhe Wang, Yezhou Yang, Hyunho Lee, Anna Liljedahl, Chandi Witharana, Yili Yang, Brendan M. Rogers, Samantha T. Arundel, Matthew B. Jones, Kenton McHenry, Patricia Solis.<br />
   "Segment Anything Model Can Not Segment Anything: Assessing AI Foundation Model's Generalizability in Permafrost Mapping." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.08787)] 
   [2024.01]
 
-:boom:**SAM-MCD:** Hongruixuan Chen, Jian Song, Naoto Yokoya.<br />
+- **SAM-MCD:** Hongruixuan Chen, Jian Song, Naoto Yokoya.<br />
   "Change Detection Between Optical Remote Sensing Imagery and Map Data via Segment Anything Model (SAM)." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.09019)] 
   [2024.01]
 
-:boom:**GARField:** Chung Min Kim, Mingxuan Wu, Justin Kerr, Ken Goldberg, Matthew Tancik, Angjoo Kanazawa.<br />
+- **GARField:** Chung Min Kim, Mingxuan Wu, Justin Kerr, Ken Goldberg, Matthew Tancik, Angjoo Kanazawa.<br />
   "GARField: Group Anything with Radiance Fields." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.09419)] 
   [[code](https://www.garfield.studio/)]
   [2024.01]
 
-:boom:**CPAB:** Hexiang Wang, Fengqi Liu, Qianyu Zhou, Ran Yi, Xin Tan, Lizhuang Ma.<br />
+- **CPAB:** Hexiang Wang, Fengqi Liu, Qianyu Zhou, Ran Yi, Xin Tan, Lizhuang Ma.<br />
   "Continuous Piecewise-Affine Based Motion Model for Image Animation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.09146)] 
   [[code](https://github.com/DevilPG/AAAI2024-CPABMM)]
   [2024.01]
 
-:boom:**SAM4UDASS:** Weihao Yan, Yeqiang Qian, Xingyuan Chen, Hanyang Zhuang, Chunxiang Wang, Ming Yang.<br />
+- **SAM4UDASS:** Weihao Yan, Yeqiang Qian, Xingyuan Chen, Hanyang Zhuang, Chunxiang Wang, Ming Yang.<br />
   "SAM4UDASS: When SAM Meets Unsupervised Domain Adaptive Semantic Segmentation in Intelligent Vehicles." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.08604)] 
   [[code](https://github.com/ywher/SAM4UDASS)]
