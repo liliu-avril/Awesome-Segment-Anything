@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.20: Latest update of this paper list.
+- 2024.01.23: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,33 +147,38 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Tunnel SAM Adapter:** Chen, Junxin and Yu, Xiaojie and Liu, Shichang and Chen, Tao and Wang, Wei and Jeon, Gwanggil and He, Ben-Guo.<br />
+:boom:Reda Bensaid, Vincent Gripon, François Leduc-Primeau, Lukas Mauch, Ghouthi Boukli Hacene, Fabien Cardinaux.<br />
+  "A Novel Benchmark for Few-Shot Semantic Segmentation in the Era of Foundation Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.11311)] 
+  [2024.01]
+
+- **Tunnel SAM Adapter:** Chen, Junxin and Yu, Xiaojie and Liu, Shichang and Chen, Tao and Wang, Wei and Jeon, Gwanggil and He, Ben-Guo.<br />
   "Tunnel SAM Adapter: Adapting Segment Anything Model for Tunnel Water Leakage Inspection." Geohazard Mechanics (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S2949741824000013)] 
   [2024.01]
 
-:boom:**GEMO:** Yinuo Zhao, Kun Wu, Tianjiao Yi, Zhiyuan Xu, Xiaozhu Ju, Zhengping Che, Qinru Qiu, Chi Harold Liu, Jian Tang.<br />
+- **GEMO:** Yinuo Zhao, Kun Wu, Tianjiao Yi, Zhiyuan Xu, Xiaozhu Ju, Zhengping Che, Qinru Qiu, Chi Harold Liu, Jian Tang.<br />
   "An Efficient Generalizable Framework for Visuomotor Policies via Control-aware Augmentation and Privilege-guided Distillation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.09258)] 
   [2024.01]
 
-:boom:Zhan, Youyi and Wang, Tuanfeng Y. and Shao, Tianjia and Zhou, Kun.<br />
+- Zhan, Youyi and Wang, Tuanfeng Y. and Shao, Tianjia and Zhou, Kun.<br />
   "Pattern Guided UV Recovery for Realistic Video Garment Texturing." ArXiv (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10400917?casa_token=9UPxBTineFYAAAAA:WM3NcynIUd8rFkPE8GUzl5uh5ryqCkHgBsOR8wG3iPrClzFJ1E8hlPir_G0IQkw_I8A8BPq4Lo6X)] 
   [2024.01]
 
-:boom:**Efficient4D:** Zijie Pan, Zeyu Yang, Xiatian Zhu, Li Zhang.<br />
+- **Efficient4D:** Zijie Pan, Zeyu Yang, Xiatian Zhu, Li Zhang.<br />
   "Fast Dynamic 3D Object Generation from a Single-view Video." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.08742)] 
   [[code](https://fudan-zvg.github.io/Efficient4D)]
   [2024.01]
 
-:boom:Hangbin Zheng, Shimin Liu, Hengjun Zhang, Jiayi Yu and Jinsong Bao.<br />
+- Hangbin Zheng, Shimin Liu, Hengjun Zhang, Jiayi Yu and Jinsong Bao.<br />
   "Visual-triggered contextual guidance for lithium battery disassembly: a multi-modal event knowledge graph approach." ArXiv (2024).
   [[paper](https://www.tandfonline.com/doi/pdf/10.1080/09544828.2024.2301876?casa_token=7COSjhYxn_8AAAAA:VPlW-3ISu60vumHZ-FaQsA5ToOmw-FPtL2nrBYZLhq0kdvPjeSNFnxIOYpgRcMBUEY7SMIxuIwQ1eIAu)] 
   [2024.01]
 
-:boom:Chenghao Lu , Emmanuel Nnadozie, Moritz Paul Camenzind, Yuncai Hu and Kang Yu.<br />
+- Chenghao Lu , Emmanuel Nnadozie, Moritz Paul Camenzind, Yuncai Hu and Kang Yu.<br />
   "Maize plant detection using UAV-based RGB imaging and YOLOv5." Frontiers in Plant Science (2024).
   [[paper](https://www.researchgate.net/profile/Chenghao-Lu-9/publication/377400920_Maize_plant_detection_using_UAV-based_RGB_imaging_and_YOLOv5/links/65a4ec0abc30165e6e3937ff/Maize-plant-detection-using-UAV-based-RGB-imaging-and-YOLOv5.pdf)] 
   [2024.01]
