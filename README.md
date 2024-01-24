@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.23: Latest update of this paper list.
+- 2024.01.24: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,7 +147,19 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Reda Bensaid, Vincent Gripon, François Leduc-Primeau, Lukas Mauch, Ghouthi Boukli Hacene, Fabien Cardinaux.<br />
+:boom:**ClipSAM:** Shengze Li, Jianjian Cao, Peng Ye, Yuhan Ding, Chongjun Tu, Tao Chen.<br />
+  "ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.12665)] 
+  [[code](https://github.com/Lszcoding/ClipSAM)]
+  [2024.01]
+
+:boom:**SegmentAnyBone:** Hanxue Gu, Roy Colglazier, Haoyu Dong, Jikai Zhang, Yaqian Chen, Zafer Yildiz, Yuwen Chen, Lin Li, Jichen Yang, Jay Willhite, Alex M. Meyer, Brian Guo, Yashvi Atul Shah, Emily Luo, Shipra Rajput, Sally Kuehn, Clark Bulleit, Kevin A. Wu, Jisoo Lee, Brandon Ramirez, Darui Lu, Jay M. Levin, Maciej A. Mazurowski.<br />
+  "SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.12974)] 
+  [[code](https://github.com/mazurowski-lab/SegmentAnyBone)]
+  [2024.01]
+
+- Reda Bensaid, Vincent Gripon, François Leduc-Primeau, Lukas Mauch, Ghouthi Boukli Hacene, Fabien Cardinaux.<br />
   "A Novel Benchmark for Few-Shot Semantic Segmentation in the Era of Foundation Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.11311)] 
   [2024.01]
