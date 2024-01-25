@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.24: Latest update of this paper list.
+- 2024.01.25: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,13 +147,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**ClipSAM:** Shengze Li, Jianjian Cao, Peng Ye, Yuhan Ding, Chongjun Tu, Tao Chen.<br />
+:boom:**PA-SAM:** Zhaozhi Xie, Bochen Guan, Weihao Jiang, Muyang Yi, Yue Ding, Hongtao Lu, Lei Zhang.<br />
+  "PA-SAM: Prompt Adapter SAM for High-Quality Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.13051)] 
+  [[code](https://github.com/xzz2/pa-sam)]
+  [2024.01]
+
+:boom:**SAC:** Saiyang Na, Yuzhi Guo, Feng Jiang, Hehuan Ma, Junzhou Huang.<br />
+  "Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.13220)] 
+  [2024.01]
+
+- **ClipSAM:** Shengze Li, Jianjian Cao, Peng Ye, Yuhan Ding, Chongjun Tu, Tao Chen.<br />
   "ClipSAM: CLIP and SAM Collaboration for Zero-Shot Anomaly Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.12665)] 
   [[code](https://github.com/Lszcoding/ClipSAM)]
   [2024.01]
 
-:boom:**SegmentAnyBone:** Hanxue Gu, Roy Colglazier, Haoyu Dong, Jikai Zhang, Yaqian Chen, Zafer Yildiz, Yuwen Chen, Lin Li, Jichen Yang, Jay Willhite, Alex M. Meyer, Brian Guo, Yashvi Atul Shah, Emily Luo, Shipra Rajput, Sally Kuehn, Clark Bulleit, Kevin A. Wu, Jisoo Lee, Brandon Ramirez, Darui Lu, Jay M. Levin, Maciej A. Mazurowski.<br />
+- **SegmentAnyBone:** Hanxue Gu, Roy Colglazier, Haoyu Dong, Jikai Zhang, Yaqian Chen, Zafer Yildiz, Yuwen Chen, Lin Li, Jichen Yang, Jay Willhite, Alex M. Meyer, Brian Guo, Yashvi Atul Shah, Emily Luo, Shipra Rajput, Sally Kuehn, Clark Bulleit, Kevin A. Wu, Jisoo Lee, Brandon Ramirez, Darui Lu, Jay M. Levin, Maciej A. Mazurowski.<br />
   "SegmentAnyBone: A Universal Model that Segments Any Bone at Any Location on MRI." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.12974)] 
   [[code](https://github.com/mazurowski-lab/SegmentAnyBone)]
