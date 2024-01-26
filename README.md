@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.25: Latest update of this paper list.
+- 2024.01.26: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,13 +147,29 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**PA-SAM:** Zhaozhi Xie, Bochen Guan, Weihao Jiang, Muyang Yi, Yue Ding, Hongtao Lu, Lei Zhang.<br />
+:boom:**Grounded SAM:** Tianhe Ren, Shilong Liu, Ailing Zeng, Jing Lin, Kunchang Li, He Cao, Jiayu Chen, Xinyu Huang, Yukang Chen, Feng Yan, Zhaoyang Zeng, Hao Zhang, Feng Li, Jie Yang, Hongyang Li, Qing Jiang, Lei Zhang.<br />
+  "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.14159)] 
+  [[code](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
+  [2024.01]
+
+:boom:**TriSAM:** Jia Wan, Wanhua Li, Atmadeep Banerjee, Jason Ken Adhinarta, Evelina Sjostedt, Jingpeng Wu, Jeff Lichtman, Hanspeter Pfister, Donglai Wei.<br />
+  "TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.13961)] 
+  [2024.01]
+
+:boom:Kesi Xu, Lea Goetz, Nasir Rajpoot.<br />
+  "On generalisability of segment anything model for nuclear instance segmentation in histology images." MIUA (2023).
+  [[paper](https://arxiv.org/abs/2401.14248)] 
+  [2024.01]
+
+- **PA-SAM:** Zhaozhi Xie, Bochen Guan, Weihao Jiang, Muyang Yi, Yue Ding, Hongtao Lu, Lei Zhang.<br />
   "PA-SAM: Prompt Adapter SAM for High-Quality Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.13051)] 
   [[code](https://github.com/xzz2/pa-sam)]
   [2024.01]
 
-:boom:**SAC:** Saiyang Na, Yuzhi Guo, Feng Jiang, Hehuan Ma, Junzhou Huang.<br />
+- **SAC:** Saiyang Na, Yuzhi Guo, Feng Jiang, Hehuan Ma, Junzhou Huang.<br />
   "Segment Any Cell: A SAM-based Auto-prompting Fine-tuning Framework for Nuclei Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.13220)] 
   [2024.01]
