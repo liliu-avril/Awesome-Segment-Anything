@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.26: Latest update of this paper list.
+- 2024.01.28: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,18 +147,79 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Grounded SAM:** Tianhe Ren, Shilong Liu, Ailing Zeng, Jing Lin, Kunchang Li, He Cao, Jiayu Chen, Xinyu Huang, Yukang Chen, Feng Yan, Zhaoyang Zeng, Hao Zhang, Feng Li, Jie Yang, Hongyang Li, Qing Jiang, Lei Zhang.<br />
+:boom:**ScaleFlow:** Chengbo Yuan, Chuan Wen, Tong Zhang, Yang Gao.<br />
+  "General Flow as Foundation Affordance for Scalable Robot Learning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.11439)] 
+  [[code](https://general-flow.github.io/)]
+  [2024.01]
+
+:boom:**HAZARD:** Qinhong Zhou, Sunli Chen, Yisong Wang, Haozhe Xu, Weihua Du, Hongxin Zhang, Yilun Du, Joshua B. Tenenbaum, Chuang Gan.<br />
+  "HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments." ICLR (2024).
+  [[paper](https://arxiv.org/abs/2401.12975)] 
+  [[code](https://vis-www.cs.umass.edu/hazard/)]
+  [2024.01]
+
+:boom:Laura J. Brooks , Daniel Pearce, Kenton Kwok , Nikhil Jawade , Man Qi, Erola Fenollosa , Deniz Beker, James Whicker, Katrina Davis, Roberto Salguero-G´omez, Robin Wang, and Steve Chappell.<br />
+  "A video-rate hyperspectral camera for monitoring plant health and biodiversity." ArXiv (2024).
+  [[paper](https://www.biorxiv.org/content/10.1101/2024.01.18.576183v1.abstract)] 
+  [2024.01]
+
+:boom:**SAM-OBC:** Hu, Yixin and Qi, Zhixin and Zhou, Zhexun and Qin, Yan.<br />
+  "Detection of Benggang in Remote Sensing Imagery through Integration of Segmentation Anything Model with Object-Based Classification." ArXiv (2024).
+  [[paper](https://www.mdpi.com/2072-4292/16/2/428)] 
+  [2024.01]
+
+:boom:**OK-Robot:** Peiqi Liu,Yaswanth Orru, Chris Paxton, Nur Muhammad Mahi Shafiullah, Lerrel Pinto.<br />
+  "OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.12202)] 
+  [[code](https://ok-robot.github.io/)]
+  [2024.01]
+
+:boom:Bowei Xue, Han Cheng, Qingqing Yang, Yi Wang, and Xiaoning He.<br />
+  "Adapting Segment Anything Model to Aerial Land Cover Classification with Low Rank Adaptation." IEEE LGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10412208)] 
+  [2024.01]
+
+:boom:Peng Qian,Tomer Ullman.<br />
+  "Shape Guides Visual Pretense." ArXiv (2024).
+[[paper](https://files.osf.io/v1/resources/zv8nb/providers/osfstorage/65af0bbb97381903dd396c22?action=download&direct&version=1)] 
+  [2024.01]
+
+:boom:**MultiDance-Zero:** Zhe Xu, Kun Wei, Xu Yang, Cheng Deng.<br />
+  "Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.13363)] 
+  [2024.01]
+
+:boom:**Vary-toy:** Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang.<br />
+  "Small Language Model Meets with Reinforced Vision Vocabulary." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.12503)] 
+  [[code](https://varytoy.github.io/)]
+  [2024.01]
+
+:boom:**WildRGB-D:** Hongchi Xia, Yang Fu, Sifei Liu, Xiaolong Wang.<br />
+  "RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos." ArXiv (2024).
+  [[paper]()] 
+  [[code]()]
+  [2024.01]
+
+:boom:**Tyche:** Marianne Rakic, Hallee E. Wong, Jose Javier Gonzalez Ortiz, Beth Cimini, John Guttag, Adrian V. Dalca.<br />
+  "Tyche: Stochastic In-Context Learning for Medical Image Segmentation." ArXiv (2024).
+  [[paper]()] 
+  [[code]()]
+  [2024.01]
+
+- **Grounded SAM:** Tianhe Ren, Shilong Liu, Ailing Zeng, Jing Lin, Kunchang Li, He Cao, Jiayu Chen, Xinyu Huang, Yukang Chen, Feng Yan, Zhaoyang Zeng, Hao Zhang, Feng Li, Jie Yang, Hongyang Li, Qing Jiang, Lei Zhang.<br />
   "Grounded SAM: Assembling Open-World Models for Diverse Visual Tasks." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.14159)] 
   [[code](https://github.com/IDEA-Research/Grounded-Segment-Anything)]
   [2024.01]
 
-:boom:**TriSAM:** Jia Wan, Wanhua Li, Atmadeep Banerjee, Jason Ken Adhinarta, Evelina Sjostedt, Jingpeng Wu, Jeff Lichtman, Hanspeter Pfister, Donglai Wei.<br />
+- **TriSAM:** Jia Wan, Wanhua Li, Atmadeep Banerjee, Jason Ken Adhinarta, Evelina Sjostedt, Jingpeng Wu, Jeff Lichtman, Hanspeter Pfister, Donglai Wei.<br />
   "TriSAM: Tri-Plane SAM for zero-shot cortical blood vessel segmentation in VEM images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.13961)] 
   [2024.01]
 
-:boom:Kesi Xu, Lea Goetz, Nasir Rajpoot.<br />
+- Kesi Xu, Lea Goetz, Nasir Rajpoot.<br />
   "On generalisability of segment anything model for nuclear instance segmentation in histology images." MIUA (2023).
   [[paper](https://arxiv.org/abs/2401.14248)] 
   [2024.01]
