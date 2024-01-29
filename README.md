@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.28: Latest update of this paper list.
+- 2024.01.29: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,6 +147,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SSR:** Yanqi Ge, Ye Huang, Wen Li, Lixin Duan.<br />
+  "SSR: SAM is a Strong Regularizer for domain adaptive semantic segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.14686)] 
+  [2024.01]
+
 :boom:**ScaleFlow:** Chengbo Yuan, Chuan Wen, Tong Zhang, Yang Gao.<br />
   "General Flow as Foundation Affordance for Scalable Robot Learning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.11439)] 
