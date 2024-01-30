@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.29: Latest update of this paper list.
+- 2024.01.30: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,67 +147,84 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SSR:** Yanqi Ge, Ye Huang, Wen Li, Lixin Duan.<br />
+:boom:**MixSup:** Yuxue Yang, Lue Fan, Zhaoxiang Zhang.<br />
+  "MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection." ICLR (2024).
+  [[paper](https://arxiv.org/abs/2401.16305)] 
+  [[code](https://github.com/BraveGroup/PointSAM-for-MixSup)]
+  [2024.01]
+
+:boom:**GEM:** Jing Hao, Moyun Liu, Kuo Feng Hung.<br />
+  "GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.15282)] 
+  [[code](https://github.com/isbrycee/GEM-Glass-Segmentor)]
+  [2024.01]
+
+:boom:**LoRA-SAM:** Zehao Ye, Lucy Lovell, Asaad Faramarzi, Jelena Ninic.<br />
+  "SAM-based instance segmentation models for the automation of masonry crack detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.15266)] 
+  [2024.01]
+
+- **SSR:** Yanqi Ge, Ye Huang, Wen Li, Lixin Duan.<br />
   "SSR: SAM is a Strong Regularizer for domain adaptive semantic segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.14686)] 
   [2024.01]
 
-:boom:**ScaleFlow:** Chengbo Yuan, Chuan Wen, Tong Zhang, Yang Gao.<br />
+- **ScaleFlow:** Chengbo Yuan, Chuan Wen, Tong Zhang, Yang Gao.<br />
   "General Flow as Foundation Affordance for Scalable Robot Learning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.11439)] 
   [[code](https://general-flow.github.io/)]
   [2024.01]
 
-:boom:**HAZARD:** Qinhong Zhou, Sunli Chen, Yisong Wang, Haozhe Xu, Weihua Du, Hongxin Zhang, Yilun Du, Joshua B. Tenenbaum, Chuang Gan.<br />
+- **HAZARD:** Qinhong Zhou, Sunli Chen, Yisong Wang, Haozhe Xu, Weihua Du, Hongxin Zhang, Yilun Du, Joshua B. Tenenbaum, Chuang Gan.<br />
   "HAZARD Challenge: Embodied Decision Making in Dynamically Changing Environments." ICLR (2024).
   [[paper](https://arxiv.org/abs/2401.12975)] 
   [[code](https://vis-www.cs.umass.edu/hazard/)]
   [2024.01]
 
-:boom:Laura J. Brooks , Daniel Pearce, Kenton Kwok , Nikhil Jawade , Man Qi, Erola Fenollosa , Deniz Beker, James Whicker, Katrina Davis, Roberto Salguero-G´omez, Robin Wang, and Steve Chappell.<br />
+- Laura J. Brooks , Daniel Pearce, Kenton Kwok , Nikhil Jawade , Man Qi, Erola Fenollosa , Deniz Beker, James Whicker, Katrina Davis, Roberto Salguero-G´omez, Robin Wang, and Steve Chappell.<br />
   "A video-rate hyperspectral camera for monitoring plant health and biodiversity." ArXiv (2024).
   [[paper](https://www.biorxiv.org/content/10.1101/2024.01.18.576183v1.abstract)] 
   [2024.01]
 
-:boom:**SAM-OBC:** Hu, Yixin and Qi, Zhixin and Zhou, Zhexun and Qin, Yan.<br />
+- **SAM-OBC:** Hu, Yixin and Qi, Zhixin and Zhou, Zhexun and Qin, Yan.<br />
   "Detection of Benggang in Remote Sensing Imagery through Integration of Segmentation Anything Model with Object-Based Classification." ArXiv (2024).
   [[paper](https://www.mdpi.com/2072-4292/16/2/428)] 
   [2024.01]
 
-:boom:**OK-Robot:** Peiqi Liu,Yaswanth Orru, Chris Paxton, Nur Muhammad Mahi Shafiullah, Lerrel Pinto.<br />
+- **OK-Robot:** Peiqi Liu,Yaswanth Orru, Chris Paxton, Nur Muhammad Mahi Shafiullah, Lerrel Pinto.<br />
   "OK-Robot: What Really Matters in Integrating Open-Knowledge Models for Robotics." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.12202)] 
   [[code](https://ok-robot.github.io/)]
   [2024.01]
 
-:boom:Bowei Xue, Han Cheng, Qingqing Yang, Yi Wang, and Xiaoning He.<br />
+- Bowei Xue, Han Cheng, Qingqing Yang, Yi Wang, and Xiaoning He.<br />
   "Adapting Segment Anything Model to Aerial Land Cover Classification with Low Rank Adaptation." IEEE LGRS (2024).
   [[paper](https://ieeexplore.ieee.org/document/10412208)] 
   [2024.01]
 
-:boom:Peng Qian,Tomer Ullman.<br />
+- Peng Qian,Tomer Ullman.<br />
   "Shape Guides Visual Pretense." ArXiv (2024).
 [[paper](https://files.osf.io/v1/resources/zv8nb/providers/osfstorage/65af0bbb97381903dd396c22?action=download&direct&version=1)] 
   [2024.01]
 
-:boom:**MultiDance-Zero:** Zhe Xu, Kun Wei, Xu Yang, Cheng Deng.<br />
+- **MultiDance-Zero:** Zhe Xu, Kun Wei, Xu Yang, Cheng Deng.<br />
   "Do You Guys Want to Dance: Zero-Shot Compositional Human Dance Generation with Multiple Persons." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.13363)] 
   [2024.01]
 
-:boom:**Vary-toy:** Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang.<br />
+- **Vary-toy:** Haoran Wei, Lingyu Kong, Jinyue Chen, Liang Zhao, Zheng Ge, En Yu, Jianjian Sun, Chunrui Han, Xiangyu Zhang.<br />
   "Small Language Model Meets with Reinforced Vision Vocabulary." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.12503)] 
   [[code](https://varytoy.github.io/)]
   [2024.01]
 
-:boom:**WildRGB-D:** Hongchi Xia, Yang Fu, Sifei Liu, Xiaolong Wang.<br />
+- **WildRGB-D:** Hongchi Xia, Yang Fu, Sifei Liu, Xiaolong Wang.<br />
   "RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos." ArXiv (2024).
   [[paper]()] 
   [[code]()]
   [2024.01]
 
-:boom:**Tyche:** Marianne Rakic, Hallee E. Wong, Jose Javier Gonzalez Ortiz, Beth Cimini, John Guttag, Adrian V. Dalca.<br />
+- **Tyche:** Marianne Rakic, Hallee E. Wong, Jose Javier Gonzalez Ortiz, Beth Cimini, John Guttag, Adrian V. Dalca.<br />
   "Tyche: Stochastic In-Context Learning for Medical Image Segmentation." ArXiv (2024).
   [[paper]()] 
   [[code]()]
