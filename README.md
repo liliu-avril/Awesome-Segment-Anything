@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.30: Latest update of this paper list.
+- 2024.01.31: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,19 +147,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**MixSup:** Yuxue Yang, Lue Fan, Zhaoxiang Zhang.<br />
+:boom:**MESA:** Yesheng Zhang, Xu Zhao.<br />
+  "MESA: Matching Everything by Segmenting Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.16741)] 
+  [2024.01]
+
+- **MixSup:** Yuxue Yang, Lue Fan, Zhaoxiang Zhang.<br />
   "MixSup: Mixed-grained Supervision for Label-efficient LiDAR-based 3D Object Detection." ICLR (2024).
   [[paper](https://arxiv.org/abs/2401.16305)] 
   [[code](https://github.com/BraveGroup/PointSAM-for-MixSup)]
   [2024.01]
 
-:boom:**GEM:** Jing Hao, Moyun Liu, Kuo Feng Hung.<br />
+- **GEM:** Jing Hao, Moyun Liu, Kuo Feng Hung.<br />
   "GEM: Boost Simple Network for Glass Surface Segmentation via Segment Anything Model and Data Synthesis." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.15282)] 
   [[code](https://github.com/isbrycee/GEM-Glass-Segmentor)]
   [2024.01]
 
-:boom:**LoRA-SAM:** Zehao Ye, Lucy Lovell, Asaad Faramarzi, Jelena Ninic.<br />
+- **LoRA-SAM:** Zehao Ye, Lucy Lovell, Asaad Faramarzi, Jelena Ninic.<br />
   "SAM-based instance segmentation models for the automation of masonry crack detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.15266)] 
   [2024.01]
