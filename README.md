@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.01.31: Latest update of this paper list.
+- 2024.02.01: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,7 +147,29 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**MESA:** Yesheng Zhang, Xu Zhao.<br />
+:boom:**Hi-SAM:** Maoyuan Ye, Jing Zhang, Juhua Liu, Chenyu Liu, Baocai Yin, Cong Liu, Bo Du, Dacheng Tao.<br />
+  "Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.17904)] 
+  [[code](https://github.com/ymy-k/Hi-SAM)]
+  [2024.01]
+
+:boom:**Conv-LoRA:** Zihan Zhong, Zhiqiang Tang, Tong He, Haoyang Fang, Chun Yuan.<br />
+  "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model." ICLR  (2024).
+  [[paper](https://arxiv.org/abs/2401.17868)] 
+  [2024.01]
+
+:boom:**SA-GS:** Xu Hu, Yuxi Wang, Lue Fan, Junsong Fan, Junran Peng, Zhen Lei, Qing Li, Zhaoxiang Zhang.<br />
+  "Semantic Anything in 3D Gaussians." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.17857)] 
+  [2024.01]
+
+:boom:**SimAda:** Yiran Song, Qianyu Zhou, Xuequan Lu, Zhiwen Shao, Lizhuang Ma.<br />
+  "SimAda: A Simple Unified Framework for Adapting Segment Anything Model in Underperformed Scenes." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.17803)] 
+  [[code](https://github.com/zongzi13545329/SimAda)]
+  [2024.01]
+
+- **MESA:** Yesheng Zhang, Xu Zhao.<br />
   "MESA: Matching Everything by Segmenting Anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.16741)] 
   [2024.01]
