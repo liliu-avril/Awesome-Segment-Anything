@@ -158,6 +158,18 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2401.17868)] 
   [2024.01]
 
+:boom:Kangcheng Liu, Xinhu Zheng, Chaoqun Wang, Hesheng Wang, Ming Liu, Kai Tang.<br />
+  "Online Robot Navigation and and Manipulation with Distilled Vision-Language Models." ICRA  (2024).
+  [[paper](https://arxiv.org/abs/2401.17083)] 
+  [2024.01]
+
+:boom:**MouSi:** Xiaoran Fan, Tao Ji, Changhao Jiang, Shuo Li, Senjie Jin, Sirui Song, Junke Wang, Boyang Hong, Lu Chen, Guodong Zheng, Ming Zhang, Caishuang Huang, Rui Zheng, Zhiheng Xi, Yuhao Zhou, Shihan Dou, Junjie Ye, Hang Yan, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang.<br />
+  "MouSi: Poly-Visual-Expert Vision-Language Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2401.17221)] 
+  [[code](https://github.com/FudanNLPLAB/MouSi)]
+  [2024.01]
+
+
 :boom:**SA-GS:** Xu Hu, Yuxi Wang, Lue Fan, Junsong Fan, Junran Peng, Zhen Lei, Qing Li, Zhaoxiang Zhang.<br />
   "Semantic Anything in 3D Gaussians." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.17857)] 
