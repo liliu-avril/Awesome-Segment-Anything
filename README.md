@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.02.01: Latest update of this paper list.
+- 2024.02.02: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,35 +147,40 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Hi-SAM:** Maoyuan Ye, Jing Zhang, Juhua Liu, Chenyu Liu, Baocai Yin, Cong Liu, Bo Du, Dacheng Tao.<br />
+:boom:Sureka Thiruchittampalam, Bikram P. Banerjee, Nancy F. Glenn, Simit Raval.<br />
+  "Comparative Evaluation of Traditional and Deep Learning-Based Segmentation Methods for Spoil Pile Delineation Using UAV Images." ArXiv (2024).
+  [[paper](https://browse.arxiv.org/abs/2402.00295)] 
+  [2024.02]
+
+ - **Hi-SAM:** Maoyuan Ye, Jing Zhang, Juhua Liu, Chenyu Liu, Baocai Yin, Cong Liu, Bo Du, Dacheng Tao.<br />
   "Hi-SAM: Marrying Segment Anything Model for Hierarchical Text Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.17904)] 
   [[code](https://github.com/ymy-k/Hi-SAM)]
   [2024.01]
 
-:boom:**Conv-LoRA:** Zihan Zhong, Zhiqiang Tang, Tong He, Haoyang Fang, Chun Yuan.<br />
+- **Conv-LoRA:** Zihan Zhong, Zhiqiang Tang, Tong He, Haoyang Fang, Chun Yuan.<br />
   "Convolution Meets LoRA: Parameter Efficient Finetuning for Segment Anything Model." ICLR  (2024).
   [[paper](https://arxiv.org/abs/2401.17868)] 
   [2024.01]
 
-:boom:Kangcheng Liu, Xinhu Zheng, Chaoqun Wang, Hesheng Wang, Ming Liu, Kai Tang.<br />
+- Kangcheng Liu, Xinhu Zheng, Chaoqun Wang, Hesheng Wang, Ming Liu, Kai Tang.<br />
   "Online Robot Navigation and and Manipulation with Distilled Vision-Language Models." ICRA  (2024).
   [[paper](https://arxiv.org/abs/2401.17083)] 
   [2024.01]
 
-:boom:**MouSi:** Xiaoran Fan, Tao Ji, Changhao Jiang, Shuo Li, Senjie Jin, Sirui Song, Junke Wang, Boyang Hong, Lu Chen, Guodong Zheng, Ming Zhang, Caishuang Huang, Rui Zheng, Zhiheng Xi, Yuhao Zhou, Shihan Dou, Junjie Ye, Hang Yan, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang.<br />
+- **MouSi:** Xiaoran Fan, Tao Ji, Changhao Jiang, Shuo Li, Senjie Jin, Sirui Song, Junke Wang, Boyang Hong, Lu Chen, Guodong Zheng, Ming Zhang, Caishuang Huang, Rui Zheng, Zhiheng Xi, Yuhao Zhou, Shihan Dou, Junjie Ye, Hang Yan, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang.<br />
   "MouSi: Poly-Visual-Expert Vision-Language Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.17221)] 
   [[code](https://github.com/FudanNLPLAB/MouSi)]
   [2024.01]
 
 
-:boom:**SA-GS:** Xu Hu, Yuxi Wang, Lue Fan, Junsong Fan, Junran Peng, Zhen Lei, Qing Li, Zhaoxiang Zhang.<br />
+- **SA-GS:** Xu Hu, Yuxi Wang, Lue Fan, Junsong Fan, Junran Peng, Zhen Lei, Qing Li, Zhaoxiang Zhang.<br />
   "Semantic Anything in 3D Gaussians." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.17857)] 
   [2024.01]
 
-:boom:**SimAda:** Yiran Song, Qianyu Zhou, Xuequan Lu, Zhiwen Shao, Lizhuang Ma.<br />
+- **SimAda:** Yiran Song, Qianyu Zhou, Xuequan Lu, Zhiwen Shao, Lizhuang Ma.<br />
   "SimAda: A Simple Unified Framework for Adapting Segment Anything Model in Underperformed Scenes." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2401.17803)] 
   [[code](https://github.com/zongzi13545329/SimAda)]
