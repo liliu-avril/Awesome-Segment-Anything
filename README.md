@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.02.02: Latest update of this paper list.
+- 2024.02.07: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,7 +147,28 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Sureka Thiruchittampalam, Bikram P. Banerjee, Nancy F. Glenn, Simit Raval.<br />
+:boom:**COMRP:** Zihan Ma, Yongshang Li, Ronggui Ma, Chen Liang.<br />
+  "Unsupervised semantic segmentation of high-resolution UAV imagery for road scene parsing." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.02985)] 
+  [2024.02]
+
+:boom:**SAM+SLIC:** Michal Shlapentokh-Rothman, Ansel Blume, Yao Xiao, Yuqun Wu, Sethuraman T V, Heyi Tao, Jae Yong Lee, Wilfredo Torres, Yu-Xiong Wang, Derek Hoiem.<br />
+  "Region-Based Representations Revisited." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.02352)] 
+  [2024.02]
+
+:boom:**Polyp-DAM:** Zhuoran Zheng, Chen Wu, Wei Wang, Yeying Jin, Xiuyi Jia.<br />
+  "Polyp-DAM: Polyp segmentation via depth anything model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.02298)] 
+  [[code](https://github.com/zzr-idam/Polyp-DAM)]
+  [2024.02]
+
+:boom:**AnyChange:** Zhuo Zheng, Yanfei Zhong, Liangpei Zhang, Stefano Ermon.<br />
+  "Segment Any Change." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.01188)] 
+  [2024.02]
+
+- Sureka Thiruchittampalam, Bikram P. Banerjee, Nancy F. Glenn, Simit Raval.<br />
   "Comparative Evaluation of Traditional and Deep Learning-Based Segmentation Methods for Spoil Pile Delineation Using UAV Images." ArXiv (2024).
   [[paper](https://browse.arxiv.org/abs/2402.00295)] 
   [2024.02]
