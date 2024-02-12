@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.02.07: Latest update of this paper list.
+- 2024.02.12: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,23 +147,45 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**COMRP:** Zihan Ma, Yongshang Li, Ronggui Ma, Chen Liang.<br />
+:boom:**EfficientViT-SAM:** Zhuoyang Zhang, Han Cai, Song Han.<br />
+  "EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.05008)] 
+  [[code](https://github.com/mit-han-lab/efficientvit)]
+  [2024.02]
+
+:boom:**ClickSAM:** Aimee Guo, Gace Fei, Hemanth Pasupuletic, Jing Wang.<br />
+  "ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation." SPIE Medical Imaging Conference (2024).
+  [[paper](https://arxiv.org/abs/2402.05902)] 
+  [2024.02]
+
+:boom:**Iris-SAM:** Parisa Farmanifard, Arun Ross.<br />
+  "Iris-SAM: Iris Segmentation Using a Foundational Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.06497)] 
+  [2024.02]
+
+:boom:**CAT-SAM:** Aoran Xiao, Weihao Xuan, Heli Qi, Yun Xing, Ruijie Ren, Xiaoqin Zhang, Shijian Lu.<br />
+  "CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.03631)] 
+  [[code](https://xiaoaoran.github.io/projects/CAT-SAM)]
+  [2024.02]
+
+- **COMRP:** Zihan Ma, Yongshang Li, Ronggui Ma, Chen Liang.<br />
   "Unsupervised semantic segmentation of high-resolution UAV imagery for road scene parsing." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.02985)] 
   [2024.02]
 
-:boom:**SAM+SLIC:** Michal Shlapentokh-Rothman, Ansel Blume, Yao Xiao, Yuqun Wu, Sethuraman T V, Heyi Tao, Jae Yong Lee, Wilfredo Torres, Yu-Xiong Wang, Derek Hoiem.<br />
+- **SAM+SLIC:** Michal Shlapentokh-Rothman, Ansel Blume, Yao Xiao, Yuqun Wu, Sethuraman T V, Heyi Tao, Jae Yong Lee, Wilfredo Torres, Yu-Xiong Wang, Derek Hoiem.<br />
   "Region-Based Representations Revisited." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.02352)] 
   [2024.02]
 
-:boom:**Polyp-DAM:** Zhuoran Zheng, Chen Wu, Wei Wang, Yeying Jin, Xiuyi Jia.<br />
+- **Polyp-DAM:** Zhuoran Zheng, Chen Wu, Wei Wang, Yeying Jin, Xiuyi Jia.<br />
   "Polyp-DAM: Polyp segmentation via depth anything model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.02298)] 
   [[code](https://github.com/zzr-idam/Polyp-DAM)]
   [2024.02]
 
-:boom:**AnyChange:** Zhuo Zheng, Yanfei Zhong, Liangpei Zhang, Stefano Ermon.<br />
+- **AnyChange:** Zhuo Zheng, Yanfei Zhong, Liangpei Zhang, Stefano Ermon.<br />
   "Segment Any Change." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.01188)] 
   [2024.02]
