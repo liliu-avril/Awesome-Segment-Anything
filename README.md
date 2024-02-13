@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.02.12: Latest update of this paper list.
+- 2024.02.13: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,23 +147,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**EfficientViT-SAM:** Zhuoyang Zhang, Han Cai, Song Han.<br />
+:boom:**Fine-Tune Distillation:** .<br />
+  "Domain Adaptable Fine-Tune Distillation Framework For Advancing Farm Surveillance." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.07059)] 
+  [[code](https://github.com/Razaimam45/Fine-Tune-Distillation)]
+  [2024.02]
+
+:boom:**YOLO + SAM:** Henry Gann, Josiah Bull, Trevor Gee, Mahla Nejati.<br />
+  "Improving Pallet Detection Using Synthetic Data." ACRA (2023).
+  [[paper](https://arxiv.org/abs/2402.07098)] 
+  [2024.02]
+
+- **EfficientViT-SAM:** Zhuoyang Zhang, Han Cai, Song Han.<br />
   "EfficientViT-SAM: Accelerated Segment Anything Model Without Performance Loss." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.05008)] 
   [[code](https://github.com/mit-han-lab/efficientvit)]
   [2024.02]
 
-:boom:**ClickSAM:** Aimee Guo, Gace Fei, Hemanth Pasupuletic, Jing Wang.<br />
+- **ClickSAM:** Aimee Guo, Gace Fei, Hemanth Pasupuletic, Jing Wang.<br />
   "ClickSAM: Fine-tuning Segment Anything Model using click prompts for ultrasound image segmentation." SPIE Medical Imaging Conference (2024).
   [[paper](https://arxiv.org/abs/2402.05902)] 
   [2024.02]
 
-:boom:**Iris-SAM:** Parisa Farmanifard, Arun Ross.<br />
+- **Iris-SAM:** Parisa Farmanifard, Arun Ross.<br />
   "Iris-SAM: Iris Segmentation Using a Foundational Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.06497)] 
   [2024.02]
 
-:boom:**CAT-SAM:** Aoran Xiao, Weihao Xuan, Heli Qi, Yun Xing, Ruijie Ren, Xiaoqin Zhang, Shijian Lu.<br />
+- **CAT-SAM:** Aoran Xiao, Weihao Xuan, Heli Qi, Yun Xing, Ruijie Ren, Xiaoqin Zhang, Shijian Lu.<br />
   "CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.03631)] 
   [[code](https://xiaoaoran.github.io/projects/CAT-SAM)]
