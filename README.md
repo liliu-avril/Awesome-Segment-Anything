@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.02.13: Latest update of this paper list.
+- 2024.02.17: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,13 +147,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Fine-Tune Distillation:** .<br />
+:boom:**Lester:** Ruben Tous.<br />
+  "Lester: rotoscope animation through video object segmentation and tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.09883)] 
+  [2024.02]
+
+- **Fine-Tune Distillation:** .<br />
   "Domain Adaptable Fine-Tune Distillation Framework For Advancing Farm Surveillance." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.07059)] 
   [[code](https://github.com/Razaimam45/Fine-Tune-Distillation)]
   [2024.02]
 
-:boom:**YOLO + SAM:** Henry Gann, Josiah Bull, Trevor Gee, Mahla Nejati.<br />
+- **YOLO + SAM:** Henry Gann, Josiah Bull, Trevor Gee, Mahla Nejati.<br />
   "Improving Pallet Detection Using Synthetic Data." ACRA (2023).
   [[paper](https://arxiv.org/abs/2402.07098)] 
   [2024.02]
