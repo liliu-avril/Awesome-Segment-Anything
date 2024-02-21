@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.02.20: Latest update of this paper list.
+- 2024.02.21: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,47 +147,53 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**ISCUTE:** Shir Kozlovsky, Omkar Joglekar, Dotan Di Castro.<br />
+:boom:**OBJ-GSP:** Wenxiao Cai, Wankou Yang.<br />
+  "Object-level Geometric Structure Preserving for Natural Image Stitching." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.12677)] 
+  [[code](https://github.com/RussRobin/OBJ-GSP)]
+  [2024.02]
+
+- **ISCUTE:** Shir Kozlovsky, Omkar Joglekar, Dotan Di Castro.<br />
   "ISCUTE: Instance Segmentation of Cables Using Text Embedding." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.11996)] 
   [2024.02]
 
-:boom:**MATT:** James E. Gallagher, Aryav Gogia, Edward J. Oughton.<br />
+- **MATT:** James E. Gallagher, Aryav Gogia, Edward J. Oughton.<br />
   "A Multispectral Automated Transfer Technique (MATT) for machine-driven image labeling utilizing the Segment Anything Model (SAM)." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.11413)] 
   [2024.02]
 
-:boom:**DPSM:** Xin Zhang, Keren Fu, Qijun Zhao.<br />
+- **DPSM:** Xin Zhang, Keren Fu, Qijun Zhao.<br />
   "Dynamic Patch-aware Enrichment Transformer for Occluded Person Re-Identification." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.10435)] 
   [2024.02]
 
-:boom:**LaserSAM:** Alexander Krawciw, Sven Lilge, Timothy D. Barfoot.<br />
+- **LaserSAM:** Alexander Krawciw, Sven Lilge, Timothy D. Barfoot.<br />
   "LaserSAM: Zero-Shot Change Detection Using Visual Segmentation of Spinning LiDAR." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.10321)] 
   [2024.02]
 
-:boom:**Zero SAM:** Tal Shaharabany, Lior Wolf.<br />
+- **Zero SAM:** Tal Shaharabany, Lior Wolf.<br />
   "Zero Shot Medical Image Segmentation Based on Sparse Prompt Using Finetuned SAM." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=TEYGCx02p3)] 
   [2024.02]
 
-:boom: Aviad Dahan, Tal Shaharabany, Raja Giryes, Lior Wolf.<br />
+- Aviad Dahan, Tal Shaharabany, Raja Giryes, Lior Wolf.<br />
   "Video Polyp Segmentation using Implicit Networks." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=7gFODPjwOe)] 
   [2024.02]
 
-:boom: Gurunath Reddy, Dattesh D. Shanbhag, Deepa Anand, Uday Patil.<br />
+- Gurunath Reddy, Dattesh D. Shanbhag, Deepa Anand, Uday Patil.<br />
   "Data Adaptive few-shot multi label segmentation with Foundation models." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=EJL0MxcMo1)] 
   [2024.02]
 
-:boom: Jiesi Hu, Yang Shang, Yanwu Yang, Guo Xutao, Hanyang Peng, Ting Ma.<br />
+- Jiesi Hu, Yang Shang, Yanwu Yang, Guo Xutao, Hanyang Peng, Ting Ma.<br />
   "Synergizing In-context Learning Model and SAM in Medical Image Segmentation." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=Y1BeK8dTno)] 
   [2024.02]
 
-:boom:**UnCLe SAM:** Amin Ranem, Mohamed Afham Mohamed Aflal, Moritz Fuchs, Anirban Mukhopadhyay.<br />
+- **UnCLe SAM:** Amin Ranem, Mohamed Afham Mohamed Aflal, Moritz Fuchs, Anirban Mukhopadhyay.<br />
   "UnCLe SAM: Unleashing SAM’s Potential for Continual Prostate MRI Segmentatio." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=jRtUQ2VnNi)] 
   [2024.02]
