@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.02.21: Latest update of this paper list.
+- 2024.02.23: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,7 +147,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**OBJ-GSP:** Wenxiao Cai, Wankou Yang.<br />
+:boom:**WeakSAM:** Lianghui Zhu, Junwei Zhou, Yan Liu, Xin Hao, Wenyu Liu, Xinggang Wang.<br />
+  "WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.14812)] 
+  [[code](https://github.com/hustvl/WeakSAM)]
+  [2024.02]
+
+:boom:**SeqAE:** Delong Chen, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung.<br />
+  "Subobject-level Image Tokenization." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.14327)] 
+  [[code](https://github.com/ChenDelong1999/subobjects)]
+  [2024.02]
+
+:boom:**DeiSAM:** Hikaru Shindo, Manuel Brack, Gopika Sudhakaran, Devendra Singh Dhami, Patrick Schramowski, Kristian Kersting.<br />
+  "DeiSAM: Segment Anything with Deictic Prompting." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.14123)] 
+  [2024.02]
+
+- **OBJ-GSP:** Wenxiao Cai, Wankou Yang.<br />
   "Object-level Geometric Structure Preserving for Natural Image Stitching." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.12677)] 
   [[code](https://github.com/RussRobin/OBJ-GSP)]
