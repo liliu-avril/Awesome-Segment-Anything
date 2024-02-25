@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.02.23: Latest update of this paper list.
+- 2024.02.25: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,19 +147,63 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**WeakSAM:** Lianghui Zhu, Junwei Zhou, Yan Liu, Xin Hao, Wenyu Liu, Xinggang Wang.<br />
+:boom:**CoFRIDA:** Peter Schaldenbrand, Gaurav Parmar, Jun-Yan Zhu, James McCann, Jean Oh.<br />
+  "CoFRIDA: Self-Supervised Fine-Tuning for Human-Robot Co-Painting." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.13442)] 
+  [[code](https://pschaldenbrand.github.io/cofrida/)]
+  [2024.02]
+
+:boom:**CVLM:** Yunxin Li, Xinyu Chen, Baotian Hu, Haoyuan Shi, Min Zhang.<br />
+  "Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.13561)] 
+  [2024.02]
+
+:boom:**SAM-EDA:** Wang, Ziquan, Yongsheng Zhang, Zhenchao Zhang, Zhipeng Jiang, Ying Yu, Li Li, and Lei Li.<br />
+  "Exploring Semantic Prompts in the Segment Anything Model for Domain Adaptation." Remote Sensing (2024).
+  [[paper](https://www.mdpi.com/2072-4292/16/5/758)] 
+  [2024.02]
+
+:boom:**DSAIL-TreeVision:** Cedric Kiplimo and Collins Emasi Epege and Ciira wa Maina and Billy Okal.<br />
+  "DSAIL-TreeVision: A software tool for extracting tree biophysical parameters from stereoscopic images." SoftwareX (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S2352711024000323)] 
+  [[code](https://github.com/DeKUT-DSAIL/TreeVision)]
+  [2024.02]
+
+:boom:Xia, Jiahao and Gong, Gavin and Liu, Jiawei and Zhu, Zhigang and Tang, Hao.<br />
+  "Pedestrian-Accessible Infrastructure Inventory: Enabling and Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data for All Pedestrian Types." Journal of Imaging (2024).
+  [[paper](https://www.mdpi.com/2313-433X/10/3/52)] 
+  [2024.02]
+
+:boom:**LIMP:** Benedict Quartey, Eric Rosen, Stefanie Tellex, George Konidaris.<br />
+  "Verifiably Following Complex Robot Instructions with Foundation Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.11498)] 
+  [[code](https://robotlimp.github.io/)]
+  [2024.02]
+
+:boom:**LMPC:** Jacky Liang, Fei Xia, Wenhao Yu, et al.<br />
+  "Learning to Learn Faster from Human Feedback with Language Model Predictive Control." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.11450)] 
+  [[code](https://robot-teaching.github.io/)]
+  [2024.02]
+
+:boom:Chong Di, Jie Gong.<br />
+  "An AI-based approach to create spatial inventory of safety-related architectural features for school buildings." DBE (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S2666165924000577)] 
+  [2024.02]
+
+- **WeakSAM:** Lianghui Zhu, Junwei Zhou, Yan Liu, Xin Hao, Wenyu Liu, Xinggang Wang.<br />
   "WeakSAM: Segment Anything Meets Weakly-supervised Instance-level Recognition." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.14812)] 
   [[code](https://github.com/hustvl/WeakSAM)]
   [2024.02]
 
-:boom:**SeqAE:** Delong Chen, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung.<br />
+- **SeqAE:** Delong Chen, Samuel Cahyawijaya, Jianfeng Liu, Baoyuan Wang, Pascale Fung.<br />
   "Subobject-level Image Tokenization." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.14327)] 
   [[code](https://github.com/ChenDelong1999/subobjects)]
   [2024.02]
 
-:boom:**DeiSAM:** Hikaru Shindo, Manuel Brack, Gopika Sudhakaran, Devendra Singh Dhami, Patrick Schramowski, Kristian Kersting.<br />
+- **DeiSAM:** Hikaru Shindo, Manuel Brack, Gopika Sudhakaran, Devendra Singh Dhami, Patrick Schramowski, Kristian Kersting.<br />
   "DeiSAM: Segment Anything with Deictic Prompting." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.14123)] 
   [2024.02]
