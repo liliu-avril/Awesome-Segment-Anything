@@ -147,22 +147,22 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**TV-SAM:** Zekun Jiang, Dongjie Cheng, Ziyuan Qin, Jun Gao, Qicheng Lao, Kang Li, Le Zhang.<br />
-  "Increasing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2402.15759)] 
-  [[code](https://github.com/JZK00/TV-SAM)]
+:boom:**BLO-SAM:** Li Zhang, Youwei Liang, Pengtao Xie.<br />
+  "BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM." ICML (2024).
+  [[paper](https://arxiv.org/abs/2402.16338)] 
+  [[code](https://github.com/importZL/BLO-SAM)]
   [2024.02]
-
+  
 :boom:**UN-SAM:** Zhen Chen, Qing Xu, Xinyu Liu, Yixuan Yuan.<br />
-  "UN-SAM: Universal Prompt-Free Segmentation for Generalized Nuclei Images." ArXiv (2024).
+  "UN-SAM: Universal Prompt-Free Segmentation for Generalized Nuclei Images." TMI (2024).
   [[paper](https://arxiv.org/abs/2402.16663)] 
   [[code](https://github.com/CUHK-AIM-Group/UN-SAM)]
   [2024.02]
 
-:boom:**BLO-SAM:** Li Zhang, Youwei Liang, Pengtao Xie.<br />
-  "BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2402.16338)] 
-  [[code](https://github.com/importZL/BLO-SAM)]
+:boom:**TV-SAM:** Zekun Jiang, Dongjie Cheng, Ziyuan Qin, Jun Gao, Qicheng Lao, Kang Li, Le Zhang.<br />
+  "Increasing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.15759)] 
+  [[code](https://github.com/JZK00/TV-SAM)]
   [2024.02]
 
 - **CoFRIDA:** Peter Schaldenbrand, Gaurav Parmar, Jun-Yan Zhu, James McCann, Jean Oh.<br />
