@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.02.25: Latest update of this paper list.
+- 2024.02.27: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,46 +147,64 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**CoFRIDA:** Peter Schaldenbrand, Gaurav Parmar, Jun-Yan Zhu, James McCann, Jean Oh.<br />
+:boom:**TV-SAM:** Zekun Jiang, Dongjie Cheng, Ziyuan Qin, Jun Gao, Qicheng Lao, Kang Li, Le Zhang.<br />
+  "Increasing SAM Zero-Shot Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.15759)] 
+  [[code](https://github.com/JZK00/TV-SAM)]
+  [2024.02]
+
+:boom:**UN-SAM:** Zhen Chen, Qing Xu, Xinyu Liu, Yixuan Yuan.<br />
+  "UN-SAM: Universal Prompt-Free Segmentation for Generalized Nuclei Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.16663)] 
+  [[code](https://github.com/CUHK-AIM-Group/UN-SAM)]
+  [2024.02]
+
+:boom:**BLO-SAM:** Li Zhang, Youwei Liang, Pengtao Xie.<br />
+  "BLO-SAM: Bi-level Optimization Based Overfitting-Preventing Finetuning of SAM." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.16338)] 
+  [[code](https://github.com/importZL/BLO-SAM)]
+  [2024.02]
+
+- **CoFRIDA:** Peter Schaldenbrand, Gaurav Parmar, Jun-Yan Zhu, James McCann, Jean Oh.<br />
   "CoFRIDA: Self-Supervised Fine-Tuning for Human-Robot Co-Painting." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.13442)] 
   [[code](https://pschaldenbrand.github.io/cofrida/)]
   [2024.02]
 
-:boom:**CVLM:** Yunxin Li, Xinyu Chen, Baotian Hu, Haoyuan Shi, Min Zhang.<br />
+- **CVLM:** Yunxin Li, Xinyu Chen, Baotian Hu, Haoyuan Shi, Min Zhang.<br />
   "Cognitive Visual-Language Mapper: Advancing Multimodal Comprehension with Enhanced Visual Knowledge Alignment." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.13561)] 
   [2024.02]
 
-:boom:**SAM-EDA:** Wang, Ziquan, Yongsheng Zhang, Zhenchao Zhang, Zhipeng Jiang, Ying Yu, Li Li, and Lei Li.<br />
+- **SAM-EDA:** Wang, Ziquan, Yongsheng Zhang, Zhenchao Zhang, Zhipeng Jiang, Ying Yu, Li Li, and Lei Li.<br />
   "Exploring Semantic Prompts in the Segment Anything Model for Domain Adaptation." Remote Sensing (2024).
   [[paper](https://www.mdpi.com/2072-4292/16/5/758)] 
   [2024.02]
 
-:boom:**DSAIL-TreeVision:** Cedric Kiplimo and Collins Emasi Epege and Ciira wa Maina and Billy Okal.<br />
+- **DSAIL-TreeVision:** Cedric Kiplimo and Collins Emasi Epege and Ciira wa Maina and Billy Okal.<br />
   "DSAIL-TreeVision: A software tool for extracting tree biophysical parameters from stereoscopic images." SoftwareX (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S2352711024000323)] 
   [[code](https://github.com/DeKUT-DSAIL/TreeVision)]
   [2024.02]
 
-:boom:Xia, Jiahao and Gong, Gavin and Liu, Jiawei and Zhu, Zhigang and Tang, Hao.<br />
+- Xia, Jiahao and Gong, Gavin and Liu, Jiawei and Zhu, Zhigang and Tang, Hao.<br />
   "Pedestrian-Accessible Infrastructure Inventory: Enabling and Assessing Zero-Shot Segmentation on Multi-Mode Geospatial Data for All Pedestrian Types." Journal of Imaging (2024).
   [[paper](https://www.mdpi.com/2313-433X/10/3/52)] 
   [2024.02]
 
-:boom:**LIMP:** Benedict Quartey, Eric Rosen, Stefanie Tellex, George Konidaris.<br />
+- **LIMP:** Benedict Quartey, Eric Rosen, Stefanie Tellex, George Konidaris.<br />
   "Verifiably Following Complex Robot Instructions with Foundation Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.11498)] 
   [[code](https://robotlimp.github.io/)]
   [2024.02]
 
-:boom:**LMPC:** Jacky Liang, Fei Xia, Wenhao Yu, et al.<br />
+- **LMPC:** Jacky Liang, Fei Xia, Wenhao Yu, et al.<br />
   "Learning to Learn Faster from Human Feedback with Language Model Predictive Control." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.11450)] 
   [[code](https://robot-teaching.github.io/)]
   [2024.02]
 
-:boom:Chong Di, Jie Gong.<br />
+- Chong Di, Jie Gong.<br />
   "An AI-based approach to create spatial inventory of safety-related architectural features for school buildings." DBE (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S2666165924000577)] 
   [2024.02]
