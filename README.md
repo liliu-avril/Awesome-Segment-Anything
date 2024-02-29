@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.02.28: Latest update of this paper list.
+- 2024.02.29: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,23 +147,28 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**VRP-SAM:** Yanpeng Sun, Jiahui Chen, Shan Zhang, Xinyu Zhang, Qiang Chen, Gang Zhang, Errui Ding, Jingdong Wang, Zechao Li.<br />
+:boom:Kanyifeechukwu J. Oguine, Roger D. Soberanis-Mukul, Nathan Drenkow, Mathias Unberath.<br />
+  "From Generalization to Precision: Exploring SAM for Tool Segmentation in Surgical Environments." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.17972)] 
+  [2024.02]
+
+- **VRP-SAM:** Yanpeng Sun, Jiahui Chen, Shan Zhang, Xinyu Zhang, Qiang Chen, Gang Zhang, Errui Ding, Jingdong Wang, Zechao Li.<br />
   "VRP-SAM: SAM with Visual Reference Prompt." CVPR (2024).
   [[paper](https://arxiv.org/abs/2402.17726)] 
   [2024.02]
 
-:boom:**SAM-DiffSR:** Chengcheng Wang, Zhiwei Hao, Yehui Tang, Jianyuan Guo, Yujie Yang, Kai Han, Yunhe Wang.<br />
+- **SAM-DiffSR:** Chengcheng Wang, Zhiwei Hao, Yehui Tang, Jianyuan Guo, Yujie Yang, Kai Han, Yunhe Wang.<br />
   "SAM-DiffSR: Structure-Modulated Diffusion Model for Image Super-Resolution." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.17133)] 
   [[code](https://github.com/lose4578/SAM-DiffSR)]
   [2024.02]
 
-:boom:Jintao Ren, Mathis Rasmussen, Jasper Nijkamp, Jesper Grau Eriksen, Stine Korreman.<br />
+- Jintao Ren, Mathis Rasmussen, Jasper Nijkamp, Jesper Grau Eriksen, Stine Korreman.<br />
   "Segment anything model for head and neck tumor segmentation with CT, PET and MRI multi-modality images." ICCR (2024).
   [[paper](https://arxiv.org/abs/2402.17454)] 
   [2024.02]
 
-:boom:**AdaSEEM:** Jia Wan, Qiangqiang Wu, Wei Lin, Antoni B. Chan.<br />
+- **AdaSEEM:** Jia Wan, Qiangqiang Wu, Wei Lin, Antoni B. Chan.<br />
   "Robust Unsupervised Crowd Counting and Localization with Adaptive Resolution SAM." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.17514)] 
   [2024.02]
