@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.02.29: Latest update of this paper list.
+- 2024.03.01: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,7 +147,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Kanyifeechukwu J. Oguine, Roger D. Soberanis-Mukul, Nathan Drenkow, Mathias Unberath.<br />
+:boom:**RSAM-Seg:** Jie Zhang, Xubing Yang, Rui Jiang, Wei Shao, Li Zhang.<br />
+  "RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.19004)] 
+  [[code](https://chief-byte.github.io/RSAM-Seg-Site)]
+  [2024.02]
+
+:boom:**STLM:** Chenghao Li, Lei Qi, Xin Geng.<br />
+  "A SAM-guided Two-stream Lightweight Model for Anomaly Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.19145)] 
+  [2024.02]
+
+- Kanyifeechukwu J. Oguine, Roger D. Soberanis-Mukul, Nathan Drenkow, Mathias Unberath.<br />
   "From Generalization to Precision: Exploring SAM for Tool Segmentation in Surgical Environments." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.17972)] 
   [2024.02]
