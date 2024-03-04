@@ -147,6 +147,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Toki Tahmid Inan, Mingrui Liu, Amarda Shehu.<br />
+  "Beyond Single-Model Views for Deep Learning: Optimization versus Generalizability of Stochastic Optimization Algorithms." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2403.00574)] 
+  [2024.03]
+
+:boom:**FusionVision:** Safouane El Ghazouali, Youssef Mhirit, Ali Oukhrid, Umberto Michelucci, Hichem Nouira.<br />
+  "FusionVision: A comprehensive approach of 3D object reconstruction and segmentation from RGB-D cameras using YOLO and fast segment anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.00175)] 
+  [[code](https://github.com/safouaneelg/FusionVision/)]
+  [2024.02]
+
 :boom:**GROUNDHOG:** Yichi Zhang, Ziqiao Ma, Xiaofeng Gao, Suhaila Shakiah, Qiaozi Gao, Joyce Chai.<br />
   "GROUNDHOG : Grounding Large Language Models to Holistic Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.16846)] 
