@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.03.01: Latest update of this paper list.
+- 2024.03.04: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,13 +147,52 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**RSAM-Seg:** Jie Zhang, Xubing Yang, Rui Jiang, Wei Shao, Li Zhang.<br />
+:boom:**GROUNDHOG:** Yichi Zhang, Ziqiao Ma, Xiaofeng Gao, Suhaila Shakiah, Qiaozi Gao, Joyce Chai.<br />
+  "GROUNDHOG : Grounding Large Language Models to Holistic Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.16846)] 
+  [[code](https://groundhog-mllm.github.io/)]
+  [2024.02]
+
+:boom:**POC:** Pau de Jorge, Riccardo Volpi, Puneet K. Dokania, Philip H. S. Torr, Gregory Rogez.<br />
+  "Placing Objects in Context via Inpainting for Out-of-distribution Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.16392)] 
+  [[code](https://github.com/naver/poc)]
+  [2024.02]
+
+:boom:**GEA:** Xinqi Liu, Chenming Wu, Xing Liu, Jialun Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang.<br />
+  "GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.16607)] 
+  [[code](https://3d-aigc.github.io/GEA/)]
+  [2024.02]
+
+:boom:**Surgment:** Jingying Wang, Haoran Tang, Taylor Kantor, Tandis Soltani, Vitaliy Popov, Xu Wang.<br />
+  "Surgment: Segmentation-enabled Semantic Search and Creation of Visual Question and Feedback to Support Video-Based Surgery Learning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.17903)] 
+  [2024.02]
+
+:boom:**sViT:** Young Kyung Kim, J. Matías Di Martino, Guillermo Sapiro.<br />
+  "Vision Transformers with Natural Language Semantics." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.17863)] 
+  [2024.02]
+
+:boom:Huang, Wenjun, Anzhu Yu, Qing Xu, Qun Sun, Wenyue Guo, Song Ji, Bowei Wen, and Chunping Qiu.<br />
+  "Sea Ice Extraction via Remote Sensing Imagery: Algorithms, Datasets, Applications and Challenges." Remote Sensing (2024).
+  [[paper](https://www.mdpi.com/2072-4292/16/5/842)] 
+  [2024.02]
+
+:boom:**OpenMEDLab:** Xiaosong Wang, Xiaofan Zhang, Guotai Wang, Junjun He, Zhongyu Li, Wentao Zhu, Yi Guo, Qi Dou, Xiaoxiao Li, Dequan Wang, Liang Hong, Qicheng Lao, Tong Ruan, Yukun Zhou, Yixue Li, Jie Zhao, Kang Li, Xin Sun, Lifeng Zhu, Shaoting Zhang.<br />
+  "OpenMEDLab: An Open-source Platform for Multi-modality Foundation Models in Medicine." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.18028)] 
+  [[code](https://github.com/openmedlab)]
+  [2024.02]
+
+- **RSAM-Seg:** Jie Zhang, Xubing Yang, Rui Jiang, Wei Shao, Li Zhang.<br />
   "RSAM-Seg: A SAM-based Approach with Prior Knowledge Integration for Remote Sensing Image Semantic Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.19004)] 
   [[code](https://chief-byte.github.io/RSAM-Seg-Site)]
   [2024.02]
 
-:boom:**STLM:** Chenghao Li, Lei Qi, Xin Geng.<br />
+- **STLM:** Chenghao Li, Lei Qi, Xin Geng.<br />
   "A SAM-guided Two-stream Lightweight Model for Anomaly Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.19145)] 
   [2024.02]
