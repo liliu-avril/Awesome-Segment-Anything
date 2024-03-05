@@ -147,51 +147,63 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Khatua, A., Bhattacharya, A., Goswami, A.K. et al.<br />
+  "Developing approaches in building classification and extraction with synergy of YOLOV8 and SAM models." 
+Spatial Information Research (2024).
+  [[paper](https://link.springer.com/article/10.1007/s41324-024-00574-0)] 
+  [2024.03]
+
 :boom:Toki Tahmid Inan, Mingrui Liu, Amarda Shehu.<br />
   "Beyond Single-Model Views for Deep Learning: Optimization versus Generalizability of Stochastic Optimization Algorithms." AAAI (2024).
   [[paper](https://arxiv.org/abs/2403.00574)] 
   [2024.03]
 
-:boom:**FusionVision:** Safouane El Ghazouali, Youssef Mhirit, Ali Oukhrid, Umberto Michelucci, Hichem Nouira.<br />
+:boom:**OHTA:** Xiaozheng Zheng, Chao Wen, Zhuo Su, Zeran Xu, Zhaohu Li, Yang Zhao, Zhou Xue.<br />
+  "OHTA: One-shot Hand Avatar via Data-driven Implicit Priors." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2402.18969)] 
+  [[code](https://zxz267.github.io/OHTA)]
+  [2024.02]
+  
+- **FusionVision:** Safouane El Ghazouali, Youssef Mhirit, Ali Oukhrid, Umberto Michelucci, Hichem Nouira.<br />
   "FusionVision: A comprehensive approach of 3D object reconstruction and segmentation from RGB-D cameras using YOLO and fast segment anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.00175)] 
   [[code](https://github.com/safouaneelg/FusionVision/)]
   [2024.02]
 
-:boom:**GROUNDHOG:** Yichi Zhang, Ziqiao Ma, Xiaofeng Gao, Suhaila Shakiah, Qiaozi Gao, Joyce Chai.<br />
+- **GROUNDHOG:** Yichi Zhang, Ziqiao Ma, Xiaofeng Gao, Suhaila Shakiah, Qiaozi Gao, Joyce Chai.<br />
   "GROUNDHOG : Grounding Large Language Models to Holistic Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.16846)] 
   [[code](https://groundhog-mllm.github.io/)]
   [2024.02]
 
-:boom:**POC:** Pau de Jorge, Riccardo Volpi, Puneet K. Dokania, Philip H. S. Torr, Gregory Rogez.<br />
+-**POC:** Pau de Jorge, Riccardo Volpi, Puneet K. Dokania, Philip H. S. Torr, Gregory Rogez.<br />
   "Placing Objects in Context via Inpainting for Out-of-distribution Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.16392)] 
   [[code](https://github.com/naver/poc)]
   [2024.02]
 
-:boom:**GEA:** Xinqi Liu, Chenming Wu, Xing Liu, Jialun Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang.<br />
+- **GEA:** Xinqi Liu, Chenming Wu, Xing Liu, Jialun Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang.<br />
   "GEA: Reconstructing Expressive 3D Gaussian Avatar from Monocular Video." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.16607)] 
   [[code](https://3d-aigc.github.io/GEA/)]
   [2024.02]
 
-:boom:**Surgment:** Jingying Wang, Haoran Tang, Taylor Kantor, Tandis Soltani, Vitaliy Popov, Xu Wang.<br />
+- **Surgment:** Jingying Wang, Haoran Tang, Taylor Kantor, Tandis Soltani, Vitaliy Popov, Xu Wang.<br />
   "Surgment: Segmentation-enabled Semantic Search and Creation of Visual Question and Feedback to Support Video-Based Surgery Learning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.17903)] 
   [2024.02]
 
-:boom:**sViT:** Young Kyung Kim, J. Matías Di Martino, Guillermo Sapiro.<br />
+- **sViT:** Young Kyung Kim, J. Matías Di Martino, Guillermo Sapiro.<br />
   "Vision Transformers with Natural Language Semantics." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.17863)] 
   [2024.02]
 
-:boom:Huang, Wenjun, Anzhu Yu, Qing Xu, Qun Sun, Wenyue Guo, Song Ji, Bowei Wen, and Chunping Qiu.<br />
+- Huang, Wenjun, Anzhu Yu, Qing Xu, Qun Sun, Wenyue Guo, Song Ji, Bowei Wen, and Chunping Qiu.<br />
   "Sea Ice Extraction via Remote Sensing Imagery: Algorithms, Datasets, Applications and Challenges." Remote Sensing (2024).
   [[paper](https://www.mdpi.com/2072-4292/16/5/842)] 
   [2024.02]
 
-:boom:**OpenMEDLab:** Xiaosong Wang, Xiaofan Zhang, Guotai Wang, Junjun He, Zhongyu Li, Wentao Zhu, Yi Guo, Qi Dou, Xiaoxiao Li, Dequan Wang, Liang Hong, Qicheng Lao, Tong Ruan, Yukun Zhou, Yixue Li, Jie Zhao, Kang Li, Xin Sun, Lifeng Zhu, Shaoting Zhang.<br />
+- **OpenMEDLab:** Xiaosong Wang, Xiaofan Zhang, Guotai Wang, Junjun He, Zhongyu Li, Wentao Zhu, Yi Guo, Qi Dou, Xiaoxiao Li, Dequan Wang, Liang Hong, Qicheng Lao, Tong Ruan, Yukun Zhou, Yixue Li, Jie Zhao, Kang Li, Xin Sun, Lifeng Zhu, Shaoting Zhang.<br />
   "OpenMEDLab: An Open-source Platform for Multi-modality Foundation Models in Medicine." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.18028)] 
   [[code](https://github.com/openmedlab)]
