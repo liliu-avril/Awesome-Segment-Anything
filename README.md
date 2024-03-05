@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.03.04: Latest update of this paper list.
+- 2024.03.05: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -1160,7 +1160,7 @@ If you find our work useful in your research, please consider citing:
   [2023.12]
 
 - **Alpha-CLIP:** Zeyi Sun, Ye Fang, Tong Wu, Pan Zhang, Yuhang Zang, Shu Kong, Yuanjun Xiong, Dahua Lin, Jiaqi Wang.<br />
-  "Alpha-CLIP: A CLIP Model Focusing on Wherever You Want." ArXiv (2023).
+  "Alpha-CLIP: A CLIP Model Focusing on Wherever You Want." CVPR (2024).
   [[paper](https://arxiv.org/abs/2312.03818)] 
   [[homepage](https://aleafy.github.io/alpha-clip)]
   [[code](https://github.com/SunzeY/AlphaCLIP)]
@@ -1184,7 +1184,7 @@ If you find our work useful in your research, please consider citing:
   [2023.12]
 
 - **Rein:** Zhixiang Wei, Lin Chen, Yi Jin, Xiaoxiao Ma, Tianle Liu, Pengyang Lin, Ben Wang, Huaian Chen, Jinjin Zheng.<br />
-  "Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation." ArXiv (2023).
+  "Stronger, Fewer, & Superior: Harnessing Vision Foundation Models for Domain Generalized Semantic Segmentation." CVPR (2024).
   [[paper](https://arxiv.org/abs/2312.04265)] 
   [[code](https://github.com/w1oves/Rein.git)]
   [2023.12]
@@ -1895,7 +1895,7 @@ If you find our work useful in your research, please consider citing:
   [2023.11]
 
 - **PseCo:** Huang Zhizhong, Dai Mingliang, Zhang Yi, Zhang Junping, Shan Hongming.<br />
-  "Point, Segment and Count: A Generalized Framework for Object Counting." ArXiv (2023).
+  "Point, Segment and Count: A Generalized Framework for Object Counting." CVPR (2024).
   [[paper](https://arxiv.org/abs/2311.12386)] 
   [[code](https://github.com/Hzzone/PseCo)]
   [2023.11]
