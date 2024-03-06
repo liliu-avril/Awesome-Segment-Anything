@@ -147,6 +147,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**CCC:** Mrityunjoy Gain, Avi Deb Raha, Rameswar Debnath.<br />
+  "CCC: Color Classified Colorization." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.01476)] 
+  [2024.03]
+
 :boom:**CAC:** Yuhao Lin, Haiming Xu, Lingqiao Liu, Javen Qinfeng Shi.<br />
   "A Simple-but-effective Baseline for Training-free Class-Agnostic Counting." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.01418)] 
