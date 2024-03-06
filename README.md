@@ -147,6 +147,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Kevin Shen, Surabhi S Nath, Aenne Brielmann, Peter Dayan.<br />
+  "Simplicity in Complexity." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.03134)] 
+  [2024.03]
+
 :boom:**CCC:** Mrityunjoy Gain, Avi Deb Raha, Rameswar Debnath.<br />
   "CCC: Color Classified Colorization." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.01476)] 
