@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.03.05: Latest update of this paper list.
+- 2024.03.06: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,18 +147,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Khatua, A., Bhattacharya, A., Goswami, A.K. et al.<br />
+:boom:**CAC:** Yuhao Lin, Haiming Xu, Lingqiao Liu, Javen Qinfeng Shi.<br />
+  "A Simple-but-effective Baseline for Training-free Class-Agnostic Counting." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.01418)] 
+  [2024.03]
+
+- Khatua, A., Bhattacharya, A., Goswami, A.K. et al.<br />
   "Developing approaches in building classification and extraction with synergy of YOLOV8 and SAM models." 
 Spatial Information Research (2024).
   [[paper](https://link.springer.com/article/10.1007/s41324-024-00574-0)] 
   [2024.03]
 
-:boom:Toki Tahmid Inan, Mingrui Liu, Amarda Shehu.<br />
+- Toki Tahmid Inan, Mingrui Liu, Amarda Shehu.<br />
   "Beyond Single-Model Views for Deep Learning: Optimization versus Generalizability of Stochastic Optimization Algorithms." AAAI (2024).
   [[paper](https://arxiv.org/abs/2403.00574)] 
   [2024.03]
 
-:boom:**OHTA:** Xiaozheng Zheng, Chao Wen, Zhuo Su, Zeran Xu, Zhaohu Li, Yang Zhao, Zhou Xue.<br />
+- **OHTA:** Xiaozheng Zheng, Chao Wen, Zhuo Su, Zeran Xu, Zhaohu Li, Yang Zhao, Zhou Xue.<br />
   "OHTA: One-shot Hand Avatar via Data-driven Implicit Priors." CVPR (2024).
   [[paper](https://arxiv.org/abs/2402.18969)] 
   [[code](https://zxz267.github.io/OHTA)]
