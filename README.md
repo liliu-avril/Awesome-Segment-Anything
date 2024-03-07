@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.03.06: Latest update of this paper list.
+- 2024.03.07: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,17 +147,22 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Kevin Shen, Surabhi S Nath, Aenne Brielmann, Peter Dayan.<br />
+:boom:**Popeye:** Wei Zhang, Miaoxin Cai, Tong Zhang, Guoqiang Lei, Yin Zhuang, Xuerui Mao.<br />
+  "Popeye: A Unified Visual-Language Model for Multi-Source Ship Detection from Remote Sensing Imagery." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.03790)] 
+  [2024.03]
+
+- Kevin Shen, Surabhi S Nath, Aenne Brielmann, Peter Dayan.<br />
   "Simplicity in Complexity." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.03134)] 
   [2024.03]
 
-:boom:**CCC:** Mrityunjoy Gain, Avi Deb Raha, Rameswar Debnath.<br />
+- **CCC:** Mrityunjoy Gain, Avi Deb Raha, Rameswar Debnath.<br />
   "CCC: Color Classified Colorization." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.01476)] 
   [2024.03]
 
-:boom:**CAC:** Yuhao Lin, Haiming Xu, Lingqiao Liu, Javen Qinfeng Shi.<br />
+- **CAC:** Yuhao Lin, Haiming Xu, Lingqiao Liu, Javen Qinfeng Shi.<br />
   "A Simple-but-effective Baseline for Training-free Class-Agnostic Counting." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.01418)] 
   [2024.03]
