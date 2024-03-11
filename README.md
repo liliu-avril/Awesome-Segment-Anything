@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.03.08: Latest update of this paper list.
+- 2024.03.11: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,18 +147,39 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAM-PD:** Tao Zhou, Wenhan Luo, Qi Ye, Zhiguo Shi, Jiming Chen.<br />
+:boom:**APPLE:** Zikang Xu, Fenghe Tang, Quan Quan, Qingsong Yao, S. Kevin Zhou.<br />
+  "APPLE: Adversarial Privacy-aware Perturbations on Latent Embedding for Unfairness Mitigation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05114)] 
+  [2024.03]
+
+:boom:**FedFMS:** Yuxi Liu, Guibo Luo, Yuesheng Zhu.<br />
+  "FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05408)] 
+  [[code](https://github.com/LIU-YUXI/FedFMS)]
+  [2024.03]
+
+:boom:**OmniCount:** Anindya Mondal, Sauradip Nag, Xiatian Zhu, Anjan Dutta.<br />
+  "OmniCount: Multi-label Object Counting with Semantic-Geometric Priors." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05435)] 
+  [2024.03]
+
+:boom:**P^2SAM:** Chenhui Zhao, Liyue Shen.<br />
+  "Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05433)] 
+  [2024.03]
+
+- **SAM-PD:** Tao Zhou, Wenhan Luo, Qi Ye, Zhiguo Shi, Jiming Chen.<br />
   "SAM-PD: How Far Can SAM Take Us in Tracking and Segmenting Anything in Videos by Prompt Denoising." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.04194)] 
   [[code](https://github.com/infZhou/SAM-PD)]
   [2024.03]
 
-:boom:**SA-ICM:** Takahiro Shindo, Kein Yamada, Taiju Watanabe, Hiroshi Watanabe.<br />
+- **SA-ICM:** Takahiro Shindo, Kein Yamada, Taiju Watanabe, Hiroshi Watanabe.<br />
   "Image Coding for Machines with Edge Information Learning Using Segment Anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.04173)] 
   [2024.03]
 
-:boom:**ProMISe:** Jinfeng Wang, Sifan Song, Xinkun Wang, Yiyi Wang, Yiyi Miao, Jionglong Su, S. Kevin Zhou.<br />
+- **ProMISe:** Jinfeng Wang, Sifan Song, Xinkun Wang, Yiyi Wang, Yiyi Miao, Jionglong Su, S. Kevin Zhou.<br />
   "ProMISe: Promptable Medical Image Segmentation using SAM." ArXiv (2024).
   [[paper](https://arxiv.org/pdf/2403.04164.pdf)] 
   [2024.03]
