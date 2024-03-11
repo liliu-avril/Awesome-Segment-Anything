@@ -887,7 +887,7 @@ Spatial Information Research (2024).
   [2024.01]
 
 - **BA-SAM:** Yiran Song, Qianyu Zhou, Xiangtai Li, Deng-Ping Fan, Xuequan Lu, Lizhuang Ma.<br />
-  "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model." ArXiv (2024).
+  "BA-SAM: Scalable Bias-Mode Attention Mask for Segment Anything Model." CVPR (2024).
   [[paper](https://arxiv.org/abs/2401.02317)] 
   [2024.01]
 
@@ -1844,7 +1844,7 @@ Spatial Information Research (2024).
   [2023.11]
 
 - **SAM-6D:** Jiehong Lin, Lihua Liu, Dekun Lu, Kui Jia.<br />
-  "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation." ArXiv (2023).
+  "SAM-6D: Segment Anything Model Meets Zero-Shot 6D Object Pose Estimation." CVPR (2024).
   [[paper](https://arxiv.org/abs/2311.15707)] 
   [[code](https://github.com/JiehongLin/SAM-6D)]
   [2023.11]
