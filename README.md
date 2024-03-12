@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.03.11: Latest update of this paper list.
+- 2024.03.12: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,23 +147,38 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**APPLE:** Zikang Xu, Fenghe Tang, Quan Quan, Qingsong Yao, S. Kevin Zhou.<br />
+:boom:**PointSeg:** Qingdong He, Jinlong Peng, Zhengkai Jiang, Xiaobin Hu, Jiangning Zhang, Qiang Nie, Yabiao Wang, Chengjie Wang.<br />
+  "PointSeg: A Training-Free Paradigm for 3D Scene Segmentation via Foundation Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.06403)] 
+  [2024.03]
+
+:boom:**MEA:** Hairong Shi, Songhao Han, Shaofei Huang, Yue Liao, Guanbin Li, Xiangxing Kong, Hua Zhu, Xiaomu Wang, Si Liu.<br />
+  "Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05912)] 
+  [2024.03]
+
+:boom:**GAM-3DSC:** Feibo Jiang, Yubo Peng, Li Dong, Kezhi Wang, Kun Yang, Cunhua Pan, Xiaohu You.<br />
+  "Large Generative Model Assisted 3D Semantic Communication." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05783)] 
+  [2024.03]
+
+- **APPLE:** Zikang Xu, Fenghe Tang, Quan Quan, Qingsong Yao, S. Kevin Zhou.<br />
   "APPLE: Adversarial Privacy-aware Perturbations on Latent Embedding for Unfairness Mitigation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.05114)] 
   [2024.03]
 
-:boom:**FedFMS:** Yuxi Liu, Guibo Luo, Yuesheng Zhu.<br />
+- **FedFMS:** Yuxi Liu, Guibo Luo, Yuesheng Zhu.<br />
   "FedFMS: Exploring Federated Foundation Models for Medical Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.05408)] 
   [[code](https://github.com/LIU-YUXI/FedFMS)]
   [2024.03]
 
-:boom:**OmniCount:** Anindya Mondal, Sauradip Nag, Xiatian Zhu, Anjan Dutta.<br />
+- **OmniCount:** Anindya Mondal, Sauradip Nag, Xiatian Zhu, Anjan Dutta.<br />
   "OmniCount: Multi-label Object Counting with Semantic-Geometric Priors." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.05435)] 
   [2024.03]
 
-:boom:**P^2SAM:** Chenhui Zhao, Liyue Shen.<br />
+- **P^2SAM:** Chenhui Zhao, Liyue Shen.<br />
   "Part-aware Personalized Segment Anything Model for Patient-Specific Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.05433)] 
   [2024.03]
