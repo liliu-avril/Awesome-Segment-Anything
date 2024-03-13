@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.03.12: Latest update of this paper list.
+- 2024.03.13: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,17 +147,63 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**PointSeg:** Qingdong He, Jinlong Peng, Zhengkai Jiang, Xiaobin Hu, Jiangning Zhang, Qiang Nie, Yabiao Wang, Chengjie Wang.<br />
+:boom:**ReimaginedAct:** Lan Wang, Vishnu Boddeti, Sernam Lim.<br />
+  "Action Reimagined: Text-to-Pose Video Editing for Dynamic Human Actions." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.07198)] 
+  [2024.03]
+
+:boom:**GEOBIA:** He, Tao and Chen, Jianyu and Kang, Linchong and Zhu, Qiankun.<br />
+  "Evaluation of Global-Scale and Local-Scale Optimized Segmentation Algorithms in GEOBIA with SAM on Land Use and Land Cover." JSTARS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10460074)] 
+  [2024.03]
+
+:boom:**ObjectCompose:** Hashmat Shadab Malik, Muhammad Huzaifa, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan.<br />
+  "ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.04701)] 
+  [2024.03]
+
+:boom:Yao Jiang, Xinyu Yan, Ge-Peng Ji, Keren Fu, Meijun Sun, Huan Xiong, Deng-Ping Fan, Fahad Shahbaz Khan.<br />
+  "Effectiveness Assessment of Recent Large Vision-Language Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.04306)] 
+  [2024.03]
+
+:boom:Giannakis, I., Bhardwaj, A., Sam, L., and Leontidis, G..<br />
+  "Segment Anything Model (SAM) for Automatic Crater Detection." EGU General Assembly (2024).
+  [[paper](https://meetingorganizer.copernicus.org/EGU24/EGU24-21146.html)] 
+  [2024.03]
+
+:boom:Bocchino, F., Sergi, G., Ravanelli, R., and Crespi, M..<br />
+  "Preliminary analysis of the potentialities of the Segment Anything Model (SAM) in the segmentation of Sentinel-2 imagery for water reservoir monitoring." EGU General Assembly (2024).
+  [[paper](https://meetingorganizer.copernicus.org/EGU24/EGU24-11145.html)] 
+  [2024.03]
+
+:boom:Ruiqing Yan , et al.<br />
+  "Weakly-semi supervised extraction of rooftop photovoltaics from high-resolution images based on segment anything model and class activation map." Applied Energy (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0306261924003477)] 
+  [2024.03]
+
+:boom:**CSFwinformer:** Xie, Zhifeng and Wang, Sen and Yu, Qiucheng and Tan, Xin and Xie, Yuan.<br />
+  "CSFwinformer: Cross-Space-Frequency Window Transformer for Mirror Detection." TIP (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10462920)] 
+  [[code](https://github.com/wangsen99/CSFwinformer)]
+  [2024.03]
+
+:boom: Xiaoyuan Liu,  et al.<br />
+  "Stereo Vision Meta-Lens-Assisted Driving Vision." ACS Photonics (2024).
+  [[paper](https://pubs.acs.org/doi/full/10.1021/acsphotonics.3c01594)] 
+  [2024.03]
+
+- **PointSeg:** Qingdong He, Jinlong Peng, Zhengkai Jiang, Xiaobin Hu, Jiangning Zhang, Qiang Nie, Yabiao Wang, Chengjie Wang.<br />
   "PointSeg: A Training-Free Paradigm for 3D Scene Segmentation via Foundation Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.06403)] 
   [2024.03]
 
-:boom:**MEA:** Hairong Shi, Songhao Han, Shaofei Huang, Yue Liao, Guanbin Li, Xiangxing Kong, Hua Zhu, Xiaomu Wang, Si Liu.<br />
+- **MEA:** Hairong Shi, Songhao Han, Shaofei Huang, Yue Liao, Guanbin Li, Xiangxing Kong, Hua Zhu, Xiaomu Wang, Si Liu.<br />
   "Mask-Enhanced Segment Anything Model for Tumor Lesion Semantic Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.05912)] 
   [2024.03]
 
-:boom:**GAM-3DSC:** Feibo Jiang, Yubo Peng, Li Dong, Kezhi Wang, Kun Yang, Cunhua Pan, Xiaohu You.<br />
+- **GAM-3DSC:** Feibo Jiang, Yubo Peng, Li Dong, Kezhi Wang, Kun Yang, Cunhua Pan, Xiaohu You.<br />
   "Large Generative Model Assisted 3D Semantic Communication." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.05783)] 
   [2024.03]
