@@ -16,7 +16,7 @@ ____
 
 ## News
 ```
-- 2024.03.13: Latest update of this paper list.
+- 2024.03.14: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -147,48 +147,64 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**ReimaginedAct:** Lan Wang, Vishnu Boddeti, Sernam Lim.<br />
+:boom:**SAMDA:** Yiran Wang, Li Xiao.<br />
+  "SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.07951)] 
+  [2024.03]
+
+:boom:Zijian Wu, Adam Schmidt, Peter Kazanzides, Septimiu E. Salcudean.<br />
+  "Real-time Surgical Instrument Segmentation in Video Using Point Tracking and Segment Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.08003)] 
+  [2024.03]
+
+:boom:**FluoroSAM:** Benjamin D. Killeen, Liam J. Wang, Han Zhang, Mehran Armand, Russell H. Taylor, Greg Osgood, Mathias Unberath.<br />
+  "FluoroSAM: A Language-aligned Foundation Model for X-ray Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.08059)] 
+  [[code](https://github.com/arcadelab/fluorosam)]
+  [2024.03]
+
+- **ReimaginedAct:** Lan Wang, Vishnu Boddeti, Sernam Lim.<br />
   "Action Reimagined: Text-to-Pose Video Editing for Dynamic Human Actions." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.07198)] 
   [2024.03]
 
-:boom:**GEOBIA:** He, Tao and Chen, Jianyu and Kang, Linchong and Zhu, Qiankun.<br />
+- **GEOBIA:** He, Tao and Chen, Jianyu and Kang, Linchong and Zhu, Qiankun.<br />
   "Evaluation of Global-Scale and Local-Scale Optimized Segmentation Algorithms in GEOBIA with SAM on Land Use and Land Cover." JSTARS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10460074)] 
   [2024.03]
 
-:boom:**ObjectCompose:** Hashmat Shadab Malik, Muhammad Huzaifa, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan.<br />
+- **ObjectCompose:** Hashmat Shadab Malik, Muhammad Huzaifa, Muzammal Naseer, Salman Khan, Fahad Shahbaz Khan.<br />
   "ObjectCompose: Evaluating Resilience of Vision-Based Models on Object-to-Background Compositional Changes." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.04701)] 
   [2024.03]
 
-:boom:Yao Jiang, Xinyu Yan, Ge-Peng Ji, Keren Fu, Meijun Sun, Huan Xiong, Deng-Ping Fan, Fahad Shahbaz Khan.<br />
+- Yao Jiang, Xinyu Yan, Ge-Peng Ji, Keren Fu, Meijun Sun, Huan Xiong, Deng-Ping Fan, Fahad Shahbaz Khan.<br />
   "Effectiveness Assessment of Recent Large Vision-Language Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.04306)] 
   [2024.03]
 
-:boom:Giannakis, I., Bhardwaj, A., Sam, L., and Leontidis, G..<br />
+- Giannakis, I., Bhardwaj, A., Sam, L., and Leontidis, G..<br />
   "Segment Anything Model (SAM) for Automatic Crater Detection." EGU General Assembly (2024).
   [[paper](https://meetingorganizer.copernicus.org/EGU24/EGU24-21146.html)] 
   [2024.03]
 
-:boom:Bocchino, F., Sergi, G., Ravanelli, R., and Crespi, M..<br />
+- Bocchino, F., Sergi, G., Ravanelli, R., and Crespi, M..<br />
   "Preliminary analysis of the potentialities of the Segment Anything Model (SAM) in the segmentation of Sentinel-2 imagery for water reservoir monitoring." EGU General Assembly (2024).
   [[paper](https://meetingorganizer.copernicus.org/EGU24/EGU24-11145.html)] 
   [2024.03]
 
-:boom:Ruiqing Yan , et al.<br />
+- Ruiqing Yan , et al.<br />
   "Weakly-semi supervised extraction of rooftop photovoltaics from high-resolution images based on segment anything model and class activation map." Applied Energy (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S0306261924003477)] 
   [2024.03]
 
-:boom:**CSFwinformer:** Xie, Zhifeng and Wang, Sen and Yu, Qiucheng and Tan, Xin and Xie, Yuan.<br />
+- **CSFwinformer:** Xie, Zhifeng and Wang, Sen and Yu, Qiucheng and Tan, Xin and Xie, Yuan.<br />
   "CSFwinformer: Cross-Space-Frequency Window Transformer for Mirror Detection." TIP (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10462920)] 
   [[code](https://github.com/wangsen99/CSFwinformer)]
   [2024.03]
 
-:boom: Xiaoyuan Liu,  et al.<br />
+- Xiaoyuan Liu,  et al.<br />
   "Stereo Vision Meta-Lens-Assisted Driving Vision." ACS Photonics (2024).
   [[paper](https://pubs.acs.org/doi/full/10.1021/acsphotonics.3c01594)] 
   [2024.03]
