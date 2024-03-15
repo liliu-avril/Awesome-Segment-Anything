@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.03.14: Latest update of this paper list.
+- 2024.03.15: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,17 +148,56 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAMDA:** Yiran Wang, Li Xiao.<br />
+:boom:Soroush Seifi, Daniel Olmeda Reino, Fabien Despinoy, Rahaf Aljundi.<br />
+  "Annotation Free Semantic Segmentation with Vision Foundation Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.09307)] 
+  [2024.03]
+
+:boom:**SLCF-Net:** Helin Cao, Sven Behnke.<br />
+  "SLCF-Net: Sequential LiDAR-Camera Fusion for Semantic Scene Completion using a 3D Recurrent U-Net." ICRA (2024).
+  [[paper](https://arxiv.org/abs/2403.08885)] 
+  [2024.03]
+
+:boom:**SAM-Lightening:** Yanfei Songa, Bangzheng Pua, Peng Wanga, Hongxu Jiang, Dong Donga, Yiqing Shen.<br />
+  "SAM-Lightening: A Lightweight Segment Anything Model with Dilated Flash Attention to Achieve 30 times Acceleration." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.09195)] 
+  [[code](https://anonymous.4open.science/r/SAM-LIGHTENING-BC25/)]
+  [2024.03]
+
+:boom:**DF4LCZ:** Qianqian Wu, Xianping Ma, Jialu Sui, and Man-On Pun.<br />
+  "DF4LCZ: A SAM-Empowered Data Fusion Framework for Scene-Level Local Climate Zone Classification." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.09367)] 
+  [[code](https://github.com/ctrlovefly/DF4LCZ)]
+  [2024.03]
+
+:boom:**PosSAM:** Vibashan VS, Shubhankar Borse, Hyojin Park, Debasmit Das, Vishal Patel, Munawar Hayat, Fatih Porikli.<br />
+  "PosSAM: Panoptic Open-vocabulary Segment Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.09620)] 
+  [[code](https://vibashan.github.io/possam-web/)]
+  [2024.03]
+
+:boom:**PLM+PMM:** Hyung-Il Kim, Kimin Yun, Jun-Seok Yun, Yuseok Bae.<br />
+  "Customizing Segmentation Foundation Model via Prompt Learning for Instance Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.09199)] 
+  [2024.03]
+
+:boom:**WSI-SAM:** Hong Liu, Haosen Yang, Paul J. van Diest, Josien P.W. Pluim, Mitko Veta.<br />
+  "WSI-SAM: Multi-resolution Segment Anything Model (SAM) for histopathology whole-slide images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.09257)] 
+  [[code](https://github.com/HongLiuuuuu/WSI-SAM)]
+  [2024.03]
+
+- **SAMDA:** Yiran Wang, Li Xiao.<br />
   "SAMDA: Leveraging SAM on Few-Shot Domain Adaptation for Electronic Microscopy Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.07951)] 
   [2024.03]
 
-:boom:Zijian Wu, Adam Schmidt, Peter Kazanzides, Septimiu E. Salcudean.<br />
+- Zijian Wu, Adam Schmidt, Peter Kazanzides, Septimiu E. Salcudean.<br />
   "Real-time Surgical Instrument Segmentation in Video Using Point Tracking and Segment Anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.08003)] 
   [2024.03]
 
-:boom:**FluoroSAM:** Benjamin D. Killeen, Liam J. Wang, Han Zhang, Mehran Armand, Russell H. Taylor, Greg Osgood, Mathias Unberath.<br />
+- Zijian Wu, Adam Schmidt, Peter Kazanzides, Septimiu E. Salcudean.<br />**FluoroSAM:** Benjamin D. Killeen, Liam J. Wang, Han Zhang, Mehran Armand, Russell H. Taylor, Greg Osgood, Mathias Unberath.<br />
   "FluoroSAM: A Language-aligned Foundation Model for X-ray Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.08059)] 
   [[code](https://github.com/arcadelab/fluorosam)]
