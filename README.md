@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.03.17: Latest update of this paper list.
+- 2024.03.18: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,118 +148,155 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**DiffuMatting:** Xiaobin Hu, Xu Peng, Donghao Luo, Xiaozhong Ji, Jinlong Peng, Zhengkai Jiang, Jiangning Zhang, Taisong Jin, Chengjie Wang, Rongrong Ji.<br />
+:boom:**FastSAM3D:** Yiqing Shen, Jingxing Li, Xinyuan Shao, Blanca Inigo Romillo, Ankush Jindal, David Dreizin, Mathias Unberath.<br />
+  "FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.09827)] 
+  [[code](https://github.com/arcadelab/FastSAM3D)]
+  [2024.03]
+
+:boom:**CMR2D+T-SAM:** Zhennong Chen, Sekeun Kim, Hui Ren, Quanzheng Li, Xiang Li.<br />
+  "Cardiac Magnetic Resonance 2D+T Short- and Long-axis Segmentation via Spatio-temporal SAM Adaptation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.10009)] 
+  [2024.03]
+
+:boom:**Group-Mix SAM:** Wu Liang, X.-G. Ma.<br />
+  "Group-Mix SAM: Lightweight Solution for Industrial Assembly Line Applications." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.10053)] 
+  [2024.03]
+
+:boom:**TransLandSeg:** Changhong Hou, Junchuan Yu, Daqing Ge, Liu Yang, Laidian Xi, Yunxuan Pang, Yi Wen.<br />
+  "TransLandSeg: A Transfer Learning Approach for Landslide Semantic Segmentation Based on Vision Foundation Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.10127)] 
+  [2024.03]
+
+:boom:**Grasp Anything:** Malte Mosbach, Sven Behnke.<br />
+  "Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.10187)] 
+  [[code](https://maltemosbach.github.io/grasp_anything)]
+  [2024.03]
+
+:boom:**RDC:** Meixuan Li, Tianyu Li, Guoqing Wang, Peng Wang, Yang Yang, Heng Tao Shen.<br />
+  "Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.10252)] 
+  [2024.03]
+
+:boom:**VISE:** Tian Meng, Yang Tao, Ruilin Lyu, Wuliang Yin.<br />
+  "Few-Shot Image Classification and Segmentation as Visual Question Answering Using Vision-Language Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.10287)] 
+  [2024.03]
+
+- **DiffuMatting:** Xiaobin Hu, Xu Peng, Donghao Luo, Xiaozhong Ji, Jinlong Peng, Zhengkai Jiang, Jiangning Zhang, Taisong Jin, Chengjie Wang, Rongrong Ji.<br />
   "DiffuMatting: Synthesizing Arbitrary Objects with Matting-level Annotation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.06168)] 
   [2024.03]
 
-:boom:**ClickVOS:** Pinxue Guo, Lingyi Hong, Xinyu Zhou, Shuyong Gao, Wanyun Li, Jinglun Li, Zhaoyu Chen, Xiaoqiang Li, Wei Zhang, Wenqiang Zhang.<br />
+- **ClickVOS:** Pinxue Guo, Lingyi Hong, Xinyu Zhou, Shuyong Gao, Wanyun Li, Jinglun Li, Zhaoyu Chen, Xiaoqiang Li, Wei Zhang, Wenqiang Zhang.<br />
   "ClickVOS: Click Video Object Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.06130)] 
   [[code](https://github.com/PinxueGuo/ClickVOS)]
   [2024.03]
 
-:boom:Kong, L.; Huang, M.; Zhang, L.; Chan, L.W.C.<br />
+- Kong, L.; Huang, M.; Zhang, L.; Chan, L.W.C.<br />
   "Enhancing Diagnostic Images to Improve the Performance of the Segment Anything Model in Medical Image Segmentation." Bioengineering (2024).
   [[paper](https://www.mdpi.com/2306-5354/11/3/270)] 
   [2024.03]
 
-:boom:**FSViewFusion:** Rukhshanda Hussain, Hui Xian Grace Lim, Borchun Chen, Mubarak Shah, Ser Nam Lim.<br />
+- **FSViewFusion:** Rukhshanda Hussain, Hui Xian Grace Lim, Borchun Chen, Mubarak Shah, Ser Nam Lim.<br />
   "FSViewFusion: Few-Shots View Generation of Novel Objects." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.06394)] 
   [2024.03]
 
-:boom:**V-PRISM:** Herbert Wright, Weiming Zhi, Matthew Johnson-Roberson, Tucker Hermans.<br />
+- **V-PRISM:** Herbert Wright, Weiming Zhi, Matthew Johnson-Roberson, Tucker Hermans.<br />
   "V-PRISM: Probabilistic Mapping of Unknown Tabletop Scenes." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.08106)] 
   [[code](https://github.com/Herb-Wright/v-prism)]
   [2024.03]
 
-:boom:**CCSpO2Net:** Sun, Xiantao and Wen, Tao and Chen, Weihai and Huang, Bin.<br />
+- **CCSpO2Net:** Sun, Xiantao and Wen, Tao and Chen, Weihai and Huang, Bin.<br />
   "CCSpO2Net: Camera-Based Contactless Oxygen Saturation Measurement Foundation Model in Clinical Settings." TIM (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10464344)] 
   [2024.03]
 
-:boom:**Unveiling the Truth:** Cartella, Giuseppe and Cuculo, Vittorio and Cornia, Marcella and Cucchiara, Rita.<br />
+- **Unveiling the Truth:** Cartella, Giuseppe and Cuculo, Vittorio and Cornia, Marcella and Cucchiara, Rita.<br />
   "Unveiling the Truth: Exploring Human Gaze Patterns in Fake Images." APL (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10465604)] 
   [[code](https://github.com/aimagelab/unveiling-the-truth)]
   [2024.03]
 
-:boom:**V-PRISM:** Herbert Wright, Weiming Zhi, Matthew Johnson-Roberson, Tucker Hermans.<br />
+- **V-PRISM:** Herbert Wright, Weiming Zhi, Matthew Johnson-Roberson, Tucker Hermans.<br />
   "V-PRISM: Probabilistic Mapping of Unknown Tabletop Scenes." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.08106)] 
   [[code](https://github.com/Herb-Wright/v-prism)]
   [2024.03]
 
-:boom:Stefan Denner, David Zimmerer, Dimitrios Bounias, Markus Bujotzek, Shuhan Xiao, Lisa Kausch, Philipp Schader, Tobias Penzkofer, Paul F. Jäger, Klaus Maier-Hein.<br />
+- Stefan Denner, David Zimmerer, Dimitrios Bounias, Markus Bujotzek, Shuhan Xiao, Lisa Kausch, Philipp Schader, Tobias Penzkofer, Paul F. Jäger, Klaus Maier-Hein.<br />
   "Leveraging Foundation Models for Content-Based Medical Image Retrieval in Radiology." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.06567)] 
   [2024.03]
 
-:boom:Chaoyi Wang, Yaozhe Song, Yafeng Zhang, Jun Pei, Lijie Xia, Jianpo Liu.<br />
+- Chaoyi Wang, Yaozhe Song, Yafeng Zhang, Jun Pei, Lijie Xia, Jianpo Liu.<br />
   "Video Generation with Consistency Tuning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.06356)] 
   [2024.03]
 
-:boom:**Sam-Rsp:** Jiaguang Li, et al.<br />
+- **Sam-Rsp:** Jiaguang Li, et al.<br />
   "Sam-Rsp: A New Few-Shot Segmentation Method Based on Segment Anything Model and Rough Segmentation Prompts." SSRN (2024).
   [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4756692)] 
   [[code](https://github.com/Jiaguang-NEU/SAM-RSP)]
   [2024.03]
 
-:boom:**Lumen:** Yang Jiao, Shaoxiang Chen, Zequn Jie, Jingjing Chen, Lin Ma, Yu-Gang Jiang.<br />
+- **Lumen:** Yang Jiao, Shaoxiang Chen, Zequn Jie, Jingjing Chen, Lin Ma, Yu-Gang Jiang.<br />
   "Lumen: Unleashing Versatile Vision-Centric Capabilities of Large Multimodal Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.07304)] 
   [[code](https://github.com/SxJyJay/Lumen)]
   [2024.03]
 
-:boom:**RSBuilding:** Mingze Wang, Keyan Chen, Lili Su, Cilin Yan, Sheng Xu, Haotian Zhang, Pengcheng Yuan, Xiaolong Jiang, Baochang Zhang.<br />
+- **RSBuilding:** Mingze Wang, Keyan Chen, Lili Su, Cilin Yan, Sheng Xu, Haotian Zhang, Pengcheng Yuan, Xiaolong Jiang, Baochang Zhang.<br />
   "RSBuilding: Towards General Remote Sensing Image Building Extraction and Change Detection with Foundation Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.07564)] 
   [[code](https://github.com/Meize0729/RSBuilding)]
   [2024.03]
 
-:boom:**DragAnything:** Weijia Wu, Zhuang Li, Yuchao Gu, Rui Zhao, Yefei He, David Junhao Zhang, Mike Zheng Shou, Yan Li, Tingting Gao, Di Zhang.<br />
+- **DragAnything:** Weijia Wu, Zhuang Li, Yuchao Gu, Rui Zhao, Yefei He, David Junhao Zhang, Mike Zheng Shou, Yan Li, Tingting Gao, Di Zhang.<br />
   "DragAnything: Motion Control for Anything using Entity Representation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.07420)] 
   [[code](https://github.com/showlab/DragAnything)]
   [[homepage](https://weijiawu.github.io/draganything_page/)]
   [2024.03]
 
-:boom:**ARtVista:** Trong-Vu Hoang, Quang-Binh Nguyen, Duy-Nam Ly, Khanh-Duy Le, Tam V. Nguyen, Minh-Triet Tran, Trung-Nghia Le.<br />
+- **ARtVista:** Trong-Vu Hoang, Quang-Binh Nguyen, Duy-Nam Ly, Khanh-Duy Le, Tam V. Nguyen, Minh-Triet Tran, Trung-Nghia Le.<br />
   "ARtVista: Gateway To Empower Anyone Into Artist." CHI (2024).
   [[paper](https://arxiv.org/abs/2403.08876)] 
   [[code](https://github.com/htrvu/ARtVista)]
   [2024.03]
 
-:boom:**ChemSAM:** Bowen Tang, et al.<br />
+- **ChemSAM:** Bowen Tang, et al.<br />
   "Automated molecular structure segmentation from documents using ChemSAM." ArXiv (2024).
   [[paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-024-00823-2)] 
   [2024.03]
 
-:boom:**DAL:** Zhang, Fayong and Liu, Kejun and Liu, Yuanyuan and Wang, Chaofan and Zhou, Wujie and Zhang, Hongyan and Wang, Lizhe.<br />
+- **DAL:** Zhang, Fayong and Liu, Kejun and Liu, Yuanyuan and Wang, Chaofan and Zhou, Wujie and Zhang, Hongyan and Wang, Lizhe.<br />
   "Multi-target Domain Adaptation Building Instance Extraction of Remote Sensing Imagery with Domain-common Approximation learning." TGRS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10471580)] 
   [2024.03]
 
-:boom:**VisionGPT:** Chris Kelly, Luhui Hu, Bang Yang, Yu Tian, Deshun Yang, Cindy Yang, Zaoshan Huang, Zihao Li, Jiayin Hu, Yuexian Zou.<br />
+- **VisionGPT:** Chris Kelly, Luhui Hu, Bang Yang, Yu Tian, Deshun Yang, Cindy Yang, Zaoshan Huang, Zihao Li, Jiayin Hu, Yuexian Zou.<br />
   "VisionGPT: Vision-Language Understanding Agent Using Generalized Multimodal Framework." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.09027)] 
   [2024.03]
 
-:boom:**WeakSurg:** Qiyuan Wang, Yanzhe Liu, Shang Zhao, Rong Liu, S. Kevin Zhou.<br />
+- **WeakSurg:** Qiyuan Wang, Yanzhe Liu, Shang Zhao, Rong Liu, S. Kevin Zhou.<br />
   "WeakSurg: Weakly supervised surgical instrument segmentation using temporal equivariance and semantic continuity." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.09551)] 
   [2024.03]
 
-:boom:**Ref LDM-Seg:** Chaoyang Wang, Xiangtai Li, Henghui Ding, Lu Qi, Jiangning Zhang, Yunhai Tong, Chen Change Loy, Shuicheng Yan.<br />
+- **Ref LDM-Seg:** Chaoyang Wang, Xiangtai Li, Henghui Ding, Lu Qi, Jiangning Zhang, Yunhai Tong, Chen Change Loy, Shuicheng Yan.<br />
   "Explore In-Context Segmentation via Latent Diffusion Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.09616)] 
   [[code](https://wang-chaoyang.github.io/project/refldmseg)]
   [2024.03]
 
-:boom:**GaussianGrasper:** Yuhang Zheng, Xiangyu Chen, Yupeng Zheng, Songen Gu, Runyi Yang, Bu Jin, Pengfei Li, Chengliang Zhong, Zengmao Wang, Lina Liu, Chao Yang, Dawei Wang, Zhen Chen, Xiaoxiao Long, Meiqing Wang.<br />
+- **GaussianGrasper:** Yuhang Zheng, Xiangyu Chen, Yupeng Zheng, Songen Gu, Runyi Yang, Bu Jin, Pengfei Li, Chengliang Zhong, Zengmao Wang, Lina Liu, Chao Yang, Dawei Wang, Zhen Chen, Xiaoxiao Long, Meiqing Wang.<br />
   "GaussianGrasper: 3D Language Gaussian Splatting for Open-vocabulary Robotic Grasping." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.09637)] 
   [[code](https://github.com/MrSecant/GaussianGrasper)]
