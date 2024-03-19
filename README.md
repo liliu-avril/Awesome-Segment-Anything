@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.03.18: Latest update of this paper list.
+- 2024.03.19: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,39 +148,77 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**FastSAM3D:** Yiqing Shen, Jingxing Li, Xinyuan Shao, Blanca Inigo Romillo, Ankush Jindal, David Dreizin, Mathias Unberath.<br />
+:boom:**LocalStyleFool:** Yuxin Cao, Jinghao Li, Xi Xiao, Derui Wang, Minhui Xue, Hao Ge, Wei Liu, Guangwu Hu.<br />
+  "LocalStyleFool: Regional Video Style Transfer Attack Using Segment Anything Model." SPW (2024).
+  [[paper](https://arxiv.org/abs/2403.11656)] 
+  [2024.03]
+
+:boom:**CCC++:** Mrityunjoy Gain, Avi Deb Raha, Rameswar Debnath.<br />
+  "CCC++: Optimized Color Classified Colorization with Segment Anything Model (SAM) Empowered Object Selective Color Harmonization." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.11494)] 
+  [2024.03]
+
+:boom:**CFR:** Shumeng Li, Lei Qi, Qian Yu, Jing Huo, Yinghuan Shi, Yang Gao.<br />
+  "Concatenate, Fine-tuning, Re-training: A SAM-enabled Framework for Semi-supervised 3D Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.11229)] 
+  [[code](https://github.com/ShumengLI/CFR)]
+  [2024.03]
+
+:boom:**TA-LoRA:** Xuehao Wang, Feiyang Ye, Yu Zhang.<br />
+  "Task-Aware Low-Rank Adaptation of Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.10971)] 
+  [2024.03]
+
+:boom:**UA-SAM:** Mingzhou Jiang, Jiaying Zhou, Junde Wu, Tianyang Wang, Yueming Jin, Min Xu.<br />
+  "Uncertainty-Aware Adapter: Adapting Segment Anything Model (SAM) for Ambiguous Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.10931)] 
+  [[code](http://segmentation.it/)]
+  [2024.03]
+
+:boom:**MS-UGCML:** Shichao Kan, Yuhai Deng, Yixiong Liang, Lihui Cen, Zhe Qu, Yigang Cen, Zhihai He.<br />
+  "Unsupervised Collaborative Metric Learning with Mixed-Scale Groups for General Object Retrieval." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.10798)] 
+  [[code](https://github.com/dengyuhai/MS-UGCML)]
+  [2024.03]
+
+:boom:**SAOM:** Mariia Khan, Yue Qiu, Yuren Cong, Jumana Abu-Khalaf, David Suter, Bodo Rosenhahn.<br />
+  "Segment Any Object Model (SAOM): Real-to-Simulation Fine-Tuning Strategy for Multi-Class Multi-Instance Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.10780)] 
+  [2024.03]
+
+- **FastSAM3D:** Yiqing Shen, Jingxing Li, Xinyuan Shao, Blanca Inigo Romillo, Ankush Jindal, David Dreizin, Mathias Unberath.<br />
   "FastSAM3D: An Efficient Segment Anything Model for 3D Volumetric Medical Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.09827)] 
   [[code](https://github.com/arcadelab/FastSAM3D)]
   [2024.03]
 
-:boom:**CMR2D+T-SAM:** Zhennong Chen, Sekeun Kim, Hui Ren, Quanzheng Li, Xiang Li.<br />
+- **CMR2D+T-SAM:** Zhennong Chen, Sekeun Kim, Hui Ren, Quanzheng Li, Xiang Li.<br />
   "Cardiac Magnetic Resonance 2D+T Short- and Long-axis Segmentation via Spatio-temporal SAM Adaptation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.10009)] 
   [2024.03]
 
-:boom:**Group-Mix SAM:** Wu Liang, X.-G. Ma.<br />
+- **Group-Mix SAM:** Wu Liang, X.-G. Ma.<br />
   "Group-Mix SAM: Lightweight Solution for Industrial Assembly Line Applications." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.10053)] 
   [2024.03]
 
-:boom:**TransLandSeg:** Changhong Hou, Junchuan Yu, Daqing Ge, Liu Yang, Laidian Xi, Yunxuan Pang, Yi Wen.<br />
+- **TransLandSeg:** Changhong Hou, Junchuan Yu, Daqing Ge, Liu Yang, Laidian Xi, Yunxuan Pang, Yi Wen.<br />
   "TransLandSeg: A Transfer Learning Approach for Landslide Semantic Segmentation Based on Vision Foundation Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.10127)] 
   [2024.03]
 
-:boom:**Grasp Anything:** Malte Mosbach, Sven Behnke.<br />
+- **Grasp Anything:** Malte Mosbach, Sven Behnke.<br />
   "Grasp Anything: Combining Teacher-Augmented Policy Gradient Learning with Instance Segmentation to Grasp Arbitrary Objects." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.10187)] 
   [[code](https://maltemosbach.github.io/grasp_anything)]
   [2024.03]
 
-:boom:**RDC:** Meixuan Li, Tianyu Li, Guoqing Wang, Peng Wang, Yang Yang, Heng Tao Shen.<br />
+- **RDC:** Meixuan Li, Tianyu Li, Guoqing Wang, Peng Wang, Yang Yang, Heng Tao Shen.<br />
   "Region-aware Distribution Contrast: A Novel Approach to Multi-Task Partially Supervised Learning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.10252)] 
   [2024.03]
 
-:boom:**VISE:** Tian Meng, Yang Tao, Ruilin Lyu, Wuliang Yin.<br />
+- **VISE:** Tian Meng, Yang Tao, Ruilin Lyu, Wuliang Yin.<br />
   "Few-Shot Image Classification and Segmentation as Visual Question Answering Using Vision-Language Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.10287)] 
   [2024.03]
