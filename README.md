@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.03.20: Latest update of this paper list.
+- 2024.03.21: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,12 +148,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Efrain Torres-Lomas, Jimena Lado-Jimena, Guillermo Garcia-Zamora, Luis Diaz-Garcia.<br />
+:boom:**SAL:** Aljoša Ošep, Tim Meinhardt, Francesco Ferroni, Neehar Peri, Deva Ramanan, Laura Leal-Taixé.<br />
+  "Better Call SAL: Towards Learning to Segment Anything in Lidar." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.13129)] 
+  [[code](https://research.nvidia.com/labs/dvl/projects/sal)]
+  [2024.03]
+
+:boom:**SAMCT:** Xian Lin, Yangyang Xiang, Zhehao Wang, Kwang-Ting Cheng, Zengqiang Yan, Li Yu.<br />
+  "SAMCT: Segment Any CT Allowing Labor-Free Task-Indicator Prompts." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.13258)] 
+  [[code](https://github.com/xianlin7/SAMCT)]
+  [2024.03]
+
+- Efrain Torres-Lomas, Jimena Lado-Jimena, Guillermo Garcia-Zamora, Luis Diaz-Garcia.<br />
   "Segment Anything for comprehensive analysis of grapevine cluster architecture and berry properties." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.12935)] 
   [2024.03]
 
-:boom:Roland Gruber, Steffen Rüger, Thomas Wittenberg.<br />
+- Roland Gruber, Steffen Rüger, Thomas Wittenberg.<br />
   "Adapting SAM for Volumetric X-Ray Data-sets of Arbitrary Sizes." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.12066)] 
   [2024.03]
