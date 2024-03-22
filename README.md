@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.03.21: Latest update of this paper list.
+- 2024.03.22: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,13 +148,29 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAL:** Aljoša Ošep, Tim Meinhardt, Francesco Ferroni, Neehar Peri, Deva Ramanan, Laura Leal-Taixé.<br />
+:boom:**MoCA:** Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Jiangkang Deng, Xiatian Zhu.<br />
+  "Unsupervised Audio-Visual Segmentation with Modality Alignment." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.14203)] 
+  [2024.03]
+
+:boom:**LLaVASeg:** Yuqi Yang, Peng-Tao Jiang, Jing Wang, Hao Zhang, Kai Zhao, Jinwei Chen, Bo Li.<br />
+  "Empowering Segmentation Ability to Multi-modal Large Language Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.14141)] 
+  [[code](https://github.com/YuqiYang213/LLaVASeg)]
+  [2024.03]
+
+:boom:**MaskSAM:** Bin Xie, Hao Tang, Bin Duan, Dawen Cai, Yan Yan.<br />
+  "MaskSAM: Towards Auto-prompt SAM with Mask Classification for Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.14103)] 
+  [2024.03]
+
+- **SAL:** Aljoša Ošep, Tim Meinhardt, Francesco Ferroni, Neehar Peri, Deva Ramanan, Laura Leal-Taixé.<br />
   "Better Call SAL: Towards Learning to Segment Anything in Lidar." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.13129)] 
   [[code](https://research.nvidia.com/labs/dvl/projects/sal)]
   [2024.03]
 
-:boom:**SAMCT:** Xian Lin, Yangyang Xiang, Zhehao Wang, Kwang-Ting Cheng, Zengqiang Yan, Li Yu.<br />
+- **SAMCT:** Xian Lin, Yangyang Xiang, Zhehao Wang, Kwang-Ting Cheng, Zengqiang Yan, Li Yu.<br />
   "SAMCT: Segment Any CT Allowing Labor-Free Task-Indicator Prompts." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.13258)] 
   [[code](https://github.com/xianlin7/SAMCT)]
