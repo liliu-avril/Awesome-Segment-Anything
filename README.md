@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.03.22: Latest update of this paper list.
+- 2024.03.24: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,18 +148,71 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**MoCA:** Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Jiangkang Deng, Xiatian Zhu.<br />
+:boom:**ALC:** Hoyoung Kim, Sehyun Hwang, Suha Kwak, Jungseul Ok.<br />
+  "Active Label Correction for Semantic Segmentation with Foundation Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.10820)] 
+  [2024.03]
+
+:boom:DiffCriticEdit:Ruicheng Wang, Jianfeng Xiang, Jiaolong Yang, Xin Tong.<br />
+  "Diffusion Models are Geometry Critics: Single Image 3D Editing Using Pre-Trained Diffusion Priors." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.11503)] 
+  [[code](https://wangrc.site/DiffCriticEdit/)]
+  [2024.03]
+
+:boom: Rafaela Orenga Panizza, et al.<br />
+  "Labeling Construction, Renovation, and Demolition Waste through Segment Anything Model (SAM)." Construction Research Congress (2024).
+  [[paper](https://ascelibrary.org/doi/abs/10.1061/9780784485262.029)] 
+  [2024.03]
+
+:boom:**SAM-AutoMed:** Jiakang Sun, Ke Chen, Zhiyi He, Siyuan Ren, Xinyang He, Xu Liu, Cheng Peng .<br />
+  "Medical Image Analysis using Improved SAM-Med2D: Segmentation and Classification Perspectives." ArXiv (2024).
+  [[paper](https://www.researchsquare.com/article/rs-4021598/v1)] 
+  [2024.03]
+
+:boom:**RASP:** Minghui Zhao, Junxi Xia, Kaiyuan Hou, Yanchen Liu, Stephen Xia, Xiaofan Jiang.<br />
+  "RASP: A Drone-based Reconfigurable Actuation and Sensing Platform Towards Ambient Intelligent Systems." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.12853)] 
+  [2024.03]
+
+:boom:**WebSAM-Adapter:** Ren, B., Qian, Z., Sun, Y., Gao, C., Zhang, C.<br />
+  "WebSAM-Adapter: Adapting Segment Anything Model for Web Page Segmentation." ECIR (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-56027-9_27)] 
+  [2024.03]
+
+:boom:**ProMamba:** Jianhao Xie, Ruofan Liao, Ziang Zhang, Sida Yi, Yuesheng Zhu, Guibo Luo.<br />
+  "ProMamba: Prompt-Mamba for polyp segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.13660)] 
+  [2024.03]
+
+:boom:**MTP:** Di Wang, Jing Zhang, Minqiang Xu, Lin Liu, Dongsheng Wang, Erzhong Gao, Chengxi Han, Haonan Guo, Bo Du, Dacheng Tao, Liangpei Zhang.<br />
+  "MTP: Advancing Remote Sensing Foundation Model via Multi-Task Pretraining." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.13430)] 
+  [[code](https://github.com/ViTAE-Transformer/MTP)]
+  [2024.03]
+
+:boom:Connor Lee, Saraswati Soedarmadji, Matthew Anderson, Anthony J. Clark, and Soon-Jo Chung.<br />
+  "Semantics from Space: Satellite-Guided Thermal Semantic Segmentation Annotation for Aerial Field Robots." ArXiv (2024).
+  [[paper](https://arxiv.org/pdf/2403.14056.pdf)] 
+  [[code](https://github.com/connorlee77/aerial-auto-segment)]
+  [2024.03]
+
+:boom:Luna, Miguel, Philip Chikontwe, and Sang Hyun Park.<br />
+  "Enhanced Nuclei Segmentation and Classification via Category Descriptors in the SAM Model." Bioengineering (2024).
+  [[paper](https://www.mdpi.com/2306-5354/11/3/294)] 
+  [2024.03]
+
+- **MoCA:** Swapnil Bhosale, Haosen Yang, Diptesh Kanojia, Jiangkang Deng, Xiatian Zhu.<br />
   "Unsupervised Audio-Visual Segmentation with Modality Alignment." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.14203)] 
   [2024.03]
 
-:boom:**LLaVASeg:** Yuqi Yang, Peng-Tao Jiang, Jing Wang, Hao Zhang, Kai Zhao, Jinwei Chen, Bo Li.<br />
+- **LLaVASeg:** Yuqi Yang, Peng-Tao Jiang, Jing Wang, Hao Zhang, Kai Zhao, Jinwei Chen, Bo Li.<br />
   "Empowering Segmentation Ability to Multi-modal Large Language Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.14141)] 
   [[code](https://github.com/YuqiYang213/LLaVASeg)]
   [2024.03]
 
-:boom:**MaskSAM:** Bin Xie, Hao Tang, Bin Duan, Dawen Cai, Yan Yan.<br />
+- **MaskSAM:** Bin Xie, Hao Tang, Bin Duan, Dawen Cai, Yan Yan.<br />
   "MaskSAM: Towards Auto-prompt SAM with Mask Classification for Medical Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.14103)] 
   [2024.03]
