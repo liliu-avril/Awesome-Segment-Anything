@@ -148,7 +148,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**https://github.com/UM2ii/SAM_DataAnnotation:** Pranav Kulkarni, Adway Kanhere, Dharmam Savani, Andrew Chan, Devina Chatterjee, Paul H. Yi, Vishwa S. Parekh.<br />
+:boom:**SAM_DataAnnotation:** Pranav Kulkarni, Adway Kanhere, Dharmam Savani, Andrew Chan, Devina Chatterjee, Paul H. Yi, Vishwa S. Parekh.<br />
   "Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.15218)] 
   [[code](https://github.com/UM2ii/https://github.com/UM2ii/SAM_DataAnnotation)]
