@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.03.25: Latest update of this paper list.
+- 2024.03.26: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,13 +148,30 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAM_DataAnnotation:** Pranav Kulkarni, Adway Kanhere, Dharmam Savani, Andrew Chan, Devina Chatterjee, Paul H. Yi, Vishwa S. Parekh.<br />
+:boom:**GoodSAM:** Weiming Zhang, Yexin Liu, Xu Zheng, Lin Wang.<br />
+  "GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.16370)] 
+  [[code](https://vlislab22.github.io/GoodSAM/)]
+  [2024.03]
+
+:boom:**SPF+SPD:** Quan Zhang, Xiaoyu Liu, Wei Li, Hanting Chen, Junchao Liu, Jie Hu, Zhiwei Xiong, Chun Yuan, Yunhe Wang.<br />
+  "Distilling Semantic Priors from SAM to Efficient Image Restoration Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.16368)] 
+  [2024.03]
+
+:boom:**SAM-Road:** Congrui Hetang, Haoru Xue, Cindy Le, Tianwei Yue, Wenping Wang, Yihui He.<br />
+  "Segment Anything Model for Road Network Graph Extraction." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.16051)] 
+  [[code](https://github.com/htcr/sam_road)]
+  [2024.03]
+
+- **SAM_DataAnnotation:** Pranav Kulkarni, Adway Kanhere, Dharmam Savani, Andrew Chan, Devina Chatterjee, Paul H. Yi, Vishwa S. Parekh.<br />
   "Anytime, Anywhere, Anyone: Investigating the Feasibility of Segment Anything Model for Crowd-Sourcing Medical Image Annotations." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.15218)] 
   [[code](https://github.com/UM2ii/https://github.com/UM2ii/SAM_DataAnnotation)]
   [2024.03]
 
-:boom:**CT-SAM3D:** Heng Guo, Jianfeng Zhang, Jiaxing Huang, Tony C. W. Mok, Dazhou Guo, Ke Yan, Le Lu, Dakai Jin, Minfeng Xu.<br />
+- **CT-SAM3D:** Heng Guo, Jianfeng Zhang, Jiaxing Huang, Tony C. W. Mok, Dazhou Guo, Ke Yan, Le Lu, Dakai Jin, Minfeng Xu.<br />
   "Towards a Comprehensive, Efficient and Promptable Anatomic Structure Segmentation Model using 3D Whole-body CT Scans." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.15063)] 
   [2024.03]
