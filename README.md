@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.03.26: Latest update of this paper list.
+- 2024.03.27: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,18 +148,30 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**GoodSAM:** Weiming Zhang, Yexin Liu, Xu Zheng, Lin Wang.<br />
-  "GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation." ArXiv (2024).
+:boom:David Jurado-Rodr´ıguez, et al.<br />
+  "SAM-Based Detection of Structural Anomalies in 3D Models for Preserving Cultural Heritage." VISAPP (2024).
+  [[paper](https://www.researchgate.net/profile/Alfonso-Lopez-Ruiz-2/publication/378703243_SAM-Based_Detection_of_Structural_Anomalies_in_3D_Models_for_Preserving_Cultural_Heritage/links/65fb0552a8baf573a1c7a4e1/SAM-Based-Detection-of-Structural-Anomalies-in-3D-Models-for-Preserving-Cultural-Heritage.pdf)] 
+  [2024.03]
+
+:boom:**MAkE-able:** Christoph Pohl, Fabian Reister, Fabian Peller-Konrad and Tamim Asfour.<br /> 
+  "MAkE-able: Memory-centered and Affordance-based Task Execution Framework for Transferable Mobile Manipulation Skills." ArXiv (2024).
+  [[paper](https://h2t.iar.kit.edu/pdf/PohlReister2024v2.pdf)] 
+  [[code](https://h2t-projects.webarchiv.kit.edu/software/MAkEable)]
+  [2024.03]
+
+-**GoodSAM:** Weiming Zhang, Yexin Liu, Xu Zheng, Lin Wang.<br />
+  "GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation." CVPR (2024).
   [[paper](https://arxiv.org/abs/2403.16370)] 
   [[code](https://vlislab22.github.io/GoodSAM/)]
   [2024.03]
 
-:boom:**SPF+SPD:** Quan Zhang, Xiaoyu Liu, Wei Li, Hanting Chen, Junchao Liu, Jie Hu, Zhiwei Xiong, Chun Yuan, Yunhe Wang.<br />
+
+- **SPF+SPD:** Quan Zhang, Xiaoyu Liu, Wei Li, Hanting Chen, Junchao Liu, Jie Hu, Zhiwei Xiong, Chun Yuan, Yunhe Wang.<br />
   "Distilling Semantic Priors from SAM to Efficient Image Restoration Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.16368)] 
   [2024.03]
 
-:boom:**SAM-Road:** Congrui Hetang, Haoru Xue, Cindy Le, Tianwei Yue, Wenping Wang, Yihui He.<br />
+- **SAM-Road:** Congrui Hetang, Haoru Xue, Cindy Le, Tianwei Yue, Wenping Wang, Yihui He.<br />
   "Segment Anything Model for Road Network Graph Extraction." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.16051)] 
   [[code](https://github.com/htcr/sam_road)]
