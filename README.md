@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.03.27: Latest update of this paper list.
+- 2024.03.28: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,18 +148,40 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:David Jurado-Rodr´ıguez, et al.<br />
+:boom:**H-SAM:** Zhiheng Cheng, Qingyue Wei, Hongru Zhu, Yan Wang, Liangqiong Qu, Wei Shao, Yuyin Zhou.<br />
+  "Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2403.18271)] 
+  [[code](https://github.com/Cccccczh404/H-SAM)]
+  [2024.03]
+
+:boom:**Annolid:** Chen Yang, Thomas A. Cleland.<br />
+  "Annolid: Annotate, Segment, and Track Anything You Need." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.18690)] 
+  [2024.03]
+
+:boom:**SAMME:** Yihao Liu, Jiaming Zhang, Andres Diaz-Pinto, Haowei Li, Alejandro Martin-Gomez, Amir Kheradmand, Mehran Armand.<br />
+  "Segment Any Medical Model Extended." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.18114)] 
+  [2024.03]
+
+:boom:**EgoLifter:** Qiao Gu, Zhaoyang Lv, Duncan Frost, Simon Green, Julian Straub, Chris Sweeney.<br />
+  "EgoLifter: Open-world 3D Segmentation for Egocentric Perception." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.18118)] 
+  [[code](https://egolifter.github.io/)]
+  [2024.03]
+
+- David Jurado-Rodr´ıguez, et al.<br />
   "SAM-Based Detection of Structural Anomalies in 3D Models for Preserving Cultural Heritage." VISAPP (2024).
   [[paper](https://www.researchgate.net/profile/Alfonso-Lopez-Ruiz-2/publication/378703243_SAM-Based_Detection_of_Structural_Anomalies_in_3D_Models_for_Preserving_Cultural_Heritage/links/65fb0552a8baf573a1c7a4e1/SAM-Based-Detection-of-Structural-Anomalies-in-3D-Models-for-Preserving-Cultural-Heritage.pdf)] 
   [2024.03]
 
-:boom:**MAkE-able:** Christoph Pohl, Fabian Reister, Fabian Peller-Konrad and Tamim Asfour.<br /> 
+- **MAkE-able:** Christoph Pohl, Fabian Reister, Fabian Peller-Konrad and Tamim Asfour.<br /> 
   "MAkE-able: Memory-centered and Affordance-based Task Execution Framework for Transferable Mobile Manipulation Skills." ArXiv (2024).
   [[paper](https://h2t.iar.kit.edu/pdf/PohlReister2024v2.pdf)] 
   [[code](https://h2t-projects.webarchiv.kit.edu/software/MAkEable)]
   [2024.03]
 
--**GoodSAM:** Weiming Zhang, Yexin Liu, Xu Zheng, Lin Wang.<br />
+- **GoodSAM:** Weiming Zhang, Yexin Liu, Xu Zheng, Lin Wang.<br />
   "GoodSAM: Bridging Domain and Capacity Gaps via Segment Anything Model for Distortion-aware Panoramic Semantic Segmentation." CVPR (2024).
   [[paper](https://arxiv.org/abs/2403.16370)] 
   [[code](https://vlislab22.github.io/GoodSAM/)]
