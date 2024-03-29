@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.03.28: Latest update of this paper list.
+- 2024.03.29: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,23 +148,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**H-SAM:** Zhiheng Cheng, Qingyue Wei, Hongru Zhu, Yan Wang, Liangqiong Qu, Wei Shao, Yuyin Zhou.<br />
+:boom:**Total-Decom:** Xiaoyang Lyu, Chirui Chang, Peng Dai, Yang-tian Sun, Xiaojuang Qi.<br />
+  "Total-Decom: Decomposed 3D Scene Reconstruction with Minimal Interaction." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2403.19314)] 
+  [[code](https://github.com/CVMI-Lab/Total-Decom.git)]
+  [2024.03]
+
+:boom:**SAM-dPCR:** Yuanyuan Wei, Shanhang Luo, Changran Xu, Yingqi Fu, Qingyue Dong, Yi Zhang, Fuyang Qu, Guangyao Cheng, Yi-Ping Ho, Ho-Pui Ho, Wu Yuan.<br />
+  "SAM-dPCR: Real-Time and High-throughput Absolute Quantification of Biological Samples Using Zero-Shot Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.18826)] 
+  [2024.03]
+
+- **H-SAM:** Zhiheng Cheng, Qingyue Wei, Hongru Zhu, Yan Wang, Liangqiong Qu, Wei Shao, Yuyin Zhou.<br />
   "Unleashing the Potential of SAM for Medical Adaptation via Hierarchical Decoding." CVPR (2024).
   [[paper](https://arxiv.org/abs/2403.18271)] 
   [[code](https://github.com/Cccccczh404/H-SAM)]
   [2024.03]
 
-:boom:**Annolid:** Chen Yang, Thomas A. Cleland.<br />
+- **Annolid:** Chen Yang, Thomas A. Cleland.<br />
   "Annolid: Annotate, Segment, and Track Anything You Need." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.18690)] 
   [2024.03]
 
-:boom:**SAMME:** Yihao Liu, Jiaming Zhang, Andres Diaz-Pinto, Haowei Li, Alejandro Martin-Gomez, Amir Kheradmand, Mehran Armand.<br />
+- **SAMME:** Yihao Liu, Jiaming Zhang, Andres Diaz-Pinto, Haowei Li, Alejandro Martin-Gomez, Amir Kheradmand, Mehran Armand.<br />
   "Segment Any Medical Model Extended." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.18114)] 
   [2024.03]
 
-:boom:**EgoLifter:** Qiao Gu, Zhaoyang Lv, Duncan Frost, Simon Green, Julian Straub, Chris Sweeney.<br />
+- **EgoLifter:** Qiao Gu, Zhaoyang Lv, Duncan Frost, Simon Green, Julian Straub, Chris Sweeney.<br />
   "EgoLifter: Open-world 3D Segmentation for Egocentric Perception." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.18118)] 
   [[code](https://egolifter.github.io/)]
