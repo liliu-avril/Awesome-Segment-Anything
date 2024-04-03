@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.02: Latest update of this paper list.
+- 2024.04.03: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,25 +148,30 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**DHR:** Sanghyun Jo, Fei Pan, In-Jae Yu, Kyungsu Kim.<br />
+:boom:**FIGA:** Krzysztof Jankowski, Bartlomiej Sobieski, Mateusz Kwiatkowski, Jakub Szulc, Michal Janik, Hubert Baniecki, Przemyslaw Biecek.<br />
+  "Red-Teaming Segment Anything Model." CVPR Workshop (2024).
+  [[paper](https://arxiv.org/abs/2404.02067)] 
+  [2024.04]
+
+- **DHR:** Sanghyun Jo, Fei Pan, In-Jae Yu, Kyungsu Kim.<br />
   "DHR: Dual Features-Driven Hierarchical Rebalancing in Inter- and Intra-Class Regions for Weakly-Supervised Semantic Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.00380)] 
   [[code](https://github.com/shjo-april/DHR)]
   [2024.04]
 
-:boom:**DIT:** Xiaorui Huang, Gen Luo, Chaoyang Zhu, Bo Tong, Yiyi Zhou, Xiaoshuai Sun, Rongrong Ji.<br />
+- **DIT:** Xiaorui Huang, Gen Luo, Chaoyang Zhu, Bo Tong, Yiyi Zhou, Xiaoshuai Sun, Rongrong Ji.<br />
   "Deep Instruction Tuning for Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.00650)] 
   [[code](https://github.com/wysnzzzz/DIT)]
   [2024.04]
 
-:boom:**SegNext:** Qin Liu, Jaemin Cho, Mohit Bansal, Marc Niethammer.<br />
+- **SegNext:** Qin Liu, Jaemin Cho, Mohit Bansal, Marc Niethammer.<br />
   "Rethinking Interactive Image Segmentation with Low Latency, High Quality, and Diverse Prompts." CVPR (2024).
   [[paper](https://arxiv.org/abs/2404.00741)] 
   [[code](https://github.com/uncbiag/SegNext)]
   [2024.04]
 
-:boom:**Detect2Interact:** Jialou Wang, Manli Zhu, Yulei Li, Honglei Li, Longzhi Yang, Wai Lok Woo.<br />
+- **Detect2Interact:** Jialou Wang, Manli Zhu, Yulei Li, Honglei Li, Longzhi Yang, Wai Lok Woo.<br />
   "Detect2Interact: Localizing Object Key Field in Visual Question Answering (VQA) with LLMs." IEEE Intelligent Systems (2024).
   [[paper](https://arxiv.org/abs/2404.01151)] 
   [2024.04]
