@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.03: Latest update of this paper list.
+- 2024.04.04: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**UAD:** Jiahao Lu, Xingyi Yang, Xinchao Wang.<br />
+  "Unsegment Anything by Simulating Deformation." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2404.02585)] 
+  [[code](https://github.com/jiahaolu97/anything-unsegmentable)]
+  [2024.04]
+
 :boom:**FIGA:** Krzysztof Jankowski, Bartlomiej Sobieski, Mateusz Kwiatkowski, Jakub Szulc, Michal Janik, Hubert Baniecki, Przemyslaw Biecek.<br />
   "Red-Teaming Segment Anything Model." CVPR Workshop (2024).
   [[paper](https://arxiv.org/abs/2404.02067)] 
