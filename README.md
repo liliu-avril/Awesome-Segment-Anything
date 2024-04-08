@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.07: Latest update of this paper list.
+- 2024.04.08: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,117 +148,123 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom: David Jurado-Rodr´ıguez, et al.<br />
+:boom:**MuDI :** Sangwon Jang, Jaehyeong Jo, Kimin Lee, Sung Ju Hwang.<br />
+  "Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.04243)] 
+  [[code](https://mudi-t2i.github.io/)]
+  [2024.04]
+
+- David Jurado-Rodr´ıguez, et al.<br />
   "SAM-Based Detection of Structural Anomalies in 3D Models for Preserving Cultural Heritage." ArXiv (2024).
   [[paper](https://www.researchgate.net/profile/Alfonso-Lopez-Ruiz-2/publication/378703243_SAM-Based_Detection_of_Structural_Anomalies_in_3D_Models_for_Preserving_Cultural_Heritage/links/65fb0552a8baf573a1c7a4e1/SAM-Based-Detection-of-Structural-Anomalies-in-3D-Models-for-Preserving-Cultural-Heritage.pdf)] 
   [2024.04]
 
-:boom: Liqun Shan, Yanchang Liu, Ke Du, Shovon Paul, Xingli Zhang, Xiali Hei.<br />
+- Liqun Shan, Yanchang Liu, Ke Du, Shovon Paul, Xingli Zhang, Xiali Hei.<br />
   "Drilling rock image segmentation and analysis using segment anything model." Advances in Geo-Energy Research (2024).
   [[paper](https://www.yandy-ager.com/index.php/ager/article/view/1105)] 
   [2024.04]
 
-:boom:Sen Deng, et al.<br />
+- Sen Deng, et al.<br />
   "Semi-supervised TEE Segmentation via Interacting with SAM Equipped with Noise-Resilient Prompting." AAAI (2024).
   [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/29060)] 
   [2024.04]
 
-:boom:**BSDSNet:** Wang, Y.; Zhang, W.; Chen, W.; Chen, C.<br />
+- **BSDSNet:** Wang, Y.; Zhang, W.; Chen, W.; Chen, C.<br />
   "BSDSNet: Dual-Stream Feature Extraction Network Based on Segment Anything Model for Synthetic Aperture Radar Land Cover Classification." Remote Sens (2024).
   [[paper](https://www.mdpi.com/2072-4292/16/7/1150)] 
   [2024.04]
 
-:boom:**SweepMM:** Weichen Xu; Xinxin Xu; Tianhao Fu; Jian Cao; Xiaoyang Xu; Yuetian Huang; Xixin Cao; Xing Zhang.<br />
+- **SweepMM:** Weichen Xu; Xinxin Xu; Tianhao Fu; Jian Cao; Xiaoyang Xu; Yuetian Huang; Xixin Cao; Xing Zhang.<br />
   "SweepMM: A High-Quality Multimodal Dataset for Sweeping Robots in Home Scenarios for Vision-Language Model." ICASSP (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10447940)] 
   [2024.04]
 
-:boom:**3DSAM:** Shangjie Wang; Yan Zhang.<br />
+- **3DSAM:** Shangjie Wang; Yan Zhang.<br />
   "3DSAM: Segment Anything in NeRF." ICASSP (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10445897)] 
   [2024.04]
 
-:boom:**SAM-GEBD:** Pranay Kashyap; Sourabh Vasant Gothe; Vibhav Agarwal; Jayesh Rajkumar Vachhani.<br />
+- **SAM-GEBD:** Pranay Kashyap; Sourabh Vasant Gothe; Vibhav Agarwal; Jayesh Rajkumar Vachhani.<br />
   "SAM-GEBD: Zero-Cost Approach for Generic Event Boundary Detection." ICASSP (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10447789)] 
   [2024.04]
 
-:boom:**SAM-CD:** Zixuan Sun; Huihui Song; Kaihua Zhang; Gang Dong; Lingyan Liang; Yaqian Zhao.<br />
+- **SAM-CD:** Zixuan Sun; Huihui Song; Kaihua Zhang; Gang Dong; Lingyan Liang; Yaqian Zhao.<br />
   "Segment Anything Model Guided Semantic Knowledge Learning For Remote Sensing Change Detection." ICASSP (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10448374)] 
   [2024.04]
 
-:boom:**SkinSAM:** Mingzhe Hu, Yuheng Li, Xiaofeng Yang.<br />
+- **SkinSAM:** Mingzhe Hu, Yuheng Li, Xiaofeng Yang.<br />
   "SkinSAM: adapting the segmentation anything model for skin cancer segmentation."  SPIE (2024).
   [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12929/129290U/SkinSAM--adapting-the-segmentation-anything-model-for-skin-cancer/10.1117/12.3006837.short#_=_)] 
   [2024.04]
 
-:boom:**BreastSAM:** Mingzhe Hu, Yuheng Li, Xiaofeng Yang.<br />
+- **BreastSAM:** Mingzhe Hu, Yuheng Li, Xiaofeng Yang.<br />
   "BreastSAM: adapting the segmentation anything model for breast tumor segmentation in ultrasound imaging." SPIE (2024).
   [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12932/129320V/BreastSAM--adapting-the-segmentation-anything-model-for-breast-tumor/10.1117/12.3006773.short#_=_)] 
   [2024.04]
 
-:boom:Yiqiao Liu, et al.<br />
+- Yiqiao Liu, et al.<br />
   "Universal 3D CT lesion segmentation using SAM with RECIST annotation." SPIE (2024).
   [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292605/Universal-3D-CT-lesion-segmentation-using-SAM-with-RECIST-annotation/10.1117/12.3006527.short#_=_)] 
   [2024.04]
 
-:boom:**SS2V:** Xing Yao, et al.<br />
+- **SS2V:** Xing Yao, et al.<br />
   "FNPC-SAM: uncertainty-guided false negative/positive control for SAM on noisy medical images." SPIE (2024).
   [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12926/1292602/FNPC-SAM--uncertainty-guided-false-negative-positive-control-for/10.1117/12.3006867.short#_=_)] 
   [[code](https://github.com/MedICL-VU/FNPC-SAM)]
   [2024.04]
 
-:boom:**SAM-Att:** Zhu, Yaqi and Xiong, Changchun and Zhao, Heng and Yao, Yudong.<br />
+- **SAM-Att:** Zhu, Yaqi and Xiong, Changchun and Zhao, Heng and Yao, Yudong.<br />
   "SAM-Att: A Prompt-free SAM-related Model with an Attention Module for Automatic Segmentation of the Left Ventricle in Echocardiography." IEEE Access (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10488364)] 
   [2024.04]
 
-:boom:**BarelySAM:** Ding, Yuhang and Liu, Hongmin.<br />
+- **BarelySAM:** Ding, Yuhang and Liu, Hongmin.<br />
   "Barely-supervised Brain Tumor Segmentation via Employing Segment Anything Model." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10491099)] 
   [2024.04]
 
-:boom:**Design2Cloth:** Jiali Zheng, Rolandos Alexandros Potamias, Stefanos Zafeiriou.<br />
+- **Design2Cloth:** Jiali Zheng, Rolandos Alexandros Potamias, Stefanos Zafeiriou.<br />
   "Design2Cloth: 3D Cloth Generation from 2D Masks." CVPR (2024).
   [[paper](https://arxiv.org/abs/2404.02686)] 
   [[code](https://jiali-zheng.github.io/Design2Cloth/)]
   [2024.04]
 
-:boom:**FBM:**Huang, Peng and Shu, Xiangbo and Yan, Rui and Tu, Zhewei and Tang, Jinhui.<br />
+- **FBM:**Huang, Peng and Shu, Xiangbo and Yan, Rui and Tu, Zhewei and Tang, Jinhui.<br />
   "Appearance-Agnostic Representation Learning for Compositional Action Recognition." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10488474)] 
   [2024.04]
 
-:boom:Seda Camalan, Muhammad Khalid Khan Niazi, Charles Elmaraghy, Aaron C. Moberly, Metin N. Gurcan.<br />
+- Seda Camalan, Muhammad Khalid Khan Niazi, Charles Elmaraghy, Aaron C. Moberly, Metin N. Gurcan.<br />
   "Tympanic membrane segmentation of video frames to create composite images using SAM." SPIE (2024).
   [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12927/1292736/Tympanic-membrane-segmentation-of-video-frames-to-create-composite-images/10.1117/12.3006926.short#_=_)] 
   [2024.04]
 
-:boom: Meyer, A., Mazellier, JP., Dana, J. et al.<br />
+- Meyer, A., Mazellier, JP., Dana, J. et al.<br />
   "On-the-fly point annotation for fast medical video labeling." Int J CARS (2024).
   [[paper](https://link.springer.com/article/10.1007/s11548-024-03098-y)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
   [2024.04]
 
-:boom:Uygun, T., Ozguven, M.M.<br />
+- Uygun, T., Ozguven, M.M.<br />
   "Determination of tomato leafminer: Tuta absoluta (Meyrick) (Lepidoptera: Gelechiidae) damage on tomato using deep learning instance segmentation method." Eur Food Res Technol (2024).
   [[paper](https://link.springer.com/article/10.1007/s00217-024-04516-w)] 
   [2024.04]
 
-:boom:**iSeg:** Itai Lang, Fei Xu, Dale Decatur, Sudarshan Babu, Rana Hanocka.<br />
+- **iSeg:** Itai Lang, Fei Xu, Dale Decatur, Sudarshan Babu, Rana Hanocka.<br />
   "iSeg: Interactive 3D Segmentation via Interactive Attention." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.03219)] 
   [[code](https://threedle.github.io/iSeg/)]
   [2024.04]
 
-:boom:**Gen3DSR:** Andreea Dogaru, Mert Özer, Bernhard Egger.<br />
+- **Gen3DSR:** Andreea Dogaru, Mert Özer, Bernhard Egger.<br />
   "Generalizable 3D Scene Reconstruction via Divide and Conquer from a Single View." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.03421)] 
   [[code](https://andreeadogaru.github.io/Gen3DSR)]
   [2024.04]
 
-:boom:**OW-VISCap:** Anwesa Choudhuri, Girish Chowdhary, Alexander G. Schwing.<br />
+- **OW-VISCap:** Anwesa Choudhuri, Girish Chowdhary, Alexander G. Schwing.<br />
   "OW-VISCap: Open-World Video Instance Segmentation and Captioning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.03657)] 
   [[code](https://anwesachoudhuri.github.io/OpenWorldVISCap/)]
