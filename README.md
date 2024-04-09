@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.08: Latest update of this paper list.
+- 2024.04.09: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,7 +148,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**MuDI :** Sangwon Jang, Jaehyeong Jo, Kimin Lee, Sung Ju Hwang.<br />
+:boom:**Dual-SAM:** Pingping Zhang, Tianyu Yan, Yang Liu, Huchuan Lu.<br />
+  "Fantastic Animals and Where to Find Them: Segment Any Marine Animal with Dual SAM." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2404.04996)] 
+  [[code](https://github.com/Drchip61/Dual_SAM)]
+  [2024.04]
+
+:boom:Yu Sheng, Lu Zhang, Xingchen Li, Yifan Duan, Yanyong Zhang, Yu Zhang, Jianmin Ji.<br />
+  "Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.05164)] 
+  [2024.04]
+
+:boom:**DL-EWF:** Fatemeh Asghari, Mohammad Reza Soheili, Faezeh Gholamrezaie.<br />
+  "DL-EWF: Deep Learning Empowering Women's Fashion with Grounded-Segment-Anything Segmentation for Body Shape Classification." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.04891)] 
+  [2024.04]
+
+- **MuDI :** Sangwon Jang, Jaehyeong Jo, Kimin Lee, Sung Ju Hwang.<br />
   "Identity Decoupling for Multi-Subject Personalization of Text-to-Image Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.04243)] 
   [[code](https://mudi-t2i.github.io/)]
