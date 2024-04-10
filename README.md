@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.09: Latest update of this paper list.
+- 2024.04.10: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,18 +148,29 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Dual-SAM:** Pingping Zhang, Tianyu Yan, Yang Liu, Huchuan Lu.<br />
+:boom:**SaLIP:** Sidra Aleem, Fangyijie Wang, Mayug Maniparambil, Eric Arazo, Julia Dietlmeier, Kathleen Curran, Noel E. O'Connor, Suzanne Little.<br />
+  "Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.06362)] 
+  [2024.04]
+
+:boom:**CTL:** Anas Gouda, Max Schwarz, Christopher Reining, Sven Behnke, Alice Kirchheim.<br />
+  "Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.06277)] 
+  [[code](https://github.com/AnasIbrahim/ctl_classification)]
+  [2024.04]
+
+- **Dual-SAM:** Pingping Zhang, Tianyu Yan, Yang Liu, Huchuan Lu.<br />
   "Fantastic Animals and Where to Find Them: Segment Any Marine Animal with Dual SAM." CVPR (2024).
   [[paper](https://arxiv.org/abs/2404.04996)] 
   [[code](https://github.com/Drchip61/Dual_SAM)]
   [2024.04]
 
-:boom:Yu Sheng, Lu Zhang, Xingchen Li, Yifan Duan, Yanyong Zhang, Yu Zhang, Jianmin Ji.<br />
+- Yu Sheng, Lu Zhang, Xingchen Li, Yifan Duan, Yanyong Zhang, Yu Zhang, Jianmin Ji.<br />
   "Rendering-Enhanced Automatic Image-to-Point Cloud Registration for Roadside Scenes." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.05164)] 
   [2024.04]
 
-:boom:**DL-EWF:** Fatemeh Asghari, Mohammad Reza Soheili, Faezeh Gholamrezaie.<br />
+- **DL-EWF:** Fatemeh Asghari, Mohammad Reza Soheili, Faezeh Gholamrezaie.<br />
   "DL-EWF: Deep Learning Empowering Women's Fashion with Grounded-Segment-Anything Segmentation for Body Shape Classification." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.04891)] 
   [2024.04]
