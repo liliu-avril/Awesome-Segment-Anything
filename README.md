@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.10: Latest update of this paper list.
+- 2024.04.11: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,12 +148,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SaLIP:** Sidra Aleem, Fangyijie Wang, Mayug Maniparambil, Eric Arazo, Julia Dietlmeier, Kathleen Curran, Noel E. O'Connor, Suzanne Little.<br />
+:boom:**SAM-I-Am:** Waqwoya Abebe, Jan Strube, Luanzheng Guo, Nathan R. Tallent, Oceane Bel, Steven Spurgeon, Christina Doty, Ali Jannesari.<br />
+  "SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.06638)] 
+  [2024.04]
+
+- **SaLIP:** Sidra Aleem, Fangyijie Wang, Mayug Maniparambil, Eric Arazo, Julia Dietlmeier, Kathleen Curran, Noel E. O'Connor, Suzanne Little.<br />
   "Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.06362)] 
   [2024.04]
 
-:boom:**CTL:** Anas Gouda, Max Schwarz, Christopher Reining, Sven Behnke, Alice Kirchheim.<br />
+- **CTL:** Anas Gouda, Max Schwarz, Christopher Reining, Sven Behnke, Alice Kirchheim.<br />
   "Learning Embeddings with Centroid Triplet Loss for Object Identification in Robotic Grasping." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.06277)] 
   [[code](https://github.com/AnasIbrahim/ctl_classification)]
@@ -2256,7 +2261,7 @@ Spatial Information Research (2024).
   [2023.12]
 
 - **WeSAM:** Haojie Zhang, Yongyi Su, Xun Xu, Kui Jia.<br />
-  "Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation." ArXiv (2023).
+  "Improving the Generalization of Segmentation Foundation Model under Distribution Shift via Weakly Supervised Adaptation." CVPR (2024).
   [[paper](https://arxiv.org/abs/2312.03502)] 
   [[code](https://github.com/Zhang-Haojie/WeSAM)]
   [2023.12]
