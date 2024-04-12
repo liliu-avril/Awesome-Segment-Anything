@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.11: Latest update of this paper list.
+- 2024.04.12: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,7 +148,13 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAM-I-Am:** Waqwoya Abebe, Jan Strube, Luanzheng Guo, Nathan R. Tallent, Oceane Bel, Steven Spurgeon, Christina Doty, Ali Jannesari.<br />
+:boom:**SAMPA:** Handi Deng, Yucheng Zhou, Jiaxuan Xiang, Liujie Gu, Yan Luo, Hai Feng, Mingyuan Liu, Cheng Ma.<br />
+  "Streamlined Photoacoustic Image Processing with Foundation Models: A Training-Free Solution." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.07833)] 
+  [[code](https://github.com/Adi-Deng/photoacoustic-SAM)]
+  [2024.04]
+
+- **SAM-I-Am:** Waqwoya Abebe, Jan Strube, Luanzheng Guo, Nathan R. Tallent, Oceane Bel, Steven Spurgeon, Christina Doty, Ali Jannesari.<br />
   "SAM-I-Am: Semantic Boosting for Zero-shot Atomic-Scale Electron Micrograph Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.06638)] 
   [2024.04]
