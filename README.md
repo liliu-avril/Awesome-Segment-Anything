@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.12: Latest update of this paper list.
+- 2024.04.15: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,7 +148,33 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAMPA:** Handi Deng, Yucheng Zhou, Jiaxuan Xiang, Liujie Gu, Yan Luo, Hai Feng, Mingyuan Liu, Cheng Ma.<br />
+:boom:**MedRG:** Ke Zou, Yang Bai, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu.<br />
+  "MedRG: Medical Report Grounding with Multi-modal Large Language Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.06798)] 
+  [2024.04]
+
+:boom:**O2V-Mapping:** Muer Tie, Julong Wei, Zhengjun Wang, Ke Wu, Shansuai Yuan, Kaizhao Zhang, Jie Jia, Jieru Zhao, Zhongxue Gan, Wenchao Ding.<br />
+  "O2V-Mapping: Online Open-Vocabulary Mapping with Neural Implicit Representation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.06836)] 
+  [2024.04]
+
+:boom:Liu M, Cui M, Wei W, Xu X, Sun C, Li F, Song Z, Lu Y, Zhang J, Tian F, et al.<br />
+  "Sorting of Mountage Cocoons Based on MobileSAM and Target Detection." Agriculture (2024).
+  [[paper](https://www.mdpi.com/2077-0472/14/4/599)] 
+  [2024.04]
+
+:boom:**ShadowSAM:** Zeheng Qian and Wen Wu and Xian-Tao Wu and Xiao-Diao Chen.<br />
+  "Omni-supervised shadow detection with vision foundation model." JVCI (2024).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320324001019)] 
+  [[code](https://github.com/wuwen1994/omni-shadow)]
+  [2024.04]
+
+:boom:Moghimi, Armin and Welzel, Mario and Celik, Turgay and Schlurmann, Torsten.<br />
+  "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery." IEEE  Access (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10493013)] 
+  [2024.04]
+
+- **SAMPA:** Handi Deng, Yucheng Zhou, Jiaxuan Xiang, Liujie Gu, Yan Luo, Hai Feng, Mingyuan Liu, Cheng Ma.<br />
   "Streamlined Photoacoustic Image Processing with Foundation Models: A Training-Free Solution." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.07833)] 
   [[code](https://github.com/Adi-Deng/photoacoustic-SAM)]
