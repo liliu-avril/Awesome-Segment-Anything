@@ -148,6 +148,22 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Auto-Prom:** Abu Bakor Hayat Arnob, Xiangxue Wang, Yiping Jiao, Xiao Gan, Wenlong Ming, Jun Xu.<br />
+  "Pathological Primitive Segmentation Based on Visual Foundation Model with Zero-Shot Mask Generation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.08584)] 
+  [[code](https://github.com/learner-codec/autoprom_sam)]
+  [2024.04]
+
+:boom:Robin Schön, Julian Lorenz, Katja Ludwig, Rainer Lienhart.<br />
+  "Adapting the Segment Anything Model During Usage in Novel Situations." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.08421)] 
+  [2024.04]
+
+:boom:S-RA & T-RA: Yifan Shen, Zhengyuan Li, Gang Wang.<br />
+  "Practical Region-level Attack against Segment Anything Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.08255)] 
+  [2024.04]
+
 :boom:**MedRG:** Ke Zou, Yang Bai, Zhihao Chen, Yang Zhou, Yidi Chen, Kai Ren, Meng Wang, Xuedong Yuan, Xiaojing Shen, Huazhu Fu.<br />
   "MedRG: Medical Report Grounding with Multi-modal Large Language Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.06798)] 
