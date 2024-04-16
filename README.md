@@ -170,6 +170,11 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2404.08767)] 
   [[code](https://github.com/wangjunchi/LLMSeg)]
   [2024.04]
+  
+:boom:June Moh Goo, Zichao Zeng, Jan Boehm.<br />
+  "Zero-shot detection of buildings in mobile LiDAR using Language Vision Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.09931)] 
+  [2024.04]
 
 - **Auto-Prom:** Abu Bakor Hayat Arnob, Xiangxue Wang, Yiping Jiao, Xiao Gan, Wenlong Ming, Jun Xu.<br />
   "Pathological Primitive Segmentation Based on Visual Foundation Model with Zero-Shot Mask Generation." ArXiv (2024).
