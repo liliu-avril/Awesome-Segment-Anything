@@ -155,8 +155,9 @@ If you find our work useful in your research, please consider citing:
 
 :boom:**ESD:** Jieming Yu, Long Bai, Guankun Wang, An Wang, Xiaoxiao Yang, Huxin Gao, Hongliang Ren.<br />
   "Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos." IEEE ICRA C4SR+ Workshop (2024).
-  [[paper](http
-  
+  [[paper](https://arxiv.org/abs/2404.10640)] 
+  [2024.04]
+
 :boom:**Finetune-SAM:** Hanxue Gu, Haoyu Dong, Jichen Yang, Maciej A. Mazurowski.<br />
   "How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.09957)] 
