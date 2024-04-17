@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.16: Latest update of this paper list.
+- 2024.04.17: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,7 +148,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**inetune-SAM:** Hanxue Gu, Haoyu Dong, Jichen Yang, Maciej A. Mazurowski.<br />F
+:boom:**Finetune-SAM:** Hanxue Gu, Haoyu Dong, Jichen Yang, Maciej A. Mazurowski.<br />
   "How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.09957)] 
   [[code](https://github.com/mazurowski-lab/finetune-SAM)]
