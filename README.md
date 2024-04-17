@@ -148,30 +148,39 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**LAECIPS:** Shijing Hu, Ruijun Deng, Xin Du, Zhihui Lu, Qiang Duan, Yi He, Shih-Chia Huang, Jie Wu.<br />
+  "LAECIPS: Large Vision Model Assisted Adaptive Edge-Cloud Collaboration for IoT-based Perception System." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.10498)] 
+  [2024.04]
+
+:boom:**ESD:** Jieming Yu, Long Bai, Guankun Wang, An Wang, Xiaoxiao Yang, Huxin Gao, Hongliang Ren.<br />
+  "Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos." IEEE ICRA C4SR+ Workshop (2024).
+  [[paper](http
+  
 :boom:**Finetune-SAM:** Hanxue Gu, Haoyu Dong, Jichen Yang, Maciej A. Mazurowski.<br />
   "How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.09957)] 
   [[code](https://github.com/mazurowski-lab/finetune-SAM)]
   [2024.04]
 
-:boom:**Offline-evt:** Fangwei Zhong, Kui Wu, Hai Ci, Churan Wang, Hao Chen.<br />
+- **Offline-evt:** Fangwei Zhong, Kui Wu, Hai Ci, Churan Wang, Hao Chen.<br />
   "Empowering Embodied Visual Tracking with Visual Foundation Models and Offline RL." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.09857)] 
   [[code](https://sites.google.com/view/offline-evt)]
   [2024.04]
 
-:boom:**VFMM3D:** Bonan Ding, Jin Xie, Jing Nie, Jiale Cao.<br />
+- **VFMM3D:** Bonan Ding, Jin Xie, Jing Nie, Jiale Cao.<br />
   "VFMM3D: Releasing the Potential of Image by Vision Foundation Model for Monocular 3D Object Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.09431)] 
   [2024.04]
 
-:boom:**LLM-Seg:** Junchi Wang, Lei Ke.<br />
+- **LLM-Seg:** Junchi Wang, Lei Ke.<br />
   "LLM-Seg: Bridging Image Segmentation and Large Language Model Reasoning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.08767)] 
   [[code](https://github.com/wangjunchi/LLMSeg)]
   [2024.04]
   
-:boom:June Moh Goo, Zichao Zeng, Jan Boehm.<br />
+- June Moh Goo, Zichao Zeng, Jan Boehm.<br />
   "Zero-shot detection of buildings in mobile LiDAR using Language Vision Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.09931)] 
   [2024.04]
