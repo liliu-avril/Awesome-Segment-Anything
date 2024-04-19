@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.17: Latest update of this paper list.
+- 2024.04.19: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,17 +148,50 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**LAECIPS:** Shijing Hu, Ruijun Deng, Xin Du, Zhihui Lu, Qiang Duan, Yi He, Shih-Chia Huang, Jie Wu.<br />
+:boom:**Zip:** Cheng Shi, Sibei Yang.<br />
+  "The devil is in the object boundary: towards annotation-free instance segmentation using Foundation Models." ICLR (2024).
+  [[paper](https://arxiv.org/abs/2404.11957)] 
+  [[code](https://github.com/ChengShiest/Zip-Your-CLIP)]
+  [2024.04]
+
+:boom:**PPT:** Qiyuan Dai, Sibei Yang.<br />
+  "Curriculum Point Prompting for Weakly-Supervised Referring Image Segmentation." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2404.11998)] 
+  [2024.04]
+
+:boom:**FlowSAM:** Junyu Xie, Charig Yang, Weidi Xie, Andrew Zisserman.<br />
+  "Moving Object Segmentation: All You Need Is SAM (and Flow)." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.12389)] 
+  [[code](https://www.robots.ox.ac.uk/~vgg/research/flowsam/)]
+  [2024.04]
+
+:boom:**SOHES:** Shengcao Cao, Jiuxiang Gu, Jason Kuen, Hao Tan, Ruiyi Zhang, Handong Zhao, Ani Nenkova, Liang-Yan Gui, Tong Sun, Yu-Xiong Wang.<br />
+  "SOHES: Self-supervised Open-world Hierarchical Entity Segmentation." ICLR (2024).
+  [[paper](https://arxiv.org/abs/2404.12386)] 
+  [[code](https://sohes.github.io/)]
+  [2024.04]
+
+:boom:Yona Falinie A. Gaus, Neelanjan Bhowmik, Brian K. S. Isaac-Medina, Toby P. Breckon.<br />
+  "Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.12285)] 
+  [2024.04]
+
+:boom:Yiqun Xie, Zhihao Wang, Weiye Chen, Zhili Li, Xiaowei Jia, Yanhua Li, Ruichen Wang, Kangyang Chai, Ruohan Li, Sergii Skakun.<br />
+  "When are Foundation Models Effective? Understanding the Suitability for Pixel-Level Classification Using Multispectral Imagery." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.11797)] 
+  [2024.04]
+
+- **LAECIPS:** Shijing Hu, Ruijun Deng, Xin Du, Zhihui Lu, Qiang Duan, Yi He, Shih-Chia Huang, Jie Wu.<br />
   "LAECIPS: Large Vision Model Assisted Adaptive Edge-Cloud Collaboration for IoT-based Perception System." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.10498)] 
   [2024.04]
 
-:boom:**ESD:** Jieming Yu, Long Bai, Guankun Wang, An Wang, Xiaoxiao Yang, Huxin Gao, Hongliang Ren.<br />
+- **ESD:** Jieming Yu, Long Bai, Guankun Wang, An Wang, Xiaoxiao Yang, Huxin Gao, Hongliang Ren.<br />
   "Adapting SAM for Surgical Instrument Tracking and Segmentation in Endoscopic Submucosal Dissection Videos." IEEE ICRA C4SR+ Workshop (2024).
   [[paper](https://arxiv.org/abs/2404.10640)] 
   [2024.04]
 
-:boom:**Finetune-SAM:** Hanxue Gu, Haoyu Dong, Jichen Yang, Maciej A. Mazurowski.<br />
+- **Finetune-SAM:** Hanxue Gu, Haoyu Dong, Jichen Yang, Maciej A. Mazurowski.<br />
   "How to build the best medical image segmentation algorithm using foundation models: a comprehensive empirical study with Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.09957)] 
   [[code](https://github.com/mazurowski-lab/finetune-SAM)]
