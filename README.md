@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.21: Latest update of this paper list.
+- 2024.04.22: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,35 +148,51 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Zip:** Cheng Shi, Sibei Yang.<br />
+:boom:**ELEV-VISION-SAM:** Yu-Hsuan Ho, Longxiang Li, Ali Mostafavi.<br />
+  "ELEV-VISION-SAM: Integrated Vision Language and Foundation Model for Automated Estimation of Building Lowest Floor Elevation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.12606)] 
+  [2024.04]
+
+:boom:**Uni3DR^2:** Tao Chu, Pan Zhang, Xiaoyi Dong, Yuhang Zang, Qiong Liu, Jiaqi Wang.<br />
+  "Unified Scene Representation and Reconstruction for 3D Large Language Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.13044)] 
+  [[code](https://chtsy.github.io/uni3drr-page/)]
+  [2024.04]
+
+:boom:**MM-ScatterNet:** Yilong Chen, Zongyi Xu, xiaoshui Huang, Ruicheng Zhang, Xinqi Jiang, Xinbo Gao.<br />
+  "Foundation Model assisted Weakly Supervised LiDAR Semantic Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.12861)] 
+  [2024.04]
+
+- **Zip:** Cheng Shi, Sibei Yang.<br />
   "The devil is in the object boundary: towards annotation-free instance segmentation using Foundation Models." ICLR (2024).
   [[paper](https://arxiv.org/abs/2404.11957)] 
   [[code](https://github.com/ChengShiest/Zip-Your-CLIP)]
   [2024.04]
 
-:boom:**PPT:** Qiyuan Dai, Sibei Yang.<br />
+- **PPT:** Qiyuan Dai, Sibei Yang.<br />
   "Curriculum Point Prompting for Weakly-Supervised Referring Image Segmentation." CVPR (2024).
   [[paper](https://arxiv.org/abs/2404.11998)] 
   [2024.04]
 
-:boom:**FlowSAM:** Junyu Xie, Charig Yang, Weidi Xie, Andrew Zisserman.<br />
+- **FlowSAM:** Junyu Xie, Charig Yang, Weidi Xie, Andrew Zisserman.<br />
   "Moving Object Segmentation: All You Need Is SAM (and Flow)." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.12389)] 
   [[code](https://www.robots.ox.ac.uk/~vgg/research/flowsam/)]
   [2024.04]
 
-:boom:**SOHES:** Shengcao Cao, Jiuxiang Gu, Jason Kuen, Hao Tan, Ruiyi Zhang, Handong Zhao, Ani Nenkova, Liang-Yan Gui, Tong Sun, Yu-Xiong Wang.<br />
+- **SOHES:** Shengcao Cao, Jiuxiang Gu, Jason Kuen, Hao Tan, Ruiyi Zhang, Handong Zhao, Ani Nenkova, Liang-Yan Gui, Tong Sun, Yu-Xiong Wang.<br />
   "SOHES: Self-supervised Open-world Hierarchical Entity Segmentation." ICLR (2024).
   [[paper](https://arxiv.org/abs/2404.12386)] 
   [[code](https://sohes.github.io/)]
   [2024.04]
 
-:boom:Yona Falinie A. Gaus, Neelanjan Bhowmik, Brian K. S. Isaac-Medina, Toby P. Breckon.<br />
+- Yona Falinie A. Gaus, Neelanjan Bhowmik, Brian K. S. Isaac-Medina, Toby P. Breckon.<br />
   "Performance Evaluation of Segment Anything Model with Variational Prompting for Application to Non-Visible Spectrum Imagery." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.12285)] 
   [2024.04]
 
-:boom:Yiqun Xie, Zhihao Wang, Weiye Chen, Zhili Li, Xiaowei Jia, Yanhua Li, Ruichen Wang, Kangyang Chai, Ruohan Li, Sergii Skakun.<br />
+- Yiqun Xie, Zhihao Wang, Weiye Chen, Zhili Li, Xiaowei Jia, Yanhua Li, Ruichen Wang, Kangyang Chai, Ruohan Li, Sergii Skakun.<br />
   "When are Foundation Models Effective? Understanding the Suitability for Pixel-Level Classification Using Multispectral Imagery." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.11797)] 
   [2024.04]
