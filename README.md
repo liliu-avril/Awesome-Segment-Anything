@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.23: Latest update of this paper list.
+- 2024.04.24: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,28 +148,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**GeoDiffuser:** Rahul Sajnani, Jeroen Vanbaar, Jie Min, Kapil Katyal, Srinath Sridhar.<br />
+:boom:**BUSSAM:** Zhengzheng Tu, Le Gu, Xixi Wang, Bo Jiang.<br />
+  "Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.14837)] 
+  [[code](https://github.com/bscs12/BUSSAM)]
+  [2024.04]
+
+- **GeoDiffuser:** Rahul Sajnani, Jeroen Vanbaar, Jie Min, Kapil Katyal, Srinath Sridhar.<br />
   "GeoDiffuser: Geometry-Based Image Editing with Diffusion Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.14403)] 
   [[code](https://ivl.cs.brown.edu/research/geodiffuser.html)]
   [2024.04]
 
-:boom:**XXX:** Yuyan Shi, Jialu Ma, Jin Yang, Shasha Wang, Yichi Zhang.<br />
+- Yuyan Shi, Jialu Ma, Jin Yang, Shasha Wang, Yichi Zhang.<br />
   "Beyond Pixel-Wise Supervision for Medical Image Segmentation: From Traditional Models to Foundation Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.13239)] 
   [2024.04]
 
-:boom:**PM-VIS:** Zhangjing Yang, Dun Liu, Wensheng Cheng, Jinqiao Wang, Yi Wu.<br />
+- **PM-VIS:** Zhangjing Yang, Dun Liu, Wensheng Cheng, Jinqiao Wang, Yi Wu.<br />
   "PM-VIS: High-Performance Box-Supervised Video Instance Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.13863)] 
   [2024.04]
 
-:boom:**Surgical-DeSAM:** Yuyang Sheng, Sophia Bano, Matthew J. Clarkson, Mobarakol Islam.<br />
+- **Surgical-DeSAM:** Yuyang Sheng, Sophia Bano, Matthew J. Clarkson, Mobarakol Islam.<br />
   "Surgical-DeSAM: Decoupling SAM for Instrument Segmentation in Robotic Surgery." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.14040)] 
   [2024.04]
 
-:boom:**UrbanCross:** Siru Zhong, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang.<br />
+- **UrbanCross:** Siru Zhong, Xixuan Hao, Yibo Yan, Ying Zhang, Yangqiu Song, Yuxuan Liang.<br />
   "UrbanCross: Enhancing Satellite Image-Text Retrieval with Cross-Domain Adaptation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.14241)] 
   [2024.04]
