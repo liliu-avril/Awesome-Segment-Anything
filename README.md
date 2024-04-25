@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.24: Latest update of this paper list.
+- 2024.04.25: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -1788,7 +1788,7 @@ Spatial Information Research (2024).
   [2023.12]
 
 - **EventSAM:** Zhiwen Chen, Zhiyu Zhu, Yifan Zhang, Junhui Hou, Guangming Shi, Jinjian Wu.<br />
-  "Segment Any Events via Weighted Adaptation of Pivotal Tokens." ArXiv (2023).
+  "Segment Any Events via Weighted Adaptation of Pivotal Tokens." CVPR (2024).
   [[paper](https://arxiv.org/abs/2312.16222)] 
   [[code](http://github.com/happychenpipi/EventSAM)]
   [2023.12]
