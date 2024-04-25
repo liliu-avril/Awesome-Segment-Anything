@@ -148,7 +148,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**BUSSAM:** Zhengzheng Tu, Le Gu, Xixi Wang, Bo Jiang.<br />
+:boom:**HOIST-Former:** Supreeth Narasimhaswamy, Huy Anh Nguyen, Lihan Huang, Minh Hoai.<br />
+  "HOIST-Former: Hand-held Objects Identification, Segmentation, and Tracking in the Wild." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.13819)] 
+  [[code](https://supreethn.github.io/research/hoistformer/index.html)]
+  [2024.04]
+
+:boom:**CLIP-GS:** Guibiao Liao, Jiankun Li, Zhenyu Bao, Xiaoqing Ye, Jingdong Wang, Qing Li, Kanglin Liu.<br />
+  "CLIP-GS: CLIP-Informed Gaussian Splatting for Real-time and View-consistent 3D Semantic Understanding." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.14249)] 
+  [[code](https://github.com/gbliao/CLIP-GS)]
+  [2024.04]
+
+:boom:**X-Ray:** Tao Hu, Wenhang Ge, Yuyang Zhao, Gim Hee Lee.<br />
+  "X-Ray: A Sequential 3D Representation for Generation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.14329)] 
+  [2024.04]
+
+- **BUSSAM:** Zhengzheng Tu, Le Gu, Xixi Wang, Bo Jiang.<br />
   "Ultrasound SAM Adapter: Adapting SAM for Breast Lesion Segmentation in Ultrasound Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.14837)] 
   [[code](https://github.com/bscs12/BUSSAM)]
