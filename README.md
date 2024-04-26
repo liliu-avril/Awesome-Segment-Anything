@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.25: Latest update of this paper list.
+- 2024.04.26: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,19 +148,36 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**HOIST-Former:** Supreeth Narasimhaswamy, Huy Anh Nguyen, Lihan Huang, Minh Hoai.<br />
+:boom:**MAS-SAM:** Tianyu Yan, Zifu Wan, Xinhao Deng, Pingping Zhang, Yang Liu, Huchuan Lu.<br />
+  "MAS-SAM: Segment Any Marine Animal with Aggregated Features." IJCAI (2024).
+  [[paper](https://arxiv.org/abs/2404.15700)] 
+  [[code](https://github.com/Drchip61/MAS-SAM)]
+  [2024.04]
+
+:boom:Kuan-I Chung, Daniel Moyer.<br />
+  "Does SAM dream of EIG? Characterizing Interactive Segmenter Performance using Expected Information Gain." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.16155)] 
+  [2024.04]
+
+:boom:**OMEGAS:** Lizhi Wang, Feng Zhou, Jianqin Yin.<br />
+  "OMEGAS: Object Mesh Extraction from Large Scenes Guided by Gaussian Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.15891)] 
+  [[code](https://github.com/CrystalWlz/OMEGAS)]
+  [2024.04]
+
+- **HOIST-Former:** Supreeth Narasimhaswamy, Huy Anh Nguyen, Lihan Huang, Minh Hoai.<br />
   "HOIST-Former: Hand-held Objects Identification, Segmentation, and Tracking in the Wild." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.13819)] 
   [[code](https://supreethn.github.io/research/hoistformer/index.html)]
   [2024.04]
 
-:boom:**CLIP-GS:** Guibiao Liao, Jiankun Li, Zhenyu Bao, Xiaoqing Ye, Jingdong Wang, Qing Li, Kanglin Liu.<br />
+- **CLIP-GS:** Guibiao Liao, Jiankun Li, Zhenyu Bao, Xiaoqing Ye, Jingdong Wang, Qing Li, Kanglin Liu.<br />
   "CLIP-GS: CLIP-Informed Gaussian Splatting for Real-time and View-consistent 3D Semantic Understanding." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.14249)] 
   [[code](https://github.com/gbliao/CLIP-GS)]
   [2024.04]
 
-:boom:**X-Ray:** Tao Hu, Wenhang Ge, Yuyang Zhao, Gim Hee Lee.<br />
+- **X-Ray:** Tao Hu, Wenhang Ge, Yuyang Zhao, Gim Hee Lee.<br />
   "X-Ray: A Sequential 3D Representation for Generation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.14329)] 
   [2024.04]
