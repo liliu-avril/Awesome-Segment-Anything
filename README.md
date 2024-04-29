@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.26: Latest update of this paper list.
+- 2024.04.29: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,18 +148,36 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**MAS-SAM:** Tianyu Yan, Zifu Wan, Xinhao Deng, Pingping Zhang, Yang Liu, Huchuan Lu.<br />
+:boom:**SAGHOG:** Marco Peer, Florian Kleber, Robert Sablatnig.<br />
+  "SAGHOG: Self-Supervised Autoencoder for Generating HOG Features for Writer Retrieval." ICDAR (2024).
+  [[paper](https://arxiv.org/abs/2404.17221)] 
+  [[code](http://github.com/marco-peer/icdar24)]
+  [2024.04]
+
+:boom:**Auto-Generate-WLs:** Tanvi Deshpande, Eva Prakash, Elsie Gyang Ross, Curtis Langlotz, Andrew Ng, Jeya Maria Jose Valanarasu.<br />
+  "Auto-Generating Weak Labels for Real & Synthetic Data to Improve Label-Scarce Medical Image Segmentation." MIDL (2024).
+  [[paper](https://arxiv.org/abs/2404.17033)] 
+  [[code](https://github.com/stanfordmlgroup/Auto-Generate-WLs/)]
+  [2024.04]
+
+:boom:**Dr-SAM:** Vazgen Zohranyan, Vagner Navasardyan, Hayk Navasardyan, Jan Borggrefe, Shant Navasardyan.<br />
+  "Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.17029)] 
+  [[code](https://github.com/vazgenzohranyan/Dr.SAM)]
+  [2024.04]
+
+- **MAS-SAM:** Tianyu Yan, Zifu Wan, Xinhao Deng, Pingping Zhang, Yang Liu, Huchuan Lu.<br />
   "MAS-SAM: Segment Any Marine Animal with Aggregated Features." IJCAI (2024).
   [[paper](https://arxiv.org/abs/2404.15700)] 
   [[code](https://github.com/Drchip61/MAS-SAM)]
   [2024.04]
 
-:boom:Kuan-I Chung, Daniel Moyer.<br />
+- Kuan-I Chung, Daniel Moyer.<br />
   "Does SAM dream of EIG? Characterizing Interactive Segmenter Performance using Expected Information Gain." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.16155)] 
   [2024.04]
 
-:boom:**OMEGAS:** Lizhi Wang, Feng Zhou, Jianqin Yin.<br />
+- **OMEGAS:** Lizhi Wang, Feng Zhou, Jianqin Yin.<br />
   "OMEGAS: Object Mesh Extraction from Large Scenes Guided by Gaussian Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.15891)] 
   [[code](https://github.com/CrystalWlz/OMEGAS)]
