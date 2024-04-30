@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.29: Latest update of this paper list.
+- 2024.04.30: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,19 +148,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAGHOG:** Marco Peer, Florian Kleber, Robert Sablatnig.<br />
+:boom:Shimian Zhang, Qiuhong Lu.<br />
+  "Innovative Integration of Visual Foundation Model with a Robotic Arm on a Mobile Platform." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2404.18720)] 
+  [2024.04]
+
+- **SAGHOG:** Marco Peer, Florian Kleber, Robert Sablatnig.<br />
   "SAGHOG: Self-Supervised Autoencoder for Generating HOG Features for Writer Retrieval." ICDAR (2024).
   [[paper](https://arxiv.org/abs/2404.17221)] 
   [[code](http://github.com/marco-peer/icdar24)]
   [2024.04]
 
-:boom:**Auto-Generate-WLs:** Tanvi Deshpande, Eva Prakash, Elsie Gyang Ross, Curtis Langlotz, Andrew Ng, Jeya Maria Jose Valanarasu.<br />
+- **Auto-Generate-WLs:** Tanvi Deshpande, Eva Prakash, Elsie Gyang Ross, Curtis Langlotz, Andrew Ng, Jeya Maria Jose Valanarasu.<br />
   "Auto-Generating Weak Labels for Real & Synthetic Data to Improve Label-Scarce Medical Image Segmentation." MIDL (2024).
   [[paper](https://arxiv.org/abs/2404.17033)] 
   [[code](https://github.com/stanfordmlgroup/Auto-Generate-WLs/)]
   [2024.04]
 
-:boom:**Dr-SAM:** Vazgen Zohranyan, Vagner Navasardyan, Hayk Navasardyan, Jan Borggrefe, Shant Navasardyan.<br />
+- **Dr-SAM:** Vazgen Zohranyan, Vagner Navasardyan, Hayk Navasardyan, Jan Borggrefe, Shant Navasardyan.<br />
   "Dr-SAM: An End-to-End Framework for Vascular Segmentation, Diameter Estimation, and Anomaly Detection on Angiography Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.17029)] 
   [[code](https://github.com/vazgenzohranyan/Dr.SAM)]
