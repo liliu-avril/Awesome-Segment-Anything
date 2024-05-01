@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.04.30: Latest update of this paper list.
+- 2024.05.01: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -378,8 +378,9 @@ If you find our work useful in your research, please consider citing:
   [2024.04]
 
 - **SaLIP:** Sidra Aleem, Fangyijie Wang, Mayug Maniparambil, Eric Arazo, Julia Dietlmeier, Kathleen Curran, Noel E. O'Connor, Suzanne Little.<br />
-  "Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero shot Medical Image Segmentation." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2404.06362)] 
+  "Test-Time Adaptation with SaLIP: A Cascade of SAM and CLIP for Zero-shot Medical Image Segmentation." CVPR Workshops (2024).
+  [[paper](https://arxiv.org/abs/2404.06362)]
+  [[code](https://github.com/aleemsidra/SaLIP)]
   [2024.04]
 
 - **CTL:** Anas Gouda, Max Schwarz, Christopher Reining, Sven Behnke, Alice Kirchheim.<br />
