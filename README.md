@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.01: Latest update of this paper list.
+- 2024.05.02: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,7 +148,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Shimian Zhang, Qiuhong Lu.<br />
+:boom:**ASAM:** Bo Li, Haoke Xiao, Lv Tang.<br />
+  "ASAM: Boosting Segment Anything Model with Adversarial Tuning." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2405.00256)] 
+  [[code](https://asam2024.github.io/)]
+  [2024.04]
+
+:boom:**MoPEFT:** Rajat Sahay, Andreas Savakis.<br />
+  "MoPEFT: A Mixture-of-PEFTs for the Segment Anything Model." CVPR Workshops (2024).
+  [[paper](https://arxiv.org/abs/2405.00293)] 
+  [2024.04]
+
+- Shimian Zhang, Qiuhong Lu.<br />
   "Innovative Integration of Visual Foundation Model with a Robotic Arm on a Mobile Platform." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.18720)] 
   [2024.04]
