@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.02: Latest update of this paper list.
+- 2024.05.03: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,13 +148,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**ASAM:** Bo Li, Haoke Xiao, Lv Tang.<br />
+:boom:Prateek Verma, Minh-Hao Van, Xintao Wu.<br />
+  "Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.00876)] 
+  [2024.04]
+
+- **ASAM:** Bo Li, Haoke Xiao, Lv Tang.<br />
   "ASAM: Boosting Segment Anything Model with Adversarial Tuning." CVPR (2024).
   [[paper](https://arxiv.org/abs/2405.00256)] 
   [[code](https://asam2024.github.io/)]
   [2024.04]
 
-:boom:**MoPEFT:** Rajat Sahay, Andreas Savakis.<br />
+- **MoPEFT:** Rajat Sahay, Andreas Savakis.<br />
   "MoPEFT: A Mixture-of-PEFTs for the Segment Anything Model." CVPR Workshops (2024).
   [[paper](https://arxiv.org/abs/2405.00293)] 
   [2024.04]
