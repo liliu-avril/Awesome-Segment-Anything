@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.03: Latest update of this paper list.
+- 2024.05.07: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,7 +148,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Prateek Verma, Minh-Hao Van, Xintao Wu.<br />
+:boom:**PTQ4SAM:** Chengtao Lv, Hong Chen, Jinyang Guo, Yifu Ding, Xianglong Liu.<br />
+  "PTQ4SAM: Post-Training Quantization for Segment Anything." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2405.03144)] 
+  [[code](https://github.com/chengtao-lv/PTQ4SAM)]
+  [2024.05]
+
+:boom:**UnSAMFlow:** Shuai Yuan, Lei Luo, Zhuo Hui, Can Pu, Xiaoyu Xiang, Rakesh Ranjan, Denis Demandolx.<br />
+  "UnSAMFlow: Unsupervised Optical Flow Guided by Segment Anything Model." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2405.02608)] 
+  [[code](https://github.com/facebookresearch/UnSAMFlow)]
+  [2024.05]
+
+:boom:**YOLO-SAM:** Yu Zhu, Qiang Yang, Li Xu.<br />
+  "Active Learning Enabled Low-cost Cell Image Segmentation Using Bounding Box Annotation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.01701)] 
+  [2024.05]
+
+- Prateek Verma, Minh-Hao Van, Xintao Wu.<br />
   "Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.00876)] 
   [2024.04]
