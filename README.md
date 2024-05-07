@@ -165,6 +165,13 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2405.01701)] 
   [2024.05]
 
+:boom:**M2Depth:** Yingshuang Zou, Yikang Ding, Xi Qiu, Haoqian Wang, Haotian Zhang.<br />
+  "M2Depth: Self-supervised Two-Frame Multi-camera Metric Depth Estimation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.02004)] 
+  [[code](https://heiheishuang.xyz/M2Depth/)]
+  [2024.05]
+
+
 - Prateek Verma, Minh-Hao Van, Xintao Wu.<br />
   "Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.00876)] 
