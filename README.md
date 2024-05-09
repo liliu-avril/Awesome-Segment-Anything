@@ -148,7 +148,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:*WSPoly-SAM:** Tingting Cai and Hongping Yan and Kun Ding and Yan Zhang and Yueyue Zhou.<br />
+:boom:**WSPoly-SAM:** Tingting Cai and Hongping Yan and Kun Ding and Yan Zhang and Yueyue Zhou.<br />
   "WSPoly-SAM: Weakly-Supervised and Self-Guided Fine-Tuning of SAM for Colonoscopy Polyp Segmentation." ArXiv (2024).
   [[paper](https://www.preprints.org/manuscript/202405.0389/v1)] 
   [2024.05]
