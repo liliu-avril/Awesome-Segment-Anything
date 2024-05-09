@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.08: Latest update of this paper list.
+- 2024.05.09: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,7 +148,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**ELiTe:** Zhibo Zhang, Ximing Yang, Weizhong Zhang, Cheng Jin.<br />
+:boom:*WSPoly-SAM:** Tingting Cai and Hongping Yan and Kun Ding and Yan Zhang and Yueyue Zhou.<br />
+  "WSPoly-SAM: Weakly-Supervised and Self-Guided Fine-Tuning of SAM for Colonoscopy Polyp Segmentation." ArXiv (2024).
+  [[paper](https://www.preprints.org/manuscript/202405.0389/v1)] 
+  [2024.05]
+
+- **ELiTe:** Zhibo Zhang, Ximing Yang, Weizhong Zhang, Cheng Jin.<br />
   "ELiTe: Efficient Image-to-LiDAR Knowledge Transfer for Semantic Segmentation." ICME  (2024).
   [[paper](https://arxiv.org/abs/2405.04121)] 
   [2024.05]
