@@ -148,6 +148,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Jin Kousaka, Atsuko H. Iwane, Yuichi Togashi.<br />
+  "Automated Cell Structure Extraction for 3D Electron Microscopy by Deep Learning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.06303)] 
+  [2024.05]
+
+:boom:Elham Ravanbakhsh, Cheng Niu, Yongqing Liang, J. Ramanujam, Xin Li.<br />
+  "Enhancing Weakly Supervised Semantic Segmentation with Multi-modal Foundation Models: An End-to-End Approach." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.06586)] 
+  [2024.05]
+
 :boom:**DiffMatch:** Kaiyu Li, Xiangyong Cao, Yupeng Deng, Deyu Meng.<br />
   "DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.04788)] 
