@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.09: Latest update of this paper list.
+- 2024.05.13: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,7 +148,29 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**WSPoly-SAM:** Tingting Cai and Hongping Yan and Kun Ding and Yan Zhang and Yueyue Zhou.<br />
+:boom:**DiffMatch:** Kaiyu Li, Xiangyong Cao, Yupeng Deng, Deyu Meng.<br />
+  "DiffMatch: Visual-Language Guidance Makes Better Semi-supervised Change Detector." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.04788)] 
+  [2024.05]
+
+:boom:**SegAD:** Aimira Baitieva, David Hurych, Victor Besnier, Olivier Bernard.<br />
+  "Supervised Anomaly Detection for Complex Industrial Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.04953)] 
+  [[code](https://github.com/abc-125/segad)]
+  [2024.05]
+
+:boom:**WBNet:** Yi Wang, et al.<br />
+  "WBNet: Weakly-supervised salient object detection via scribble and pseudo-background priors." Pattern Recognition (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324003303)] 
+  [[code](https://github.com/yiwangtz/WBNet)]
+  [2024.05]
+
+:boom:Kevin Charles Bierlich, Sagar Karki, Clara N. Bird, Alan Fern, Leigh G. Torres.<br />
+  "Automated body length and body condition measurements of whales from drone videos for rapid assessment of population health." Marine Mammal Science (2024).
+  [[paper](https://onlinelibrary.wiley.com/doi/full/10.1111/mms.13137)] 
+  [2024.05]
+
+- **WSPoly-SAM:** Tingting Cai and Hongping Yan and Kun Ding and Yan Zhang and Yueyue Zhou.<br />
   "WSPoly-SAM: Weakly-Supervised and Self-Guided Fine-Tuning of SAM for Colonoscopy Polyp Segmentation." ArXiv (2024).
   [[paper](https://www.preprints.org/manuscript/202405.0389/v1)] 
   [2024.05]
