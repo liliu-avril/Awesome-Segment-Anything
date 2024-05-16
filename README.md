@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.15: Latest update of this paper list.
+- 2024.05.16: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,12 +148,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SLIP:** Saaketh Koundinya Gundavarapu, Arushi Arora, Shreya Agarwal.<br />
+:boom:**M4oE:** Yufeng Jiang, Yiqing Shen.<br />
+  "M4oE: A Foundation Model for Medical Multimodal Image Segmentation with Mixture of Experts." ArXiv (2024).
+  [[paper](https://arxiv.org/pdf/2405.09446)] 
+  [[code](https://github.com/JefferyJiang-YF/M4oE)]
+  [2024.05]
+
+- **SLIP:** Saaketh Koundinya Gundavarapu, Arushi Arora, Shreya Agarwal.<br />
   "Zero Shot Context-Based Object Segmentation using SLIP (SAM+CLIP)." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.07284)] 
   [2024.05]
 
-:boom:**SAM3D:** Trevor J. Chan, Aarush Sahni, Jie Li, Alisha Luthra, Amy Fang, Alison Pouch, Chamith S. Rajapakse.<br />
+- **SAM3D:** Trevor J. Chan, Aarush Sahni, Jie Li, Alisha Luthra, Amy Fang, Alison Pouch, Chamith S. Rajapakse.<br />
   "SAM3D: Zero-Shot Semi-Automatic Segmentation in 3D Medical Images with the Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.06786)] 
   [2024.05]
