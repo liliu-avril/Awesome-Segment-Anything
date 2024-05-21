@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.20: Latest update of this paper list.
+- 2024.05.21: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,12 +148,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAMReg:** Shiqi Huang, Tingfa Xu, Ziyi Shen, Shaheer Ullah Saeed, Wen Yan, Dean Barratt, Yipeng Hu.<br />
+:boom:**UO-SAM:** Tingting Li, Gensheng Pei, Xinhao Cai, Huafeng Liu, Qiong Wang, Yazhou Yao.<br />
+  "Universal Organizer of SAM for Unsupervised Semantic Segmentation." ICME (2024).
+  [[paper](https://arxiv.org/abs/2405.11742)] 
+  [[code](https://github.com/NUST-Machine-Intelligence-Laboratory/UO-SAM)]
+  [2024.05]
+
+:boom:**TAR:** Tharun V. Puthanveettil, Fnu Obaid ur Rahman.<br />
+  "Track Anything Rapter(TAR)." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.11655)] 
+  [[code](https://github.com/tvpian/Project-TAR)]
+  [2024.05]
+
+:boom:Zhiyu Xu, Qingliang Chen.<br />
+  "NubbleDrop: A Simple Way to Improve Matching Strategy for Prompted One-Shot Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.11476)] 
+  [2024.05]
+
+:boom:Mounes Zaval, Sedat Ozer.<br />
+  "Improving the Explain-Any-Concept by Introducing Nonlinearity to the Trainable Surrogate Model." IEEE SIU (2024).
+  [[paper](https://arxiv.org/abs/2405.11837)] 
+  [2024.05]
+
+- **SAMReg:** Shiqi Huang, Tingfa Xu, Ziyi Shen, Shaheer Ullah Saeed, Wen Yan, Dean Barratt, Yipeng Hu.<br />
   "One registration is worth two segmentations." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2405.10879)] 
   [2024.05]
 
-:boom:**USIS10K & USIS-SAM:** Lian, Shijie and Zhang, Ziyi and Li, Hua and Li, Wenjie and Yang, Laurence Tianruo and Kwong, Sam and Cong, Runmin.<br />
+- **USIS10K & USIS-SAM:** Lian, Shijie and Zhang, Ziyi and Li, Hua and Li, Wenjie and Yang, Laurence Tianruo and Kwong, Sam and Cong, Runmin.<br />
   "Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset." ICML (2024).
   [[paper](https://github.com/LiamLian0727/USIS10K/blob/main)] 
   [[code](https://github.com/LiamLian0727/USIS10K/tree/main)]
