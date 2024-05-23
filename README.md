@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.21: Latest update of this paper list.
+- 2024.05.23: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**WorldAfford:** Changmao Chen, Yuren Cong, Zhen Kan.<br />
+  "WorldAfford: Affordance Grounding based on Natural Language Instructions." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.12461)] 
+  [2024.05]
+
 :boom:**UO-SAM:** Tingting Li, Gensheng Pei, Xinhao Cai, Huafeng Liu, Qiong Wang, Yazhou Yao.<br />
   "Universal Organizer of SAM for Unsupervised Semantic Segmentation." ICME (2024).
   [[paper](https://arxiv.org/abs/2405.11742)] 
