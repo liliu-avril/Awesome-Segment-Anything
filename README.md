@@ -148,6 +148,10 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**DTLLM-VLT:** Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang.<br />
+  "DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM." CVPRW (2024).
+  [[paper](https://arxiv.org/abs/2405.12139)] 
+
 :boom:**WorldAfford:** Changmao Chen, Yuren Cong, Zhen Kan.<br />
   "WorldAfford: Affordance Grounding based on Natural Language Instructions." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.12461)] 
