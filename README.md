@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.23: Latest update of this paper list.
+- 2024.05.24: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,33 +148,48 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**DTLLM-VLT:** Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang.<br />
+:boom:**DBA-CLIP:** Xiaobo Yang, Xiaojin Gong.<br />
+  "Tuning-free Universally-Supervised Semantic Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.14294)] 
+  [2024.05]
+
+:boom:**FAM:** Qijian Zhang, Junhui Hou, Wenping Wang, Ying He.<br />
+  "Flatten Anything: Unsupervised Neural Surface Parameterization." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.14633)] 
+  [2024.05]
+
+:boom:Zipeng Qi, Chenyang Liu, Zili Liu, Hao Chen, Yongchang Wu, Zhengxia Zou, Zhenwei Sh.<br />
+  "Multi-view Remote Sensing Image Segmentation With SAM priors." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.14171)] 
+  [2024.05]
+
+- **DTLLM-VLT:** Xuchen Li, Xiaokun Feng, Shiyu Hu, Meiqi Wu, Dailing Zhang, Jing Zhang, Kaiqi Huang.<br />
   "DTLLM-VLT: Diverse Text Generation for Visual Language Tracking Based on LLM." CVPRW (2024).
   [[paper](https://arxiv.org/abs/2405.12139)] 
 
-:boom:**WorldAfford:** Changmao Chen, Yuren Cong, Zhen Kan.<br />
+- **WorldAfford:** Changmao Chen, Yuren Cong, Zhen Kan.<br />
   "WorldAfford: Affordance Grounding based on Natural Language Instructions." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.12461)] 
   [2024.05]
 
-:boom:**UO-SAM:** Tingting Li, Gensheng Pei, Xinhao Cai, Huafeng Liu, Qiong Wang, Yazhou Yao.<br />
+- **UO-SAM:** Tingting Li, Gensheng Pei, Xinhao Cai, Huafeng Liu, Qiong Wang, Yazhou Yao.<br />
   "Universal Organizer of SAM for Unsupervised Semantic Segmentation." ICME (2024).
   [[paper](https://arxiv.org/abs/2405.11742)] 
   [[code](https://github.com/NUST-Machine-Intelligence-Laboratory/UO-SAM)]
   [2024.05]
 
-:boom:**TAR:** Tharun V. Puthanveettil, Fnu Obaid ur Rahman.<br />
+- **TAR:** Tharun V. Puthanveettil, Fnu Obaid ur Rahman.<br />
   "Track Anything Rapter(TAR)." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.11655)] 
   [[code](https://github.com/tvpian/Project-TAR)]
   [2024.05]
 
-:boom:Zhiyu Xu, Qingliang Chen.<br />
+- Zhiyu Xu, Qingliang Chen.<br />
   "NubbleDrop: A Simple Way to Improve Matching Strategy for Prompted One-Shot Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.11476)] 
   [2024.05]
 
-:boom:Mounes Zaval, Sedat Ozer.<br />
+- Mounes Zaval, Sedat Ozer.<br />
   "Improving the Explain-Any-Concept by Introducing Nonlinearity to the Trainable Surrogate Model." IEEE SIU (2024).
   [[paper](https://arxiv.org/abs/2405.11837)] 
   [2024.05]
