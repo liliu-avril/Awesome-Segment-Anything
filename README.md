@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.24: Latest update of this paper list.
+- 2024.05.26: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,17 +148,38 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**DBA-CLIP:** Xiaobo Yang, Xiaojin Gong.<br />
+:boom:**MoME:** Xinru Zhang, Ni Ou, Berke Doga Basaran, Marco Visentin, Mengyun Qiao, Renyang Gu, Cheng Ouyang, Yaou Liu, Paul M. Matthew, Chuyang Ye, Wenjia Bai.<br />
+  "A Foundation Model for Brain Lesion Segmentation with Mixture of Modality Experts." MICCAI  (2024).
+  [[paper](https://arxiv.org/abs/2405.10246)] 
+  [2024.05]
+
+:boom:**OLIVINE:** Yifan Zhang, Junhui Hou.<br />
+  "Fine-grained Image-to-LiDAR Contrastive Distillation with Visual Foundation Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.14271)] 
+  [[code](https://github.com/Eaphan/OLIVINE.)]
+  [2024.05]
+
+:boom:**FreeTuner:** Youcan Xu, Zhen Wang, Jun Xiao, Wei Liu, Long Chen.<br />
+  "FreeTuner: Any Subject in Any Style with Training-free Diffusion." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.14201)] 
+  [2024.05]
+
+:boom:**UroSAM:** Leng, Jixuan and Liu, Junfei and Cheng, Galen and Wang, Haohan and Quarrier, Scott Orzech and Luo, Jiebo and Jain, Rajat.<br />
+  "Development of UroSAM: a machine learning model to automatically identify kidney stone composition from endoscopic video." Journal of Endourology (2024).
+  [[paper](https://www.liebertpub.com/doi/abs/10.1089/end.2023.0740?casa_token=w2fwDmE_-swAAAAA%3AvQ_F2iaHPYMxOOlhV4z2iaK3X5nE9V0gsUBoD93FqbW5DJa3XkaB2d5X9lmZSeRBtjJRtqkzttM4Amx8)] 
+  [2024.05]
+
+- **DBA-CLIP:** Xiaobo Yang, Xiaojin Gong.<br />
   "Tuning-free Universally-Supervised Semantic Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.14294)] 
   [2024.05]
 
-:boom:**FAM:** Qijian Zhang, Junhui Hou, Wenping Wang, Ying He.<br />
+- **FAM:** Qijian Zhang, Junhui Hou, Wenping Wang, Ying He.<br />
   "Flatten Anything: Unsupervised Neural Surface Parameterization." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.14633)] 
   [2024.05]
 
-:boom:Zipeng Qi, Chenyang Liu, Zili Liu, Hao Chen, Yongchang Wu, Zhengxia Zou, Zhenwei Sh.<br />
+- Zipeng Qi, Chenyang Liu, Zili Liu, Hao Chen, Yongchang Wu, Zhengxia Zou, Zhenwei Sh.<br />
   "Multi-view Remote Sensing Image Segmentation With SAM priors." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.14171)] 
   [2024.05]
