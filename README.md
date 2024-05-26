@@ -2414,7 +2414,7 @@ Spatial Information Research (2024).
   [2023.12]
 
 - **AM-RADIO:** Mike Ranzinger, Greg Heinrich, Jan Kautz, Pavlo Molchanov.<br />
-  "AM-RADIO: Agglomerative Model – Reduce All Domains Into One." ArXiv (2023).
+  "AM-RADIO: Agglomerative Model – Reduce All Domains Into One." CVPR (2024).
   [[paper](https://arxiv.org/abs/2312.06709)] 
   [[code](https://github.com/NVlabs/RADIO)]
   [2023.12]
