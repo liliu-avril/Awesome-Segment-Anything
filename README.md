@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.26: Latest update of this paper list.
+- 2024.05.27: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,23 +148,35 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**MoME:** Xinru Zhang, Ni Ou, Berke Doga Basaran, Marco Visentin, Mengyun Qiao, Renyang Gu, Cheng Ouyang, Yaou Liu, Paul M. Matthew, Chuyang Ye, Wenjia Bai.<br />
+:boom:**OV-SAM3D:** Hanchen Tai, Qingdong He, Jiangning Zhang, Yijie Qian, Zhenyu Zhang, Xiaobin Hu, Yabiao Wang, Yong Liu.<br />
+  "Open-Vocabulary SAM3D: Understand Any 3D Scene." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.15580)] 
+  [[project](https://hithqd.github.io/projects/OV-SAM3D/)]
+  [[code](https://github.com/HanchenTai/OV-SAM3D)]
+  [2024.05]
+
+:boom:Yuchun Guo, Zhiqing Lu, Yanling Zhou, Xin Jiang.<br />
+  "Autonomous Quilt Spreading for Caregiving Robots." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.15373)] 
+  [2024.05]
+
+- **MoME:** Xinru Zhang, Ni Ou, Berke Doga Basaran, Marco Visentin, Mengyun Qiao, Renyang Gu, Cheng Ouyang, Yaou Liu, Paul M. Matthew, Chuyang Ye, Wenjia Bai.<br />
   "A Foundation Model for Brain Lesion Segmentation with Mixture of Modality Experts." MICCAI  (2024).
   [[paper](https://arxiv.org/abs/2405.10246)] 
   [2024.05]
 
-:boom:**OLIVINE:** Yifan Zhang, Junhui Hou.<br />
+- **OLIVINE:** Yifan Zhang, Junhui Hou.<br />
   "Fine-grained Image-to-LiDAR Contrastive Distillation with Visual Foundation Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.14271)] 
   [[code](https://github.com/Eaphan/OLIVINE.)]
   [2024.05]
 
-:boom:**FreeTuner:** Youcan Xu, Zhen Wang, Jun Xiao, Wei Liu, Long Chen.<br />
+- **FreeTuner:** Youcan Xu, Zhen Wang, Jun Xiao, Wei Liu, Long Chen.<br />
   "FreeTuner: Any Subject in Any Style with Training-free Diffusion." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.14201)] 
   [2024.05]
 
-:boom:**UroSAM:** Leng, Jixuan and Liu, Junfei and Cheng, Galen and Wang, Haohan and Quarrier, Scott Orzech and Luo, Jiebo and Jain, Rajat.<br />
+- **UroSAM:** Leng, Jixuan and Liu, Junfei and Cheng, Galen and Wang, Haohan and Quarrier, Scott Orzech and Luo, Jiebo and Jain, Rajat.<br />
   "Development of UroSAM: a machine learning model to automatically identify kidney stone composition from endoscopic video." Journal of Endourology (2024).
   [[paper](https://www.liebertpub.com/doi/abs/10.1089/end.2023.0740?casa_token=w2fwDmE_-swAAAAA%3AvQ_F2iaHPYMxOOlhV4z2iaK3X5nE9V0gsUBoD93FqbW5DJa3XkaB2d5X9lmZSeRBtjJRtqkzttM4Amx8)] 
   [2024.05]
