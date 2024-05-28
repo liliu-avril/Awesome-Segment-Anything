@@ -2313,7 +2313,7 @@ Spatial Information Research (2024).
   [2023.12]
 
 - **Osprey:** Yuqian Yuan, Wentong Li, Jian Liu, Dongqi Tang, Xinjie Luo, Chi Qin, Lei Zhang, Jianke Zhu.<br />
-  "Osprey: Pixel Understanding with Visual Instruction Tuning." ArXiv (2023).
+  "Osprey: Pixel Understanding with Visual Instruction Tuning." CVPR (2024).
   [[paper](https://arxiv.org/abs/2312.10032)] 
   [[code](https://github.com/CircleRadon/Osprey)]
   [2023.12]
