@@ -148,6 +148,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**MemSAM:** Xiaolong Deng, Huisi Wu, Runhao Zeng, Jing Qin.<br />
+  "MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation." CVPR (2024).
+  [[paper](https://github.com/dengxl0520/MemSAM/blob/main/paper.pdf)] 
+  [[code](https://github.com/dengxl0520/MemSAM)]
+  [2024.05]
+
 :boom:**Part123:** Anran Liu, Cheng Lin, Yuan Liu, Xiaoxiao Long, Zhiyang Dou, Hao-Xiang Guo, Ping Luo, Wenping Wang.<br />
   "Part123: Part-aware 3D Reconstruction from a Single-view Image." SIGGRAPH  (2024).
   [[paper](https://arxiv.org/abs/2405.16888)] 
