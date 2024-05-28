@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.27: Latest update of this paper list.
+- 2024.05.28: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,14 +148,32 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**OV-SAM3D:** Hanchen Tai, Qingdong He, Jiangning Zhang, Yijie Qian, Zhenyu Zhang, Xiaobin Hu, Yabiao Wang, Yong Liu.<br />
+:boom:**Part123:** Anran Liu, Cheng Lin, Yuan Liu, Xiaoxiao Long, Zhiyang Dou, Hao-Xiang Guo, Ping Luo, Wenping Wang.<br />
+  "Part123: Part-aware 3D Reconstruction from a Single-view Image." SIGGRAPH  (2024).
+  [[paper](https://arxiv.org/abs/2405.16888)] 
+  [[code](https://liuar0512.github.io/part123_official_page/)]
+  [2024.05]
+
+:boom:**PP-SAM:** Md Mostafijur Rahman, Mustafa Munir, Debesh Jha, Ulas Bagci, Radu Marculescu.<br />
+  "PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation." CVPRW (2024).
+  [[paper](https://arxiv.org/abs/2405.16740)] 
+  [[code](https://github.com/SLDGroup/PP-SAM)]
+  [2024.05]
+
+:boom:**SA-GS:** Butian Xiong, Xiaoyu Ye, Tze Ho Elden Tse, Kai Han, Shuguang Cui, Zhen Li.<br />
+  "SA-GS: Semantic-Aware Gaussian Splatting for Large Scene Reconstruction with Geometry Constrain." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.16923)] 
+  [[code](https://saliteta.github.io/SA-GS)]
+  [2024.05]
+
+- **OV-SAM3D:** Hanchen Tai, Qingdong He, Jiangning Zhang, Yijie Qian, Zhenyu Zhang, Xiaobin Hu, Yabiao Wang, Yong Liu.<br />
   "Open-Vocabulary SAM3D: Understand Any 3D Scene." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.15580)] 
   [[project](https://hithqd.github.io/projects/OV-SAM3D/)]
   [[code](https://github.com/HanchenTai/OV-SAM3D)]
   [2024.05]
 
-:boom:Yuchun Guo, Zhiqing Lu, Yanling Zhou, Xin Jiang.<br />
+- Yuchun Guo, Zhiqing Lu, Yanling Zhou, Xin Jiang.<br />
   "Autonomous Quilt Spreading for Caregiving Robots." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.15373)] 
   [2024.05]
