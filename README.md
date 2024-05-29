@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.28: Latest update of this paper list.
+- 2024.05.29: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,25 +148,36 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**MemSAM:** Xiaolong Deng, Huisi Wu, Runhao Zeng, Jing Qin.<br />
+:boom:**PLUG:** Zhaochen Liu, Limeng Qiao, Xiangxiang Chu, Tingting Jiang.<br />
+  "PLUG: Revisiting Amodal Segmentation with Foundation Model and Hierarchical Focus." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.16094)] 
+  [2024.05]
+
+:boom:**NIDS-Net:** Yangxiao Lu, Jishnu Jaykumar P, Yunhui Guo, Nicholas Ruozzi, Yu Xiang.<br />
+  "Adapting Pre-Trained Vision Models for Novel Instance Detection and Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.17859)] 
+  [[code](https://github.com/YoungSean/NIDS-Net)]
+  [2024.05]
+
+- **MemSAM:** Xiaolong Deng, Huisi Wu, Runhao Zeng, Jing Qin.<br />
   "MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation." CVPR (2024).
   [[paper](https://github.com/dengxl0520/MemSAM/blob/main/paper.pdf)] 
   [[code](https://github.com/dengxl0520/MemSAM)]
   [2024.05]
 
-:boom:**Part123:** Anran Liu, Cheng Lin, Yuan Liu, Xiaoxiao Long, Zhiyang Dou, Hao-Xiang Guo, Ping Luo, Wenping Wang.<br />
+- **Part123:** Anran Liu, Cheng Lin, Yuan Liu, Xiaoxiao Long, Zhiyang Dou, Hao-Xiang Guo, Ping Luo, Wenping Wang.<br />
   "Part123: Part-aware 3D Reconstruction from a Single-view Image." SIGGRAPH  (2024).
   [[paper](https://arxiv.org/abs/2405.16888)] 
   [[code](https://liuar0512.github.io/part123_official_page/)]
   [2024.05]
 
-:boom:**PP-SAM:** Md Mostafijur Rahman, Mustafa Munir, Debesh Jha, Ulas Bagci, Radu Marculescu.<br />
+- **PP-SAM:** Md Mostafijur Rahman, Mustafa Munir, Debesh Jha, Ulas Bagci, Radu Marculescu.<br />
   "PP-SAM: Perturbed Prompts for Robust Adaptation of Segment Anything Model for Polyp Segmentation." CVPRW (2024).
   [[paper](https://arxiv.org/abs/2405.16740)] 
   [[code](https://github.com/SLDGroup/PP-SAM)]
   [2024.05]
 
-:boom:**SA-GS:** Butian Xiong, Xiaoyu Ye, Tze Ho Elden Tse, Kai Han, Shuguang Cui, Zhen Li.<br />
+- **SA-GS:** Butian Xiong, Xiaoyu Ye, Tze Ho Elden Tse, Kai Han, Shuguang Cui, Zhen Li.<br />
   "SA-GS: Semantic-Aware Gaussian Splatting for Large Scene Reconstruction with Geometry Constrain." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.16923)] 
   [[code](https://saliteta.github.io/SA-GS)]
