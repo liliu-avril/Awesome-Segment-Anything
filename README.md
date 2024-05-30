@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.29: Latest update of this paper list.
+- 2024.05.30: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,12 +148,29 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**PLUG:** Zhaochen Liu, Limeng Qiao, Xiangxiang Chu, Tingting Jiang.<br />
+:boom:**FocSAM:** You Huang, Zongyu Lan, Liujuan Cao, Xianming Lin, Shengchuan Zhang, Guannan Jiang, Rongrong Ji.<br />
+  "FocSAM: Delving Deeply into Focused Objects in Segmenting Anything." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2405.18706)] 
+  [[code](https://github.com/YouHuang67/focsam)]
+  [2024.05]
+
+:boom:**Reasoning3D:** Tianrun Chen, Chunan Yu, Jing Li, Jianqi Zhang, Lanyun Zhu, Deyi Ji, Yong Zhang, Ying Zang, Zejian Li, Lingyun Sun.<br />
+  "Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.19326)] 
+  [[code](http://tianrun-chen.github.io/Reason3D/)]
+  [2024.05]
+
+:boom:Aditya Gunturu, Yi Wen, Jarin Thundathil, Nandi Zhang, Rubaiat Habib Kazi, Ryo Suzuki.<br />
+  "Augmented Physics: A Machine Learning-Powered Tool for Creating Interactive Physics Simulations from Static Diagrams." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.18614)] 
+  [2024.05]
+
+- **PLUG:** Zhaochen Liu, Limeng Qiao, Xiangxiang Chu, Tingting Jiang.<br />
   "PLUG: Revisiting Amodal Segmentation with Foundation Model and Hierarchical Focus." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.16094)] 
   [2024.05]
 
-:boom:**NIDS-Net:** Yangxiao Lu, Jishnu Jaykumar P, Yunhui Guo, Nicholas Ruozzi, Yu Xiang.<br />
+- **NIDS-Net:** Yangxiao Lu, Jishnu Jaykumar P, Yunhui Guo, Nicholas Ruozzi, Yu Xiang.<br />
   "Adapting Pre-Trained Vision Models for Novel Instance Detection and Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.17859)] 
   [[code](https://github.com/YoungSean/NIDS-Net)]
