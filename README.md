@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.30: Latest update of this paper list.
+- 2024.05.31: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,19 +148,60 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**FocSAM:** You Huang, Zongyu Lan, Liujuan Cao, Xianming Lin, Shengchuan Zhang, Guannan Jiang, Rongrong Ji.<br />
+:boom:**DISAM:** Ruipeng Zhang, Ziqing Fan, Jiangchao Yao, Ya Zhang, Yanfeng Wang.<br />
+  "Domain-Inspired Sharpness-Aware Minimization Under Domain Shifts." ICLR (2024).
+  [[paper](https://arxiv.org/abs/2405.18861)] 
+  [[code](https://github.com/MediaBrain-SJTU/DISAM)]
+  [2024.05]
+
+:boom:**SAM-E:** Junjie Zhang, Chenjia Bai, Haoran He, Wenke Xia, Zhigang Wang, Bin Zhao, Xiu Li, Xuelong Li.<br />
+  "SAM-E: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation." ICML  (2024).
+  [[paper](https://arxiv.org/abs/2405.19586)] 
+  [[project](https://sam-embodied.github.io/)]
+ [[code](https://github.com/pipixiaqishi1/SAM-E)]
+  [2024.05]
+
+:boom:Haodi He, Colton Stearns, Adam W. Harley, Leonidas J. Guibas.<br />
+  "View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.19678)] 
+  [[code](https://github.com/hardyho/ultrametric_feature_fields)]
+  [2024.05]
+
+:boom:**FMARS:** Edoardo Arnaudo, Jacopo Lungo Vaschetti, Lorenzo Innocenti, Luca Barco, Davide Lisi, Vanina Fissore, Claudio Rossi.<br />
+  "FMARS: Annotating Remote Sensing Images for Disaster Management using Foundation Models." IGARSS (2024).
+  [[paper](https://arxiv.org/abs/2405.20109)] 
+  [[code](https://github.com/links-ads/igarss-fmars)]
+  [2024.05]
+
+:boom:**DeepSeek-VL:** Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Tongzheng Ren, Zhuoshu Li, Hao Yang, Yaofeng Sun, Chengqi Deng, Hanwei Xu, Zhenda Xie, Chong Ruan.<br />
+  "DeepSeek-VL: Towards Real-World Vision-Language Understanding." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05525)] 
+  [[code](https://github.com/deepseek-ai/DeepSeek-VL)]
+  [2024.03]
+
+:boom:**Finetuned-SAM:** FNU Shivam, Megan Leight, Mary Kate Kelly, Claire Davis, Kelsey Clodfelter, Jacob Thrasher, Yenumula Reddy, Prashnna Gyawali.<br />
+  "Segmentation of Maya hieroglyphs through fine-tuned foundation models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.16426)] 
+  [2024.05]
+
+:boom:Qi Zhang, Guanyu Xing, Jianwei Zhang, Yanli Liu.<br />
+  "Adaptive active contours driven by the squared Hellinger distance and local correlation features for inhomogeneous image segmentation." Multimed Tools Appl (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11042-024-19407-1)] 
+  [2024.05]
+
+- **FocSAM:** You Huang, Zongyu Lan, Liujuan Cao, Xianming Lin, Shengchuan Zhang, Guannan Jiang, Rongrong Ji.<br />
   "FocSAM: Delving Deeply into Focused Objects in Segmenting Anything." CVPR (2024).
   [[paper](https://arxiv.org/abs/2405.18706)] 
   [[code](https://github.com/YouHuang67/focsam)]
   [2024.05]
 
-:boom:**Reasoning3D:** Tianrun Chen, Chunan Yu, Jing Li, Jianqi Zhang, Lanyun Zhu, Deyi Ji, Yong Zhang, Ying Zang, Zejian Li, Lingyun Sun.<br />
+- **Reasoning3D:** Tianrun Chen, Chunan Yu, Jing Li, Jianqi Zhang, Lanyun Zhu, Deyi Ji, Yong Zhang, Ying Zang, Zejian Li, Lingyun Sun.<br />
   "Reasoning3D -- Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.19326)] 
   [[code](http://tianrun-chen.github.io/Reason3D/)]
   [2024.05]
 
-:boom:Aditya Gunturu, Yi Wen, Jarin Thundathil, Nandi Zhang, Rubaiat Habib Kazi, Ryo Suzuki.<br />
+- Aditya Gunturu, Yi Wen, Jarin Thundathil, Nandi Zhang, Rubaiat Habib Kazi, Ryo Suzuki.<br />
   "Augmented Physics: A Machine Learning-Powered Tool for Creating Interactive Physics Simulations from Static Diagrams." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.18614)] 
   [2024.05]
