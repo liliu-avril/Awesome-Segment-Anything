@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.05.31: Latest update of this paper list.
+- 2024.06.04: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,43 +148,82 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**DISAM:** Ruipeng Zhang, Ziqing Fan, Jiangchao Yao, Ya Zhang, Yanfeng Wang.<br />
+:boom:**SemiRES:** Danni Yang, Jiayi Ji, Yiwei Ma, Tianyu Guo, Haowei Wang, Xiaoshuai Sun, Rongrong Ji.<br />
+  "SAM as the Guide: Mastering Pseudo-Label Refinement in Semi-Supervised Referring Expression Segmentation." ICML (2024).
+  [[paper](https://arxiv.org/abs/2406.01451)] 
+  [[code](https://github.com/nini0919/SemiRES)]
+  [2024.06]
+
+:boom:**AlignSAM:** Duojun Huang, Xinyu Xiong, Jie Ma, Jichang Li, Zequn Jie, Lin Ma, Guanbin Li.<br />
+  "AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2406.00480)] 
+  [[code](https://github.com/Duojun-Huang/AlignSAM-CVPR2024)]
+  [2024.06]
+
+:boom:**AuxOL:** Tianyu Huang, Tao Zhou, Weidi Xie, Shuo Wang, Qi Dou, Yizhe Zhang.<br />
+  "Improving Segment Anything on the Fly: Auxiliary Online Learning and Adaptive Fusion for Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.00956)] 
+  [[code](https://sam-auxol.github.io/AuxOL/)]
+  [2024.06]
+
+:boom:**SimSAM:** Benjamin Towle, Xin Chen, Ke Zhou.<br />
+  "SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction." ISBI (2024).
+  [[paper](https://arxiv.org/abs/2406.00663)] 
+  [[code](https://github.com/BenjaminTowle/SimSAM)]
+  [2024.06]
+
+:boom:**SAM-LAD:** Yun Peng, Xiao Lin, Nachuan Ma, Jiayuan Du, Chuangwei Liu, Chengju Liu, Qijun Chen.<br />
+  "SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.00625)] 
+  [2024.06]
+
+:boom:Jimmy Xuekai Li, Tiancheng Zhang, Yiran Zhu, Zhongwei Chen.<br />
+  "Artificial General Intelligence (AGI) for the oil and gas industry: a review." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.00594)] 
+  [2024.06]
+
+:boom:**SAM-VMNet:** Xueying Zeng, Baixiang Huang, Yu Luo, Guangyu Wei, Songyan He, Yushuang Shao.<br />
+  "SAM-VMNet: Deep Neural Networks For Coronary Angiography Vessel Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.00492)] 
+  [2024.06]
+
+- **DISAM:** Ruipeng Zhang, Ziqing Fan, Jiangchao Yao, Ya Zhang, Yanfeng Wang.<br />
   "Domain-Inspired Sharpness-Aware Minimization Under Domain Shifts." ICLR (2024).
   [[paper](https://arxiv.org/abs/2405.18861)] 
   [[code](https://github.com/MediaBrain-SJTU/DISAM)]
   [2024.05]
 
-:boom:**SAM-E:** Junjie Zhang, Chenjia Bai, Haoran He, Wenke Xia, Zhigang Wang, Bin Zhao, Xiu Li, Xuelong Li.<br />
+- **SAM-E:** Junjie Zhang, Chenjia Bai, Haoran He, Wenke Xia, Zhigang Wang, Bin Zhao, Xiu Li, Xuelong Li.<br />
   "SAM-E: Leveraging Visual Foundation Model with Sequence Imitation for Embodied Manipulation." ICML  (2024).
   [[paper](https://arxiv.org/abs/2405.19586)] 
   [[project](https://sam-embodied.github.io/)]
  [[code](https://github.com/pipixiaqishi1/SAM-E)]
   [2024.05]
 
-:boom:Haodi He, Colton Stearns, Adam W. Harley, Leonidas J. Guibas.<br />
+- Haodi He, Colton Stearns, Adam W. Harley, Leonidas J. Guibas.<br />
   "View-Consistent Hierarchical 3D SegmentationUsing Ultrametric Feature Fields." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.19678)] 
   [[code](https://github.com/hardyho/ultrametric_feature_fields)]
   [2024.05]
 
-:boom:**FMARS:** Edoardo Arnaudo, Jacopo Lungo Vaschetti, Lorenzo Innocenti, Luca Barco, Davide Lisi, Vanina Fissore, Claudio Rossi.<br />
+- **FMARS:** Edoardo Arnaudo, Jacopo Lungo Vaschetti, Lorenzo Innocenti, Luca Barco, Davide Lisi, Vanina Fissore, Claudio Rossi.<br />
   "FMARS: Annotating Remote Sensing Images for Disaster Management using Foundation Models." IGARSS (2024).
   [[paper](https://arxiv.org/abs/2405.20109)] 
   [[code](https://github.com/links-ads/igarss-fmars)]
   [2024.05]
 
-:boom:**DeepSeek-VL:** Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Tongzheng Ren, Zhuoshu Li, Hao Yang, Yaofeng Sun, Chengqi Deng, Hanwei Xu, Zhenda Xie, Chong Ruan.<br />
+- **DeepSeek-VL:** Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Tongzheng Ren, Zhuoshu Li, Hao Yang, Yaofeng Sun, Chengqi Deng, Hanwei Xu, Zhenda Xie, Chong Ruan.<br />
   "DeepSeek-VL: Towards Real-World Vision-Language Understanding." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.05525)] 
   [[code](https://github.com/deepseek-ai/DeepSeek-VL)]
   [2024.03]
 
-:boom:**Finetuned-SAM:** FNU Shivam, Megan Leight, Mary Kate Kelly, Claire Davis, Kelsey Clodfelter, Jacob Thrasher, Yenumula Reddy, Prashnna Gyawali.<br />
+- **Finetuned-SAM:** FNU Shivam, Megan Leight, Mary Kate Kelly, Claire Davis, Kelsey Clodfelter, Jacob Thrasher, Yenumula Reddy, Prashnna Gyawali.<br />
   "Segmentation of Maya hieroglyphs through fine-tuned foundation models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.16426)] 
   [2024.05]
 
-:boom:Qi Zhang, Guanyu Xing, Jianwei Zhang, Yanli Liu.<br />
+- Qi Zhang, Guanyu Xing, Jianwei Zhang, Yanli Liu.<br />
   "Adaptive active contours driven by the squared Hellinger distance and local correlation features for inhomogeneous image segmentation." Multimed Tools Appl (2024).
   [[paper](https://link.springer.com/article/10.1007/s11042-024-19407-1)] 
   [2024.05]
