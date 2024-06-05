@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.04: Latest update of this paper list.
+- 2024.06.05: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,29 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**OpenGaussian:** Yanmin Wu, Jiarui Meng, Haijie Li, Chenming Wu, Yahao Shi, Xinhua Cheng, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Jian Zhang.<br />
+  "OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.02058)] 
+  [[code](https://3d-aigc.github.io/OpenGaussian)]
+  [2024.06]
+
+:boom:**Open-YOLO 3D:** Mohamed El Amine Boudjoghra, Angela Dai, Jean Lahoud, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Fahad Shahbaz Khan.<br />
+  "Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.02548)] 
+  [[code](http://github.com/aminebdj/OpenYOLO3D)]
+  [2024.06]
+
+:boom:**FastLGS:** Yuzhou Ji, He Zhu, Junshu Tang, Wuyi Liu, Zhizhong Zhang, Yuan Xie, Lizhuang Ma, Xin Tan.<br />
+  "FastLGS: Speeding up Language Embedded Gaussians with Feature Grid Mapping." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.01916)] 
+  [[code](https://george-attano.github.io/FastLGS/)]
+  [2024.06]
+
+:boom:Yang Nan, Guang Yang.<br />
+  "Deep asymmetric mixture model for unsupervised cell segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.01815)] 
+  [2024.06]
+
 :boom:**SemiRES:** Danni Yang, Jiayi Ji, Yiwei Ma, Tianyu Guo, Haowei Wang, Xiaoshuai Sun, Rongrong Ji.<br />
   "SAM as the Guide: Mastering Pseudo-Label Refinement in Semi-Supervised Referring Expression Segmentation." ICML (2024).
   [[paper](https://arxiv.org/abs/2406.01451)] 
