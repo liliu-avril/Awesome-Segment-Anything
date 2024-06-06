@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.05: Latest update of this paper list.
+- 2024.06.06: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Immunocto:** Mikaël Simard, Zhuoyan Shen, Maria A. Hawkins, Charles-Antoine Collins-Fekete.<br />
+  "Immunocto: a massive immune cell database auto-generated for histopathology." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.02618)] 
+  [[code](https://zenodo.org/uploads/11073373)]
+  [2024.06]
+
 :boom:**OpenGaussian:** Yanmin Wu, Jiarui Meng, Haijie Li, Chenming Wu, Yahao Shi, Xinhua Cheng, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Jian Zhang.<br />
   "OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.02058)] 
