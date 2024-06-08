@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.07: Latest update of this paper list.
+- 2024.06.08: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -3060,7 +3060,7 @@ Spatial Information Research (2024).
   [2023.11]
 
 - **SAM-COBOT:** Zelin Peng, Zhengqin Xu, Zhilin Zeng, Lingxi Xie, Qi Tian, Wei Shen.<br />
-  "Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model." ArXiv (2023).
+  "Parameter Efficient Fine-tuning via Cross Block Orchestration for Segment Anything Model." CVPR (2024).
   [[paper](https://arxiv.org/abs/2311.17112)] 
   [2023.11]
 
