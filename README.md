@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.08: Latest update of this paper list.
+- 2024.06.10: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,77 +148,134 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**MASA:** Siyuan Li, Lei Ke, Martin Danelljan, Luigi Piccinelli, Mattia Segu, Luc Van Gool, Fisher Yu.<br />
+:boom:**ASDeM:** Liu, Xiaohu and Luo, Yichuang and Sun, Wei.<br />
+  "ASDeM: Augmenting SAM With Decoupled Memory for Video Object Segmentation." ACCESS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10537204)] 
+  [2024.06]
+
+:boom:**LNDVI:** Balasundaram, Ananthakrishnan and Sharma, Alabhya and Kumaravelan, Swaathy and Shaik, Ayesha and Kavitha, Muthu Subash.<br />
+  "An Improved Normalized Difference Vegetation Index (NDVI) Estimation Using Grounded Dino and Segment Anything Model for Plant Health Classification." ACCESS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10535513)] 
+  [2024.06]
+
+:boom:**PDM:** Dvir Samuel, Rami Ben-Ari, Matan Levy, Nir Darshan, Gal Chechik.<br />
+  "Unveiling the Power of Diffusion Features For Personalized Segmentation and Retrieval." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2405.18025)] 
+  [2024.06]
+
+:boom:**LeSAM:** Gu, Yunbo and Wu, Qianyu and Tang, Hui and Mai, Xiaoli and Shu, Huazhong and Li, Baosheng and Chen, Yang.<br />
+  "LeSAM: Adapt Segment Anything Model for medical lesion segmentation." JBHI (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10540651?casa_token=lFrAdNHKXxIAAAAA:2Piv4lZ561FI6r0vhcLa-dNjKZEsi0wdLkoEcst9eA1ThwLSfOlIv77db8YiFuDjvGTysb5cdWGiig)] 
+
+  [2024.06]
+
+:boom:**DF2LCZ-Net:** Qianqian Wu, Xianping Ma, Jialu Sui and Man-On Pun.<br />
+  "A SAM-EMPOWERED DUAL-STREAM FRAMEWORK FOR SCENE-LEVEL LOCAL CLIMATE ZONE CLASSIFICATION USING GOOGLE EARTH AND SENTINEL IMAGES." IGARSS (2024).
+  [[paper](https://mypage.cuhk.edu.cn/academics/simonpun/papers/IGARSS24-Qianqian.pdf)] 
+  [2024.06]
+
+:boom:**U-SAM:** Zhang, Hantao and Guo, Weidong and Wan, Shouhong and Zou, Bingbing and Wang, Wanqin and Qiu, Chenyang and Liu, Kaige and Jin, Peiquan and Yang, Jiancheng.<br />
+  "Deep-Learning-Assisted Segmentation of Rectal Cancer from CT Scans: Development and Validation of U-SAM." Available at SSRN (2024).
+  [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4838978)] 
+  [2024.06]
+
+:boom:**SAM-PR:** Ricardo Montoya-del-Angel, Marawan Elbatel, Joel Vidal, Robert Martí.<br />
+  "SAM-PR: enhancing 3D automated breast ultrasound imaging segmentation with probabilistic refinement of SAM." IWBI  (2024).
+  [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13174/131741P/SAM-PR--enhancing-3D-automated-breast-ultrasound-imaging-segmentation/10.1117/12.3027023.short?tab=ArticleLink)] 
+  [2024.06]
+
+:boom:Yunho Kim, Jeong Hyun Lee, Choongin Lee, Juhyeok Mun, Donghoon Youm, Jeongsoo Park, Jemin Hwangbo.<br />
+  "Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.02989)] 
+  [2024.06]
+
+:boom:Heather Doig, Oscar Pizarro, Jacquomo Monk, Stefan Williams.<br />
+  "Detecting Endangered Marine Species in Autonomous Underwater Vehicle Imagery Using Point Annotations and Few-Shot Learning." IROS  (2024).
+  [[paper](https://arxiv.org/abs/2406.01932)] 
+  [2024.06]
+
+:boom:**VCP:** Kuang, Senyun and Liu, Yang and Wang, Xin and Qu, Xiaobo and Wei, Yintao.<br />
+  "An Universal Crack Detection Framework for Intelligent Road-Perceptive Vehicles." TIV (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10546302?casa_token=BQZvRif7cHwAAAAA:ypzujnIPCx6bh_FWiZArFn5tzmzu40rs0vypPjMUcS9JX3Y5TeMqrCmKjGx1lkNR44kZ0KiyqCR0iQ)] 
+  [2024.06]
+
+:boom:**SCD-SAM:** Mei, Liye and Ye, Zhaoyi and Xu, Chuan and Wang, Hongzhu and Wang, Ying and Lei, Cheng and Yang, Wei and Li, Yansheng.<br />
+  "SCD-SAM: Adapting Segment Anything Model for Semantic Change Detection in Remote Sensing Imagery." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10543161?casa_token=kmyNvSj0pqUAAAAA:d_NttqSz33V9uIFBLpEK_6z54eUyegqtMo_qWzjrb_xOLH73AYb_LzFReuR2vFkmbGfbt_r7Rtr67A)] 
+  [[code](https://github.com/yzygit1230/SCD-SAM)]
+  [2024.06]
+
+- **MASA:** Siyuan Li, Lei Ke, Martin Danelljan, Luigi Piccinelli, Mattia Segu, Luc Van Gool, Fisher Yu.<br />
   "Matching Anything by Segmenting Anything." CVPR (2024).
   [[paper](https://arxiv.org/abs/2406.04221)] 
   [[project](https://matchinganything.github.io/)]
   [[code](https://github.com/siyuanliii/masa)]
   [2024.06]
 
-:boom:**Immunocto:** Mikaël Simard, Zhuoyan Shen, Maria A. Hawkins, Charles-Antoine Collins-Fekete.<br />
+- **Immunocto:** Mikaël Simard, Zhuoyan Shen, Maria A. Hawkins, Charles-Antoine Collins-Fekete.<br />
   "Immunocto: a massive immune cell database auto-generated for histopathology." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.02618)] 
   [[code](https://zenodo.org/uploads/11073373)]
   [2024.06]
 
-:boom:**OpenGaussian:** Yanmin Wu, Jiarui Meng, Haijie Li, Chenming Wu, Yahao Shi, Xinhua Cheng, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Jian Zhang.<br />
+- **OpenGaussian:** Yanmin Wu, Jiarui Meng, Haijie Li, Chenming Wu, Yahao Shi, Xinhua Cheng, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang, Jian Zhang.<br />
   "OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.02058)] 
   [[code](https://3d-aigc.github.io/OpenGaussian)]
   [2024.06]
 
-:boom:**Open-YOLO 3D:** Mohamed El Amine Boudjoghra, Angela Dai, Jean Lahoud, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Fahad Shahbaz Khan.<br />
+- **Open-YOLO 3D:** Mohamed El Amine Boudjoghra, Angela Dai, Jean Lahoud, Hisham Cholakkal, Rao Muhammad Anwer, Salman Khan, Fahad Shahbaz Khan.<br />
   "Open-YOLO 3D: Towards Fast and Accurate Open-Vocabulary 3D Instance Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.02548)] 
   [[code](http://github.com/aminebdj/OpenYOLO3D)]
   [2024.06]
 
-:boom:**FastLGS:** Yuzhou Ji, He Zhu, Junshu Tang, Wuyi Liu, Zhizhong Zhang, Yuan Xie, Lizhuang Ma, Xin Tan.<br />
+- **FastLGS:** Yuzhou Ji, He Zhu, Junshu Tang, Wuyi Liu, Zhizhong Zhang, Yuan Xie, Lizhuang Ma, Xin Tan.<br />
   "FastLGS: Speeding up Language Embedded Gaussians with Feature Grid Mapping." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.01916)] 
   [[code](https://george-attano.github.io/FastLGS/)]
   [2024.06]
 
-:boom:Yang Nan, Guang Yang.<br />
+- Yang Nan, Guang Yang.<br />
   "Deep asymmetric mixture model for unsupervised cell segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.01815)] 
   [2024.06]
 
-:boom:**SemiRES:** Danni Yang, Jiayi Ji, Yiwei Ma, Tianyu Guo, Haowei Wang, Xiaoshuai Sun, Rongrong Ji.<br />
+- **SemiRES:** Danni Yang, Jiayi Ji, Yiwei Ma, Tianyu Guo, Haowei Wang, Xiaoshuai Sun, Rongrong Ji.<br />
   "SAM as the Guide: Mastering Pseudo-Label Refinement in Semi-Supervised Referring Expression Segmentation." ICML (2024).
   [[paper](https://arxiv.org/abs/2406.01451)] 
   [[code](https://github.com/nini0919/SemiRES)]
   [2024.06]
 
-:boom:**AlignSAM:** Duojun Huang, Xinyu Xiong, Jie Ma, Jichang Li, Zequn Jie, Lin Ma, Guanbin Li.<br />
+- **AlignSAM:** Duojun Huang, Xinyu Xiong, Jie Ma, Jichang Li, Zequn Jie, Lin Ma, Guanbin Li.<br />
   "AlignSAM: Aligning Segment Anything Model to Open Context via Reinforcement Learning." CVPR (2024).
   [[paper](https://arxiv.org/abs/2406.00480)] 
   [[code](https://github.com/Duojun-Huang/AlignSAM-CVPR2024)]
   [2024.06]
 
-:boom:**AuxOL:** Tianyu Huang, Tao Zhou, Weidi Xie, Shuo Wang, Qi Dou, Yizhe Zhang.<br />
+- **AuxOL:** Tianyu Huang, Tao Zhou, Weidi Xie, Shuo Wang, Qi Dou, Yizhe Zhang.<br />
   "Improving Segment Anything on the Fly: Auxiliary Online Learning and Adaptive Fusion for Medical Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.00956)] 
   [[code](https://sam-auxol.github.io/AuxOL/)]
   [2024.06]
 
-:boom:**SimSAM:** Benjamin Towle, Xin Chen, Ke Zhou.<br />
+- **SimSAM:** Benjamin Towle, Xin Chen, Ke Zhou.<br />
   "SimSAM: Zero-shot Medical Image Segmentation via Simulated Interaction." ISBI (2024).
   [[paper](https://arxiv.org/abs/2406.00663)] 
   [[code](https://github.com/BenjaminTowle/SimSAM)]
   [2024.06]
 
-:boom:**SAM-LAD:** Yun Peng, Xiao Lin, Nachuan Ma, Jiayuan Du, Chuangwei Liu, Chengju Liu, Qijun Chen.<br />
+- **SAM-LAD:** Yun Peng, Xiao Lin, Nachuan Ma, Jiayuan Du, Chuangwei Liu, Chengju Liu, Qijun Chen.<br />
   "SAM-LAD: Segment Anything Model Meets Zero-Shot Logic Anomaly Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.00625)] 
   [2024.06]
 
-:boom:Jimmy Xuekai Li, Tiancheng Zhang, Yiran Zhu, Zhongwei Chen.<br />
+- Jimmy Xuekai Li, Tiancheng Zhang, Yiran Zhu, Zhongwei Chen.<br />
   "Artificial General Intelligence (AGI) for the oil and gas industry: a review." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.00594)] 
   [2024.06]
 
-:boom:**SAM-VMNet:** Xueying Zeng, Baixiang Huang, Yu Luo, Guangyu Wei, Songyan He, Yushuang Shao.<br />
+- **SAM-VMNet:** Xueying Zeng, Baixiang Huang, Yu Luo, Guangyu Wei, Songyan He, Yushuang Shao.<br />
   "SAM-VMNet: Deep Neural Networks For Coronary Angiography Vessel Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.00492)] 
   [2024.06]
