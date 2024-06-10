@@ -166,7 +166,6 @@ If you find our work useful in your research, please consider citing:
 :boom:**LeSAM:** Gu, Yunbo and Wu, Qianyu and Tang, Hui and Mai, Xiaoli and Shu, Huazhong and Li, Baosheng and Chen, Yang.<br />
   "LeSAM: Adapt Segment Anything Model for medical lesion segmentation." JBHI (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10540651?casa_token=lFrAdNHKXxIAAAAA:2Piv4lZ561FI6r0vhcLa-dNjKZEsi0wdLkoEcst9eA1ThwLSfOlIv77db8YiFuDjvGTysb5cdWGiig)] 
-
   [2024.06]
 
 :boom:**DF2LCZ-Net:** Qianqian Wu, Xianping Ma, Jialu Sui and Man-On Pun.<br />
