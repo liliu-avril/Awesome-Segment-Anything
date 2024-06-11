@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.10: Latest update of this paper list.
+- 2024.06.11: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,32 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**ST-BAVA:** Juhyeong Seon, Woobin Im, Sebin Lee, Jumin Lee, Sung-Eui Yoon.<br />
+  "Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation." ICIP  (2024).
+  [[paper](https://arxiv.org/abs/2406.06163)] 
+  [2024.06]
+
+:boom:**CRSTM:** Xiaoli Wei, Zhaoqing Wang, Yandong Guo, Chunxia Zhang, Tongliang Liu, Mingming Gong.<br />
+  "Training-Free Robust Interactive Video Object Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.05485)] 
+  [2024.06]
+
+:boom:**USE:** Xiaoqi Wang, Wenbin He, Xiwei Xuan, Clint Sebastian, Jorge Piazentin Ono, Xin Li, Sima Behpour, Thang Doan, Liang Gou, Han Wei Shen, Liu Ren.<br />
+  "USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.05271)] 
+  [2024.06]
+
+:boom:**SAM-PM:** Muhammad Nawfal Meeran, Gokul Adethya T, Bhanu Pratyush Mantha.<br />
+  "SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.05802)] 
+  [[code](https://github.com/SpiderNitt/SAM-PM)]
+  [2024.06]
+
+:boom:Matthias Pijarowski, Alexander Wolpert, Martin Heckmann, Michael Teutsch.<br />
+  "Utilizing grounded SAM for self-supervised frugal camouflaged human detection." Automatic Target Recognition XXXIV. SPIE(2024).
+  [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13039/1303909/Utilizing-grounded-SAM-for-self-supervised-frugal-camouflaged-human-detection/10.1117/12.3021694.short#_=_)] 
+  [2024.06]
+
 :boom:**ASDeM:** Liu, Xiaohu and Luo, Yichuang and Sun, Wei.<br />
   "ASDeM: Augmenting SAM With Decoupled Memory for Video Object Segmentation." ACCESS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10537204)] 
