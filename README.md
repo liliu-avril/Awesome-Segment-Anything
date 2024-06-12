@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.11: Latest update of this paper list.
+- 2024.06.12: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**RiVEG:** Jinyuan Li, Ziyan Li, Han Li, Jianfei Yu, Rui Xia, Di Sun, Gang Pan.<br />
+  "Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.07268)] 
+  [[code](https://github.com/JinYuanLi0012/RiVEG)]
+  [2024.06]
+
+:boom:Marian Longa, João F. Henriques.<br />
+  "Unsupervised Object Detection with Theoretical Guarantees." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.07284)] 
+  [2024.06]
+
 :boom:**ST-BAVA:** Juhyeong Seon, Woobin Im, Sebin Lee, Jumin Lee, Sung-Eui Yoon.<br />
   "Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation." ICIP  (2024).
   [[paper](https://arxiv.org/abs/2406.06163)] 
