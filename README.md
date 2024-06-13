@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.12: Latest update of this paper list.
+- 2024.06.13: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**APSeg:** Weizhao He, Yang Zhang, Wei Zhuo, Linlin Shen, Jiaqi Yang, Songhe Deng, Liang Sun.<br />
+  "APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentatio." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.08372)] 
+  [2024.06]
+
 :boom:**RiVEG:** Jinyuan Li, Ziyan Li, Han Li, Jianfei Yu, Rui Xia, Di Sun, Gang Pan.<br />
   "Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.07268)] 
