@@ -148,6 +148,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**4M-21:** Roman Bachmann, Oğuzhan Fatih Kar, David Mizrahi, Ali Garjani, Mingfei Gao, David Griffiths, Jiaming Hu, Afshin Dehghan, Amir Zamir.<br />
+  "4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.09406)] 
+  [[code](http://4m.epfl.ch/)]
+  [2024.06]
+
 :boom:**ICE-G:** Vishnu Jaganathan, Hannah Hanyun Huang, Muhammad Zubair Irshad, Varun Jampani, Amit Raj, Zsolt Kira.<br />
   "ICE-G: Image Conditional Editing of 3D Gaussian Splats." CVPR AI4CC Workshop (2024).
   [[paper](https://arxiv.org/abs/2406.08488)] 
