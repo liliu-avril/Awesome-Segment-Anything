@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.13: Latest update of this paper list.
+- 2024.06.14: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,99 +148,105 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**APSeg:** Weizhao He, Yang Zhang, Wei Zhuo, Linlin Shen, Jiaqi Yang, Songhe Deng, Liang Sun.<br />
+:boom:**ICE-G:** Vishnu Jaganathan, Hannah Hanyun Huang, Muhammad Zubair Irshad, Varun Jampani, Amit Raj, Zsolt Kira.<br />
+  "ICE-G: Image Conditional Editing of 3D Gaussian Splats." CVPR AI4CC Workshop (2024).
+  [[paper](https://arxiv.org/abs/2406.08488)] 
+  [[code](https://ice-gaussian.github.io/)]
+  [2024.06]
+
+- **APSeg:** Weizhao He, Yang Zhang, Wei Zhuo, Linlin Shen, Jiaqi Yang, Songhe Deng, Liang Sun.<br />
   "APSeg: Auto-Prompt Network for Cross-Domain Few-Shot Semantic Segmentatio." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.08372)] 
   [2024.06]
 
-:boom:**RiVEG:** Jinyuan Li, Ziyan Li, Han Li, Jianfei Yu, Rui Xia, Di Sun, Gang Pan.<br />
+- **RiVEG:** Jinyuan Li, Ziyan Li, Han Li, Jianfei Yu, Rui Xia, Di Sun, Gang Pan.<br />
   "Advancing Grounded Multimodal Named Entity Recognition via LLM-Based Reformulation and Box-Based Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.07268)] 
   [[code](https://github.com/JinYuanLi0012/RiVEG)]
   [2024.06]
 
-:boom:Marian Longa, João F. Henriques.<br />
+- Marian Longa, João F. Henriques.<br />
   "Unsupervised Object Detection with Theoretical Guarantees." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.07284)] 
   [2024.06]
 
-:boom:**ST-BAVA:** Juhyeong Seon, Woobin Im, Sebin Lee, Jumin Lee, Sung-Eui Yoon.<br />
+- **ST-BAVA:** Juhyeong Seon, Woobin Im, Sebin Lee, Jumin Lee, Sung-Eui Yoon.<br />
   "Extending Segment Anything Model into Auditory and Temporal Dimensions for Audio-Visual Segmentation." ICIP  (2024).
   [[paper](https://arxiv.org/abs/2406.06163)] 
   [2024.06]
 
-:boom:**CRSTM:** Xiaoli Wei, Zhaoqing Wang, Yandong Guo, Chunxia Zhang, Tongliang Liu, Mingming Gong.<br />
+- **CRSTM:** Xiaoli Wei, Zhaoqing Wang, Yandong Guo, Chunxia Zhang, Tongliang Liu, Mingming Gong.<br />
   "Training-Free Robust Interactive Video Object Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.05485)] 
   [2024.06]
 
-:boom:**USE:** Xiaoqi Wang, Wenbin He, Xiwei Xuan, Clint Sebastian, Jorge Piazentin Ono, Xin Li, Sima Behpour, Thang Doan, Liang Gou, Han Wei Shen, Liu Ren.<br />
+- **USE:** Xiaoqi Wang, Wenbin He, Xiwei Xuan, Clint Sebastian, Jorge Piazentin Ono, Xin Li, Sima Behpour, Thang Doan, Liang Gou, Han Wei Shen, Liu Ren.<br />
   "USE: Universal Segment Embeddings for Open-Vocabulary Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.05271)] 
   [2024.06]
 
-:boom:**SAM-PM:** Muhammad Nawfal Meeran, Gokul Adethya T, Bhanu Pratyush Mantha.<br />
+- **SAM-PM:** Muhammad Nawfal Meeran, Gokul Adethya T, Bhanu Pratyush Mantha.<br />
   "SAM-PM: Enhancing Video Camouflaged Object Detection using Spatio-Temporal Attention." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.05802)] 
   [[code](https://github.com/SpiderNitt/SAM-PM)]
   [2024.06]
 
-:boom:Matthias Pijarowski, Alexander Wolpert, Martin Heckmann, Michael Teutsch.<br />
+- Matthias Pijarowski, Alexander Wolpert, Martin Heckmann, Michael Teutsch.<br />
   "Utilizing grounded SAM for self-supervised frugal camouflaged human detection." Automatic Target Recognition XXXIV. SPIE(2024).
   [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13039/1303909/Utilizing-grounded-SAM-for-self-supervised-frugal-camouflaged-human-detection/10.1117/12.3021694.short#_=_)] 
   [2024.06]
 
-:boom:**ASDeM:** Liu, Xiaohu and Luo, Yichuang and Sun, Wei.<br />
+- **ASDeM:** Liu, Xiaohu and Luo, Yichuang and Sun, Wei.<br />
   "ASDeM: Augmenting SAM With Decoupled Memory for Video Object Segmentation." ACCESS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10537204)] 
   [2024.06]
 
-:boom:**LNDVI:** Balasundaram, Ananthakrishnan and Sharma, Alabhya and Kumaravelan, Swaathy and Shaik, Ayesha and Kavitha, Muthu Subash.<br />
+- **LNDVI:** Balasundaram, Ananthakrishnan and Sharma, Alabhya and Kumaravelan, Swaathy and Shaik, Ayesha and Kavitha, Muthu Subash.<br />
   "An Improved Normalized Difference Vegetation Index (NDVI) Estimation Using Grounded Dino and Segment Anything Model for Plant Health Classification." ACCESS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10535513)] 
   [2024.06]
 
-:boom:**PDM:** Dvir Samuel, Rami Ben-Ari, Matan Levy, Nir Darshan, Gal Chechik.<br />
+- **PDM:** Dvir Samuel, Rami Ben-Ari, Matan Levy, Nir Darshan, Gal Chechik.<br />
   "Unveiling the Power of Diffusion Features For Personalized Segmentation and Retrieval." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.18025)] 
   [2024.06]
 
-:boom:**LeSAM:** Gu, Yunbo and Wu, Qianyu and Tang, Hui and Mai, Xiaoli and Shu, Huazhong and Li, Baosheng and Chen, Yang.<br />
+- **LeSAM:** Gu, Yunbo and Wu, Qianyu and Tang, Hui and Mai, Xiaoli and Shu, Huazhong and Li, Baosheng and Chen, Yang.<br />
   "LeSAM: Adapt Segment Anything Model for medical lesion segmentation." JBHI (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10540651?casa_token=lFrAdNHKXxIAAAAA:2Piv4lZ561FI6r0vhcLa-dNjKZEsi0wdLkoEcst9eA1ThwLSfOlIv77db8YiFuDjvGTysb5cdWGiig)] 
   [2024.06]
 
-:boom:**DF2LCZ-Net:** Qianqian Wu, Xianping Ma, Jialu Sui and Man-On Pun.<br />
+- **DF2LCZ-Net:** Qianqian Wu, Xianping Ma, Jialu Sui and Man-On Pun.<br />
   "A SAM-EMPOWERED DUAL-STREAM FRAMEWORK FOR SCENE-LEVEL LOCAL CLIMATE ZONE CLASSIFICATION USING GOOGLE EARTH AND SENTINEL IMAGES." IGARSS (2024).
   [[paper](https://mypage.cuhk.edu.cn/academics/simonpun/papers/IGARSS24-Qianqian.pdf)] 
   [2024.06]
 
-:boom:**U-SAM:** Zhang, Hantao and Guo, Weidong and Wan, Shouhong and Zou, Bingbing and Wang, Wanqin and Qiu, Chenyang and Liu, Kaige and Jin, Peiquan and Yang, Jiancheng.<br />
+- **U-SAM:** Zhang, Hantao and Guo, Weidong and Wan, Shouhong and Zou, Bingbing and Wang, Wanqin and Qiu, Chenyang and Liu, Kaige and Jin, Peiquan and Yang, Jiancheng.<br />
   "Deep-Learning-Assisted Segmentation of Rectal Cancer from CT Scans: Development and Validation of U-SAM." Available at SSRN (2024).
   [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4838978)] 
   [2024.06]
 
-:boom:**SAM-PR:** Ricardo Montoya-del-Angel, Marawan Elbatel, Joel Vidal, Robert Martí.<br />
+- **SAM-PR:** Ricardo Montoya-del-Angel, Marawan Elbatel, Joel Vidal, Robert Martí.<br />
   "SAM-PR: enhancing 3D automated breast ultrasound imaging segmentation with probabilistic refinement of SAM." IWBI  (2024).
   [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13174/131741P/SAM-PR--enhancing-3D-automated-breast-ultrasound-imaging-segmentation/10.1117/12.3027023.short?tab=ArticleLink)] 
   [2024.06]
 
-:boom:Yunho Kim, Jeong Hyun Lee, Choongin Lee, Juhyeok Mun, Donghoon Youm, Jeongsoo Park, Jemin Hwangbo.<br />
+- Yunho Kim, Jeong Hyun Lee, Choongin Lee, Juhyeok Mun, Donghoon Youm, Jeongsoo Park, Jemin Hwangbo.<br />
   "Learning Semantic Traversability with Egocentric Video and Automated Annotation Strategy." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.02989)] 
   [2024.06]
 
-:boom:Heather Doig, Oscar Pizarro, Jacquomo Monk, Stefan Williams.<br />
+- Heather Doig, Oscar Pizarro, Jacquomo Monk, Stefan Williams.<br />
   "Detecting Endangered Marine Species in Autonomous Underwater Vehicle Imagery Using Point Annotations and Few-Shot Learning." IROS  (2024).
   [[paper](https://arxiv.org/abs/2406.01932)] 
   [2024.06]
 
-:boom:**VCP:** Kuang, Senyun and Liu, Yang and Wang, Xin and Qu, Xiaobo and Wei, Yintao.<br />
+- **VCP:** Kuang, Senyun and Liu, Yang and Wang, Xin and Qu, Xiaobo and Wei, Yintao.<br />
   "An Universal Crack Detection Framework for Intelligent Road-Perceptive Vehicles." TIV (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10546302?casa_token=BQZvRif7cHwAAAAA:ypzujnIPCx6bh_FWiZArFn5tzmzu40rs0vypPjMUcS9JX3Y5TeMqrCmKjGx1lkNR44kZ0KiyqCR0iQ)] 
   [2024.06]
 
-:boom:**SCD-SAM:** Mei, Liye and Ye, Zhaoyi and Xu, Chuan and Wang, Hongzhu and Wang, Ying and Lei, Cheng and Yang, Wei and Li, Yansheng.<br />
+- **SCD-SAM:** Mei, Liye and Ye, Zhaoyi and Xu, Chuan and Wang, Hongzhu and Wang, Ying and Lei, Cheng and Yang, Wei and Li, Yansheng.<br />
   "SCD-SAM: Adapting Segment Anything Model for Semantic Change Detection in Remote Sensing Imagery." TGRS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10543161?casa_token=kmyNvSj0pqUAAAAA:d_NttqSz33V9uIFBLpEK_6z54eUyegqtMo_qWzjrb_xOLH73AYb_LzFReuR2vFkmbGfbt_r7Rtr67A)] 
   [[code](https://github.com/yzygit1230/SCD-SAM)]
