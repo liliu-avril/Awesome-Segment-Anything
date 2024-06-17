@@ -148,6 +148,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**EBSeg:** Xiangheng Shan, Dongyue Wu, Guilin Zhu, Yuanjie Shao, Nong Sang, Changxin Gao.<br />
+  "Open-Vocabulary Semantic Segmentation with Image Embedding Balancing." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2406.09829)] 
+  [[code](https://github.com/slonetime/EBSeg)]
+  [2024.06]
+
 :boom:**RobustSAM:** Wei-Ting Chen, Yu-Jiet Vong, Sy-Yen Kuo, Sizhuo Ma, Jian Wang.<br />
   "RobustSAM: Segment Anything Robustly on Degraded Images." CVPR (2024).
   [[paper](https://arxiv.org/abs/2406.09627)] 
