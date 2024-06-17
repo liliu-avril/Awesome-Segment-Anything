@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.14: Latest update of this paper list.
+- 2024.06.17: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,13 +148,20 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**4M-21:** Roman Bachmann, Oğuzhan Fatih Kar, David Mizrahi, Ali Garjani, Mingfei Gao, David Griffiths, Jiaming Hu, Afshin Dehghan, Amir Zamir.<br />
+:boom:**RobustSAM:** Wei-Ting Chen, Yu-Jiet Vong, Sy-Yen Kuo, Sizhuo Ma, Jian Wang.<br />
+  "RobustSAM: Segment Anything Robustly on Degraded Images." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2406.09627)] 
+  [[project](https://robustsam.github.io/)]
+  [[code](https://github.com/robustsam/RobustSAM)]
+  [2024.06]
+
+- **4M-21:** Roman Bachmann, Oğuzhan Fatih Kar, David Mizrahi, Ali Garjani, Mingfei Gao, David Griffiths, Jiaming Hu, Afshin Dehghan, Amir Zamir.<br />
   "4M-21: An Any-to-Any Vision Model for Tens of Tasks and Modalities." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.09406)] 
   [[code](http://4m.epfl.ch/)]
   [2024.06]
 
-:boom:**ICE-G:** Vishnu Jaganathan, Hannah Hanyun Huang, Muhammad Zubair Irshad, Varun Jampani, Amit Raj, Zsolt Kira.<br />
+- **ICE-G:** Vishnu Jaganathan, Hannah Hanyun Huang, Muhammad Zubair Irshad, Varun Jampani, Amit Raj, Zsolt Kira.<br />
   "ICE-G: Image Conditional Editing of 3D Gaussian Splats." CVPR AI4CC Workshop (2024).
   [[paper](https://arxiv.org/abs/2406.08488)] 
   [[code](https://ice-gaussian.github.io/)]
