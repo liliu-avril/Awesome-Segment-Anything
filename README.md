@@ -148,6 +148,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**S2C:** Hyeokjun Kweon, Kuk-Jin Yoon.<br />
+  "From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kweon_From_SAM_to_CAMs_Exploring_Segment_Anything_Model_for_Weakly_CVPR_2024_paper.pdf)] 
+  [[code](https://github.com/sangrockEG/S2C)]
+  [2024.06]
+
 :boom:**SAMAug-C:** Pengfei Gu, Zihan Zhao, Hongxiao Wang, Yaopeng Peng, Yizhe Zhang, Nishchal Sapkota, Chaoli Wang, Danny Z. Chen.<br />
   "Boosting Medical Image Classification with Segmentation Foundation Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.11026)] 
