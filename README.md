@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.17: Latest update of this paper list.
+- 2024.06.18: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAMAug-C:** Pengfei Gu, Zihan Zhao, Hongxiao Wang, Yaopeng Peng, Yizhe Zhang, Nishchal Sapkota, Chaoli Wang, Danny Z. Chen.<br />
+  "Boosting Medical Image Classification with Segmentation Foundation Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.11026)] 
+  [2024.06]
+
+:boom:**ALPS:** Song Zhang, Qingzhong Wang, Junyi Liu, Haoyi Xiong.<br />
+  "ALPS: An Auto-Labeling and Pre-training Scheme for Remote Sensing Segmentation With Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.10855)] 
+  [[code](https://github.com/StriveZs/ALPS)]
+  [2024.06]
+
 :boom:**EBSeg:** Xiangheng Shan, Dongyue Wu, Guilin Zhu, Yuanjie Shao, Nong Sang, Changxin Gao.<br />
   "Open-Vocabulary Semantic Segmentation with Image Embedding Balancing." CVPR (2024).
   [[paper](https://arxiv.org/abs/2406.09829)] 
