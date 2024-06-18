@@ -2372,9 +2372,10 @@ Spatial Information Research (2024).
   [2023.12]
 
 - **LangSplat:** Minghan Qin, Wanhua Li, Jiawei Zhou, Haoqian Wang, Hanspeter Pfister.<br />
-  "LangSplat: 3D Language Gaussian Splatting." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2312.16084)] 
-  [[code](https://langsplat.github.io/)]
+  "LangSplat: 3D Language Gaussian Splatting." CVPR (2024).
+  [[paper](https://arxiv.org/abs/2312.16084)]
+  [[project](https://langsplat.github.io/)]
+  [[code]([https://langsplat.github.io/](https://github.com/minghanqin/LangSplat))]
   [2023.12]
 
 - **HRFFM:** Yan Han, Xiaogang Xu, Yingqi Lin, Jiafei Wu, Zhe Liu.<br />
