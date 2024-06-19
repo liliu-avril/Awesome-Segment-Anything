@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.18: Latest update of this paper list.
+- 2024.06.19: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Qin Li, Yizhe Zhang, Yan Li, Jun Lyu, Meng Liu, Longyu Sun, Mengting Sun, Qirong Li, Wenyue Mao, Xinran Wu, Yajing Zhang, Yinghua Chu, Shuo Wang, Chengyan Wang.<br />
+  "An Empirical Study on the Fairness of Foundation Models for Multi-Organ Image Segmentation." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2406.12646)] 
+  [2024.06]
+  
 :boom:**S2C:** Hyeokjun Kweon, Kuk-Jin Yoon.<br />
   "From SAM to CAMs: Exploring Segment Anything Model for Weakly Supervised Semantic Segmentation." CVPR (2024).
   [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Kweon_From_SAM_to_CAMs_Exploring_Segment_Anything_Model_for_Weakly_CVPR_2024_paper.pdf)] 
