@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.19: Latest update of this paper list.
+- 2024.06.20: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,53 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SF-CLIP:** Sepehr Sameni, Kushal Kafle, Hao Tan, Simon Jenni.<br />
+  "Building Vision-Language Models on Solid Foundations with Masked Distillation." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Sameni_Building_Vision-Language_Models_on_Solid_Foundations_with_Masked_Distillation_CVPR_2024_paper.html)] 
+  [2024.06]
+
+:boom:**LU-AVS:** Chen Liu, Peike Patrick Li, Qingtao Yu, Hongwei Sheng, Dadong Wang, Lincheng Li, Xin Yu.<br />
+  "Benchmarking Audio Visual Segmentation for Long-Untrimmed Videos." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Liu_Benchmarking_Audio_Visual_Segmentation_for_Long-Untrimmed_Videos_CVPR_2024_paper.html)] 
+  [[code](https://yenanliu.github.io/LU-AVS/)]
+  [2024.06]
+
+:boom:**ROSA:** Yuhan Shen, Huiyu Wang, Xitong Yang, Matt Feiszli, Ehsan Elhamifar, Lorenzo Torresani, Effrosyni Mavroudi.<br />
+  "Learning to Segment Referred Objects from Narrated Egocentric Videos." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Shen_Learning_to_Segment_Referred_Objects_from_Narrated_Egocentric_Videos_CVPR_2024_paper.html)] 
+  [2024.06]
+
+:boom:**TSP-SAM:** Wenjun Hui, Zhenfeng Zhu, Shuai Zheng, Yao Zhao.<br />
+  "Endow SAM with Keen Eyes: Temporal-spatial Prompt Learning for Video Camouflaged Object Detection." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Hui_Endow_SAM_with_Keen_Eyes_Temporal-spatial_Prompt_Learning_for_Video_CVPR_2024_paper.html)] 
+  [2024.06]
+
+:boom:**OV3D:** Li Jiang, Shaoshuai Shi, Bernt Schiele.<br />
+  "Open-Vocabulary 3D Semantic Segmentation with Foundation Models." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Jiang_Open-Vocabulary_3D_Semantic_Segmentation_with_Foundation_Models_CVPR_2024_paper.html)] 
+  [2024.06]
+
+:boom:**FM-FSOD:** Guangxing Han, Ser-Nam Lim.<br />
+  "Few-Shot Object Detection with Foundation Models." CVPR (2024).
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Han_Few-Shot_Object_Detection_with_Foundation_Models_CVPR_2024_paper.html)] 
+  [2024.06]
+
+:boom:**OV-DAR:** Keyan Chen, Xiaolong Jiang, Haochen Wang, Cilin Yan, Yan Gao, Xu Tang, Yao Hu & Weidi Xie.<br />
+  "OV-DAR: Open-Vocabulary Object Detection and Attributes Recognition." IJCV (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11263-024-02144-1)] 
+  [2024.06]
+
+:boom:Yang Su, Shunquan Tan, Jiwu Huang.<br />
+  "A Novel Universal Image Forensics Localization Model Based on Image Noise and Segment Anything Model." IH&MMSec (2024).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3658664.3659639)] 
+  [2024.06]
+
+:boom:**SGF:** Li, Guanlin and Zhao, Bin and Li, Xuelong.<br />
+  "Low-light Image Enhancement with SAM-based Structure Priors and Guidance." TMM (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10557144)] 
+  [[code](ttps://github.com/guanguanboy/SGF)]
+  [2024.06]
+
 :boom:Qin Li, Yizhe Zhang, Yan Li, Jun Lyu, Meng Liu, Longyu Sun, Mengting Sun, Qirong Li, Wenyue Mao, Xinran Wu, Yajing Zhang, Yinghua Chu, Shuo Wang, Chengyan Wang.<br />
   "An Empirical Study on the Fairness of Foundation Models for Multi-Organ Image Segmentation." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2406.12646)] 
