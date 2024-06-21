@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.20: Latest update of this paper list.
+- 2024.06.21: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**MUTR:** Bin Cao, Yisi Zhang, Xuanxu Lin, Xingjian He, Bo Zhao, Jing Liu.<br />
+  "2nd Place Solution for MeViS Track in CVPR 2024 PVUW Workshop: Motion Expression guided Video Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.13939)] 
+  [2024.06]
+
+:boom:**SSAD:** Zijian Cai, Xinquan Yang, Xuguang Li, Xiaoling Luo, Xuechen Li, Linlin Shen, He Meng, Yongqiang Deng.<br />
+  "SSAD: Self-supervised Auxiliary Detection Framework for Panoramic X-ray based Dental Disease Diagnosis." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.13963)] 
+  [[code](https://github.com/Dylonsword/SSAD)]
+  [2024.06]
+
 :boom:**SF-CLIP:** Sepehr Sameni, Kushal Kafle, Hao Tan, Simon Jenni.<br />
   "Building Vision-Language Models on Solid Foundations with Masked Distillation." CVPR (2024).
   [[paper](https://openaccess.thecvf.com/content/CVPR2024/html/Sameni_Building_Vision-Language_Models_on_Solid_Foundations_with_Masked_Distillation_CVPR_2024_paper.html)] 
