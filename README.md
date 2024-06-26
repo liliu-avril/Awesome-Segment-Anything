@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.25: Latest update of this paper list.
+- 2024.06.26: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,10 +148,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**TP-DRSeg:** Yirui Chen, Xudong Huang, Quan Zhang, Wei Li, Mingjian Zhu, Qiangyu Yan, Simiao Li, Hanting Chen, Hailin Hu, Jie Yang, Wei Liu, Jie Hu.<br />
+:boom:**Point-SAM:** Yuchen Zhou, Jiayuan Gu, Tung Yen Chiang, Fanbo Xiang, Hao Su.<br />
+  "Point-SAM: Promptable 3D Segmentation Model for Point Clouds." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.17741)] 
+  [[code](https://github.com/zyc00/Point-SAM)]
+  [2024.06]
+
+:boom:**GIM:** Yirui Chen, Xudong Huang, Quan Zhang, Wei Li, Mingjian Zhu, Qiangyu Yan, Simiao Li, Hanting Chen, Hailin Hu, Jie Yang, Wei Liu, Jie Hu.<br />
   "GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2406.16531)] 
-  [[code](https://github.com/chenyirui/GIM)]
+  [[paper]()] 
+  [[code]()]
   [2024.06]
 
 :boom:**TP-DRSeg:** Wenxue Li, Xinyu Xiong, Peng Xia, Lie Ju, Zongyuan Ge.<br />
