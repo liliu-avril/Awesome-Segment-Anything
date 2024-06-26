@@ -950,7 +950,10 @@ If you find our work useful in your research, please consider citing:
 
 - Moghimi, Armin and Welzel, Mario and Celik, Turgay and Schlurmann, Torsten.<br />
   "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery." IEEE  Access (2024).
-  [[paper](https://ieeexplore.ieee.org/abstract/document/10493013)] 
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10493013)]
+  [[code](https://github.com/ArminMoghimi/RiverSnap)]
+  [[Dataset](https://ieee-dataport.org/documents/lufi-riversnap-river-water-segmentation)]
+
   [2024.04]
 
 - **SAMPA:** Handi Deng, Yucheng Zhou, Jiaxuan Xiang, Liujie Gu, Yan Luo, Hai Feng, Mingyuan Liu, Cheng Ma.<br />
