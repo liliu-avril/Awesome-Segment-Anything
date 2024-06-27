@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.26: Latest update of this paper list.
+- 2024.06.27: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**D2GPLan:** Jialun Pei, Ruize Cui, Yaoqian Li, Weixin Si, Jing Qin, Pheng-Ann Heng.<br />
+  "Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2406.17858)] 
+  [[code](https://github.com/PJLallen/D2GPLand)]
+  [2024.06]
+
 :boom:**Point-SAM:** Yuchen Zhou, Jiayuan Gu, Tung Yen Chiang, Fanbo Xiang, Hao Su.<br />
   "Point-SAM: Promptable 3D Segmentation Model for Point Clouds." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.17741)] 
@@ -953,7 +959,6 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://ieeexplore.ieee.org/abstract/document/10493013)]
   [[code](https://github.com/ArminMoghimi/RiverSnap)]
   [[Dataset](https://ieee-dataport.org/documents/lufi-riversnap-river-water-segmentation)]
-
   [2024.04]
 
 - **SAMPA:** Handi Deng, Yucheng Zhou, Jiaxuan Xiang, Liujie Gu, Yan Luo, Hai Feng, Mingyuan Liu, Cheng Ma.<br />
