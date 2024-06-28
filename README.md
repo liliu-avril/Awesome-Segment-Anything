@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.27: Latest update of this paper list.
+- 2024.06.28: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**RWKV-SAM:** Haobo Yuan, Xiangtai Li, Lu Qi, Tao Zhang, Ming-Hsuan Yang, Shuicheng Yan, Chen Change Loy.<br />
+  "Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.19369)] 
+  [[code](https://github.com/HarborYuan/ovsam)]
+  [2024.06]
+
+:boom:**REC:** Fuseini Mumuni, Alhassan Mumuni.<br />
+  "Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.19057)] 
+  [2024.06]
+
+:boom:**UNest:** Vu Minh Hieu Phan, Yutong Xie, Bowen Zhang, Yuankai Qi, Zhibin Liao, Antonios Perperidis, Son Lam Phung, Johan W. Verjans, Minh-Son To.<br />
+  "Structural Attention: Rethinking Transformer for Unpaired Medical Image Synthesis." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2406.18967)] 
+  [[code](https://github.com/HieuPhan33/MICCAI2024-UNest)]
+  [2024.06]
+
+:boom:Qiushi Guo.<br />
+  "A Universal Railway Obstacle Detection System based on Semi-supervised Segmentation And Optical Flow." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.18908)] 
+  [2024.06]
+
+:boom:Mingxiao Huo, Pengliang Ji, Haotian Lin, Junchen Liu, Yixiao Wang, Yijun Chen.<br />
+  "Composition Vision-Language Understanding via Segment and Depth Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.18591)] 
+  [[code](https://github.com/AnthonyHuo/SAM-DAM-for-Compositional-Reasoning)]
+  [2024.06]
+
 :boom:**D2GPLan:** Jialun Pei, Ruize Cui, Yaoqian Li, Weixin Si, Jing Qin, Pheng-Ann Heng.<br />
   "Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2406.17858)] 
