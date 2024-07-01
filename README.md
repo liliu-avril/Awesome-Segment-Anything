@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.06.28: Latest update of this paper list.
+- 2024.07.01: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,64 +148,81 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**RWKV-SAM:** Haobo Yuan, Xiangtai Li, Lu Qi, Tao Zhang, Ming-Hsuan Yang, Shuicheng Yan, Chen Change Loy.<br />
+:boom:**UnSAM:** XuDong Wang, Jingfeng Yang, Trevor Darrell.<br />
+  "Segment Anything without Supervision." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.20081)] 
+  [[code](https://github.com/frank-xwang/UnSAM)]
+  [2024.06]
+
+:boom:**EVF-SAM:** Yuxuan Zhang, Tianheng Cheng, Rui Hu, ei Liu, Heng Liu, Longjin Ran, Xiaoxin Chen, Wenyu Liu, Xinggang Wang.<br />
+  "EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.20076)] 
+  [2024.06]
+
+:boom:Tianli Liao, Ce Wang, Lei Li, Guangen Liu, Nan Li.<br />
+  "Parallax-tolerant Image Stitching via Segmentation-guided Multi-homography Warping." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.19922)] 
+  [[code](https://github.com/tlliao/multi-homo-warp)]
+  [2024.06]
+
+- **RWKV-SAM:** Haobo Yuan, Xiangtai Li, Lu Qi, Tao Zhang, Ming-Hsuan Yang, Shuicheng Yan, Chen Change Loy.<br />
   "Mamba or RWKV: Exploring High-Quality and High-Efficiency Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.19369)] 
   [[code](https://github.com/HarborYuan/ovsam)]
   [2024.06]
 
-:boom:**REC:** Fuseini Mumuni, Alhassan Mumuni.<br />
+- **REC:** Fuseini Mumuni, Alhassan Mumuni.<br />
   "Segment Anything Model for automated image data annotation: empirical studies using text prompts from Grounding DINO." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.19057)] 
   [2024.06]
 
-:boom:**UNest:** Vu Minh Hieu Phan, Yutong Xie, Bowen Zhang, Yuankai Qi, Zhibin Liao, Antonios Perperidis, Son Lam Phung, Johan W. Verjans, Minh-Son To.<br />
+- **UNest:** Vu Minh Hieu Phan, Yutong Xie, Bowen Zhang, Yuankai Qi, Zhibin Liao, Antonios Perperidis, Son Lam Phung, Johan W. Verjans, Minh-Son To.<br />
   "Structural Attention: Rethinking Transformer for Unpaired Medical Image Synthesis." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2406.18967)] 
   [[code](https://github.com/HieuPhan33/MICCAI2024-UNest)]
   [2024.06]
 
-:boom:Qiushi Guo.<br />
+- Qiushi Guo.<br />
   "A Universal Railway Obstacle Detection System based on Semi-supervised Segmentation And Optical Flow." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.18908)] 
   [2024.06]
 
-:boom:Mingxiao Huo, Pengliang Ji, Haotian Lin, Junchen Liu, Yixiao Wang, Yijun Chen.<br />
+- Mingxiao Huo, Pengliang Ji, Haotian Lin, Junchen Liu, Yixiao Wang, Yijun Chen.<br />
   "Composition Vision-Language Understanding via Segment and Depth Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.18591)] 
   [[code](https://github.com/AnthonyHuo/SAM-DAM-for-Compositional-Reasoning)]
   [2024.06]
 
-:boom:**D2GPLan:** Jialun Pei, Ruize Cui, Yaoqian Li, Weixin Si, Jing Qin, Pheng-Ann Heng.<br />
+- **D2GPLan:** Jialun Pei, Ruize Cui, Yaoqian Li, Weixin Si, Jing Qin, Pheng-Ann Heng.<br />
   "Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2406.17858)] 
   [[code](https://github.com/PJLallen/D2GPLand)]
   [2024.06]
 
-:boom:**Point-SAM:** Yuchen Zhou, Jiayuan Gu, Tung Yen Chiang, Fanbo Xiang, Hao Su.<br />
+- **Point-SAM:** Yuchen Zhou, Jiayuan Gu, Tung Yen Chiang, Fanbo Xiang, Hao Su.<br />
   "Point-SAM: Promptable 3D Segmentation Model for Point Clouds." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.17741)] 
   [[code](https://github.com/zyc00/Point-SAM)]
   [2024.06]
 
-:boom:**GIM:** Yirui Chen, Xudong Huang, Quan Zhang, Wei Li, Mingjian Zhu, Qiangyu Yan, Simiao Li, Hanting Chen, Hailin Hu, Jie Yang, Wei Liu, Jie Hu.<br />
+- **GIM:** Yirui Chen, Xudong Huang, Quan Zhang, Wei Li, Mingjian Zhu, Qiangyu Yan, Simiao Li, Hanting Chen, Hailin Hu, Jie Yang, Wei Liu, Jie Hu.<br />
   "GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization." ArXiv (2024).
   [[paper]()] 
   [[code]()]
   [2024.06]
 
-:boom:**TP-DRSeg:** Wenxue Li, Xinyu Xiong, Peng Xia, Lie Ju, Zongyuan Ge.<br />
+- **TP-DRSeg:** Wenxue Li, Xinyu Xiong, Peng Xia, Lie Ju, Zongyuan Ge.<br />
   "TP-DRSeg: Improving Diabetic Retinopathy Lesion Segmentation with Explicit Text-Prompts Assisted SAM." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.15764)] 
   [[code](https://github.com/wxliii/TP-DRSeg)]
   [2024.06]
 
-:boom:**SAM-EG:** Quoc-Huy Trinh, Hai-Dang Nguyen, Bao-Tram Nguyen Ngoc, Debesh Jha, Ulas Bagci, Minh-Triet Tran.<br />
+- **SAM-EG:** Quoc-Huy Trinh, Hai-Dang Nguyen, Bao-Tram Nguyen Ngoc, Debesh Jha, Ulas Bagci, Minh-Triet Tran.<br />
   "SAM-EG: Segment Anything Model with Egde Guidance framework for efficient Polyp Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.14819)] 
   [2024.06]
 
-:boom:**TraceNet:** Mingyuan Wu, Zichuan Liu, Haozhen Zheng, Hongpeng Guo, Bo Chen, Xin Lu, Klara Nahrstedt.<br />
+- **TraceNet:** Mingyuan Wu, Zichuan Liu, Haozhen Zheng, Hongpeng Guo, Bo Chen, Xin Lu, Klara Nahrstedt.<br />
   "TraceNet: Segment one thing efficiently." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.14874)] 
   [2024.06]
