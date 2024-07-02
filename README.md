@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.01: Latest update of this paper list.
+- 2024.07.02: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**MaskField:** Zihan Gao, Lingling Li, Licheng Jiao, Fang Liu, Xu Liu, Wenping Ma, Yuwei Guo, Shuyuan Yang.<br />
+  "Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.01220)] 
+  [2024.07]
+
+:boom:**ASPS:** Huiqian Li, Dingwen Zhang, Jieru Yao, Longfei Han, Zhongyu Li, Junwei Han.<br />
+  "ASPS: Augmented Segment Anything Model for Polyp Segmentation." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2407.00718)] 
+  [[code](https://github.com/HuiqianLi/ASPS)]
+  [2024.07]
+
+:boom:Zongshuo Li, Ding Huo, Markus Meurer, Thomas Bergs.<br />
+  "Efficient Cutting Tool Wear Segmentation Based on Segment Anything Model." MSEC (2024).
+  [[paper](https://arxiv.org/abs/2407.01211)] 
+  [202407]
+
+:boom:**HATs:** Ruining Deng, Quan Liu, Can Cui, Tianyuan Yao, Juming Xiong, Shunxing Bao, Hao Li, Mengmeng Yin, Yu Wang, Shilin Zhao, Yucheng Tang, Haichun Yang, Yuankai Huo.<br />
+  "HATs: Hierarchical Adaptive Taxonomy Segmentation for Panoramic Pathology Image Analysis." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.00596)] 
+  [[code](https://github.com/hrlblab/HATs)]
+  [2024.07]
+
+:boom:**SolarSAM:** Guohao Wang.<br />
+  "SolarSAM: Building-scale Photovoltaic Potential Assessment Based on Segment Anything Model (SAM) and Remote Sensing for Emerging City." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.00296)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  [2024.07]
+
 :boom:**UnSAM:** XuDong Wang, Jingfeng Yang, Trevor Darrell.<br />
   "Segment Anything without Supervision." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.20081)] 
