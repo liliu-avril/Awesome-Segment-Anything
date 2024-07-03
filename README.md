@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.02: Latest update of this paper list.
+- 2024.07.03: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -1232,6 +1232,13 @@ If you find our work useful in your research, please consider citing:
 - **MedCLIP-SAM:** Taha Koleilat, Hojat Asgariandehkordi, Hassan Rivaz, Yiming Xiao.<br />
   "MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.20253)] 
+  [2024.03]
+
+- **COCO-ReM:** Shweta Singh, Aayan Yadav, Jitesh Jain, Humphrey Shi, Justin Johnson, Karan Desai.<br />
+  "Benchmarking Object Detectors with COCO: A New Path Forward." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.18819)] 
+  [[dataset](https://cocorem.xyz/)]
+  [[code](https://github.com/kdexd/coco-rem)]
   [2024.03]
 
 - Yuiko Sakuma, Masakazu Yoshimura, Junji Otsuka, Atsushi Irie, Takeshi Ohashi.<br />
