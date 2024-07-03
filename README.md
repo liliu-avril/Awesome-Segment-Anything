@@ -148,6 +148,33 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**ISAMS:** Katja Löwenstein, Johanna Rehrl, Anja Schuster, Michael Gadermayr.<br />
+  "Virtually Objective Quantification of in vitro Wound Healing Scratch Assays with the Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.02187)] 
+  [202407]
+
+:boom:**HRSAM:** You Huang, Wenbin Lai, Jiayi Ji, Liujuan Cao, Shengchuan Zhang, Rongrong Ji.<br />
+  "HRSAM: Efficiently Segment Anything in High-Resolution Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.02109)] 
+  [[code](https://github.com/YouHuang67/High-Resolution-Segment-Anything.git)]
+  [2024.07]
+
+:boom:**Label Anything:** Pasquale De Marinis, Nicola Fanelli, Raffaele Scaringi, Emanuele Colonna, Giuseppe Fiameni, Gennaro Vessio, Giovanna Castellano.<br />
+  "Label Anything: Multi-Class Few-Shot Semantic Segmentation with Visual Prompts." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.02075)] 
+  [[code](https://github.com/pasqualedem/LabelAnything)]
+  [202407]
+
+:boom:**SAVE:** Khanh-Binh Nguyen, Chae Jung Park.<br />
+  "SAVE: Segment Audio-Visual Easy way using Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.02004)] 
+  [2024.07]
+
+:boom:Pratyush Tripathy, Kathy Baylis, Kyle Wu, Jyles Watson, Ruizhe Jiang.<br />
+  "Investigating the Segment Anything Foundation Model for Mapping Smallholder Agriculture Field Boundaries Without Training Labels." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.01846)] 
+  [202407]
+
 :boom:**MaskField:** Zihan Gao, Lingling Li, Licheng Jiao, Fang Liu, Xu Liu, Wenping Ma, Yuwei Guo, Shuyuan Yang.<br />
   "Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.01220)] 
