@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.03: Latest update of this paper list.
+- 2024.07.04: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:** CADe:** Furqan Shaukat, Syed Muhammad Anwar, Abhijeet Parida, Van Khanh Lam, Marius George Linguraru, Mubarak Shah.<br />
+  "Lung-CADex: Fully automatic Zero-Shot Detection and Classification of Lung Nodules in Thoracic CT Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.02625)] 
+  [2024.07]
+
 :boom:**ISAMS:** Katja Löwenstein, Johanna Rehrl, Anja Schuster, Michael Gadermayr.<br />
   "Virtually Objective Quantification of in vitro Wound Healing Scratch Assays with the Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.02187)] 
