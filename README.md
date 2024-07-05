@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.04: Latest update of this paper list.
+- 2024.07.05: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -2069,7 +2069,7 @@ Spatial Information Research (2024).
   [2024.02]
 
 - **CAT-SAM:** Aoran Xiao, Weihao Xuan, Heli Qi, Yun Xing, Ruijie Ren, Xiaoqin Zhang, Shijian Lu.<br />
-  "CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything Model." ArXiv (2024).
+  "CAT-SAM: Conditional Tuning Network for Few-Shot Adaptation of Segmentation Anything Model." ECCV (2024).
   [[paper](https://arxiv.org/abs/2402.03631)] 
   [[code](https://xiaoaoran.github.io/projects/CAT-SAM)]
   [2024.02]
@@ -3465,7 +3465,7 @@ Spatial Information Research (2024).
   [2023.11]
 
 - **PromptNucSeg:** Zhongyi Shui, Yunlong Zhang, Kai Yao, Chenglu Zhu, Yuxuan Sun, Lin Yang.<br />
-  "Unleashing the Power of Prompt-driven Nucleus Instance Segmentation." ArXiv (2023).
+  "Unleashing the Power of Prompt-driven Nucleus Instance Segmentation." ECCV (2024).
   [[paper](https://arxiv.org/abs/2311.15939)] 
   [[code](https://github.com/windygoo/PromptNucSeg)]
   [2023.11]
