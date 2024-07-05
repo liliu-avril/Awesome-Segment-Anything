@@ -148,7 +148,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:** CADe:** Furqan Shaukat, Syed Muhammad Anwar, Abhijeet Parida, Van Khanh Lam, Marius George Linguraru, Mubarak Shah.<br />
+:boom:**CADe:** Furqan Shaukat, Syed Muhammad Anwar, Abhijeet Parida, Van Khanh Lam, Marius George Linguraru, Mubarak Shah.<br />
   "Lung-CADex: Fully automatic Zero-Shot Detection and Classification of Lung Nodules in Thoracic CT Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.02625)] 
   [2024.07]
