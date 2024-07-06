@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.05: Latest update of this paper list.
+- 2024.07.06: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,78 +148,228 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**CADe:** Furqan Shaukat, Syed Muhammad Anwar, Abhijeet Parida, Van Khanh Lam, Marius George Linguraru, Mubarak Shah.<br />
+:boom:**OneSAM:** Khanh-Binh Nguyen, Chae Jung Park.<br />
+  "OneSAM: One model for segment anything model in medical images on Laptop." ArXiv (2024).
+  [[paper](https://openreview.net/forum?id=2xpvozuFq5)] 
+  [2024.07]
+
+:boom:Zdravko Marinov, Alexander Jaus, Jens Kleesiek, Rainer Stiefelhagen.<br />
+  "Filters, Thresholds, and Geodesic Distances for Scribble-based Interactive Segmentation of Medical Images." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=FT3T2Dh1fg)] 
+  [2024.07]
+
+:boom:Zdravko Marinov, Alexander Jaus, Jens Kleesiek, Rainer Stiefelhagen.<br />
+  "Taking a Step Back: Revisiting Classical Approaches for Efficient Interactive Segmentation of Medical Images." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=lM99O5U8SE)] 
+  [2024.07]
+
+:boom:SONGXIAO YANG, Yizhou Li, Ye Chen, Zhuofeng Wu, Masatoshi Okutomi.<br />
+  "A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation." ArXiv (2024).
+  [[paper](https://openreview.net/forum?id=T3pEt7VkGT)] 
+  [2024.07]
+
+:boom:Raphael Stock, Yannick Kirchhoff, Maximilian Rouven Rokuss, Ashis Ravindran, Klaus Maier-Hein.<br />
+  "Segment Anything in Medical Images with nnUNet." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=N1uNPfYHFw)] 
+  [2024.07]
+
+:boom:**QMedSAM:** Haisheng Lu, Yujie Fu, Fan Zhang, Le Zhang.<br />
+  "Efficient Quantization-Aware Training on Segment Anything Model in Medical Images and Its Deployment." ArXiv (2024).
+  [[paper](https://openreview.net/forum?id=Wbfy5Tf9WA)] 
+  [[code](https://github.com/AVC2-UESTC/QMedSAM)]
+  [2024.07]
+
+:boom:**RepMedSAM:** Zehan Zhang, Rui Huang, Ning Huang.<br />
+  "RepMedSAM: Segment Anything in Medical Images with Lightweight CNN." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=AXeZItjN2z)] 
+  [2024.07]
+
+:boom:**DAFT:** Alexander Tobias Pfefferle, Lennart Purucker, Frank Hutter.<br />
+  "DAFT: Data-Aware Fine-Tuning of Foundation Models for Efficient and Effective Medical Image Segmentation." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=PObXviy706)] 
+  [2024.07]
+
+:boom:**Swin-LiteMedSAM::** Ruochen Gao, Donghang Lyu.<br />
+  "Swin-LiteMedSAM: A Lightweight Mulitple-Prompt-Based Segmentation Model for Large-Scale Medical Image Datasets." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=YgXOPqNrjl)] 
+  [[code](https://github.com}{https//github.com%7D)]
+  [2024.07]
+
+:boom:Zdravko Marinov, Alexander Jaus, Jens Kleesiek, Rainer Stiefelhagen.<br />
+  "Filters, Thresholds, and Geodesic Distances for Scribble-based Interactive Segmentation of Medical Images." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=FT3T2Dh1fg)] 
+  [2024.07]
+
+:boom:Haotian Guan, Bingze Dai, Jiajing Zhang.<br />
+  "Lite Class-prompt Tiny-VIT for Multi-Modality Medical Image Segmentation." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=VHcTUdz9SY)] 
+  [2024.07]
+
+:boom:Zhi Li, YAQI WANG.<br />
+  "ExpertsMedSAM: Faster Medical Image Segment Anything with Mixture-of-Experts." ArXiv (2024).
+  [[paper](https://openreview.net/forum?id=PvZLfWp0RC)] 
+  [2024.07]
+
+:boom:**GraysAnatomySAM:** YoungHwan Choi, In Kyu Lee, Jonghoe Ku.<br />
+  "Gray’s Anatomy for Segment Anything Model: Optimizing Grayscale Medical Images for Fast and Lightweight Segmentation." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=BNrWHF5ZlC)] 
+  [[code](https://github.com/Ninebell/GraysAnatomySAM)]
+  [2024.07]
+
+:boom:Wentao Liu, weijin xu, Ruifeng Bian, Haoyuan Li, Tong Tian.<br />
+  "LiteMedSAM with Low-Rank Adaptation and Multi-Box Efficient Inference for Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://openreview.net/forum?id=OARvqM1Xgz)] 
+  [2024.07]
+
+:boom:Lei Yu.<br />
+  "Efficient and Robust Medical Image Segmentation Using Lightweight ViT-Tiny based SAM and Model Quantization." ArXiv (2024).
+  [[paper](https://openreview.net/forum?id=clVaaD4FgD)] 
+  [2024.07]
+
+:boom:**Rep-MedSAM:** Muxin Wei, Shuqing Chen, Silin Wu, Dabin Xu.<br />
+  "Rep-MedSAM: Towards Real-time and Universal Medical Image Segmentation." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=yqf77n9Kfw)] 
+  [2024.07]
+
+:boom:**RepViT-MedSAM:** Muhammad Qasim Ali, Alexander Wong, Yuhao Chen.<br />
+  "RepViT-MedSAM: Efficient Segment Anything in the Medical Images." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=7XxVOeffb6)] 
+  [[code](https://github.com/icecap360/TurboMedSAM)]
+  [2024.07]
+
+:boom:**GBMSeg:** Xueyu Liu, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu, MIng Li, Weixia Han, Wen Zheng.<br />
+  "Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2406.16271)] 
+  [[code](https://github.com/SnowRain510/GBMSeg)]
+  [2024.07]
+
+:boom:**MedficientSAM:** Bao-Hiep Le, Dang-Khoa Nguyen-Vu, Trong-Hieu Nguyen-Mau, Hai-Dang Nguyen, Minh-Triet Tran.<br />
+  "MedficientSAM: A Robust Medical Segmentation Model with Optimized Inference Pipeline for Limited Clinical Settings." CVPR Workshop (2024).
+  [[paper](https://openreview.net/forum?id=aa0f77RKI0)] 
+  [[code](https://github.com/hieplpvip/medficientsam)]
+  [2024.07]
+
+:boom:**AS-OCT:** Boyu Chen, Ameenat L. Solebo, Paul Taylor.<br />
+  "Advancing Cell Detection in Anterior Segment Optical Coherence Tomography Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.17577)] 
+  [[code](https://github.com/joeybyc/cell_detection)]
+  [2024.07]
+
+:boom:**YOLOv8n-DDA-SAM:** Zhang, Gengming, Hao Cao, Yangwen Jin, Yi Zhong, Anbang Zhao, Xiangjun Zou, and Hongjun Wang.<br />
+  "YOLOv8n-DDA-SAM: Accurate Cutting-Point Estimation for Robotic Cherry-Tomato Harvesting." Agriculture (2024).
+  [[paper](https://www.mdpi.com/2077-0472/14/7/1011)] 
+  [2024.07]
+
+:boom:**MMRo:** Jinming Li, Yichen Zhu, Zhiyuan Xu, Jindong Gu, Minjie Zhu, Xin Liu, Ning Liu, Yaxin Peng, Feifei Feng, Jian Tang.<br />
+  "MMRo: Are Multimodal LLMs Eligible as the Brain for In-Home Robotics?." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.19693)] 
+  [[code](https://mm-robobench.github.io/)]
+  [2024.07]
+
+:boom:**OTVP:** Takayuki Nishimura, Katsuyuki Kuyo, Motonari Kambara, Komei Sugiura.<br />
+"Object Segmentation from Open-Vocabulary Manipulation Instructions Based on Optimal Transport Polygon Matching with Multimodal Foundation Models." IROS (2024).
+[[paper](https://arxiv.org/abs/2407.00985)] 
+[2024.07]
+
+:boom:**MST_MIXER:** Adnen Abdessaied, Lei Shi, Andreas Bulling.<br />
+  "Multi-Modal Video Dialog State Tracking in the Wild." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.02218)] 
+  [[code](https://perceptualui.org/publications/abdessaied24_eccv)]
+ [2024.07]
+
+:boom:**MMedAgent:** Binxu Li, Tiankai Yan, Yuanting Pan, Zhe Xu, Jie Luo, Ruiyang Ji, Shilong Liu, Haoyu Dong, Zihao Lin, Yixin Wang.<br />
+  "MMedAgent: Learning to Use Medical Tools with Multi-modal Agent." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.02483)] 
+[2024.07]
+
+:boom:**U-SAM:** Shouhong Wan, hantao zhang, Weidong Guo et al.<br />
+  "Tuning Vision Foundation Models for Rectal Cancer Segmentation from CT Scans: Development and Validation of U-SAM." ArXiv (2024).
+  [[paper](https://www.researchsquare.com/article/rs-4476094/v1)] 
+  [2024.07]
+
+:boom:**DisFormer:** Sanket Gandhi, Atul, Samanyu Mahajan, Vishal Sharma, Rushil Gupta, Arnab Kumar Mondal, Parag Singla.<br />
+  "Learning Disentangled Representation in Object-Centric Models for Visual Dynamics Prediction via Transformers." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.03216)] 
+ [2024.07]
+
+:boom:**BACON:** Zhantao Yang, Ruili Feng, Keyu Yan, Huangji Wang, Zhicai Wang, Shangwen Zhu, Han Zhang, Jie Xiao, Pingyu Wu, Kai Zhu, Jixuan Chen, Chen-Wei Xie, Chaojie Mao, Yue Yang, Hongyang Zhang, Yu Liu, Fan Cheng.<br />
+  "BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.03314)] 
+  [[code](https://ztyang23.github.io/bacon-page)]
+  [2024.07]
+
+- **CADe:** Furqan Shaukat, Syed Muhammad Anwar, Abhijeet Parida, Van Khanh Lam, Marius George Linguraru, Mubarak Shah.<br />
   "Lung-CADex: Fully automatic Zero-Shot Detection and Classification of Lung Nodules in Thoracic CT Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.02625)] 
   [2024.07]
 
-:boom:**ISAMS:** Katja Löwenstein, Johanna Rehrl, Anja Schuster, Michael Gadermayr.<br />
+- **ISAMS:** Katja Löwenstein, Johanna Rehrl, Anja Schuster, Michael Gadermayr.<br />
   "Virtually Objective Quantification of in vitro Wound Healing Scratch Assays with the Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.02187)] 
-  [202407]
+  [2024.07]
 
-:boom:**HRSAM:** You Huang, Wenbin Lai, Jiayi Ji, Liujuan Cao, Shengchuan Zhang, Rongrong Ji.<br />
+- **HRSAM:** You Huang, Wenbin Lai, Jiayi Ji, Liujuan Cao, Shengchuan Zhang, Rongrong Ji.<br />
   "HRSAM: Efficiently Segment Anything in High-Resolution Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.02109)] 
   [[code](https://github.com/YouHuang67/High-Resolution-Segment-Anything.git)]
   [2024.07]
 
-:boom:**Label Anything:** Pasquale De Marinis, Nicola Fanelli, Raffaele Scaringi, Emanuele Colonna, Giuseppe Fiameni, Gennaro Vessio, Giovanna Castellano.<br />
+- **Label Anything:** Pasquale De Marinis, Nicola Fanelli, Raffaele Scaringi, Emanuele Colonna, Giuseppe Fiameni, Gennaro Vessio, Giovanna Castellano.<br />
   "Label Anything: Multi-Class Few-Shot Semantic Segmentation with Visual Prompts." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.02075)] 
   [[code](https://github.com/pasqualedem/LabelAnything)]
-  [202407]
+  [2024.07]
 
-:boom:**SAVE:** Khanh-Binh Nguyen, Chae Jung Park.<br />
+- **SAVE:** Khanh-Binh Nguyen, Chae Jung Park.<br />
   "SAVE: Segment Audio-Visual Easy way using Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.02004)] 
   [2024.07]
 
-:boom:Pratyush Tripathy, Kathy Baylis, Kyle Wu, Jyles Watson, Ruizhe Jiang.<br />
+- Pratyush Tripathy, Kathy Baylis, Kyle Wu, Jyles Watson, Ruizhe Jiang.<br />
   "Investigating the Segment Anything Foundation Model for Mapping Smallholder Agriculture Field Boundaries Without Training Labels." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.01846)] 
-  [202407]
+  [2024.07]
 
-:boom:**MaskField:** Zihan Gao, Lingling Li, Licheng Jiao, Fang Liu, Xu Liu, Wenping Ma, Yuwei Guo, Shuyuan Yang.<br />
+- **MaskField:** Zihan Gao, Lingling Li, Licheng Jiao, Fang Liu, Xu Liu, Wenping Ma, Yuwei Guo, Shuyuan Yang.<br />
   "Fast and Efficient: Mask Neural Fields for 3D Scene Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.01220)] 
   [2024.07]
 
-:boom:**ASPS:** Huiqian Li, Dingwen Zhang, Jieru Yao, Longfei Han, Zhongyu Li, Junwei Han.<br />
+- **ASPS:** Huiqian Li, Dingwen Zhang, Jieru Yao, Longfei Han, Zhongyu Li, Junwei Han.<br />
   "ASPS: Augmented Segment Anything Model for Polyp Segmentation." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2407.00718)] 
   [[code](https://github.com/HuiqianLi/ASPS)]
   [2024.07]
 
-:boom:Zongshuo Li, Ding Huo, Markus Meurer, Thomas Bergs.<br />
+- Zongshuo Li, Ding Huo, Markus Meurer, Thomas Bergs.<br />
   "Efficient Cutting Tool Wear Segmentation Based on Segment Anything Model." MSEC (2024).
   [[paper](https://arxiv.org/abs/2407.01211)] 
-  [202407]
+  [2024.07]
 
-:boom:**HATs:** Ruining Deng, Quan Liu, Can Cui, Tianyuan Yao, Juming Xiong, Shunxing Bao, Hao Li, Mengmeng Yin, Yu Wang, Shilin Zhao, Yucheng Tang, Haichun Yang, Yuankai Huo.<br />
+- **HATs:** Ruining Deng, Quan Liu, Can Cui, Tianyuan Yao, Juming Xiong, Shunxing Bao, Hao Li, Mengmeng Yin, Yu Wang, Shilin Zhao, Yucheng Tang, Haichun Yang, Yuankai Huo.<br />
   "HATs: Hierarchical Adaptive Taxonomy Segmentation for Panoramic Pathology Image Analysis." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.00596)] 
   [[code](https://github.com/hrlblab/HATs)]
   [2024.07]
 
-:boom:**SolarSAM:** Guohao Wang.<br />
+- **SolarSAM:** Guohao Wang.<br />
   "SolarSAM: Building-scale Photovoltaic Potential Assessment Based on Segment Anything Model (SAM) and Remote Sensing for Emerging City." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.00296)] 
   [[code](XXXXXXXXXXXXXXXXXXXXXX)]
   [2024.07]
 
-:boom:**UnSAM:** XuDong Wang, Jingfeng Yang, Trevor Darrell.<br />
+- **UnSAM:** XuDong Wang, Jingfeng Yang, Trevor Darrell.<br />
   "Segment Anything without Supervision." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.20081)] 
   [[code](https://github.com/frank-xwang/UnSAM)]
   [2024.06]
 
-:boom:**EVF-SAM:** Yuxuan Zhang, Tianheng Cheng, Rui Hu, ei Liu, Heng Liu, Longjin Ran, Xiaoxin Chen, Wenyu Liu, Xinggang Wang.<br />
+- **EVF-SAM:** Yuxuan Zhang, Tianheng Cheng, Rui Hu, ei Liu, Heng Liu, Longjin Ran, Xiaoxin Chen, Wenyu Liu, Xinggang Wang.<br />
   "EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.20076)] 
   [2024.06]
 
-:boom:Tianli Liao, Ce Wang, Lei Li, Guangen Liu, Nan Li.<br />
+- Tianli Liao, Ce Wang, Lei Li, Guangen Liu, Nan Li.<br />
   "Parallax-tolerant Image Stitching via Segmentation-guided Multi-homography Warping." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.19922)] 
   [[code](https://github.com/tlliao/multi-homo-warp)]
@@ -5650,6 +5800,8 @@ Spatial Information Research (2024).
 | 067  |Expedit-SAM| - | - | [Code](https://github.com/Expedit-LargeScale-Vision-Transformer/Expedit-SAM) | - | Expediting SAM without Fine-tuning. |
 | 068  |Segment-Anything-Fast |  Accelerating Generative AI with PyTorch: Segment Anything, Fast  |  [Project page](https://pytorch.org/blog/accelerating-generative-ai/)  |  [Code](https://github.com/pytorch-labs/segment-anything-fast)  | Team PyTorch | A batched offline inference oriented version of segment-anything. |
 | 069  |YOLOv9+SAM |YOLOv9+SAM   |  [Project page](https://zhuanlan.zhihu.com/p/689061673)  |  [Code](https://zhuanlan.zhihu.com/p/689061673)  | - | Dynamic Detection and Segmentation with YOLOv9+SAM. |
+| 070  | LiteMedSAM  |LiteMedSAM   |  [Project page](https://github.com/bowang-lab/MedSAM/tree/LiteMedSAM)  |  [Code](https://github.com/bowang-lab/MedSAM/tree/LiteMedSAM)  | - | A lightweight version of MedSAM for fast training and inference. |
+
 
 ## Awesome Repositories for SAM
 - [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything)
