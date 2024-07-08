@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.06: Latest update of this paper list.
+- 2024.07.08: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,151 +148,151 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**OneSAM:** Khanh-Binh Nguyen, Chae Jung Park.<br />
+- **OneSAM:** Khanh-Binh Nguyen, Chae Jung Park.<br />
   "OneSAM: One model for segment anything model in medical images on Laptop." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=2xpvozuFq5)] 
   [2024.07]
 
-:boom:Zdravko Marinov, Alexander Jaus, Jens Kleesiek, Rainer Stiefelhagen.<br />
+- Zdravko Marinov, Alexander Jaus, Jens Kleesiek, Rainer Stiefelhagen.<br />
   "Filters, Thresholds, and Geodesic Distances for Scribble-based Interactive Segmentation of Medical Images." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=FT3T2Dh1fg)] 
   [2024.07]
 
-:boom:Zdravko Marinov, Alexander Jaus, Jens Kleesiek, Rainer Stiefelhagen.<br />
+- Zdravko Marinov, Alexander Jaus, Jens Kleesiek, Rainer Stiefelhagen.<br />
   "Taking a Step Back: Revisiting Classical Approaches for Efficient Interactive Segmentation of Medical Images." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=lM99O5U8SE)] 
   [2024.07]
 
-:boom:SONGXIAO YANG, Yizhou Li, Ye Chen, Zhuofeng Wu, Masatoshi Okutomi.<br />
+- SONGXIAO YANG, Yizhou Li, Ye Chen, Zhuofeng Wu, Masatoshi Okutomi.<br />
   "A Light-weight Universal Medical Segmentation Network for Laptops Based on Knowledge Distillation." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=T3pEt7VkGT)] 
   [2024.07]
 
-:boom:Raphael Stock, Yannick Kirchhoff, Maximilian Rouven Rokuss, Ashis Ravindran, Klaus Maier-Hein.<br />
+- Raphael Stock, Yannick Kirchhoff, Maximilian Rouven Rokuss, Ashis Ravindran, Klaus Maier-Hein.<br />
   "Segment Anything in Medical Images with nnUNet." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=N1uNPfYHFw)] 
   [2024.07]
 
-:boom:**QMedSAM:** Haisheng Lu, Yujie Fu, Fan Zhang, Le Zhang.<br />
+- **QMedSAM:** Haisheng Lu, Yujie Fu, Fan Zhang, Le Zhang.<br />
   "Efficient Quantization-Aware Training on Segment Anything Model in Medical Images and Its Deployment." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=Wbfy5Tf9WA)] 
   [[code](https://github.com/AVC2-UESTC/QMedSAM)]
   [2024.07]
 
-:boom:**RepMedSAM:** Zehan Zhang, Rui Huang, Ning Huang.<br />
+- **RepMedSAM:** Zehan Zhang, Rui Huang, Ning Huang.<br />
   "RepMedSAM: Segment Anything in Medical Images with Lightweight CNN." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=AXeZItjN2z)] 
   [2024.07]
 
-:boom:**DAFT:** Alexander Tobias Pfefferle, Lennart Purucker, Frank Hutter.<br />
+- **DAFT:** Alexander Tobias Pfefferle, Lennart Purucker, Frank Hutter.<br />
   "DAFT: Data-Aware Fine-Tuning of Foundation Models for Efficient and Effective Medical Image Segmentation." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=PObXviy706)] 
   [2024.07]
 
-:boom:**Swin-LiteMedSAM::** Ruochen Gao, Donghang Lyu.<br />
+- **Swin-LiteMedSAM::** Ruochen Gao, Donghang Lyu.<br />
   "Swin-LiteMedSAM: A Lightweight Mulitple-Prompt-Based Segmentation Model for Large-Scale Medical Image Datasets." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=YgXOPqNrjl)] 
   [[code](https://github.com}{https//github.com%7D)]
   [2024.07]
 
-:boom:Zdravko Marinov, Alexander Jaus, Jens Kleesiek, Rainer Stiefelhagen.<br />
+- Zdravko Marinov, Alexander Jaus, Jens Kleesiek, Rainer Stiefelhagen.<br />
   "Filters, Thresholds, and Geodesic Distances for Scribble-based Interactive Segmentation of Medical Images." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=FT3T2Dh1fg)] 
   [2024.07]
 
-:boom:Haotian Guan, Bingze Dai, Jiajing Zhang.<br />
+- Haotian Guan, Bingze Dai, Jiajing Zhang.<br />
   "Lite Class-prompt Tiny-VIT for Multi-Modality Medical Image Segmentation." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=VHcTUdz9SY)] 
   [2024.07]
 
-:boom:Zhi Li, YAQI WANG.<br />
+- Zhi Li, YAQI WANG.<br />
   "ExpertsMedSAM: Faster Medical Image Segment Anything with Mixture-of-Experts." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=PvZLfWp0RC)] 
   [2024.07]
 
-:boom:**GraysAnatomySAM:** YoungHwan Choi, In Kyu Lee, Jonghoe Ku.<br />
+- **GraysAnatomySAM:** YoungHwan Choi, In Kyu Lee, Jonghoe Ku.<br />
   "Gray’s Anatomy for Segment Anything Model: Optimizing Grayscale Medical Images for Fast and Lightweight Segmentation." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=BNrWHF5ZlC)] 
   [[code](https://github.com/Ninebell/GraysAnatomySAM)]
   [2024.07]
 
-:boom:Wentao Liu, weijin xu, Ruifeng Bian, Haoyuan Li, Tong Tian.<br />
+- Wentao Liu, weijin xu, Ruifeng Bian, Haoyuan Li, Tong Tian.<br />
   "LiteMedSAM with Low-Rank Adaptation and Multi-Box Efficient Inference for Medical Image Segmentation." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=OARvqM1Xgz)] 
   [2024.07]
 
-:boom:Lei Yu.<br />
+- Lei Yu.<br />
   "Efficient and Robust Medical Image Segmentation Using Lightweight ViT-Tiny based SAM and Model Quantization." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=clVaaD4FgD)] 
   [2024.07]
 
-:boom:**Rep-MedSAM:** Muxin Wei, Shuqing Chen, Silin Wu, Dabin Xu.<br />
+- **Rep-MedSAM:** Muxin Wei, Shuqing Chen, Silin Wu, Dabin Xu.<br />
   "Rep-MedSAM: Towards Real-time and Universal Medical Image Segmentation." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=yqf77n9Kfw)] 
   [2024.07]
 
-:boom:**RepViT-MedSAM:** Muhammad Qasim Ali, Alexander Wong, Yuhao Chen.<br />
+- **RepViT-MedSAM:** Muhammad Qasim Ali, Alexander Wong, Yuhao Chen.<br />
   "RepViT-MedSAM: Efficient Segment Anything in the Medical Images." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=7XxVOeffb6)] 
   [[code](https://github.com/icecap360/TurboMedSAM)]
   [2024.07]
 
-:boom:**GBMSeg:** Xueyu Liu, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu, MIng Li, Weixia Han, Wen Zheng.<br />
+- **GBMSeg:** Xueyu Liu, Guangze Shi, Rui Wang, Yexin Lai, Jianan Zhang, Lele Sun, Quan Yang, Yongfei Wu, MIng Li, Weixia Han, Wen Zheng.<br />
   "Feature-prompting GBMSeg: One-Shot Reference Guided Training-Free Prompt Engineering for Glomerular Basement Membrane Segmentation." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2406.16271)] 
   [[code](https://github.com/SnowRain510/GBMSeg)]
   [2024.07]
 
-:boom:**MedficientSAM:** Bao-Hiep Le, Dang-Khoa Nguyen-Vu, Trong-Hieu Nguyen-Mau, Hai-Dang Nguyen, Minh-Triet Tran.<br />
+- **MedficientSAM:** Bao-Hiep Le, Dang-Khoa Nguyen-Vu, Trong-Hieu Nguyen-Mau, Hai-Dang Nguyen, Minh-Triet Tran.<br />
   "MedficientSAM: A Robust Medical Segmentation Model with Optimized Inference Pipeline for Limited Clinical Settings." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=aa0f77RKI0)] 
   [[code](https://github.com/hieplpvip/medficientsam)]
   [2024.07]
 
-:boom:**AS-OCT:** Boyu Chen, Ameenat L. Solebo, Paul Taylor.<br />
+- **AS-OCT:** Boyu Chen, Ameenat L. Solebo, Paul Taylor.<br />
   "Advancing Cell Detection in Anterior Segment Optical Coherence Tomography Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.17577)] 
   [[code](https://github.com/joeybyc/cell_detection)]
   [2024.07]
 
-:boom:**YOLOv8n-DDA-SAM:** Zhang, Gengming, Hao Cao, Yangwen Jin, Yi Zhong, Anbang Zhao, Xiangjun Zou, and Hongjun Wang.<br />
+- **YOLOv8n-DDA-SAM:** Zhang, Gengming, Hao Cao, Yangwen Jin, Yi Zhong, Anbang Zhao, Xiangjun Zou, and Hongjun Wang.<br />
   "YOLOv8n-DDA-SAM: Accurate Cutting-Point Estimation for Robotic Cherry-Tomato Harvesting." Agriculture (2024).
   [[paper](https://www.mdpi.com/2077-0472/14/7/1011)] 
   [2024.07]
 
-:boom:**MMRo:** Jinming Li, Yichen Zhu, Zhiyuan Xu, Jindong Gu, Minjie Zhu, Xin Liu, Ning Liu, Yaxin Peng, Feifei Feng, Jian Tang.<br />
+- **MMRo:** Jinming Li, Yichen Zhu, Zhiyuan Xu, Jindong Gu, Minjie Zhu, Xin Liu, Ning Liu, Yaxin Peng, Feifei Feng, Jian Tang.<br />
   "MMRo: Are Multimodal LLMs Eligible as the Brain for In-Home Robotics?." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.19693)] 
   [[code](https://mm-robobench.github.io/)]
   [2024.07]
 
-:boom:**OTVP:** Takayuki Nishimura, Katsuyuki Kuyo, Motonari Kambara, Komei Sugiura.<br />
+- **OTVP:** Takayuki Nishimura, Katsuyuki Kuyo, Motonari Kambara, Komei Sugiura.<br />
 "Object Segmentation from Open-Vocabulary Manipulation Instructions Based on Optimal Transport Polygon Matching with Multimodal Foundation Models." IROS (2024).
 [[paper](https://arxiv.org/abs/2407.00985)] 
 [2024.07]
 
-:boom:**MST_MIXER:** Adnen Abdessaied, Lei Shi, Andreas Bulling.<br />
+- **MST_MIXER:** Adnen Abdessaied, Lei Shi, Andreas Bulling.<br />
   "Multi-Modal Video Dialog State Tracking in the Wild." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.02218)] 
   [[code](https://perceptualui.org/publications/abdessaied24_eccv)]
  [2024.07]
 
-:boom:**MMedAgent:** Binxu Li, Tiankai Yan, Yuanting Pan, Zhe Xu, Jie Luo, Ruiyang Ji, Shilong Liu, Haoyu Dong, Zihao Lin, Yixin Wang.<br />
+- **MMedAgent:** Binxu Li, Tiankai Yan, Yuanting Pan, Zhe Xu, Jie Luo, Ruiyang Ji, Shilong Liu, Haoyu Dong, Zihao Lin, Yixin Wang.<br />
   "MMedAgent: Learning to Use Medical Tools with Multi-modal Agent." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.02483)] 
 [2024.07]
 
-:boom:**U-SAM:** Shouhong Wan, hantao zhang, Weidong Guo et al.<br />
+- **U-SAM:** Shouhong Wan, hantao zhang, Weidong Guo et al.<br />
   "Tuning Vision Foundation Models for Rectal Cancer Segmentation from CT Scans: Development and Validation of U-SAM." ArXiv (2024).
   [[paper](https://www.researchsquare.com/article/rs-4476094/v1)] 
   [2024.07]
 
-:boom:**DisFormer:** Sanket Gandhi, Atul, Samanyu Mahajan, Vishal Sharma, Rushil Gupta, Arnab Kumar Mondal, Parag Singla.<br />
+- **DisFormer:** Sanket Gandhi, Atul, Samanyu Mahajan, Vishal Sharma, Rushil Gupta, Arnab Kumar Mondal, Parag Singla.<br />
   "Learning Disentangled Representation in Object-Centric Models for Visual Dynamics Prediction via Transformers." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.03216)] 
  [2024.07]
 
-:boom:**BACON:** Zhantao Yang, Ruili Feng, Keyu Yan, Huangji Wang, Zhicai Wang, Shangwen Zhu, Han Zhang, Jie Xiao, Pingyu Wu, Kai Zhu, Jixuan Chen, Chen-Wei Xie, Chaojie Mao, Yue Yang, Hongyang Zhang, Yu Liu, Fan Cheng.<br />
+- **BACON:** Zhantao Yang, Ruili Feng, Keyu Yan, Huangji Wang, Zhicai Wang, Shangwen Zhu, Han Zhang, Jie Xiao, Pingyu Wu, Kai Zhu, Jixuan Chen, Chen-Wei Xie, Chaojie Mao, Yue Yang, Hongyang Zhang, Yu Liu, Fan Cheng.<br />
   "BACON: Supercharge Your VLM with Bag-of-Concept Graph to Mitigate Hallucinations." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.03314)] 
   [[code](https://ztyang23.github.io/bacon-page)]
@@ -1213,7 +1213,7 @@ If you find our work useful in your research, please consider citing:
   "A Comparative Performance Analysis of Popular Deep Learning Models and Segment Anything Model (SAM) for River Water Segmentation in Close-Range Remote Sensing Imagery." IEEE  Access (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10493013)]
   [[code](https://github.com/ArminMoghimi/RiverSnap)]
-  [[Dataset](https://ieee-dataport.org/documents/lufi-riversnap-river-water-segmentation)]
+  [[Dataset](https://ieee-daort.org/documents/lufi-riversnap-river-water-segmentation)]
   [2024.04]
 
 - **SAMPA:** Handi Deng, Yucheng Zhou, Jiaxuan Xiang, Liujie Gu, Yan Luo, Hai Feng, Mingyuan Liu, Cheng Ma.<br />
@@ -2617,7 +2617,7 @@ Spatial Information Research (2024).
   [2024.01]
 
 - **OV-SAM:** Haobo Yuan, Xiangtai Li, Chong Zhou, Yining Li, Kai Chen, Chen Change Loy.<br />
-  "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively." ArXiv (2024).
+  "Open-Vocabulary SAM: Segment and Recognize Twenty-thousand Classes Interactively." ECCV (2024).
   [[paper](https://arxiv.org/abs/2401.02955)] 
   [[project page](https://www.mmlab-ntu.com/project/ovsam)]
   [[code](https://github.com/HarborYuan/ovsam)]
@@ -3088,8 +3088,8 @@ Spatial Information Research (2024).
   [[code](https://github.com/Rubics-Xuan/MRES)]
   [2023.12]
 
-- **TAP:** ing Pan, Lulu Tang, Xinlong Wang, Shiguang Shan.<br />
-  "Tokenize Anything via Prompting." ArXiv (2023).
+- **TAP:** Ting Pan, Lulu Tang, Xinlong Wang, Shiguang Shan.<br />
+  "Tokenize Anything via Prompting." ECCV (2024).
   [[paper](https://arxiv.org/abs/2312.09128)] 
   [[code](https://github.com/baaivision/tokenize-anything)]
   [2023.12]
@@ -4874,7 +4874,7 @@ Spatial Information Research (2024).
   [2023.07]
 
 - **Semantic-SAM:** Feng Li, Hao Zhang, Peize Sun, Xueyan Zou, Shilong Liu, Jianwei Yang, Chunyuan Li, Lei Zhang, Jianfeng Gao.<br />
-  "Semantic-SAM: Segment and Recognize Anything at Any Granularity." ArXiv (2023).
+  "Semantic-SAM: Segment and Recognize Anything at Any Granularity." ECCV (2024).
   [[paper](https://arxiv.org/abs/2307.04767)] 
   [[code](https://github.com/UX-Decoder/Semantic-SAM)]
   [2023.07]
