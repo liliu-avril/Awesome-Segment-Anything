@@ -148,6 +148,27 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SA4D:** Shengxiang Ji, Guanjun Wu, Jiemin Fang, Jiazhong Cen, Taoran Yi, Wenyu Liu, Qi Tian, Xinggang Wang.<br />
+  "Segment Any 4D Gaussians." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.04504)] 
+  [[code](https://jsxzs.github.io/sa4d/)]
+  [2024.07]
+
+:boom:Weiyi Xie, Nathalie Willems, Shubham Patil, Yang Li, Mayank Kumar.<br />
+  "SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images." WACV (2024).
+  [[paper](https://arxiv.org/abs/2407.04651)] 
+  [2024.07]
+
+:boom:**JFS:** Seonghyeon Moon, Haein Kong, Muhammad Haris Khan.<br />
+  "Success or Failure? Analyzing Segmentation Refinement with Few-Shot Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.04519)] 
+  [2024.07]
+
+:boom:**CS3:** Yi Shi, Xu-Peng Tian, Yun-Kai Wang, Tie-Yi Zhang, Bin Yao, Hui Wang, Yong Shao, Cen-Cen Wang, Rong Zeng, De-Chuan Zhan.<br />
+  "CS3: Cascade SAM for Sperm Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.03772)] 
+  [2024.07]
+
 - **OneSAM:** Khanh-Binh Nguyen, Chae Jung Park.<br />
   "OneSAM: One model for segment anything model in medical images on Laptop." ArXiv (2024).
   [[paper](https://openreview.net/forum?id=2xpvozuFq5)] 
