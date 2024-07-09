@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.08: Latest update of this paper list.
+- 2024.07.09: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,23 +148,66 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SA4D:** Shengxiang Ji, Guanjun Wu, Jiemin Fang, Jiazhong Cen, Taoran Yi, Wenyu Liu, Qi Tian, Xinggang Wang.<br />
+
+:boom:**DiffPNG:** Danni Yang, Ruohan Dong, Jiayi Ji, Yiwei Ma, Haowei Wang, Xiaoshuai Sun, Rongrong Ji.<br />
+  "Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.05352)] 
+  [[code](https://github.com/nini0919/DiffPNG)]
+  [2024.07]
+
+:boom:**AO-Planner:** Jiaqi Chen, Bingqian Lin, Xinmin Liu, Xiaodan Liang, Kwan-Yee K. Wong.<br />
+  "Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.05890)] 
+  [2024.07]
+
+:boom:**MBA-Net:** Yifan Gao, Wei Xia, Wenkui Wang, Xin Gao.<br />
+  "MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2407.05984)] 
+  [2024.07]
+
+:boom:**SAM-TAPIR:** Athena Psalta, Vasileios Tsironis, Andreas El Saer, Konstantinos Karantzalos.<br />
+  "Addressing single object tracking in satellite imagery through prompt-engineered solutions." IGARSS (2024).
+  [[paper](https://arxiv.org/abs/2407.05518)] 
+  [2024.07]
+
+:boom:**CPC-SAM:** Juzheng Miao, Cheng Chen, Keli Zhang, Jie Chuai, Quanzheng Li, Pheng-Ann Heng.<br />
+  "Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2407.05416)] 
+  [[code](https://github.com/JuzhengMiao/CPC-SAM)]
+  [2024.07]
+
+:boom:**SAM-Med3D-MoE:** Guoan Wang, Jin Ye, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Junjun He, Bohan Zhuang.<br />
+  "SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.04938)] 
+  [2024.07]
+
+:boom:Longfei Huang, Feng Yu, Zhihao Guan, Zhonghua Wan, Yang Yang.<br />
+  "The Solution for the 5th GCAIAC Zero-shot Referring Expression Comprehension Challenge." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.04998)] 
+  [2024.07]
+
+:boom:Xudong Ma, Yuqi Zhang, Chenchong Wang, Wei Xu.<br />
+  "Revolutionizing Alloy Microstructure Segmentation through SAM and Domain Knowledge without Extra Training." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.04922)] 
+  [2024.07]
+
+- **SA4D:** Shengxiang Ji, Guanjun Wu, Jiemin Fang, Jiazhong Cen, Taoran Yi, Wenyu Liu, Qi Tian, Xinggang Wang.<br />
   "Segment Any 4D Gaussians." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.04504)] 
   [[code](https://jsxzs.github.io/sa4d/)]
   [2024.07]
 
-:boom:Weiyi Xie, Nathalie Willems, Shubham Patil, Yang Li, Mayank Kumar.<br />
+- Weiyi Xie, Nathalie Willems, Shubham Patil, Yang Li, Mayank Kumar.<br />
   "SAM Fewshot Finetuning for Anatomical Segmentation in Medical Images." WACV (2024).
   [[paper](https://arxiv.org/abs/2407.04651)] 
   [2024.07]
 
-:boom:**JFS:** Seonghyeon Moon, Haein Kong, Muhammad Haris Khan.<br />
+- **JFS:** Seonghyeon Moon, Haein Kong, Muhammad Haris Khan.<br />
   "Success or Failure? Analyzing Segmentation Refinement with Few-Shot Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.04519)] 
   [2024.07]
 
-:boom:**CS3:** Yi Shi, Xu-Peng Tian, Yun-Kai Wang, Tie-Yi Zhang, Bin Yao, Hui Wang, Yong Shao, Cen-Cen Wang, Rong Zeng, De-Chuan Zhan.<br />
+- **CS3:** Yi Shi, Xu-Peng Tian, Yun-Kai Wang, Tie-Yi Zhang, Bin Yao, Hui Wang, Yong Shao, Cen-Cen Wang, Rong Zeng, De-Chuan Zhan.<br />
   "CS3: Cascade SAM for Sperm Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.03772)] 
   [2024.07]
