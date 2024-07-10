@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.09: Latest update of this paper list.
+- 2024.07.10: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,20 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**ProtoSAM:** Lev Ayzenberg, Raja Giryes, Hayit Greenspan.<br />
+  "ProtoSAM - One Shot Medical Image Segmentation With Foundational Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.07042)] 
+  [2024.07]
+
+:boom:**CycleSAM:** Aditya Murali, Pietro Mascagni, Didier Mutter, Nicolas Padoy.<br />
+  "CycleSAM: One-Shot Surgical Scene Segmentation using Cycle-Consistent Feature Matching to Prompt SAM." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.06795)] 
+  [2024.07]
+
+:boom:**EWMA:** Ahmed Maged, Herman Shen.<br />
+  "Unsupervised Fault Detection using SAM with a Moving Window Approach." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.06303)] 
+  [2024.07]
 
 :boom:**DiffPNG:** Danni Yang, Ruohan Dong, Jiayi Ji, Yiwei Ma, Haowei Wang, Xiaoshuai Sun, Rongrong Ji.<br />
   "Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model." ECCV (2024).
