@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.10: Latest update of this paper list.
+- 2024.07.11: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**IRSAM:** Mingjin Zhang, Yuchun Wang, Jie Guo, Yunsong Li, Xinbo Gao, Jing Zhang.<br />
+  "IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.07520)] 
+  [[code](http://github.com/IPIC-Lab/IRSAM)]
+  [2024.07]
+
 :boom:**ProtoSAM:** Lev Ayzenberg, Raja Giryes, Hayit Greenspan.<br />
   "ProtoSAM - One Shot Medical Image Segmentation With Foundational Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.07042)] 
