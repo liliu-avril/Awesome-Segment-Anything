@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.11: Latest update of this paper list.
+- 2024.07.12: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:** RveRNet:** Seonwhee Jin.<br />
+  "Knowledge distillation to effectively attain both region-of-interest and global semantics from an image where multiple objects appear." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.08257)] 
+  [[code](https://github.com/Seonwhee-Genome/RveRNet)]
+  [2024.07]
+
+:boom:**CACP:** Qiushi Guo.<br />
+  "Enrich the content of the image Using Context-Aware Copy Paste." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.08151)] 
+  [2024.07]
+
+:boom:**PRISM-placenta:** Hao Li, Baris Oguz, Gabriel Arenas, Xing Yao, Jiacheng Wang, Alison Pouch, Brett Byram, Nadav Schwartz, Ipek Oguz.<br />
+  "Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.08020)] 
+  [[code](https://github.com/MedICL-VU/PRISM-placenta)]
+  [2024.07]
+
 :boom:**IRSAM:** Mingjin Zhang, Yuchun Wang, Jie Guo, Yunsong Li, Xinbo Gao, Jing Zhang.<br />
   "IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.07520)] 
