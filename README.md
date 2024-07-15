@@ -148,6 +148,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**RAT:** Zhiwen Yang, Haowei Chen, Ziniu Qian, Yang Zhou, Hui Zhang, Dan Zhao, Bingzheng Wei, Yan Xu.<br />
+  "Region Attention Transformer for Medical Image Restoration." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2407.09268)] 
+  [[code](https://github.com/Yaziwel/Region-Attention-Transformer-for-Medical-Image-Restoration.git)]
+  [2024.07]
+
 :boom:**RveRNet:** Seonwhee Jin.<br />
   "Knowledge distillation to effectively attain both region-of-interest and global semantics from an image where multiple objects appear." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.08257)] 
