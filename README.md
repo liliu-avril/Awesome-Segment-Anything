@@ -5810,9 +5810,16 @@ Spatial Information Research (2024).
   [[paper]( https://arxiv.org/abs/2304.06790)] 
   [2023.04]
 
+- Wei Ji, Jingjing Li, Qi Bi, Tingwei Liu, Wenbo Li, Li Cheng.<br />
+  "Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications." Machine Intelligence Research (2024).
+  [[paper](https://link.springer.com/article/10.1007/s11633-023-1385-0)]
+  [[code](https://github.com/LiuTingWed/SAM-Not-Perfect)]
+  [2024.04]
+
 - Wei Ji, Jingjing Li, Qi Bi, Wenbo Li, Li Cheng.<br />
-  "Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications." ArXiv (2023).
-  [[paper]( https://arxiv.org/abs/2304.05750)] 
+  "Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications." CVPRW Oral (2023).
+  [[paper]( https://arxiv.org/abs/2304.05750)]
+  [[code](https://github.com/LiuTingWed/SAM-Not-Perfect)]
   [2023.04]
 
 - **CLIP Surgery:** Yi Li, Hualiang Wang, Yiqun Duan, Xiaomeng Li.<br />
