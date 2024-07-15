@@ -148,6 +148,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Lite-SAM:** Jianhai Fu, Yuanjie Yu, Ningchuan Li, Yi Zhang, Qichao Chen, Jianping Xiong, Jun Yin, Zhiyu Xiang.<br />
+  "Lite-SAM Is Actually What You Need for Segment Everything." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.08965)] 
+  [2024.07]
+
+:boom:**WSESeg:** Robin Schön, Daniel Kienzle, Rainer Lienhart.<br />
+  "WSESeg: Introducing a Dataset for the Segmentation of Winter Sports Equipment with a Baseline for Interactive Segmentation." CBMI (2024).
+  [[paper](https://arxiv.org/abs/2407.09288)] 
+  [2024.07]
+
 :boom:**RAT:** Zhiwen Yang, Haowei Chen, Ziniu Qian, Yang Zhou, Hui Zhang, Dan Zhao, Bingzheng Wei, Yan Xu.<br />
   "Region Attention Transformer for Medical Image Restoration." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2407.09268)] 
