@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.12: Latest update of this paper list.
+- 2024.07.15: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,7 +148,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:** RveRNet:** Seonwhee Jin.<br />
+:boom:**RveRNet:** Seonwhee Jin.<br />
   "Knowledge distillation to effectively attain both region-of-interest and global semantics from an image where multiple objects appear." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.08257)] 
   [[code](https://github.com/Seonwhee-Genome/RveRNet)]
