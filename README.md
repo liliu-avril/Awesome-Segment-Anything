@@ -164,82 +164,82 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/Yaziwel/Region-Attention-Transformer-for-Medical-Image-Restoration.git)]
   [2024.07]
 
-:boom:**RveRNet:** Seonwhee Jin.<br />
+- **RveRNet:** Seonwhee Jin.<br />
   "Knowledge distillation to effectively attain both region-of-interest and global semantics from an image where multiple objects appear." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.08257)] 
   [[code](https://github.com/Seonwhee-Genome/RveRNet)]
   [2024.07]
 
-:boom:**CACP:** Qiushi Guo.<br />
+- **CACP:** Qiushi Guo.<br />
   "Enrich the content of the image Using Context-Aware Copy Paste." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.08151)] 
   [2024.07]
 
-:boom:**PRISM-placenta:** Hao Li, Baris Oguz, Gabriel Arenas, Xing Yao, Jiacheng Wang, Alison Pouch, Brett Byram, Nadav Schwartz, Ipek Oguz.<br />
+- **PRISM-placenta:** Hao Li, Baris Oguz, Gabriel Arenas, Xing Yao, Jiacheng Wang, Alison Pouch, Brett Byram, Nadav Schwartz, Ipek Oguz.<br />
   "Interactive Segmentation Model for Placenta Segmentation from 3D Ultrasound images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.08020)] 
   [[code](https://github.com/MedICL-VU/PRISM-placenta)]
   [2024.07]
 
-:boom:**IRSAM:** Mingjin Zhang, Yuchun Wang, Jie Guo, Yunsong Li, Xinbo Gao, Jing Zhang.<br />
+- **IRSAM:** Mingjin Zhang, Yuchun Wang, Jie Guo, Yunsong Li, Xinbo Gao, Jing Zhang.<br />
   "IRSAM: Advancing Segment Anything Model for Infrared Small Target Detection." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.07520)] 
   [[code](http://github.com/IPIC-Lab/IRSAM)]
   [2024.07]
 
-:boom:**ProtoSAM:** Lev Ayzenberg, Raja Giryes, Hayit Greenspan.<br />
+- **ProtoSAM:** Lev Ayzenberg, Raja Giryes, Hayit Greenspan.<br />
   "ProtoSAM - One Shot Medical Image Segmentation With Foundational Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.07042)] 
   [2024.07]
 
-:boom:**CycleSAM:** Aditya Murali, Pietro Mascagni, Didier Mutter, Nicolas Padoy.<br />
+- **CycleSAM:** Aditya Murali, Pietro Mascagni, Didier Mutter, Nicolas Padoy.<br />
   "CycleSAM: One-Shot Surgical Scene Segmentation using Cycle-Consistent Feature Matching to Prompt SAM." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.06795)] 
   [2024.07]
 
-:boom:**EWMA:** Ahmed Maged, Herman Shen.<br />
+- **EWMA:** Ahmed Maged, Herman Shen.<br />
   "Unsupervised Fault Detection using SAM with a Moving Window Approach." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.06303)] 
   [2024.07]
 
-:boom:**DiffPNG:** Danni Yang, Ruohan Dong, Jiayi Ji, Yiwei Ma, Haowei Wang, Xiaoshuai Sun, Rongrong Ji.<br />
+- **DiffPNG:** Danni Yang, Ruohan Dong, Jiayi Ji, Yiwei Ma, Haowei Wang, Xiaoshuai Sun, Rongrong Ji.<br />
   "Exploring Phrase-Level Grounding with Text-to-Image Diffusion Model." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.05352)] 
   [[code](https://github.com/nini0919/DiffPNG)]
   [2024.07]
 
-:boom:**AO-Planner:** Jiaqi Chen, Bingqian Lin, Xinmin Liu, Xiaodan Liang, Kwan-Yee K. Wong.<br />
+- **AO-Planner:** Jiaqi Chen, Bingqian Lin, Xinmin Liu, Xiaodan Liang, Kwan-Yee K. Wong.<br />
   "Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.05890)] 
   [2024.07]
 
-:boom:**MBA-Net:** Yifan Gao, Wei Xia, Wenkui Wang, Xin Gao.<br />
+- **MBA-Net:** Yifan Gao, Wei Xia, Wenkui Wang, Xin Gao.<br />
   "MBA-Net: SAM-driven Bidirectional Aggregation Network for Ovarian Tumor Segmentation." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2407.05984)] 
   [2024.07]
 
-:boom:**SAM-TAPIR:** Athena Psalta, Vasileios Tsironis, Andreas El Saer, Konstantinos Karantzalos.<br />
+- **SAM-TAPIR:** Athena Psalta, Vasileios Tsironis, Andreas El Saer, Konstantinos Karantzalos.<br />
   "Addressing single object tracking in satellite imagery through prompt-engineered solutions." IGARSS (2024).
   [[paper](https://arxiv.org/abs/2407.05518)] 
   [2024.07]
 
-:boom:**CPC-SAM:** Juzheng Miao, Cheng Chen, Keli Zhang, Jie Chuai, Quanzheng Li, Pheng-Ann Heng.<br />
+- **CPC-SAM:** Juzheng Miao, Cheng Chen, Keli Zhang, Jie Chuai, Quanzheng Li, Pheng-Ann Heng.<br />
   "Cross Prompting Consistency with Segment Anything Model for Semi-supervised Medical Image Segmentation." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2407.05416)] 
   [[code](https://github.com/JuzhengMiao/CPC-SAM)]
   [2024.07]
 
-:boom:**SAM-Med3D-MoE:** Guoan Wang, Jin Ye, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Junjun He, Bohan Zhuang.<br />
+- **SAM-Med3D-MoE:** Guoan Wang, Jin Ye, Junlong Cheng, Tianbin Li, Zhaolin Chen, Jianfei Cai, Junjun He, Bohan Zhuang.<br />
   "SAM-Med3D-MoE: Towards a Non-Forgetting Segment Anything Model via Mixture of Experts for 3D Medical Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.04938)] 
   [2024.07]
 
-:boom:Longfei Huang, Feng Yu, Zhihao Guan, Zhonghua Wan, Yang Yang.<br />
+- Longfei Huang, Feng Yu, Zhihao Guan, Zhonghua Wan, Yang Yang.<br />
   "The Solution for the 5th GCAIAC Zero-shot Referring Expression Comprehension Challenge." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.04998)] 
   [2024.07]
 
-:boom:Xudong Ma, Yuqi Zhang, Chenchong Wang, Wei Xu.<br />
+- Xudong Ma, Yuqi Zhang, Chenchong Wang, Wei Xu.<br />
   "Revolutionizing Alloy Microstructure Segmentation through SAM and Domain Knowledge without Extra Training." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.04922)] 
   [2024.07]
