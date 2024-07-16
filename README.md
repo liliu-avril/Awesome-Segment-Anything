@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.15: Latest update of this paper list.
+- 2024.07.16: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**WPS-SAM:** Xinjian Wu, Ruisong Zhang, Jie Qin, Shijie Ma, Cheng-Lin Liu.<br />
+  "WPS-SAM: Towards Weakly-Supervised Part Segmentation with Foundation Models." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.10131)] 
+  [[code](https://github.com/xjwu1024/WPS-SAM)]
+  [2024.07]
+
 :boom:**Lite-SAM:** Jianhai Fu, Yuanjie Yu, Ningchuan Li, Yi Zhang, Qichao Chen, Jianping Xiong, Jun Yin, Zhiyu Xiang.<br />
   "Lite-SAM Is Actually What You Need for Segment Everything." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.08965)] 
@@ -261,7 +267,7 @@ If you find our work useful in your research, please consider citing:
   [2024.07]
 
 - **CS3:** Yi Shi, Xu-Peng Tian, Yun-Kai Wang, Tie-Yi Zhang, Bin Yao, Hui Wang, Yong Shao, Cen-Cen Wang, Rong Zeng, De-Chuan Zhan.<br />
-  "CS3: Cascade SAM for Sperm Segmentation." ArXiv (2024).
+  "CS3: Cascade SAM for Sperm Segmentation." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2407.03772)] 
   [2024.07]
 
