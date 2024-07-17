@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.16: Latest update of this paper list.
+- 2024.07.17: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,22 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Crowd-SAM:** Zhi Cai, Yingjie Gao, Yaoyan Zheng, Nan Zhou, Di Huang.<br />
+  "Crowd-SAM: SAM as a Smart Annotator for Object Detection in Crowded Scenes." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.11464)] 
+  [[code](https://github.com/FelixCaae/CrowdSAM)]
+  [2024.07]
+
+:boom:**SLF:** Jianhao Li, Tianyu Sun, Zhongdao Wang, Enze Xie, Bailan Feng, Hongbo Zhang, Ze Yuan, Ke Xu, Jiaheng Liu, Ping Luo.<br />
+  "Segment, Lift and Fit: Automatic 3D Shape Labeling from 2D Prompts." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.11382)] 
+  [2024.07]
+
+:boom:Yunya Gao.<br />
+  "Leveraging Segment Anything Model in Identifying Buildings within Refugee Camps (SAM4Refugee) from Satellite Imagery for Humanitarian Operations." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.11381)] 
+  [2024.07]
+
 :boom:**WPS-SAM:** Xinjian Wu, Ruisong Zhang, Jie Qin, Shijie Ma, Cheng-Lin Liu.<br />
   "WPS-SAM: Towards Weakly-Supervised Part Segmentation with Foundation Models." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.10131)] 
