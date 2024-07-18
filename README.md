@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.17: Latest update of this paper list.
+- 2024.07.18: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**DSAM:** Zhenni Yu, Xiaoqin Zhang, Li Zhao, Yi Bin, Guobao Xiao.<br />
+  "Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection." ACM MM (2024).
+  [[paper](https://arxiv.org/abs/2407.12339)] 
+  [[code](https://github.com/guobaoxiao/DSAM)]
+  [2024.07]
+  
+:boom:**OMG-Net:** Zhuoyan Shen, Mikael Simard, Douglas Brand, Vanghelita Andrei, Ali Al-Khader, Fatine Oumlil, Katherine Trevers, Thomas Butters, Simon Haefliger, Eleanna Kara, Fernanda Amary, Roberto Tirabosco, Paul Cool, Gary Royle, Maria A. Hawkins, Adrienne M. Flanagan, Charles-Antoine Collins Fekete.<br />
+  "OMG-Net: A Deep Learning Framework Deploying Segment Anything to Detect Pan-Cancer Mitotic Figures from Haematoxylin and Eosin-Stained Slides." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.12773)] 
+  [2024.07]
+
+:boom:**FastSAM-3DSlicer:** Yiqing Shen, Xinyuan Shao, Blanca Inigo Romillo, David Dreizin, Mathias Unberath.<br />
+  "FastSAM-3DSlicer: A 3D-Slicer Extension for 3D Volumetric Segment Anything Model with Uncertainty Quantification." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.12658)] 
+  [[code](https://github.com/arcadelab/FastSAM3D_slicer)]
+  [2024.07]
+
+
 :boom:**Crowd-SAM:** Zhi Cai, Yingjie Gao, Yaoyan Zheng, Nan Zhou, Di Huang.<br />
   "Crowd-SAM: SAM as a Smart Annotator for Object Detection in Crowded Scenes." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.11464)] 
