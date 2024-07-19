@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.18: Latest update of this paper list.
+- 2024.07.19: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,28 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**MeshSegmenter:** Ziming Zhong, Yanxu Xu, Jing Li, Jiale Xu, Zhengxin Li, Chaohui Yu, Shenghua Gao.<br />
+  "MeshSegmenter: Zero-Shot Mesh Semantic Segmentation via Texture Synthesis." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2407.13675)] 
+  [[code](https://github.com/zimingzhong/MeshSegmenter)]
+  [2024.07]
+
+:boom:**SOSS:** Mario Francisco Munoz, Hoang Vu Huy, Thanh-Dung Le.<br />
+  "Hybrid Deep Learning-Based for Enhanced Occlusion Segmentation in PICU Patient Monitoring." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.13341)] 
+  [2024.07]
+
+:boom:Xingyue Zhao, Peiqi Li, Xiangde Luo, Meng Yang, Shi Chang, Zhongyu Li.<br />
+  "SAM-Driven Weakly Supervised Nodule Segmentation with Uncertainty-Aware Cross Teaching." ISBI (2024).
+  [[paper](https://arxiv.org/abs/2407.13553)] 
+  [2024.07]
+
+:boom:Fryderyk Kögl, Anna Reithmeir, Vasiliki Sideri-Lampretsa, Ines Machado, Rickmer Braren, Daniel Rückert, Julia A. Schnabel, Veronika A. Zimmer.<br />
+  "General Vision Encoder Features as Guidance in Medical Image Registration." WBIR MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2407.13311)] 
+  [[code](https://github.com/compai-lab/2024-miccai-koegl)]
+  [2024.07]
+
 :boom:**DSAM:** Zhenni Yu, Xiaoqin Zhang, Li Zhao, Yi Bin, Guobao Xiao.<br />
   "Exploring Deeper! Segment Anything Model with Depth Perception for Camouflaged Object Detection." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2407.12339)] 
