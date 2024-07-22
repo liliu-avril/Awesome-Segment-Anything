@@ -148,6 +148,21 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**ESP-MedSAM:** Qing Xu, Jiaxuan Li, Xiangjian He, Ziyu Liu, Zhen Chen, Wenting Duan, Chenxin Li, Maggie M. He, Fiseha B. Tesema, Wooi P. Cheah, Yi Wang, Rong Qu, Jonathan M. Garibaldi.<br />
+  "ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation." IEEE TMI (2024).
+  [[paper](https://arxiv.org/abs/2407.14153)] 
+  [2024.07]
+
+:boom:**Semantic-CC:** Yongshuo Zhu, Lu Li, Keyan Chen, Chenyang Liu, Fugen Zhou, Zhenwei Shi.<br />
+  "Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.14032)] 
+  [2024.07]
+
+:boom:**Seismic Fault SAM:** Ran Chen, Zeren Zhang, Jinwen Ma.<br />
+  "Seismic Fault SAM: Adapting SAM with Lightweight Modules and 2.5D Strategy for Fault Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.14121)] 
+  [2024.07]
+
 :boom:**VISA:** Cilin Yan, Haochen Wang, Shilin Yan, Xiaolong Jiang, Yao Hu, Guoliang Kang, Weidi Xie, Efstratios Gavves.<br />
   "VISA: Reasoning Video Object Segmentation via Large Language Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.11325)] 
