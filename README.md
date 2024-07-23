@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.22: Latest update of this paper list.
+- 2024.07.23: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM2CLIP2SAM:** Dimitrios Kollias, Anastasios Arsenos, James Wingate, Stefanos Kollias.<br />
+  "SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.15728)] 
+  [2024.07]
+
+:boom:**MedSAGa:** Navyansh Mahla, Annie D'souza, Shubh Gupta, Bhavik Kanekar, Kshitij Sharad Jadhav.<br />
+  "MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.15042)] 
+  [2024.07]
+
 :boom:**ESP-MedSAM:** Qing Xu, Jiaxuan Li, Xiangjian He, Ziyu Liu, Zhen Chen, Wenting Duan, Chenxin Li, Maggie M. He, Fiseha B. Tesema, Wooi P. Cheah, Yi Wang, Rong Qu, Jonathan M. Garibaldi.<br />
   "ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation." IEEE TMI (2024).
   [[paper](https://arxiv.org/abs/2407.14153)] 
