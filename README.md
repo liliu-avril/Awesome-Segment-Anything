@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.23: Latest update of this paper list.
+- 2024.07.24: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM-CP:** Pengfei Chen, Lingxi Xie, Xinyue Huo, Xuehui Yu, Xiaopeng Zhang, Yingfei Sun, Zhenjun Han, Qi Tian.<br />
+  "SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.16682)] 
+  [[code](https://github.com/ucas-vg/SAM-CP)]
+  [2024.07]
+
+:boom:Jiyeop Kim, Jongwoo Lim.<br />
+  "Integrating Meshes and 3D Gaussians for Indoor Scene Reconstruction with SAM Mask Guidance." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.16173)] 
+  [2024.07]
+
 :boom:**SAM2CLIP2SAM:** Dimitrios Kollias, Anastasios Arsenos, James Wingate, Stefanos Kollias.<br />
   "SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.15728)] 
