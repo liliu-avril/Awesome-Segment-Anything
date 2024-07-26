@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.24: Latest update of this paper list.
+- 2024.07.26: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,6 +148,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SSTD:** Zijian Zhu, Ali Zia, Xuesong Li, Bingbing Dan, Yuebo Ma, Enhai Liu, Rujin Zhao.<br />
+  "SSTD: Stripe-Like Space Target Detection using Single-Point Supervision." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.18097)] 
+  [2024.07]
+
+:boom:**KneeSegmentWithSAM:** Yaxi Chen, Aleksandra Ivanova, Shaheer U. Saeed, Rikin Hargunani, Jie Huang, Chaozong Liu, Yipeng Hu.<br />
+  "Segmentation by registration-enabled SAM prompt engineering using five reference images." WBIR (2024).
+  [[paper](https://arxiv.org/abs/2407.17933)] 
+  [[code](https://github.com/chrissyinreallife/KneeSegmentWithSAM.git)]
+  [2024.07]
+
+:boom:**SAM-MIL:** Heng Fang, Sheng Huang, Wenhao Tang, Luwen Huangfu, Bo Liu.<br />
+  "SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification." ACM  MM (2024).
+  [[paper](https://arxiv.org/abs/2407.17689)] 
+  [[code](https://github.com/FangHeng/SAM-MIL)]
+  [2024.07]
+
 :boom:**SAM-CP:** Pengfei Chen, Lingxi Xie, Xinyue Huo, Xuehui Yu, Xiaopeng Zhang, Yingfei Sun, Zhenjun Han, Qi Tian.<br />
   "SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.16682)] 
