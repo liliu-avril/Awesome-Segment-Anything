@@ -17,7 +17,7 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.26: Latest update of this paper list.
+- 2024.07.27: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -148,148 +148,179 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SSTD:** Zijian Zhu, Ali Zia, Xuesong Li, Bingbing Dan, Yuebo Ma, Enhai Liu, Rujin Zhao.<br />
+:boom:**AdaCLIP:** Yunkang Cao, Jiangning Zhang, Luca Frittoli, Yuqi Cheng, Weiming Shen, Giacomo Boracchi.<br />
+  "AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection." ECCV  (2024).
+  [[paper](https://arxiv.org/abs/2407.15795)] 
+  [[code](https://github.com/caoyunkang/AdaCLIP)]
+  [2024.07]
+
+:boom:**VDST-Net:** Guiqiu Liao, Matjaz Jogan, Sai Koushik, Eric Eaton, Daniel A. Hashimoto.<br />
+  "Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.15794)] 
+  [2024.07]
+
+:boom:**PixLabelCV:** Dominik Schraml, et al.<br />
+  "PixLabelCV - Labeling images for semantic segmentation fast, pixel-precise and offline." WSCG (2024).
+  [[paper](http://wscg.zcu.cz/WSCG2024/CSRN-2024/A41-2024.pdf)] 
+  [2024.07]
+
+:boom:**ESOD:** Kai Liu, Zhihang Fu, Sheng Jin, Ze Chen, Fan Zhou, Rongxin Jiang, Yaowu Chen, Jieping Ye.<br />
+  "ESOD: Efficient Small Object Detection on High-Resolution Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.16424)] 
+  [2024.07]
+
+:boom:Ren Z, Zhang Y, Wang S.<br />
+  "Large Foundation Model for Cancer Segmentation." Technology in Cancer Research & Treatment (2024).
+  [[paper](https://journals.sagepub.com/doi/full/10.1177/15330338241266205)] 
+  [2024.07]
+
+:boom:Guo Y, Xu Y, Cui H, Dang M, Li S.<br />
+  "Segment anything model-based crack segmentation using low-rank adaption fine-tuning." Structural Health Monitoring (2024).
+  [[paper](https://journals.sagepub.com/doi/full/10.1177/14759217241261089?casa_token=WiDbsTJZpVEAAAAA%3ACtTy7rKrvANH81yjADNAqqx7PAgDEbpsInJ59M10z88P4W38Boy8Haz2M4YfAliUrYMF5Igb2Hsma5G8)] 
+  [2024.07]
+
+- **SSTD:** Zijian Zhu, Ali Zia, Xuesong Li, Bingbing Dan, Yuebo Ma, Enhai Liu, Rujin Zhao.<br />
   "SSTD: Stripe-Like Space Target Detection using Single-Point Supervision." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.18097)] 
   [2024.07]
 
-:boom:**KneeSegmentWithSAM:** Yaxi Chen, Aleksandra Ivanova, Shaheer U. Saeed, Rikin Hargunani, Jie Huang, Chaozong Liu, Yipeng Hu.<br />
+- **KneeSegmentWithSAM:** Yaxi Chen, Aleksandra Ivanova, Shaheer U. Saeed, Rikin Hargunani, Jie Huang, Chaozong Liu, Yipeng Hu.<br />
   "Segmentation by registration-enabled SAM prompt engineering using five reference images." WBIR (2024).
   [[paper](https://arxiv.org/abs/2407.17933)] 
   [[code](https://github.com/chrissyinreallife/KneeSegmentWithSAM.git)]
   [2024.07]
 
-:boom:**SAM-MIL:** Heng Fang, Sheng Huang, Wenhao Tang, Luwen Huangfu, Bo Liu.<br />
+- **SAM-MIL:** Heng Fang, Sheng Huang, Wenhao Tang, Luwen Huangfu, Bo Liu.<br />
   "SAM-MIL: A Spatial Contextual Aware Multiple Instance Learning Approach for Whole Slide Image Classification." ACM  MM (2024).
   [[paper](https://arxiv.org/abs/2407.17689)] 
   [[code](https://github.com/FangHeng/SAM-MIL)]
   [2024.07]
 
-:boom:**SAM-CP:** Pengfei Chen, Lingxi Xie, Xinyue Huo, Xuehui Yu, Xiaopeng Zhang, Yingfei Sun, Zhenjun Han, Qi Tian.<br />
+- **SAM-CP:** Pengfei Chen, Lingxi Xie, Xinyue Huo, Xuehui Yu, Xiaopeng Zhang, Yingfei Sun, Zhenjun Han, Qi Tian.<br />
   "SAM-CP: Marrying SAM with Composable Prompts for Versatile Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.16682)] 
   [[code](https://github.com/ucas-vg/SAM-CP)]
   [2024.07]
 
-:boom:Jiyeop Kim, Jongwoo Lim.<br />
+- Jiyeop Kim, Jongwoo Lim.<br />
   "Integrating Meshes and 3D Gaussians for Indoor Scene Reconstruction with SAM Mask Guidance." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.16173)] 
   [2024.07]
 
-:boom:**SAM2CLIP2SAM:** Dimitrios Kollias, Anastasios Arsenos, James Wingate, Stefanos Kollias.<br />
+- **SAM2CLIP2SAM:** Dimitrios Kollias, Anastasios Arsenos, James Wingate, Stefanos Kollias.<br />
   "SAM2CLIP2SAM: Vision Language Model for Segmentation of 3D CT Scans for Covid-19 Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.15728)] 
   [2024.07]
 
-:boom:**MedSAGa:** Navyansh Mahla, Annie D'souza, Shubh Gupta, Bhavik Kanekar, Kshitij Sharad Jadhav.<br />
+- **MedSAGa:** Navyansh Mahla, Annie D'souza, Shubh Gupta, Bhavik Kanekar, Kshitij Sharad Jadhav.<br />
   "MedSAGa: Few-shot Memory Efficient Medical Image Segmentation using Gradient Low-Rank Projection in SAM." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.15042)] 
   [2024.07]
 
-:boom:**ESP-MedSAM:** Qing Xu, Jiaxuan Li, Xiangjian He, Ziyu Liu, Zhen Chen, Wenting Duan, Chenxin Li, Maggie M. He, Fiseha B. Tesema, Wooi P. Cheah, Yi Wang, Rong Qu, Jonathan M. Garibaldi.<br />
+- **ESP-MedSAM:** Qing Xu, Jiaxuan Li, Xiangjian He, Ziyu Liu, Zhen Chen, Wenting Duan, Chenxin Li, Maggie M. He, Fiseha B. Tesema, Wooi P. Cheah, Yi Wang, Rong Qu, Jonathan M. Garibaldi.<br />
   "ESP-MedSAM: Efficient Self-Prompting SAM for Universal Domain-Generalized Medical Image Segmentation." IEEE TMI (2024).
   [[paper](https://arxiv.org/abs/2407.14153)] 
   [2024.07]
 
-:boom:**Semantic-CC:** Yongshuo Zhu, Lu Li, Keyan Chen, Chenyang Liu, Fugen Zhou, Zhenwei Shi.<br />
+- **Semantic-CC:** Yongshuo Zhu, Lu Li, Keyan Chen, Chenyang Liu, Fugen Zhou, Zhenwei Shi.<br />
   "Semantic-CC: Boosting Remote Sensing Image Change Captioning via Foundational Knowledge and Semantic Guidance." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.14032)] 
   [2024.07]
 
-:boom:**Seismic Fault SAM:** Ran Chen, Zeren Zhang, Jinwen Ma.<br />
+- **Seismic Fault SAM:** Ran Chen, Zeren Zhang, Jinwen Ma.<br />
   "Seismic Fault SAM: Adapting SAM with Lightweight Modules and 2.5D Strategy for Fault Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.14121)] 
   [2024.07]
 
-:boom:**VISA:** Cilin Yan, Haochen Wang, Shilin Yan, Xiaolong Jiang, Yao Hu, Guoliang Kang, Weidi Xie, Efstratios Gavves.<br />
+- **VISA:** Cilin Yan, Haochen Wang, Shilin Yan, Xiaolong Jiang, Yao Hu, Guoliang Kang, Weidi Xie, Efstratios Gavves.<br />
   "VISA: Reasoning Video Object Segmentation via Large Language Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.11325)] 
   [[code](https://github.com/cilinyan/VISA)]
   [2024.07]
 
-:boom:**G-SAM:** Xiaoxiao Liu, Yan Zhao, Shigang Wang & Jian Wei .<br />
+- **G-SAM:** Xiaoxiao Liu, Yan Zhao, Shigang Wang & Jian Wei .<br />
   "G-SAM: GMM-based segment anything model for medical image classification and segmentation." Cluster Comput (2024).
   [[paper](https://link.springer.com/article/10.1007/s10586-024-04679-x)] 
   [2024.07]
 
-:boom:**UniFSS:** Shijie Chang, Youwei Pang, Xiaoqi Zhao, Lihe Zhang, Huchuan Lu.<br />
+- **UniFSS:** Shijie Chang, Youwei Pang, Xiaoqi Zhao, Lihe Zhang, Huchuan Lu.<br />
   "Beyond Mask: Rethinking Guidance Types in Few-shot Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.11503)] 
   [2024.07]
 
-:boom:**TeethDreamer:** Chenfan Xu, Zhentao Liu, Yuan Liu, Yulong Dou, Jiamin Wu, Jiepeng Wang, Minjiao Wang, Dinggang Shen, Zhiming Cui.<br />
+- **TeethDreamer:** Chenfan Xu, Zhentao Liu, Yuan Liu, Yulong Dou, Jiamin Wu, Jiepeng Wang, Minjiao Wang, Dinggang Shen, Zhiming Cui.<br />
   "TeethDreamer: 3D Teeth Reconstruction from Five Intra-oral Photographs." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2407.11419)] 
   [[code](https://github.com/ShanghaiTech-IMPACT/TeethDreamer)]
   [2024.07]
 
-:boom:**Corrosion SAM:** Chengzhang Chai, Yan Gao, Haijiang Li, Xiaofeng Zhu.<br />
+- **Corrosion SAM:** Chengzhang Chai, Yan Gao, Haijiang Li, Xiaofeng Zhu.<br />
   "Corrosion SAM: Adapting Segment Anything Model with Parameter-Efficient Fine-Tuning for Structural Corrosion Inspection." ArXiv (2024).
   [[paper](https://orca.cardiff.ac.uk/id/eprint/170405/1/Chai%2C%20Gao%2C%20Li%2C%20Zhu%20-%202024%20-%20Corrosion%20SAM%20Adapting%20Segment%20Anything%20Model%20with%20Parameter-Efficient%20Fine-Tuning%20for%20Structural%20Corrosion%20Inspection.pdf)] 
   [2024.07]
 
-:boom:**PartImageNet++:** Xiao Li, Yining Liu, Na Dong, Sitian Qin, Xiaolin Hu.<br />
+- **PartImageNet++:** Xiao Li, Yining Liu, Na Dong, Sitian Qin, Xiaolin Hu.<br />
   "PartImageNet++ Dataset: Scaling up Part-based Models for Robust Recognition." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.10918)] 
   [[code](https://github.com/LixiaoTHU/PartImageNetPP)]
   [2024.07]
 
-:boom:**TeSO:** Yaoting Wang, Peiwen Sun, Yuanchao Li, Honggang Zhang, Di Hu.<br />
+- **TeSO:** Yaoting Wang, Peiwen Sun, Yuanchao Li, Honggang Zhang, Di Hu.<br />
   "Can Textual Semantics Mitigate Sounding Object Segmentation Preference?." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.10947)] 
   [[code](https://github.com/GeWu-Lab/Sounding-Object-Segmentation-Preference)]
   [2024.07]
 
-:boom:**FoodMem:** Ahmad AlMughrabi, Adrián Galán, Ricardo Marques, Petia Radeva.<br />
+- **FoodMem:** Ahmad AlMughrabi, Adrián Galán, Ricardo Marques, Petia Radeva.<br />
   "FoodMem: Near Real-time and Precise Food Video Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.12121)] 
   [2024.07]
 
-:boom:**SeFi-CD:** Ling Zhao, Zhenyang Huang, Dongsheng Kuang, Chengli Peng, Jun Gan, Haifeng Li.<br />
+- **SeFi-CD:** Ling Zhao, Zhenyang Huang, Dongsheng Kuang, Chengli Peng, Jun Gan, Haifeng Li.<br />
   "SeFi-CD: A Semantic First Change Detection Paradigm That Can Detect Any Change You Want." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.09874)] 
   [2024.07]
 
-:boom: Jaime Duque-Domingo, et al.<br />
+- Jaime Duque-Domingo, et al.<br />
   "Segmentaci ́on sem ́antica bajo paradigmaone-shot learning utilizando SAM y CP-CVV." Visión por Computador (2024).
   [[paper](https://revistas.udc.gal/index.php/JA_CEA/article/view/10772/8237)] 
   [2024.07]
 
-:boom:**DriveSAM:** K Kwakye, Y Seong, S Yi, A Aboah.<br />
+- **DriveSAM:** K Kwakye, Y Seong, S Yi, A Aboah.<br />
   "DriveSAM: Cognitive Perspective on Driving Maneuvers Based on Drivers’ Attention Using Eye Gaze Data." IEOM International Conference on Smart Mobility and Vehicle Electrification (2024).
   [[paper](https://web.archive.org/web/20240313224050id_/https://ieomsociety.org/proceedings/2023detroit/71.pdf)] 
   [2024.07]
 
-:boom:**Swiss DINO:** Kirill Paramonov, Jia-Xing Zhong, Umberto Michieli, Jijoong Moon, Mete Ozay.<br />
+- **Swiss DINO:** Kirill Paramonov, Jia-Xing Zhong, Umberto Michieli, Jijoong Moon, Mete Ozay.<br />
   "Swiss DINO: Efficient and Versatile Vision Framework for On-device Personal Object Search." IROS (2024).
   [[paper](https://arxiv.org/abs/2407.07541)] 
   [[code](https://github.com/SamsungLabs/SwissDINO)]
   [2024.07]
 
-:boom:**ECoT:** Michał Zawalski, William Chen, Karl Pertsch, Oier Mees, Chelsea Finn, Sergey Levine.<br />
+- **ECoT:** Michał Zawalski, William Chen, Karl Pertsch, Oier Mees, Chelsea Finn, Sergey Levine.<br />
   "Robotic Control via Embodied Chain-of-Thought Reasoning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.08693)] 
   [[code](https://embodied-cot.github.io/)]
   [2024.07]
 
-:boom:**CLIPtra:** Tong Shao, Zhuotao Tian, Hang Zhao, Jingyong Su.<br />
+- **CLIPtra:** Tong Shao, Zhuotao Tian, Hang Zhao, Jingyong Su.<br />
   "Explore the Potential of CLIP for Training-Free Open Vocabulary Semantic Segmentation." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.08268)] 
   [[code](https://github.com/leaves162/CLIPtrase)]
   [2024.07]
 
-:boom:**PaveSAM:** Neema Jakisa Owor, Yaw Adu-Gyamfi, Armstrong Aboah and Mark Amo-Boateng.<br />
+- **PaveSAM:** Neema Jakisa Owor, Yaw Adu-Gyamfi, Armstrong Aboah and Mark Amo-Boateng.<br />
   "PaveSAM – segment anything for pavement distress." RMPD (2024).
   [[paper](https://www.tandfonline.com/doi/abs/10.1080/14680629.2024.2374863?casa_token=C7E7eoFYe5kAAAAA:Q-ce5Dg7H6zrpo6t1QW_j9o5EvcWtaXM3CpF3GF5AunaaAQhFMGJeb6OuI2HwQ-byxyEOM8e2M2wvdUSJw)] 
   [2024.07]
 
-:boom:**UCE:** Shaozhe Hao, Kai Han, Zhengyao Lv, Shihao Zhao, Kwan-Yee K. Wong.<br />
+- **UCE:** Shaozhe Hao, Kai Han, Zhengyao Lv, Shihao Zhao, Kwan-Yee K. Wong.<br />
   "ConceptExpress: Harnessing Diffusion Models for Single-image Unsupervised Concept Extraction." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.07077)] 
   [[code](https://github.com/haoosz/ConceptExpress)]
   [2024.07]
 
-:boom:**Pseudo-RIS:** Seonghoon Yu, Paul Hongsuck Seo, Jeany Son.<br />
+- **Pseudo-RIS:** Seonghoon Yu, Paul Hongsuck Seo, Jeany Son.<br />
   "Pseudo-RIS: Distinctive Pseudo-supervision Generation for Referring Image Segmentation." ECCV (2024).
   [[paper](https://arxiv.org/abs/2407.07412)] 
   [[code](https://github.com/Seonghoon-Yu/Pseudo-RIS)]
