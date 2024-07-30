@@ -56,6 +56,17 @@ If you find our work useful in your research, please consider citing:
   [[SAM 2]](https://ai.meta.com/blog/segment-anything-2/)
   [2023.04]
 
+:boom:**SAM 2:** Nikhila Ravi∗,†, Valentin Gabeur∗, Yuan-Ting Hu∗, Ronghang Hu∗, Chaitanya Ryali∗, Tengyu Ma∗, Haitham Khedr∗, Roman Rädle∗  Chloe Rolland, Laura Gustafson, Eric Mintun, Junting Pan, Kalyan Vasudev Alwala, Nicolas Carion, Chao-Yuan Wu, Ross Girshick, Piotr Dollár†, Christoph Feichtenhofer∗,†.<br />
+  "SAM 2: Segment Anything in Images and Videos." ArXiv (2024).
+  [[paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)] 
+  [[demo]](https://sam2.metademolab.com/)] 
+  [[code](https://github.com/facebookresearch/segment-anything-2)]
+  [[project]](https://ai.meta.com/sam2)]
+ [[dataset](https://ai.meta.com/datasets/segment-anything-video)]
+  [[blog](https://ai.meta.com/blog/segment-anything-2)] 
+  [2024.07]
+
+
 - **GPT-4V:** OpenAI.<br />
   "GPT-4V(ision) System Card." ArXiv (2023).
   [[paper](https://cdn.openai.com/papers/GPTV_System_Card.pdf)] 
@@ -162,33 +173,33 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/llabres/library-dataset)]
   [2024.07]
 
-:boom:**AdaCLIP:** Yunkang Cao, Jiangning Zhang, Luca Frittoli, Yuqi Cheng, Weiming Shen, Giacomo Boracchi.<br />
+- **AdaCLIP:** Yunkang Cao, Jiangning Zhang, Luca Frittoli, Yuqi Cheng, Weiming Shen, Giacomo Boracchi.<br />
   "AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection." ECCV  (2024).
   [[paper](https://arxiv.org/abs/2407.15795)] 
   [[code](https://github.com/caoyunkang/AdaCLIP)]
   [2024.07]
 
-:boom:**VDST-Net:** Guiqiu Liao, Matjaz Jogan, Sai Koushik, Eric Eaton, Daniel A. Hashimoto.<br />
+- **VDST-Net:** Guiqiu Liao, Matjaz Jogan, Sai Koushik, Eric Eaton, Daniel A. Hashimoto.<br />
   "Disentangling spatio-temporal knowledge for weakly supervised object detection and segmentation in surgical video." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.15794)] 
   [2024.07]
 
-:boom:**PixLabelCV:** Dominik Schraml, et al.<br />
+- **PixLabelCV:** Dominik Schraml, et al.<br />
   "PixLabelCV - Labeling images for semantic segmentation fast, pixel-precise and offline." WSCG (2024).
   [[paper](http://wscg.zcu.cz/WSCG2024/CSRN-2024/A41-2024.pdf)] 
   [2024.07]
 
-:boom:**ESOD:** Kai Liu, Zhihang Fu, Sheng Jin, Ze Chen, Fan Zhou, Rongxin Jiang, Yaowu Chen, Jieping Ye.<br />
+- **ESOD:** Kai Liu, Zhihang Fu, Sheng Jin, Ze Chen, Fan Zhou, Rongxin Jiang, Yaowu Chen, Jieping Ye.<br />
   "ESOD: Efficient Small Object Detection on High-Resolution Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.16424)] 
   [2024.07]
 
-:boom:Ren Z, Zhang Y, Wang S.<br />
+- Ren Z, Zhang Y, Wang S.<br />
   "Large Foundation Model for Cancer Segmentation." Technology in Cancer Research & Treatment (2024).
   [[paper](https://journals.sagepub.com/doi/full/10.1177/15330338241266205)] 
   [2024.07]
 
-:boom:Guo Y, Xu Y, Cui H, Dang M, Li S.<br />
+- Guo Y, Xu Y, Cui H, Dang M, Li S.<br />
   "Segment anything model-based crack segmentation using low-rank adaption fine-tuning." Structural Health Monitoring (2024).
   [[paper](https://journals.sagepub.com/doi/full/10.1177/14759217241261089?casa_token=WiDbsTJZpVEAAAAA%3ACtTy7rKrvANH81yjADNAqqx7PAgDEbpsInJ59M10z88P4W38Boy8Haz2M4YfAliUrYMF5Igb2Hsma5G8)] 
   [2024.07]
@@ -6179,6 +6190,7 @@ Spatial Information Research (2024).
 | 068  |Segment-Anything-Fast |  Accelerating Generative AI with PyTorch: Segment Anything, Fast  |  [Project page](https://pytorch.org/blog/accelerating-generative-ai/)  |  [Code](https://github.com/pytorch-labs/segment-anything-fast)  | Team PyTorch | A batched offline inference oriented version of segment-anything. |
 | 069  |YOLOv9+SAM |YOLOv9+SAM   |  [Project page](https://zhuanlan.zhihu.com/p/689061673)  |  [Code](https://zhuanlan.zhihu.com/p/689061673)  | - | Dynamic Detection and Segmentation with YOLOv9+SAM. |
 | 070  | LiteMedSAM  |LiteMedSAM   |  [Project page](https://github.com/bowang-lab/MedSAM/tree/LiteMedSAM)  |  [Code](https://github.com/bowang-lab/MedSAM/tree/LiteMedSAM)  | - | A lightweight version of MedSAM for fast training and inference. |
+
 
 
 ## Awesome Repositories for SAM
