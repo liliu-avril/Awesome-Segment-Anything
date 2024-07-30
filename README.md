@@ -17,7 +17,8 @@ ____
 
 ## 😮 Highlights
 ```
-- 2024.07.27: Latest update of this paper list.
+- 2024.07.30: The SAM 2 was released.
+- 2024.07.30: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -52,6 +53,7 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/facebookresearch/segment-anything)]
   [[Zhihu](https://www.zhihu.com/question/593914819)]
   [[Reddit](https://www.reddit.com/r/singularity/comments/12cq56n/meta_ai_has_released_both_the_model_and_the/)]
+  [[SAM 2]](https://ai.meta.com/blog/segment-anything-2/)
   [2023.04]
 
 - **GPT-4V:** OpenAI.<br />
@@ -148,6 +150,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**ASI-Seg:** Zhen Chen, Zongming Zhang, Wenwu Guo, Xingjian Luo, Long Bai, Jinlin Wu, Hongliang Ren, Hongbin Liu.<br />
+  "ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding." IROS  (2024).
+  [[paper](https://arxiv.org/abs/2407.19435)] 
+  [[code](https://github.com/Zonmgin-Zhang/ASI-Seg)]
+  [2024.07]
+
+:boom:**Library Dataset:** Artemis Llabrés, Arka Ujjal Dey, Dimosthenis Karatzas, Ernest Valveny.<br />
+  "Image-text matching for large-scale book collections." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.19812)] 
+  [[code](https://github.com/llabres/library-dataset)]
+  [2024.07]
+
 :boom:**AdaCLIP:** Yunkang Cao, Jiangning Zhang, Luca Frittoli, Yuqi Cheng, Weiming Shen, Giacomo Boracchi.<br />
   "AdaCLIP: Adapting CLIP with Hybrid Learnable Prompts for Zero-Shot Anomaly Detection." ECCV  (2024).
   [[paper](https://arxiv.org/abs/2407.15795)] 
