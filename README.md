@@ -13,9 +13,13 @@
 
 #### We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)].
 
+:boom:**SAM 2: Segment Anything in Images and Videos was released.**
+
 ____
 
 ## 😮 Highlights
+
+
 ```
 - 2024.07.30: The SAM 2 was released.
 - 2024.07.30: Latest update of this paper list.
