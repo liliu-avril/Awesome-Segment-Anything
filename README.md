@@ -47,6 +47,13 @@ If you find our work useful in your research, please consider citing:
   journal={arXiv:2305.08196},
   year={2023}
 }
+
+@article{chunhui2024samforvideos,
+  title={Segment Anything for Videos: A Systematic Survey},
+  author={Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan},
+  journal={arXiv},
+  year={2024}
+}
 ```
 
 
