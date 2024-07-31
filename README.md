@@ -13,7 +13,7 @@
 
 #### We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)].
 
-:boom:**SAM 2: Segment Anything in Images and Videos was released.**
+:boom:**[SAM 2](https://github.com/facebookresearch/segment-anything-2): Segment Anything in Images and Videos was released.**
 
 ____
 
@@ -21,8 +21,8 @@ ____
 
 
 ```
+- 2024.07.31: Latest update of this paper list.
 - 2024.07.30: The SAM 2 was released.
-- 2024.07.30: Latest update of this paper list.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -57,7 +57,6 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/facebookresearch/segment-anything)]
   [[Zhihu](https://www.zhihu.com/question/593914819)]
   [[Reddit](https://www.reddit.com/r/singularity/comments/12cq56n/meta_ai_has_released_both_the_model_and_the/)]
-  [[SAM 2]](https://ai.meta.com/blog/segment-anything-2/)
   [2023.04]
 
 - **SAM 2:** Nikhila Ravi∗,†, Valentin Gabeur∗, Yuan-Ting Hu∗, Ronghang Hu∗, Chaitanya Ryali∗, Tengyu Ma∗, Haitham Khedr∗, Roman Rädle∗  Chloe Rolland, Laura Gustafson, Eric Mintun, Junting Pan, Kalyan Vasudev Alwala, Nicolas Carion, Chao-Yuan Wu, Ross Girshick, Piotr Dollár†, Christoph Feichtenhofer∗,†.<br />
@@ -66,7 +65,7 @@ If you find our work useful in your research, please consider citing:
   [[demo]](https://sam2.metademolab.com/)] 
   [[code](https://github.com/facebookresearch/segment-anything-2)]
   [[project]](https://ai.meta.com/sam2)]
- [[dataset](https://ai.meta.com/datasets/segment-anything-video)]
+  [[dataset](https://ai.meta.com/datasets/segment-anything-video)]
   [[blog](https://ai.meta.com/blog/segment-anything-2)] 
   [2024.07]
 
@@ -165,6 +164,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**ICH:** Pascal Spiegler, Amirhossein Rasoulian, Yiming Xiao.<br />
+  "Uncertainty-Rectified YOLO-SAM for Weakly Supervised ICH Segmentation." SWITCH (2024).
+  [[paper](https://arxiv.org/abs/2407.20461)] 
+  [2024.07]
+
 :boom:**ASI-Seg:** Zhen Chen, Zongming Zhang, Wenwu Guo, Xingjian Luo, Long Bai, Jinlin Wu, Hongliang Ren, Hongbin Liu.<br />
   "ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding." IROS  (2024).
   [[paper](https://arxiv.org/abs/2407.19435)] 
