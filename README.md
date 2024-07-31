@@ -5639,6 +5639,12 @@ Spatial Information Research (2024).
   [[code]( https://github.com/yifangao112/DeSAM)]
   [2023.06]
 
+- **SAMText:** Haibin He, Jing Zhang, Mengyang Xu, Juhua Liu, Bo Du, Dacheng Tao.<br />
+  "Scalable Mask Annotation for Video Text Spotting." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.01443)] 
+  [[code](https://github.com/ViTAE-Transformer/SAMText)]
+  [2023.05] 
+
 - **NP-SAM:** Rasmus Larsen, Torben L. Villadsen, Jette K. Mathiesen, Kirsten M. Ø. Jensen, Espen D. Bøjesen.<br />
   "NP-SAM: Implementing the Segment Anything Model for Easy Nanoparticle Segmentation in Electron Microscopy Images." ArXiv (2023).
   [[paper](https://chemrxiv.org/engage/chemrxiv/article-details/6463c10aa32ceeff2dc08c49)] 
