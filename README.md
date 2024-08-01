@@ -22,8 +22,8 @@ ____
 
 
 ```
+- 2024.08.01: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
-- 2024.07.31: Latest update of this paper list.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
@@ -173,6 +173,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM  for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
+  "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
+[[paper](https://www.researchgate.net/publication/382737497_Segment_Anything_for_Videos_A_Systematic_Survey)] 
+  [[code](https://github.com/983632847/SAM-for-Videos)]
+  [2024.07]
+
+:boom:**SAMCOD:** Lv Tang, Bo Li.<br />
+  "Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.21596)] 
+  [[code](https://github.com/luckybird1994/SAMCOD)]
+  [2024.07]
+
+:boom:**FLAP-SAM:** Mothilal Asokan, Joseph Geo Benjamin, Mohammad Yaqub, Karthik Nandakumar.<br />
+  "A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.21739)] 
+  [[code](https://github.com/BioMedIA-MBZUAI/FLAP-SAM)]
+  [2024.07]
+
+:boom:**RoBox-SAM:** Yuhao Huang, Xin Yang, Han Zhou, Yan Cao, Haoran Dou, Fajin Dong, Dong Ni.<br />
+  "Robust Box Prompt based SAM for Medical Image Segmentation." MICCAI MLMI (2024).
+  [[paper]()] 
+  [2024.07]
+
+:boom: Pascal Spiegler, Amirhossein Rasoulian, Yiming Xiao.<br />
+  "Weakly Supervised Intracranial Hemorrhage Segmentation with YOLO and an Uncertainty Rectified Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.20461)] 
+  [2024.07]
+
 :boom:**ICH:** Pascal Spiegler, Amirhossein Rasoulian, Yiming Xiao.<br />
   "Uncertainty-Rectified YOLO-SAM for Weakly Supervised ICH Segmentation." SWITCH (2024).
   [[paper](https://arxiv.org/abs/2407.20461)] 
