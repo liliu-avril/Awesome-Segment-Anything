@@ -70,7 +70,7 @@ If you find our work useful in your research, please consider citing:
 
 - **SAM 2:** Nikhila Ravi∗,†, Valentin Gabeur∗, Yuan-Ting Hu∗, Ronghang Hu∗, Chaitanya Ryali∗, Tengyu Ma∗, Haitham Khedr∗, Roman Rädle∗  Chloe Rolland, Laura Gustafson, Eric Mintun, Junting Pan, Kalyan Vasudev Alwala, Nicolas Carion, Chao-Yuan Wu, Ross Girshick, Piotr Dollár†, Christoph Feichtenhofer∗,†.<br />
   "SAM 2: Segment Anything in Images and Videos." ArXiv (2024).
-  [[paper](https://ai.meta.com/research/publications/sam-2-segment-anything-in-images-and-videos/)] 
+  [[paper](https://arxiv.org/abs/2408.00714)] 
   [[demo]](https://sam2.metademolab.com/)] 
   [[code](https://github.com/facebookresearch/segment-anything-2)]
   [[project]](https://ai.meta.com/sam2)]
@@ -178,6 +178,27 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://www.researchgate.net/publication/382737497_Segment_Anything_for_Videos_A_Systematic_Survey)] 
   [[code](https://github.com/983632847/SAM-for-Videos)]
   [2024.07]
+
+:boom:Haoyu Dong, Hanxue Gu, Yaqian Chen, Jichen Yang, Maciej A. Mazurowski.<br />
+  "Segment anything model 2: an application to 2D and 3D medical images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.00756)] 
+  [2024.08]
+
+:boom:Xiaofeng Liu, Jonghye Woo, Chao Ma, Jinsong Ouyang, Georges El Fakhri.<br />
+  "Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM." IEEE NSS and MIC (2024).
+  [[paper](https://arxiv.org/abs/2408.00706)]   [2024.08]
+
+:boom:**DMESA:** Yesheng Zhang, Xu Zhao.<br />
+  "DMESA: Densely Matching Everything by Segmenting Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.00279)] 
+  [[code](https://github.com/Easonyesheng/A2PM-MESA)]
+  [2024.08]
+
+:boom:**CC-SAM:** Shreyank N Gowda, David A. Clifton.<br />
+  "CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2408.00181)] 
+  [2024.07]
+
 
 :boom:**SAMCOD:** Lv Tang, Bo Li.<br />
   "Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2." ArXiv (2024).
