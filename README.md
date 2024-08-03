@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.03: Latest update of this paper list.  
+- 2024.08.04: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -173,6 +173,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Feng Liu, Qinlong Zhang, Weijie Zhang, Deqiang Cheng, Feng Zhang, Yating Deng, Guanzhen Yu.<br />
+  "An analysis on efficacy of applying β-elemene intervention on chemically -induced tongue lesions using SAM algorithm." Anatomia, Histologia, Embryologia (2024).
+  [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ahe.13095)] 
+  [2024.08]
+
 :boom:**MSP-MVS:** Zhenlong Yuan, Cong Liu, Fei Shen, Zhaoxin Li, Tianlu Mao, Zhaoqi Wang.<br />
   "MSP-MVS: Multi-granularity Segmentation Prior Guided Multi-View Stereo." AAAI (2024).
   [[paper](https://arxiv.org/abs/2407.19323)] 
