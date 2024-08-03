@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.01: Latest update of this paper list.  
+- 2024.08.03: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -173,6 +173,22 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**MSP-MVS:** Zhenlong Yuan, Cong Liu, Fei Shen, Zhaoxin Li, Tianlu Mao, Zhaoqi Wang.<br />
+  "MSP-MVS: Multi-granularity Segmentation Prior Guided Multi-View Stereo." AAAI (2024).
+  [[paper](https://arxiv.org/abs/2407.19323)] 
+  [2024.08]
+
+:boom:Sae-Jin Park, Cheonghwa Lee, Kisu Ok and Sung-Hoon Ahn.<br />
+  "Enhancing Aviation Safety: An Automated System for FOD Detection and Removal in Support Vehicle Tires." AIAA Aviation Forum and ASCEND (2024).
+  [[paper](https://arc.aiaa.org/doi/abs/10.2514/6.2024-3806)] 
+  [2024.08]
+
+:boom:**Theia:** Jinghuan Shang, Karl Schmeckpeper, Brandon B. May, Maria Vittoria Minniti, Tarik Kelestemur, David Watkins, Laura Herlant.<br />
+  "Theia: Distilling Diverse Vision Foundation Models for Robot Learning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2407.20179)] 
+  [[code](https://github.com/bdaiinstitute/theia)]
+  [2024.08]
+
 :boom:**SAM  for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
   "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
 [[paper](https://www.researchgate.net/publication/382737497_Segment_Anything_for_Videos_A_Systematic_Survey)] 
