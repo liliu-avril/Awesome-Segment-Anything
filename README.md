@@ -4774,7 +4774,7 @@ Spatial Information Research (2024).
   [2023.09] 
   
 - **GAVS:** Yaoting Wang, Weisong Liu, Guangyao Li, Jian Ding, Di Hu, Xi Li.<br />
-  "Prompting Segmentation with Sound is Generalizable Audio-Visual Source LocalizerPrompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer." ArXiv (2023).
+  "Prompting Segmentation with Sound is Generalizable Audio-Visual Source Localizer." AAAI (2024).
   [[paper](https://arxiv.org/abs/2309.07929)] 
   [2023.09] 
 
@@ -5121,7 +5121,7 @@ Spatial Information Research (2024).
   [2023.08]
 
 - **SAMSNeRF:** Ange Lou, Yamin Li, Xing Yao, Yike Zhang, Jack Noble.<br />
-  "SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)." ArXiv (2023).
+  "SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)." Image-Guided Procedures, Robotic Interventions, and Modeling (2024).
   [[paper](https://arxiv.org/abs/2308.11774)] 
   [[code](https://github.com/AngeLouCN/SAMSNeRF)]
 
@@ -5132,7 +5132,7 @@ Spatial Information Research (2024).
   [2023.08]
 
 - **SurgicalSAM:** Wenxi Yue, Jing Zhang, Kun Hu, Yong Xia, Jiebo Luo, Zhiyong Wang.<br />
-  "SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation." ArXiv (2023).
+  "SurgicalSAM: Efficient Class Promptable Surgical Instrument Segmentation." AAAI (2024).
   [[paper](https://arxiv.org/abs/2308.08746)] 
   [[code](https://github.com/wenxi-yue/SurgicalSAM)]
   [2023.08]
@@ -5276,7 +5276,7 @@ Spatial Information Research (2024).
   [2023.07]
   
 - **SAMFlow:** Shili Zhou, Ruian He, Weimin Tan, Bo Yan.<br />
-  "SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model." ArXiv (2023).
+  "SAMFlow: Eliminating Any Fragmentation in Optical Flow with Segment Anything Model." AAAI (2024).
   [[paper](https://arxiv.org/abs/2307.16586)] 
   [2023.07]
 
@@ -5477,7 +5477,7 @@ Spatial Information Research (2024).
   [2023.06] 
 
 - **DADF:** Yingxin Lai, Zhiming Luo, Zitong Yu.<br />
-  "Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization." ArXiv (2023).
+  "Detect Any Deepfakes: Segment Anything Meets Face Forgery Detection and Localization." Chinese Conference on Biometric Recognition (2023).
   [[paper](https://arxiv.org/abs/2306.17075)] 
   [[code](https://github.com/laiyingxin2/DADF)]
   [2023.06]
@@ -5778,7 +5778,7 @@ Spatial Information Research (2024).
   [2023.05]
 
 - **ShadowSAM:** Yonghui Wang, Wengang Zhou, Yunyao Mao, Houqiang Li.<br />
-  "Detect Any Shadow: Segment Anything for Video Shadow Detection." ArXiv (2023).
+  "Detect Any Shadow: Segment Anything for Video Shadow Detection." TCSVT (2023).
   [[paper]( https://arxiv.org/abs/2305.16698)] 
   [[code](https://github.com/harrytea/Detect-AnyShadow)]
   [2023.05]
@@ -6126,7 +6126,7 @@ Spatial Information Research (2024).
   [2023.04]
 
 - **SAM-Adapter:** Tianrun Chen, Lanyun Zhu, Chaotao Ding, Runlong Cao, Yan Wang, Zejian Li, Lingyun Sun, Papa Mao, Ying Zang.<br />
-  "SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More." ArXiv (2023).
+  "SAM Fails to Segment Anything? -- SAM-Adapter: Adapting SAM in Underperformed Scenes: Camouflage, Shadow, Medical Image Segmentation, and More." ICCVW (2023).
   [[paper]( https://arxiv.org/abs/2304.09148)] 
   [2023.04]
 
