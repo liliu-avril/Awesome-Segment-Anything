@@ -209,6 +209,7 @@ If you find our work useful in your research, please consider citing:
   "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
 [[paper](https://www.researchgate.net/publication/382737497_Segment_Anything_for_Videos_A_Systematic_Survey)] 
   [[code](https://github.com/983632847/SAM-for-Videos)]
+  [[中文解读]](https://zhuanlan.zhihu.com/p/712807912)
   [2024.07]
 
 - Haoyu Dong, Hanxue Gu, Yaqian Chen, Jichen Yang, Maciej A. Mazurowski.<br />
