@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.04: Latest update of this paper list.  
+- 2024.08.05: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -173,88 +173,93 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Feng Liu, Qinlong Zhang, Weijie Zhang, Deqiang Cheng, Feng Zhang, Yating Deng, Guanzhen Yu.<br />
+:boom:**SnapSeg:** Yu N, Cai¹ Z, Huang Y, et al.<br />
+  "SnapSeg: Training-Free Few-Shot Medical Image Segmentation with Segment Anything Model." Trustworthy Artificial Intelligence for Healthcare: Second International Workshop (2024).
+[[paper](https://books.google.com.hk/books?hl=zh-CN&lr=&id=x1kXEQAAQBAJ&oi=fnd&pg=PA109&ots=iJlRIa7H97&sig=03iYXwjbNdCcL7EKNAq7SR242mM&redir_esc=y#v=onepage&q&f=false)] 
+  [2024.08]
+
+- Feng Liu, Qinlong Zhang, Weijie Zhang, Deqiang Cheng, Feng Zhang, Yating Deng, Guanzhen Yu.<br />
   "An analysis on efficacy of applying β-elemene intervention on chemically -induced tongue lesions using SAM algorithm." Anatomia, Histologia, Embryologia (2024).
   [[paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/ahe.13095)] 
   [2024.08]
 
-:boom:**MSP-MVS:** Zhenlong Yuan, Cong Liu, Fei Shen, Zhaoxin Li, Tianlu Mao, Zhaoqi Wang.<br />
+- **MSP-MVS:** Zhenlong Yuan, Cong Liu, Fei Shen, Zhaoxin Li, Tianlu Mao, Zhaoqi Wang.<br />
   "MSP-MVS: Multi-granularity Segmentation Prior Guided Multi-View Stereo." AAAI (2024).
   [[paper](https://arxiv.org/abs/2407.19323)] 
   [2024.08]
 
-:boom:Sae-Jin Park, Cheonghwa Lee, Kisu Ok and Sung-Hoon Ahn.<br />
+- Sae-Jin Park, Cheonghwa Lee, Kisu Ok and Sung-Hoon Ahn.<br />
   "Enhancing Aviation Safety: An Automated System for FOD Detection and Removal in Support Vehicle Tires." AIAA Aviation Forum and ASCEND (2024).
   [[paper](https://arc.aiaa.org/doi/abs/10.2514/6.2024-3806)] 
   [2024.08]
 
-:boom:**Theia:** Jinghuan Shang, Karl Schmeckpeper, Brandon B. May, Maria Vittoria Minniti, Tarik Kelestemur, David Watkins, Laura Herlant.<br />
+- **Theia:** Jinghuan Shang, Karl Schmeckpeper, Brandon B. May, Maria Vittoria Minniti, Tarik Kelestemur, David Watkins, Laura Herlant.<br />
   "Theia: Distilling Diverse Vision Foundation Models for Robot Learning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.20179)] 
   [[code](https://github.com/bdaiinstitute/theia)]
   [2024.08]
 
-:boom:**SAM  for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
+- **SAM  for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
   "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
 [[paper](https://www.researchgate.net/publication/382737497_Segment_Anything_for_Videos_A_Systematic_Survey)] 
   [[code](https://github.com/983632847/SAM-for-Videos)]
   [2024.07]
 
-:boom:Haoyu Dong, Hanxue Gu, Yaqian Chen, Jichen Yang, Maciej A. Mazurowski.<br />
+- Haoyu Dong, Hanxue Gu, Yaqian Chen, Jichen Yang, Maciej A. Mazurowski.<br />
   "Segment anything model 2: an application to 2D and 3D medical images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.00756)] 
   [2024.08]
 
-:boom:Xiaofeng Liu, Jonghye Woo, Chao Ma, Jinsong Ouyang, Georges El Fakhri.<br />
+- Xiaofeng Liu, Jonghye Woo, Chao Ma, Jinsong Ouyang, Georges El Fakhri.<br />
   "Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM." IEEE NSS and MIC (2024).
   [[paper](https://arxiv.org/abs/2408.00706)]   [2024.08]
 
-:boom:**DMESA:** Yesheng Zhang, Xu Zhao.<br />
+- **DMESA:** Yesheng Zhang, Xu Zhao.<br />
   "DMESA: Densely Matching Everything by Segmenting Anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.00279)] 
   [[code](https://github.com/Easonyesheng/A2PM-MESA)]
   [2024.08]
 
-:boom:**CC-SAM:** Shreyank N Gowda, David A. Clifton.<br />
+- **CC-SAM:** Shreyank N Gowda, David A. Clifton.<br />
   "CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation." ECCV (2024).
   [[paper](https://arxiv.org/abs/2408.00181)] 
   [2024.07]
 
 
-:boom:**SAMCOD:** Lv Tang, Bo Li.<br />
+- **SAMCOD:** Lv Tang, Bo Li.<br />
   "Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.21596)] 
   [[code](https://github.com/luckybird1994/SAMCOD)]
   [2024.07]
 
-:boom:**FLAP-SAM:** Mothilal Asokan, Joseph Geo Benjamin, Mohammad Yaqub, Karthik Nandakumar.<br />
+- **FLAP-SAM:** Mothilal Asokan, Joseph Geo Benjamin, Mohammad Yaqub, Karthik Nandakumar.<br />
   "A Federated Learning-Friendly Approach for Parameter-Efficient Fine-Tuning of SAM in 3D Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.21739)] 
   [[code](https://github.com/BioMedIA-MBZUAI/FLAP-SAM)]
   [2024.07]
 
-:boom:**RoBox-SAM:** Yuhao Huang, Xin Yang, Han Zhou, Yan Cao, Haoran Dou, Fajin Dong, Dong Ni.<br />
+- **RoBox-SAM:** Yuhao Huang, Xin Yang, Han Zhou, Yan Cao, Haoran Dou, Fajin Dong, Dong Ni.<br />
   "Robust Box Prompt based SAM for Medical Image Segmentation." MICCAI MLMI (2024).
   [[paper]()] 
   [2024.07]
 
-:boom: Pascal Spiegler, Amirhossein Rasoulian, Yiming Xiao.<br />
+- Pascal Spiegler, Amirhossein Rasoulian, Yiming Xiao.<br />
   "Weakly Supervised Intracranial Hemorrhage Segmentation with YOLO and an Uncertainty Rectified Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.20461)] 
   [2024.07]
 
-:boom:**ICH:** Pascal Spiegler, Amirhossein Rasoulian, Yiming Xiao.<br />
+- **ICH:** Pascal Spiegler, Amirhossein Rasoulian, Yiming Xiao.<br />
   "Uncertainty-Rectified YOLO-SAM for Weakly Supervised ICH Segmentation." SWITCH (2024).
   [[paper](https://arxiv.org/abs/2407.20461)] 
   [2024.07]
 
-:boom:**ASI-Seg:** Zhen Chen, Zongming Zhang, Wenwu Guo, Xingjian Luo, Long Bai, Jinlin Wu, Hongliang Ren, Hongbin Liu.<br />
+- **ASI-Seg:** Zhen Chen, Zongming Zhang, Wenwu Guo, Xingjian Luo, Long Bai, Jinlin Wu, Hongliang Ren, Hongbin Liu.<br />
   "ASI-Seg: Audio-Driven Surgical Instrument Segmentation with Surgeon Intention Understanding." IROS  (2024).
   [[paper](https://arxiv.org/abs/2407.19435)] 
   [[code](https://github.com/Zonmgin-Zhang/ASI-Seg)]
   [2024.07]
 
-:boom:**Library Dataset:** Artemis Llabrés, Arka Ujjal Dey, Dimosthenis Karatzas, Ernest Valveny.<br />
+- **Library Dataset:** Artemis Llabrés, Arka Ujjal Dey, Dimosthenis Karatzas, Ernest Valveny.<br />
   "Image-text matching for large-scale book collections." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.19812)] 
   [[code](https://github.com/llabres/library-dataset)]
