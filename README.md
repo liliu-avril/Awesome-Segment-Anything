@@ -173,6 +173,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**MedSAM-2:** Jiayuan Zhu, Yunli Qi, Junde Wu.<br />
+  "Medical SAM 2: Segment medical images as video via Segment Anything Model 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.00874)] 
+  [[code](https://github.com/MedicineToken/Medical-SAM2)]
+  [2024.08]
+
 :boom:**SnapSeg:** Yu N, Cai¹ Z, Huang Y, et al.<br />
   "SnapSeg: Training-Free Few-Shot Medical Image Segmentation with Segment Anything Model." Trustworthy Artificial Intelligence for Healthcare: Second International Workshop (2024).
 [[paper](https://books.google.com.hk/books?hl=zh-CN&lr=&id=x1kXEQAAQBAJ&oi=fnd&pg=PA109&ots=iJlRIa7H97&sig=03iYXwjbNdCcL7EKNAq7SR242mM&redir_esc=y#v=onepage&q&f=false)] 
