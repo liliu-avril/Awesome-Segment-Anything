@@ -1812,7 +1812,7 @@ If you find our work useful in your research, please consider citing:
   [[code](https://jiali-zheng.github.io/Design2Cloth/)]
   [2024.04]
 
-- **FBM:**Huang, Peng and Shu, Xiangbo and Yan, Rui and Tu, Zhewei and Tang, Jinhui.<br />
+- **FBM:** Huang, Peng and Shu, Xiangbo and Yan, Rui and Tu, Zhewei and Tang, Jinhui.<br />
   "Appearance-Agnostic Representation Learning for Compositional Action Recognition." TCSVT (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10488474)] 
   [2024.04]
