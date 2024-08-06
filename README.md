@@ -195,6 +195,11 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/maoyangou147/TS-SAM)]
   [2024.08]
 
+:boom:**CUB FG:** Yuetian Wang, Wenjin Hou, Qinmu Peng, Xinge You.<br />
+  "What Happens Without Background? Constructing Foreground-Only Data for Fine-Grained Tasks." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.01998)] 
+  [2024.08]
+
 :boom: Ange Lou, Yamin Li, Yike Zhang, Robert F. Labadie, Jack Noble.<br />
   "Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.01648)] 
