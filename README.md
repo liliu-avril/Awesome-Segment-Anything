@@ -240,10 +240,12 @@ If you find our work useful in your research, please consider citing:
 
 - **SAM  for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
   "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
-[[paper](https://www.researchgate.net/publication/382737497_Segment_Anything_for_Videos_A_Systematic_Survey)] 
-  [[code](https://github.com/983632847/SAM-for-Videos)]
-  [[中文解读]](https://zhuanlan.zhihu.com/p/712807912)
-  [2024.07]
+[[Paper]](https://github.com/983632847/SAM-for-Videos/blob/main/SAM_for_videos.pdf)
+[[ResearchGate]](https://www.researchgate.net/publication/382737497_Segment_Anything_for_Videos_A_Systematic_Survey)
+[[Project]](https://github.com/983632847/SAM-for-Videos)
+[[ChinaXiv]](https://chinaxiv.org/abs/202408.00019)
+[[中文解读]](https://zhuanlan.zhihu.com/p/712807912)
+[2024.07]
 
 - Haoyu Dong, Hanxue Gu, Yaqian Chen, Jichen Yang, Maciej A. Mazurowski.<br />
   "Segment anything model 2: an application to 2D and 3D medical images." ArXiv (2024).
