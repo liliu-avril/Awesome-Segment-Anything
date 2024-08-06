@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.05: Latest update of this paper list.  
+- 2024.08.06: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -173,6 +173,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM_2_Medical_3D:** Chuyun Shen, Wenhao Li, Yuhang Shi, Xiangfeng Wang.<br />
+  "Interactive 3D Medical Image Segmentation with SAM 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.02635)] 
+  [[code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)]
+  [2024.08]
+
+:boom:**PromptSAM+:** Xingyuan Wei, Yichen Liu, Ce Li, Ning Li, Degang Sun, Yan Wang.<br />
+  "PromptSAM+: Malware Detection based on Prompt Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.02066)] 
+  [2024.08]
+
+:boom:**PanicleNeRF:** Xin Yang1,2 , Xuqi Lu1,2 , Pengyao Xie1,2 , Ziyue Guo1,2 , Hui Fang1 , Haowei Fu3 , Xiaochun Hu4 , Zhenbiao Sun4 , Haiyan Cen1,2*.<br />
+  "PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.02053)] 
+  [2024.08]
+
+:boom:**TS-SAM:** Yang Yu, Chen Xu, Kai Wang.<br />
+  "TS-SAM: Fine-Tuning Segment-Anything Model for Downstream Tasks." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.01835)] 
+  [[code](https://github.com/maoyangou147/TS-SAM)]
+  [2024.08]
+
+:boom: Ange Lou, Yamin Li, Yike Zhang, Robert F. Labadie, Jack Noble.<br />
+  "Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.01648)] 
+  [[project](https://github.com/AngeLouCN/SAM-2_Surgical_Video)]
+  [2024.08]
+
 :boom:**MedSAM-2:** Jiayuan Zhu, Yunli Qi, Junde Wu.<br />
   "Medical SAM 2: Segment medical images as video via Segment Anything Model 2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.00874)] 
