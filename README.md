@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.06: Latest update of this paper list.  
+- 2024.08.07: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -30,7 +30,7 @@ ____
 - 2023.04.05: The paper of "Segment Anything" was online.
 ```
 ## Contents
-
+- [Survey](#survey)
 - [Paper List](#paper-list) 
   - [Seminal Papers](#seminal-papers)
   - [Follow-up Papers ](#follow-up-papers)
@@ -56,10 +56,38 @@ If you find our work useful in your research, please consider citing:
 }
 ```
 
+## Survey
+:boom:**The first comprehensive SAM survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
+  "A Comprehensive Survey on Segment Anything Model for Vision and Beyond." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2305.08196)]
+  [[homepage]](https://github.com/liliu-avril/Awesome-Segment-Anything)
+  [[中文解读]](https://mp.weixin.qq.com/s/uYpRzvRp22-40x8e0pLVIg)
+  [2023.05]
+
+:boom:**SAM for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
+  "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
+[[ResearchGate]](https://www.researchgate.net/publication/382737497_Segment_Anything_for_Videos_A_Systematic_Survey)
+[[ChinaXiv]](https://chinaxiv.org/abs/202408.00019)
+[[Project]](https://github.com/983632847/SAM-for-Videos)
+[[中文解读]](https://zhuanlan.zhihu.com/p/712807912)
+[2024.07]
+
+- **SAM4MIS:** Yichi Zhang, Rushi Jiao.<br />
+  "Towards Segment Anything Model (SAM) for Medical Image Segmentation: A Survey." CBM (2024).
+  [[paper](https://arxiv.org/abs/2305.03678)] 
+  [[project](https://github.com/YichiZhang98/SAM4MIS)]
+  [2023.05]
+
+- Chaoning Zhang, Fachrina Dewi Puspitasari, Sheng Zheng, Chenghao Li, Yu Qiao, Taegoo Kang, Xinru Shan, Chenshuang Zhang, Caiyan Qin, Francois Rameau, Lik-Hang Lee, Sung-Ho Bae, Choong Seon Hong.<br />
+  "A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2306.06211)] 
+  [2023.05]
+
+
 
 ## Paper List
 ### Seminal Papers
-- **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
+:boom:**SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
   "Segment Anything." **ICCV (2023) Best Paper Honorable Mention**.
   [[paper](https://arxiv.org/abs/2304.02643)] 
   [[homepage](https://segment-anything.com/)] 
@@ -68,7 +96,7 @@ If you find our work useful in your research, please consider citing:
   [[Reddit](https://www.reddit.com/r/singularity/comments/12cq56n/meta_ai_has_released_both_the_model_and_the/)]
   [2023.04]
 
-- **SAM 2:** Nikhila Ravi∗,†, Valentin Gabeur∗, Yuan-Ting Hu∗, Ronghang Hu∗, Chaitanya Ryali∗, Tengyu Ma∗, Haitham Khedr∗, Roman Rädle∗  Chloe Rolland, Laura Gustafson, Eric Mintun, Junting Pan, Kalyan Vasudev Alwala, Nicolas Carion, Chao-Yuan Wu, Ross Girshick, Piotr Dollár†, Christoph Feichtenhofer∗,†.<br />
+:boom:**SAM 2:** Nikhila Ravi∗,†, Valentin Gabeur∗, Yuan-Ting Hu∗, Ronghang Hu∗, Chaitanya Ryali∗, Tengyu Ma∗, Haitham Khedr∗, Roman Rädle∗  Chloe Rolland, Laura Gustafson, Eric Mintun, Junting Pan, Kalyan Vasudev Alwala, Nicolas Carion, Chao-Yuan Wu, Ross Girshick, Piotr Dollár†, Christoph Feichtenhofer∗,†.<br />
   "SAM 2: Segment Anything in Images and Videos." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.00714)] 
   [[demo]](https://sam2.metademolab.com/)] 
@@ -173,6 +201,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**MedSAM:** Jun Ma, Sumin Kim, Feifei Li, Mohammed Baharoon, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
+  "Segment Anything in Medical Images and Videos: Benchmark and Deployment." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.03322)] 
+  [[code](https://github.com/bowang-lab/MedSAM)]
+  [2024.08]
+
+:boom:**BioSAM 2:** Zhiling Yan, Weixiang Sun, Rong Zhou, Zhengqing Yuan, Kai Zhang, Yiwei Li, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br />
+  "Biomedical SAM 2: Segment Anything in Biomedical Images and Videos." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.03286)] 
+  [2024.08]
+
+:boom:**UnderwaterSAM2Eval:** Shijie Lian, Hua Li.<br />
+  "Evaluation of Segment Anything Model 2: The Role of SAM2 in the Underwater Environment." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.02924)] 
+  [[code](https://github.com/LiamLian0727/UnderwaterSAM2Eval)]
+  [2024.08]
+
 :boom:**SAM_2_Medical_3D:** Chuyun Shen, Wenhao Li, Yuhang Shi, Xiangfeng Wang.<br />
   "Interactive 3D Medical Image Segmentation with SAM 2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.02635)] 
@@ -237,14 +282,6 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2407.20179)] 
   [[code](https://github.com/bdaiinstitute/theia)]
   [2024.08]
-
-- **SAM  for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
-  "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
-[[ResearchGate]](https://www.researchgate.net/publication/382737497_Segment_Anything_for_Videos_A_Systematic_Survey)
-[[ChinaXiv]](https://chinaxiv.org/abs/202408.00019)
-[[Project]](https://github.com/983632847/SAM-for-Videos)
-[[中文解读]](https://zhuanlan.zhihu.com/p/712807912)
-[2024.07]
 
 - Haoyu Dong, Hanxue Gu, Yaqian Chen, Jichen Yang, Maciej A. Mazurowski.<br />
   "Segment anything model 2: an application to 2D and 3D medical images." ArXiv (2024).
