@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.08: Latest update of this paper list.  
+- 2024.08.09: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -201,6 +201,38 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom: Jieming Yu, An Wang, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren.<br />
+  "SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04593)] 
+  [2024.08]
+
+:boom:**SAM2-Adapter:** Tianrun Chen, Ankang Lu, Lanyun Zhu, Chaotao Ding, Chunan Yu, Deyi Ji, Zejian Li, Lingyun Sun, Papa Mao, Ying Zang.<br />
+  "SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04579)] 
+  [[code](http://tianrun-chen.github.io/SAM-Adaptor/)]
+  [2024.08]
+
+:boom:**MDSAM:** Shixuan Gao, Pingping Zhang, Tianyu Yan, Huchuan Lu.<br />
+  "Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection." ACM MM (2024).
+  [[paper](https://arxiv.org/abs/2408.04326)] 
+  [[code](https://github.com/BellyBeauty/MDSAM)]
+  [2024.08]
+
+:boom:Sourya Sengupta, Satrajit Chakrabarty, Ravi Soni.<br />
+  "Is SAM 2 Better than SAM in Medical Image Segmentation?." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04212)] 
+  [2024.08]
+
+:boom:**PaveCap:** Blessing Agyei Kyem, Eugene Kofi Okrah Denteh, Joshua Kofi Asamoah, Armstrong Aboah.<br />
+  "PaveCap: The First Multimodal Framework for Comprehensive Pavement Condition Assessment with Dense Captioning and PCI Estimation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04110)] 
+  [2024.08]
+
+:boom: Yiqing Shen, Hao Ding, Xinyuan Shao, Mathias Unberath.<br />
+  "Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04098)] 
+  [2024.08]
+
 :boom:**SAM2-PATH:** Mingya Zhang, Liang Wang, Limei Gu, Zhao Li, Yaohui Wang, Tingshen Ling, Xianping Tao.<br />
   "SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.03651)] 
