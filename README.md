@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.09: Latest update of this paper list.  
+- 2024.08.11: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -201,7 +201,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom: Jieming Yu, An Wang, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren.<br />
+:boom:**DuneSA:** Lu A, Jiang Z, Wu Z, et al.<br />
+  "DuneSA: A SAM-based Approach with Domain-Specific Knowledge for Aeolian Dune Segmentation." GoodIT (2024).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3677525.3678637)] 
+  [2024.08]
+
+:boom:Jieming Yu, An Wang, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren.<br />
   "SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.04593)] 
   [2024.08]
