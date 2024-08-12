@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.11: Latest update of this paper list.  
+- 2024.08.12: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -201,106 +201,117 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**One-shot-IRSTS:** Bingbing Dan, Meihui Li, Tao Tang, Jing Zhang.<br />
+  "One Shot is Enough for Sequential Infrared Small Target Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04823)] 
+  [[code](https://github.com/D-IceIce/one-shot-IRSTS)]
+  [2024.08]
+
+:boom:Andrew Seohwan Yu, Mohsen Hariri, Xuecen Zhang, Mingrui Yang, Vipin Chaudhary, Xiaojuan Li.<br />
+  "Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.04762)] 
+  [2024.08]
+
 :boom:**DuneSA:** Lu A, Jiang Z, Wu Z, et al.<br />
   "DuneSA: A SAM-based Approach with Domain-Specific Knowledge for Aeolian Dune Segmentation." GoodIT (2024).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3677525.3678637)] 
   [2024.08]
 
-:boom:Jieming Yu, An Wang, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren.<br />
+- Jieming Yu, An Wang, Wenzhen Dong, Mengya Xu, Mobarakol Islam, Jie Wang, Long Bai, Hongliang Ren.<br />
   "SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.04593)] 
   [2024.08]
 
-:boom:**SAM2-Adapter:** Tianrun Chen, Ankang Lu, Lanyun Zhu, Chaotao Ding, Chunan Yu, Deyi Ji, Zejian Li, Lingyun Sun, Papa Mao, Ying Zang.<br />
+- **SAM2-Adapter:** Tianrun Chen, Ankang Lu, Lanyun Zhu, Chaotao Ding, Chunan Yu, Deyi Ji, Zejian Li, Lingyun Sun, Papa Mao, Ying Zang.<br />
   "SAM2-Adapter: Evaluating & Adapting Segment Anything 2 in Downstream Tasks: Camouflage, Shadow, Medical Image Segmentation, and More." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.04579)] 
   [[code](http://tianrun-chen.github.io/SAM-Adaptor/)]
   [2024.08]
 
-:boom:**MDSAM:** Shixuan Gao, Pingping Zhang, Tianyu Yan, Huchuan Lu.<br />
+- **MDSAM:** Shixuan Gao, Pingping Zhang, Tianyu Yan, Huchuan Lu.<br />
   "Multi-Scale and Detail-Enhanced Segment Anything Model for Salient Object Detection." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2408.04326)] 
   [[code](https://github.com/BellyBeauty/MDSAM)]
   [2024.08]
 
-:boom:Sourya Sengupta, Satrajit Chakrabarty, Ravi Soni.<br />
+- Sourya Sengupta, Satrajit Chakrabarty, Ravi Soni.<br />
   "Is SAM 2 Better than SAM in Medical Image Segmentation?." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.04212)] 
   [2024.08]
 
-:boom:**PaveCap:** Blessing Agyei Kyem, Eugene Kofi Okrah Denteh, Joshua Kofi Asamoah, Armstrong Aboah.<br />
+- **PaveCap:** Blessing Agyei Kyem, Eugene Kofi Okrah Denteh, Joshua Kofi Asamoah, Armstrong Aboah.<br />
   "PaveCap: The First Multimodal Framework for Comprehensive Pavement Condition Assessment with Dense Captioning and PCI Estimation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.04110)] 
   [2024.08]
 
-:boom: Yiqing Shen, Hao Ding, Xinyuan Shao, Mathias Unberath.<br />
+- Yiqing Shen, Hao Ding, Xinyuan Shao, Mathias Unberath.<br />
   "Performance and Non-adversarial Robustness of the Segment Anything Model 2 in Surgical Video Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.04098)] 
   [2024.08]
 
-:boom:**SAM2-PATH:** Mingya Zhang, Liang Wang, Limei Gu, Zhao Li, Yaohui Wang, Tingshen Ling, Xianping Tao.<br />
+- **SAM2-PATH:** Mingya Zhang, Liang Wang, Limei Gu, Zhao Li, Yaohui Wang, Tingshen Ling, Xianping Tao.<br />
   "SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.03651)] 
   [[code](https://github.com/simzhangbest/SAM2PATH)]
   [2024.08]
   
-:boom:**MedSAM:** Jun Ma, Sumin Kim, Feifei Li, Mohammed Baharoon, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
+- **MedSAM:** Jun Ma, Sumin Kim, Feifei Li, Mohammed Baharoon, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
   "Segment Anything in Medical Images and Videos: Benchmark and Deployment." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.03322)] 
   [[code](https://github.com/bowang-lab/MedSAM)]
   [2024.08]
 
-:boom:**BioSAM 2:** Zhiling Yan, Weixiang Sun, Rong Zhou, Zhengqing Yuan, Kai Zhang, Yiwei Li, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br />
+- **BioSAM 2:** Zhiling Yan, Weixiang Sun, Rong Zhou, Zhengqing Yuan, Kai Zhang, Yiwei Li, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br />
   "Biomedical SAM 2: Segment Anything in Biomedical Images and Videos." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.03286)] 
   [2024.08]
 
-:boom:**UnderwaterSAM2Eval:** Shijie Lian, Hua Li.<br />
+- **UnderwaterSAM2Eval:** Shijie Lian, Hua Li.<br />
   "Evaluation of Segment Anything Model 2: The Role of SAM2 in the Underwater Environment." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.02924)] 
   [[code](https://github.com/LiamLian0727/UnderwaterSAM2Eval)]
   [2024.08]
 
-:boom:**SAM_2_Medical_3D:** Chuyun Shen, Wenhao Li, Yuhang Shi, Xiangfeng Wang.<br />
+- **SAM_2_Medical_3D:** Chuyun Shen, Wenhao Li, Yuhang Shi, Xiangfeng Wang.<br />
   "Interactive 3D Medical Image Segmentation with SAM 2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.02635)] 
   [[code](https://github.com/Chuyun-Shen/SAM_2_Medical_3D)]
   [2024.08]
 
-:boom:**PromptSAM+:** Xingyuan Wei, Yichen Liu, Ce Li, Ning Li, Degang Sun, Yan Wang.<br />
+- **PromptSAM+:** Xingyuan Wei, Yichen Liu, Ce Li, Ning Li, Degang Sun, Yan Wang.<br />
   "PromptSAM+: Malware Detection based on Prompt Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.02066)] 
   [2024.08]
 
-:boom:**PanicleNeRF:** Xin Yang1,2 , Xuqi Lu1,2 , Pengyao Xie1,2 , Ziyue Guo1,2 , Hui Fang1 , Haowei Fu3 , Xiaochun Hu4 , Zhenbiao Sun4 , Haiyan Cen1,2*.<br />
+- **PanicleNeRF:** Xin Yang1,2 , Xuqi Lu1,2 , Pengyao Xie1,2 , Ziyue Guo1,2 , Hui Fang1 , Haowei Fu3 , Xiaochun Hu4 , Zhenbiao Sun4 , Haiyan Cen1,2*.<br />
   "PanicleNeRF: low-cost, high-precision in-field phenotypingof rice panicles with smartphone." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.02053)] 
   [2024.08]
 
-:boom:**TS-SAM:** Yang Yu, Chen Xu, Kai Wang.<br />
+- **TS-SAM:** Yang Yu, Chen Xu, Kai Wang.<br />
   "TS-SAM: Fine-Tuning Segment-Anything Model for Downstream Tasks." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.01835)] 
   [[code](https://github.com/maoyangou147/TS-SAM)]
   [2024.08]
 
-:boom:**CUB FG:** Yuetian Wang, Wenjin Hou, Qinmu Peng, Xinge You.<br />
+- **CUB FG:** Yuetian Wang, Wenjin Hou, Qinmu Peng, Xinge You.<br />
   "What Happens Without Background? Constructing Foreground-Only Data for Fine-Grained Tasks." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.01998)] 
   [2024.08]
 
-:boom: Ange Lou, Yamin Li, Yike Zhang, Robert F. Labadie, Jack Noble.<br />
+- Ange Lou, Yamin Li, Yike Zhang, Robert F. Labadie, Jack Noble.<br />
   "Zero-Shot Surgical Tool Segmentation in Monocular Video Using Segment Anything Model 2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.01648)] 
   [[project](https://github.com/AngeLouCN/SAM-2_Surgical_Video)]
   [2024.08]
 
-:boom:**MedSAM-2:** Jiayuan Zhu, Yunli Qi, Junde Wu.<br />
+- **MedSAM-2:** Jiayuan Zhu, Yunli Qi, Junde Wu.<br />
   "Medical SAM 2: Segment medical images as video via Segment Anything Model 2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.00874)] 
   [[code](https://github.com/MedicineToken/Medical-SAM2)]
   [2024.08]
 
-:boom:**SnapSeg:** Yu N, Cai¹ Z, Huang Y, et al.<br />
+- **SnapSeg:** Yu N, Cai¹ Z, Huang Y, et al.<br />
   "SnapSeg: Training-Free Few-Shot Medical Image Segmentation with Segment Anything Model." Trustworthy Artificial Intelligence for Healthcare: Second International Workshop (2024).
 [[paper](https://books.google.com.hk/books?hl=zh-CN&lr=&id=x1kXEQAAQBAJ&oi=fnd&pg=PA109&ots=iJlRIa7H97&sig=03iYXwjbNdCcL7EKNAq7SR242mM&redir_esc=y#v=onepage&q&f=false)] 
   [2024.08]
