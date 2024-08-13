@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.12: Latest update of this paper list.  
+- 2024.08.13: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -201,6 +201,33 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM-FNet:** Jia Wei, Yun Li, Meiyu Qiu, Hongyu Chen, Xiaomao Fan, Wenbin Lei.<br />
+  "SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.05426)] 
+  [[code](https://github.com/VVJia/SAM-FNet)]
+  [2024.08]
+
+:boom:Athulya Sundaresan Geetha, Muhammad Hussain.<br />
+  "From SAM to SAM 2: Exploring Improvements in Meta's Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.06305)] 
+  [2024.08]
+
+:boom:Yosuke Yamagishi, Shouhei Hanaoka, Tomohiro Kikuchi, Takahiro Nakao, Yuta Nakamura, Yukihiro Nomura, Soichiro Miki, Takeharu Yoshikawa, Osamu Abe.<br />
+  "Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.06170)] 
+  [2024.08]
+
+:boom:**MCA-SAM:** Ke Zhou, Zhongwei Qiu, Dongmei Fu.<br />
+  "Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.05936)] 
+  [2024.08]
+
+:boom:**Polyp SAM 2:** Mobina Mansoori, Sajjad Shahabodini, Jamshid Abouei, Konstantinos N. Plataniotis, Arash Mohammadi.<br />
+  "Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.05892)] 
+  [[code](https://github.com/sajjad-sh33/Polyp-SAM-2)]
+  [2024.08]
+
 :boom:**One-shot-IRSTS:** Bingbing Dan, Meihui Li, Tao Tang, Jing Zhang.<br />
   "One Shot is Enough for Sequential Infrared Small Target Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.04823)] 
