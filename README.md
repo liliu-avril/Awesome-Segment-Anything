@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.13: Latest update of this paper list.  
+- 2024.08.14: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -201,6 +201,39 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**S-SAM:** Jay N. Paranjape, Shameema Sikder, S. Swaroop Vedula, Vishal M. Patel.<br />
+  "S-SAM: SVD-based Fine-Tuning of Segment Anything Model for Medical Image Segmentation." MICCAI  (2024).
+  [[paper](https://arxiv.org/abs/2408.06447)] 
+  [[code](https://github.com/JayParanjape/SVDSAM)]
+  [2024.08]
+
+:boom:Osher Rafaeli, Tal Svoray, Ariel Nahlieli.<br />
+  "Prompt-Based Segmentation at Multiple Resolutions and Lighting Conditions using Segment Anything Model 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.06970)] 
+  [2024.08]
+
+:boom:**BC-SAM:** Yongcheng Li, Lingcong Cai, Ying Lu, Yupeng Zhang, Jingyan Jiang, Genan Dai, Bowen Zhang, Jingzhou Cao, Xiangzhong Zhang, Xiaomao Fan.<br />
+  "Towards Cross-Domain Single Blood Cell Image Classification via Large-Scale LoRA-based Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.06716)] 
+  [[code](https://github.com/AnoK3111/BC-SAM)]
+  [2024.08]
+
+:boom:Tahir Ahmad, Sudipan Saha.<br />
+  "Specialized Change Detection using Segment Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.06644)] 
+  [2024.08]
+
+:boom:**Multi SAM 50:** Sophia J. Abraham, Jin Huang, Brandon RichardWebster, Michael Milford, Jonathan D. Hauenstein, Walter Scheirer.<br />
+  "Enhancing Ecological Monitoring with Multi-Objective Optimization: A Novel Dataset and Methodology for Segmentation Algorithms." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.06356)] 
+  [2024.08]
+
+:boom:**SAM-FNet:** Jia Wei, Yun Li, Meiyu Qiu, Hongyu Chen, Xiaomao Fan, Wenbin Lei.<br />
+  "SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.05426)] 
+  [[code](https://github.com/VVJia/SAM-FNet)]
+  [2024.08]
+
 :boom:**SAM-FNet:** Jia Wei, Yun Li, Meiyu Qiu, Hongyu Chen, Xiaomao Fan, Wenbin Lei.<br />
   "SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.05426)] 
