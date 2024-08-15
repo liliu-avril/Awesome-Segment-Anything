@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.14: Latest update of this paper list.  
+- 2024.08.15: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -201,6 +201,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**DoRL:** Yongcheng Li, Lingcong Cai, Ying Lu, Cheng Lin, Yupeng Zhang, Jingyan Jiang, Genan Dai, Bowen Zhang, Jingzhou Cao, Xiangzhong Zhang, Xiaomao Fan.<br />
+  "Domain-invariant Representation Learning via Segment Anything Model for Blood Cell Classification." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.07467)] 
+  [[code](https://github.com/AnoK3111/DoRL)]
+  [2024.08]
+
+:boom:**CWMV:** Pratik Vora, Sudipan Saha.<br />
+  "Segment Using Just One Example." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.07393)] 
+  [2024.08]
+
 :boom:**S-SAM:** Jay N. Paranjape, Shameema Sikder, S. Swaroop Vedula, Vishal M. Patel.<br />
   "S-SAM: SVD-based Fine-Tuning of Segment Anything Model for Medical Image Segmentation." MICCAI  (2024).
   [[paper](https://arxiv.org/abs/2408.06447)] 
