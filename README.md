@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.15: Latest update of this paper list.  
+- 2024.08.19: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -66,8 +66,9 @@ If you find our work useful in your research, please consider citing:
 
 - **SAM for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
   "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
-[[ResearchGate]](https://www.researchgate.net/publication/382737497_Segment_Anything_for_Videos_A_Systematic_Survey)
+[[ArXiv]](https://arxiv.org/abs/2408.08315) 
 [[ChinaXiv]](https://chinaxiv.org/abs/202408.00019)
+[[ResearchGate]](https://www.researchgate.net/publication/382737497_Segment_Anything_for_Videos_A_Systematic_Survey)
 [[Project]](https://github.com/983632847/SAM-for-Videos)
 [[中文解读]](https://zhuanlan.zhihu.com/p/712807912)
 [2024.07]
@@ -201,89 +202,122 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**DoRL:** Yongcheng Li, Lingcong Cai, Ying Lu, Cheng Lin, Yupeng Zhang, Jingyan Jiang, Genan Dai, Bowen Zhang, Jingzhou Cao, Xiangzhong Zhang, Xiaomao Fan.<br />
+:boom:**Surgical SAM 2:** Haofeng Liu, Erli Zhang, Junde Wu, Mingxuan Hong, Yueming Jin.<br />
+  "Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.07931)] 
+  [[code](https://github.com/jinlab-imvr/Surgical-SAM-2)]
+  [2024.08]
+
+:boom:**SAM2-UNet:** Xinyu Xiong, Zihuang Wu, Shuangyi Tan, Wenxue Li, Feilong Tang, Ying Chen, Siying Li, Jie Ma, Guanbin Li.<br />
+  "SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.08870)] 
+  [[code](https://github.com/WZH0120/SAM2-UNet)]
+  [2024.08]
+
+:boom:Lin Zhao, Xiao Chen, Eric Z. Chen, Yikang Liu, Terrence Chen, Shanhui Sun.<br />
+  "Retrieval-augmented Few-shot Medical Image Segmentation with Foundation Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.08813)] 
+  [2024.08]
+
+:boom:**OBMv2:** Kai Li, Jingbo Chen, Yupeng Deng, Yu Meng, Diyou Liu, Junxian Ma, Chenhao Wang.<br />
+  "Extracting polygonal footprints in off-nadir images with Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.08645)] 
+  [[code](https://github.com/likaiucas/OBM)]
+  [2024.08]
+
+:boom:**MC-SAM SEG:** Linghao Zheng, Xinyang Pu, Feng Xu.<br />
+  "Tuning a SAM-Based Model with Multi-Cognitive Visual Adapter to Remote Sensing Instance Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.08576)] 
+  [2024.08]
+
+:boom:Sanchayan Vivekananthan.<br />
+  "Comparative Analysis of Generative Models: Enhancing Image Synthesis with VAEs, GANs, and Stable Diffusion." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.08751)] 
+  [2024.08]
+
+- **DoRL:** Yongcheng Li, Lingcong Cai, Ying Lu, Cheng Lin, Yupeng Zhang, Jingyan Jiang, Genan Dai, Bowen Zhang, Jingzhou Cao, Xiangzhong Zhang, Xiaomao Fan.<br />
   "Domain-invariant Representation Learning via Segment Anything Model for Blood Cell Classification." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.07467)] 
   [[code](https://github.com/AnoK3111/DoRL)]
   [2024.08]
 
-:boom:**CWMV:** Pratik Vora, Sudipan Saha.<br />
+- **CWMV:** Pratik Vora, Sudipan Saha.<br />
   "Segment Using Just One Example." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.07393)] 
   [2024.08]
 
-:boom:**S-SAM:** Jay N. Paranjape, Shameema Sikder, S. Swaroop Vedula, Vishal M. Patel.<br />
+- **S-SAM:** Jay N. Paranjape, Shameema Sikder, S. Swaroop Vedula, Vishal M. Patel.<br />
   "S-SAM: SVD-based Fine-Tuning of Segment Anything Model for Medical Image Segmentation." MICCAI  (2024).
   [[paper](https://arxiv.org/abs/2408.06447)] 
   [[code](https://github.com/JayParanjape/SVDSAM)]
   [2024.08]
 
-:boom:Osher Rafaeli, Tal Svoray, Ariel Nahlieli.<br />
+- Osher Rafaeli, Tal Svoray, Ariel Nahlieli.<br />
   "Prompt-Based Segmentation at Multiple Resolutions and Lighting Conditions using Segment Anything Model 2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.06970)] 
   [2024.08]
 
-:boom:**BC-SAM:** Yongcheng Li, Lingcong Cai, Ying Lu, Yupeng Zhang, Jingyan Jiang, Genan Dai, Bowen Zhang, Jingzhou Cao, Xiangzhong Zhang, Xiaomao Fan.<br />
+- **BC-SAM:** Yongcheng Li, Lingcong Cai, Ying Lu, Yupeng Zhang, Jingyan Jiang, Genan Dai, Bowen Zhang, Jingzhou Cao, Xiangzhong Zhang, Xiaomao Fan.<br />
   "Towards Cross-Domain Single Blood Cell Image Classification via Large-Scale LoRA-based Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.06716)] 
   [[code](https://github.com/AnoK3111/BC-SAM)]
   [2024.08]
 
-:boom:Tahir Ahmad, Sudipan Saha.<br />
+- Tahir Ahmad, Sudipan Saha.<br />
   "Specialized Change Detection using Segment Anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.06644)] 
   [2024.08]
 
-:boom:**Multi SAM 50:** Sophia J. Abraham, Jin Huang, Brandon RichardWebster, Michael Milford, Jonathan D. Hauenstein, Walter Scheirer.<br />
+- **Multi SAM 50:** Sophia J. Abraham, Jin Huang, Brandon RichardWebster, Michael Milford, Jonathan D. Hauenstein, Walter Scheirer.<br />
   "Enhancing Ecological Monitoring with Multi-Objective Optimization: A Novel Dataset and Methodology for Segmentation Algorithms." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.06356)] 
   [2024.08]
 
-:boom:**SAM-FNet:** Jia Wei, Yun Li, Meiyu Qiu, Hongyu Chen, Xiaomao Fan, Wenbin Lei.<br />
+- **SAM-FNet:** Jia Wei, Yun Li, Meiyu Qiu, Hongyu Chen, Xiaomao Fan, Wenbin Lei.<br />
   "SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.05426)] 
   [[code](https://github.com/VVJia/SAM-FNet)]
   [2024.08]
 
-:boom:**SAM-FNet:** Jia Wei, Yun Li, Meiyu Qiu, Hongyu Chen, Xiaomao Fan, Wenbin Lei.<br />
+- **SAM-FNet:** Jia Wei, Yun Li, Meiyu Qiu, Hongyu Chen, Xiaomao Fan, Wenbin Lei.<br />
   "SAM-FNet: SAM-Guided Fusion Network for Laryngo-Pharyngeal Tumor Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.05426)] 
   [[code](https://github.com/VVJia/SAM-FNet)]
   [2024.08]
 
-:boom:Athulya Sundaresan Geetha, Muhammad Hussain.<br />
+- Athulya Sundaresan Geetha, Muhammad Hussain.<br />
   "From SAM to SAM 2: Exploring Improvements in Meta's Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.06305)] 
   [2024.08]
 
-:boom:Yosuke Yamagishi, Shouhei Hanaoka, Tomohiro Kikuchi, Takahiro Nakao, Yuta Nakamura, Yukihiro Nomura, Soichiro Miki, Takeharu Yoshikawa, Osamu Abe.<br />
+- Yosuke Yamagishi, Shouhei Hanaoka, Tomohiro Kikuchi, Takahiro Nakao, Yuta Nakamura, Yukihiro Nomura, Soichiro Miki, Takeharu Yoshikawa, Osamu Abe.<br />
   "Zero-shot 3D Segmentation of Abdominal Organs in CT Scans Using Segment Anything Model 2: Adapting Video Tracking Capabilities for 3D Medical Imaging." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.06170)] 
   [2024.08]
 
-:boom:**MCA-SAM:** Ke Zhou, Zhongwei Qiu, Dongmei Fu.<br />
+- **MCA-SAM:** Ke Zhou, Zhongwei Qiu, Dongmei Fu.<br />
   "Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.05936)] 
   [2024.08]
 
-:boom:**Polyp SAM 2:** Mobina Mansoori, Sajjad Shahabodini, Jamshid Abouei, Konstantinos N. Plataniotis, Arash Mohammadi.<br />
+- **Polyp SAM 2:** Mobina Mansoori, Sajjad Shahabodini, Jamshid Abouei, Konstantinos N. Plataniotis, Arash Mohammadi.<br />
   "Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.05892)] 
   [[code](https://github.com/sajjad-sh33/Polyp-SAM-2)]
   [2024.08]
 
-:boom:**One-shot-IRSTS:** Bingbing Dan, Meihui Li, Tao Tang, Jing Zhang.<br />
+- **One-shot-IRSTS:** Bingbing Dan, Meihui Li, Tao Tang, Jing Zhang.<br />
   "One Shot is Enough for Sequential Infrared Small Target Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.04823)] 
   [[code](https://github.com/D-IceIce/one-shot-IRSTS)]
   [2024.08]
 
-:boom:Andrew Seohwan Yu, Mohsen Hariri, Xuecen Zhang, Mingrui Yang, Vipin Chaudhary, Xiaojuan Li.<br />
+- Andrew Seohwan Yu, Mohsen Hariri, Xuecen Zhang, Mingrui Yang, Vipin Chaudhary, Xiaojuan Li.<br />
   "Novel adaptation of video segmentation to 3D MRI: efficient zero-shot knee segmentation with SAM2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.04762)] 
   [2024.08]
 
-:boom:**DuneSA:** Lu A, Jiang Z, Wu Z, et al.<br />
+- **DuneSA:** Lu A, Jiang Z, Wu Z, et al.<br />
   "DuneSA: A SAM-based Approach with Domain-Specific Knowledge for Aeolian Dune Segmentation." GoodIT (2024).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3677525.3678637)] 
   [2024.08]
