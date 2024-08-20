@@ -202,6 +202,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**U-MedSAM:** Xin Wang, Xiaoyu Liu , Peng Huang, Pu Huang, , Shu Hu,Hongtu Zhu.<br />
+  "U-MedSAM: Uncertainty-aware MedSAM for Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/html/2408.08881v1)] 
+  [[code](https://github.com/liangzw599/Co-developed-by-LiteMedSAM)]
+  [2024.08]
+
 :boom:**SAM-driven MAE:** Dong Wang, Qi Wang, Weidong Min, Di Gai, Qing Han, Longfei Li & Yuhan Geng .<br />
   "SAM-driven MAE pre-training and background-aware meta-learning for unsupervised vehicle re-identification." CVM (2024).
   [[paper](https://link.springer.com/article/10.1007/s41095-024-0424-2)] 
