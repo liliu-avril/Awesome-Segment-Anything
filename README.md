@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.19: Latest update of this paper list.  
+- 2024.08.20: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -202,6 +202,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**MVP-TIME:** Feiyu Pan, Hao Fang, Runmin Cong, Wei Zhang, Xiankai Lu.<br />
+  "Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.10125)] 
+  [2024.08]
+
 :boom:**Surgical SAM 2:** Haofeng Liu, Erli Zhang, Junde Wu, Mingxuan Hong, Yueming Jin.<br />
   "Surgical SAM 2: Real-time Segment Anything in Surgical Video by Efficient Frame Pruning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.07931)] 
