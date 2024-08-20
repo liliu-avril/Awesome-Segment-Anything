@@ -202,6 +202,27 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM-driven MAE:** Dong Wang, Qi Wang, Weidong Min, Di Gai, Qing Han, Longfei Li & Yuhan Geng .<br />
+  "SAM-driven MAE pre-training and background-aware meta-learning for unsupervised vehicle re-identification." CVM (2024).
+  [[paper](https://link.springer.com/article/10.1007/s41095-024-0424-2)] 
+  [2024.08]
+
+:boom:**MCA-SAM:** Ke Zhou and Zhongwei Qiu and Dongmei Fu.<br />
+  "Multi-scale contrastive adaptor learning for segmenting anything in underperformed scenes." Neurocomputing (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224011664)] 
+  [2024.08]
+
+:boom:**SAM_MLoRA:** Lu, Xiaoyan and Weng, Qihao.<br />
+  "Multi-LoRA Fine-Tuned Segment Anything Model for Urban Man-Made Object Extraction." IEEE TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10637992?casa_token=lp5kIKollDgAAAAA:zml_qFz2S7q7nn3Bb40pFTJHXO5eSDis1Lryn_b28b1oRpInn9W-Pw3G7rZsX1r8NSJIAyT0QzOT3A)] 
+  [[code](https://github.com/xiaoyan07/SAM_MLoRA)]
+  [2024.08]
+
+:boom: Wenhui Dong and Bo Du and Yongchao Xu.<br />
+  "Source domain prior-assisted segment anything model for single domain generalization in medical image segmentation." Image and Vision Computing (2024).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885624003214)] 
+  [2024.08]
+
 :boom:**SAM-UNet:** Sihan Yang, Haixia Bi, Hai Zhang, Jian Sun.<br />
   "SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.09886)] 
