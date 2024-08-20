@@ -202,6 +202,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM-UNet:** Sihan Yang, Haixia Bi, Hai Zhang, Jian Sun.<br />
+  "SAM-UNet:Enhancing Zero-Shot Segmentation of SAM for Universal Medical Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.09886)] 
+  [[code](https://github.com/Hhankyangg/sam-unet)]
+  [2024.08]
+
+:boom:**LCE:** Weiji Kong, Xun Gong, Juan Wang.<br />
+  "LCE: A Framework for Explainability of DNNs for Ultrasound Image Based on Concept Discovery." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.09899)] 
+  [2024.08]
+
+:boom:**MM-SAM:** Aoran Xiao, Weihao Xuan, Heli Qi, Yun Xing, Naoto Yokoya, Shijian Lu.<br />
+  "Segment Anything with Multiple Modalities." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.09085)] 
+  [[code](https://xiaoaoran.github.io/projects/MM-SAM)]
+  [2024.08]
+
+:boom:**GoodSAM++:** Weiming Zhang, Yexin Liu, Xu Zheng, Lin Wang.<br />
+  "GoodSAM++: Bridging Domain and Capacity Gaps via Segment Anything Model for Panoramic Semantic Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.09115)] 
+  [2024.08]
+
+:boom:**IAVVC:** Jun Yan, Pengyu Wang, Danni Wang, Weiquan Huang, Daniel Watzenig, Huilin Yin.<br />
+  "Segment-Anything Models Achieve Zero-shot Robustness in Autonomous Driving." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.09839)] 
+  [[code](https://github.com/momo1986/robust_sam_iv)]
+  [2024.08]
+
 :boom:**MVP-TIME:** Feiyu Pan, Hao Fang, Runmin Cong, Wei Zhang, Xiankai Lu.<br />
   "Video Object Segmentation via SAM 2: The 4th Solution for LSVOS Challenge VOS Track." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.10125)] 
