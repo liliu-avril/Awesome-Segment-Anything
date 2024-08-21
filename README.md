@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.20: Latest update of this paper list.  
+- 2024.08.21: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -202,6 +202,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM-COD:** Huafeng Chen, Pengxu Wei, Guangqian Guo, Shan Gao.<br />
+  "SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2408.10760)] 
+  [2024.08]
+
+:boom:Bin Cao, Yisi Zhang, Hanyi Wang, Xingjian He, Jing Liu.<br />
+  "The Instance-centric Transformer for the RVOS Track of LSVOS Challenge: 3rd Place Solution." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.10541)] 
+  [2024.08]
+
 :boom:**U-MedSAM:** Xin Wang, Xiaoyu Liu , Peng Huang, Pu Huang, , Shu Hu,Hongtu Zhu.<br />
   "U-MedSAM: Uncertainty-aware MedSAM for Medical Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/html/2408.08881v1)] 
