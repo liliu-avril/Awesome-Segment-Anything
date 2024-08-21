@@ -6366,8 +6366,8 @@ Spatial Information Research (2024).
   [[code]( https://jumpat.github.io/SA3D/)]
   [2023.04]
 
-- **MedSAM:** Jun Ma, Bo Wang.<br />
-  "Segment Anything in Medical Images." ArXiv (2023).
+- **MedSAM:** Jun Ma, Yuting He, Feifei Li, Lin Han, Chenyu You, Bo Wang.<br />
+  "Segment Anything in Medical Images." Nature Communications (2024).
   [[paper]( https://arxiv.org/abs/2304.12306)] 
   [[code]( https://github.com/bowang-lab/MedSAM)]
   [2023.04]
