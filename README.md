@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.21: Latest update of this paper list.  
+- 2024.08.22: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -202,6 +202,29 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**EmbodiedSAM:** Xiuwei Xu, Huangxing Chen, Linqing Zhao, Ziwei Wang, Jie Zhou, Jiwen Lu.<br />
+  "EmbodiedSAM: Online Segment Any 3D Thing in Real Time." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.11811)] 
+  [[code](https://xuxw98.github.io/ESAM/)]
+  [2024.08]
+
+:boom:**NuSegDG:** Zhenye Lou, Qing Xu, Zekun Jiang, Xiangjian He, Zhen Chen, Yi Wang, Chenxin Li, Maggie M. He, Wenting Duan.<br />
+  "NuSegDG: Integration of Heterogeneous Space and Gaussian Kernel for Domain-Generalized Nuclei Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.11787)] 
+  [[code](https://github.com/xq141839/NuSegDG)]
+  [2024.08]
+
+:boom:**SAM-REF:** Chongkai Yu, Anqi Li, Xiaochao Qu, Luoqi Liu, Ting Liu.<br />
+  "SAM-REF: Rethinking Image-Prompt Synergy for Refinement in Segment Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.11535)] 
+  [2024.08]
+
+:boom:**VISTA:** Yufan He, Pengfei Guo, Yucheng Tang, Andriy Myronenko, Vishwesh Nath, Ziyue Xu, Dong Yang, Can Zhao, Daguang Xu, Wenqi Li.<br />
+  "A Short Review and Evaluation of SAM2's Performance in 3D CT Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.11210)] 
+  [[code](https://github.com/Project-MONAI/VISTA)]
+  [2024.08]
+
 :boom:**SAM-COD:** Huafeng Chen, Pengxu Wei, Guangqian Guo, Shan Gao.<br />
   "SAM-COD: SAM-guided Unified Framework for Weakly-Supervised Camouflaged Object Detection." ECCV (2024).
   [[paper](https://arxiv.org/abs/2408.10760)] 
