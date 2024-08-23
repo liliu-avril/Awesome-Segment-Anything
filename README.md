@@ -557,7 +557,8 @@ If you find our work useful in your research, please consider citing:
 
 - Xiaofeng Liu, Jonghye Woo, Chao Ma, Jinsong Ouyang, Georges El Fakhri.<br />
   "Point-supervised Brain Tumor Segmentation with Box-prompted MedSAM." IEEE NSS and MIC (2024).
-  [[paper](https://arxiv.org/abs/2408.00706)]   [2024.08]
+  [[paper](https://arxiv.org/abs/2408.00706)]
+  [2024.08]
 
 - **DMESA:** Yesheng Zhang, Xu Zhao.<br />
   "DMESA: Densely Matching Everything by Segmenting Anything." ArXiv (2024).
@@ -569,7 +570,6 @@ If you find our work useful in your research, please consider citing:
   "CC-SAM: SAM with Cross-feature Attention and Context for Ultrasound Image Segmentation." ECCV (2024).
   [[paper](https://arxiv.org/abs/2408.00181)] 
   [2024.07]
-
 
 - **SAMCOD:** Lv Tang, Bo Li.<br />
   "Evaluating SAM2's Role in Camouflaged Object Detection: From SAM to SAM2." ArXiv (2024).
@@ -585,7 +585,7 @@ If you find our work useful in your research, please consider citing:
 
 - **RoBox-SAM:** Yuhao Huang, Xin Yang, Han Zhou, Yan Cao, Haoran Dou, Fajin Dong, Dong Ni.<br />
   "Robust Box Prompt based SAM for Medical Image Segmentation." MICCAI MLMI (2024).
-  [[paper]()] 
+  [[paper](https://arxiv.org/abs/2407.21284)] 
   [2024.07]
 
 - Pascal Spiegler, Amirhossein Rasoulian, Yiming Xiao.<br />
@@ -1174,7 +1174,6 @@ If you find our work useful in your research, please consider citing:
 - **SolarSAM:** Guohao Wang.<br />
   "SolarSAM: Building-scale Photovoltaic Potential Assessment Based on Segment Anything Model (SAM) and Remote Sensing for Emerging City." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2407.00296)] 
-  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
   [2024.07]
 
 - **UnSAM:** XuDong Wang, Jingfeng Yang, Trevor Darrell.<br />
@@ -1236,8 +1235,8 @@ If you find our work useful in your research, please consider citing:
 
 - **GIM:** Yirui Chen, Xudong Huang, Quan Zhang, Wei Li, Mingjian Zhu, Qiangyu Yan, Simiao Li, Hanting Chen, Hailin Hu, Jie Yang, Wei Liu, Jie Hu.<br />
   "GIM: A Million-scale Benchmark for Generative Image Manipulation Detection and Localization." ArXiv (2024).
-  [[paper]()] 
-  [[code]()]
+  [[paper](https://arxiv.org/abs/2406.16531)] 
+  [[code](https://github.com/chenyirui/GIM)]
   [2024.06]
 
 - **TP-DRSeg:** Wenxue Li, Xinyu Xiong, Peng Xia, Lie Ju, Zongyuan Ge.<br />
@@ -1558,12 +1557,6 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2405.20109)] 
   [[code](https://github.com/links-ads/igarss-fmars)]
   [2024.05]
-
-- **DeepSeek-VL:** Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Tongzheng Ren, Zhuoshu Li, Hao Yang, Yaofeng Sun, Chengqi Deng, Hanwei Xu, Zhenda Xie, Chong Ruan.<br />
-  "DeepSeek-VL: Towards Real-World Vision-Language Understanding." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2403.05525)] 
-  [[code](https://github.com/deepseek-ai/DeepSeek-VL)]
-  [2024.03]
 
 - **Finetuned-SAM:** FNU Shivam, Megan Leight, Mary Kate Kelly, Claire Davis, Kelsey Clodfelter, Jacob Thrasher, Yenumula Reddy, Prashnna Gyawali.<br />
   "Segmentation of Maya hieroglyphs through fine-tuned foundation models." ArXiv (2024).
@@ -2170,7 +2163,6 @@ If you find our work useful in your research, please consider citing:
 - Meyer, A., Mazellier, JP., Dana, J. et al.<br />
   "On-the-fly point annotation for fast medical video labeling." Int J CARS (2024).
   [[paper](https://link.springer.com/article/10.1007/s11548-024-03098-y)] 
-  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
   [2024.04]
 
 - Uygun, T., Ozguven, M.M.<br />
@@ -2229,6 +2221,12 @@ If you find our work useful in your research, please consider citing:
   "Detect2Interact: Localizing Object Key Field in Visual Question Answering (VQA) with LLMs." IEEE Intelligent Systems (2024).
   [[paper](https://arxiv.org/abs/2404.01151)] 
   [2024.04]
+
+- **DeepSeek-VL:** Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Tongzheng Ren, Zhuoshu Li, Hao Yang, Yaofeng Sun, Chengqi Deng, Hanwei Xu, Zhenda Xie, Chong Ruan.<br />
+  "DeepSeek-VL: Towards Real-World Vision-Language Understanding." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.05525)] 
+  [[code](https://github.com/deepseek-ai/DeepSeek-VL)]
+  [2024.03]
 
 - **MedCLIP-SAM:** Taha Koleilat, Hojat Asgariandehkordi, Hassan Rivaz, Yiming Xiao.<br />
   "MedCLIP-SAM: Bridging Text and Image Towards Universal Medical Image Segmentation." ArXiv (2024).
@@ -3181,14 +3179,14 @@ Spatial Information Research (2024).
 
 - **WildRGB-D:** Hongchi Xia, Yang Fu, Sifei Liu, Xiaolong Wang.<br />
   "RGBD Objects in the Wild: Scaling Real-World 3D Object Learning from RGB-D Videos." ArXiv (2024).
-  [[paper]()] 
-  [[code]()]
+  [[paper](https://arxiv.org/abs/2401.12592)] 
+  [[code](https://wildrgbd.github.io/)]
   [2024.01]
 
 - **Tyche:** Marianne Rakic, Hallee E. Wong, Jose Javier Gonzalez Ortiz, Beth Cimini, John Guttag, Adrian V. Dalca.<br />
   "Tyche: Stochastic In-Context Learning for Medical Image Segmentation." ArXiv (2024).
-  [[paper]()] 
-  [[code]()]
+  [[paper](https://arxiv.org/abs/2401.13650)] 
+  [[code](https://github.com/mariannerakic/tyche/)]
   [2024.01]
 
 - **Grounded SAM:** Tianhe Ren, Shilong Liu, Ailing Zeng, Jing Lin, Kunchang Li, He Cao, Jiayu Chen, Xinyu Huang, Yukang Chen, Feng Yan, Zhaoyang Zeng, Hao Zhang, Feng Li, Jie Yang, Hongyang Li, Qing Jiang, Lei Zhang.<br />
@@ -4673,7 +4671,6 @@ Spatial Information Research (2024).
 - Virmarie Maquiling, Sean Anthony Byrne, Diederick C. Niehorster, Marcus Nyström, Enkelejda Kasneci.<br />
   "Zero-Shot Segmentation of Eye Features Using the Segment Anything Model (SAM)." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2311.08077)] 
-  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
   [2023.11]
   
 - **GlanceSeg:** Hongyang Jiang, Mengdi Gao, Zirong Liu, Chen Tang, Xiaoqing Zhang, Shuai Jiang, Wu Yuan, Jiang Liu.<br />
@@ -5474,6 +5471,7 @@ Spatial Information Research (2024).
   "SAMSNeRF: Segment Anything Model (SAM) Guides Dynamic Surgical Scene Reconstruction by Neural Radiance Field (NeRF)." Image-Guided Procedures, Robotic Interventions, and Modeling (2024).
   [[paper](https://arxiv.org/abs/2308.11774)] 
   [[code](https://github.com/AngeLouCN/SAMSNeRF)]
+  [2023.08]
 
 - **SS2V:** Xing Yao, Han Liu, Dewei Hu, Daiwei Lu, Ange Lou, Hao Li, Ruining Deng, Gabriel Arenas, Baris Oguz, Nadav Schwartz, Brett C Byram, Ipek Oguz.<br />
   "False Negative/Positive Control for SAM on Noisy Medical Images." ArXiv (2023).
