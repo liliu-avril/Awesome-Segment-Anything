@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.22: Latest update of this paper list.  
+- 2024.08.23: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -202,6 +202,21 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM-SP:** Chunpeng Zhou, Kangjie Ning, Qianqian Shen, Sheng Zhou, Zhi Yu, Haishuai Wang.<br />
+  "SAM-SP: Self-Prompting Makes SAM Great Again." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.12364)] 
+  [2024.08]
+
+:boom:**GSAM:** Sota Kato, Hinako Mitsuoka, Kazuhiro Hotta.<br />
+  "Generalized SAM: Efficient Fine-Tuning of SAM for Variable Input Image Sizes." ECCVW (2024).
+  [[paper](https://arxiv.org/abs/2408.12406)] 
+  [2024.08]
+
+:boom: Tuyen Tran.<br />
+  "The 2nd Solution for LSVOS Challenge RVOS Track: Spatial-temporal Refinement for Consistent Semantic Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.12447)] 
+  [2024.08]
+
 :boom:**EmbodiedSAM:** Xiuwei Xu, Huangxing Chen, Linqing Zhao, Ziwei Wang, Jie Zhou, Jiwen Lu.<br />
   "EmbodiedSAM: Online Segment Any 3D Thing in Real Time." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.11811)] 
