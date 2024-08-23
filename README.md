@@ -6007,18 +6007,18 @@ Spatial Information Research (2024).
 
 - **Calib-Anything:** Zhaotong Luo, Guohang Yan, Yikang Li.<br />
   " Calib-Anything: Zero-training LiDAR-Camera Extrinsic Calibration Method Using Segment Anything." ArXiv (2023).
-  [[paper]( https://arxiv.org/abs/2306.02656)] 
+  [[paper](https://arxiv.org/abs/2306.02656)] 
   [[code](https://github.com/OpenCalib/CalibAnything)]
   [2023.06]
 
 -  Shijie Chang, Zeqi Hao, Ben Kang, Xiaoqi Zhao, Jiawen Zhu, Zhenyu Chen, Lihe Zhang, Lu Zhang, Huchuan Lu.<br />
   " 3rd Place Solution for PVUW2023 VSS Track: A Large Model for Semantic Segmentation on VSPW." ArXiv (2023).
-  [[paper]( https://arxiv.org/abs/2306.02291)] 
+  [[paper](https://arxiv.org/abs/2306.02291)] 
   [2023.06]
 
 - **USD:** Yulin He, Wei Chen, Yusong Tan, Siqi Wang.<br />
   " USD: Unknown Sensitive Detector Empowered by Decoupled Objectness and Segment Anything Model." ArXiv (2023).
-  [[paper]( https://arxiv.org/abs/2306.02275)] 
+  [[paper](https://arxiv.org/abs/2306.02275)] 
   [2023.06]
 
 - **SAM3D:** Dingyuan Zhang, Dingkang Liang, Hongcheng Yang, Zhikang Zou, Xiaoqing Ye, Zhe Liu, Xiang Bai.<br />
