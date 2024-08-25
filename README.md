@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.23: Latest update of this paper list.  
+- 2024.08.25: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -202,6 +202,22 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**3DSAM-adapter:** Shizhan Gong, Yuan Zhong, Wenao Ma, Jinpeng Li, Zhao Wang, Jingyang Zhang, Pheng-Ann Heng, Qi Dou.<br />
+  "3DSAM-adapter: Holistic adaptation of SAM from 2D to 3D for promptable tumor segmentation." MIA (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1361841524002494)] 
+  [[code](https://github.com/med-air/3DSAM-adapter)]
+  [2024.08]
+
+:boom:Xiangru Li, Yifei Zhang, Liang Zhao.<br />
+  "Multi-prompt Fine-Tuning of Foundation Models for Enhanced Biomedical Image Segmentation." ArXiv (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-63592-2_7)] 
+  [2024.08]
+
+:boom:Xinyu Liu, Jing Zhang, Kexin Zhang, Xu Liu, Lingling Li.<br />
+  "LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.10469)] 
+  [2024.08]
+
 :boom:**SAM-SP:** Chunpeng Zhou, Kangjie Ning, Qianqian Shen, Sheng Zhou, Zhi Yu, Haishuai Wang.<br />
   "SAM-SP: Self-Prompting Makes SAM Great Again." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.12364)] 
