@@ -79,6 +79,17 @@ If you find our work useful in your research, please consider citing:
   [[project](https://github.com/YichiZhang98/SAM4MIS)]
   [2023.05]
 
+- Yichi Zhang, Zhenrong Shen.<br />
+  "Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.12889)] 
+  [[code](https://github.com/YichiZhang98/SAM4MIS)]
+  [2024.08]
+
+- Tianfei Zhou, Fei Zhang, Boyu Chang, Wenguan Wang, Ye Yuan, Ender Konukoglu, Daniel Cremers.<br />
+  "Image Segmentation in Foundation Model Era: A Survey." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.12957)] 
+  [2024.08]
+
 - Chaoning Zhang, Fachrina Dewi Puspitasari, Sheng Zheng, Chenghao Li, Yu Qiao, Taegoo Kang, Xinru Shan, Chenshuang Zhang, Caiyan Qin, Francois Rameau, Lik-Hang Lee, Sung-Ho Bae, Choong Seon Hong.<br />
   "A Survey on Segment Anything Model (SAM): Vision Foundation Model Meets Prompt Engineering." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2306.06211)] 
@@ -216,12 +227,6 @@ If you find our work useful in your research, please consider citing:
   "S3Simulator: A benchmarking Side Scan Sonar Simulator dataset for Underwater Image Analysis." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.12833)] 
   [[code](https://github.com/bashakamal/S3Simulator)]
-  [2024.08]
-
-:boom:**SAM4MIS:** Yichi Zhang, Zhenrong Shen.<br />
-  "Unleashing the Potential of SAM2 for Biomedical Images and Videos: A Survey." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2408.12889)] 
-  [[code](https://github.com/YichiZhang98/SAM4MIS)]
   [2024.08]
 
 :boom:**frg-bgr-modeling:** Lukas Picek, Lukas Neumann, Jiri Matas.<br />
