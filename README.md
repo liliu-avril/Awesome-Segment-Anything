@@ -213,6 +213,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**PropSAM:** Zifan Chen, Xinyu Nan, Jiazheng Li, Jie Zhao, Haifeng Li, Zilin Lin, Haoshen Li, Heyun Chen, Yiting Liu, Bin Dong, Li Zhang, Lei Tang.<br />
+  "PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.13836)] 
+  [2024.08]
+
 :boom:**FusionSAM:** Daixun Li, Weiying Xie, Mingxiang Cao, Yunke Wang, Jiaqing Zhang, Yunsong Li, Leyuan Fang, Chang Xu.<br />
   "FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.13980)] 
