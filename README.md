@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.26: Latest update of this paper list.  
+- 2024.08.27: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -213,6 +213,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**FusionSAM:** Daixun Li, Weiying Xie, Mingxiang Cao, Yunke Wang, Jiaqing Zhang, Yunsong Li, Leyuan Fang, Chang Xu.<br />
+  "FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.13980)] 
+  [2024.08]
+
+:boom:**SAMesh:** George Tang, William Zhao, Logan Ford, David Benhaim, Paul Zhang.<br />
+  "Segment Any Mesh: Zero-shot Mesh Part Segmentation via Lifting Segment Anything 2 to 3D." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.13679)] 
+  [[code](https://github.com/gtangg12/samesh)]
+  [2024.08]
+
 :boom:Kai Nichols, Matthew Hauwiller, Nicholas Propes, Shaowei Wu, Stephanie Hernandez, Mike Kautzky.<br />
   "Segment Anything Model for Grain Characterization in Hard Drive Design." CVPRW (2024).
   [[paper](https://arxiv.org/abs/2408.12732)] 
