@@ -220,7 +220,7 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)]
   [2024.08]
 
-:boom:**MCFM:** Kunpeng Wang, Keke Chen, Chenglong Li, Zhengzheng Tu, Bin Luo.<br />
+:boom:**Sammese:** Kunpeng Wang, Keke Chen, Chenglong Li, Zhengzheng Tu, Bin Luo.<br />
   "Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.15063)] 
   [2024.08]
