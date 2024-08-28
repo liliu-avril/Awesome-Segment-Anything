@@ -19,16 +19,17 @@
 ____
 
 ## :fire: Highlights
-
-
+![Last Updated](https://badgen.net/github/last-commit/liliu-avril/Awesome-Segment-Anything?icon=github&label=last%20updated&color=green)
 ```
-- 2024.08.28: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
 - 2023.04.05: The paper of "Segment Anything" was online.
 ```
+
+
+
 ## Contents
 - [Survey](#survey)
 - [Paper List](#paper-list) 
