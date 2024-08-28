@@ -22,7 +22,7 @@ ____
 
 
 ```
-- 2024.08.27: Latest update of this paper list.  
+- 2024.08.28: Latest update of this paper list.  
 - 2024.07.31: The first survey on SAM for videos was online.
 - 2024.07.30: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
@@ -213,6 +213,22 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SegmentWithSAM:** Zafer Yildiz, Yuwen Chen, Maciej A. Mazurowski.<br />
+  "SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.15224)] 
+  [[code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)]
+  [2024.08]
+
+:boom:**MCFM:** Kunpeng Wang, Keke Chen, Chenglong Li, Zhengzheng Tu, Bin Luo.<br />
+  "Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.15063)] 
+  [2024.08]
+
+:boom:**YOLO + SAM:** Samir Kassam, Angelo Markham, Katie Vo, Yashas Revanakara, Michael Lam, Kevin Zhu.<br />
+  "Intraoperative Glioma Segmentation with YOLO + SAM for Improved Accuracy in Tumor Resection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.14847)] 
+  [2024.08]
+
 :boom:**PropSAM:** Zifan Chen, Xinyu Nan, Jiazheng Li, Jie Zhao, Haifeng Li, Zilin Lin, Haoshen Li, Heyun Chen, Yiting Liu, Bin Dong, Li Zhang, Lei Tang.<br />
   "PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.13836)] 
