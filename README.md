@@ -214,6 +214,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM2Point:** Ziyu Guo, Renrui Zhang, Xiangyang Zhu, Chengzhuo Tong, Peng Gao, Chunyuan Li, Pheng-Ann Heng.<br />
+  "SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.16768)] 
+  [[code](https://github.com/ZiyuGuo99/SAM2Point)]
+  [2024.08]
+
+:boom:**SlotSAM:** Luyao Tang, Yuxuan Yuan, Chaoqi Chen, Kunze Huang, Xinghao Ding, Yue Huang.<br />
+  "Bootstrap Segmentation Foundation Model under Distribution Shift via Object-Centric Learning." ECCVW (2024).
+  [[paper](https://arxiv.org/abs/2408.16310)] 
+  [[code](http://github.com/lytang63/SlotSAM)]
+  [2024.08]
+
+:boom:Zhirui Gao, Renjiao Yi, Chenyang Zhu, Ke Zhuang, Wei Chen, Kai Xu.<br />
+  "Generic Objects as Pose Probes for Few-Shot View Synthesis." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.16690)] 
+  [2024.08]
+
 :boom:**AL-Ref-SAM2:** Shaofei Huang, Rui Ling, Hongyu Li, Tianrui Hui, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu.<br />
   "Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.15876)] 
