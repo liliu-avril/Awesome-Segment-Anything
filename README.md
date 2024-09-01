@@ -214,95 +214,130 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**SAM2Point:** Ziyu Guo, Renrui Zhang, Xiangyang Zhu, Chengzhuo Tong, Peng Gao, Chunyuan Li, Pheng-Ann Heng.<br />
+:boom:**FCSAM:** He, Dongzhi and Ma, Zeyuan and Li, Chenxi and Li, Yunqi.<br />
+  "Dual‑branch Fully Convolutional Segment Anything Model for Lesion Segmentation in Endoscopic Images." ACCESS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10646334)] 
+  [2024.08]
+
+:boom:**PMHO:** Zhang, Shun and Long, Jihui and Xu, Yaohui and Mei, Shaohui.<br />
+  "PMHO: Point-supervised Oriented Object Detection Based on Segmentation-Driven Proposal Generation." TGRS (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10649581)] 
+  [2024.08]
+
+:boom:**CSAD:** Yu-Hsuan Hsieh, Shang-Hong Lai.<br />
+  "CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.15628)] 
+  [2024.08]
+
+:boom: Tanner D. Harms, Steven L. Brunton, Beverley J. McKeon.<br />
+  "Estimating Dynamic Flow Features in Groups of Tracked Objects." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.16190)] 
+  [2024.08]
+
+:boom: Setu, J. H.; Islam, M.; Pasha, S. T.; Halder, N.; Hossain, E.; Mahmud, A.; Islam, A.; Alam, M. Z.; Amin, M. A.<br />
+  "Segment Anything Model (SAM 2) Unveiled: Functionality, Applications, and Practical Implementation Across Multiple Domains." ArXiv (2024).
+  [[paper](https://www.preprints.org/manuscript/202408.1790/v1)] 
+  [2024.08]
+
+:boom: Mani Abedini.<br />
+  "Skin Cancer Classification by Leveraging Segment Anything Model for Semantic Segmentation of Skin Lesion." IJARCCE (2024).
+[[paper](https://www.researchgate.net/profile/Mani-Abedini/publication/383303969_Skin_Cancer_Classification_by_Leveraging_Segment_Anything_Model_for_Semantic_Segmentation_of_Skin_Lesion/links/66c77e1c920e05672e46371b/Skin-Cancer-Classification-by-Leveraging-Segment-Anything-Model-for-Semantic-Segmentation-of-Skin-Lesion.pdf)] 
+  [2024.08]
+
+:boom:**Ensembled-SAMs:** Chen, Fei and Ge, Junyao and Zheng, Yang and Guo, Kaitai and Cao, Feng and Liang, Jimin.<br />
+  "Ensembled-SAMs for Enhanced Small Coronary Artery Segmentation in CCTA Images." JBHI (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10652248)] 
+  [2024.08]
+
+- **SAM2Point:** Ziyu Guo, Renrui Zhang, Xiangyang Zhu, Chengzhuo Tong, Peng Gao, Chunyuan Li, Pheng-Ann Heng.<br />
   "SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.16768)] 
   [[code](https://github.com/ZiyuGuo99/SAM2Point)]
   [2024.08]
 
-:boom:**SlotSAM:** Luyao Tang, Yuxuan Yuan, Chaoqi Chen, Kunze Huang, Xinghao Ding, Yue Huang.<br />
+- **SlotSAM:** Luyao Tang, Yuxuan Yuan, Chaoqi Chen, Kunze Huang, Xinghao Ding, Yue Huang.<br />
   "Bootstrap Segmentation Foundation Model under Distribution Shift via Object-Centric Learning." ECCVW (2024).
   [[paper](https://arxiv.org/abs/2408.16310)] 
   [[code](http://github.com/lytang63/SlotSAM)]
   [2024.08]
 
-:boom:Zhirui Gao, Renjiao Yi, Chenyang Zhu, Ke Zhuang, Wei Chen, Kai Xu.<br />
+- Zhirui Gao, Renjiao Yi, Chenyang Zhu, Ke Zhuang, Wei Chen, Kai Xu.<br />
   "Generic Objects as Pose Probes for Few-Shot View Synthesis." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.16690)] 
   [2024.08]
 
-:boom:**AL-Ref-SAM2:** Shaofei Huang, Rui Ling, Hongyu Li, Tianrui Hui, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu.<br />
+- **AL-Ref-SAM2:** Shaofei Huang, Rui Ling, Hongyu Li, Tianrui Hui, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu.<br />
   "Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.15876)] 
   [[code](https://github.com/appletea233/AL-Ref-SAM2)]
   [2024.08]
 
-:boom:**SegmentWithSAM:** Zafer Yildiz, Yuwen Chen, Maciej A. Mazurowski.<br />
+- **SegmentWithSAM:** Zafer Yildiz, Yuwen Chen, Maciej A. Mazurowski.<br />
   "SAM & SAM 2 in 3D Slicer: SegmentWithSAM Extension for Annotating Medical Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.15224)] 
   [[code](https://github.com/mazurowski-lab/SlicerSegmentWithSAM)]
   [2024.08]
 
-:boom:**Sammese:** Kunpeng Wang, Keke Chen, Chenglong Li, Zhengzheng Tu, Bin Luo.<br />
+- **Sammese:** Kunpeng Wang, Keke Chen, Chenglong Li, Zhengzheng Tu, Bin Luo.<br />
   "Adapting Segment Anything Model to Multi-modal Salient Object Detection with Semantic Feature Fusion Guidance." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.15063)] 
   [2024.08]
 
-:boom:**YOLO + SAM:** Samir Kassam, Angelo Markham, Katie Vo, Yashas Revanakara, Michael Lam, Kevin Zhu.<br />
+- **YOLO + SAM:** Samir Kassam, Angelo Markham, Katie Vo, Yashas Revanakara, Michael Lam, Kevin Zhu.<br />
   "Intraoperative Glioma Segmentation with YOLO + SAM for Improved Accuracy in Tumor Resection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.14847)] 
   [2024.08]
 
-:boom:**PropSAM:** Zifan Chen, Xinyu Nan, Jiazheng Li, Jie Zhao, Haifeng Li, Zilin Lin, Haoshen Li, Heyun Chen, Yiting Liu, Bin Dong, Li Zhang, Lei Tang.<br />
+- **PropSAM:** Zifan Chen, Xinyu Nan, Jiazheng Li, Jie Zhao, Haifeng Li, Zilin Lin, Haoshen Li, Heyun Chen, Yiting Liu, Bin Dong, Li Zhang, Lei Tang.<br />
   "PropSAM: A Propagation-Based Model for Segmenting Any 3D Objects in Multi-Modal Medical Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.13836)] 
   [2024.08]
 
-:boom:**FusionSAM:** Daixun Li, Weiying Xie, Mingxiang Cao, Yunke Wang, Jiaqing Zhang, Yunsong Li, Leyuan Fang, Chang Xu.<br />
+- **FusionSAM:** Daixun Li, Weiying Xie, Mingxiang Cao, Yunke Wang, Jiaqing Zhang, Yunsong Li, Leyuan Fang, Chang Xu.<br />
   "FusionSAM: Latent Space driven Segment Anything Model for Multimodal Fusion and Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.13980)] 
   [2024.08]
 
-:boom:**SAMesh:** George Tang, William Zhao, Logan Ford, David Benhaim, Paul Zhang.<br />
+- **SAMesh:** George Tang, William Zhao, Logan Ford, David Benhaim, Paul Zhang.<br />
   "Segment Any Mesh: Zero-shot Mesh Part Segmentation via Lifting Segment Anything 2 to 3D." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.13679)] 
   [[code](https://github.com/gtangg12/samesh)]
   [2024.08]
 
-:boom:Kai Nichols, Matthew Hauwiller, Nicholas Propes, Shaowei Wu, Stephanie Hernandez, Mike Kautzky.<br />
+- Kai Nichols, Matthew Hauwiller, Nicholas Propes, Shaowei Wu, Stephanie Hernandez, Mike Kautzky.<br />
   "Segment Anything Model for Grain Characterization in Hard Drive Design." CVPRW (2024).
   [[paper](https://arxiv.org/abs/2408.12732)] 
   [2024.08]
 
-:boom:**VALE:** Purushothaman Natarajan, Athira Nambiar.<br />
+- **VALE:** Purushothaman Natarajan, Athira Nambiar.<br />
   "VALE: A Multimodal Visual and Language Explanation Framework for Image Classifiers using eXplainable AI and Language Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.12808)] 
   [2024.08]
 
-:boom:**S3Simulator:** Kamal Basha S, Athira Nambiar.<br />
+- **S3Simulator:** Kamal Basha S, Athira Nambiar.<br />
   "S3Simulator: A benchmarking Side Scan Sonar Simulator dataset for Underwater Image Analysis." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.12833)] 
   [[code](https://github.com/bashakamal/S3Simulator)]
   [2024.08]
 
-:boom:**frg-bgr-modeling:** Lukas Picek, Lukas Neumann, Jiri Matas.<br />
+- **frg-bgr-modeling:** Lukas Picek, Lukas Neumann, Jiri Matas.<br />
   "Animal Identification with Independent Foreground and Background Modeling." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.12930)] 
   [[code](https://github.com/BohemianVRA/frg-bgr-modeling)]
   [2024.08]
 
-:boom:**3DSAM-adapter:** Shizhan Gong, Yuan Zhong, Wenao Ma, Jinpeng Li, Zhao Wang, Jingyang Zhang, Pheng-Ann Heng, Qi Dou.<br />
+- **3DSAM-adapter:** Shizhan Gong, Yuan Zhong, Wenao Ma, Jinpeng Li, Zhao Wang, Jingyang Zhang, Pheng-Ann Heng, Qi Dou.<br />
   "3DSAM-adapter: Holistic adaptation of SAM from 2D to 3D for promptable tumor segmentation." MIA (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1361841524002494)] 
   [[code](https://github.com/med-air/3DSAM-adapter)]
   [2024.08]
 
-:boom:Xiangru Li, Yifei Zhang, Liang Zhao.<br />
+- Xiangru Li, Yifei Zhang, Liang Zhao.<br />
   "Multi-prompt Fine-Tuning of Foundation Models for Enhanced Biomedical Image Segmentation." ArXiv (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-031-63592-2_7)] 
   [2024.08]
 
-:boom:Xinyu Liu, Jing Zhang, Kexin Zhang, Xu Liu, Lingling Li.<br />
+- Xinyu Liu, Jing Zhang, Kexin Zhang, Xu Liu, Lingling Li.<br />
   "LSVOS Challenge 3rd Place Report: SAM2 and Cutie based VOS." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.10469)] 
   [2024.08]
