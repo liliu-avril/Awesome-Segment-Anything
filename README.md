@@ -1160,11 +1160,6 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com}{https//github.com%7D)]
   [2024.07]
 
-- Zdravko Marinov, Alexander Jaus, Jens Kleesiek, Rainer Stiefelhagen.<br />
-  "Filters, Thresholds, and Geodesic Distances for Scribble-based Interactive Segmentation of Medical Images." CVPR Workshop (2024).
-  [[paper](https://openreview.net/forum?id=FT3T2Dh1fg)] 
-  [2024.07]
-
 - Haotian Guan, Bingze Dai, Jiajing Zhang.<br />
   "Lite Class-prompt Tiny-VIT for Multi-Modality Medical Image Segmentation." CVPR Workshop (2024).
   [[paper](https://openreview.net/forum?id=VHcTUdz9SY)] 
