@@ -1852,7 +1852,7 @@ If you find our work useful in your research, please consider citing:
 
 - **USIS10K & USIS-SAM:** Lian, Shijie and Zhang, Ziyi and Li, Hua and Li, Wenjie and Yang, Laurence Tianruo and Kwong, Sam and Cong, Runmin.<br />
   "Diving into Underwater: Segment Anything Model Guided Underwater Salient Instance Segmentation and A Large-scale Dataset." ICML (2024).
-  [[paper](https://github.com/LiamLian0727/USIS10K/blob/main)] 
+  [[paper](https://openreview.net/pdf?id=snhurpZt63)] 
   [[code](https://github.com/LiamLian0727/USIS10K/tree/main)]
   [2024.05]
 
