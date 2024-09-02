@@ -249,6 +249,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://ieeexplore.ieee.org/abstract/document/10652248)] 
   [2024.08]
 
+:boom:Deshui Miao, Yameng Gu, Xin Li, Zhenyu He, Yaowei Wang, Ming-Hsuan Yang.<br />
+  "Discriminative Spatial-Semantic VOS Solution: 1st Place Solution for 6th LSVOS." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2408.16431)] 
+  [[code](https://github.com/yahooo-m/VOS-Solution)]
+  [2024.08]
+
 - **SAM2Point:** Ziyu Guo, Renrui Zhang, Xiangyang Zhu, Chengzhuo Tong, Peng Gao, Chunyuan Li, Pheng-Ann Heng.<br />
   "SAM2Point: Segment Any 3D as Videos in Zero-shot and Promptable Manners." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.16768)] 
