@@ -6566,7 +6566,7 @@ Spatial Information Research (2024).
 
 - **HFGFA:** Rongsheng Wang, Yaofei Duan, YuKun Li.<br />
   "Segment anything also detect anything." ArXiv (2023).
-  [[paper](https://6login.easychair.org/publications/preprint_download/T1rc)]
+  [[paper](https://easychair.org/publications/preprint/T1rc)]
   [2023.04]
 
 - **SNA:** Yongcheng Jing, Xinchao Wang, Dacheng Tao.<br />
