@@ -5905,11 +5905,6 @@ Spatial Information Research (2024).
   "Topological Data Analysis Guided Segment Anything Model Prompt Optimization for Zero-Shot Segmentation in Biological Imaging." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2306.17400)] 
   [2023.06]
-
-- **TDA:** Ruben Glatt, Shusen Liu.<br />
-  "Topological Data Analysis Guided Segment Anything Model Prompt Optimization for Zero-Shot Segmentation in Biological Imaging." ArXiv (2023).
-  [[paper](https://arxiv.org/abs/2306.17400)] 
-  [2023.06]
  
 - Xavier F. Cadet, Ranya Aloufi, Alain Miranville, Sara Ahmadi-Abhari, Hamed Haddadi.<br />
   "Evaluating The Robustness of Self-Supervised Representations to Background/Foreground Removal." ArXiv (2023).
