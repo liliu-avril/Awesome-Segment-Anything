@@ -1744,7 +1744,7 @@ If you find our work useful in your research, please consider citing:
 
 - **MemSAM:** Xiaolong Deng, Huisi Wu, Runhao Zeng, Jing Qin.<br />
   "MemSAM: Taming Segment Anything Model for Echocardiography Video Segmentation." CVPR (2024).
-  [[paper](https://github.com/dengxl0520/MemSAM/blob/main/paper.pdf)] 
+  [[paper](https://openaccess.thecvf.com/content/CVPR2024/papers/Deng_MemSAM_Taming_Segment_Anything_Model_for_Echocardiography_Video_Segmentation_CVPR_2024_paper.pdf)] 
   [[code](https://github.com/dengxl0520/MemSAM)]
   [2024.05]
 
