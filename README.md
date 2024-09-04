@@ -214,6 +214,33 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Curriculum-Prompting:** Xiuqi Zheng, Yuhang Zhang, Haoran Zhang, Hongrui Liang, Xueqi Bao, Zhuqing Jiang, Qicheng Lao.<br />
+  "Curriculum Prompting Foundation Models for Medical Image Segmentation." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2409.00695)] 
+  [[code](https://github.com/AnnaZzz-zxq/Curriculum-Prompting)]
+  [2024.09]
+
+:boom:**SAMTooth:** Yifan Liu, Wuyang Li, Cheng Wang, Hui Chen, Yixuan Yuan.<br />
+  "When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2409.01691)] 
+  [[code](https://github.com/CUHK-AIM-Group/SAMTooth)]
+  [2024.09]
+
+:boom:**DPDEdit:** Xiaolong Wang, Zhi-Qi Cheng, Jue Wang, Xiaojiang Peng.<br />
+  "DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.01086)] 
+  [2024.09]
+
+:boom:Liang Geng.<br />
+  "Improving Apple Object Detection with Occlusion-Enhanced Distillation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.01573)] 
+  [2024.09]
+
+:boom:**MedSAM-U:** Nan Zhou, Ke Zou, Kai Ren, Mengting Luo, Linchao He, Meng Wang, Yidi Chen, Yi Zhang, Hu Chen, Huazhu Fu.<br />
+  "MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.00924)] 
+  [2024.09]
+
 :boom:**FCSAM:** He, Dongzhi and Ma, Zeyuan and Li, Chenxi and Li, Yunqi.<br />
   "Dual‑branch Fully Convolutional Segment Anything Model for Lesion Segmentation in Endoscopic Images." ACCESS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10646334)] 
