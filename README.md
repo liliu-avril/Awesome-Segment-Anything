@@ -1350,6 +1350,14 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2407.00296)] 
   [2024.07]
 
+- **Depth Anything V2:** Lihe Yang, Bingyi Kang, Zilong Huang, Zhen Zhao, Xiaogang Xu, Jiashi Feng, Hengshuang Zhao.<br />
+  "Depth Anything V2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2406.09414)] 
+  [[project](https://depth-anything-v2.github.io/)]
+  [[code](https://github.com/DepthAnything/Depth-Anything-V2)]
+  [2024.06]
+
+
 - **UnSAM:** XuDong Wang, Jingfeng Yang, Trevor Darrell.<br />
   "Segment Anything without Supervision." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2406.20081)] 
