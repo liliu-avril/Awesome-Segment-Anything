@@ -1965,11 +1965,6 @@ If you find our work useful in your research, please consider citing:
   [[code](https://heiheishuang.xyz/M2Depth/)]
   [2024.05]
 
-- **BarelySAM:** Ding, Yuhang and Liu, Hongmin.<br />
-  "Barely-supervised Brain Tumor Segmentation via Employing Segment Anything Model." TCSVT (2024).
-  [[paper](https://ieeexplore.ieee.org/document/10491099)] 
-  [2024.04]
-
 - Prateek Verma, Minh-Hao Van, Xintao Wu.<br />
   "Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2405.00876)] 
