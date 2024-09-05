@@ -1965,6 +1965,10 @@ If you find our work useful in your research, please consider citing:
   [[code](https://heiheishuang.xyz/M2Depth/)]
   [2024.05]
 
+- **BarelySAM:** Ding, Yuhang and Liu, Hongmin.<br />
+  "Barely-supervised Brain Tumor Segmentation via Employing Segment Anything Model." TCSVT (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10491099)] 
+  [2024.04]
 
 - Prateek Verma, Minh-Hao Van, Xintao Wu.<br />
   "Beyond Human Vision: The Role of Large Vision Language Models in Microscope Image Analysis." ArXiv (2024).
@@ -2958,6 +2962,11 @@ Spatial Information Research (2024).
   "Beyond Single-Model Views for Deep Learning: Optimization versus Generalizability of Stochastic Optimization Algorithms." AAAI (2024).
   [[paper](https://arxiv.org/abs/2403.00574)] 
   [2024.03]
+
+- Xu, Binwei and Jiang, Qiuping and Zhao, Xing and Lu, Chenyang and Liang, Haoran and Liang, Ronghua.<br />
+  "Multidimensional Exploration of Segment Anything Model for Weakly Supervised Video Salient Object Detection." TCSVT  (2024).
+  [[paper](https://ieeexplore.ieee.org/document/10443051)] 
+  [2024.02]
 
 - **OHTA:** Xiaozheng Zheng, Chao Wen, Zhuo Su, Zeran Xu, Zhaohu Li, Yang Zhao, Zhou Xue.<br />
   "OHTA: One-shot Hand Avatar via Data-driven Implicit Priors." CVPR (2024).
