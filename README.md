@@ -214,6 +214,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**InstanceSAM2Eval:** Tiantian Zhang, Zhangjun Zhou, Jialun Pei.<br />
+  "Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.02567)] 
+  [[code](https://github.com/PJLallen/InstanceSAM2Eval)]
+  [2024.09]
+
 :boom:**Curriculum-Prompting:** Xiuqi Zheng, Yuhang Zhang, Haoran Zhang, Hongrui Liang, Xueqi Bao, Zhuqing Jiang, Qicheng Lao.<br />
   "Curriculum Prompting Foundation Models for Medical Image Segmentation." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2409.00695)] 
