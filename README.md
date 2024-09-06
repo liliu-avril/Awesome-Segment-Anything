@@ -214,6 +214,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**FrozenSeg:** Xi Chen, Haosen Yang, Sheng Jin, Xiatian Zhu, Hongxun Yao.<br />
+  "FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.03525)] 
+  [[code](https://github.com/chenxi52/FrozenSeg)]
+  [2024.09]
+
+:boom:**TG-LMM:** Yihao Zhao, Enhao Zhong, Cuiyun Yuan, Yang Li, Man Zhao, Chunxia Li, Jun Hu, Chenbin Liu.<br />
+  "TG-LMM: Enhancing Medical Image Segmentation Accuracy through Text-Guided Large Multi-Modal Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.03412)] 
+  [2024.09]
+
 :boom:**InstanceSAM2Eval:** Tiantian Zhang, Zhangjun Zhou, Jialun Pei.<br />
   "Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.02567)] 
