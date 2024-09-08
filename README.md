@@ -214,6 +214,54 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**M2Trans:** Ni, Zhangkai and Xiao, Runyu and Yang, Wenhan and Wang, Hanli and Wang, Zhihua and Xiang, Lihua and Sun, Liping.<br />
+  "M2Trans: Multi-Modal Regularized Coarse-to-Fine Transformer for Ultrasound Image Super-Resolution." IEEE Journal of Biomedical and Health Informatics (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10663841)] 
+  [2024.09]
+
+:boom:Pablo Delgado-Rodriguez, Roman Kinakh, Rafael Aldabe, Arrate Munoz-Barrutia.<br />
+  "SAM-based Automatic Workflow for Histology Cyst Segmentation in Autosomal Dominant Polycystic Kidney Disease." ArXiv (2024).
+  [[paper](https://www.biorxiv.org/content/10.1101/2024.09.02.610807v1.abstract)] 
+  [2024.09]
+
+:boom:**pix2pixGAN:** Amir Syahmi, Xiangrong Lu, Yinxuan Li, Haoxuan Yao, Hanjun Jiang, Ishita Acharya, Shiyi Wang, Yang Nan, Xiaodan Xing, Guang Yang.<br />
+  "Coupling AI and Citizen Science in Creation of Enhanced Training Dataset for Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.03087)] 
+  [[code](https://github.com/Am1rSy/SGC-Enhanced-Dataset)]
+  [2024.09]
+
+:boom:**BF-SAM::** Zhaoya Gong, Binbo Li, Chenglong Wang, Jun Chen & Pengjun Zhao.<br />
+  "BF-SAM: enhancing SAM through multi-modal fusion for fine-grained building function identification." International Journal of Geographical Information Science (2024).
+  [[paper](https://www.tandfonline.com/doi/abs/10.1080/13658816.2024.2399142)] 
+  [2024.09]
+
+:boom:**LOBSTAR:** Yanming Xiu, Tim Scargill, Maria Gorlatova.<br />
+  "LOBSTAR: Language Model-based Obstruction Detection for Augmented Reality." ArXiv (2024).
+  [[paper](https://www.researchgate.net/profile/Maria-Gorlatova-2/publication/383427522_LOBSTAR_Language_Model-based_Obstruction_Detection_for_Augmented_Reality/links/66cd31c575613475fe7f5d6e/LOBSTAR-Language-Model-based-Obstruction-Detection-for-Augmented-Reality.pdf)] 
+  [2024.09]
+
+:boom:Sebastian Sepulveda, Benjamin Bustos, Ivan Sipiran.<br />
+  "Repetitive Patterns Recognition in Textures of Ancient Peruvian Pottery." ACM Journal on Computing and Cultural Heritage (2024).
+  [[paper](https://dl.acm.org/doi/abs/10.1145/3694789)] 
+  [2024.09]
+
+:boom:**RoVi-Aug:** Lawrence Yunliang Chen, Chenfeng Xu, Karthik Dharmarajan, Zubair Irshad, Richard Cheng, Kurt Keutzer, Masayoshi Tomizuka, Quan Vuong, Ken Goldberg.<br />
+  "RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning." CoRL (2024).
+  [[paper](https://arxiv.org/abs/2409.03403)] 
+  [2024.09]
+
+:boom:**DecoAD:** Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, Xu Yu, Shanchen Pang.<br />
+  "Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.03236)] 
+  [[code](https://github.com/liuxy3366/DecoAD)]
+  [2024.09]
+
+:boom:**MouseSIS:** Friedhelm Hamann, Hanxiong Li, Paul Mieske, Lars Lewejohann, Guillermo Gallego.<br />
+  "MouseSIS: A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice." ECCVW (2024).
+  [[paper](https://arxiv.org/abs/2409.03358)] 
+  [[code](https://github.com/tub-rip/MouseSIS)]
+  [2024.09]
+
 :boom:**FrozenSeg:** Xi Chen, Haosen Yang, Sheng Jin, Xiatian Zhu, Hongxun Yao.<br />
   "FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.03525)] 
