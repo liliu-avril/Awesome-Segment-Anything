@@ -214,134 +214,146 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**M2Trans:** Ni, Zhangkai and Xiao, Runyu and Yang, Wenhan and Wang, Hanli and Wang, Zhihua and Xiang, Lihua and Sun, Liping.<br />
+:boom:**EGFS:** Ting-Ru Liu, Hsuan-Kung Yang, Jou-Min Liu, Chun-Wei Huang, Tsung-Chih Chiang, Quan Kong, Norimasa Kobori, Chun-Yi Lee.<br />
+  "Reprojection Errors as Prompts for Efficient Scene Coordinate Regression." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2409.04178)] 
+  [[code](https://tingru0203.github.io/egfs)]
+  [2024.09]
+
+:boom:**FS-MedSAM2:** Yunhao Bai, Qinji Yu, Boxiang Yun, Dakai Jin, Yingda Xia, Yan Wang.<br />
+  "FS-MedSAM2: Exploring the Potential of SAM2 for Few-Shot Medical Image Segmentation without Fine-tuning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.04298)] 
+  [[code](https://github.com/DeepMed-Lab-ECNU/FS_MedSAM2)]
+  [2024.09]
+
+- **M2Trans:** Ni, Zhangkai and Xiao, Runyu and Yang, Wenhan and Wang, Hanli and Wang, Zhihua and Xiang, Lihua and Sun, Liping.<br />
   "M2Trans: Multi-Modal Regularized Coarse-to-Fine Transformer for Ultrasound Image Super-Resolution." IEEE Journal of Biomedical and Health Informatics (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10663841)] 
   [2024.09]
 
-:boom:Pablo Delgado-Rodriguez, Roman Kinakh, Rafael Aldabe, Arrate Munoz-Barrutia.<br />
+- Pablo Delgado-Rodriguez, Roman Kinakh, Rafael Aldabe, Arrate Munoz-Barrutia.<br />
   "SAM-based Automatic Workflow for Histology Cyst Segmentation in Autosomal Dominant Polycystic Kidney Disease." ArXiv (2024).
   [[paper](https://www.biorxiv.org/content/10.1101/2024.09.02.610807v1.abstract)] 
   [2024.09]
 
-:boom:**pix2pixGAN:** Amir Syahmi, Xiangrong Lu, Yinxuan Li, Haoxuan Yao, Hanjun Jiang, Ishita Acharya, Shiyi Wang, Yang Nan, Xiaodan Xing, Guang Yang.<br />
+- **pix2pixGAN:** Amir Syahmi, Xiangrong Lu, Yinxuan Li, Haoxuan Yao, Hanjun Jiang, Ishita Acharya, Shiyi Wang, Yang Nan, Xiaodan Xing, Guang Yang.<br />
   "Coupling AI and Citizen Science in Creation of Enhanced Training Dataset for Medical Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.03087)] 
   [[code](https://github.com/Am1rSy/SGC-Enhanced-Dataset)]
   [2024.09]
 
-:boom:**BF-SAM::** Zhaoya Gong, Binbo Li, Chenglong Wang, Jun Chen & Pengjun Zhao.<br />
+- **BF-SAM::** Zhaoya Gong, Binbo Li, Chenglong Wang, Jun Chen & Pengjun Zhao.<br />
   "BF-SAM: enhancing SAM through multi-modal fusion for fine-grained building function identification." International Journal of Geographical Information Science (2024).
   [[paper](https://www.tandfonline.com/doi/abs/10.1080/13658816.2024.2399142)] 
   [2024.09]
 
-:boom:**LOBSTAR:** Yanming Xiu, Tim Scargill, Maria Gorlatova.<br />
+- **LOBSTAR:** Yanming Xiu, Tim Scargill, Maria Gorlatova.<br />
   "LOBSTAR: Language Model-based Obstruction Detection for Augmented Reality." ArXiv (2024).
   [[paper](https://www.researchgate.net/profile/Maria-Gorlatova-2/publication/383427522_LOBSTAR_Language_Model-based_Obstruction_Detection_for_Augmented_Reality/links/66cd31c575613475fe7f5d6e/LOBSTAR-Language-Model-based-Obstruction-Detection-for-Augmented-Reality.pdf)] 
   [2024.09]
 
-:boom:Sebastian Sepulveda, Benjamin Bustos, Ivan Sipiran.<br />
+- Sebastian Sepulveda, Benjamin Bustos, Ivan Sipiran.<br />
   "Repetitive Patterns Recognition in Textures of Ancient Peruvian Pottery." ACM Journal on Computing and Cultural Heritage (2024).
   [[paper](https://dl.acm.org/doi/abs/10.1145/3694789)] 
   [2024.09]
 
-:boom:**RoVi-Aug:** Lawrence Yunliang Chen, Chenfeng Xu, Karthik Dharmarajan, Zubair Irshad, Richard Cheng, Kurt Keutzer, Masayoshi Tomizuka, Quan Vuong, Ken Goldberg.<br />
+- **RoVi-Aug:** Lawrence Yunliang Chen, Chenfeng Xu, Karthik Dharmarajan, Zubair Irshad, Richard Cheng, Kurt Keutzer, Masayoshi Tomizuka, Quan Vuong, Ken Goldberg.<br />
   "RoVi-Aug: Robot and Viewpoint Augmentation for Cross-Embodiment Robot Learning." CoRL (2024).
   [[paper](https://arxiv.org/abs/2409.03403)] 
   [2024.09]
 
-:boom:**DecoAD:** Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, Xu Yu, Shanchen Pang.<br />
+- **DecoAD:** Chenglizhao Chen, Xinyu Liu, Mengke Song, Luming Li, Xu Yu, Shanchen Pang.<br />
   "Unveiling Context-Related Anomalies: Knowledge Graph Empowered Decoupling of Scene and Action for Human-Related Video Anomaly Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.03236)] 
   [[code](https://github.com/liuxy3366/DecoAD)]
   [2024.09]
 
-:boom:**MouseSIS:** Friedhelm Hamann, Hanxiong Li, Paul Mieske, Lars Lewejohann, Guillermo Gallego.<br />
+- **MouseSIS:** Friedhelm Hamann, Hanxiong Li, Paul Mieske, Lars Lewejohann, Guillermo Gallego.<br />
   "MouseSIS: A Frames-and-Events Dataset for Space-Time Instance Segmentation of Mice." ECCVW (2024).
   [[paper](https://arxiv.org/abs/2409.03358)] 
   [[code](https://github.com/tub-rip/MouseSIS)]
   [2024.09]
 
-:boom:**FrozenSeg:** Xi Chen, Haosen Yang, Sheng Jin, Xiatian Zhu, Hongxun Yao.<br />
+- **FrozenSeg:** Xi Chen, Haosen Yang, Sheng Jin, Xiatian Zhu, Hongxun Yao.<br />
   "FrozenSeg: Harmonizing Frozen Foundation Models for Open-Vocabulary Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.03525)] 
   [[code](https://github.com/chenxi52/FrozenSeg)]
   [2024.09]
 
-:boom:**TG-LMM:** Yihao Zhao, Enhao Zhong, Cuiyun Yuan, Yang Li, Man Zhao, Chunxia Li, Jun Hu, Chenbin Liu.<br />
+- **TG-LMM:** Yihao Zhao, Enhao Zhong, Cuiyun Yuan, Yang Li, Man Zhao, Chunxia Li, Jun Hu, Chenbin Liu.<br />
   "TG-LMM: Enhancing Medical Image Segmentation Accuracy through Text-Guided Large Multi-Modal Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.03412)] 
   [2024.09]
 
-:boom:**InstanceSAM2Eval:** Tiantian Zhang, Zhangjun Zhou, Jialun Pei.<br />
+- **InstanceSAM2Eval:** Tiantian Zhang, Zhangjun Zhou, Jialun Pei.<br />
   "Evaluation Study on SAM 2 for Class-agnostic Instance-level Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.02567)] 
   [[code](https://github.com/PJLallen/InstanceSAM2Eval)]
   [2024.09]
 
-:boom:**Curriculum-Prompting:** Xiuqi Zheng, Yuhang Zhang, Haoran Zhang, Hongrui Liang, Xueqi Bao, Zhuqing Jiang, Qicheng Lao.<br />
+- **Curriculum-Prompting:** Xiuqi Zheng, Yuhang Zhang, Haoran Zhang, Hongrui Liang, Xueqi Bao, Zhuqing Jiang, Qicheng Lao.<br />
   "Curriculum Prompting Foundation Models for Medical Image Segmentation." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2409.00695)] 
   [[code](https://github.com/AnnaZzz-zxq/Curriculum-Prompting)]
   [2024.09]
 
-:boom:**SAMTooth:** Yifan Liu, Wuyang Li, Cheng Wang, Hui Chen, Yixuan Yuan.<br />
+- **SAMTooth:** Yifan Liu, Wuyang Li, Cheng Wang, Hui Chen, Yixuan Yuan.<br />
   "When 3D Partial Points Meets SAM: Tooth Point Cloud Segmentation with Sparse Labels." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2409.01691)] 
   [[code](https://github.com/CUHK-AIM-Group/SAMTooth)]
   [2024.09]
 
-:boom:**DPDEdit:** Xiaolong Wang, Zhi-Qi Cheng, Jue Wang, Xiaojiang Peng.<br />
+- **DPDEdit:** Xiaolong Wang, Zhi-Qi Cheng, Jue Wang, Xiaojiang Peng.<br />
   "DPDEdit: Detail-Preserved Diffusion Models for Multimodal Fashion Image Editing." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.01086)] 
   [2024.09]
 
-:boom:Liang Geng.<br />
+- Liang Geng.<br />
   "Improving Apple Object Detection with Occlusion-Enhanced Distillation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.01573)] 
   [2024.09]
 
-:boom:**MedSAM-U:** Nan Zhou, Ke Zou, Kai Ren, Mengting Luo, Linchao He, Meng Wang, Yidi Chen, Yi Zhang, Hu Chen, Huazhu Fu.<br />
+- **MedSAM-U:** Nan Zhou, Ke Zou, Kai Ren, Mengting Luo, Linchao He, Meng Wang, Yidi Chen, Yi Zhang, Hu Chen, Huazhu Fu.<br />
   "MedSAM-U: Uncertainty-Guided Auto Multi-Prompt Adaptation for Reliable MedSAM." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.00924)] 
   [2024.09]
 
-:boom:**FCSAM:** He, Dongzhi and Ma, Zeyuan and Li, Chenxi and Li, Yunqi.<br />
+- **FCSAM:** He, Dongzhi and Ma, Zeyuan and Li, Chenxi and Li, Yunqi.<br />
   "Dual‑branch Fully Convolutional Segment Anything Model for Lesion Segmentation in Endoscopic Images." ACCESS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10646334)] 
   [2024.08]
 
-:boom:**PMHO:** Zhang, Shun and Long, Jihui and Xu, Yaohui and Mei, Shaohui.<br />
+- **PMHO:** Zhang, Shun and Long, Jihui and Xu, Yaohui and Mei, Shaohui.<br />
   "PMHO: Point-supervised Oriented Object Detection Based on Segmentation-Driven Proposal Generation." TGRS (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10649581)] 
   [2024.08]
 
-:boom:**CSAD:** Yu-Hsuan Hsieh, Shang-Hong Lai.<br />
+- **CSAD:** Yu-Hsuan Hsieh, Shang-Hong Lai.<br />
   "CSAD: Unsupervised Component Segmentation for Logical Anomaly Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.15628)] 
   [2024.08]
 
-:boom: Tanner D. Harms, Steven L. Brunton, Beverley J. McKeon.<br />
+- Tanner D. Harms, Steven L. Brunton, Beverley J. McKeon.<br />
   "Estimating Dynamic Flow Features in Groups of Tracked Objects." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.16190)] 
   [2024.08]
 
-:boom: Setu, J. H.; Islam, M.; Pasha, S. T.; Halder, N.; Hossain, E.; Mahmud, A.; Islam, A.; Alam, M. Z.; Amin, M. A.<br />
+- Setu, J. H.; Islam, M.; Pasha, S. T.; Halder, N.; Hossain, E.; Mahmud, A.; Islam, A.; Alam, M. Z.; Amin, M. A.<br />
   "Segment Anything Model (SAM 2) Unveiled: Functionality, Applications, and Practical Implementation Across Multiple Domains." ArXiv (2024).
   [[paper](https://www.preprints.org/manuscript/202408.1790/v1)] 
   [2024.08]
 
-:boom: Mani Abedini.<br />
+- Mani Abedini.<br />
   "Skin Cancer Classification by Leveraging Segment Anything Model for Semantic Segmentation of Skin Lesion." IJARCCE (2024).
 [[paper](https://www.researchgate.net/profile/Mani-Abedini/publication/383303969_Skin_Cancer_Classification_by_Leveraging_Segment_Anything_Model_for_Semantic_Segmentation_of_Skin_Lesion/links/66c77e1c920e05672e46371b/Skin-Cancer-Classification-by-Leveraging-Segment-Anything-Model-for-Semantic-Segmentation-of-Skin-Lesion.pdf)] 
   [2024.08]
 
-:boom:**Ensembled-SAMs:** Chen, Fei and Ge, Junyao and Zheng, Yang and Guo, Kaitai and Cao, Feng and Liang, Jimin.<br />
+- **Ensembled-SAMs:** Chen, Fei and Ge, Junyao and Zheng, Yang and Guo, Kaitai and Cao, Feng and Liang, Jimin.<br />
   "Ensembled-SAMs for Enhanced Small Coronary Artery Segmentation in CCTA Images." JBHI (2024).
   [[paper](https://ieeexplore.ieee.org/abstract/document/10652248)] 
   [2024.08]
 
-:boom:Deshui Miao, Yameng Gu, Xin Li, Zhenyu He, Yaowei Wang, Ming-Hsuan Yang.<br />
+- Deshui Miao, Yameng Gu, Xin Li, Zhenyu He, Yaowei Wang, Ming-Hsuan Yang.<br />
   "Discriminative Spatial-Semantic VOS Solution: 1st Place Solution for 6th LSVOS." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.16431)] 
   [[code](https://github.com/yahooo-m/VOS-Solution)]
