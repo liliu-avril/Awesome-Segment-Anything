@@ -240,11 +240,6 @@ If you find our work useful in your research, please consider citing:
   "Towards Generalizable Scene Change Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.06214)] 
   [2024.09]
-
-:boom:**GeSCF:** Jaewoo Kim, Uehwan Kim.<br />
-  "Towards Generalizable Scene Change Detection." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2409.06214)] 
-  [2024.09]
   
 :boom:Giulio Passerotti, Alberto Alberello, Marcello Vichi, Luke G. Bennetts, Alessandro Toffoli.<br />
   "Segmenting sea ice floes in close-range optical imagery with active contour and foundation models." ArXiv (2024).
