@@ -214,6 +214,38 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SimIRSTD:** Mingjin Zhang, Chi Zhang, Qiming Zhang, Yunsong Li, Xinbo Gao, Jing Zhang.<br />
+  "Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection." ACM MM (2024).
+  [[paper](https://arxiv.org/abs/2409.04714)] 
+  [[code](https://github.com/O937-blip/SimIR)]
+  [2024.09]
+
+:boom:**SSFam:** Zhengyi Liu, Sheng Deng, Xinrui Wang, Linbo Wang, Xianyong Fang, Bin Tang.<br />
+  "SSFam: Scribble Supervised Salient Object Detection Family." TMM (2024).
+  [[paper](https://arxiv.org/abs/2409.04817)] 
+  [[code](https://github.com/liuzywen/SSFam)]
+  [2024.09]
+
+:boom:**TAVP:** Jiaqi Yang, Ye Huang, Xiangjian He, Linlin Shen, Guoping Qiu.<br />
+  "TAVP: Task-Adaptive Visual Prompt for Cross-domain Few-shot Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.05393)] 
+  [2024.09]
+
+:boom:**AnomalyCD:** Jingtao Li, Qian Zhu, Xinyu Wang, Hengwei Zhao, Yanfei Zhong.<br />
+  "AnomalyCD: A benchmark for Earth anomaly change detection with high-resolution and time-series observations." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.05679)] 
+  [2024.09]
+
+:boom:**GeSCF:** Jaewoo Kim, Uehwan Kim.<br />
+  "Towards Generalizable Scene Change Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.06214)] 
+  [2024.09]
+
+:boom:Giulio Passerotti, Alberto Alberello, Marcello Vichi, Luke G. Bennetts, Alessandro Toffoli.<br />
+  "Segmenting sea ice floes in close-range optical imagery with active contour and foundation models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.06641)] 
+  [2024.09]
+
 :boom:**EGFS:** Ting-Ru Liu, Hsuan-Kung Yang, Jou-Min Liu, Chun-Wei Huang, Tsung-Chih Chiang, Quan Kong, Norimasa Kobori, Chun-Yi Lee.<br />
   "Reprojection Errors as Prompts for Efficient Scene Coordinate Regression." ECCV (2024).
   [[paper](https://arxiv.org/abs/2409.04178)] 
