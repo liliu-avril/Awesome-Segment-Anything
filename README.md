@@ -2506,6 +2506,13 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2404.01151)] 
   [2024.04]
 
+- **CoCoCo:** Bojia Zi, Shihao Zhao, Xianbiao Qi, Jianan Wang, Yukai Shi, Qianyu Chen, Bin Liang, Kam-Fai Wong, Lei Zhang.<br />
+  "CoCoCo: Improving Text-Guided Video Inpainting for Better Consistency, Controllability and Compatibility." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2403.12035)] 
+  [[project](http://cococozibojia.github.io/)]
+  [[code](https://github.com/zibojia/COCOCO)]
+  [2024.03]
+
 - **DeepSeek-VL:** Haoyu Lu, Wen Liu, Bo Zhang, Bingxuan Wang, Kai Dong, Bo Liu, Jingxiang Sun, Tongzheng Ren, Zhuoshu Li, Hao Yang, Yaofeng Sun, Chengqi Deng, Hanwei Xu, Zhenda Xie, Chong Ruan.<br />
   "DeepSeek-VL: Towards Real-World Vision-Language Understanding." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2403.05525)] 
