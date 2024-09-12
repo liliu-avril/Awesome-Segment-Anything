@@ -214,6 +214,33 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom: Shilin Hu, Hieu Le, ShahRukh Athar, Sagnik Das, Dimitris Samaras.<br />
+  "Shadow Removal Refinement via Material-Consistent Shadow Edges." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.06848)] 
+  [2024.09]
+
+:boom:**SoftShadow:** Xinrui Wang, Lanqing Guo, Xiyu Wang, Siyu Huang, Bihan Wen.<br />
+  "SoftShadow: Leveraging Penumbra-Aware Soft Masks for Shadow Removal." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.07041)] 
+  [[code](https://github.com/Xinrui014/SoftShadow/)]
+  [2024.09]
+
+:boom:**PaveSAM:** Neema Jakisa Owor, Yaw Adu-Gyamfi, Armstrong Aboah, Mark Amo-Boateng.<br />
+  "PaveSAM Segment Anything for Pavement Distress." Road Materials and Pavement Design (2024).
+  [[paper](https://arxiv.org/abs/2409.07295)] 
+  [2024.09]
+
+:boom:**Swin-LiteMedSAM:** Ruochen Gao, Donghang Lyu, Marius Staring.<br />
+  "Swin-LiteMedSAM: A Lightweight Box-Based Segment Anything Model for Large-Scale Medical Image Datasets." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.07172)] 
+  [[code](https://github.com/RuochenGao/Swin_LiteMedSAM)]
+  [2024.09]
+
+:boom:**Sam2Rad:** Assefa Seyoum Wahd, Banafshe Felfeliyan, Yuyue Zhou, Shrimanti Ghosh, Adam McArthur, Jiechen Zhang, Jacob L. Jaremko, Abhilash Hareendranathan.<br />
+  "Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.06821)] 
+  [2024.09]
+
 :boom:**SimIRSTD:** Mingjin Zhang, Chi Zhang, Qiming Zhang, Yunsong Li, Xinbo Gao, Jing Zhang.<br />
   "Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2409.04714)] 
