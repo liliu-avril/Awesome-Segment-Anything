@@ -214,6 +214,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**HQHSAM:** Kerem Cekmeceli, Meva Himmetoglu, Guney I. Tombak, Anna Susmelj, Ertunc Erdil, Ender Konukoglu.<br />
+  "Do Vision Foundation Models Enhance Domain Generalization in Medical Image Segmentation?." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.07960)] 
+  [[code](https://github.com/kerem-cekmeceli/Foundation-Models-for-Medical-Imagery)]
+  [2024.09]
+
+:boom:**SimMAT:** Chenyang Lei, Liyi Chen, Jun Cen, Xiao Chen, Zhen Lei, Felix Heide, Ziwei Liu, Qifeng Chen, Zhaoxiang Zhang.<br />
+  "SimMAT: Exploring Transferability from Vision Foundation Models to Any Image Modality." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.08083)] 
+  [[code](https://github.com/mt-cly/SimMAT)]
+  [2024.09]
+
 :boom: Shilin Hu, Hieu Le, ShahRukh Athar, Sagnik Das, Dimitris Samaras.<br />
   "Shadow Removal Refinement via Material-Consistent Shadow Edges." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.06848)] 
