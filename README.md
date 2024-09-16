@@ -214,84 +214,90 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**HQHSAM:** Kerem Cekmeceli, Meva Himmetoglu, Guney I. Tombak, Anna Susmelj, Ertunc Erdil, Ender Konukoglu.<br />
+:boom:**TP-Mamba:** Hualiang Wang, Yiqun Lin, Xinpeng Ding, Xiaomeng Li.<br />
+  "Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.08492)] 
+  [[code](https://github.com/xmed-lab/TP-Mamba)]
+  [2024.09]
+
+- **HQHSAM:** Kerem Cekmeceli, Meva Himmetoglu, Guney I. Tombak, Anna Susmelj, Ertunc Erdil, Ender Konukoglu.<br />
   "Do Vision Foundation Models Enhance Domain Generalization in Medical Image Segmentation?." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.07960)] 
   [[code](https://github.com/kerem-cekmeceli/Foundation-Models-for-Medical-Imagery)]
   [2024.09]
 
-:boom:**SimMAT:** Chenyang Lei, Liyi Chen, Jun Cen, Xiao Chen, Zhen Lei, Felix Heide, Ziwei Liu, Qifeng Chen, Zhaoxiang Zhang.<br />
+- **SimMAT:** Chenyang Lei, Liyi Chen, Jun Cen, Xiao Chen, Zhen Lei, Felix Heide, Ziwei Liu, Qifeng Chen, Zhaoxiang Zhang.<br />
   "SimMAT: Exploring Transferability from Vision Foundation Models to Any Image Modality." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.08083)] 
   [[code](https://github.com/mt-cly/SimMAT)]
   [2024.09]
 
-:boom: Shilin Hu, Hieu Le, ShahRukh Athar, Sagnik Das, Dimitris Samaras.<br />
+- Shilin Hu, Hieu Le, ShahRukh Athar, Sagnik Das, Dimitris Samaras.<br />
   "Shadow Removal Refinement via Material-Consistent Shadow Edges." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.06848)] 
   [2024.09]
 
-:boom:**SoftShadow:** Xinrui Wang, Lanqing Guo, Xiyu Wang, Siyu Huang, Bihan Wen.<br />
+- **SoftShadow:** Xinrui Wang, Lanqing Guo, Xiyu Wang, Siyu Huang, Bihan Wen.<br />
   "SoftShadow: Leveraging Penumbra-Aware Soft Masks for Shadow Removal." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.07041)] 
   [[code](https://github.com/Xinrui014/SoftShadow/)]
   [2024.09]
 
-:boom:**PaveSAM:** Neema Jakisa Owor, Yaw Adu-Gyamfi, Armstrong Aboah, Mark Amo-Boateng.<br />
+- **PaveSAM:** Neema Jakisa Owor, Yaw Adu-Gyamfi, Armstrong Aboah, Mark Amo-Boateng.<br />
   "PaveSAM Segment Anything for Pavement Distress." Road Materials and Pavement Design (2024).
   [[paper](https://arxiv.org/abs/2409.07295)] 
   [2024.09]
 
-:boom:**Swin-LiteMedSAM:** Ruochen Gao, Donghang Lyu, Marius Staring.<br />
+- **Swin-LiteMedSAM:** Ruochen Gao, Donghang Lyu, Marius Staring.<br />
   "Swin-LiteMedSAM: A Lightweight Box-Based Segment Anything Model for Large-Scale Medical Image Datasets." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.07172)] 
   [[code](https://github.com/RuochenGao/Swin_LiteMedSAM)]
   [2024.09]
 
-:boom:**Sam2Rad:** Assefa Seyoum Wahd, Banafshe Felfeliyan, Yuyue Zhou, Shrimanti Ghosh, Adam McArthur, Jiechen Zhang, Jacob L. Jaremko, Abhilash Hareendranathan.<br />
+- **Sam2Rad:** Assefa Seyoum Wahd, Banafshe Felfeliyan, Yuyue Zhou, Shrimanti Ghosh, Adam McArthur, Jiechen Zhang, Jacob L. Jaremko, Abhilash Hareendranathan.<br />
   "Sam2Rad: A Segmentation Model for Medical Images with Learnable Prompts." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.06821)] 
   [2024.09]
 
-:boom:**SimIRSTD:** Mingjin Zhang, Chi Zhang, Qiming Zhang, Yunsong Li, Xinbo Gao, Jing Zhang.<br />
+- **SimIRSTD:** Mingjin Zhang, Chi Zhang, Qiming Zhang, Yunsong Li, Xinbo Gao, Jing Zhang.<br />
   "Unleashing the Power of Generic Segmentation Models: A Simple Baseline for Infrared Small Target Detection." ACM MM (2024).
   [[paper](https://arxiv.org/abs/2409.04714)] 
   [[code](https://github.com/O937-blip/SimIR)]
   [2024.09]
 
-:boom:**SSFam:** Zhengyi Liu, Sheng Deng, Xinrui Wang, Linbo Wang, Xianyong Fang, Bin Tang.<br />
+- **SSFam:** Zhengyi Liu, Sheng Deng, Xinrui Wang, Linbo Wang, Xianyong Fang, Bin Tang.<br />
   "SSFam: Scribble Supervised Salient Object Detection Family." TMM (2024).
   [[paper](https://arxiv.org/abs/2409.04817)] 
   [[code](https://github.com/liuzywen/SSFam)]
   [2024.09]
 
-:boom:**TAVP:** Jiaqi Yang, Ye Huang, Xiangjian He, Linlin Shen, Guoping Qiu.<br />
+- **TAVP:** Jiaqi Yang, Ye Huang, Xiangjian He, Linlin Shen, Guoping Qiu.<br />
   "TAVP: Task-Adaptive Visual Prompt for Cross-domain Few-shot Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.05393)] 
   [2024.09]
 
-:boom:**AnomalyCD:** Jingtao Li, Qian Zhu, Xinyu Wang, Hengwei Zhao, Yanfei Zhong.<br />
+- **AnomalyCD:** Jingtao Li, Qian Zhu, Xinyu Wang, Hengwei Zhao, Yanfei Zhong.<br />
   "AnomalyCD: A benchmark for Earth anomaly change detection with high-resolution and time-series observations." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.05679)] 
   [2024.09]
 
-:boom:**GeSCF:** Jaewoo Kim, Uehwan Kim.<br />
+- **GeSCF:** Jaewoo Kim, Uehwan Kim.<br />
   "Towards Generalizable Scene Change Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.06214)] 
   [2024.09]
   
-:boom:Giulio Passerotti, Alberto Alberello, Marcello Vichi, Luke G. Bennetts, Alessandro Toffoli.<br />
+- Giulio Passerotti, Alberto Alberello, Marcello Vichi, Luke G. Bennetts, Alessandro Toffoli.<br />
   "Segmenting sea ice floes in close-range optical imagery with active contour and foundation models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.06641)] 
   [2024.09]
 
-:boom:**EGFS:** Ting-Ru Liu, Hsuan-Kung Yang, Jou-Min Liu, Chun-Wei Huang, Tsung-Chih Chiang, Quan Kong, Norimasa Kobori, Chun-Yi Lee.<br />
+- **EGFS:** Ting-Ru Liu, Hsuan-Kung Yang, Jou-Min Liu, Chun-Wei Huang, Tsung-Chih Chiang, Quan Kong, Norimasa Kobori, Chun-Yi Lee.<br />
   "Reprojection Errors as Prompts for Efficient Scene Coordinate Regression." ECCV (2024).
   [[paper](https://arxiv.org/abs/2409.04178)] 
   [[code](https://tingru0203.github.io/egfs)]
   [2024.09]
 
-:boom:**FS-MedSAM2:** Yunhao Bai, Qinji Yu, Boxiang Yun, Dakai Jin, Yingda Xia, Yan Wang.<br />
+- **FS-MedSAM2:** Yunhao Bai, Qinji Yu, Boxiang Yun, Dakai Jin, Yingda Xia, Yan Wang.<br />
   "FS-MedSAM2: Exploring the Potential of SAM2 for Few-Shot Medical Image Segmentation without Fine-tuning." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.04298)] 
   [[code](https://github.com/DeepMed-Lab-ECNU/FS_MedSAM2)]
