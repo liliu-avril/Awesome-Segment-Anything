@@ -28,8 +28,6 @@ ____
 - 2023.04.05: The paper of "Segment Anything" was online.
 ```
 
-
-
 ## Contents
 - [Survey](#survey)
 - [Paper List](#paper-list) 
@@ -218,6 +216,32 @@ If you find our work useful in your research, please consider citing:
   "Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.08492)] 
   [[code](https://github.com/xmed-lab/TP-Mamba)]
+  [2024.09]
+
+:boom:Henninger, S.; Kellner, M.; Rombach, B.; Reiterer, A.<br />
+  "Reducing Training Data Using Pre-Trained Foundation Models: A Case Study on Traffic Sign Segmentation Using the Segment Anything Model." Journal of Imaging (2024).
+  [[paper](https://www.mdpi.com/2313-433X/10/9/220)] 
+  [2024.09]
+
+:boom:Hayoung Lee1 , Kwangseob Kim2 , Kiwon Lee.<br />
+  "Application of Geo-Segment Anything Model (SAM) Scheme to Water Body Segmentation: An Experiment Study Using CAS500-1 Images." Korean Journal of Remote Sensing (2024).
+  [[paper](https://koreascience.kr/article/JAKO202424843419904.page)] 
+  [2024.09]
+
+:boom:**YOLOv5-n and EdgeSAM-3×:** Hongtao Li,Yong Yang,Shengping Wang,Zhigao Chen &Linbang He.<br />
+  "Automatic detection and extraction of lost shipping containers based on YOLO and the segment anything model." 
+Remote Sensing Letters (2024).
+  [[paper](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2024.2398814)] 
+  [2024.09]
+
+:boom:Kulyabin M, Zhdanov A, Pershin A, et al.<br />
+  "Segment Anything in OCT: SAM 2 for Volumetric Segmentation of Retinal Biomarkers." ArXiv (2024).
+  [[paper](https://www.preprints.org/manuscript/202409.0703/v1)] 
+  [2024.09]
+
+:boom:**WaterSAM:** Hong, Yang, Xiaowei Zhou, Ruzhuang Hua, Qingxuan Lv, and Junyu Dong.<br />
+  "WaterSAM: Adapting SAM for Underwater Object Segmentation." Journal of Marine Science and Engineering (2024).
+  [[paper](https://www.mdpi.com/2077-1312/12/9/1616)] 
   [2024.09]
 
 - **HQHSAM:** Kerem Cekmeceli, Meva Himmetoglu, Guney I. Tombak, Anna Susmelj, Ertunc Erdil, Ender Konukoglu.<br />
