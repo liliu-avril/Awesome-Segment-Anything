@@ -212,6 +212,28 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**AMRF:** Zheming Zuo, Joseph Smith, Jonathan Stonehouse, Boguslaw Obara.<br />
+  "An Augmentation-based Model Re-adaptation Framework for Robust Image Segmentation." ECCVW (2024).
+  [[paper](https://arxiv.org/abs/2409.09530)] 
+  [2024.09]
+
+:boom:Xin Hu, Janet Wang, Jihun Hamm, Rie R Yotsu, Zhengming Ding.<br />
+  "Enhancing Skin Disease Diagnosis: Interpretable Visual Concept Discovery with SAM Empowerment." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.09520)] 
+  [2024.09]
+
+:boom:**YOLO-SAM 2:** Mobina Mansoori, Sajjad Shahabodini, Jamshid Abouei, Konstantinos N. Plataniotis, Arash Mohammadi.<br />
+  "Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.09484)] 
+  [[code](https://github.com/sajjad-sh33/YOLO_SAM2)]
+  [2024.09]
+
+:boom:**SAM-OCTA2:** Xinrun Chen, Chengliang Wang, Haojian Ning, Mengzhan Zhang, Mei Shen, Shiying Li.<br />
+  "SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.09286)] 
+  [[code](https://github.com/ShellRedia/SAM-OCTA2)]
+  [2024.09]
+
 :boom:**TP-Mamba:** Hualiang Wang, Yiqun Lin, Xinpeng Ding, Xiaomeng Li.<br />
   "Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.08492)] 
