@@ -212,6 +212,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM4MLLM:** Yi-Chia Chen, Wei-Hua Li, Cheng Sun, Yu-Chiang Frank Wang, Chu-Song Chen.<br />
+  "SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2409.10542)] 
+  [[code](https://github.com/AI-Application-and-Integration-Lab/SAM4MLLM)]
+  [2024.09]
+
 :boom:**AMRF:** Zheming Zuo, Joseph Smith, Jonathan Stonehouse, Boguslaw Obara.<br />
   "An Augmentation-based Model Re-adaptation Framework for Robust Image Segmentation." ECCVW (2024).
   [[paper](https://arxiv.org/abs/2409.09530)] 
