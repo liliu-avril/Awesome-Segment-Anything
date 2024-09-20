@@ -212,6 +212,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**DAPSAM:** Zhikai Wei, Wenhui Dong, Peilin Zhou, Yuliang Gu, Zhou Zhao, Yongchao Xu.<br />
+  "Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2409.12522)] 
+  [[code](https://github.com/wkklavis/DAPSAM)]
+  [2024.09]
+
+:boom:**GraspSAM:** Sangjun Noh, Jongwon Kim, Dongwoo Nam, Seunghyeok Back, Raeyoung Kang, Kyoobin Lee.<br />
+  "GraspSAM: When Segment Anything Model Meets Grasp Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.12521)] 
+  [[code](https://gistailab.github.io/graspsam/)]
+  [2024.09]
+
+:boom:**FGSA-Net:** Shizhou Zhang, Dexuan Kong, Yinghui Xing, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang.<br />
+  "Frequency-Guided Spatial Adaptation for Camouflaged Object Detection." IEEE TMM (2024).
+  [[paper](https://arxiv.org/abs/2409.12421)] 
+  [2024.09]
+
 :boom:**SAM4MLLM:** Yi-Chia Chen, Wei-Hua Li, Cheng Sun, Yu-Chiang Frank Wang, Chu-Song Chen.<br />
   "SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation." ECCV (2024).
   [[paper](https://arxiv.org/abs/2409.10542)] 
