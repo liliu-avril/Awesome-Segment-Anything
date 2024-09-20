@@ -5273,6 +5273,11 @@ Spatial Information Research (2024).
   [[code](https://github.com/SUDO-AI-3D/zero123plus)]
   [2023.10] 
 
+- **CoralVOS:** Zheng Ziqiang, Xie Yaofeng, Liang Haixin, Yu Zhibin, Sai-Kit Yeung.<br />
+  "CoralVOS: Dataset and Benchmark for Coral Video Segmentation." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2310.01946)] 
+  [2023.10]
+
 - **ConceptFusion:** Krishna Murthy Jatavallabhula, Alihusein Kuwajerwala, Qiao Gu, Mohd Omama, Tao Chen, Alaa Maalouf, Shuang Li, Ganesh Iyer, Soroush Saryazdi, Nikhil Keetha, Ayush Tewari, Joshua B. Tenenbaum, Celso Miguel de Melo, Madhava Krishna, Liam Paull, Florian Shkurti, Antonio Torralba.<br />
   "ConceptFusion: Open-set Multimodal 3D Mapping." RSS (2023).
   [[paper](https://arxiv.org/abs/2302.07241)] 
