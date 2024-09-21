@@ -5966,7 +5966,7 @@ Spatial Information Research (2024).
   [[paper](https://arxiv.org/abs/2308.05785)] 
   [2023.08]
 
-- **FAn :** Alaa Maalouf, Ninad Jadhav, Krishna Murthy Jatavallabhula, Makram Chahine, Daniel M. Vogt, Robert J. Wood, Antonio Torralba, Daniela Rus.<br />
+- **FAn:** Alaa Maalouf, Ninad Jadhav, Krishna Murthy Jatavallabhula, Makram Chahine, Daniel M. Vogt, Robert J. Wood, Antonio Torralba, Daniela Rus.<br />
   "Follow Anything: Open-set detection, tracking, and following in real-time." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2308.05737)] 
   [[code](https://github.com/alaamaalouf/FollowAnything)]
