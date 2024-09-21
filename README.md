@@ -6154,7 +6154,7 @@ Spatial Information Research (2024).
   [[code](https://github.com/vision4robotics/SAM-DA)]
   [2023.07]
 
-- **RefSAM:** Yonglin Li, Jing Zhang, Xiao Teng, Long Lan.<br />
+- **RefSAM:** Yonglin Li, Jing Zhang, Xiao Teng, Long Lan, Xinwang Liu.<br />
   "RefSAM: Efficiently Adapting Segmenting Anything Model for Referring Video Object Segmentation." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2307.00997)] 
   [[code](https://github.com/LancasterLi/RefSAM)]
