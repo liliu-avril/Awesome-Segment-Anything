@@ -4491,7 +4491,7 @@ Spatial Information Research (2024).
   [2023.12]
 
 - Yao-Chih Lee, Zhoutong Zhang, Kevin Blackburn-Matzen, Simon Niklaus, Jianming Zhang, Jia-Bin Huang, Feng Liu.<br />
-  "Fast View Synthesis of Casual Videos." ArXiv (2023).
+  "Fast View Synthesis of Casual Videos with Soup-of-Planes." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.02135)] 
   [[code](https://casual-fvs.github.io/)]
   [2023.12]
