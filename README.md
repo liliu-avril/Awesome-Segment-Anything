@@ -6466,6 +6466,12 @@ Spatial Information Research (2024).
   [[paper]( https://arxiv.org/abs/2306.00499)] 
   [[code]( https://github.com/yifangao112/DeSAM)]
   [2023.06]
+  
+- **SAM-Track:** Yangming Cheng, Liulei Li, Yuanyou Xu, Xiaodi Li, Zongxin Yang, Wenguan Wang, Yi Yang.<br />
+  "Segment and Track Anything." ArXiv (2023).
+  [[paper](https://arxiv.org/abs/2305.06558)] 
+  [[code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
+  [2023.05]
 
 - **SAMText:** Haibin He, Jing Zhang, Mengyang Xu, Juhua Liu, Bo Du, Dacheng Tao.<br />
   "Scalable Mask Annotation for Video Text Spotting." ArXiv (2023).
