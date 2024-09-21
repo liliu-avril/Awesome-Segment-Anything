@@ -3195,6 +3195,12 @@ Spatial Information Research (2024).
   [[paper](https://ieeexplore.ieee.org/document/10443051)] 
   [2024.02]
 
+- **GVA:** Xinqi Liu, Chenming Wu, Jialun Liu, Xing Liu, Jinbo Wu, Chen Zhao, Haocheng Feng, Errui Ding, Jingdong Wang.<br />
+  "GVA: Reconstructing Vivid 3D Gaussian Avatars from Monocular Videos." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2402.16607)] 
+  [[code](https://3d-aigc.github.io/GVA/)]
+  [2024.02]
+
 - **OHTA:** Xiaozheng Zheng, Chao Wen, Zhuo Su, Zeran Xu, Zhaohu Li, Yang Zhao, Zhou Xue.<br />
   "OHTA: One-shot Hand Avatar via Data-driven Implicit Priors." CVPR (2024).
   [[paper](https://arxiv.org/abs/2402.18969)] 
