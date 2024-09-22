@@ -212,79 +212,119 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**DAPSAM:** Zhikai Wei, Wenhui Dong, Peilin Zhou, Yuliang Gu, Zhou Zhao, Yongchao Xu.<br />
+:boom:Ali, L., Alnajjar, F., Swavaf, M. et al.<br />
+  "Evaluating segment anything model (SAM) on MRI scans of brain tumors." Scientific Reports (2024).
+  [[paper](https://www.nature.com/articles/s41598-024-72342-x)] 
+  [2024.09]
+
+:boom:**SAM-RSIS:** Luo, Muying and Zhang, Tao and Wei, Shiqing and Ji, Shunping.<br />
+  "SAM-RSIS: progressively adapting SAM with box prompting to remote sensing image instance segmentation." IEEE Transactions on Geoscience and Remote Sensing (2024).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/10680168)] 
+  [2024.09]
+
+:boom:**EmbSAM:** Cunmin Zhao, Zelin Li, Pei Zhang, Yixuan Chen, Pohao Ye, Ming-Kin Wong, Lu-Yan Chan, Hong Yan, Chao Tang, Guoye Guan,  Zhongying Zhao.<br />
+  "EmbSAM: Cell boundary localization and Segment Anything Model for fast images of developing embryos." ArXiv (2024).
+  [[paper](https://www.biorxiv.org/content/10.1101/2024.09.07.611795v1.abstract)] 
+  [2024.09]
+
+:boom: Bengtsson B R, Bengs J.<br />
+  "Accelerated Segmentation with Mixed-Precision Quantization of EfficientViT-SAM." ArXiv (2024).
+[[paper](https://lup.lub.lu.se/luur/download?func=downloadFile&recordOId=9174462&fileOId=9174463)] 
+  [2024.09]
+
+:boom:Pengzhou Cai, Xueyuan Zhang, Libin Lan, Ze Zhao.<br />
+  "Cross-Organ and Cross-Scanner Adenocarcinoma Segmentation using Rein to Fine-tune Vision Foundation Models." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.11752)] 
+  [[code](https://github.com/ZhiJianLife/cosas2024_Zhijian-Life)]
+  [2024.09]
+
+:boom:Ali, L., Alnajjar, F., Swavaf, M. et al.<br />
+  "Evaluating segment anything model (SAM) on MRI scans of brain tumors." Scientific Reports (2024).
+  [[paper](https://www.nature.com/articles/s41598-024-72342-x)] 
+  [2024.09]
+
+:boom:Sigurðardóttir, Andrea Rakel, Hildur Inga Sveinsdóttir, Nette Schultz, Hafsteinn Einarsson, and María Gudjónsdóttir.<br />
+  "Sequence Segmentation of Nematodes in Atlantic Cod with Multispectral Imaging Data." Foods (2024).
+[[paper](https://www.mdpi.com/2304-8158/13/18/2952#:~:text=VideometerLab%204,%20an%20advanced%20Multispectral%20Imaging)] 
+  [2024.09]
+
+:boom: Kulyabin, Mikhail, Aleksei Zhdanov, Andrey Pershin, Gleb Sokolov, Anastasia Nikiforova, Mikhail Ronkin, Vasilii Borisov, and Andreas Maier.<br />
+  "Segment Anything in Optical Coherence Tomography: SAM 2 for Volumetric Segmentation of Retinal Biomarkers." Bioengineering (2024).
+[[paper](https://www.mdpi.com/2306-5354/11/9/940#:~:text=Optical%20coherence%20tomography%20(OCT)%20is%20a)] 
+  [2024.09]
+
+- **DAPSAM:** Zhikai Wei, Wenhui Dong, Peilin Zhou, Yuliang Gu, Zhou Zhao, Yongchao Xu.<br />
   "Prompting Segment Anything Model with Domain-Adaptive Prototype for Generalizable Medical Image Segmentation." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2409.12522)] 
   [[code](https://github.com/wkklavis/DAPSAM)]
   [2024.09]
 
-:boom:**GraspSAM:** Sangjun Noh, Jongwon Kim, Dongwoo Nam, Seunghyeok Back, Raeyoung Kang, Kyoobin Lee.<br />
+- **GraspSAM:** Sangjun Noh, Jongwon Kim, Dongwoo Nam, Seunghyeok Back, Raeyoung Kang, Kyoobin Lee.<br />
   "GraspSAM: When Segment Anything Model Meets Grasp Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.12521)] 
   [[code](https://gistailab.github.io/graspsam/)]
   [2024.09]
 
-:boom:**FGSA-Net:** Shizhou Zhang, Dexuan Kong, Yinghui Xing, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang.<br />
+- **FGSA-Net:** Shizhou Zhang, Dexuan Kong, Yinghui Xing, Yue Lu, Lingyan Ran, Guoqiang Liang, Hexu Wang, Yanning Zhang.<br />
   "Frequency-Guided Spatial Adaptation for Camouflaged Object Detection." IEEE TMM (2024).
   [[paper](https://arxiv.org/abs/2409.12421)] 
   [2024.09]
 
-:boom:**SAM4MLLM:** Yi-Chia Chen, Wei-Hua Li, Cheng Sun, Yu-Chiang Frank Wang, Chu-Song Chen.<br />
+- **SAM4MLLM:** Yi-Chia Chen, Wei-Hua Li, Cheng Sun, Yu-Chiang Frank Wang, Chu-Song Chen.<br />
   "SAM4MLLM: Enhance Multi-Modal Large Language Model for Referring Expression Segmentation." ECCV (2024).
   [[paper](https://arxiv.org/abs/2409.10542)] 
   [[code](https://github.com/AI-Application-and-Integration-Lab/SAM4MLLM)]
   [2024.09]
 
-:boom:**AMRF:** Zheming Zuo, Joseph Smith, Jonathan Stonehouse, Boguslaw Obara.<br />
+- **AMRF:** Zheming Zuo, Joseph Smith, Jonathan Stonehouse, Boguslaw Obara.<br />
   "An Augmentation-based Model Re-adaptation Framework for Robust Image Segmentation." ECCVW (2024).
   [[paper](https://arxiv.org/abs/2409.09530)] 
   [2024.09]
 
-:boom:Xin Hu, Janet Wang, Jihun Hamm, Rie R Yotsu, Zhengming Ding.<br />
+- Xin Hu, Janet Wang, Jihun Hamm, Rie R Yotsu, Zhengming Ding.<br />
   "Enhancing Skin Disease Diagnosis: Interpretable Visual Concept Discovery with SAM Empowerment." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.09520)] 
   [2024.09]
 
-:boom:**YOLO-SAM 2:** Mobina Mansoori, Sajjad Shahabodini, Jamshid Abouei, Konstantinos N. Plataniotis, Arash Mohammadi.<br />
+- **YOLO-SAM 2:** Mobina Mansoori, Sajjad Shahabodini, Jamshid Abouei, Konstantinos N. Plataniotis, Arash Mohammadi.<br />
   "Self-Prompting Polyp Segmentation in Colonoscopy using Hybrid Yolo-SAM 2 Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.09484)] 
   [[code](https://github.com/sajjad-sh33/YOLO_SAM2)]
   [2024.09]
 
-:boom:**SAM-OCTA2:** Xinrun Chen, Chengliang Wang, Haojian Ning, Mengzhan Zhang, Mei Shen, Shiying Li.<br />
+- **SAM-OCTA2:** Xinrun Chen, Chengliang Wang, Haojian Ning, Mengzhan Zhang, Mei Shen, Shiying Li.<br />
   "SAM-OCTA2: Layer Sequence OCTA Segmentation with Fine-tuned Segment Anything Model 2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.09286)] 
   [[code](https://github.com/ShellRedia/SAM-OCTA2)]
   [2024.09]
 
-:boom:**TP-Mamba:** Hualiang Wang, Yiqun Lin, Xinpeng Ding, Xiaomeng Li.<br />
+- **TP-Mamba:** Hualiang Wang, Yiqun Lin, Xinpeng Ding, Xiaomeng Li.<br />
   "Tri-Plane Mamba: Efficiently Adapting Segment Anything Model for 3D Medical Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.08492)] 
   [[code](https://github.com/xmed-lab/TP-Mamba)]
   [2024.09]
 
-:boom:Henninger, S.; Kellner, M.; Rombach, B.; Reiterer, A.<br />
+- Henninger, S.; Kellner, M.; Rombach, B.; Reiterer, A.<br />
   "Reducing Training Data Using Pre-Trained Foundation Models: A Case Study on Traffic Sign Segmentation Using the Segment Anything Model." Journal of Imaging (2024).
   [[paper](https://www.mdpi.com/2313-433X/10/9/220)] 
   [2024.09]
 
-:boom:Hayoung Lee1 , Kwangseob Kim2 , Kiwon Lee.<br />
+- Hayoung Lee1 , Kwangseob Kim2 , Kiwon Lee.<br />
   "Application of Geo-Segment Anything Model (SAM) Scheme to Water Body Segmentation: An Experiment Study Using CAS500-1 Images." Korean Journal of Remote Sensing (2024).
   [[paper](https://koreascience.kr/article/JAKO202424843419904.page)] 
   [2024.09]
 
-:boom:**YOLOv5-n and EdgeSAM-3×:** Hongtao Li,Yong Yang,Shengping Wang,Zhigao Chen &Linbang He.<br />
-  "Automatic detection and extraction of lost shipping containers based on YOLO and the segment anything model." 
-Remote Sensing Letters (2024).
+- **YOLOv5-n and EdgeSAM-3×:** Hongtao Li,Yong Yang,Shengping Wang,Zhigao Chen &Linbang He.<br />
+  "Automatic detection and extraction of lost shipping containers based on YOLO and the segment anything model."  Remote Sensing Letters (2024).
   [[paper](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2024.2398814)] 
   [2024.09]
 
-:boom:Kulyabin M, Zhdanov A, Pershin A, et al.<br />
+- Kulyabin M, Zhdanov A, Pershin A, et al.<br />
   "Segment Anything in OCT: SAM 2 for Volumetric Segmentation of Retinal Biomarkers." ArXiv (2024).
   [[paper](https://www.preprints.org/manuscript/202409.0703/v1)] 
   [2024.09]
 
-:boom:**WaterSAM:** Hong, Yang, Xiaowei Zhou, Ruzhuang Hua, Qingxuan Lv, and Junyu Dong.<br />
+- **WaterSAM:** Hong, Yang, Xiaowei Zhou, Ruzhuang Hua, Qingxuan Lv, and Junyu Dong.<br />
   "WaterSAM: Adapting SAM for Underwater Object Segmentation." Journal of Marine Science and Engineering (2024).
   [[paper](https://www.mdpi.com/2077-1312/12/9/1616)] 
   [2024.09]
