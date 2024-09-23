@@ -212,6 +212,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**MGLMM:** Li Zhou, Xu Yuan, Zenghui Sun, Zikun Zhou, Jingsong Lan.<br />
+  "Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.13407)] 
+  [[code](https://github.com/lizhou-cs/mglmm)]
+  [2024.09]
+
+:boom:**PointSAM:** Nanqing Liu, Xun Xu, Yongyi Su, Haojie Zhang, Heng-Chao Li.<br />
+  "PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.13401)] 
+  [[code](https://github.com/Lans1ng/PointSAM)]
+  [2024.09]
+
+:boom:**MCICSAM:** Guantian Huang, Beibei Li, Xiaobing Fan, Aritrick Chatterjee, Cheng Wei, Shouliang Qi, Wei Qian, Dianning He.<br />
+  "MCICSAM: Monte Carlo-guided Interpolation Consistency Segment Anything Model for Semi-Supervised Prostate Zone Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.13371)] 
+  [2024.09]
+
+:boom:Francis Ogoke, Sumesh Kalambettu Suresh, Jesse Adamczyk, Dan Bolintineanu, Anthony Garland, Michael Heiden, Amir Barati Farimani.<br />
+  "Deep Learning based Optical Image Super-Resolution via Generative Diffusion Models for Layerwise in-situ LPBF Monitoring." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.13171)] 
+  [2024.09]
+
+:boom:Michele Carlo La Greca, Mirko Usuelli, Matteo Matteucci.<br />
+  "Enhancing Agricultural Environment Perception via Active Vision and Zero-Shot Learning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.12602)] 
+  [[code](https://github.com/AIRLab-POLIMI/active-vision)]
+  [2024.09]
+
 :boom:Ali, L., Alnajjar, F., Swavaf, M. et al.<br />
   "Evaluating segment anything model (SAM) on MRI scans of brain tumors." Scientific Reports (2024).
   [[paper](https://www.nature.com/articles/s41598-024-72342-x)] 
