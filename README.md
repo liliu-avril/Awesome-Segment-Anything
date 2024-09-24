@@ -212,6 +212,46 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SOS:** Christian Wilms, Tim Rolff, Maris Hillemann, Robert Johanson, Simone Frintrop.<br />
+  "SOS: Segment Object System for Open-World Instance Segmentation With Object Priors." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2409.14627)] 
+  [[code](https://github.com/chwilms/SOS)]
+  [2024.09]
+
+:boom:**EvanySeg:** Ahjol Senbi, Tianyu Huang, Fei Lyu, Qing Li, Yuhui Tao, Wei Shao, Qiang Chen, Chengyan Wang, Shuo Wang, Tao Zhou, Yizhe Zhang.<br />
+  "Towards Ground-truth-free Evaluation of Any Segmentation in Medical Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.14874)] 
+  [[code](https://github.com/ahjolsenbics/EvanySeg)]
+  [2024.09]
+
+:boom:**SAMEdge:** Rui Lu, Siping Shi, Yanting Liu, Dan Wang.<br />
+  "SAMEdge: An Edge-cloud Video Analytics Architecture for the Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.14784)] 
+  [2024.09]
+
+:boom:**AdvImmu:** Wei-Bin Kou, Guangxu Zhu, Rongguang Ye, Shuai Wang, Qingfeng Lin, Ming Tang, Yik-Chung Wu.<br />
+  "An Adverse Weather-Immune Scheme with Unfolded Regularization and Foundation Model Knowledge Distillation for Street Scene Understanding." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.14737)] 
+  [[code](XXXXXXXXXXXXXXXXXXXXXX)]
+  [2024.09]
+
+:boom:**VTA:** Yuchen Hu, Yu Gu, Chenxing Li, Rilin Chen, Dong Yu.<br />
+  "Video-to-Audio Generation with Fine-grained Temporal Semantics." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.14709)] 
+  [[code](https://sounddemos.github.io/vta-sam/)]
+  [2024.09]
+
+:boom:Kundan Chaudhary, Subhei Shaar, Raja Muthinti.<br />
+  "Deep learning for fast segmentation and critical dimension metrology & characterization enabling AR/VR design and fabrication." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.13951)] 
+  [2024.09]
+
+:boom:**S-AModal:** Jasmin Breitenstein, Franz Jünger, Andreas Bär, Tim Fingscheidt.<br />
+  "Foundation Models for Amodal Video Instance Segmentation in Automated Driving." ECCV VCAD Workshop (2024).
+  [[paper](https://arxiv.org/abs/2409.14095)] 
+  [[code](https://github.com/ifnspaml/S-AModal)]
+  [2024.09]
+
 :boom:**MGLMM:** Li Zhou, Xu Yuan, Zenghui Sun, Zikun Zhou, Jingsong Lan.<br />
   "Instruction-guided Multi-Granularity Segmentation and Captioning with Large Multimodal Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.13407)] 
