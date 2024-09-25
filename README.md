@@ -212,6 +212,29 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Xi Wang, Tianxing Chen, Qiaojun Yu, Tianling Xu, Zanxin Chen, Yiting Fu, Cewu Lu, Yao Mu, Ping Luo.<br />
+  "Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.16287)] 
+  [[code](https://hytidel.github.io/video-tracking-for-axis-estimation/)]
+  [2024.09]
+
+:boom:Sunoh Lee, Minsik Jeon, Jihong Min, Junwon Seo.<br />
+  "Open-World Object Detection with Instance Representation Learning." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.16073)] 
+  [[code](https://sunohlee.github.io/OWODRep/)]
+  [2024.09]
+
+:boom:**CAD:** Joohyeok Kim, Joonhyeon Song, Seohwan Yun, Seongho Yoon, Sangmin Lee.<br />
+  "CAD: Memory Efficient Convolutional Adapter for Segment Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.15889)] 
+  [[code](https://github.com/Kyyle2114/Convolutional-Adapter-for-Segment-Anything)]
+  [2024.09]
+
+:boom:**UOIS-SAM:** Rui Cao, Chuanxin Song, Biqi Yang, Jiangliu Wang, Pheng-Ann Heng, Yun-Hui Liu.<br />
+  "Adapting Segment Anything Model for Unseen Object Instance Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.15481)] 
+  [2024.09]
+
 :boom:**SOS:** Christian Wilms, Tim Rolff, Maris Hillemann, Robert Johanson, Simone Frintrop.<br />
   "SOS: Segment Object System for Open-World Instance Segmentation With Object Priors." ECCV (2024).
   [[paper](https://arxiv.org/abs/2409.14627)] 
