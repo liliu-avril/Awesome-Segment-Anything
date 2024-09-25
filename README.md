@@ -217,6 +217,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2409.16287)] 
   [[code](https://hytidel.github.io/video-tracking-for-axis-estimation/)]
   [2024.09]
+  
+:boom:Ali Badiezadeh, Amin Malekmohammadi, Seyed Mostafa Mirhassani, Parisa Gifani, Majid Vafaeezadeh.<br />
+  "Segmentation Strategies in Deep Learning for Prostate Cancer Diagnosis: A Comparative Study of Mamba, SAM, and YOLO." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.16205)] 
+  [[code](http://github.com/alibdz/prostate-segmentation)]
+  [2024.09]
 
 :boom:Sunoh Lee, Minsik Jeon, Jihong Min, Junwon Seo.<br />
   "Open-World Object Detection with Instance Representation Learning." ArXiv (2024).
