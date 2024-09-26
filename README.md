@@ -212,6 +212,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**UW-COT:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+  "Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.16902)] 
+  [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking)]
+
+:boom:Illia Tsiporenko, Pavel Chizhov, Dmytro Fishman.<br />
+  "Going Beyond U-Net: Assessing Vision Transformers for Semantic Segmentation in Microscopy Image Analysis." ECCVW (2024).
+  [[paper](https://arxiv.org/abs/2409.16940)] 
+  [2024.09]
+
 :boom:Xi Wang, Tianxing Chen, Qiaojun Yu, Tianling Xu, Zanxin Chen, Yiting Fu, Cewu Lu, Yao Mu, Ping Luo.<br />
   "Articulated Object Manipulation using Online Axis Estimation with SAM2-Based Tracking." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.16287)] 
