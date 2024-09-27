@@ -229,7 +229,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2409.18101)] 
   [2024.09]
 
-:boom:**GMed-SA:** Meng Wang, et al.<br />
+:boom:**GMed-SA:** Meng Wang, Yarong Feng, Yongwei Tang, Tian Zhang, Yuxin Liang, Chao Lv.<br />
   "Global-Local Medical SAM Adaptor Based on Full Adaption." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.17486)] 
   [2024.09]
