@@ -212,6 +212,28 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**DarkSAM:** Ziqi Zhou, Yufei Song, Minghui Li, Shengshan Hu, Xianlong Wang, Leo Yu Zhang, Dezhong Yao, Hai Jin.<br />
+  "DarkSAM: Fooling Segment Anything Model to Segment Nothing." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2409.17874)] 
+  [[code](https://github.com/CGCL-codes/DarkSAM)]
+  [2024.09]
+
+:boom:**SegVLAD:** Kartik Garg, Sai Shubodh Puligilla, Shishir Kolathaya, Madhava Krishna, Sourav Garg.<br />
+  "Revisit Anything: Visual Place Recognition via Image Segment Retrieval." ECCV (2024).
+  [[paper](https://arxiv.org/abs/2409.18049)] 
+  [[code](https://github.com/AnyLoc/Revisit-Anything)]
+  [2024.09]
+
+:boom:**SAMAL:** Alvaro Patricio, Joao Valente, Atabak Dehban, Ines Cadilha, Daniel Reis, Rodrigo Ventura.<br />
+  "AI-Powered Augmented Reality for Satellite Assembly, Integration and Test." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.18101)] 
+  [2024.09]
+
+:boom:**GMed-SA:** Meng Wang, et al.<br />
+  "Global-Local Medical SAM Adaptor Based on Full Adaption." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.17486)] 
+  [2024.09]
+
 :boom:**UW-COT:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "Towards Underwater Camouflaged Object Tracking: An Experimental Evaluation of SAM and SAM 2." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2409.16902)] 
