@@ -228,7 +228,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/02430.pdf)] 
   [2024.09]
 
-:boom:** Gaussian Grouping:** Mingqiao Ye, Martin Danelljan, Fisher Yu, Lei Ke.<br />
+:boom:**Gaussian Grouping:** Mingqiao Ye, Martin Danelljan, Fisher Yu, Lei Ke.<br />
   "Gaussian Grouping: Segment and Edit Anything in 3D Scenes —– Supplementary Material —." ECCV (2024).
   [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/04195-supp.pdf)] 
   [2024.09]
