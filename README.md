@@ -4900,7 +4900,7 @@ Spatial Information Research (2024).
   [2023.12]
 
 - **Gaussian Grouping:** Mingqiao Ye, Martin Danelljan, Fisher Yu, Lei Ke.<br />
-  "Gaussian Grouping: Segment and Edit Anything in 3D Scenes." ArXiv (2023).
+  "Gaussian Grouping: Segment and Edit Anything in 3D Scenes." ECCV (2024).
   [[paper](https://arxiv.org/abs/2312.00732)] 
   [[code](https://github.com/lkeab/gaussian-grouping)]
   [2023.12]
