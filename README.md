@@ -212,6 +212,25 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM-ICE:** Zhao, Ruhao and Zhong, Xian and Liao, Liang and Liu, Wenxuan and Huang, Wenxin and Wang, Zheng.<br />
+  "Localization of Image Splicing Under Segment Anything Model With Integrated Compression and Edge Artifacts." ICIP (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10648163?casa_token=9e4fHbYtXuwAAAAA:LuJr5uwtydtsx6VVw9ijwb_1a4wTgdRhANTk4AyaWrP7usumjXon1lWDRzefpdaDChYYPcDJbmxC)] 
+  [2024.09]
+
+:boom:**SAM-SPB:** Zhao, Quan and Wu, Siying and Zhang, Yueyi and Sun, Xiaoyan.<br />
+"Semantic-Enhanced Point-Box Joint Prompting for Video Object Segmentation" ICIP (2024).
+[paper](https://ieeexplore.ieee.org/abstract/document/10648107?casa_token=CDER8G2ujekAAAAA:q3xlO94oqrLBoVsyHZeAd85YXtRtffZLpLoQiw8nHF8N4zif9UxGlNQEUnbiaZlhxS0kQ34eVa1b)] 
+  [2024.09]
+
+:boom:**OpenDet-D:** Luo, Sheng and Zhou, Yi.<br />
+  "Open World Object Detection Via Cooperative Foundation Models for Driving Scenes." ICIP (2024).  [[paper](https://ieeexplore.ieee.org/abstract/document/10647822?casa_token=RzuiYLimTAMAAAAA:NEQ7iIovZFGJ0oBs84ZvrzigA8XEOruVToYOYCDIC8ob8TmepaEZaD0lW7S1GQQFGfpMUYrEChYN)] 
+  [2024.09]
+
+:boom:**CERM:** Zhao, Xueqiang, Zheng Wu, Yangbo Chen, Wei Zhou, and Mingan Wei..<br />
+  "Fine-Grained High-Resolution Remote Sensing Image Change Detection by SAM-UNet Change Detection Model." Remote Sensing (2024).
+  [[paper](https://www.mdpi.com/2072-4292/16/19/3620)] 
+  [2024.09]
+
 :boom:**VP-SAM:** Zhixue Fang, Yuzhi Liu, Huisi Wu , and Jin Qin.<br />
   "VP-SAM: Taming Segment Anything Model for Video Polyp Segmentation via Disentanglement and Spatio-temporal Side Network." ECCV (2024).
   [[paper](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/03403.pdf)] 
