@@ -212,6 +212,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**PixelCLIP:** Heeseong Shin, Chaehyun Kim, Sunghwan Hong, Seokju Cho, Anurag Arnab, Paul Hongsuck Seo, Seungryong Kim.<br />
+  "Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2409.19846)] 
+  [[code](https://cvlab-kaist.github.io/PixelCLIP)]
+  [2024.09]
+
 :boom:**Automatic MedSAM:** Mélanie Gaillochet, Christian Desrosiers, Hervé Lombaert.<br />
   "Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision." MICCAI-MedAGI (2024).
   [[paper](https://arxiv.org/abs/2409.20293)] 
