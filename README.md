@@ -212,6 +212,47 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Automatic MedSAM:** Mélanie Gaillochet, Christian Desrosiers, Hervé Lombaert.<br />
+  "Automating MedSAM by Learning Prompts with Weak Few-Shot Supervision." MICCAI-MedAGI (2024).
+  [[paper](https://arxiv.org/abs/2409.20293)] 
+  [[code](https://github.com/Minimel/MedSAMWeakFewShotPromptAutomation)]
+  [2024.09]
+
+:boom:Iira Häkkinen, Iaroslav Melekhov, Erik Englesson, Hossein Azizpour, Juho Kannala.<br />
+  "Medical Image Segmentation with SAM-generated Annotations." ECCVW (2024).
+  [[paper](https://arxiv.org/abs/2409.20253)] 
+  [2024.09]
+
+:boom:**SCEF:** Fulong Ma, Guoyang Zhao, Weiqing Qi, Ming Liu, Jun Ma.<br />
+  "Task-Oriented Pre-Training for Drivable Area Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.20166)] 
+  [[code](https://sites.google.com/view/task-oriented-pre-training)]
+  [2024.09]
+
+:boom:**VideoLISA:** Zechen Bai, Tong He, Haiyang Mei, Pichao Wang, Ziteng Gao, Joya Chen, Lei Liu, Zheng Zhang, Mike Zheng Shou.<br />
+  "One Token to Seg Them All: Language Instructed Reasoning Segmentation in Videos." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2409.19603)] 
+  [[code](https://github.com/showlab/VideoLISA)]
+  [2024.09]
+
+:boom:**RoboNurse-VLA:** Shunlei Li, Jin Wang, Rui Dai, Wanyu Ma, Wing Yin Ng, Yingbai Hu, Zheng Li.<br />
+  "RoboNurse-VLA: Robotic Scrub Nurse System based on Vision-Language-Action Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.19590)] 
+  [[code](https://robonurse-vla.github.io/)]
+  [2024.09]
+
+:boom:**MedCLIP-SAMv2:** Taha Koleilat, Hojat Asgariandehkordi, Hassan Rivaz, Yiming Xiao.<br />
+  "MedCLIP-SAMv2: Towards Universal Text-Driven Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.19483)] 
+  [[code](https://github.com/HealthX-Lab/MedCLIP-SAMv2)]
+  [2024.09]
+
+:boom:**SAM2-VCOS:** Yuli Zhou, Guolei Sun, Yawei Li, Luca Benini, Ender Konukoglu.<br />
+  "When SAM2 Meets Video Camouflaged Object Segmentation: A Comprehensive Evaluation and Adaptation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2409.18653)] 
+  [[code](https://github.com/zhoustan/SAM2-VCOS)]
+  [2024.09]
+
 :boom:**SAM-ICE:** Zhao, Ruhao and Zhong, Xian and Liao, Liang and Liu, Wenxuan and Huang, Wenxin and Wang, Zheng.<br />
   "Localization of Image Splicing Under Segment Anything Model With Integrated Compression and Edge Artifacts." ICIP (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10648163?casa_token=9e4fHbYtXuwAAAAA:LuJr5uwtydtsx6VVw9ijwb_1a4wTgdRhANTk4AyaWrP7usumjXon1lWDRzefpdaDChYYPcDJbmxC)] 
