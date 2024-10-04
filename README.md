@@ -212,6 +212,21 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**DFQ-SAM:** Zhikai Li, Jing Zhang, Qingyi Gu.<br />
+  "Privacy-Preserving SAM Quantization for Efficient Edge Intelligence in Healthcare." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.01813)] 
+ [2024.10]
+
+:boom:**SinkSAM:** Osher Rafaeli, Tal Svoray, Ariel Nahlieli.<br />
+  "SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.01473)] 
+  [2024.10]
+
+:boom:Qingyuan Liu, Avideh Zakhor.<br />
+  "Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.02207)] 
+  [2024.10]
+
 :boom:**PixelCLIP:** Heeseong Shin, Chaehyun Kim, Sunghwan Hong, Seokju Cho, Anurag Arnab, Paul Hongsuck Seo, Seungryong Kim.<br />
   "Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2409.19846)] 
