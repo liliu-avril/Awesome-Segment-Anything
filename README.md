@@ -1909,7 +1909,7 @@ If you find our work useful in your research, please consider citing:
 
 
 - **UnSAM:** XuDong Wang, Jingfeng Yang, Trevor Darrell.<br />
-  "Segment Anything without Supervision." ArXiv (2024).
+  "Segment Anything without Supervision." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2406.20081)] 
   [[code](https://github.com/frank-xwang/UnSAM)]
   [2024.06]
@@ -4717,7 +4717,7 @@ Spatial Information Research (2024).
   [2023.12]
 
 - **SlimSAM:** Zigeng Chen, Gongfan Fang, Xinyin Ma, Xinchao Wang.<br />
-  "0.1% Data Makes Segment Anything Slim." ArXiv (2023).
+  "0.1% Data Makes Segment Anything Slim." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2312.05284)] 
   [[code](https://github.com/czg1225/SlimSAM)]
   [2023.12]
