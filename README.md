@@ -3702,7 +3702,7 @@ Spatial Information Research (2024).
   [2024.02]
 
 - **DeiSAM:** Hikaru Shindo, Manuel Brack, Gopika Sudhakaran, Devendra Singh Dhami, Patrick Schramowski, Kristian Kersting.<br />
-  "DeiSAM: Segment Anything with Deictic Prompting." ArXiv (2024).
+  "DeiSAM: Segment Anything with Deictic Prompting." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2402.14123)] 
   [2024.02]
 
