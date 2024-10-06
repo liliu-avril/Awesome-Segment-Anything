@@ -212,6 +212,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Chen, Haoyuan, Sihang Zhou, Kuan Li, Jianping Yin, and Jian Huang.<br />
+  "A Hybrid Framework for Referring Image Segmentation: Dual-Decoder Model with SAM Complementation." Mathematics (2024).
+  [[paper](https://www.mdpi.com/2227-7390/12/19/3061)] 
+  [2024.10]
+
 :boom:**DFQ-SAM:** Zhikai Li, Jing Zhang, Qingyi Gu.<br />
   "Privacy-Preserving SAM Quantization for Efficient Edge Intelligence in Healthcare." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.01813)] 
