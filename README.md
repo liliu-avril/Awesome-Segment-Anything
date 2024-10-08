@@ -212,6 +212,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Next Best Sense:** Matthew Strong, Boshu Lei, Aiden Swann, Wen Jiang, Kostas Daniilidis, Monroe Kennedy III.<br />
+  "Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.04680)] 
+  [[code](https://armlabstanford.github.io/next-best-sense)]
+  [2024.10]
+
+:boom:**DB-SAM:** Chao Qin, Jiale Cao, Huazhu Fu, Fahad Shahbaz Khan, Rao Muhammad Anwer.<br />
+  "DB-SAM: Delving into High Quality Universal Medical Image Segmentation." MICCAI (2024).
+  [[paper](https://arxiv.org/abs/2410.04172)] 
+  [[code](https://github.com/AlfredQin/DB-SAM)]
+  [2024.10]
+
+:boom:Xiaorui Sun, Jun Liu, Heng Tao Shen, Xiaofeng Zhu, Ping Hu.<br />
+  "On Efficient Variants of Segment Anything Model: A Survey." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.04960)] 
+  [2024.10]
+
 :boom:Chen, Haoyuan, Sihang Zhou, Kuan Li, Jianping Yin, and Jian Huang.<br />
   "A Hybrid Framework for Referring Image Segmentation: Dual-Decoder Model with SAM Complementation." Mathematics (2024).
   [[paper](https://www.mdpi.com/2227-7390/12/19/3061)] 
