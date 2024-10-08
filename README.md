@@ -72,6 +72,11 @@ If you find our work useful in your research, please consider citing:
 [[中文解读]](https://zhuanlan.zhihu.com/p/712807912)
 [2024.07]
 
+- Xiaorui Sun, Jun Liu, Heng Tao Shen, Xiaofeng Zhu, Ping Hu.<br />
+  "On Efficient Variants of Segment Anything Model: A Survey." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.04960)] 
+  [2024.10]
+  
 - **SAM4MIS:** Yichi Zhang, Rushi Jiao.<br />
   "Towards Segment Anything Model (SAM) for Medical Image Segmentation: A Survey." CBM (2024).
   [[paper](https://arxiv.org/abs/2305.03678)] 
@@ -222,11 +227,6 @@ If you find our work useful in your research, please consider citing:
   "DB-SAM: Delving into High Quality Universal Medical Image Segmentation." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2410.04172)] 
   [[code](https://github.com/AlfredQin/DB-SAM)]
-  [2024.10]
-
-:boom:Xiaorui Sun, Jun Liu, Heng Tao Shen, Xiaofeng Zhu, Ping Hu.<br />
-  "On Efficient Variants of Segment Anything Model: A Survey." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2410.04960)] 
   [2024.10]
 
 :boom:Chen, Haoyuan, Sihang Zhou, Kuan Li, Jianping Yin, and Jian Huang.<br />
