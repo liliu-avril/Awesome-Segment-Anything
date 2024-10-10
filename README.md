@@ -226,6 +226,11 @@ If you find our work useful in your research, please consider citing:
   "Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2410.05963)] 
   [2024.10]
+  
+:boom:**DirectSAM:** Shiyu Miao, Delong Chen, Fan Liu, Chuanyi Zhang, Yanhui Gu, Shengjie Guo, Jun Zhou.<br />
+  "Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.06194)] 
+  [2024.10]
 
 :boom:Jiangfan Deng, Zhuang Jia, Zhaoxue Wang, Xiang Long, Daniel K. Du.<br />
   "Towards Unsupervised Eye-Region Segmentation for Eye Tracking." ECCVW (2024).
