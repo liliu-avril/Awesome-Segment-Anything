@@ -5160,7 +5160,7 @@ Spatial Information Research (2024).
   [2023.11]
 
 - **I-MedSAM:** Xiaobao Wei, Jiajun Cao, Yizhu Jin, Ming Lu, Guangyu Wang, Shanghang Zhang.<br />
-  "I-MedSAM: Implicit Medical Image Segmentation with Segment Anything." ArXiv (2023).
+  "I-MedSAM: Implicit Medical Image Segmentation with Segment Anything." ECCV (2024).
   [[paper](https://arxiv.org/abs/2311.17081)] 
   [2023.11]
 
