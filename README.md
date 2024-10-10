@@ -217,6 +217,44 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**PixLens:** Stefan Stefanache, Lluís Pastor Pérez, Julen Costa Watanabe, Ernesto Sanchez Tejedor, Thomas Hofmann, Enis Simsar.<br />
+  "PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.05710)] 
+  [2024.10]
+
+:boom:**VL-SAM:** Zhiwei Lin, Yongtao Wang, Zhi Tang.<br />
+  "Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2410.05963)] 
+  [2024.10]
+
+:boom:Jiangfan Deng, Zhuang Jia, Zhaoxue Wang, Xiang Long, Daniel K. Du.<br />
+  "Towards Unsupervised Eye-Region Segmentation for Eye Tracking." ECCVW (2024).
+  [[paper](https://arxiv.org/abs/2410.06131)] 
+  [2024.10]
+
+:boom:**SEMat:** Ruihao Xia, Yu Liang, Peng-Tao Jiang, Hao Zhang, Qianru Sun, Yang Tang, Bo Li, Pan Zhou.<br />
+  "Towards Natural Image Matting in the Wild via Real-Scenario Prior." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.06593)] 
+  [[code](https://github.com/XiaRho/SEMat)]
+  [2024.10]
+
+:boom: Mohamed Deriche, Mohammad Marufur.<br />
+  "K-SAM: A Prompting Method Using Pretrained U-Net to Improve Zero Shot Performance of SAM on Lung Segmentation in CXR Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.06825)] 
+  [2024.10]
+
+:boom:**GF-SAM:** Anqi Zhang, Guangyu Gao, Jianbo Jiao, Chi Harold Liu, Yunchao Wei.<br />
+  "Bridge the Points: Graph-based Few-shot Segment Anything Semantically." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2410.06964)] 
+  [[code](https://andyzaq.github.io/GF-SAM/)]
+  [2024.10]
+
+:boom:**AvatarGO:** Yukang Cao, Liang Pan, Kai Han, Kwan-Yee K. Wong, Ziwei Liu.<br />
+  "AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.07164)] 
+  [[code](https://yukangcao.github.io/AvatarGO/)]
+  [2024.10]
+
 :boom:**Next Best Sense:** Matthew Strong, Boshu Lei, Aiden Swann, Wen Jiang, Kostas Daniilidis, Monroe Kennedy III.<br />
   "Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.04680)] 
