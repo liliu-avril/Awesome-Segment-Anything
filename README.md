@@ -217,6 +217,22 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**UW-SDF:** Zeyu Chen, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, Xiu Li.<br />
+  "UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images." IROS (2024).
+  [[paper](https://arxiv.org/abs/2410.08092)] 
+  [2024.10]
+
+:boom:**PointOBB-v2:** Botao Ren, Xue Yang, Yi Yu, Junwei Luo, Zhidong Deng.<br />
+  "PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.08210)] 
+  [[code](https://github.com/taugeren/PointOBB-v2)]
+  [2024.10]
+
+:boom:Yuxuan Wen, Evgenia Roussinova, Olivier Brina, Paolo Machi, Mohamed Bouri.<br />
+  "Generalizing Segmentation Foundation Model Under Sim-to-real Domain-shift for Guidewire Segmentation in X-ray Fluoroscopy." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.07460)] 
+  [2024.10]
+
 :boom:**PixLens:** Stefan Stefanache, Lluís Pastor Pérez, Julen Costa Watanabe, Ernesto Sanchez Tejedor, Thomas Hofmann, Enis Simsar.<br />
   "PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.05710)] 
