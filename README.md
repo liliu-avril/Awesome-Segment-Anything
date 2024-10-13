@@ -217,93 +217,124 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**UW-SDF:** Zeyu Chen, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, Xiu Li.<br />
+:boom:**BioSAM:** Cai, Miaomiao and Liu, Xiaoyu and Xiong, Zhiwei and Chen, Xuejin.<br />
+  "BioSAM: Generating SAM Prompts From Superpixel Graph for Biological Instance Segmentation." IEEE JBHI (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10705688?casa_token=mzhkiYqdOiEAAAAA:x0rDxKHWVB8QUc--7GYLtJJvPEk5qwN-401-scjI7FDtE28_xEFLrRsXbBr8j1EF3ZXgLgM4cdTI)] 
+  [2024.10]
+
+:boom:Delle Castelle, C., Spampinato, F., Proietto Salanitri, F., Bellitto, G., Spampinato, C.<br />
+  "Leveraging SAM and Learnable Prompts for Pancreatic MRI Segmentation." PILM AIPAD (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-73483-0_3)] 
+  [2024.10]
+
+:boom:**PTSAM-DA:** Junjun Wu, Yunbo Rao, Shaoning Zeng, Bob Zhang.<br />
+  "Pre-trained SAM as data augmentation for image segmentation." CAAI Transactions on Intelligence Technology (2024).
+  [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12381)] 
+  [2024.10]
+
+:boom:**DFSS:** Zhiyu Jiang; Ye Yuan; Yuan Yuan.<br />
+  "Prototypical Metric Segment Anything Model for Data-Free Few-Shot Semantic Segmentation." IEEE Signal Processing Letters (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10707179?casa_token=UwNPgeWbbTYAAAAA:ivo0_MZTBOSK2Aq6S456OoEl-mH7kCQYN6SA7Ecg6_qRTuK2YwOw53C1Rkl-b9PJICGL3i7d9RJW)] 
+  [2024.10]
+
+:boom:**AIES:** Yifei Huang, Chuyun Shen, Wenhao Li, Xiangfeng Wang, Bo Jin & Haibin Cai.<br />
+  "Optimizing Efficiency and Effectiveness in Sequential Prompt Strategy for SAM Using Reinforcement Learning." MICCAI (2024).
+  [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_45)] 
+  [2024.10]
+
+:boom:**SAMPolyBuild:** Chenhao Wang and Jingbo Chen and Yu Meng and Yupeng Deng and Kai Li and Yunlong Kong.<br />
+  "SAMPolyBuild: Adapting the Segment Anything Model for polygonal building extraction." ISPRS Journal of Photogrammetry and Remote Sensing (2024).
+  [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271624003563)] 
+  [[code](https://github.com/wchh-2000/SAMPolyBuild)]
+  [2024.10]
+
+- **UW-SDF:** Zeyu Chen, Jingyi Tang, Gu Wang, Shengquan Li, Xinghui Li, Xiangyang Ji, Xiu Li.<br />
   "UW-SDF: Exploiting Hybrid Geometric Priors for Neural SDF Reconstruction from Underwater Multi-view Monocular Images." IROS (2024).
   [[paper](https://arxiv.org/abs/2410.08092)] 
   [2024.10]
 
-:boom:**PointOBB-v2:** Botao Ren, Xue Yang, Yi Yu, Junwei Luo, Zhidong Deng.<br />
+- **PointOBB-v2:** Botao Ren, Xue Yang, Yi Yu, Junwei Luo, Zhidong Deng.<br />
   "PointOBB-v2: Towards Simpler, Faster, and Stronger Single Point Supervised Oriented Object Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.08210)] 
   [[code](https://github.com/taugeren/PointOBB-v2)]
   [2024.10]
 
-:boom:Yuxuan Wen, Evgenia Roussinova, Olivier Brina, Paolo Machi, Mohamed Bouri.<br />
+- Yuxuan Wen, Evgenia Roussinova, Olivier Brina, Paolo Machi, Mohamed Bouri.<br />
   "Generalizing Segmentation Foundation Model Under Sim-to-real Domain-shift for Guidewire Segmentation in X-ray Fluoroscopy." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.07460)] 
   [2024.10]
 
-:boom:**PixLens:** Stefan Stefanache, Lluís Pastor Pérez, Julen Costa Watanabe, Ernesto Sanchez Tejedor, Thomas Hofmann, Enis Simsar.<br />
+- **PixLens:** Stefan Stefanache, Lluís Pastor Pérez, Julen Costa Watanabe, Ernesto Sanchez Tejedor, Thomas Hofmann, Enis Simsar.<br />
   "PixLens: A Novel Framework for Disentangled Evaluation in Diffusion-Based Image Editing with Object Detection + SAM." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.05710)] 
   [2024.10]
 
-:boom:**VL-SAM:** Zhiwei Lin, Yongtao Wang, Zhi Tang.<br />
+- **VL-SAM:** Zhiwei Lin, Yongtao Wang, Zhi Tang.<br />
   "Training-Free Open-Ended Object Detection and Segmentation via Attention as Prompts." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2410.05963)] 
   [2024.10]
   
-:boom:**DirectSAM:** Shiyu Miao, Delong Chen, Fan Liu, Chuanyi Zhang, Yanhui Gu, Shengjie Guo, Jun Zhou.<br />
+- **DirectSAM:** Shiyu Miao, Delong Chen, Fan Liu, Chuanyi Zhang, Yanhui Gu, Shengjie Guo, Jun Zhou.<br />
   "Prompting DirectSAM for Semantic Contour Extraction in Remote Sensing Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.06194)] 
   [2024.10]
 
-:boom:Jiangfan Deng, Zhuang Jia, Zhaoxue Wang, Xiang Long, Daniel K. Du.<br />
+- Jiangfan Deng, Zhuang Jia, Zhaoxue Wang, Xiang Long, Daniel K. Du.<br />
   "Towards Unsupervised Eye-Region Segmentation for Eye Tracking." ECCVW (2024).
   [[paper](https://arxiv.org/abs/2410.06131)] 
   [2024.10]
 
-:boom:**SEMat:** Ruihao Xia, Yu Liang, Peng-Tao Jiang, Hao Zhang, Qianru Sun, Yang Tang, Bo Li, Pan Zhou.<br />
+- **SEMat:** Ruihao Xia, Yu Liang, Peng-Tao Jiang, Hao Zhang, Qianru Sun, Yang Tang, Bo Li, Pan Zhou.<br />
   "Towards Natural Image Matting in the Wild via Real-Scenario Prior." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.06593)] 
   [[code](https://github.com/XiaRho/SEMat)]
   [2024.10]
 
-:boom: Mohamed Deriche, Mohammad Marufur.<br />
+- Mohamed Deriche, Mohammad Marufur.<br />
   "K-SAM: A Prompting Method Using Pretrained U-Net to Improve Zero Shot Performance of SAM on Lung Segmentation in CXR Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.06825)] 
   [2024.10]
 
-:boom:**GF-SAM:** Anqi Zhang, Guangyu Gao, Jianbo Jiao, Chi Harold Liu, Yunchao Wei.<br />
+- **GF-SAM:** Anqi Zhang, Guangyu Gao, Jianbo Jiao, Chi Harold Liu, Yunchao Wei.<br />
   "Bridge the Points: Graph-based Few-shot Segment Anything Semantically." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2410.06964)] 
   [[code](https://andyzaq.github.io/GF-SAM/)]
   [2024.10]
 
-:boom:**AvatarGO:** Yukang Cao, Liang Pan, Kai Han, Kwan-Yee K. Wong, Ziwei Liu.<br />
+- **AvatarGO:** Yukang Cao, Liang Pan, Kai Han, Kwan-Yee K. Wong, Ziwei Liu.<br />
   "AvatarGO: Zero-shot 4D Human-Object Interaction Generation and Animation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.07164)] 
   [[code](https://yukangcao.github.io/AvatarGO/)]
   [2024.10]
 
-:boom:**Next Best Sense:** Matthew Strong, Boshu Lei, Aiden Swann, Wen Jiang, Kostas Daniilidis, Monroe Kennedy III.<br />
+- **Next Best Sense:** Matthew Strong, Boshu Lei, Aiden Swann, Wen Jiang, Kostas Daniilidis, Monroe Kennedy III.<br />
   "Next Best Sense: Guiding Vision and Touch with FisherRF for 3D Gaussian Splatting." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.04680)] 
   [[code](https://armlabstanford.github.io/next-best-sense)]
   [2024.10]
 
-:boom:**DB-SAM:** Chao Qin, Jiale Cao, Huazhu Fu, Fahad Shahbaz Khan, Rao Muhammad Anwer.<br />
+- **DB-SAM:** Chao Qin, Jiale Cao, Huazhu Fu, Fahad Shahbaz Khan, Rao Muhammad Anwer.<br />
   "DB-SAM: Delving into High Quality Universal Medical Image Segmentation." MICCAI (2024).
   [[paper](https://arxiv.org/abs/2410.04172)] 
   [[code](https://github.com/AlfredQin/DB-SAM)]
   [2024.10]
 
-:boom:Chen, Haoyuan, Sihang Zhou, Kuan Li, Jianping Yin, and Jian Huang.<br />
+- Chen, Haoyuan, Sihang Zhou, Kuan Li, Jianping Yin, and Jian Huang.<br />
   "A Hybrid Framework for Referring Image Segmentation: Dual-Decoder Model with SAM Complementation." Mathematics (2024).
   [[paper](https://www.mdpi.com/2227-7390/12/19/3061)] 
   [2024.10]
 
-:boom:**DFQ-SAM:** Zhikai Li, Jing Zhang, Qingyi Gu.<br />
+- **DFQ-SAM:** Zhikai Li, Jing Zhang, Qingyi Gu.<br />
   "Privacy-Preserving SAM Quantization for Efficient Edge Intelligence in Healthcare." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.01813)] 
  [2024.10]
 
-:boom:**SinkSAM:** Osher Rafaeli, Tal Svoray, Ariel Nahlieli.<br />
+- **SinkSAM:** Osher Rafaeli, Tal Svoray, Ariel Nahlieli.<br />
   "SinkSAM: A Monocular Depth-Guided SAM Framework for Automatic Sinkhole Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.01473)] 
   [2024.10]
 
-:boom:Qingyuan Liu, Avideh Zakhor.<br />
+- Qingyuan Liu, Avideh Zakhor.<br />
   "Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.02207)] 
   [2024.10]
