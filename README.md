@@ -217,6 +217,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**VideoSAM:** Pinxue Guo, Zixu Zhao, Jianxiong Gao, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang.<br />
+  "VideoSAM: Open-World Video Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.08781)] 
+  [2024.10]
+
+:boom:Virmarie Maquiling, Sean Anthony Byrne, Diederick C. Niehorster, Marco Carminati, Enkelejda Kasneci.<br />
+  "Zero-Shot Pupil Segmentation with SAM 2: A Case Study of Over 14 Million Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.08926)] 
+  [2024.10]
+
 :boom:**BioSAM:** Cai, Miaomiao and Liu, Xiaoyu and Xiong, Zhiwei and Chen, Xuejin.<br />
   "BioSAM: Generating SAM Prompts From Superpixel Graph for Biological Instance Segmentation." IEEE JBHI (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10705688?casa_token=mzhkiYqdOiEAAAAA:x0rDxKHWVB8QUc--7GYLtJJvPEk5qwN-401-scjI7FDtE28_xEFLrRsXbBr8j1EF3ZXgLgM4cdTI)] 
