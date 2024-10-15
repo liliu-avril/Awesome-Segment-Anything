@@ -217,6 +217,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**AM-SAM:** Yuchen Li, Li Zhang, Youwei Liang, Pengtao Xie.<br />
+  "AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.09714)] 
+  [2024.10]
+
 :boom:**VideoSAM:** Pinxue Guo, Zixu Zhao, Jianxiong Gao, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang.<br />
   "VideoSAM: Open-World Video Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.08781)] 
