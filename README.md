@@ -448,8 +448,8 @@ If you find our work useful in your research, please consider citing:
 
 - **SAM-SPB:** Zhao, Quan and Wu, Siying and Zhang, Yueyi and Sun, Xiaoyan.<br />
 "Semantic-Enhanced Point-Box Joint Prompting for Video Object Segmentation" ICIP (2024).
-[paper](https://ieeexplore.ieee.org/abstract/document/10648107?casa_token=CDER8G2ujekAAAAA:q3xlO94oqrLBoVsyHZeAd85YXtRtffZLpLoQiw8nHF8N4zif9UxGlNQEUnbiaZlhxS0kQ34eVa1b)] 
-  [2024.09]
+[[paper](https://ieeexplore.ieee.org/abstract/document/10648107?casa_token=CDER8G2ujekAAAAA:q3xlO94oqrLBoVsyHZeAd85YXtRtffZLpLoQiw8nHF8N4zif9UxGlNQEUnbiaZlhxS0kQ34eVa1b)] 
+[2024.09]
 
 - **OpenDet-D:** Luo, Sheng and Zhou, Yi.<br />
   "Open World Object Detection Via Cooperative Foundation Models for Driving Scenes." ICIP (2024).  [[paper](https://ieeexplore.ieee.org/abstract/document/10647822?casa_token=RzuiYLimTAMAAAAA:NEQ7iIovZFGJ0oBs84ZvrzigA8XEOruVToYOYCDIC8ob8TmepaEZaD0lW7S1GQQFGfpMUYrEChYN)] 
