@@ -220,6 +220,7 @@ If you find our work useful in your research, please consider citing:
 :boom:**RClicks:** Anton Antonov, Andrey Moskalenko, Denis Shepelev, Alexander Krapukhin, Konstantin Soshin, Anton Konushin, Vlad Shakhuro.<br />
   "RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2410.11722)] 
+  [[code](https://github.com/emb-ai/rclicks)]
   [2024.10]
 
 :boom:**MANet:** Xianping Ma, Xiaokang Zhang, Man-On Pun, Bo Huang.<br />
@@ -242,6 +243,7 @@ If you find our work useful in your research, please consider citing:
 :boom:**UnSeg:** Ye Sun, Hao Zhang, Tiehua Zhang, Xingjun Ma, Yu-Gang Jiang.<br />
   "UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation." NeurIPS (2024).
   [[paper](https://arxiv.org/pdf/2410.09909)] 
+  [[code](https://github.com/sunye23/UnSeg)]
   [2024.10]
 
 :boom:**AM-SAM:** Yuchen Li, Li Zhang, Youwei Liang, Pengtao Xie.<br />
