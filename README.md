@@ -1293,11 +1293,6 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2408.06170)] 
   [2024.08]
 
-- **MCA-SAM:** Ke Zhou, Zhongwei Qiu, Dongmei Fu.<br />
-  "Multi-scale Contrastive Adaptor Learning for Segmenting Anything in Underperformed Scenes." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2408.05936)] 
-  [2024.08]
-
 - **Polyp SAM 2:** Mobina Mansoori, Sajjad Shahabodini, Jamshid Abouei, Konstantinos N. Plataniotis, Arash Mohammadi.<br />
   "Polyp SAM 2: Advancing Zero shot Polyp Segmentation in Colorectal Cancer Detection." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2408.05892)] 
