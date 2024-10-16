@@ -217,6 +217,33 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**RClicks:** Anton Antonov, Andrey Moskalenko, Denis Shepelev, Alexander Krapukhin, Konstantin Soshin, Anton Konushin, Vlad Shakhuro.<br />
+  "RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2410.11722)] 
+  [2024.10]
+
+:boom:**MANet:** Xianping Ma, Xiaokang Zhang, Man-On Pun, Bo Huang.<br />
+  "MANet: Fine-Tuning Segment Anything Model for Multimodal Remote Sensing Semantic Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.11160)] 
+  [[code](https://github.com/sstary/SSRS)]
+  [2024.10]
+
+:boom:**big.LITTLE:** He Guo, Yulong Wang, Zixuan Ye, Jifeng Dai, Yuwen Xiong.<br />
+  "big.LITTLE Vision Transformer for Efficient Visual Recognition." ArXiv (2024).
+  [[paper](https://arxiv.org/pdf/2410.10267)] 
+  [2024.10]
+
+:boom:**CrackSegmentation:** Xiaoyan Jiang, Xinlong Wan, Kaiying Zhu, Xihe Qiu, Zhijun Fang.<br />
+  "Distribution-aware Noisy-label Crack Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/pdf/2410.09409)] 
+  [[code](https://github.com/sky-visionX/CrackSegmentation)]
+  [2024.10]
+
+:boom:**UnSeg:** Ye Sun, Hao Zhang, Tiehua Zhang, Xingjun Ma, Yu-Gang Jiang.<br />
+  "UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation." NeurIPS (2024).
+  [[paper](https://arxiv.org/pdf/2410.09909)] 
+  [2024.10]
+
 :boom:**AM-SAM:** Yuchen Li, Li Zhang, Youwei Liang, Pengtao Xie.<br />
   "AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.09714)] 
