@@ -217,6 +217,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**FEMed:** Chen Xu, Qiming Huang, Yuqi Hou, Jiangxing Wu, Fan Zhang, Hyung Jin Chang, Jianbo Jiao.<br />
+  "Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation." ACCV (2024).
+  [[paper](https://arxiv.org/pdf/2410.09254)] 
+  [[code](https://xuchenjune.github.io/FEMed/)]
+  [2024.10]
+
+:boom:**Words To Wheels:** Chanhoe Ryu, Hyunki Seong, Daegyu Lee, Seongwoo Moon, Sungjae Min, D. Hyunchul Shim.<br />
+  "Words to Wheels: Vision-Based Autonomous Driving Understanding Human Language Instructions Using Foundation Models." ArXiv (2024).
+  [[paper](https://arxiv.org/pdf/2410.10577)] 
+  [2024.10]
+
 :boom:**RClicks:** Anton Antonov, Andrey Moskalenko, Denis Shepelev, Alexander Krapukhin, Konstantin Soshin, Anton Konushin, Vlad Shakhuro.<br />
   "RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2410.11722)] 
