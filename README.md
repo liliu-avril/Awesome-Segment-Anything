@@ -2882,7 +2882,7 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2404.08421)] 
   [2024.04]
 
-- S-RA & T-RA: Yifan Shen, Zhengyuan Li, Gang Wang.<br />
+- **S-RA & T-RA**: Yifan Shen, Zhengyuan Li, Gang Wang.<br />
   "Practical Region-level Attack against Segment Anything Models." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2404.08255)] 
   [2024.04]
