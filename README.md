@@ -3708,7 +3708,7 @@ Spatial Information Research (2024).
   [[code](https://groundhog-mllm.github.io/)]
   [2024.02]
 
--**POC:** Pau de Jorge, Riccardo Volpi, Puneet K. Dokania, Philip H. S. Torr, Gregory Rogez.<br />
+- **POC:** Pau de Jorge, Riccardo Volpi, Puneet K. Dokania, Philip H. S. Torr, Gregory Rogez.<br />
   "Placing Objects in Context via Inpainting for Out-of-distribution Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2402.16392)] 
   [[code](https://github.com/naver/poc)]
