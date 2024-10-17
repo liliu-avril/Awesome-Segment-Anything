@@ -217,6 +217,21 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM-GT:** Zhimin Chen, Liang Yang, Yingwei Li, Longlong Jing, Bing Li.<br />
+  "SAM-Guided Masked Token Prediction for 3D Scene Understanding." NeurIPS (2024).
+  [[paper](https://arxiv.org/abs/2410.12158)] 
+  [2024.10]
+
+:boom:Jiří Vyskočil, Lukas Picek.<br />
+  "Towards Zero-Shot Camera Trap Image Categorization." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.12769)] 
+  [2024.10]
+
+:boom:**APL-SAM:** Yao Shen, Ziwei Wei, Chunmeng Liu, Shuming Wei, Qi Zhao, Kaiyang Zeng, Guangyao Li.<br />
+  "Adaptive Prompt Learning with SAM for Few-shot Scanning Probe Microscope Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.12562)] 
+  [2024.10]
+
 :boom:**FEMed:** Chen Xu, Qiming Huang, Yuqi Hou, Jiangxing Wu, Fan Zhang, Hyung Jin Chang, Jianbo Jiao.<br />
   "Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation." ACCV (2024).
   [[paper](https://arxiv.org/pdf/2410.09254)] 
