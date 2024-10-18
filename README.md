@@ -217,6 +217,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**EPLC-SAM:** Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim, Sangmin Lee.<br />
+  "Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.13621)] 
+  [[code](https://github.com/QI-NemoSong/EPLC-SAM)]
+  [2024.10]
+
 :boom:**SAM-GT:** Zhimin Chen, Liang Yang, Yingwei Li, Longlong Jing, Bing Li.<br />
   "SAM-Guided Masked Token Prediction for 3D Scene Understanding." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2410.12158)] 
