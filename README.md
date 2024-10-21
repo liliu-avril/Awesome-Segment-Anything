@@ -217,6 +217,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**LUDVIG:** Juliette Marrie, Romain Ménégaux, Michael Arbel, Diane Larlus, Julien Mairal.<br />
+  "LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.14462)] 
+  [2024.10]
+
+:boom:**SAMReg:** Shiqi Huang, Tingfa Xu, Ziyi Shen, Shaheer Ullah Saeed, Wen Yan, Dean Barratt, Yipeng Hu.<br />
+  "SAMReg: SAM-enabled Image Registration with ROI-based Correspondence." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.14083)] 
+  [[code](https://github.com/sqhuang0103/SAMReg.git)]
+  [2024.10]
+
 :boom:**EPLC-SAM:** Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim, Sangmin Lee.<br />
   "Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.13621)] 
