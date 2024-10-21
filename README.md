@@ -228,108 +228,108 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/sqhuang0103/SAMReg.git)]
   [2024.10]
 
-:boom:**EPLC-SAM:** Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim, Sangmin Lee.<br />
+- **EPLC-SAM:** Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim, Sangmin Lee.<br />
   "Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.13621)] 
   [[code](https://github.com/QI-NemoSong/EPLC-SAM)]
   [2024.10]
 
-:boom:**SAM-GT:** Zhimin Chen, Liang Yang, Yingwei Li, Longlong Jing, Bing Li.<br />
+- **SAM-GT:** Zhimin Chen, Liang Yang, Yingwei Li, Longlong Jing, Bing Li.<br />
   "SAM-Guided Masked Token Prediction for 3D Scene Understanding." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2410.12158)] 
   [2024.10]
 
-:boom:Jiří Vyskočil, Lukas Picek.<br />
+- Jiří Vyskočil, Lukas Picek.<br />
   "Towards Zero-Shot Camera Trap Image Categorization." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.12769)] 
   [2024.10]
 
-:boom:**APL-SAM:** Yao Shen, Ziwei Wei, Chunmeng Liu, Shuming Wei, Qi Zhao, Kaiyang Zeng, Guangyao Li.<br />
+- **APL-SAM:** Yao Shen, Ziwei Wei, Chunmeng Liu, Shuming Wei, Qi Zhao, Kaiyang Zeng, Guangyao Li.<br />
   "Adaptive Prompt Learning with SAM for Few-shot Scanning Probe Microscope Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.12562)] 
   [2024.10]
 
-:boom:**FEMed:** Chen Xu, Qiming Huang, Yuqi Hou, Jiangxing Wu, Fan Zhang, Hyung Jin Chang, Jianbo Jiao.<br />
+- **FEMed:** Chen Xu, Qiming Huang, Yuqi Hou, Jiangxing Wu, Fan Zhang, Hyung Jin Chang, Jianbo Jiao.<br />
   "Few Exemplar-Based General Medical Image Segmentation via Domain-Aware Selective Adaptation." ACCV (2024).
   [[paper](https://arxiv.org/pdf/2410.09254)] 
   [[code](https://xuchenjune.github.io/FEMed/)]
   [2024.10]
 
-:boom:**Words To Wheels:** Chanhoe Ryu, Hyunki Seong, Daegyu Lee, Seongwoo Moon, Sungjae Min, D. Hyunchul Shim.<br />
+- **Words To Wheels:** Chanhoe Ryu, Hyunki Seong, Daegyu Lee, Seongwoo Moon, Sungjae Min, D. Hyunchul Shim.<br />
   "Words to Wheels: Vision-Based Autonomous Driving Understanding Human Language Instructions Using Foundation Models." ArXiv (2024).
   [[paper](https://arxiv.org/pdf/2410.10577)] 
   [2024.10]
 
-:boom:**RClicks:** Anton Antonov, Andrey Moskalenko, Denis Shepelev, Alexander Krapukhin, Konstantin Soshin, Anton Konushin, Vlad Shakhuro.<br />
+- **RClicks:** Anton Antonov, Andrey Moskalenko, Denis Shepelev, Alexander Krapukhin, Konstantin Soshin, Anton Konushin, Vlad Shakhuro.<br />
   "RClicks: Realistic Click Simulation for Benchmarking Interactive Segmentation." NeurIPS (2024).
   [[paper](https://arxiv.org/abs/2410.11722)] 
   [[code](https://github.com/emb-ai/rclicks)]
   [2024.10]
 
-:boom:**MANet:** Xianping Ma, Xiaokang Zhang, Man-On Pun, Bo Huang.<br />
+- **MANet:** Xianping Ma, Xiaokang Zhang, Man-On Pun, Bo Huang.<br />
   "MANet: Fine-Tuning Segment Anything Model for Multimodal Remote Sensing Semantic Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.11160)] 
   [[code](https://github.com/sstary/SSRS)]
   [2024.10]
 
-:boom:**big.LITTLE:** He Guo, Yulong Wang, Zixuan Ye, Jifeng Dai, Yuwen Xiong.<br />
+- **big.LITTLE:** He Guo, Yulong Wang, Zixuan Ye, Jifeng Dai, Yuwen Xiong.<br />
   "big.LITTLE Vision Transformer for Efficient Visual Recognition." ArXiv (2024).
   [[paper](https://arxiv.org/pdf/2410.10267)] 
   [2024.10]
 
-:boom:**CrackSegmentation:** Xiaoyan Jiang, Xinlong Wan, Kaiying Zhu, Xihe Qiu, Zhijun Fang.<br />
+- **CrackSegmentation:** Xiaoyan Jiang, Xinlong Wan, Kaiying Zhu, Xihe Qiu, Zhijun Fang.<br />
   "Distribution-aware Noisy-label Crack Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/pdf/2410.09409)] 
   [[code](https://github.com/sky-visionX/CrackSegmentation)]
   [2024.10]
 
-:boom:**UnSeg:** Ye Sun, Hao Zhang, Tiehua Zhang, Xingjun Ma, Yu-Gang Jiang.<br />
+- **UnSeg:** Ye Sun, Hao Zhang, Tiehua Zhang, Xingjun Ma, Yu-Gang Jiang.<br />
   "UnSeg: One Universal Unlearnable Example Generator is Enough against All Image Segmentation." NeurIPS (2024).
   [[paper](https://arxiv.org/pdf/2410.09909)] 
   [[code](https://github.com/sunye23/UnSeg)]
   [2024.10]
 
-:boom:**AM-SAM:** Yuchen Li, Li Zhang, Youwei Liang, Pengtao Xie.<br />
+- **AM-SAM:** Yuchen Li, Li Zhang, Youwei Liang, Pengtao Xie.<br />
   "AM-SAM: Automated Prompting and Mask Calibration for Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.09714)] 
   [2024.10]
 
-:boom:**VideoSAM:** Pinxue Guo, Zixu Zhao, Jianxiong Gao, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang.<br />
+- **VideoSAM:** Pinxue Guo, Zixu Zhao, Jianxiong Gao, Chongruo Wu, Tong He, Zheng Zhang, Tianjun Xiao, Wenqiang Zhang.<br />
   "VideoSAM: Open-World Video Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.08781)] 
   [2024.10]
 
-:boom:Virmarie Maquiling, Sean Anthony Byrne, Diederick C. Niehorster, Marco Carminati, Enkelejda Kasneci.<br />
+- Virmarie Maquiling, Sean Anthony Byrne, Diederick C. Niehorster, Marco Carminati, Enkelejda Kasneci.<br />
   "Zero-Shot Pupil Segmentation with SAM 2: A Case Study of Over 14 Million Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.08926)] 
   [2024.10]
 
-:boom:**BioSAM:** Cai, Miaomiao and Liu, Xiaoyu and Xiong, Zhiwei and Chen, Xuejin.<br />
+- **BioSAM:** Cai, Miaomiao and Liu, Xiaoyu and Xiong, Zhiwei and Chen, Xuejin.<br />
   "BioSAM: Generating SAM Prompts From Superpixel Graph for Biological Instance Segmentation." IEEE JBHI (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10705688?casa_token=mzhkiYqdOiEAAAAA:x0rDxKHWVB8QUc--7GYLtJJvPEk5qwN-401-scjI7FDtE28_xEFLrRsXbBr8j1EF3ZXgLgM4cdTI)] 
   [2024.10]
 
-:boom:Delle Castelle, C., Spampinato, F., Proietto Salanitri, F., Bellitto, G., Spampinato, C.<br />
+- Delle Castelle, C., Spampinato, F., Proietto Salanitri, F., Bellitto, G., Spampinato, C.<br />
   "Leveraging SAM and Learnable Prompts for Pancreatic MRI Segmentation." PILM AIPAD (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-031-73483-0_3)] 
   [2024.10]
 
-:boom:**PTSAM-DA:** Junjun Wu, Yunbo Rao, Shaoning Zeng, Bob Zhang.<br />
+- **PTSAM-DA:** Junjun Wu, Yunbo Rao, Shaoning Zeng, Bob Zhang.<br />
   "Pre-trained SAM as data augmentation for image segmentation." CAAI Transactions on Intelligence Technology (2024).
   [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/cit2.12381)] 
   [2024.10]
 
-:boom:**DFSS:** Zhiyu Jiang; Ye Yuan; Yuan Yuan.<br />
+- **DFSS:** Zhiyu Jiang; Ye Yuan; Yuan Yuan.<br />
   "Prototypical Metric Segment Anything Model for Data-Free Few-Shot Semantic Segmentation." IEEE Signal Processing Letters (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10707179?casa_token=UwNPgeWbbTYAAAAA:ivo0_MZTBOSK2Aq6S456OoEl-mH7kCQYN6SA7Ecg6_qRTuK2YwOw53C1Rkl-b9PJICGL3i7d9RJW)] 
   [2024.10]
 
-:boom:**AIES:** Yifei Huang, Chuyun Shen, Wenhao Li, Xiangfeng Wang, Bo Jin & Haibin Cai.<br />
+- **AIES:** Yifei Huang, Chuyun Shen, Wenhao Li, Xiangfeng Wang, Bo Jin & Haibin Cai.<br />
   "Optimizing Efficiency and Effectiveness in Sequential Prompt Strategy for SAM Using Reinforcement Learning." MICCAI (2024).
   [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_45)] 
   [2024.10]
 
-:boom:**SAMPolyBuild:** Chenhao Wang and Jingbo Chen and Yu Meng and Yupeng Deng and Kai Li and Yunlong Kong.<br />
+- **SAMPolyBuild:** Chenhao Wang and Jingbo Chen and Yu Meng and Yupeng Deng and Kai Li and Yunlong Kong.<br />
   "SAMPolyBuild: Adapting the Segment Anything Model for polygonal building extraction." ISPRS Journal of Photogrammetry and Remote Sensing (2024).
   [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0924271624003563)] 
   [[code](https://github.com/wchh-2000/SAMPolyBuild)]
