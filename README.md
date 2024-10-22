@@ -217,6 +217,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM2Long:** Shuangrui Ding, Rui Qian, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Yuwei Guo, Dahua Lin, Jiaqi Wang.<br />
+  "SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.16268)] 
+  [[code](https://github.com/Mark12Ding/SAM2Long)]
+  [2024.10]
+
 :boom:**LUDVIG:** Juliette Marrie, Romain Ménégaux, Michael Arbel, Diane Larlus, Julien Mairal.<br />
   "LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.14462)] 
