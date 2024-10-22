@@ -223,6 +223,12 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/Mark12Ding/SAM2Long)]
   [2024.10]
 
+:boom:**BYOCL:** Jiayue Dai, Yunya Wang, Yihan Fang, Yuetong Chen, Butian Xiong.<br />
+  "BYOCL: Build Your Own Consistent Latent with Hierarchical Representative Latent Clustering." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.15060)] 
+  [[code](https://github.com/cyt1202/BYOCL.git)]
+  [2024.10]
+
 :boom:**LUDVIG:** Juliette Marrie, Romain Ménégaux, Michael Arbel, Diane Larlus, Julien Mairal.<br />
   "LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.14462)] 
