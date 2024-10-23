@@ -217,6 +217,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**PlaneSAM:** Zhongchen Deng, Zhechen Yang, Chi Chen, Cheng Zeng, Yan Meng, Bisheng Yang.<br />
+  "PlaneSAM: Multimodal Plane Instance Segmentation Using the Segment Anything Model." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.16545)] 
+  [2024.10]
+
+:boom:**Multi-KernelGAN:** Haim Goldfisher, Asaf Yekutiel.<br />
+  "Multi Kernel Estimation based Object Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.17064)] 
+  [[code](https://github.com/kuty007/Multi-Kernel-GAN)]
+  [2024.10]
+
 :boom:**SAM2Long:** Shuangrui Ding, Rui Qian, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Yuwei Guo, Dahua Lin, Jiaqi Wang.<br />
   "SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.16268)] 
