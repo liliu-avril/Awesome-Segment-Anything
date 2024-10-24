@@ -267,6 +267,12 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2410.14083)] 
   [[code](https://github.com/sqhuang0103/SAMReg.git)]
   [2024.10]
+  
+:boom:**EP-SAM:** Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim, Sangmin Lee.<br />
+  "EP-SAM: Weakly Supervised Histopathology Segmentation via Enhanced Prompt with Segment Anything." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.13621)] 
+  [[code](https://github.com/QI-NemoSong/EP-SAM)]
+  [2024.10]
 
 - **EPLC-SAM:** Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim, Sangmin Lee.<br />
   "Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything." ArXiv (2024).
