@@ -217,6 +217,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Leila Khaertdinova, Ilya Pershin, Tatiana Shmykova, Bulat Ibragimov.<br />
+  "Gaze-Assisted Medical Image Segmentation." ArXiv (2024).
+  [[paper](Gaze-Assisted Medical Image Segmentation)] 
+  [[code](https://github.com/leiluk1/gaze-based-segmentation)]
+  [2024.10]
+
+:boom:**ROCKET-1:** Shaofei Cai, Zihao Wang, Kewei Lian, Zhancun Mu, Xiaojian Ma, Anji Liu, Yitao Liang.<br />
+  "ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.17856)] 
+  [[code](https://craftjarvis.github.io/ROCKET-1)]
+  [2024.10]
+
+:boom:**LIMIS:** Lena Heinemann, Alexander Jaus, Zdravko Marinov, Moon Kim, Maria Francesca Spadea, Jens Kleesiek, Rainer Stiefelhagen.<br />
+  "LIMIS: Towards Language-based Interactive Medical Image Segmentation." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.16939)] 
+  [2024.10]
+
 :boom:**PlaneSAM:** Zhongchen Deng, Zhechen Yang, Chi Chen, Cheng Zeng, Yan Meng, Bisheng Yang.<br />
   "PlaneSAM: Multimodal Plane Instance Segmentation Using the Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.16545)] 
