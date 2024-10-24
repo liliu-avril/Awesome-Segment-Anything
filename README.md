@@ -274,6 +274,11 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/QI-NemoSong/EP-SAM)]
   [2024.10]
 
+:boom:**GRS:** Alex Zook, Fan-Yun Sun, Josef Spjut, Valts Blukis, Stan Birchfield, Jonathan Tremblay.<br />
+  "GRS: Generating Robotic Simulation Tasks from Real-World Images." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.15536)] 
+  [2024.10]
+
 - **EPLC-SAM:** Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim, Sangmin Lee.<br />
   "Enhanced Prompt-leveraged Weakly Supervised Cancer Segmentation based on Segment Anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.13621)] 
