@@ -217,6 +217,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Hongxin Peng, Yongjian Liao, Weijun Li, Chuanyu Fu, Guoxin Zhang, Ziquan Ding, Zijie Huang, Qiku Cao, Shuting Cai.<br />
+  "Segmentation-aware Prior Assisted Joint Global Information Aggregated 3D Building Reconstruction." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.18433)] 
+  [2024.10]
+
 :boom:Leila Khaertdinova, Ilya Pershin, Tatiana Shmykova, Bulat Ibragimov.<br />
   "Gaze-Assisted Medical Image Segmentation." ArXiv (2024).
   [[paper](Gaze-Assisted Medical Image Segmentation)] 
