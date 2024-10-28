@@ -222,6 +222,44 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424011273)] 
   [2024.10]
 
+:boom:**CellSAM:** Xiao Ma, Jin Huang, Mengping Long, Xiaoxiao Li, Zhaoyi Ye, Wanting Hu, Yaxiaer Yalikun, Du Wang, Taobo Hu, Liye Mei, Cheng Lei.<br />
+"CellSAM: Advancing Pathologic Image Cell Segmentation  via Asymmetric Large-Scale Vision Model Feature  Distillation Aggregation Network ." Microscopy Research and Technique(2024).
+[[paper](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/jemt.24716)]
+[2024.10]
+
+:boom:Chenyu Zhang, Sam Huang, Ruwen Qin.<br />
+"When Segment Anything Model Meets Inventorying of Roadway Assets." International Journal of Transportation Science and Technology(2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S2046043024001254)]
+[2024.10]
+
+:boom:Hazzaa, Firas and Udoidiong, Innocent and Qashou, Akram and Yousef, Sufian.<br />
+"Segment Anything: A Review." ArXiv (2024).
+[[paper](https://journals.mesopotamian.press/index.php/cs/article/view/565)]
+[2024.10]
+
+:boom:**SBC-Net:** Shize Wang, Gang Wu, Jin Wang, Qing Zhu, Yunhui Shi & Baocai Yin.<br />
+"SBC-Net: semantic-guided brightness curve estimation network for low-light image enhancement." The Visual Computer(2024).
+[[paper](https://link.springer.com/article/10.1007/s00371-024-03636-4)]
+[[code](https://github.com/LambChuckEye/Semantic-Guided-Brightness-Curve-Estimation-for-Low-Light-Image-Enhancement)]
+[2024.10]
+
+:boom:Chensheng Zhang, Xintong Shi, Xinyue Yin, Jiayi Sun, Jianhui Zhao, Yi Zhang.<br />
+"Cleavage-Stage Embryo Segmentation Using SAM-Based Dual Branch Pipeline: Development and Evaluation with the CleavageEmbryo Dataset." Bioimage informatics (2024).
+[[paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae617/7826612?login=false)]
+[[code](https://github.com/12austincc/Cleavage-StageEmbryoSegmentation)]
+[2024.10]
+
+:boom:**CrackSeg:**Zhou, Wei and Huang, Hongpu and Zhang, Hancheng and Wang, Chen.<br />
+"Teaching Segment-Anything-Model Domain-Specific Knowledge for Road Crack Segmentation From On-Board Cameras." TITS (2024).
+[[paper](https://ieeexplore.ieee.org/document/10720639)]
+[[code](https://github.com/TRMetaGroup/CrackSeg)]
+[2024.10]
+
+:boom:Oussama Aiadi, Temmar, Salsabil.<br />
+"SAM-UNet: a new model for medical image segmentation." ArXiv (2024).
+[[paper](https://dspace.univ-ouargla.dz/jspui/handle/123456789/37280)]
+[2024.10]
+
 - Hongxin Peng, Yongjian Liao, Weijun Li, Chuanyu Fu, Guoxin Zhang, Ziquan Ding, Zijie Huang, Qiku Cao, Shuting Cai.<br />
   "Segmentation-aware Prior Assisted Joint Global Information Aggregated 3D Building Reconstruction." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.18433)] 
