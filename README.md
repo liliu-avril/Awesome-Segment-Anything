@@ -249,7 +249,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/12austincc/Cleavage-StageEmbryoSegmentation)]
 [2024.10]
 
-:boom:**CrackSeg:**Zhou, Wei and Huang, Hongpu and Zhang, Hancheng and Wang, Chen.<br />
+:boom:**CrackSeg:** Zhou, Wei and Huang, Hongpu and Zhang, Hancheng and Wang, Chen.<br />
 "Teaching Segment-Anything-Model Domain-Specific Knowledge for Road Crack Segmentation From On-Board Cameras." TITS (2024).
 [[paper](https://ieeexplore.ieee.org/document/10720639)]
 [[code](https://github.com/TRMetaGroup/CrackSeg)]
