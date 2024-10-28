@@ -217,69 +217,74 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Hongxin Peng, Yongjian Liao, Weijun Li, Chuanyu Fu, Guoxin Zhang, Ziquan Ding, Zijie Huang, Qiku Cao, Shuting Cai.<br />
+:boom:**OSAM-Fundus:** Rui Wang and Zhouwang Yang and Yanzhi Song.<br />
+  "OSAM-Fundus: A training-free, one-shot segmentation framework for optic disc and cup in fundus images." Biomedical Signal Processing and Control (2024).
+  [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424011273)] 
+  [2024.10]
+
+- Hongxin Peng, Yongjian Liao, Weijun Li, Chuanyu Fu, Guoxin Zhang, Ziquan Ding, Zijie Huang, Qiku Cao, Shuting Cai.<br />
   "Segmentation-aware Prior Assisted Joint Global Information Aggregated 3D Building Reconstruction." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.18433)] 
   [2024.10]
 
-:boom:Leila Khaertdinova, Ilya Pershin, Tatiana Shmykova, Bulat Ibragimov.<br />
+- Leila Khaertdinova, Ilya Pershin, Tatiana Shmykova, Bulat Ibragimov.<br />
   "Gaze-Assisted Medical Image Segmentation." ArXiv (2024).
   [[paper](Gaze-Assisted Medical Image Segmentation)] 
   [[code](https://github.com/leiluk1/gaze-based-segmentation)]
   [2024.10]
 
-:boom:**ROCKET-1:** Shaofei Cai, Zihao Wang, Kewei Lian, Zhancun Mu, Xiaojian Ma, Anji Liu, Yitao Liang.<br />
+- **ROCKET-1:** Shaofei Cai, Zihao Wang, Kewei Lian, Zhancun Mu, Xiaojian Ma, Anji Liu, Yitao Liang.<br />
   "ROCKET-1: Master Open-World Interaction with Visual-Temporal Context Prompting." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.17856)] 
   [[code](https://craftjarvis.github.io/ROCKET-1)]
   [2024.10]
 
-:boom:**LIMIS:** Lena Heinemann, Alexander Jaus, Zdravko Marinov, Moon Kim, Maria Francesca Spadea, Jens Kleesiek, Rainer Stiefelhagen.<br />
+- **LIMIS:** Lena Heinemann, Alexander Jaus, Zdravko Marinov, Moon Kim, Maria Francesca Spadea, Jens Kleesiek, Rainer Stiefelhagen.<br />
   "LIMIS: Towards Language-based Interactive Medical Image Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.16939)] 
   [2024.10]
 
-:boom:**PlaneSAM:** Zhongchen Deng, Zhechen Yang, Chi Chen, Cheng Zeng, Yan Meng, Bisheng Yang.<br />
+- **PlaneSAM:** Zhongchen Deng, Zhechen Yang, Chi Chen, Cheng Zeng, Yan Meng, Bisheng Yang.<br />
   "PlaneSAM: Multimodal Plane Instance Segmentation Using the Segment Anything Model." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.16545)] 
   [2024.10]
 
-:boom:**Multi-KernelGAN:** Haim Goldfisher, Asaf Yekutiel.<br />
+- **Multi-KernelGAN:** Haim Goldfisher, Asaf Yekutiel.<br />
   "Multi Kernel Estimation based Object Segmentation." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.17064)] 
   [[code](https://github.com/kuty007/Multi-Kernel-GAN)]
   [2024.10]
 
-:boom:**SAM2Long:** Shuangrui Ding, Rui Qian, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Yuwei Guo, Dahua Lin, Jiaqi Wang.<br />
+- **SAM2Long:** Shuangrui Ding, Rui Qian, Xiaoyi Dong, Pan Zhang, Yuhang Zang, Yuhang Cao, Yuwei Guo, Dahua Lin, Jiaqi Wang.<br />
   "SAM2Long: Enhancing SAM 2 for Long Video Segmentation with a Training-Free Memory Tree." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.16268)] 
   [[code](https://github.com/Mark12Ding/SAM2Long)]
   [2024.10]
 
-:boom:**BYOCL:** Jiayue Dai, Yunya Wang, Yihan Fang, Yuetong Chen, Butian Xiong.<br />
+- **BYOCL:** Jiayue Dai, Yunya Wang, Yihan Fang, Yuetong Chen, Butian Xiong.<br />
   "BYOCL: Build Your Own Consistent Latent with Hierarchical Representative Latent Clustering." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.15060)] 
   [[code](https://github.com/cyt1202/BYOCL.git)]
   [2024.10]
 
-:boom:**LUDVIG:** Juliette Marrie, Romain Ménégaux, Michael Arbel, Diane Larlus, Julien Mairal.<br />
+- **LUDVIG:** Juliette Marrie, Romain Ménégaux, Michael Arbel, Diane Larlus, Julien Mairal.<br />
   "LUDVIG: Learning-free Uplifting of 2D Visual features to Gaussian Splatting scenes." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.14462)] 
   [2024.10]
 
-:boom:**SAMReg:** Shiqi Huang, Tingfa Xu, Ziyi Shen, Shaheer Ullah Saeed, Wen Yan, Dean Barratt, Yipeng Hu.<br />
+- **SAMReg:** Shiqi Huang, Tingfa Xu, Ziyi Shen, Shaheer Ullah Saeed, Wen Yan, Dean Barratt, Yipeng Hu.<br />
   "SAMReg: SAM-enabled Image Registration with ROI-based Correspondence." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.14083)] 
   [[code](https://github.com/sqhuang0103/SAMReg.git)]
   [2024.10]
   
-:boom:**EP-SAM:** Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim, Sangmin Lee.<br />
+- **EP-SAM:** Joonhyeon Song, Seohwan Yun, Seongho Yoon, Joohyeok Kim, Sangmin Lee.<br />
   "EP-SAM: Weakly Supervised Histopathology Segmentation via Enhanced Prompt with Segment Anything." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.13621)] 
   [[code](https://github.com/QI-NemoSong/EP-SAM)]
   [2024.10]
 
-:boom:**GRS:** Alex Zook, Fan-Yun Sun, Josef Spjut, Valts Blukis, Stan Birchfield, Jonathan Tremblay.<br />
+- **GRS:** Alex Zook, Fan-Yun Sun, Josef Spjut, Valts Blukis, Stan Birchfield, Jonathan Tremblay.<br />
   "GRS: Generating Robotic Simulation Tasks from Real-World Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.15536)] 
   [2024.10]
