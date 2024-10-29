@@ -217,6 +217,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**UMI-GRAT:** Song Xia, Wenhan Yang, Yi Yu, Xun Lin, Henghui Ding, Lingyu Duan, Xudong Jiang.<br />
+"Transferable Adversarial Attacks on SAM and Its Downstream Models." NeurIPS (2024).
+[[paper](https://arxiv.org/abs/2410.20197)]
+[[code](https://github.com/xiasong0501/GRAT)]
+[2024.10]
+
+:boom:**A-MFST:** Yuxin Chen, Zijian Wu, Adam Schmidt, Septimiu E. Salcudean.<br />
+"A-MFST: Adaptive Multi-Flow Sparse Tracker for Real-Time Tissue Tracking Under Occlusion." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2410.19996)]
+[2024.10]
+
+:boom:**MealSAM:** Lubnaa Abdur Rahman, Ioannis Papathanail, Lorenzo Brigato, Stavroula Mougiakakou.<br />
+"A SAM based Tool for Semi-Automatic Food Annotation." ECAI (2024).
+[[paper](https://arxiv.org/abs/2410.19756)]
+[[code](https://github.com/lubnaa25/MealSAM_food_annotator)]
+[2024.10]
+
 :boom:**OSAM-Fundus:** Rui Wang and Zhouwang Yang and Yanzhi Song.<br />
   "OSAM-Fundus: A training-free, one-shot segmentation framework for optic disc and cup in fundus images." Biomedical Signal Processing and Control (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424011273)] 
