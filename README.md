@@ -217,6 +217,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**RSAM-PT:** Mengke Li, Ye Liu, Yang Lu, Yiqun Zhang, Yiu-ming Cheung, Hui Huang.<br />
+"Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition." NeurIPS (2024).
+[[paper](https://arxiv.org/abs/2410.21042)]
+[[code](https://github.com/Keke921/GNM-PT)]
+[2024.10]
+
 :boom:**UMI-GRAT:** Song Xia, Wenhan Yang, Yi Yu, Xun Lin, Henghui Ding, Lingyu Duan, Xudong Jiang.<br />
 "Transferable Adversarial Attacks on SAM and Its Downstream Models." NeurIPS (2024).
 [[paper](https://arxiv.org/abs/2410.20197)]
