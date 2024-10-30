@@ -217,6 +217,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**PointPrompt:** Jorge Quesada, Zoe Fowler, Mohammad Alotaibi, Mohit Prabhushankar, Ghassan AlRegib.<br />
+"Benchmarking Human and Automated Prompting in the Segment Anything Model." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2410.22048)]
+[[code](https://github.com/olivesgatech/PointPrompt)]
+[2024.10]
+
+:boom:**SAM-Swin:** Jia Wei, Yun Li, Xiaomao Fan, Wenjun Ma, Meiyu Qiu, Hongyu Chen, Wenbin Lei.<br />
+"SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection." MIA (2024).
+[[paper](https://arxiv.org/abs/2410.21813)]
+[[code](https://github.com/VVJia/SAM-Swin)]
+[2024.10]
+
+:boom:**VideoSAM:** Chika Maduabuchi, Ericmoore Jossou, Matteo Bucci.<br />
+"VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2410.21304)]
+[[code](https://github.com/chikap421/videosam)]
+[2024.10]
+
 :boom:**RSAM-PT:** Mengke Li, Ye Liu, Yang Lu, Yiqun Zhang, Yiu-ming Cheung, Hui Huang.<br />
 "Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition." NeurIPS (2024).
 [[paper](https://arxiv.org/abs/2410.21042)]
