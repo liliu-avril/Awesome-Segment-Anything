@@ -217,6 +217,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Yanbin Yang, Feiyu Zhao, Ruxi Liang, Quan Guo, Junhua Gu, Yan Huang, Yun Yu.<br />
+"Performance of the Segment Anything Model in Various RFI/Events Detection in Radio Astronomy." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2410.22497)]
+[2024.10]
+
 :boom:**PointPrompt:** Jorge Quesada, Zoe Fowler, Mohammad Alotaibi, Mohit Prabhushankar, Ghassan AlRegib.<br />
 "Benchmarking Human and Automated Prompting in the Segment Anything Model." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2410.22048)]
