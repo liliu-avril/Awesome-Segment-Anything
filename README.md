@@ -217,91 +217,122 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Yanbin Yang, Feiyu Zhao, Ruxi Liang, Quan Guo, Junhua Gu, Yan Huang, Yun Yu.<br />
+:boom:**SFCD-Net:** Zhang, Da and Wang, Feiyu and Ning, Lichen and Zhao, Zhiyuan and Gao, Junyu and Li, Xuelong.<br />
+"Integrating SAM with Feature Interaction for Remote Sensing Change Detection." TGRS(2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10737290?casa_token=DLWPcqAVeVgAAAAA:L0PWxrMg4DCpxbmCFzr37o1n8QLVdyxNwHb9IW4B-DrIJqRaCE0FW8O8tA5uczccMEOWekfB11Bm)]
+[2024.10]
+
+:boom:**Swin-Unet-SAM:** Lin, Yanfen, Tinghao Fan, and Congfu Fang.<br />
+"A Classification and Segmentation Model for Diamond Abrasive Grains Based on Improved Swin-Unet-SAM." Electronics (2024).
+[[paper](https://www.mdpi.com/2079-9292/13/21/4213)]
+[2024.10]
+
+:boom:**RSPS-SAM:** Liu, Zhuoran, Zizhen Li, Ying Liang, Claudio Persello, Bo Sun, Guangjun He, and Lei Ma.<br />
+"RSPS-SAM: A Remote Sensing Image Panoptic Segmentation Method Based on SAM." Remote Sensing(2024).
+[[paper](https://www.mdpi.com/2072-4292/16/21/4002)]
+[2024.10]
+
+:boom:**SF-SAM-Adapter:** Ting Lei, Jing Chen, Jixiang Chen.<br />
+"SF-SAM-Adapter: SAM-based segmentation model integrates prior knowledge for gaze image reflection noise removal." Alexandria Engineering Journal(2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1110016824012572)]
+[[code](https://github.com/leiting5297/SF-SAM-Adapter.git)]
+[2024.10]
+
+:boom:**MWVOS:** Zhenghao Zhang and Shengfan Zhang and Zuozhuo Dai and Zilong Dong and Siyu Zhu.<br />
+"Zhenghao Zhang and Shengfan Zhang and Zuozhuo Dai and Zilong Dong and Siyu Zhu." Pattern Recognition(2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0031320324008513)]
+[2024.10]
+
+:boom:Chuan Yang, Yueqin Zhu, Jiantong Zhang, Xiaoqiang Wei, Haomeng Zhu, and Zhehui Zhu.<br />
+"A feature fusion method on landslide identification in remote sensing with Segment Anything Model." Landslides (2024).
+[[paper](https://link.springer.com/article/10.1007/s10346-024-02390-x)]
+[2024.10]
+
+- Yanbin Yang, Feiyu Zhao, Ruxi Liang, Quan Guo, Junhua Gu, Yan Huang, Yun Yu.<br />
 "Performance of the Segment Anything Model in Various RFI/Events Detection in Radio Astronomy." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2410.22497)]
 [2024.10]
 
-:boom:**PointPrompt:** Jorge Quesada, Zoe Fowler, Mohammad Alotaibi, Mohit Prabhushankar, Ghassan AlRegib.<br />
+- **PointPrompt:** Jorge Quesada, Zoe Fowler, Mohammad Alotaibi, Mohit Prabhushankar, Ghassan AlRegib.<br />
 "Benchmarking Human and Automated Prompting in the Segment Anything Model." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2410.22048)]
 [[code](https://github.com/olivesgatech/PointPrompt)]
 [2024.10]
 
-:boom:**SAM-Swin:** Jia Wei, Yun Li, Xiaomao Fan, Wenjun Ma, Meiyu Qiu, Hongyu Chen, Wenbin Lei.<br />
+- **SAM-Swin:** Jia Wei, Yun Li, Xiaomao Fan, Wenjun Ma, Meiyu Qiu, Hongyu Chen, Wenbin Lei.<br />
 "SAM-Swin: SAM-Driven Dual-Swin Transformers with Adaptive Lesion Enhancement for Laryngo-Pharyngeal Tumor Detection." MIA (2024).
 [[paper](https://arxiv.org/abs/2410.21813)]
 [[code](https://github.com/VVJia/SAM-Swin)]
 [2024.10]
 
-:boom:**VideoSAM:** Chika Maduabuchi, Ericmoore Jossou, Matteo Bucci.<br />
+- **VideoSAM:** Chika Maduabuchi, Ericmoore Jossou, Matteo Bucci.<br />
 "VideoSAM: A Large Vision Foundation Model for High-Speed Video Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2410.21304)]
 [[code](https://github.com/chikap421/videosam)]
 [2024.10]
 
-:boom:**RSAM-PT:** Mengke Li, Ye Liu, Yang Lu, Yiqun Zhang, Yiu-ming Cheung, Hui Huang.<br />
+- **RSAM-PT:** Mengke Li, Ye Liu, Yang Lu, Yiqun Zhang, Yiu-ming Cheung, Hui Huang.<br />
 "Improving Visual Prompt Tuning by Gaussian Neighborhood Minimization for Long-Tailed Visual Recognition." NeurIPS (2024).
 [[paper](https://arxiv.org/abs/2410.21042)]
 [[code](https://github.com/Keke921/GNM-PT)]
 [2024.10]
 
-:boom:**UMI-GRAT:** Song Xia, Wenhan Yang, Yi Yu, Xun Lin, Henghui Ding, Lingyu Duan, Xudong Jiang.<br />
+- **UMI-GRAT:** Song Xia, Wenhan Yang, Yi Yu, Xun Lin, Henghui Ding, Lingyu Duan, Xudong Jiang.<br />
 "Transferable Adversarial Attacks on SAM and Its Downstream Models." NeurIPS (2024).
 [[paper](https://arxiv.org/abs/2410.20197)]
 [[code](https://github.com/xiasong0501/GRAT)]
 [2024.10]
 
-:boom:**A-MFST:** Yuxin Chen, Zijian Wu, Adam Schmidt, Septimiu E. Salcudean.<br />
+- **A-MFST:** Yuxin Chen, Zijian Wu, Adam Schmidt, Septimiu E. Salcudean.<br />
 "A-MFST: Adaptive Multi-Flow Sparse Tracker for Real-Time Tissue Tracking Under Occlusion." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2410.19996)]
 [2024.10]
 
-:boom:**MealSAM:** Lubnaa Abdur Rahman, Ioannis Papathanail, Lorenzo Brigato, Stavroula Mougiakakou.<br />
+- **MealSAM:** Lubnaa Abdur Rahman, Ioannis Papathanail, Lorenzo Brigato, Stavroula Mougiakakou.<br />
 "A SAM based Tool for Semi-Automatic Food Annotation." ECAI (2024).
 [[paper](https://arxiv.org/abs/2410.19756)]
 [[code](https://github.com/lubnaa25/MealSAM_food_annotator)]
 [2024.10]
 
-:boom:**OSAM-Fundus:** Rui Wang and Zhouwang Yang and Yanzhi Song.<br />
+- *OSAM-Fundus:** Rui Wang and Zhouwang Yang and Yanzhi Song.<br />
   "OSAM-Fundus: A training-free, one-shot segmentation framework for optic disc and cup in fundus images." Biomedical Signal Processing and Control (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424011273)] 
   [2024.10]
 
-:boom:**CellSAM:** Xiao Ma, Jin Huang, Mengping Long, Xiaoxiao Li, Zhaoyi Ye, Wanting Hu, Yaxiaer Yalikun, Du Wang, Taobo Hu, Liye Mei, Cheng Lei.<br />
+- **CellSAM:** Xiao Ma, Jin Huang, Mengping Long, Xiaoxiao Li, Zhaoyi Ye, Wanting Hu, Yaxiaer Yalikun, Du Wang, Taobo Hu, Liye Mei, Cheng Lei.<br />
 "CellSAM: Advancing Pathologic Image Cell Segmentation  via Asymmetric Large-Scale Vision Model Feature  Distillation Aggregation Network ." Microscopy Research and Technique(2024).
 [[paper](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/jemt.24716)]
 [2024.10]
 
-:boom:Chenyu Zhang, Sam Huang, Ruwen Qin.<br />
+- Chenyu Zhang, Sam Huang, Ruwen Qin.<br />
 "When Segment Anything Model Meets Inventorying of Roadway Assets." International Journal of Transportation Science and Technology(2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S2046043024001254)]
 [2024.10]
 
-:boom:Hazzaa, Firas and Udoidiong, Innocent and Qashou, Akram and Yousef, Sufian.<br />
+- Hazzaa, Firas and Udoidiong, Innocent and Qashou, Akram and Yousef, Sufian.<br />
 "Segment Anything: A Review." ArXiv (2024).
 [[paper](https://journals.mesopotamian.press/index.php/cs/article/view/565)]
 [2024.10]
 
-:boom:**SBC-Net:** Shize Wang, Gang Wu, Jin Wang, Qing Zhu, Yunhui Shi & Baocai Yin.<br />
+- **SBC-Net:** Shize Wang, Gang Wu, Jin Wang, Qing Zhu, Yunhui Shi & Baocai Yin.<br />
 "SBC-Net: semantic-guided brightness curve estimation network for low-light image enhancement." The Visual Computer(2024).
 [[paper](https://link.springer.com/article/10.1007/s00371-024-03636-4)]
 [[code](https://github.com/LambChuckEye/Semantic-Guided-Brightness-Curve-Estimation-for-Low-Light-Image-Enhancement)]
 [2024.10]
 
-:boom:Chensheng Zhang, Xintong Shi, Xinyue Yin, Jiayi Sun, Jianhui Zhao, Yi Zhang.<br />
+- Chensheng Zhang, Xintong Shi, Xinyue Yin, Jiayi Sun, Jianhui Zhao, Yi Zhang.<br />
 "Cleavage-Stage Embryo Segmentation Using SAM-Based Dual Branch Pipeline: Development and Evaluation with the CleavageEmbryo Dataset." Bioimage informatics (2024).
 [[paper](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btae617/7826612?login=false)]
 [[code](https://github.com/12austincc/Cleavage-StageEmbryoSegmentation)]
 [2024.10]
 
-:boom:**CrackSeg:** Zhou, Wei and Huang, Hongpu and Zhang, Hancheng and Wang, Chen.<br />
+- **CrackSeg:** Zhou, Wei and Huang, Hongpu and Zhang, Hancheng and Wang, Chen.<br />
 "Teaching Segment-Anything-Model Domain-Specific Knowledge for Road Crack Segmentation From On-Board Cameras." TITS (2024).
 [[paper](https://ieeexplore.ieee.org/document/10720639)]
 [[code](https://github.com/TRMetaGroup/CrackSeg)]
 [2024.10]
 
-:boom:Oussama Aiadi, Temmar, Salsabil.<br />
+- Oussama Aiadi, Temmar, Salsabil.<br />
 "SAM-UNet: a new model for medical image segmentation." ArXiv (2024).
 [[paper](https://dspace.univ-ouargla.dz/jspui/handle/123456789/37280)]
 [2024.10]
