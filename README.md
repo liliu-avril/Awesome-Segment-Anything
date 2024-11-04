@@ -260,7 +260,7 @@ If you find our work useful in your research, please consider citing:
 [2024.10]
 
 :boom:**MWVOS:** Zhenghao Zhang and Shengfan Zhang and Zuozhuo Dai and Zilong Dong and Siyu Zhu.<br />
-"Zhenghao Zhang and Shengfan Zhang and Zuozhuo Dai and Zilong Dong and Siyu Zhu." Pattern Recognition(2024).
+"MWVOS: Mask-Free Weakly Supervised Video Object Segmentation via promptable foundation model." Pattern Recognition(2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324008513)]
 [2024.10]
 
