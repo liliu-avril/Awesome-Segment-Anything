@@ -217,6 +217,27 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SpineFM:** Samuel J. Simons, Bartłomiej W. Papież.<br />
+"SpineFM: Leveraging Foundation Models for Automatic Spine X-ray Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.00326)]
+[2024.11]
+
+:boom:**MV-Adapter:** Lianjun Liu et al.<br />
+"MV-Adapter: Enhancing Underwater Instance Segmentation via Adaptive Channel Attention." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.00472)]
+[2024.11]
+
+:boom:**ZIM:** Beomyoung Kim, Chanyong Shin, Joonhyun Jeong, Hyungsik Jung, Se-Yun Lee, Sewhan Chun, Dong-Hyun Hwang, Joonsang Yu.<br />
+"ZIM: Zero-Shot Image Matting for Anything." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.00626)]
+[[code](https://github.com/naver-ai/ZIM)]
+[2024.11]
+
+:boom:Sourav Modak, Anthony Stein.<br />
+"Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.00548)]
+[2024.11]
+
 :boom:**SFCD-Net:** Zhang, Da and Wang, Feiyu and Ning, Lichen and Zhao, Zhiyuan and Gao, Junyu and Li, Xuelong.<br />
 "Integrating SAM with Feature Interaction for Remote Sensing Change Detection." TGRS(2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10737290?casa_token=DLWPcqAVeVgAAAAA:L0PWxrMg4DCpxbmCFzr37o1n8QLVdyxNwHb9IW4B-DrIJqRaCE0FW8O8tA5uczccMEOWekfB11Bm)]
