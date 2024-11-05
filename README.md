@@ -217,6 +217,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**UnSegMedGAT:** A. Mudit Adityaja, Saurabh J. Shigwan, Nitin Kumar.<br />
+"UnSegMedGAT: Unsupervised Medical Image Segmentation using Graph Attention Networks Clustering." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.01966)]
+[[code](https://github.com/mudit-adityaja/UnSegMedGAT)]
+[2024.11]
+
 :boom:**SpineFM:** Samuel J. Simons, Bartłomiej W. Papież.<br />
 "SpineFM: Leveraging Foundation Models for Automatic Spine X-ray Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.00326)]
