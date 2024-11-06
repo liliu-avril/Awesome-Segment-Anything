@@ -217,6 +217,31 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Gabriel Bellon de Carvalho, Jurandy Almeida.<br />
+"Exploiting the Segment Anything Model (SAM) for Lung Segmentation in Chest X-ray Images." CIARP(2024).
+[[paper](https://arxiv.org/abs/2411.03064)]
+[2024.11]
+
+:boom:**RGA:** Xiaoliang Liu, Furao Shen, Jian Zhao.<br />
+"Region-Guided Attack on the Segment Anything Model (SAM)." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.02974)]
+[2024.11]
+
+:boom:Xavier Timoneda, Markus Herb, Fabian Duerr, Daniel Goehring, Fisher Yu.<br />
+"Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation." IROS(2024).
+[[paper](https://arxiv.org/abs/2411.02969)]
+[2024.11]
+
+:boom: Rina Bao, Erfan Darzi, Sheng He, Chuan-Heng Hsiao, Mohammad Arafat Hussain, Jingpeng Li, Atle Bjornerud, Ellen Grant, Yangming Ou.<br />
+"Foundation AI Model for Medical Image Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.02745)]
+[2024.11]
+
+:boom:**DendriteSAM:** Zewen Zhuo, Ilya Belevich, Ville Leinonen, Eija Jokitalo, Tarja Malm, Alejandra Sierra, Jussi Tohka.<br />
+"Segment Anything for Dendrites from Electron Microscopy." IPAS(2024).
+[[paper](https://arxiv.org/abs/2411.02562)]
+[2024.11]
+
 :boom:**UnSegMedGAT:** A. Mudit Adityaja, Saurabh J. Shigwan, Nitin Kumar.<br />
 "UnSegMedGAT: Unsupervised Medical Image Segmentation using Graph Attention Networks Clustering." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.01966)]
