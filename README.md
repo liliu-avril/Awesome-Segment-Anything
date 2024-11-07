@@ -217,6 +217,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SA3DIP:** Xi Yang, Xu Gu, Xingyilang Yin, Xinbo Gao.<br />
+"SA3DIP: Segment Any 3D Instance with Potential 3D Priors." NeurIPS(2024).
+[[paper](https://arxiv.org/abs/2411.03819)]
+[2024.11]
+
 :boom:Gabriel Bellon de Carvalho, Jurandy Almeida.<br />
 "Exploiting the Segment Anything Model (SAM) for Lung Segmentation in Chest X-ray Images." CIARP(2024).
 [[paper](https://arxiv.org/abs/2411.03064)]
