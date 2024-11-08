@@ -217,6 +217,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**ICH-SCNet:** Xinlei Yu, Ahmed Elazab, Ruiquan Ge, Hui Jin, Xinchen Jiang, Gangyong Jia, Qing Wu, Qinglei Shi, Changmiao Wang.<br />
+"ICH-SCNet: Intracerebral Hemorrhage Segmentation and Prognosis Classification Network Using CLIP-guided SAM mechanism." BIBM (2024).
+[[paper](https://arxiv.org/abs/2411.04656)]
+[2024.11]
+
+:boom:**UEVAVD:** Xinhua Jiang, Tianpeng Liu, Li Liu, Zhen Liu, Yongxiang Liu.<br />
+"UEVAVD: A Dataset for Developing UAV's Eye View Active Object Detection." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.04348)]
+[[code](https://github.com/Leo000ooo/UEVAVD)]
+[2024.11]
+
 :boom:**SA3DIP:** Xi Yang, Xu Gu, Xingyilang Yin, Xinbo Gao.<br />
 "SA3DIP: Segment Any 3D Instance with Potential 3D Priors." NeurIPS(2024).
 [[paper](https://arxiv.org/abs/2411.03819)]
