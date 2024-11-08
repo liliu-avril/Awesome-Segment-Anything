@@ -217,6 +217,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**VideoGLaMM:** Shehan Munasinghe, Hanan Gani, Wenqi Zhu, Jiale Cao, Eric Xing, Fahad Shahbaz Khan, Salman Khan.<br />
+"VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.04923)]
+[[code](https://mbzuai-oryx.github.io/VideoGLaMM)]
+[2024.11]
+
 :boom:**ICH-SCNet:** Xinlei Yu, Ahmed Elazab, Ruiquan Ge, Hui Jin, Xinchen Jiang, Gangyong Jia, Qing Wu, Qinglei Shi, Changmiao Wang.<br />
 "ICH-SCNet: Intracerebral Hemorrhage Segmentation and Prognosis Classification Network Using CLIP-guided SAM mechanism." BIBM (2024).
 [[paper](https://arxiv.org/abs/2411.04656)]
