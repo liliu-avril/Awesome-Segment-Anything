@@ -217,107 +217,117 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**VideoGLaMM:** Shehan Munasinghe, Hanan Gani, Wenqi Zhu, Jiale Cao, Eric Xing, Fahad Shahbaz Khan, Salman Khan.<br />
+:boom:**WavShadow:** Shreyans Jain, Aadya Arora, Viraj Vekaria, Karan Gandhi.<br />
+"WavShadow: Wavelet Based Shadow Segmentation and Removal." ICVGIP(2024).
+[[paper](https://arxiv.org/abs/2411.05747)]
+[2024.11]
+
+:boom:**EAP4EMSIG:** Nils Friederich, Angelo Jovin Yamachui Sitcheu, Annika Nassal, Matthias Pesch, Erenus Yildiz, Maximilian Beichter, Lukas Scholtes, Bahar Akbaba, Thomas Lautenschlager, Oliver Neumann, Dietrich Kohlheyer, Hanno Scharr, Johannes Seiffarth, Katharina Nöh, Ralf Mikut.<br />
+"EAP4EMSIG--Experiment Automation Pipeline for Event-Driven Microscopy to Smart Microfluidic Single-Cells Analysis." Workshop Computational Intelligence(2024).
+[[paper](https://arxiv.org/abs/2411.05030)]
+[2024.11]
+
+- **VideoGLaMM:** Shehan Munasinghe, Hanan Gani, Wenqi Zhu, Jiale Cao, Eric Xing, Fahad Shahbaz Khan, Salman Khan.<br />
 "VideoGLaMM: A Large Multimodal Model for Pixel-Level Visual Grounding in Videos." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.04923)]
 [[code](https://mbzuai-oryx.github.io/VideoGLaMM)]
 [2024.11]
 
-:boom:**ICH-SCNet:** Xinlei Yu, Ahmed Elazab, Ruiquan Ge, Hui Jin, Xinchen Jiang, Gangyong Jia, Qing Wu, Qinglei Shi, Changmiao Wang.<br />
+- **ICH-SCNet:** Xinlei Yu, Ahmed Elazab, Ruiquan Ge, Hui Jin, Xinchen Jiang, Gangyong Jia, Qing Wu, Qinglei Shi, Changmiao Wang.<br />
 "ICH-SCNet: Intracerebral Hemorrhage Segmentation and Prognosis Classification Network Using CLIP-guided SAM mechanism." BIBM (2024).
 [[paper](https://arxiv.org/abs/2411.04656)]
 [2024.11]
 
-:boom:**UEVAVD:** Xinhua Jiang, Tianpeng Liu, Li Liu, Zhen Liu, Yongxiang Liu.<br />
+- **UEVAVD:** Xinhua Jiang, Tianpeng Liu, Li Liu, Zhen Liu, Yongxiang Liu.<br />
 "UEVAVD: A Dataset for Developing UAV's Eye View Active Object Detection." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.04348)]
 [[code](https://github.com/Leo000ooo/UEVAVD)]
 [2024.11]
 
-:boom:**SA3DIP:** Xi Yang, Xu Gu, Xingyilang Yin, Xinbo Gao.<br />
+- **SA3DIP:** Xi Yang, Xu Gu, Xingyilang Yin, Xinbo Gao.<br />
 "SA3DIP: Segment Any 3D Instance with Potential 3D Priors." NeurIPS(2024).
 [[paper](https://arxiv.org/abs/2411.03819)]
 [2024.11]
 
-:boom:Gabriel Bellon de Carvalho, Jurandy Almeida.<br />
+- Gabriel Bellon de Carvalho, Jurandy Almeida.<br />
 "Exploiting the Segment Anything Model (SAM) for Lung Segmentation in Chest X-ray Images." CIARP(2024).
 [[paper](https://arxiv.org/abs/2411.03064)]
 [2024.11]
 
-:boom:**RGA:** Xiaoliang Liu, Furao Shen, Jian Zhao.<br />
+- **RGA:** Xiaoliang Liu, Furao Shen, Jian Zhao.<br />
 "Region-Guided Attack on the Segment Anything Model (SAM)." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.02974)]
 [2024.11]
 
-:boom:Xavier Timoneda, Markus Herb, Fabian Duerr, Daniel Goehring, Fisher Yu.<br />
+- Xavier Timoneda, Markus Herb, Fabian Duerr, Daniel Goehring, Fisher Yu.<br />
 "Multi-modal NeRF Self-Supervision for LiDAR Semantic Segmentation." IROS(2024).
 [[paper](https://arxiv.org/abs/2411.02969)]
 [2024.11]
 
-:boom: Rina Bao, Erfan Darzi, Sheng He, Chuan-Heng Hsiao, Mohammad Arafat Hussain, Jingpeng Li, Atle Bjornerud, Ellen Grant, Yangming Ou.<br />
+- Rina Bao, Erfan Darzi, Sheng He, Chuan-Heng Hsiao, Mohammad Arafat Hussain, Jingpeng Li, Atle Bjornerud, Ellen Grant, Yangming Ou.<br />
 "Foundation AI Model for Medical Image Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.02745)]
 [2024.11]
 
-:boom:**DendriteSAM:** Zewen Zhuo, Ilya Belevich, Ville Leinonen, Eija Jokitalo, Tarja Malm, Alejandra Sierra, Jussi Tohka.<br />
+- **DendriteSAM:** Zewen Zhuo, Ilya Belevich, Ville Leinonen, Eija Jokitalo, Tarja Malm, Alejandra Sierra, Jussi Tohka.<br />
 "Segment Anything for Dendrites from Electron Microscopy." IPAS(2024).
 [[paper](https://arxiv.org/abs/2411.02562)]
 [2024.11]
 
-:boom:**UnSegMedGAT:** A. Mudit Adityaja, Saurabh J. Shigwan, Nitin Kumar.<br />
+- **UnSegMedGAT:** A. Mudit Adityaja, Saurabh J. Shigwan, Nitin Kumar.<br />
 "UnSegMedGAT: Unsupervised Medical Image Segmentation using Graph Attention Networks Clustering." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.01966)]
 [[code](https://github.com/mudit-adityaja/UnSegMedGAT)]
 [2024.11]
 
-:boom:**SpineFM:** Samuel J. Simons, Bartłomiej W. Papież.<br />
+- **SpineFM:** Samuel J. Simons, Bartłomiej W. Papież.<br />
 "SpineFM: Leveraging Foundation Models for Automatic Spine X-ray Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.00326)]
 [2024.11]
 
-:boom:**MV-Adapter:** Lianjun Liu et al.<br />
+- **MV-Adapter:** Lianjun Liu et al.<br />
 "MV-Adapter: Enhancing Underwater Instance Segmentation via Adaptive Channel Attention." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.00472)]
 [2024.11]
 
-:boom:**ZIM:** Beomyoung Kim, Chanyong Shin, Joonhyun Jeong, Hyungsik Jung, Se-Yun Lee, Sewhan Chun, Dong-Hyun Hwang, Joonsang Yu.<br />
+- **ZIM:** Beomyoung Kim, Chanyong Shin, Joonhyun Jeong, Hyungsik Jung, Se-Yun Lee, Sewhan Chun, Dong-Hyun Hwang, Joonsang Yu.<br />
 "ZIM: Zero-Shot Image Matting for Anything." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.00626)]
 [[code](https://github.com/naver-ai/ZIM)]
 [2024.11]
 
-:boom:Sourav Modak, Anthony Stein.<br />
+- Sourav Modak, Anthony Stein.<br />
 "Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.00548)]
 [2024.11]
 
-:boom:**SFCD-Net:** Zhang, Da and Wang, Feiyu and Ning, Lichen and Zhao, Zhiyuan and Gao, Junyu and Li, Xuelong.<br />
+- **SFCD-Net:** Zhang, Da and Wang, Feiyu and Ning, Lichen and Zhao, Zhiyuan and Gao, Junyu and Li, Xuelong.<br />
 "Integrating SAM with Feature Interaction for Remote Sensing Change Detection." TGRS(2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10737290?casa_token=DLWPcqAVeVgAAAAA:L0PWxrMg4DCpxbmCFzr37o1n8QLVdyxNwHb9IW4B-DrIJqRaCE0FW8O8tA5uczccMEOWekfB11Bm)]
 [2024.10]
 
-:boom:**Swin-Unet-SAM:** Lin, Yanfen, Tinghao Fan, and Congfu Fang.<br />
+- **Swin-Unet-SAM:** Lin, Yanfen, Tinghao Fan, and Congfu Fang.<br />
 "A Classification and Segmentation Model for Diamond Abrasive Grains Based on Improved Swin-Unet-SAM." Electronics (2024).
 [[paper](https://www.mdpi.com/2079-9292/13/21/4213)]
 [2024.10]
 
-:boom:**RSPS-SAM:** Liu, Zhuoran, Zizhen Li, Ying Liang, Claudio Persello, Bo Sun, Guangjun He, and Lei Ma.<br />
+- **RSPS-SAM:** Liu, Zhuoran, Zizhen Li, Ying Liang, Claudio Persello, Bo Sun, Guangjun He, and Lei Ma.<br />
 "RSPS-SAM: A Remote Sensing Image Panoptic Segmentation Method Based on SAM." Remote Sensing(2024).
 [[paper](https://www.mdpi.com/2072-4292/16/21/4002)]
 [2024.10]
 
-:boom:**SF-SAM-Adapter:** Ting Lei, Jing Chen, Jixiang Chen.<br />
+- **SF-SAM-Adapter:** Ting Lei, Jing Chen, Jixiang Chen.<br />
 "SF-SAM-Adapter: SAM-based segmentation model integrates prior knowledge for gaze image reflection noise removal." Alexandria Engineering Journal(2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1110016824012572)]
 [[code](https://github.com/leiting5297/SF-SAM-Adapter.git)]
 [2024.10]
 
-:boom:**MWVOS:** Zhenghao Zhang and Shengfan Zhang and Zuozhuo Dai and Zilong Dong and Siyu Zhu.<br />
+- **MWVOS:** Zhenghao Zhang and Shengfan Zhang and Zuozhuo Dai and Zilong Dong and Siyu Zhu.<br />
 "MWVOS: Mask-Free Weakly Supervised Video Object Segmentation via promptable foundation model." Pattern Recognition(2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320324008513)]
 [2024.10]
 
-:boom:Chuan Yang, Yueqin Zhu, Jiantong Zhang, Xiaoqiang Wei, Haomeng Zhu, and Zhehui Zhu.<br />
+- Chuan Yang, Yueqin Zhu, Jiantong Zhang, Xiaoqiang Wei, Haomeng Zhu, and Zhehui Zhu.<br />
 "A feature fusion method on landslide identification in remote sensing with Segment Anything Model." Landslides (2024).
 [[paper](https://link.springer.com/article/10.1007/s10346-024-02390-x)]
 [2024.10]
