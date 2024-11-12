@@ -215,12 +215,24 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/facebookresearch/ov-seg)]
   [2022.10]
 
+- **WAM:** Tom Sander, Pierre Fernandez, Alain Durmus, Teddy Furon, Matthijs Douze.<br />
+"Watermark Anything with Localized Messages." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.07231)]
+[[code](https://github.com/facebookresearch/watermark-anything)]
+[2024.11]
+
 
 ### Follow-up Papers
 :boom:**WAM:** Tom Sander, Pierre Fernandez, Alain Durmus, Teddy Furon, Matthijs Douze.<br />
 "Watermark Anything with Localized Messages." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.07231)]
 [[code](https://github.com/facebookresearch/watermark-anything)]
+[2024.11]
+
+:boom:**LFSamba:** Zhengyi Liu, Longzhen Wang, Xianyong Fang, Zhengzheng Tu, Linbo Wang.<br />
+"LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection." SPL(2024).
+[[paper](https://arxiv.org/abs/2411.06652)]
+[[code](https://github.com/liuzywen/LFScribble)]
 [2024.11]
 
 :boom:**MapSAM:** Xue Xia, Daiwei Zhang, Wenxuan Song, Wei Huang, Lorenz Hurni.<br />
