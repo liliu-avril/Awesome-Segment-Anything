@@ -217,6 +217,38 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**WAM:** Tom Sander, Pierre Fernandez, Alain Durmus, Teddy Furon, Matthijs Douze.<br />
+"Watermark Anything with Localized Messages." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.07231)]
+[[code](https://github.com/facebookresearch/watermark-anything)]
+[2024.11]
+
+:boom:**MapSAM:** Xue Xia, Daiwei Zhang, Wenxuan Song, Wei Huang, Lorenz Hurni.<br />
+"MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.06971)]
+[2024.11]
+
+:boom:**TAP:** Jia Syuen Lim, Yadan Luo, Zhi Chen, Tianqi Wei, Scott Chapman, Zi Huang.<br />
+"Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.06702)]
+[2024.11]
+
+:boom:Rémi Giraud, Michaël Clément.<br />
+"Superpixel Segmentation: A Long-Lasting Ill-Posed Problem." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.06478)]
+[2024.11]
+
+:boom:Mehri Mehrnia, Mohamed Elbayumi, Mohammed S. M. Elbaz.<br />
+"Assessing Foundational Medical 'Segment Anything' (Med-SAM1, Med-SAM2) Deep Learning Models for Left Atrial Segmentation in 3D LGE MRI." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.05963)]
+[2024.11]
+
+:boom:**SAM-JOANet:** Shuchang Lyu, Qi Zhaoa, Guangliang Cheng, Yiwei He, Zheng Zhou, Guangbiao Wang, Zhenwei Shi.<br />
+"Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.05878)]
+[[code](https://github.com/CV-ShuchangLyu/SAM-JOANet)]
+[2024.11]
+
 :boom:**WavShadow:** Shreyans Jain, Aadya Arora, Viraj Vekaria, Karan Gandhi.<br />
 "WavShadow: Wavelet Based Shadow Segmentation and Removal." ICVGIP(2024).
 [[paper](https://arxiv.org/abs/2411.05747)]
