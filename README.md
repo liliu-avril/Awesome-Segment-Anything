@@ -223,6 +223,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**IntRaBench:** Constantin Ulrich, Tassilo Wald, Emily Tempus, Maximilian Rokuss, Paul F. Jaeger, Klaus Maier-Hein.<br />
+"INTRABENCH: Interactive Radiological Benchmark." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.07885)]
+[2024.11]
+
+:boom:**MSEG-VCUQ:** Chika Maduabuchi, Ericmoore Jossou, Matteo Bucci.<br />
+"MSEG-VCUQ: Multimodal SEGmentation with Enhanced Vision Foundation Models, Convolutional Neural Networks, and Uncertainty Quantification for High-Speed Video Phase Detection Data." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.07463)]
+[[code](https://github.com/chikap421/mseg_vcuq)]
+[2024.11]
+
 :boom:**WAM:** Tom Sander, Pierre Fernandez, Alain Durmus, Teddy Furon, Matthijs Douze.<br />
 "Watermark Anything with Localized Messages." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.07231)]
