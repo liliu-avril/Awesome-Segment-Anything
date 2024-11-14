@@ -223,6 +223,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAMPart3D:** Yunhan Yang, Yukun Huang, Yuan-Chen Guo, Liangjun Lu, Xiaoyang Wu, Edmund Y. Lam, Yan-Pei Cao, Xihui Liu.<br />
+"SAMPart3D: Segment Any Part in 3D Objects." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.07184)]
+[[code](https://github.com/yhyang-myron/SAMPart3D-website)]
+[2024.11]
+
 :boom:**IntRaBench:** Constantin Ulrich, Tassilo Wald, Emily Tempus, Maximilian Rokuss, Paul F. Jaeger, Klaus Maier-Hein.<br />
 "INTRABENCH: Interactive Radiological Benchmark." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.07885)]
