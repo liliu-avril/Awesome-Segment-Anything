@@ -229,6 +229,21 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/yhyang-myron/SAMPart3D-website)]
 [2024.11]
 
+:boom:Caroline Magg, Hoel Kervadec, Clara I. Sánchez.<br />
+"Zero-shot capability of SAM-family models for bone segmentation in CT scans." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.08629)]
+[2024.11]
+
+:boom:**SAM-MorSP:** Jun Xie, Wenxiao Li, Faqiang Wang, Liqiang Zhang, Zhengyang Hou, Jun Liu.<br />
+"Slender Object Scene Segmentation in Remote Sensing Image Based on Learnable Morphological Skeleton with Segment Anything Model." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.08592)]
+[2024.11]
+
+:boom:Yutao Shen, Hongyu Zhou, Xin Yang, Xuqi Lu, Ziyue Guo, Lixi Jiang, Yong He, Haiyan Cen.<br />
+"Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.08453)]
+[2024.11]
+
 :boom:**IntRaBench:** Constantin Ulrich, Tassilo Wald, Emily Tempus, Maximilian Rokuss, Paul F. Jaeger, Klaus Maier-Hein.<br />
 "INTRABENCH: Interactive Radiological Benchmark." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.07885)]
