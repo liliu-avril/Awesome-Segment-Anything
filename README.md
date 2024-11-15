@@ -223,6 +223,22 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SUM:** Kangning Liu, Brian Price, Jason Kuen, Yifei Fan, Zijun Wei, Luis Figueroa, Krzysztof J. Geras, Carlos Fernandez-Granda.<br />
+"Uncertainty-aware Fine-tuning of Segmentation Foundation Models." NeurIPS (2024).
+[[paper](https://openreview.net/pdf?id=qNXRXUC90b)]
+[[code](https://github.com/Kangningthu/SUM)]
+[2024.11]
+
+:boom:Seungil Baek and Sooyoon Koh and Wonkook Kim and Taewan Kim.<br />
+"Evaluation of coarse aggregate properties in hardened concrete based on segment anything model (SAM)." Construction and Building Materials (2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0950061824041552)]
+[2024.11]
+
+:boom:**Uni-EPM:** Gao, Yilin and Mu, Shiyi and Xu, Shugong.<br />
+"Uni-EPM: A Unified Extensible Perception Model Without Labeling Everything." TITS (2024).
+[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10747752)]
+[2024.11]
+
 :boom:**SAMPart3D:** Yunhan Yang, Yukun Huang, Yuan-Chen Guo, Liangjun Lu, Xiaoyang Wu, Edmund Y. Lam, Yan-Pei Cao, Xihui Liu.<br />
 "SAMPart3D: Segment Any Part in 3D Objects." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.07184)]
