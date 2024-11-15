@@ -223,6 +223,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Trident:** Yuheng Shi, Minjing Dong, Chang Xu.<br />
+"Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.09219)]
+[[code](https://github.com/YuHengsss/Trident)]
+[2024.11]
+
 :boom:**SUM:** Kangning Liu, Brian Price, Jason Kuen, Yifei Fan, Zijun Wei, Luis Figueroa, Krzysztof J. Geras, Carlos Fernandez-Granda.<br />
 "Uncertainty-aware Fine-tuning of Segmentation Foundation Models." NeurIPS (2024).
 [[paper](https://openreview.net/pdf?id=qNXRXUC90b)]
