@@ -223,104 +223,131 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**Trident:** Yuheng Shi, Minjing Dong, Chang Xu.<br />
+:boom:**AoP-SAM:** Zihao Zhou and Yaosheng Lu and Jieyun Bai and Víctor M. Campello and Fan Feng and Karim Lekadir.<br />
+"Segment Anything Model for fetal head-pubic symphysis segmentation in intrapartum ultrasound image analysis." Expert Systems with Applications(2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0957417424025661)]
+[[code](https://github.com/maskoffs/AoP-SAM)]
+[2024.11]
+
+:boom:**2MSPK-Net:** Gongtao Yue, Xiaoguang Ma, Wenrui Li, Ziheng An, Chen Yang.<br />
+"2MSPK-Net: A nuclei segmentation network based on multi-scale, multi-dimensional attention, and SAM prior knowledge." Biomedical Signal Processing and Control(2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1746809424011984)]
+[[code](https://github.com/ThirteenYue/2MSPK-Net)]
+[2024.11]
+
+:boom:Garvita Allabadi, Ana Lucic, Yu-Xiong Wang & Vikram Adve.<br />
+"Learning to Detect Novel Species with SAM in the Wild." IJCV (2024).
+[[paper](https://link.springer.com/article/10.1007/s11263-024-02234-0)]
+[2024.11]
+
+:boom:Steven Wallace, Aiden Durrant, William David Harcourt, Richard Hann, Georgios Leontidis.<br />
+"Exploring Segment Anything Foundation Models for Out of Domain Crevasse Drone Image Segmentation." NLDL(2024).
+[[paper](https://openreview.net/pdf?id=CGkyjTXomz)]
+[2024.11]
+
+:boom:**DT-SAM:** Weili Shi, Penglong Zhang, Yuqin Li & Zhengang Jiang.<br />
+"Segment anything model for few-shot medical image segmentation with domain tuning." Complex & Intelligent Systems (2024).
+[[paper](https://link.springer.com/article/10.1007/s40747-024-01625-7)]
+[2024.11]
+
+- **Trident:** Yuheng Shi, Minjing Dong, Chang Xu.<br />
 "Harnessing Vision Foundation Models for High-Performance, Training-Free Open Vocabulary Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.09219)]
 [[code](https://github.com/YuHengsss/Trident)]
 [2024.11]
 
-:boom:**SUM:** Kangning Liu, Brian Price, Jason Kuen, Yifei Fan, Zijun Wei, Luis Figueroa, Krzysztof J. Geras, Carlos Fernandez-Granda.<br />
+- **SUM:** Kangning Liu, Brian Price, Jason Kuen, Yifei Fan, Zijun Wei, Luis Figueroa, Krzysztof J. Geras, Carlos Fernandez-Granda.<br />
 "Uncertainty-aware Fine-tuning of Segmentation Foundation Models." NeurIPS (2024).
 [[paper](https://openreview.net/pdf?id=qNXRXUC90b)]
 [[code](https://github.com/Kangningthu/SUM)]
 [2024.11]
 
-:boom:Seungil Baek and Sooyoon Koh and Wonkook Kim and Taewan Kim.<br />
+- Seungil Baek and Sooyoon Koh and Wonkook Kim and Taewan Kim.<br />
 "Evaluation of coarse aggregate properties in hardened concrete based on segment anything model (SAM)." Construction and Building Materials (2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0950061824041552)]
 [2024.11]
 
-:boom:**Uni-EPM:** Gao, Yilin and Mu, Shiyi and Xu, Shugong.<br />
+- **Uni-EPM:** Gao, Yilin and Mu, Shiyi and Xu, Shugong.<br />
 "Uni-EPM: A Unified Extensible Perception Model Without Labeling Everything." TITS (2024).
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10747752)]
 [2024.11]
 
-:boom:**SAMPart3D:** Yunhan Yang, Yukun Huang, Yuan-Chen Guo, Liangjun Lu, Xiaoyang Wu, Edmund Y. Lam, Yan-Pei Cao, Xihui Liu.<br />
+- **SAMPart3D:** Yunhan Yang, Yukun Huang, Yuan-Chen Guo, Liangjun Lu, Xiaoyang Wu, Edmund Y. Lam, Yan-Pei Cao, Xihui Liu.<br />
 "SAMPart3D: Segment Any Part in 3D Objects." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.07184)]
 [[code](https://github.com/yhyang-myron/SAMPart3D-website)]
 [2024.11]
 
-:boom:Caroline Magg, Hoel Kervadec, Clara I. Sánchez.<br />
+- Caroline Magg, Hoel Kervadec, Clara I. Sánchez.<br />
 "Zero-shot capability of SAM-family models for bone segmentation in CT scans." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.08629)]
 [2024.11]
 
-:boom:**SAM-MorSP:** Jun Xie, Wenxiao Li, Faqiang Wang, Liqiang Zhang, Zhengyang Hou, Jun Liu.<br />
+- **SAM-MorSP:** Jun Xie, Wenxiao Li, Faqiang Wang, Liqiang Zhang, Zhengyang Hou, Jun Liu.<br />
 "Slender Object Scene Segmentation in Remote Sensing Image Based on Learnable Morphological Skeleton with Segment Anything Model." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.08592)]
 [2024.11]
 
-:boom:Yutao Shen, Hongyu Zhou, Xin Yang, Xuqi Lu, Ziyue Guo, Lixi Jiang, Yong He, Haiyan Cen.<br />
+- Yutao Shen, Hongyu Zhou, Xin Yang, Xuqi Lu, Ziyue Guo, Lixi Jiang, Yong He, Haiyan Cen.<br />
 "Biomass phenotyping of oilseed rape through UAV multi-view oblique imaging with 3DGS and SAM model." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.08453)]
 [2024.11]
 
-:boom:**IntRaBench:** Constantin Ulrich, Tassilo Wald, Emily Tempus, Maximilian Rokuss, Paul F. Jaeger, Klaus Maier-Hein.<br />
+- **IntRaBench:** Constantin Ulrich, Tassilo Wald, Emily Tempus, Maximilian Rokuss, Paul F. Jaeger, Klaus Maier-Hein.<br />
 "INTRABENCH: Interactive Radiological Benchmark." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.07885)]
 [2024.11]
 
-:boom:**MSEG-VCUQ:** Chika Maduabuchi, Ericmoore Jossou, Matteo Bucci.<br />
+- **MSEG-VCUQ:** Chika Maduabuchi, Ericmoore Jossou, Matteo Bucci.<br />
 "MSEG-VCUQ: Multimodal SEGmentation with Enhanced Vision Foundation Models, Convolutional Neural Networks, and Uncertainty Quantification for High-Speed Video Phase Detection Data." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.07463)]
 [[code](https://github.com/chikap421/mseg_vcuq)]
 [2024.11]
 
-:boom:**WAM:** Tom Sander, Pierre Fernandez, Alain Durmus, Teddy Furon, Matthijs Douze.<br />
+- **WAM:** Tom Sander, Pierre Fernandez, Alain Durmus, Teddy Furon, Matthijs Douze.<br />
 "Watermark Anything with Localized Messages." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.07231)]
 [[code](https://github.com/facebookresearch/watermark-anything)]
 [2024.11]
 
-:boom:**LFSamba:** Zhengyi Liu, Longzhen Wang, Xianyong Fang, Zhengzheng Tu, Linbo Wang.<br />
+- **LFSamba:** Zhengyi Liu, Longzhen Wang, Xianyong Fang, Zhengzheng Tu, Linbo Wang.<br />
 "LFSamba: Marry SAM with Mamba for Light Field Salient Object Detection." SPL(2024).
 [[paper](https://arxiv.org/abs/2411.06652)]
 [[code](https://github.com/liuzywen/LFScribble)]
 [2024.11]
 
-:boom:**MapSAM:** Xue Xia, Daiwei Zhang, Wenxuan Song, Wei Huang, Lorenz Hurni.<br />
+- **MapSAM:** Xue Xia, Daiwei Zhang, Wenxuan Song, Wei Huang, Lorenz Hurni.<br />
 "MapSAM: Adapting Segment Anything Model for Automated Feature Detection in Historical Maps." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.06971)]
 [2024.11]
 
-:boom:**TAP:** Jia Syuen Lim, Yadan Luo, Zhi Chen, Tianqi Wei, Scott Chapman, Zi Huang.<br />
+- **TAP:** Jia Syuen Lim, Yadan Luo, Zhi Chen, Tianqi Wei, Scott Chapman, Zi Huang.<br />
 "Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.06702)]
 [2024.11]
 
-:boom:Rémi Giraud, Michaël Clément.<br />
+- Rémi Giraud, Michaël Clément.<br />
 "Superpixel Segmentation: A Long-Lasting Ill-Posed Problem." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.06478)]
 [2024.11]
 
-:boom:Mehri Mehrnia, Mohamed Elbayumi, Mohammed S. M. Elbaz.<br />
+- Mehri Mehrnia, Mohamed Elbayumi, Mohammed S. M. Elbaz.<br />
 "Assessing Foundational Medical 'Segment Anything' (Med-SAM1, Med-SAM2) Deep Learning Models for Left Atrial Segmentation in 3D LGE MRI." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.05963)]
 [2024.11]
 
-:boom:**SAM-JOANet:** Shuchang Lyu, Qi Zhaoa, Guangliang Cheng, Yiwei He, Zheng Zhou, Guangbiao Wang, Zhenwei Shi.<br />
+- **SAM-JOANet:** Shuchang Lyu, Qi Zhaoa, Guangliang Cheng, Yiwei He, Zheng Zhou, Guangbiao Wang, Zhenwei Shi.<br />
 "Joint-Optimized Unsupervised Adversarial Domain Adaptation in Remote Sensing Segmentation with Prompted Foundation Model." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.05878)]
 [[code](https://github.com/CV-ShuchangLyu/SAM-JOANet)]
 [2024.11]
 
-:boom:**WavShadow:** Shreyans Jain, Aadya Arora, Viraj Vekaria, Karan Gandhi.<br />
+- **WavShadow:** Shreyans Jain, Aadya Arora, Viraj Vekaria, Karan Gandhi.<br />
 "WavShadow: Wavelet Based Shadow Segmentation and Removal." ICVGIP(2024).
 [[paper](https://arxiv.org/abs/2411.05747)]
 [2024.11]
 
-:boom:**EAP4EMSIG:** Nils Friederich, Angelo Jovin Yamachui Sitcheu, Annika Nassal, Matthias Pesch, Erenus Yildiz, Maximilian Beichter, Lukas Scholtes, Bahar Akbaba, Thomas Lautenschlager, Oliver Neumann, Dietrich Kohlheyer, Hanno Scharr, Johannes Seiffarth, Katharina Nöh, Ralf Mikut.<br />
+- **EAP4EMSIG:** Nils Friederich, Angelo Jovin Yamachui Sitcheu, Annika Nassal, Matthias Pesch, Erenus Yildiz, Maximilian Beichter, Lukas Scholtes, Bahar Akbaba, Thomas Lautenschlager, Oliver Neumann, Dietrich Kohlheyer, Hanno Scharr, Johannes Seiffarth, Katharina Nöh, Ralf Mikut.<br />
 "EAP4EMSIG--Experiment Automation Pipeline for Event-Driven Microscopy to Smart Microfluidic Single-Cells Analysis." Workshop Computational Intelligence(2024).
 [[paper](https://arxiv.org/abs/2411.05030)]
 [2024.11]
