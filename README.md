@@ -223,6 +223,28 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SEAGULL:** Zewen Chen, Juan Wang, Wen Wang, Sunhan Xu, Hang Xiong, Yun Zeng, Jian Guo, Shuxun Wang, Chunfeng Yuan, Bing Li, Weiming Hu.<br />
+"SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.10161)]
+[[code](https://github.com/chencn2020/Seagull)]
+[2024.11]
+
+:boom:**CoSAM:** Yihang Fu, Ziyang Chen, Yiwen Ye, Xingliang Lei, Zhisong Wang, Yong Xia.<br />
+"CoSAM: Self-Correcting SAM for Domain Generalization in 2D Medical Image Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.10136)]
+[2024.11]
+
+:boom:**CorrCLIP:** Dengke Zhang, Fagui Liu, Quan Tang.<br />
+"CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.10086)]
+[2024.11]
+
+:boom:**MORA:** Andong Deng, Tongjia Chen, Shoubin Yu, Taojiannan Yang, Lincoln Spencer, Yapeng Tian, Ajmal Saeed Mian, Mohit Bansal, Chen Chen.<br />
+"Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.09921)]
+[[code](https://groundmore.github.io/)]
+[2024.11]
+
 :boom:**AoP-SAM:** Zihao Zhou and Yaosheng Lu and Jieyun Bai and Víctor M. Campello and Fan Feng and Karim Lekadir.<br />
 "Segment Anything Model for fetal head-pubic symphysis segmentation in intrapartum ultrasound image analysis." Expert Systems with Applications(2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0957417424025661)]
