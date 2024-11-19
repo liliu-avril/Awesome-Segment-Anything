@@ -223,6 +223,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Danny Barash, Emilie Manning, Aidan Van Vleck, Omri Hirsch, Kyi Lei Aye, Jingxi Li, Philip O. Scumpia, Aydogan Ozcan, Sumaira Aasi, Kerri E. Rieger, Kavita Y. Sarin, Oren Freifeld, Yonatan Winetraub.<br />
+"Leveraging Computational Pathology AI for Noninvasive Optical Imaging Analysis Without Retraining." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.11613)]
+[2024.11]
+
+:boom:**YOLO11n-seg:** Ranjan Sapkota, Achyut Paudel, Manoj Karkee.<br />
+"Zero-Shot Automatic Annotation and Instance Segmentation using LLM-Generated Datasets: Eliminating Field Imaging and Manual Annotation for Deep Learning Model Development." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.11285)]
+[2024.11]
+
 :boom:**SEAGULL:** Zewen Chen, Juan Wang, Wen Wang, Sunhan Xu, Hang Xiong, Yun Zeng, Jian Guo, Shuxun Wang, Chunfeng Yuan, Bing Li, Weiming Hu.<br />
 "SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.10161)]
