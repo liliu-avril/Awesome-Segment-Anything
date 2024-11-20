@@ -223,6 +223,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
+"SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.11922)]
+[[code](https://github.com/yangchris11/samurai)]
+[2024.11]
+
+:boom:Ron Keuth, Lasse Hansen, Maren Balks, Ronja Jäger, Anne-Nele Schröder, Ludger Tüshaus, Mattias Heinrich.<br />
+"SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation." MICCAI Workshop (2024).
+[[paper](https://arxiv.org/abs/2411.12602)]
+[[code](https://github.com/multimodallearning/SamCarriesTheBurden)]
+[2024.11]
+
 :boom:Danny Barash, Emilie Manning, Aidan Van Vleck, Omri Hirsch, Kyi Lei Aye, Jingxi Li, Philip O. Scumpia, Aydogan Ozcan, Sumaira Aasi, Kerri E. Rieger, Kavita Y. Sarin, Oren Freifeld, Yonatan Winetraub.<br />
 "Leveraging Computational Pathology AI for Noninvasive Optical Imaging Analysis Without Retraining." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.11613)]
