@@ -223,6 +223,39 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
+"Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.13183)]
+[2024.11]
+
+:boom:**SAM-I2I:** Jiayu Huo, Sebastien Ourselin, Rachel Sparks.<br />
+"SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.12755)]
+[2024.11]
+
+:boom:**Sim Anything:** Haoyu Zhao, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou.<br />
+"Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.12789)]
+[[code](https://sim-gs.github.io/)]
+[2024.11]
+
+:boom:**SAC:** Hussni Mohd Zakir, Eric Tatt Wei Ho.<br />
+"Segment Any Class (SAC): Multi-Class Few-Shot Semantic Segmentation via Class Region Proposals." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.13774)]
+[2024.11]
+
+:boom:**LFSAM:** Nikolai Goncharov, Donald G. Dansereau.<br />
+"Segment Anything in Light Fields for Real-Time Applications via Constrained Prompting." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.13840)]
+[[code](https://roboticimaging.org/Projects/LFSAM/)]
+[2024.11]
+
+:boom:**DINO-X:** Tianhe Ren, Yihao Chen, Qing Jiang, Zhaoyang Zeng, Yuda Xiong, Wenlong Liu, Zhengyu Ma, Junyi Shen, Yuan Gao, Xiaoke Jiang, Xingyu Chen, Zhuheng Song, Yuhong Zhang, Hongjie Huang, Han Gao, Shilong Liu, Hao Zhang, Feng Li, Kent Yu, Lei Zhang.<br />
+"DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.14347)]
+[[code](https://deepdataspace.com/home)]
+[2024.11]
+
 :boom:**SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
 "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.11922)]
