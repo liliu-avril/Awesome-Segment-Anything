@@ -223,6 +223,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**DIS-Mine:** Mizanur Rahman Jewel, Mohamed Elmahallawy, Sanjay Madria, Samuel Frimpong.<br />
+"DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mines." IEEE BigData(2024).
+[[paper](https://arxiv.org/abs/2411.13544)]
+[2024.11]
+
 :boom:**GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
 "Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.13183)]
