@@ -223,111 +223,143 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**DIS-Mine:** Mizanur Rahman Jewel, Mohamed Elmahallawy, Sanjay Madria, Samuel Frimpong.<br />
+:boom:Burke, Molly.<br />
+"Segmentation and Quantification of Intersegmental Vessels in Zebrafish Embryos: Utilizing U-Net and MedSAM for automated vessel metric analysis." ArXiv (2024).
+[[paper](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1914808&dswid=301)]
+[2024.11]
+
+:boom:**SegAnyPath:** Wang, Chong and Wan, Yajie and Li, Shuxin and Qu, Kaili and Zhou, Xuezhi and He, Junjun and Ke, Jing and Yu, Yi and Wang, Tianyun and Shen, Yiqing.<br />
+"SegAnyPath: A Foundation Model for Multi-resolution Stain-variant and Multi-task Pathology Image Segmentation." TMI(2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10756743)]
+[[code](https://github.com/wagnchogn/SegAnyPath)]
+[2024.11]
+
+:boom:Reddy, J., Niu, H., Scott, J. L. L., Bhandari, M., Landivar, J. A., Bednarz, C. W., & Duffield, N.<br />
+"Cotton Yield Prediction via UAV-Based Cotton Boll Image Segmentation Using YOLO Model and Segment Anything Model (SAM)." Remote Sensing(2024).
+[[paper](https://www.mdpi.com/2072-4292/16/23/4346)]
+[2024.11]
+
+:boom:**WasteSAM:** Seokjae Heo and Seunguk Na.<br />
+"Developing WasteSAM: A novel approach for accurate construction waste image segmentation to facilitate efficient recycling." ArXiv (2024).
+[[paper](https://journals.sagepub.com/doi/abs/10.1177/0734242X241290743)]
+[2024.11]
+
+:boom:**IMed-361M:** Junlong Cheng, Bin Fu, Jin Ye, Guoan Wang, Tianbin Li, Haoyu Wang, Ruoyu Li, He Yao, Junren Chen, JingWen Li, Yanzhou Su, Min Zhu, Junjun He.<br />
+"." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.12814)]
+[[code](https://github.com/uni-medical/IMIS-Bench)]
+[2024.11]
+
+:boom:VENEZIANI, MICHELE.<br />
+"Segmentazione semantica: prompt engineering per il modello Segment Anything." ArXiv (2024).
+[[paper](https://thesis.unipd.it/handle/20.500.12608/76498)]
+[2024.11]
+
+- **DIS-Mine:** Mizanur Rahman Jewel, Mohamed Elmahallawy, Sanjay Madria, Samuel Frimpong.<br />
 "DIS-Mine: Instance Segmentation for Disaster-Awareness in Poor-Light Condition in Underground Mines." IEEE BigData(2024).
 [[paper](https://arxiv.org/abs/2411.13544)]
 [2024.11]
 
-:boom:**GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
+- **GCR:** Kuiran Wang, Xuehui Yu, Wenwen Yu, Guorong Li, Xiangyuan Lan, Qixiang Ye, Jianbin Jiao, Zhenjun Han.<br />
 "Click; Single Object Tracking; Video Object Segmentation; Real-time Interaction." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.13183)]
 [2024.11]
 
-:boom:**SAM-I2I:** Jiayu Huo, Sebastien Ourselin, Rachel Sparks.<br />
+- **SAM-I2I:** Jiayu Huo, Sebastien Ourselin, Rachel Sparks.<br />
 "SAM-I2I: Unleash the Power of Segment Anything Model for Medical Image Translation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.12755)]
 [2024.11]
 
-:boom:**Sim Anything:** Haoyu Zhao, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou.<br />
+- **Sim Anything:** Haoyu Zhao, Hao Wang, Xingyue Zhao, Hongqiu Wang, Zhiyu Wu, Chengjiang Long, Hua Zou.<br />
 "Automated 3D Physical Simulation of Open-world Scene with Gaussian Splatting." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.12789)]
 [[code](https://sim-gs.github.io/)]
 [2024.11]
 
-:boom:**SAC:** Hussni Mohd Zakir, Eric Tatt Wei Ho.<br />
+- **SAC:** Hussni Mohd Zakir, Eric Tatt Wei Ho.<br />
 "Segment Any Class (SAC): Multi-Class Few-Shot Semantic Segmentation via Class Region Proposals." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.13774)]
 [2024.11]
 
-:boom:**LFSAM:** Nikolai Goncharov, Donald G. Dansereau.<br />
+- **LFSAM:** Nikolai Goncharov, Donald G. Dansereau.<br />
 "Segment Anything in Light Fields for Real-Time Applications via Constrained Prompting." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.13840)]
 [[code](https://roboticimaging.org/Projects/LFSAM/)]
 [2024.11]
 
-:boom:**DINO-X:** Tianhe Ren, Yihao Chen, Qing Jiang, Zhaoyang Zeng, Yuda Xiong, Wenlong Liu, Zhengyu Ma, Junyi Shen, Yuan Gao, Xiaoke Jiang, Xingyu Chen, Zhuheng Song, Yuhong Zhang, Hongjie Huang, Han Gao, Shilong Liu, Hao Zhang, Feng Li, Kent Yu, Lei Zhang.<br />
+- **DINO-X:** Tianhe Ren, Yihao Chen, Qing Jiang, Zhaoyang Zeng, Yuda Xiong, Wenlong Liu, Zhengyu Ma, Junyi Shen, Yuan Gao, Xiaoke Jiang, Xingyu Chen, Zhuheng Song, Yuhong Zhang, Hongjie Huang, Han Gao, Shilong Liu, Hao Zhang, Feng Li, Kent Yu, Lei Zhang.<br />
 "DINO-X: A Unified Vision Model for Open-World Object Detection and Understanding." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.14347)]
 [[code](https://deepdataspace.com/home)]
 [2024.11]
 
-:boom:**SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
+- **SAMURAI:** Cheng-Yen Yang, Hsiang-Wei Huang, Wenhao Chai, Zhongyu Jiang, Jenq-Neng Hwang.<br />
 "SAMURAI: Adapting Segment Anything Model for Zero-Shot Visual Tracking with Motion-Aware Memory." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.11922)]
 [[code](https://github.com/yangchris11/samurai)]
 [2024.11]
 
-:boom:Ron Keuth, Lasse Hansen, Maren Balks, Ronja Jäger, Anne-Nele Schröder, Ludger Tüshaus, Mattias Heinrich.<br />
+- Ron Keuth, Lasse Hansen, Maren Balks, Ronja Jäger, Anne-Nele Schröder, Ludger Tüshaus, Mattias Heinrich.<br />
 "SAM Carries the Burden: A Semi-Supervised Approach Refining Pseudo Labels for Medical Segmentation." MICCAI Workshop (2024).
 [[paper](https://arxiv.org/abs/2411.12602)]
 [[code](https://github.com/multimodallearning/SamCarriesTheBurden)]
 [2024.11]
 
-:boom:Danny Barash, Emilie Manning, Aidan Van Vleck, Omri Hirsch, Kyi Lei Aye, Jingxi Li, Philip O. Scumpia, Aydogan Ozcan, Sumaira Aasi, Kerri E. Rieger, Kavita Y. Sarin, Oren Freifeld, Yonatan Winetraub.<br />
+- Danny Barash, Emilie Manning, Aidan Van Vleck, Omri Hirsch, Kyi Lei Aye, Jingxi Li, Philip O. Scumpia, Aydogan Ozcan, Sumaira Aasi, Kerri E. Rieger, Kavita Y. Sarin, Oren Freifeld, Yonatan Winetraub.<br />
 "Leveraging Computational Pathology AI for Noninvasive Optical Imaging Analysis Without Retraining." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.11613)]
 [2024.11]
 
-:boom:**YOLO11n-seg:** Ranjan Sapkota, Achyut Paudel, Manoj Karkee.<br />
+- **YOLO11n-seg:** Ranjan Sapkota, Achyut Paudel, Manoj Karkee.<br />
 "Zero-Shot Automatic Annotation and Instance Segmentation using LLM-Generated Datasets: Eliminating Field Imaging and Manual Annotation for Deep Learning Model Development." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.11285)]
 [2024.11]
 
-:boom:**SEAGULL:** Zewen Chen, Juan Wang, Wen Wang, Sunhan Xu, Hang Xiong, Yun Zeng, Jian Guo, Shuxun Wang, Chunfeng Yuan, Bing Li, Weiming Hu.<br />
+- **SEAGULL:** Zewen Chen, Juan Wang, Wen Wang, Sunhan Xu, Hang Xiong, Yun Zeng, Jian Guo, Shuxun Wang, Chunfeng Yuan, Bing Li, Weiming Hu.<br />
 "SEAGULL: No-reference Image Quality Assessment for Regions of Interest via Vision-Language Instruction Tuning." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.10161)]
 [[code](https://github.com/chencn2020/Seagull)]
 [2024.11]
 
-:boom:**CoSAM:** Yihang Fu, Ziyang Chen, Yiwen Ye, Xingliang Lei, Zhisong Wang, Yong Xia.<br />
+- **CoSAM:** Yihang Fu, Ziyang Chen, Yiwen Ye, Xingliang Lei, Zhisong Wang, Yong Xia.<br />
 "CoSAM: Self-Correcting SAM for Domain Generalization in 2D Medical Image Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.10136)]
 [2024.11]
 
-:boom:**CorrCLIP:** Dengke Zhang, Fagui Liu, Quan Tang.<br />
+- **CorrCLIP:** Dengke Zhang, Fagui Liu, Quan Tang.<br />
 "CorrCLIP: Reconstructing Correlations in CLIP with Off-the-Shelf Foundation Models for Open-Vocabulary Semantic Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.10086)]
 [2024.11]
 
-:boom:**MORA:** Andong Deng, Tongjia Chen, Shoubin Yu, Taojiannan Yang, Lincoln Spencer, Yapeng Tian, Ajmal Saeed Mian, Mohit Bansal, Chen Chen.<br />
+- **MORA:** Andong Deng, Tongjia Chen, Shoubin Yu, Taojiannan Yang, Lincoln Spencer, Yapeng Tian, Ajmal Saeed Mian, Mohit Bansal, Chen Chen.<br />
 "Motion-Grounded Video Reasoning: Understanding and Perceiving Motion at Pixel Level." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.09921)]
 [[code](https://groundmore.github.io/)]
 [2024.11]
 
-:boom:**AoP-SAM:** Zihao Zhou and Yaosheng Lu and Jieyun Bai and Víctor M. Campello and Fan Feng and Karim Lekadir.<br />
+- **AoP-SAM:** Zihao Zhou and Yaosheng Lu and Jieyun Bai and Víctor M. Campello and Fan Feng and Karim Lekadir.<br />
 "Segment Anything Model for fetal head-pubic symphysis segmentation in intrapartum ultrasound image analysis." Expert Systems with Applications(2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0957417424025661)]
 [[code](https://github.com/maskoffs/AoP-SAM)]
 [2024.11]
 
-:boom:**2MSPK-Net:** Gongtao Yue, Xiaoguang Ma, Wenrui Li, Ziheng An, Chen Yang.<br />
+- **2MSPK-Net:** Gongtao Yue, Xiaoguang Ma, Wenrui Li, Ziheng An, Chen Yang.<br />
 "2MSPK-Net: A nuclei segmentation network based on multi-scale, multi-dimensional attention, and SAM prior knowledge." Biomedical Signal Processing and Control(2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424011984)]
 [[code](https://github.com/ThirteenYue/2MSPK-Net)]
 [2024.11]
 
-:boom:Garvita Allabadi, Ana Lucic, Yu-Xiong Wang & Vikram Adve.<br />
+- Garvita Allabadi, Ana Lucic, Yu-Xiong Wang & Vikram Adve.<br />
 "Learning to Detect Novel Species with SAM in the Wild." IJCV (2024).
 [[paper](https://link.springer.com/article/10.1007/s11263-024-02234-0)]
 [2024.11]
 
-:boom:Steven Wallace, Aiden Durrant, William David Harcourt, Richard Hann, Georgios Leontidis.<br />
+- Steven Wallace, Aiden Durrant, William David Harcourt, Richard Hann, Georgios Leontidis.<br />
 "Exploring Segment Anything Foundation Models for Out of Domain Crevasse Drone Image Segmentation." NLDL(2024).
 [[paper](https://openreview.net/pdf?id=CGkyjTXomz)]
 [2024.11]
 
-:boom:**DT-SAM:** Weili Shi, Penglong Zhang, Yuqin Li & Zhengang Jiang.<br />
+- **DT-SAM:** Weili Shi, Penglong Zhang, Yuqin Li & Zhengang Jiang.<br />
 "Segment anything model for few-shot medical image segmentation with domain tuning." Complex & Intelligent Systems (2024).
 [[paper](https://link.springer.com/article/10.1007/s40747-024-01625-7)]
 [2024.11]
