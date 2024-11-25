@@ -223,6 +223,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**ESC-Net:** Minhyeok Lee, Suhwan Cho, Jungho Lee, Sunghun Yang, Heeseung Choi, Ig-Jae Kim, Sangyoun Lee.<br />
+"Effective SAM Combination for Open-Vocabulary Semantic Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.14723)]
+[2024.11]
+
 :boom:Burke, Molly.<br />
 "Segmentation and Quantification of Intersegmental Vessels in Zebrafish Embryos: Utilizing U-Net and MedSAM for automated vessel metric analysis." ArXiv (2024).
 [[paper](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1914808&dswid=301)]
