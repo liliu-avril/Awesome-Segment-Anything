@@ -223,6 +223,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Any3DIS:** Phuc Nguyen, Minh Luu, Anh Tran, Cuong Pham, Khoi Nguyen.<br />
+"Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.16183)]
+[[code](https://any3dis.github.io/)]
+[2024.11]
+
 :boom:**SDM-D:** Yanan Wang, Zhenghao Fei, Ruichen Li, Yibin Ying.<br />
 "Learn from Foundation Model: Fruit Detection Model without Manual Annotation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.16196)]
