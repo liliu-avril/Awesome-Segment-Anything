@@ -223,6 +223,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SDM-D:** Yanan Wang, Zhenghao Fei, Ruichen Li, Yibin Ying.<br />
+"Learn from Foundation Model: Fruit Detection Model without Manual Annotation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.16196)]
+[[code](https://github.com/AgRoboticsResearch/SDM-D.git)]
+[2024.11]
+
+:boom:**UltraSam:** Adrien Meyer, Aditya Murali, Didier Mutter, Nicolas Padoy.<br />
+"UltraSam: A Foundation Model for Ultrasound using Large Open-Access Segmentation Datasets." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.16222)]
+[[code](https://github.com/CAMMA-public/UltraSam)]
+[2024.11]
+
+:boom:Manuel Knott, Divinefavour Odion, Sameer Sontakke, Anup Karwa, Thijs Defraeye.<br />
+"Weakly supervised image segmentation for defect-based grading of fresh produce." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.16219)]
+[2024.11]
+
+:boom:**Med-PerSAM:** Hangyul Yoon, Doohyuk Jang, Jungeun Kim, Eunho Yang.<br />
+"Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.16123)]
+[2024.11]
+
+:boom:Miguel Espinosa, Chenhongyi Yang, Linus Ericsson, Steven McDonagh, Elliot J. Crowley.<br />
+"There is no SAMantics! Exploring SAM as a Backbone for Visual Understanding Tasks." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.15288)]
+[[code](https://github.com/miquel-espinosa/samantics)]
+[2024.11]
+
 :boom:**ESC-Net:** Minhyeok Lee, Suhwan Cho, Jungho Lee, Sunghun Yang, Heeseung Choi, Ig-Jae Kim, Sangyoun Lee.<br />
 "Effective SAM Combination for Open-Vocabulary Semantic Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.14723)]
