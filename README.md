@@ -223,6 +223,40 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAMWISE:** Claudia Cuttano, Gabriele Trivigno, Gabriele Rosi, Carlo Masone, Giuseppe Averta.<br />
+"SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.17646)]
+[[code](https://github.com/ClaudiaCuttano/SAMWISE)]
+[2024.11]
+
+:boom:**SAM-MPA:** Jie Xu, Xiaokang Li, Chengyu Yue, Yuanyuan Wang, Yi Guo.<br />
+"SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting." NeurIPS 2024 AIM-FM Workshop(2024).
+[[paper](https://arxiv.org/abs/2411.17363)]
+[2024.11]
+
+:boom:**SPT:** Hui-Yue Yang, Hui Chen, Ao Wang, Kai Chen, Zijia Lin, Yongliang Tang, Pengcheng Gao, Yuming Quan, Jungong Han, Guiguang Ding.<br />
+"Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.17217)]
+[2024.11]
+
+:boom:**SAM-Road++:** Pan Yin, Kaiyu Li, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng.<br />
+"Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.16733)]
+[[code](https://github.com/earth-insights/samroadplus)]
+[2024.11]
+
+:boom:**SAMatch:** Guoping Xu, Xiaoxue Qian, Hua Chieh Shao, Jax Luo, Weiguo Lu, You Zhang.<br />
+"A SAM-guided and Match-based Semi-Supervised Segmentation Framework for Medical Imaging." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.16949)]
+[[code](https://github.com/apple1986/SAMatch)]
+[2024.11]
+
+:boom:**DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
+"A Distractor-Aware Memory for Visual Object Tracking with SAM2." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.17576)]
+[[code](https://github.com/jovanavidenovic/DAM4SAM)]
+[2024.11]
+
 :boom:**Any3DIS:** Phuc Nguyen, Minh Luu, Anh Tran, Cuong Pham, Khoi Nguyen.<br />
 "Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.16183)]
