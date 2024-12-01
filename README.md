@@ -233,7 +233,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://www.mdpi.com/2313-433X/10/12/305)]
 [2024.11]
 
-:boom:**SAMWISE:** Claudia Cuttano, Gabriele Trivigno, Gabriele Rosi, Carlo Masone, Giuseppe Averta.<br />
+- **SAMWISE:** Claudia Cuttano, Gabriele Trivigno, Gabriele Rosi, Carlo Masone, Giuseppe Averta.<br />
 "SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.17646)]
 [[code](https://github.com/ClaudiaCuttano/SAMWISE)]
