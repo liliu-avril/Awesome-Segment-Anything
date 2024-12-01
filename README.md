@@ -223,59 +223,69 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Huanlong Zhang and Xiangbo Yang and Xin Wang and Weiqiang Fu and Bineng Zhong and Jianwei Zhang.<br />
+"SAM-Assisted Temporal-Location Enhanced Transformer Segmentation for Object Tracking with Online Motion Inference." Neurocomputing (2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0925231224016850)]
+[2024.11]
+
+:boom:**IngredSAM:** Chen, L., Wang, B., & Zhang, J.<br />
+"IngredSAM: Open-World Food Ingredient Segmentation via a Single Image Prompt." Journal of Imaging(2024).
+[[paper](https://www.mdpi.com/2313-433X/10/12/305)]
+[2024.11]
+
 :boom:**SAMWISE:** Claudia Cuttano, Gabriele Trivigno, Gabriele Rosi, Carlo Masone, Giuseppe Averta.<br />
 "SAMWISE: Infusing wisdom in SAM2 for Text-Driven Video Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.17646)]
 [[code](https://github.com/ClaudiaCuttano/SAMWISE)]
 [2024.11]
 
-:boom:**SAM-MPA:** Jie Xu, Xiaokang Li, Chengyu Yue, Yuanyuan Wang, Yi Guo.<br />
+- **SAM-MPA:** Jie Xu, Xiaokang Li, Chengyu Yue, Yuanyuan Wang, Yi Guo.<br />
 "SAM-MPA: Applying SAM to Few-shot Medical Image Segmentation using Mask Propagation and Auto-prompting." NeurIPS 2024 AIM-FM Workshop(2024).
 [[paper](https://arxiv.org/abs/2411.17363)]
 [2024.11]
 
-:boom:**SPT:** Hui-Yue Yang, Hui Chen, Ao Wang, Kai Chen, Zijia Lin, Yongliang Tang, Pengcheng Gao, Yuming Quan, Jungong Han, Guiguang Ding.<br />
+- **SPT:** Hui-Yue Yang, Hui Chen, Ao Wang, Kai Chen, Zijia Lin, Yongliang Tang, Pengcheng Gao, Yuming Quan, Jungong Han, Guiguang Ding.<br />
 "Promptable Anomaly Segmentation with SAM Through Self-Perception Tuning." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.17217)]
 [2024.11]
 
-:boom:**SAM-Road++:** Pan Yin, Kaiyu Li, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng.<br />
+- **SAM-Road++:** Pan Yin, Kaiyu Li, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng.<br />
 "Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.16733)]
 [[code](https://github.com/earth-insights/samroadplus)]
 [2024.11]
 
-:boom:**SAMatch:** Guoping Xu, Xiaoxue Qian, Hua Chieh Shao, Jax Luo, Weiguo Lu, You Zhang.<br />
+- **SAMatch:** Guoping Xu, Xiaoxue Qian, Hua Chieh Shao, Jax Luo, Weiguo Lu, You Zhang.<br />
 "A SAM-guided and Match-based Semi-Supervised Segmentation Framework for Medical Imaging." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.16949)]
 [[code](https://github.com/apple1986/SAMatch)]
 [2024.11]
 
-:boom:**DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
+- **DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
 "A Distractor-Aware Memory for Visual Object Tracking with SAM2." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.17576)]
 [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 [2024.11]
 
-:boom:**Any3DIS:** Phuc Nguyen, Minh Luu, Anh Tran, Cuong Pham, Khoi Nguyen.<br />
+- **Any3DIS:** Phuc Nguyen, Minh Luu, Anh Tran, Cuong Pham, Khoi Nguyen.<br />
 "Any3DIS: Class-Agnostic 3D Instance Segmentation by 2D Mask Tracking." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.16183)]
 [[code](https://any3dis.github.io/)]
 [2024.11]
 
-:boom:**SDM-D:** Yanan Wang, Zhenghao Fei, Ruichen Li, Yibin Ying.<br />
+- **SDM-D:** Yanan Wang, Zhenghao Fei, Ruichen Li, Yibin Ying.<br />
 "Learn from Foundation Model: Fruit Detection Model without Manual Annotation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.16196)]
 [[code](https://github.com/AgRoboticsResearch/SDM-D.git)]
 [2024.11]
 
-:boom:**UltraSam:** Adrien Meyer, Aditya Murali, Didier Mutter, Nicolas Padoy.<br />
+- **UltraSam:** Adrien Meyer, Aditya Murali, Didier Mutter, Nicolas Padoy.<br />
 "UltraSam: A Foundation Model for Ultrasound using Large Open-Access Segmentation Datasets." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.16222)]
 [[code](https://github.com/CAMMA-public/UltraSam)]
 [2024.11]
 
-:boom:Manuel Knott, Divinefavour Odion, Sameer Sontakke, Anup Karwa, Thijs Defraeye.<br />
+- Manuel Knott, Divinefavour Odion, Sameer Sontakke, Anup Karwa, Thijs Defraeye.<br />
 "Weakly supervised image segmentation for defect-based grading of fresh produce." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.16219)]
 [2024.11]
@@ -285,45 +295,45 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2411.16123)]
 [2024.11]
 
-:boom:Miguel Espinosa, Chenhongyi Yang, Linus Ericsson, Steven McDonagh, Elliot J. Crowley.<br />
+- Miguel Espinosa, Chenhongyi Yang, Linus Ericsson, Steven McDonagh, Elliot J. Crowley.<br />
 "There is no SAMantics! Exploring SAM as a Backbone for Visual Understanding Tasks." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.15288)]
 [[code](https://github.com/miquel-espinosa/samantics)]
 [2024.11]
 
-:boom:**ESC-Net:** Minhyeok Lee, Suhwan Cho, Jungho Lee, Sunghun Yang, Heeseung Choi, Ig-Jae Kim, Sangyoun Lee.<br />
+- **ESC-Net:** Minhyeok Lee, Suhwan Cho, Jungho Lee, Sunghun Yang, Heeseung Choi, Ig-Jae Kim, Sangyoun Lee.<br />
 "Effective SAM Combination for Open-Vocabulary Semantic Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.14723)]
 [2024.11]
 
-:boom:Burke, Molly.<br />
+- Burke, Molly.<br />
 "Segmentation and Quantification of Intersegmental Vessels in Zebrafish Embryos: Utilizing U-Net and MedSAM for automated vessel metric analysis." ArXiv (2024).
 [[paper](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1914808&dswid=301)]
 [2024.11]
 
-:boom:**SegAnyPath:** Wang, Chong and Wan, Yajie and Li, Shuxin and Qu, Kaili and Zhou, Xuezhi and He, Junjun and Ke, Jing and Yu, Yi and Wang, Tianyun and Shen, Yiqing.<br />
+- **SegAnyPath:** Wang, Chong and Wan, Yajie and Li, Shuxin and Qu, Kaili and Zhou, Xuezhi and He, Junjun and Ke, Jing and Yu, Yi and Wang, Tianyun and Shen, Yiqing.<br />
 "SegAnyPath: A Foundation Model for Multi-resolution Stain-variant and Multi-task Pathology Image Segmentation." TMI(2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10756743)]
 [[code](https://github.com/wagnchogn/SegAnyPath)]
 [2024.11]
 
-:boom:Reddy, J., Niu, H., Scott, J. L. L., Bhandari, M., Landivar, J. A., Bednarz, C. W., & Duffield, N.<br />
+- Reddy, J., Niu, H., Scott, J. L. L., Bhandari, M., Landivar, J. A., Bednarz, C. W., & Duffield, N.<br />
 "Cotton Yield Prediction via UAV-Based Cotton Boll Image Segmentation Using YOLO Model and Segment Anything Model (SAM)." Remote Sensing(2024).
 [[paper](https://www.mdpi.com/2072-4292/16/23/4346)]
 [2024.11]
 
-:boom:**WasteSAM:** Seokjae Heo and Seunguk Na.<br />
+- **WasteSAM:** Seokjae Heo and Seunguk Na.<br />
 "Developing WasteSAM: A novel approach for accurate construction waste image segmentation to facilitate efficient recycling." ArXiv (2024).
 [[paper](https://journals.sagepub.com/doi/abs/10.1177/0734242X241290743)]
 [2024.11]
 
-:boom:**IMed-361M:** Junlong Cheng, Bin Fu, Jin Ye, Guoan Wang, Tianbin Li, Haoyu Wang, Ruoyu Li, He Yao, Junren Chen, JingWen Li, Yanzhou Su, Min Zhu, Junjun He.<br />
+- **IMed-361M:** Junlong Cheng, Bin Fu, Jin Ye, Guoan Wang, Tianbin Li, Haoyu Wang, Ruoyu Li, He Yao, Junren Chen, JingWen Li, Yanzhou Su, Min Zhu, Junjun He.<br />
 "." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.12814)]
 [[code](https://github.com/uni-medical/IMIS-Bench)]
 [2024.11]
 
-:boom:VENEZIANI, MICHELE.<br />
+- VENEZIANI, MICHELE.<br />
 "Segmentazione semantica: prompt engineering per il modello Segment Anything." ArXiv (2024).
 [[paper](https://thesis.unipd.it/handle/20.500.12608/76498)]
 [2024.11]
