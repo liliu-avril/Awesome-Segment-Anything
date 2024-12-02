@@ -325,7 +325,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2411.16219)]
 [2024.11]
 
-:boom:**Med-PerSAM:** Hangyul Yoon, Doohyuk Jang, Jungeun Kim, Eunho Yang.<br />
+- **Med-PerSAM:** Hangyul Yoon, Doohyuk Jang, Jungeun Kim, Eunho Yang.<br />
 "Med-PerSAM: One-Shot Visual Prompt Tuning for Personalized Segment Anything Model in Medical Domain." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.16123)]
 [2024.11]
