@@ -223,6 +223,41 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SADG:** Yun-Jin Li, Mariia Gladkova, Yan Xia, Daniel Cremers.<br />
+"SADG: Segment Any Dynamic Gaussian Without Object Trackers." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.19290)]
+[[code](https://yunjinli.github.io/project-sadg)]
+[2024.11]
+
+:boom:**TABE:** Finlay G. C. Hudson, William A. P. Smith.<br />
+"Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.19210)]
+[2024.11]
+
+:boom:**Det-SAM2:** Zhiting Wang, Qiangong Zhou, Zongyang Liu.<br />
+"Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.18977)]
+[[code](https://github.com/motern88/Det-SAM2)]
+[2024.11]
+
+:boom:**EfficientTAMs:** Yunyang Xiong, Chong Zhou, Xiaoyu Xiang, Lemeng Wu, Chenchen Zhu, Zechun Liu, Saksham Suri, Balakrishnan Varadarajan, Ramya Akula, Forrest Iandola, Raghuraman Krishnamoorthi, Bilge Soran, Vikas Chandra.<br />
+"Efficient Track Anything." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.18933)]
+[[code](https://yformer.github.io/efficient-track-anything/)]
+[2024.11]
+
+:boom:**COMPrompter:** Xiaoqin Zhang, Zhenni Yu, Li Zhao, Deng-Ping Fan, Guobao Xiao.<br />
+"COMPrompter: reconceptualized segment anything model with multiprompt network for camouflaged object detection." SCIENCE CHINA Information Sciences (2024).
+[[paper](https://arxiv.org/abs/2411.18858)]
+[[code](https://github.com/guobaoxiao/COMPrompter)]
+[2024.11]
+
+:boom:**SimCMF:** Chenyang Lei, Liyi Chen, Jun Cen, Xiao Chen, Zhen Lei, Felix Heide, Qifeng Chen, Zhaoxiang Zhang.<br />
+"SimCMF: A Simple Cross-modal Fine-tuning Strategy from Vision Foundation Models to Any Imaging Modality." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.18669)]
+[[code](https://github.com/mt-cly/SimCMF)]
+[2024.11]
+
 :boom:Huanlong Zhang and Xiangbo Yang and Xin Wang and Weiqiang Fu and Bineng Zhong and Jianwei Zhang.<br />
 "SAM-Assisted Temporal-Location Enhanced Transformer Segmentation for Object Tracking with Online Motion Inference." Neurocomputing (2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224016850)]
