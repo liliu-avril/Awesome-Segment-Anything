@@ -223,6 +223,40 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**LMSeg:** Huadong Tang, Youpeng Zhao, Yan Huang, Min Xu, Jun Wang, Qiang Wu.<br />
+"LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.00364)]
+[2024.12]
+
+:boom:**MUG-VOS:** Sangbeom Lim, Seongchan Kim, Seungjun An, Seokju Cho, Paul Hongsuck Seo, Seungryong Kim.<br />
+"Multi-Granularity Video Object Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.01471)]
+[[code](https://cvlab-kaist.github.io/MUG-VOS)]
+[2024.12]
+
+:boom:**BMP:** Miroslav Purkrabek, Jiri Matas.<br />
+"Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.01562)]
+[[code](https://mirapurkrabek.github.io/BBox-Mask-Pose)]
+[2024.12]
+
+:boom:**CellSeg1:** Peilin Zhou, Bo Du, Yongchao Xu.<br />
+"CellSeg1: Robust Cell Segmentation with One Training Image." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.01410)]
+[2024.12]
+
+:boom:**SAMs-CDConcepts-Eval:** Xiaoqi Zhao, Youwei Pang, Shijie Chang, Yuan Zhao, Lihe Zhang, Huchuan Lu, Jinsong Ouyang, Georges El Fakhri, Xiaofeng Liu.<br />
+"Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.01240)]
+[[code](https://github.com/lartpang/SAMs-CDConcepts-Eval)]
+[2024.12]
+
+:boom:**SOLA:** Seongchan Kim, Woojeong Jin, Sangbeom Lim, Heeji Yoon, Hyunwook Choi, Seungryong Kim.<br />
+"Referring Video Object Segmentation via Language-aligned Track Selection." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.01136)]
+[[code](https://cvlab-kaist.github.io/SOLA)]
+[2024.12]
+
 :boom:**SADG:** Yun-Jin Li, Mariia Gladkova, Yan Xia, Daniel Cremers.<br />
 "SADG: Segment Any Dynamic Gaussian Without Object Trackers." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.19290)]
