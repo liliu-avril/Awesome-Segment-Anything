@@ -223,6 +223,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**ADIW:** Zhenyu Li, Mykola Lavreniuk, Jian Shi, Shariq Farooq Bhat, Peter Wonka.<br />
+"Amodal Depth Anything: Amodal Depth Estimation in the Wild." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.02336)]
+[[code](https://zhyever.github.io/amodaldepthanything/)]
+[2024.12]
+
 :boom:**LMSeg:** Huadong Tang, Youpeng Zhao, Yan Huang, Min Xu, Jun Wang, Qiang Wu.<br />
 "LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.00364)]
