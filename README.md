@@ -223,6 +223,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Measure Anything:** Yongkyu Lee, Shivam Kumar Panda, Wei Wang, Mohammad Khalid Jawed.<br />
+"Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.03472)]
+[[code](https://github.com/StructuresComp/measure-anything)]
+[2024.12]
+
 :boom:**ADIW:** Zhenyu Li, Mykola Lavreniuk, Jian Shi, Shariq Farooq Bhat, Peter Wonka.<br />
 "Amodal Depth Anything: Amodal Depth Estimation in the Wild." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.02336)]
