@@ -223,6 +223,22 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Yixin Zhang, Nicholas Konz, Kevin Kramer, Maciej A. Mazurowski.<br />
+"Quantifying the Limits of Segment Anything Model: Analyzing Challenges in Segmenting Tree-Like and Low-Contrast Structures." ArXiv (2024).
+[[paper](https://github.com/mazurowski-lab/SAM-TexturalConfusion-Metrics)]
+[[code](https://github.com/mazurowski-lab/SAM-TexturalConfusion-Metrics)]
+[2024.12]
+
+:boom:**MoE-LoRA:** Chenyang Zhu, Bin Xiao, Lin Shi, Shoukun Xu, Xu Zheng.<br />
+"Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.04220)]
+[2024.12]
+
+:boom:J. Vega-Ferrero, F. Buitrago, J. Fernández-Iglesias, S. Raji, B. Sahelices, H. Domínguez Sánchez.<br />
+"Automated galaxy sizes in Euclid images using the Segment Anything Model." Astronomy & Astrophysics(2024).
+[[paper](https://arxiv.org/abs/2412.03642)]
+[2024.12]
+
 :boom:**Measure Anything:** Yongkyu Lee, Shivam Kumar Panda, Wei Wang, Mohammad Khalid Jawed.<br />
 "Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.03472)]
