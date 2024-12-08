@@ -223,6 +223,21 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Yue, Jiahe and Zhang, Runchu and Zhang, Zhe and Zhao, Ruixiang and Lv, Wu and Ma, Jie.<br />
+"How SAM helps Unsupervised Video Object Segmentation?." IJCNN (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10651290)]
+[2024.12]
+
+:boom:K Wheeler, E J Lang, C R Field, N Madden, R Schoell, R Peña, D J Senor, A Casella, K Hattar.<br />
+"He Bubble Evolution in LiAlO2: A Comparison of Human and Artificial Intelligence Based Analysis." Microscopy and Microanalysis (2024).
+[[paper](https://academic.oup.com/mam/article/30/Supplement_1/ozae044.816/7720148?login=false)]
+[2024.12]
+
+:boom:Vanhaeverbeke, J.; Decorte, R.; Slembrouck, M.; Hoecke, S.V.; Verstockt, S.<br />
+"Point of Interest Recognition and Tracking in Aerial Video during Live Cycling Broadcasts." Applied Sciences(2024).
+[[paper](https://www.mdpi.com/2076-3417/14/20/9246)]
+[2024.12]
+
 :boom:**Guided SAM:** Sabina B. van Rooij & Gertjan J. Burghouts.<br />
 "Guided SAM: Label-Efficient Part Segmentation." ICPR(2024).
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78110-0_19)]
