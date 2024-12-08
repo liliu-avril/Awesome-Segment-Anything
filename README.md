@@ -223,109 +223,155 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Yixin Zhang, Nicholas Konz, Kevin Kramer, Maciej A. Mazurowski.<br />
+:boom:**Guided SAM:** Sabina B. van Rooij & Gertjan J. Burghouts.<br />
+"Guided SAM: Label-Efficient Part Segmentation." ICPR(2024).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-78110-0_19)]
+[2024.12]
+
+:boom:**SAM-R:** Rosa Pia Devanna and Giulio Reina and Fernando Auat Cheein and Annalisa Milella.<br />
+"Boosting grape bunch detection in RGB-D images using zero-shot annotation with Segment Anything and GroundingDINO." Computers and Electronics in Agriculture(2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0168169924010020)]
+[2024.12]
+
+:boom:**RS-SAM:** Enkai Zhang, Jingjing Liu, Anda Cao, Zhen Sun, Haofei Zhang, Huiqiong Wang, Li Sun, Mingli Song.<br />
+"RS-SAM: Integrating Multi-Scale Information for Enhanced Remote Sensing Image Segmentation." ACCV(2024).
+[[paper](https://openaccess.thecvf.com/content/ACCV2024/html/Zhang_RS-SAM_Integrating_Multi-Scale_Information_for_Enhanced_Remote_Sensing_Image_Segmentation_ACCV_2024_paper.html)]
+[2024.12]
+
+:boom:**SAMIF:** Lan Zhang, Xinshan Zhu, Di He, Xin Liao, Biao Sun.<br />
+"SAMIF: Adapting Segment Anything Model for Image Inpainting Forensics." ACCV(2024).
+[[paper](https://openaccess.thecvf.com/content/ACCV2024/html/Zhang_SAMIF_Adapting_Segment_Anything_Model_for_Image_Inpainting_Forensics_ACCV_2024_paper.html)]
+[2024.12]
+
+:boom:**LoRASAM:** Jay N. Paranjape, Shameema Sikder, S. Swaroop Vedula & Vishal M. Patel.<br />
+"Low-Rank Adaptation of Segment Anything Model for Surgical Scene Segmentation." ICPR(2024).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-78198-8_13)]
+[[code](https://github.com/JayParanjape/LoRASAM)]
+[2024.12]
+
+:boom:**TV-SAM:** Jiang, Zekun and Cheng, Dongjie and Qin, Ziyuan and Gao, Jun and Lao, Qicheng and Ismoilovich, Abdullaev Bakhrom and Gayrat, Urazboev and Elyorbek, Yuldashov and Habibullo, Bekchanov and Tang, Defu and Wei, Linjing and Li, Kang and Zhang, Le.<br />
+"TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation." Big Data Mining and Analytics (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10778143)]
+[2024.12]
+
+:boom:**3DMedSAM:** Haoneng Lin and Jing Zou and Sen Deng and Ka Po Wong and Angelica I. Aviles-Rivero and Yiting Fan and Alex Pui-Wai Lee and Xiaowei Hu and Jing Qin.<br />
+"Volumetric medical image segmentation via fully 3D adaptation of Segment Anything Model." Biocybernetics and Biomedical Engineering(2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0208521624000846)]
+[2024.12]
+
+:boom:Mudassar Ali and Tong Wu and Haoji Hu and Qiong Luo and Dong Xu and Weizeng Zheng and Neng Jin and Chen Yang and Jincao Yao.<br />
+"A review of the Segment Anything Model (SAM) for medical image analysis: Accomplishments and perspectives." Computerized Medical Imaging and Graphics(2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0895611124001502)]
+[2024.12]
+
+:boom:**SEMPNet:** Ao, W., Zheng, S., & Meng, Y.<br />
+"SEMPNet: enhancing few-shot remote sensing image semantic segmentation through the integration of the segment anything model." GIScience & Remote Sensing(2024).
+[[paper](https://www.tandfonline.com/doi/full/10.1080/15481603.2024.2426589#abstract)]
+[2024.12]
+
+- Yixin Zhang, Nicholas Konz, Kevin Kramer, Maciej A. Mazurowski.<br />
 "Quantifying the Limits of Segment Anything Model: Analyzing Challenges in Segmenting Tree-Like and Low-Contrast Structures." ArXiv (2024).
 [[paper](https://github.com/mazurowski-lab/SAM-TexturalConfusion-Metrics)]
 [[code](https://github.com/mazurowski-lab/SAM-TexturalConfusion-Metrics)]
 [2024.12]
 
-:boom:**MoE-LoRA:** Chenyang Zhu, Bin Xiao, Lin Shi, Shoukun Xu, Xu Zheng.<br />
+- **MoE-LoRA:** Chenyang Zhu, Bin Xiao, Lin Shi, Shoukun Xu, Xu Zheng.<br />
 "Customize Segment Anything Model for Multi-Modal Semantic Segmentation with Mixture of LoRA Experts." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.04220)]
 [2024.12]
 
-:boom:J. Vega-Ferrero, F. Buitrago, J. Fernández-Iglesias, S. Raji, B. Sahelices, H. Domínguez Sánchez.<br />
+- J. Vega-Ferrero, F. Buitrago, J. Fernández-Iglesias, S. Raji, B. Sahelices, H. Domínguez Sánchez.<br />
 "Automated galaxy sizes in Euclid images using the Segment Anything Model." Astronomy & Astrophysics(2024).
 [[paper](https://arxiv.org/abs/2412.03642)]
 [2024.12]
 
-:boom:**Measure Anything:** Yongkyu Lee, Shivam Kumar Panda, Wei Wang, Mohammad Khalid Jawed.<br />
+- **Measure Anything:** Yongkyu Lee, Shivam Kumar Panda, Wei Wang, Mohammad Khalid Jawed.<br />
 "Measure Anything: Real-time, Multi-stage Vision-based Dimensional Measurement using Segment Anything." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.03472)]
 [[code](https://github.com/StructuresComp/measure-anything)]
 [2024.12]
 
-:boom:**ADIW:** Zhenyu Li, Mykola Lavreniuk, Jian Shi, Shariq Farooq Bhat, Peter Wonka.<br />
+- **ADIW:** Zhenyu Li, Mykola Lavreniuk, Jian Shi, Shariq Farooq Bhat, Peter Wonka.<br />
 "Amodal Depth Anything: Amodal Depth Estimation in the Wild." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.02336)]
 [[code](https://zhyever.github.io/amodaldepthanything/)]
 [2024.12]
 
-:boom:**LMSeg:** Huadong Tang, Youpeng Zhao, Yan Huang, Min Xu, Jun Wang, Qiang Wu.<br />
+- **LMSeg:** Huadong Tang, Youpeng Zhao, Yan Huang, Min Xu, Jun Wang, Qiang Wu.<br />
 "LMSeg: Unleashing the Power of Large-Scale Models for Open-Vocabulary Semantic Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.00364)]
 [2024.12]
 
-:boom:**MUG-VOS:** Sangbeom Lim, Seongchan Kim, Seungjun An, Seokju Cho, Paul Hongsuck Seo, Seungryong Kim.<br />
+- **MUG-VOS:** Sangbeom Lim, Seongchan Kim, Seungjun An, Seokju Cho, Paul Hongsuck Seo, Seungryong Kim.<br />
 "Multi-Granularity Video Object Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.01471)]
 [[code](https://cvlab-kaist.github.io/MUG-VOS)]
 [2024.12]
 
-:boom:**BMP:** Miroslav Purkrabek, Jiri Matas.<br />
+- **BMP:** Miroslav Purkrabek, Jiri Matas.<br />
 "Detection, Pose Estimation and Segmentation for Multiple Bodies: Closing the Virtuous Circle." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.01562)]
 [[code](https://mirapurkrabek.github.io/BBox-Mask-Pose)]
 [2024.12]
 
-:boom:**CellSeg1:** Peilin Zhou, Bo Du, Yongchao Xu.<br />
+- **CellSeg1:** Peilin Zhou, Bo Du, Yongchao Xu.<br />
 "CellSeg1: Robust Cell Segmentation with One Training Image." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.01410)]
 [2024.12]
 
-:boom:**SAMs-CDConcepts-Eval:** Xiaoqi Zhao, Youwei Pang, Shijie Chang, Yuan Zhao, Lihe Zhang, Huchuan Lu, Jinsong Ouyang, Georges El Fakhri, Xiaofeng Liu.<br />
+- **SAMs-CDConcepts-Eval:** Xiaoqi Zhao, Youwei Pang, Shijie Chang, Yuan Zhao, Lihe Zhang, Huchuan Lu, Jinsong Ouyang, Georges El Fakhri, Xiaofeng Liu.<br />
 "Inspiring the Next Generation of Segment Anything Models: Comprehensively Evaluate SAM and SAM 2 with Diverse Prompts Towards Context-Dependent Concepts under Different Scenes." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.01240)]
 [[code](https://github.com/lartpang/SAMs-CDConcepts-Eval)]
 [2024.12]
 
-:boom:**SOLA:** Seongchan Kim, Woojeong Jin, Sangbeom Lim, Heeji Yoon, Hyunwook Choi, Seungryong Kim.<br />
+- **SOLA:** Seongchan Kim, Woojeong Jin, Sangbeom Lim, Heeji Yoon, Hyunwook Choi, Seungryong Kim.<br />
 "Referring Video Object Segmentation via Language-aligned Track Selection." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.01136)]
 [[code](https://cvlab-kaist.github.io/SOLA)]
 [2024.12]
 
-:boom:**SADG:** Yun-Jin Li, Mariia Gladkova, Yan Xia, Daniel Cremers.<br />
+- **SADG:** Yun-Jin Li, Mariia Gladkova, Yan Xia, Daniel Cremers.<br />
 "SADG: Segment Any Dynamic Gaussian Without Object Trackers." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.19290)]
 [[code](https://yunjinli.github.io/project-sadg)]
 [2024.11]
 
-:boom:**TABE:** Finlay G. C. Hudson, William A. P. Smith.<br />
+- **TABE:** Finlay G. C. Hudson, William A. P. Smith.<br />
 "Track Anything Behind Everything: Zero-Shot Amodal Video Object Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.19210)]
 [2024.11]
 
-:boom:**Det-SAM2:** Zhiting Wang, Qiangong Zhou, Zongyang Liu.<br />
+- **Det-SAM2:** Zhiting Wang, Qiangong Zhou, Zongyang Liu.<br />
 "Det-SAM2:Technical Report on the Self-Prompting Segmentation Framework Based on Segment Anything Model 2." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.18977)]
 [[code](https://github.com/motern88/Det-SAM2)]
 [2024.11]
 
-:boom:**EfficientTAMs:** Yunyang Xiong, Chong Zhou, Xiaoyu Xiang, Lemeng Wu, Chenchen Zhu, Zechun Liu, Saksham Suri, Balakrishnan Varadarajan, Ramya Akula, Forrest Iandola, Raghuraman Krishnamoorthi, Bilge Soran, Vikas Chandra.<br />
+- **EfficientTAMs:** Yunyang Xiong, Chong Zhou, Xiaoyu Xiang, Lemeng Wu, Chenchen Zhu, Zechun Liu, Saksham Suri, Balakrishnan Varadarajan, Ramya Akula, Forrest Iandola, Raghuraman Krishnamoorthi, Bilge Soran, Vikas Chandra.<br />
 "Efficient Track Anything." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.18933)]
 [[code](https://yformer.github.io/efficient-track-anything/)]
 [2024.11]
 
-:boom:**COMPrompter:** Xiaoqin Zhang, Zhenni Yu, Li Zhao, Deng-Ping Fan, Guobao Xiao.<br />
+- **COMPrompter:** Xiaoqin Zhang, Zhenni Yu, Li Zhao, Deng-Ping Fan, Guobao Xiao.<br />
 "COMPrompter: reconceptualized segment anything model with multiprompt network for camouflaged object detection." SCIENCE CHINA Information Sciences (2024).
 [[paper](https://arxiv.org/abs/2411.18858)]
 [[code](https://github.com/guobaoxiao/COMPrompter)]
 [2024.11]
 
-:boom:**SimCMF:** Chenyang Lei, Liyi Chen, Jun Cen, Xiao Chen, Zhen Lei, Felix Heide, Qifeng Chen, Zhaoxiang Zhang.<br />
+- **SimCMF:** Chenyang Lei, Liyi Chen, Jun Cen, Xiao Chen, Zhen Lei, Felix Heide, Qifeng Chen, Zhaoxiang Zhang.<br />
 "SimCMF: A Simple Cross-modal Fine-tuning Strategy from Vision Foundation Models to Any Imaging Modality." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.18669)]
 [[code](https://github.com/mt-cly/SimCMF)]
 [2024.11]
 
-:boom:Huanlong Zhang and Xiangbo Yang and Xin Wang and Weiqiang Fu and Bineng Zhong and Jianwei Zhang.<br />
+- Huanlong Zhang and Xiangbo Yang and Xin Wang and Weiqiang Fu and Bineng Zhong and Jianwei Zhang.<br />
 "SAM-Assisted Temporal-Location Enhanced Transformer Segmentation for Object Tracking with Online Motion Inference." Neurocomputing (2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0925231224016850)]
 [2024.11]
 
-:boom:**IngredSAM:** Chen, L., Wang, B., & Zhang, J.<br />
+- **IngredSAM:** Chen, L., Wang, B., & Zhang, J.<br />
 "IngredSAM: Open-World Food Ingredient Segmentation via a Single Image Prompt." Journal of Imaging(2024).
 [[paper](https://www.mdpi.com/2313-433X/10/12/305)]
 [2024.11]
