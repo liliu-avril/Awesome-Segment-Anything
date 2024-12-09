@@ -226,11 +226,6 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:Yue, Jiahe and Zhang, Runchu and Zhang, Zhe and Zhao, Ruixiang and Lv, Wu and Ma, Jie.<br />
-"How SAM helps Unsupervised Video Object Segmentation?." IJCNN (2024).
-[[paper](https://ieeexplore.ieee.org/abstract/document/10651290)]
-[2024.12]
-
 :boom:K Wheeler, E J Lang, C R Field, N Madden, R Schoell, R Peña, D J Senor, A Casella, K Hattar.<br />
 "He Bubble Evolution in LiAlO2: A Comparison of Human and Artificial Intelligence Based Analysis." Microscopy and Microanalysis (2024).
 [[paper](https://academic.oup.com/mam/article/30/Supplement_1/ozae044.816/7720148?login=false)]
@@ -778,6 +773,11 @@ If you find our work useful in your research, please consider citing:
 "Generative AI-based Pipeline Architecture for Increasing Training Efficiency in Intelligent Weed Control Systems." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2411.00548)]
 [2024.11]
+
+- Yue, Jiahe and Zhang, Runchu and Zhang, Zhe and Zhao, Ruixiang and Lv, Wu and Ma, Jie.<br />
+"How SAM helps Unsupervised Video Object Segmentation?." IJCNN (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10651290)]
+[2024.10]
 
 - **SFCD-Net:** Zhang, Da and Wang, Feiyu and Ning, Lichen and Zhao, Zhiyuan and Gao, Junyu and Li, Xuelong.<br />
 "Integrating SAM with Feature Interaction for Remote Sensing Change Detection." TGRS(2024).
