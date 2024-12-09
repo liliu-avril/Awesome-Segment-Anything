@@ -99,7 +99,10 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2306.06211)] 
   [2023.05]
 
-
+- Mudassar Ali and Tong Wu and Haoji Hu and Qiong Luo and Dong Xu and Weizeng Zheng and Neng Jin and Chen Yang and Jincao Yao.<br />
+"A review of the Segment Anything Model (SAM) for medical image analysis: Accomplishments and perspectives." Computerized Medical Imaging and Graphics (2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0895611124001502)]
+[2024.12]
 
 ## Paper List
 ### Seminal Papers
@@ -272,11 +275,6 @@ If you find our work useful in your research, please consider citing:
 :boom:**3DMedSAM:** Haoneng Lin and Jing Zou and Sen Deng and Ka Po Wong and Angelica I. Aviles-Rivero and Yiting Fan and Alex Pui-Wai Lee and Xiaowei Hu and Jing Qin.<br />
 "Volumetric medical image segmentation via fully 3D adaptation of Segment Anything Model." Biocybernetics and Biomedical Engineering(2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0208521624000846)]
-[2024.12]
-
-:boom:Mudassar Ali and Tong Wu and Haoji Hu and Qiong Luo and Dong Xu and Weizeng Zheng and Neng Jin and Chen Yang and Jincao Yao.<br />
-"A review of the Segment Anything Model (SAM) for medical image analysis: Accomplishments and perspectives." Computerized Medical Imaging and Graphics(2024).
-[[paper](https://www.sciencedirect.com/science/article/pii/S0895611124001502)]
 [2024.12]
 
 :boom:**SEMPNet:** Ao, W., Zheng, S., & Meng, Y.<br />
