@@ -226,6 +226,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAMCL:** Zeqing Wang, Kangye Ji, Di Wang, Fei Cheng.<br />
+"SAMCL: Empowering SAM to Continually Learn from Dynamic Domains." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.05012)]
+[2024.12]
+
 :boom:K Wheeler, E J Lang, C R Field, N Madden, R Schoell, R Peña, D J Senor, A Casella, K Hattar.<br />
 "He Bubble Evolution in LiAlO2: A Comparison of Human and Artificial Intelligence Based Analysis." Microscopy and Microanalysis (2024).
 [[paper](https://academic.oup.com/mam/article/30/Supplement_1/ozae044.816/7720148?login=false)]
