@@ -226,6 +226,23 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**CoSAM:** Jinglong Yang, Yichen Wu, Jun Cen, Wenjian Huang, Hong Wang, Jianguo Zhang.<br />
+"Continual Learning for Segment Anything Model Adaptation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.06418)]
+[[code](https://github.com/yangjl1215/CoSAM)]
+[2024.12]
+
+:boom:**RefSAM3D:** Xiang Gao, Kai Lu.<br />
+"RefSAM3D: Adapting SAM with Cross-modal Reference for 3D Medical Image Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.05605)]
+[2024.12]
+
+:boom:**MCP-MedSAM:** Donghang Lyu, Ruochen Gao, Marius Staring.<br />
+"MCP-MedSAM: A Powerful Lightweight Medical Segment Anything Model Trained with a Single GPU in Just One Day." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.05888)]
+[[code](https://github.com/dong845/MCP-MedSAM)]
+[2024.12]
+
 :boom:**SAMCL:** Zeqing Wang, Kangye Ji, Di Wang, Fei Cheng.<br />
 "SAMCL: Empowering SAM to Continually Learn from Dynamic Domains." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.05012)]
