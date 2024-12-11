@@ -226,6 +226,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Crack-EdgeSAM:** Yingchu Wang, Ji He, Shijie Yu.<br />
+"Crack-EdgeSAM Self-Prompting Crack Segmentation System for Edge Devices." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.07205)]
+[2024.12]
+
+:boom:**OVHR3D:** Jiuyi Xu, Meida Chen, Andrew Feng, Yangming Shi, Zifan Yu.<br />
+"Open-Vocabulary High-Resolution 3D (OVHR3D) Data Segmentation and Annotation Framework." I/ITSEC(2024).
+[[paper](https://arxiv.org/abs/2412.06268)]
+[2024.12]
+
 :boom:**CoSAM:** Jinglong Yang, Yichen Wu, Jun Cen, Wenjian Huang, Hong Wang, Jianguo Zhang.<br />
 "Continual Learning for Segment Anything Model Adaptation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.06418)]
