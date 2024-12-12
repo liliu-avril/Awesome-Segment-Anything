@@ -226,6 +226,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**RADIO:** Greg Heinrich, Mike Ranzinger, Hongxu (Danny)Yin, Yao Lu, Jan Kautz, Andrew Tao, Bryan Catanzaro, Pavlo Molchanov.<br />
+"RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.07679)]
+[[code](https://github.com/NVlabs/RADIO)]
+[2024.12]
+
+:boom:**SLGaussian:** Kangjie Chen, BingQuan Dai, Minghan Qin, Dongbin Zhang, Peihao Li, Yingshuang Zou, Haoqian Wang.<br />
+"SLGaussian: Fast Language Gaussian Splatting in Sparse Views." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.08331)]
+[2024.12]
+
 :boom:**SAM-Mix:** Tyler Ward, Abdullah-Al-Zubaer Imran.<br />
 "Annotation-Efficient Task Guidance for Medical Segment Anything." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.08575)]
