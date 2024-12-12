@@ -226,6 +226,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM-Mix:** Tyler Ward, Abdullah-Al-Zubaer Imran.<br />
+"Annotation-Efficient Task Guidance for Medical Segment Anything." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.08575)]
+[[code](https://github.com/tbwa233/SAM-Mix)]
+[2024.12]
+
+:boom:**SAM-Mamba:** Tapas Kumar Dutta, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha.<br />
+"SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.08482)]
+[[code](https://github.com/TapasKumarDutta1/SAM_Mamba_2025)]
+[2024.12]
+
+:boom:**LIM-Net:** Bingzhi Shen, Lufan Chang, Siqi Chen, Shuxiang Guo, Hao Liu.<br />
+"Lightweight Method for Interactive 3D Medical Image Segmentation with Multi-Round Result Fusion." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.08315)]
+[[code](https://github.com/goodtime-123/LIM-Net)]
+[2024.12]
+
 :boom:**Crack-EdgeSAM:** Yingchu Wang, Ji He, Shijie Yu.<br />
 "Crack-EdgeSAM Self-Prompting Crack Segmentation System for Edge Devices." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.07205)]
