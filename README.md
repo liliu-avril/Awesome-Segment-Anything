@@ -917,7 +917,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/lubnaa25/MealSAM_food_annotator)]
 [2024.10]
 
-- *OSAM-Fundus:** Rui Wang and Zhouwang Yang and Yanzhi Song.<br />
+- **OSAM-Fundus:** Rui Wang and Zhouwang Yang and Yanzhi Song.<br />
   "OSAM-Fundus: A training-free, one-shot segmentation framework for optic disc and cup in fundus images." Biomedical Signal Processing and Control (2024).
   [[paper](https://www.sciencedirect.com/science/article/pii/S1746809424011273)] 
   [2024.10]
