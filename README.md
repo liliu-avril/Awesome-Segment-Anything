@@ -226,6 +226,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**TSGaussian:** Liang Zhao, Zehan Bao, Yi Xie, Hong Chen, Yaohui Chen, Weifu Li.<br />
+"TSGaussian: Semantic and Depth-Guided Target-Specific Gaussian Splatting from Sparse Views." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.10051)]
+[[code](https://github.com/leon2000-ai/TSGaussian)]
+[2024.12]
+
 :boom:**SEMPNet:** Wei Ao, Shunyi Zheng & Yan Meng.<br />
 "SEMPNet: enhancing few-shot remote sensing image semantic segmentation through the integration of the segment anything model." GIScience & Remote Sensing(2024).
 [[paper](https://www.tandfonline.com/doi/full/10.1080/15481603.2024.2426589)]
