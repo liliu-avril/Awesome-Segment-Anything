@@ -226,114 +226,164 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**RADIO:** Greg Heinrich, Mike Ranzinger, Hongxu (Danny)Yin, Yao Lu, Jan Kautz, Andrew Tao, Bryan Catanzaro, Pavlo Molchanov.<br />
+:boom:**SEMPNet:** Wei Ao, Shunyi Zheng & Yan Meng.<br />
+"SEMPNet: enhancing few-shot remote sensing image semantic segmentation through the integration of the segment anything model." GIScience & Remote Sensing(2024).
+[[paper](https://www.tandfonline.com/doi/full/10.1080/15481603.2024.2426589)]
+[[code](https://github.com/TinyAway/SEMPNet)]
+[2024.12]
+
+:boom:**S2AgScUNet:** Li, Zifeng and Tang, Wenzhong and Gao, Shijun and Wang, Yanyang and Wang, Shuai.<br />
+"Adapting SAM2 Model from Natural Images for Tooth Segmentation in Dental Panoramic X-Ray Images." Entropy(2024).
+[[paper](https://www.mdpi.com/1099-4300/26/12/1059)]
+[2024.12]
+
+:boom:CARISI, LORENZO.<br />
+"Augmentation and Ensembles: Improving Medical Image Segmentation with SAM and Deep Networks." ArXiv (2024).
+[[paper](https://thesis.unipd.it/handle/20.500.12608/78065)]
+[2024.12]
+
+:boom:**Med-FastSAM:** Yuxiang Luo, Qing Xu, Jinglei Feng, Guangwu Qian, Wenting Duan.<br />
+"Med-FastSAM: Improving Transfer Efficiency of SAM to Domain-Generalised Medical Image Segmentation." NeurIPS Workshops (2024).
+[[paper](https://openreview.net/forum?id=ZL1Vb8LuE1)]
+[[code](https://github.com/GalacticHogrider/Med-FastSAM)]
+[2024.12]
+
+:boom:**BiASAM:** Wei Zhou; Guilin Guan; Wei Cui; Yugen Yi.<br />
+"BiASAM: Bidirectional-Attention Guided Segment Anything Model for Very Few-Shot Medical Image Segmentation." SPL (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10787063)]
+[[code](https://github.com/ggllllll/BiASAM-.git)]
+[2024.12]
+
+:boom:Zhihao Zhang; Zhaohui Dang.<br />
+"Automatic Segmentation Annotation of Space Target Using Segment Anything Model and Object Detection Prompts." TAES (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10782995)]
+[[code](https://github.com/zhang-xaerospace/SpaceTarget-Segmentation-Dataset)]
+[2024.12]
+
+:boom:**CBCT-SAM:** Ka-Kei Chau and Meilu Zhu and Abeer AlHadidi and Cheng Wang and Kuofeng Hung and Pierre Wohlgemuth and Walter Yu Hang Lam and Weicai Liu and Yixuan Yuan and Hui Chen.<br />
+"A novel AI model for detecting periapical lesion on CBCT: CBCT-SAM." ArXiv (2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S030057122400695X)]
+[2024.12]
+
+:boom:**LF-SAM:** Yao, Bo and Wu, Ming and Xu, Mengqiu and Zhang, Bin and Su, Sundingkai and Xu, Mingrui and Li, Weiqing.<br />
+"LF-SAM:Prompting for Land Fog Recognition with Ground Observation Station Data." IEEE Geoscience and Remote Sensing Letters(2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10794559)]
+[[code](XXXXXXXXXXXXXXXXXXXXXX)]
+[2024.12]
+
+:boom:Quang, Nguyen Hong and Lee, Hanna and Kim, Eui-Myoung and Kim, Gihong.<br />
+"Fine-tunned Segment Anything Model (SAM) for Reservoir Extractions Compared with Popular CNNs: An Experiment for Space-borne Synthetic-aperture Radar Images." IEEE Access(2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10795130)]
+[2024.12]
+
+- **RADIO:** Greg Heinrich, Mike Ranzinger, Hongxu (Danny)Yin, Yao Lu, Jan Kautz, Andrew Tao, Bryan Catanzaro, Pavlo Molchanov.<br />
 "RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.07679)]
 [[code](https://github.com/NVlabs/RADIO)]
 [2024.12]
 
-:boom:**SLGaussian:** Kangjie Chen, BingQuan Dai, Minghan Qin, Dongbin Zhang, Peihao Li, Yingshuang Zou, Haoqian Wang.<br />
+- **SLGaussian:** Kangjie Chen, BingQuan Dai, Minghan Qin, Dongbin Zhang, Peihao Li, Yingshuang Zou, Haoqian Wang.<br />
 "SLGaussian: Fast Language Gaussian Splatting in Sparse Views." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.08331)]
 [2024.12]
 
-:boom:**SAM-Mix:** Tyler Ward, Abdullah-Al-Zubaer Imran.<br />
+- **SAM-Mix:** Tyler Ward, Abdullah-Al-Zubaer Imran.<br />
 "Annotation-Efficient Task Guidance for Medical Segment Anything." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.08575)]
 [[code](https://github.com/tbwa233/SAM-Mix)]
 [2024.12]
 
-:boom:**SAM-Mamba:** Tapas Kumar Dutta, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha.<br />
+- **SAM-Mamba:** Tapas Kumar Dutta, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha.<br />
 "SAM-Mamba: Mamba Guided SAM Architecture for Generalized Zero-Shot Polyp Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.08482)]
 [[code](https://github.com/TapasKumarDutta1/SAM_Mamba_2025)]
 [2024.12]
 
-:boom:**LIM-Net:** Bingzhi Shen, Lufan Chang, Siqi Chen, Shuxiang Guo, Hao Liu.<br />
+- **LIM-Net:** Bingzhi Shen, Lufan Chang, Siqi Chen, Shuxiang Guo, Hao Liu.<br />
 "Lightweight Method for Interactive 3D Medical Image Segmentation with Multi-Round Result Fusion." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.08315)]
 [[code](https://github.com/goodtime-123/LIM-Net)]
 [2024.12]
 
-:boom:**Crack-EdgeSAM:** Yingchu Wang, Ji He, Shijie Yu.<br />
+- **Crack-EdgeSAM:** Yingchu Wang, Ji He, Shijie Yu.<br />
 "Crack-EdgeSAM Self-Prompting Crack Segmentation System for Edge Devices." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.07205)]
 [2024.12]
 
-:boom:**OVHR3D:** Jiuyi Xu, Meida Chen, Andrew Feng, Yangming Shi, Zifan Yu.<br />
+- **OVHR3D:** Jiuyi Xu, Meida Chen, Andrew Feng, Yangming Shi, Zifan Yu.<br />
 "Open-Vocabulary High-Resolution 3D (OVHR3D) Data Segmentation and Annotation Framework." I/ITSEC(2024).
 [[paper](https://arxiv.org/abs/2412.06268)]
 [2024.12]
 
-:boom:**CoSAM:** Jinglong Yang, Yichen Wu, Jun Cen, Wenjian Huang, Hong Wang, Jianguo Zhang.<br />
+- **CoSAM:** Jinglong Yang, Yichen Wu, Jun Cen, Wenjian Huang, Hong Wang, Jianguo Zhang.<br />
 "Continual Learning for Segment Anything Model Adaptation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.06418)]
 [[code](https://github.com/yangjl1215/CoSAM)]
 [2024.12]
 
-:boom:**RefSAM3D:** Xiang Gao, Kai Lu.<br />
+- **RefSAM3D:** Xiang Gao, Kai Lu.<br />
 "RefSAM3D: Adapting SAM with Cross-modal Reference for 3D Medical Image Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.05605)]
 [2024.12]
 
-:boom:**MCP-MedSAM:** Donghang Lyu, Ruochen Gao, Marius Staring.<br />
+- **MCP-MedSAM:** Donghang Lyu, Ruochen Gao, Marius Staring.<br />
 "MCP-MedSAM: A Powerful Lightweight Medical Segment Anything Model Trained with a Single GPU in Just One Day." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.05888)]
 [[code](https://github.com/dong845/MCP-MedSAM)]
 [2024.12]
 
-:boom:**SAMCL:** Zeqing Wang, Kangye Ji, Di Wang, Fei Cheng.<br />
+- **SAMCL:** Zeqing Wang, Kangye Ji, Di Wang, Fei Cheng.<br />
 "SAMCL: Empowering SAM to Continually Learn from Dynamic Domains." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.05012)]
 [2024.12]
 
-:boom:K Wheeler, E J Lang, C R Field, N Madden, R Schoell, R Peña, D J Senor, A Casella, K Hattar.<br />
+- K Wheeler, E J Lang, C R Field, N Madden, R Schoell, R Peña, D J Senor, A Casella, K Hattar.<br />
 "He Bubble Evolution in LiAlO2: A Comparison of Human and Artificial Intelligence Based Analysis." Microscopy and Microanalysis (2024).
 [[paper](https://academic.oup.com/mam/article/30/Supplement_1/ozae044.816/7720148?login=false)]
 [2024.12]
 
-:boom:Vanhaeverbeke, J.; Decorte, R.; Slembrouck, M.; Hoecke, S.V.; Verstockt, S.<br />
+- Vanhaeverbeke, J.; Decorte, R.; Slembrouck, M.; Hoecke, S.V.; Verstockt, S.<br />
 "Point of Interest Recognition and Tracking in Aerial Video during Live Cycling Broadcasts." Applied Sciences(2024).
 [[paper](https://www.mdpi.com/2076-3417/14/20/9246)]
 [2024.12]
 
-:boom:**Guided SAM:** Sabina B. van Rooij & Gertjan J. Burghouts.<br />
+- **Guided SAM:** Sabina B. van Rooij & Gertjan J. Burghouts.<br />
 "Guided SAM: Label-Efficient Part Segmentation." ICPR(2024).
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78110-0_19)]
 [2024.12]
 
-:boom:**SAM-R:** Rosa Pia Devanna and Giulio Reina and Fernando Auat Cheein and Annalisa Milella.<br />
+- **SAM-R:** Rosa Pia Devanna and Giulio Reina and Fernando Auat Cheein and Annalisa Milella.<br />
 "Boosting grape bunch detection in RGB-D images using zero-shot annotation with Segment Anything and GroundingDINO." Computers and Electronics in Agriculture(2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0168169924010020)]
 [2024.12]
 
-:boom:**RS-SAM:** Enkai Zhang, Jingjing Liu, Anda Cao, Zhen Sun, Haofei Zhang, Huiqiong Wang, Li Sun, Mingli Song.<br />
+- **RS-SAM:** Enkai Zhang, Jingjing Liu, Anda Cao, Zhen Sun, Haofei Zhang, Huiqiong Wang, Li Sun, Mingli Song.<br />
 "RS-SAM: Integrating Multi-Scale Information for Enhanced Remote Sensing Image Segmentation." ACCV(2024).
 [[paper](https://openaccess.thecvf.com/content/ACCV2024/html/Zhang_RS-SAM_Integrating_Multi-Scale_Information_for_Enhanced_Remote_Sensing_Image_Segmentation_ACCV_2024_paper.html)]
 [2024.12]
 
-:boom:**SAMIF:** Lan Zhang, Xinshan Zhu, Di He, Xin Liao, Biao Sun.<br />
+- **SAMIF:** Lan Zhang, Xinshan Zhu, Di He, Xin Liao, Biao Sun.<br />
 "SAMIF: Adapting Segment Anything Model for Image Inpainting Forensics." ACCV(2024).
 [[paper](https://openaccess.thecvf.com/content/ACCV2024/html/Zhang_SAMIF_Adapting_Segment_Anything_Model_for_Image_Inpainting_Forensics_ACCV_2024_paper.html)]
 [2024.12]
 
-:boom:**LoRASAM:** Jay N. Paranjape, Shameema Sikder, S. Swaroop Vedula & Vishal M. Patel.<br />
+- **LoRASAM:** Jay N. Paranjape, Shameema Sikder, S. Swaroop Vedula & Vishal M. Patel.<br />
 "Low-Rank Adaptation of Segment Anything Model for Surgical Scene Segmentation." ICPR(2024).
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-78198-8_13)]
 [[code](https://github.com/JayParanjape/LoRASAM)]
 [2024.12]
 
-:boom:**TV-SAM:** Jiang, Zekun and Cheng, Dongjie and Qin, Ziyuan and Gao, Jun and Lao, Qicheng and Ismoilovich, Abdullaev Bakhrom and Gayrat, Urazboev and Elyorbek, Yuldashov and Habibullo, Bekchanov and Tang, Defu and Wei, Linjing and Li, Kang and Zhang, Le.<br />
+- **TV-SAM:** Jiang, Zekun and Cheng, Dongjie and Qin, Ziyuan and Gao, Jun and Lao, Qicheng and Ismoilovich, Abdullaev Bakhrom and Gayrat, Urazboev and Elyorbek, Yuldashov and Habibullo, Bekchanov and Tang, Defu and Wei, Linjing and Li, Kang and Zhang, Le.<br />
 "TV-SAM: Increasing Zero-Shot Segmentation Performance on Multimodal Medical Images Using GPT-4 Generated Descriptive Prompts Without Human Annotation." Big Data Mining and Analytics (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10778143)]
 [2024.12]
 
-:boom:**3DMedSAM:** Haoneng Lin and Jing Zou and Sen Deng and Ka Po Wong and Angelica I. Aviles-Rivero and Yiting Fan and Alex Pui-Wai Lee and Xiaowei Hu and Jing Qin.<br />
+- **3DMedSAM:** Haoneng Lin and Jing Zou and Sen Deng and Ka Po Wong and Angelica I. Aviles-Rivero and Yiting Fan and Alex Pui-Wai Lee and Xiaowei Hu and Jing Qin.<br />
 "Volumetric medical image segmentation via fully 3D adaptation of Segment Anything Model." Biocybernetics and Biomedical Engineering(2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0208521624000846)]
 [2024.12]
 
-:boom:**SEMPNet:** Ao, W., Zheng, S., & Meng, Y.<br />
+- **SEMPNet:** Ao, W., Zheng, S., & Meng, Y.<br />
 "SEMPNet: enhancing few-shot remote sensing image semantic segmentation through the integration of the segment anything model." GIScience & Remote Sensing(2024).
 [[paper](https://www.tandfonline.com/doi/full/10.1080/15481603.2024.2426589#abstract)]
 [2024.12]
