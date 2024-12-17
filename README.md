@@ -226,6 +226,34 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**GaussianProperty:** Xinli Xu, Wenhang Ge, Dicong Qiu, ZhiFei Chen, Dongyu Yan, Zhuoyun Liu, Haoyu Zhao, Hanfeng Zhao, Shunsi Zhang, Junwei Liang, Ying-Cong Chen.<br />
+"GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.11258)]
+[[code](https://gaussian-property.github.io/)]
+[2024.12]
+
+:boom:**SAMIC:** Savinay Nagendra, Kashif Rashid, Chaopeng Shen, Daniel Kifer.<br />
+"SAMIC: Segment Anything with In-Context Spatial Prompt Engineering." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.11998)]
+[2024.12]
+
+:boom:**SAM-Material-GAN:** Anika Tabassum, Amirkoushyar Ziabari.<br />
+"Adapting Segment Anything Model (SAM) to Experimental Datasets via Fine-Tuning on GAN-based Simulation: A Case Study in Additive Manufacturing." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.11381)]
+[[code](https://github.com/anikat1/SAM-Material-GAN)]
+[2024.12]
+
+:boom:**QMedSAM:** Haisheng Lu, Yujie Fu, Fan Zhang, Le Zhang.<br />
+"Efficient Quantization-Aware Training on Segment Anything Model in Medical Images and Its Deployment." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.11186)]
+[[code](https://github.com/AVC2-UESTC/QMedSAM)]
+[2024.12]
+
+:boom:**SAM-IF:** Xudong Zhou, Wenhao He.<br />
+"SAM-IF: Leveraging SAM for Incremental Few-Shot Instance Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.11034)]
+[2024.12]
+
 :boom:**TSGaussian:** Liang Zhao, Zehan Bao, Yi Xie, Hong Chen, Yaohui Chen, Weifu Li.<br />
 "TSGaussian: Semantic and Depth-Guided Target-Specific Gaussian Splatting from Sparse Views." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.10051)]
