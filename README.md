@@ -226,6 +226,37 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**PolSAM:** Yuqing Wang, Zhongling Huang, Shuxin Yang, Hao Tang, Xiaolan Qiu, Junwei Han, Dingwen Zhang.<br />
+"PolSAM: Polarimetric Scattering Mechanism Informed Segment Anything Model." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.12737)]
+[[code](https://github.com/XAI4SAR/PolSAM)]
+[2024.12]
+
+:boom:**SAUGE:** Xing Liufu, Chaolei Tan, Xiaotong Lin, Yonggang Qi, Jinxuan Li, Jian-Fang Hu.<br />
+"SAUGE: Taming SAM for Uncertainty-Aligned Multi-Granularity Edge Detection." AAAI (2025).
+[[paper](https://arxiv.org/abs/2412.12892)]
+[2024.12]
+
+:boom:Tommy D. Beltran, Raul J. Villao, Luis E. Chuquimarca, Boris X. Vintimilla, Sergio A. Velastin.<br />
+"Fruit Deformity Classification through Single-Input and Multi-Input Architectures based on CNN Models using Real and Synthetic Images." CIARP(2024).
+[[paper](https://arxiv.org/abs/2412.12966)]
+[2024.12]
+
+:boom:**SAModified:** Sparsh Pekhale, Rakshith Sathish, Sathisha Basavaraju, Divya Sharma.<br />
+"SAModified: A Foundation Model-Based Zero-Shot Approach for Refining Noisy Land-Use Land-Cover Maps." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.12552)]
+[2024.12]
+
+:boom:**SEG-SAM:** Shuangping Huang, Hao Liang, Qingfeng Wang, Chulong Zhong, Zijian Zhou, Miaojing Shi.<br />
+"SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.12660)]
+[2024.12]
+
+:boom:**DCED:** Ionut Marian Motoi, Valerio Belli, Alberto Carpineto, Daniele Nardi, Thomas Alessandro Ciarfuglia.<br />
+"Synthetic Data Generation for Anomaly Detection on Table Grapes." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.12949)]
+[2024.12]
+
 :boom:**GaussianProperty:** Xinli Xu, Wenhang Ge, Dicong Qiu, ZhiFei Chen, Dongyu Yan, Zhuoyun Liu, Haoyu Zhao, Hanfeng Zhao, Shunsi Zhang, Junwei Liang, Ying-Cong Chen.<br />
 "GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.11258)]
