@@ -226,6 +226,24 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**KnowSAM:** Kaiwen Huang, Tao Zhou, Huazhu Fu, Yizhe Zhang, Yi Zhou, Chen Gong, Dong Liang.<br />
+"Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.13742)]
+[[code](https://github.com/taozh2017/KnowSAM)]
+[2024.12]
+
+:boom:**Memorizing SAM:** Xinyuan Shao, Yiqing Shen, Mathias Unberath.<br />
+"Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.13908)]
+[[code](https://github.com/swedfr/memorizingSAM)]
+[2024.12]
+
+:boom:**GAGS:** Yuning Peng, Haiping Wang, Yuan Liu, Chenglu Wen, Zhen Dong, Bisheng Yang.<br />
+"GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.13654)]
+[[code](https://pz0826.github.io/GAGS-Webpage/)]
+[2024.12]
+
 :boom:**PolSAM:** Yuqing Wang, Zhongling Huang, Shuxin Yang, Hao Tang, Xiaolan Qiu, Junwei Han, Dingwen Zhang.<br />
 "PolSAM: Polarimetric Scattering Mechanism Informed Segment Anything Model." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.12737)]
