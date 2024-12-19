@@ -351,7 +351,6 @@ If you find our work useful in your research, please consider citing:
 :boom:**LF-SAM:** Yao, Bo and Wu, Ming and Xu, Mengqiu and Zhang, Bin and Su, Sundingkai and Xu, Mingrui and Li, Weiqing.<br />
 "LF-SAM:Prompting for Land Fog Recognition with Ground Observation Station Data." IEEE Geoscience and Remote Sensing Letters(2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10794559)]
-[[code](XXXXXXXXXXXXXXXXXXXXXX)]
 [2024.12]
 
 :boom:Quang, Nguyen Hong and Lee, Hanna and Kim, Eui-Myoung and Kim, Gihong.<br />
