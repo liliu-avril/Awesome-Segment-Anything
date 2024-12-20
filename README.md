@@ -226,6 +226,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**VIEIRA:** Ziyang Li, Jiani Huang, Jason Liu, Felix Zhu, Eric Zhao, William Dodds, Neelay Velingker, Rajeev Alur, Mayur Naik.<br />
+"Relational Programming with Foundation Models." AAAI (2024).
+[[paper](https://arxiv.org/abs/2412.14515)]
+[2024.12]
+
+:boom:**MADD:** Jixuan He, Wanhua Li, Ye Liu, Junsik Kim, Donglai Wei, Hanspeter Pfister.<br />
+"Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.14462)]
+[[code](https://github.com/KaKituken/affordance-aware-any)]
+[2024.12]
+
 :boom:**KnowSAM:** Kaiwen Huang, Tao Zhou, Huazhu Fu, Yizhe Zhang, Yi Zhou, Chen Gong, Dong Liang.<br />
 "Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.13742)]
