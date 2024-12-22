@@ -226,112 +226,122 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-:boom:**VIEIRA:** Ziyang Li, Jiani Huang, Jason Liu, Felix Zhu, Eric Zhao, William Dodds, Neelay Velingker, Rajeev Alur, Mayur Naik.<br />
+:boom:Martin Dawson, Henry Dawson, Angela Gurnell, John Lewin, Mark G. Macklin.<br />
+"AI-assisted interpretation of changes in riparian woodland from archival aerial imagery using Meta's segment anything model." Earth Surface Processes and Landforms (2024).
+[[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.6053)]
+[2024.12]
+
+:boom:Zhang, D., Kang, H., Sun, Y., Liu, J. Y. W., Lee, K. -S., Song, Z., Khaw, J. V., Yeung, J., Peng, T., Lam, S. -k., & Zheng, Y.<br />
+"Rectus Femoris Muscle Segmentation on Ultrasound Images of Older Adults Using Automatic Segment Anything Model, nnU-Net and U-Net—A Prospective Study of Hong Kong Community Cohort." Bioengineering(2024).
+[[paper](https://www.mdpi.com/2306-5354/11/12/1291)]
+[2024.12]
+
+- **VIEIRA:** Ziyang Li, Jiani Huang, Jason Liu, Felix Zhu, Eric Zhao, William Dodds, Neelay Velingker, Rajeev Alur, Mayur Naik.<br />
 "Relational Programming with Foundation Models." AAAI (2024).
 [[paper](https://arxiv.org/abs/2412.14515)]
 [2024.12]
 
-:boom:**MADD:** Jixuan He, Wanhua Li, Ye Liu, Junsik Kim, Donglai Wei, Hanspeter Pfister.<br />
+- **MADD:** Jixuan He, Wanhua Li, Ye Liu, Junsik Kim, Donglai Wei, Hanspeter Pfister.<br />
 "Affordance-Aware Object Insertion via Mask-Aware Dual Diffusion." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.14462)]
 [[code](https://github.com/KaKituken/affordance-aware-any)]
 [2024.12]
 
-:boom:**KnowSAM:** Kaiwen Huang, Tao Zhou, Huazhu Fu, Yizhe Zhang, Yi Zhou, Chen Gong, Dong Liang.<br />
+- **KnowSAM:** Kaiwen Huang, Tao Zhou, Huazhu Fu, Yizhe Zhang, Yi Zhou, Chen Gong, Dong Liang.<br />
 "Learnable Prompting SAM-induced Knowledge Distillation for Semi-supervised Medical Image Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.13742)]
 [[code](https://github.com/taozh2017/KnowSAM)]
 [2024.12]
 
-:boom:**Memorizing SAM:** Xinyuan Shao, Yiqing Shen, Mathias Unberath.<br />
+- **Memorizing SAM:** Xinyuan Shao, Yiqing Shen, Mathias Unberath.<br />
 "Memorizing SAM: 3D Medical Segment Anything Model with Memorizing Transformer." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.13908)]
 [[code](https://github.com/swedfr/memorizingSAM)]
 [2024.12]
 
-:boom:**GAGS:** Yuning Peng, Haiping Wang, Yuan Liu, Chenglu Wen, Zhen Dong, Bisheng Yang.<br />
+- **GAGS:** Yuning Peng, Haiping Wang, Yuan Liu, Chenglu Wen, Zhen Dong, Bisheng Yang.<br />
 "GAGS: Granularity-Aware Feature Distillation for Language Gaussian Splatting." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.13654)]
 [[code](https://pz0826.github.io/GAGS-Webpage/)]
 [2024.12]
 
-:boom:**PolSAM:** Yuqing Wang, Zhongling Huang, Shuxin Yang, Hao Tang, Xiaolan Qiu, Junwei Han, Dingwen Zhang.<br />
+- **PolSAM:** Yuqing Wang, Zhongling Huang, Shuxin Yang, Hao Tang, Xiaolan Qiu, Junwei Han, Dingwen Zhang.<br />
 "PolSAM: Polarimetric Scattering Mechanism Informed Segment Anything Model." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.12737)]
 [[code](https://github.com/XAI4SAR/PolSAM)]
 [2024.12]
 
-:boom:**SAUGE:** Xing Liufu, Chaolei Tan, Xiaotong Lin, Yonggang Qi, Jinxuan Li, Jian-Fang Hu.<br />
+- **SAUGE:** Xing Liufu, Chaolei Tan, Xiaotong Lin, Yonggang Qi, Jinxuan Li, Jian-Fang Hu.<br />
 "SAUGE: Taming SAM for Uncertainty-Aligned Multi-Granularity Edge Detection." AAAI (2025).
 [[paper](https://arxiv.org/abs/2412.12892)]
 [2024.12]
 
-:boom:Tommy D. Beltran, Raul J. Villao, Luis E. Chuquimarca, Boris X. Vintimilla, Sergio A. Velastin.<br />
+- Tommy D. Beltran, Raul J. Villao, Luis E. Chuquimarca, Boris X. Vintimilla, Sergio A. Velastin.<br />
 "Fruit Deformity Classification through Single-Input and Multi-Input Architectures based on CNN Models using Real and Synthetic Images." CIARP(2024).
 [[paper](https://arxiv.org/abs/2412.12966)]
 [2024.12]
 
-:boom:**SAModified:** Sparsh Pekhale, Rakshith Sathish, Sathisha Basavaraju, Divya Sharma.<br />
+- **SAModified:** Sparsh Pekhale, Rakshith Sathish, Sathisha Basavaraju, Divya Sharma.<br />
 "SAModified: A Foundation Model-Based Zero-Shot Approach for Refining Noisy Land-Use Land-Cover Maps." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.12552)]
 [2024.12]
 
-:boom:**SEG-SAM:** Shuangping Huang, Hao Liang, Qingfeng Wang, Chulong Zhong, Zijian Zhou, Miaojing Shi.<br />
+- **SEG-SAM:** Shuangping Huang, Hao Liang, Qingfeng Wang, Chulong Zhong, Zijian Zhou, Miaojing Shi.<br />
 "SEG-SAM: Semantic-Guided SAM for Unified Medical Image Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.12660)]
 [2024.12]
 
-:boom:**DCED:** Ionut Marian Motoi, Valerio Belli, Alberto Carpineto, Daniele Nardi, Thomas Alessandro Ciarfuglia.<br />
+- **DCED:** Ionut Marian Motoi, Valerio Belli, Alberto Carpineto, Daniele Nardi, Thomas Alessandro Ciarfuglia.<br />
 "Synthetic Data Generation for Anomaly Detection on Table Grapes." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.12949)]
 [2024.12]
 
-:boom:**GaussianProperty:** Xinli Xu, Wenhang Ge, Dicong Qiu, ZhiFei Chen, Dongyu Yan, Zhuoyun Liu, Haoyu Zhao, Hanfeng Zhao, Shunsi Zhang, Junwei Liang, Ying-Cong Chen.<br />
+- **GaussianProperty:** Xinli Xu, Wenhang Ge, Dicong Qiu, ZhiFei Chen, Dongyu Yan, Zhuoyun Liu, Haoyu Zhao, Hanfeng Zhao, Shunsi Zhang, Junwei Liang, Ying-Cong Chen.<br />
 "GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.11258)]
 [[code](https://gaussian-property.github.io/)]
 [2024.12]
 
-:boom:**SAMIC:** Savinay Nagendra, Kashif Rashid, Chaopeng Shen, Daniel Kifer.<br />
+- **SAMIC:** Savinay Nagendra, Kashif Rashid, Chaopeng Shen, Daniel Kifer.<br />
 "SAMIC: Segment Anything with In-Context Spatial Prompt Engineering." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.11998)]
 [2024.12]
 
-:boom:**SAM-Material-GAN:** Anika Tabassum, Amirkoushyar Ziabari.<br />
+- **SAM-Material-GAN:** Anika Tabassum, Amirkoushyar Ziabari.<br />
 "Adapting Segment Anything Model (SAM) to Experimental Datasets via Fine-Tuning on GAN-based Simulation: A Case Study in Additive Manufacturing." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.11381)]
 [[code](https://github.com/anikat1/SAM-Material-GAN)]
 [2024.12]
 
-:boom:**QMedSAM:** Haisheng Lu, Yujie Fu, Fan Zhang, Le Zhang.<br />
+- **QMedSAM:** Haisheng Lu, Yujie Fu, Fan Zhang, Le Zhang.<br />
 "Efficient Quantization-Aware Training on Segment Anything Model in Medical Images and Its Deployment." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.11186)]
 [[code](https://github.com/AVC2-UESTC/QMedSAM)]
 [2024.12]
 
-:boom:**SAM-IF:** Xudong Zhou, Wenhao He.<br />
+- **SAM-IF:** Xudong Zhou, Wenhao He.<br />
 "SAM-IF: Leveraging SAM for Incremental Few-Shot Instance Segmentation." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.11034)]
 [2024.12]
 
-:boom:**TSGaussian:** Liang Zhao, Zehan Bao, Yi Xie, Hong Chen, Yaohui Chen, Weifu Li.<br />
+- **TSGaussian:** Liang Zhao, Zehan Bao, Yi Xie, Hong Chen, Yaohui Chen, Weifu Li.<br />
 "TSGaussian: Semantic and Depth-Guided Target-Specific Gaussian Splatting from Sparse Views." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.10051)]
 [[code](https://github.com/leon2000-ai/TSGaussian)]
 [2024.12]
 
-:boom:**SEMPNet:** Wei Ao, Shunyi Zheng & Yan Meng.<br />
+- **SEMPNet:** Wei Ao, Shunyi Zheng & Yan Meng.<br />
 "SEMPNet: enhancing few-shot remote sensing image semantic segmentation through the integration of the segment anything model." GIScience & Remote Sensing(2024).
 [[paper](https://www.tandfonline.com/doi/full/10.1080/15481603.2024.2426589)]
 [[code](https://github.com/TinyAway/SEMPNet)]
 [2024.12]
 
-:boom:**S2AgScUNet:** Li, Zifeng and Tang, Wenzhong and Gao, Shijun and Wang, Yanyang and Wang, Shuai.<br />
+- **S2AgScUNet:** Li, Zifeng and Tang, Wenzhong and Gao, Shijun and Wang, Yanyang and Wang, Shuai.<br />
 "Adapting SAM2 Model from Natural Images for Tooth Segmentation in Dental Panoramic X-Ray Images." Entropy(2024).
 [[paper](https://www.mdpi.com/1099-4300/26/12/1059)]
 [2024.12]
 
-:boom:CARISI, LORENZO.<br />
+- CARISI, LORENZO.<br />
 "Augmentation and Ensembles: Improving Medical Image Segmentation with SAM and Deep Networks." ArXiv (2024).
 [[paper](https://thesis.unipd.it/handle/20.500.12608/78065)]
 [2024.12]
@@ -342,29 +352,29 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/GalacticHogrider/Med-FastSAM)]
 [2024.12]
 
-:boom:**BiASAM:** Wei Zhou; Guilin Guan; Wei Cui; Yugen Yi.<br />
+- **BiASAM:** Wei Zhou; Guilin Guan; Wei Cui; Yugen Yi.<br />
 "BiASAM: Bidirectional-Attention Guided Segment Anything Model for Very Few-Shot Medical Image Segmentation." SPL (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10787063)]
 [[code](https://github.com/ggllllll/BiASAM-.git)]
 [2024.12]
 
-:boom:Zhihao Zhang; Zhaohui Dang.<br />
+- Zhihao Zhang; Zhaohui Dang.<br />
 "Automatic Segmentation Annotation of Space Target Using Segment Anything Model and Object Detection Prompts." TAES (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10782995)]
 [[code](https://github.com/zhang-xaerospace/SpaceTarget-Segmentation-Dataset)]
 [2024.12]
 
-:boom:**CBCT-SAM:** Ka-Kei Chau and Meilu Zhu and Abeer AlHadidi and Cheng Wang and Kuofeng Hung and Pierre Wohlgemuth and Walter Yu Hang Lam and Weicai Liu and Yixuan Yuan and Hui Chen.<br />
+- **CBCT-SAM:** Ka-Kei Chau and Meilu Zhu and Abeer AlHadidi and Cheng Wang and Kuofeng Hung and Pierre Wohlgemuth and Walter Yu Hang Lam and Weicai Liu and Yixuan Yuan and Hui Chen.<br />
 "A novel AI model for detecting periapical lesion on CBCT: CBCT-SAM." ArXiv (2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S030057122400695X)]
 [2024.12]
 
-:boom:**LF-SAM:** Yao, Bo and Wu, Ming and Xu, Mengqiu and Zhang, Bin and Su, Sundingkai and Xu, Mingrui and Li, Weiqing.<br />
+- **LF-SAM:** Yao, Bo and Wu, Ming and Xu, Mengqiu and Zhang, Bin and Su, Sundingkai and Xu, Mingrui and Li, Weiqing.<br />
 "LF-SAM:Prompting for Land Fog Recognition with Ground Observation Station Data." IEEE Geoscience and Remote Sensing Letters(2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10794559)]
 [2024.12]
 
-:boom:Quang, Nguyen Hong and Lee, Hanna and Kim, Eui-Myoung and Kim, Gihong.<br />
+- Quang, Nguyen Hong and Lee, Hanna and Kim, Eui-Myoung and Kim, Gihong.<br />
 "Fine-tunned Segment Anything Model (SAM) for Reservoir Extractions Compared with Popular CNNs: An Experiment for Space-borne Synthetic-aperture Radar Images." IEEE Access(2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10795130)]
 [2024.12]
