@@ -226,6 +226,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Efficient MedSAMs:** Jun Ma, Feifei Li, Sumin Kim, et al.<br />
+"Efficient MedSAMs: Segment Anything in Medical Images on Laptop." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.16085)]
+[[project](https://www.codabench.org/competitions/1847/)]
+[2024.12]
+
 :boom:Martin Dawson, Henry Dawson, Angela Gurnell, John Lewin, Mark G. Macklin.<br />
 "AI-assisted interpretation of changes in riparian woodland from archival aerial imagery using Meta's segment anything model." Earth Surface Processes and Landforms (2024).
 [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/esp.6053)]
