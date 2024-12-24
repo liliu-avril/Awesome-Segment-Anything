@@ -226,6 +226,28 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**GAPS:** Qiaojun Yu, Ce Hao, Xibin Yuan, Li Zhang, Liu Liu, Yukang Huo, Rohit Agarwal, Cewu Lu.<br />
+"Generalizable Articulated Object Perception with Superpoints." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.16656)]
+[2024.12]
+
+:boom:**LangSurf:** Hao Li, Roy Qin, Zhengyu Zou, Diqi He, Bohan Li, Bingquan Dai, Dingewn Zhang, Junwei Han.<br />
+"LangSurf: Language-Embedded Surface Gaussians for 3D Scene Understanding." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.17635)]
+[[code](https://langsurf.github.io/)]
+[2024.12]
+
+:boom:**READ:** Rui Qian, Xin Yin, Dejing Dou.<br />
+"Reasoning to Attend: Try to Understand How <SEG> Token Works." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.17741)]
+[[code](https://github.com/rui-qian/READ)]
+[2024.12]
+
+:boom:Shekhar Madhav Khairnar, Huu Phong Nguyen, Alexis Desir, Carla Holcomb, Daniel J. Scott, Ganesh Sankaranarayanan.<br />
+"Machine Learning-Based Automated Assessment of Intracorporeal Suturing in Laparoscopic Fundoplication." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.16195)]
+[2024.12]
+
 :boom:**Efficient MedSAMs:** Jun Ma, Feifei Li, Sumin Kim, et al.<br />
 "Efficient MedSAMs: Segment Anything in Medical Images on Laptop." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.16085)]
