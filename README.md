@@ -226,6 +226,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**VSRE:** Peijin Xie, Lin Sun, Bingquan Liu, Dexin Wang, Xiangzheng Zhang, Chengjie Sun, Jiajia Zhang.<br />
+"Expand VSR Benchmark for VLLM to Expertize in Spatial Rules." AAAI (2024).
+[[paper](https://arxiv.org/abs/2412.18224)]
+[[code](https://github.com/peijin360/vsre)]
+[2024.12]
+
+:boom:Yuli Wang, Victoria Shi, Wen-Chi Hsu, Yuwei Dai, Sophie Yao, Zhusi Zhong, Zishu Zhang, Jing Wu, Aaron Maxwell, Scott Collins, Zhicheng Jiao, Harrison X. Bai.<br />
+"Optimizing prompt strategies for the Segment Anything Model are explored, focusing on prompt location, number, and reinforcement learning-based agent for prompt placement across four lesion datasets." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.17943)]
+[2024.12]
+
 :boom:**GAPS:** Qiaojun Yu, Ce Hao, Xibin Yuan, Li Zhang, Liu Liu, Yukang Huo, Rohit Agarwal, Cewu Lu.<br />
 "Generalizable Articulated Object Perception with Superpoints." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.16656)]
