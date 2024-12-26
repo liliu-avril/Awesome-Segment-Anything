@@ -226,6 +226,17 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Nazzal, W., Thurnhofer-Hemsi, K., & López-Rubio, E.<br />
+"Improving Medical Image Segmentation Using Test-Time Augmentation with MedSAM." Mathematics(2024).
+[[paper](https://www.mdpi.com/2227-7390/12/24/4003)]
+[2024.12]
+
+:boom:**EcoMapper:** Henry Cording, Yves Plancherel, Pablo Brito-Parada.<br />
+"Segmentation of arbitrary features in very high resolution remote sensing imagery." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.16046)]
+[[code](https://github.com/hcording/ecomapper)]
+[2024.12]
+
 :boom:**VSRE:** Peijin Xie, Lin Sun, Bingquan Liu, Dexin Wang, Xiangzheng Zhang, Chengjie Sun, Jiajia Zhang.<br />
 "Expand VSR Benchmark for VLLM to Expertize in Spatial Rules." AAAI (2024).
 [[paper](https://arxiv.org/abs/2412.18224)]
