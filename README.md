@@ -2057,7 +2057,7 @@ If you find our work useful in your research, please consider citing:
   [2024.08]
 
 - **AL-Ref-SAM2:** Shaofei Huang, Rui Ling, Hongyu Li, Tianrui Hui, Zongheng Tang, Xiaoming Wei, Jizhong Han, Si Liu.<br />
-  "Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation." ArXiv (2024).
+  "Unleashing the Temporal-Spatial Reasoning Capacity of GPT for Training-Free Audio and Language Referenced Video Object Segmentation." AAAI (2025).
   [[paper](https://arxiv.org/abs/2408.15876)] 
   [[code](https://github.com/appletea233/AL-Ref-SAM2)]
   [2024.08]
