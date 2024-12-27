@@ -3106,7 +3106,8 @@ If you find our work useful in your research, please consider citing:
 
 - **EVF-SAM:** Yuxuan Zhang, Tianheng Cheng, Rui Hu, ei Liu, Heng Liu, Longjin Ran, Xiaoxin Chen, Wenyu Liu, Xinggang Wang.<br />
   "EVF-SAM: Early Vision-Language Fusion for Text-Prompted Segment Anything Model." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2406.20076)] 
+  [[paper](https://arxiv.org/abs/2406.20076)]
+  [[code](https://github.com/hustvl/EVF-SAM)]
   [2024.06]
 
 - Tianli Liao, Ce Wang, Lei Li, Guangen Liu, Nan Li.<br />
