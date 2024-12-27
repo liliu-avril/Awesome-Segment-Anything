@@ -396,7 +396,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://thesis.unipd.it/handle/20.500.12608/78065)]
 [2024.12]
 
-:boom:**Med-FastSAM:** Yuxiang Luo, Qing Xu, Jinglei Feng, Guangwu Qian, Wenting Duan.<br />
+- **Med-FastSAM:** Yuxiang Luo, Qing Xu, Jinglei Feng, Guangwu Qian, Wenting Duan.<br />
 "Med-FastSAM: Improving Transfer Efficiency of SAM to Domain-Generalised Medical Image Segmentation." NeurIPS Workshops (2024).
 [[paper](https://openreview.net/forum?id=ZL1Vb8LuE1)]
 [[code](https://github.com/GalacticHogrider/Med-FastSAM)]
