@@ -7531,6 +7531,12 @@ Spatial Information Research (2024).
   [[paper](https://arxiv.org/abs/2308.00675)] 
   [2023.08]
 
+- **LISA:** Xin Lai, Zhuotao Tian, Yukang Chen, Yanwei Li, Yuhui Yuan, Shu Liu, Jiaya Jia.<br />
+"LISA: Reasoning Segmentation via Large Language Model." CVPR (2024).
+[[paper](https://arxiv.org/abs/2308.00692)]
+[[code](https://github.com/dvlab-research/LISA)]
+[2023.08]
+
 - **DEFT:** Aditya Kannan.<br />
   "Learning from Human Videos for Robotic Manipulation." ArXiv (2023).
   [[paper](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr/ftp/2023/CMU-CS-23-124.pdf)] 
