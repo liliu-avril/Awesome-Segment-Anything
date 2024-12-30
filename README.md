@@ -271,7 +271,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/rui-qian/READ)]
 [2024.12]
 
-:boom:Shekhar Madhav Khairnar, Huu Phong Nguyen, Alexis Desir, Carla Holcomb, Daniel J. Scott, Ganesh Sankaranarayanan.<br />
+- Shekhar Madhav Khairnar, Huu Phong Nguyen, Alexis Desir, Carla Holcomb, Daniel J. Scott, Ganesh Sankaranarayanan.<br />
 "Machine Learning-Based Automated Assessment of Intracorporeal Suturing in Laparoscopic Fundoplication." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.16195)]
 [2024.12]
