@@ -226,6 +226,11 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Char-SAM:** Enze Xie, Jiaho Lyu, Daiqing Wu, Huawen Shen, Yu Zhou.<br />
+"Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2412.19917)]
+[2024.12]
+
 :boom:Leiping Jie.<br />
 "When SAM2 Meets Video Shadow and Mirror Detection." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.19293)]
