@@ -226,6 +226,52 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Rafaeli, Osher and Svoray, Tal and Blushtein-Livnon, Roni and Nahlieli, Ariel.<br />
+"Solar Panels Segmentation in Remote Sensing Data Using Segment Anything Models 2 and 2.1." IEEE Geoscience and Remote Sensing Letters (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10813428)]
+[2024.12]
+
+:boom:**Trans-SAM::** Yanlin Wu , Zhihong Wang, Xiongfeng Yang, Hong Kang, Along He, Tao Li.<br />
+"Trans-SAM: Transfer Segment Anything Model to medical image segmentation with Parameter-Efficient Fine-Tuning." KBS (2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0950705124015430)]
+[[code](https://github.com/wuyanlin-wyl/Trans-SAM)]
+[2024.12]
+
+:boom:**MAP:** Wan, Y.; Wang, W.; Zhang, M.; Peng, W.; Tang.<br />
+"Advancing a Vision Foundation Model for Ming-Style Furniture Image Segmentation: A New Dataset and Method." Sensors (2024).
+[[paper](https://www.mdpi.com/1424-8220/25/1/96)]
+[2024.12]
+
+:boom:**RapidBenthos:** Tiny Remmers, Nader Boutros, Mathew Wyatt, Sophie Gordon, Maren Toor, Chris Roelfsema, Katharina Fabricius, Alana Grech, Marine Lechene, Renata Ferrari.<br />
+"RapidBenthos: Automated segmentation and multi-view classification of coral reef communities from photogrammetric reconstruction." Methods in Ecology and Evolution(2024).
+[[paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14477)]
+[2024.12]
+
+:boom:Lu Li, Lingxiao Jiang, Kun Yang, Bin Luo, Xinghuan Wang.<br />
+"A novel artificial intelligence segmentation model for early diagnosis of bladder tumors." Abdominal Radiology (2024).
+[[paper](https://link.springer.com/article/10.1007/s00261-024-04715-9)]
+[2024.12]
+
+:boom:**SAM-dPCR:** Yuanyuan Wei, Shanhang Luo, Changran Xu, Yingqi Fu, Yi Zhang, Fuyang Qu, Guoxun Zhang, Yi-Ping Ho, Ho-Pui Ho, Wu Yuan.<br />
+"SAM-dPCR: Accurate and Generalist Nuclei Acid Quantification Leveraging the Zero-Shot Segment Anything Model." Advanced Science (2024).
+[[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202406797)]
+[2024.12]
+
+:boom:**SAMNet:** Xingzheng Wang, Jianbin Wu, Shaoyong Wu, Jiahui Li.<br />
+"SAMNet: Adapting segment anything model for accurate light field salient object detection." Image and Vision Computing (2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0262885624005080)]
+[2024.12]
+
+:boom:**MMFD:** Yiming Liu and Ling Zhang and Mingxue Gu and Yaoxing Xiao and Ting Yu and Xiang Tao and Qing Zhang and Yan Wang and Dinggang Shen and Qingli Li.<br />
+"Inspect quantitative signals in placental histopathology: Computer-assisted multiple functional tissues identification through multi-model fusion and distillation framework." CMIG (2024).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0895611124001599)]
+[2024.12]
+
+:boom: LI Feng, XUE Mei, ZHAN Yong, YANG Yuan.<br />
+"Semantic segmentation of 3D real scene based on segment anything model." Bulletin of Surveying and Mapping(2024).
+[[paper](http://tb.chinasmp.com/EN/Y2024/V0/I12/101)]
+[2024.12]
+
 :boom:**Char-SAM:** Enze Xie, Jiaho Lyu, Daiqing Wu, Huawen Shen, Yu Zhou.<br />
 "Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.19917)]
