@@ -226,6 +226,39 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**FCP:** Suho Park, SuBeen Lee, Hyun Seok Seong, Jaejoon Yoo, Jae-Pil Heo.<br />
+"Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot Segmentation." AAAI (2025).
+[[paper](https://arxiv.org/abs/2501.00752)]
+[[code](https://github.com/SuhoPark0706/FCP)]
+[2025.01]
+
+:boom:**ScarNet:** Neda Tavakoli, Amir Ali Rahsepar, Brandon C. Benefield, Daming Shen, Santiago López-Tapia, Florian Schiffers, Jeffrey J. Goldberger, Christine M. Albert, Edwin Wu, Aggelos K. Katsaggelos, Daniel C. Lee, Daniel Kim.<br />
+"ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2501.01372)]
+[2025.01]
+
+:boom:**EUGIS:** Jiang Shang, Yuanmeng Wu, Xiaoxiang Han, Xi Chen and Qi Zhang.<br />
+"Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2501.01072)]
+[[code](https://github.com/JiangVentinal/EUGIS)]
+[2025.01]
+
+:boom:**GPRN:** Shi-Feng Peng, Guolei Sun, Yong Li, Hongsong Wang, Guo-Sen Xie.<br />
+"SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation." AAAI (2025).
+[[paper](https://arxiv.org/abs/2501.00303)]
+[[code](https://github.com/CVL-hub/GPRN)]
+[2024.12]
+
+:boom:Asha V, Bhavanishankar K.<br />
+"Advanced Lung Nodule Segmentation and Classification for Early Detection of Lung Cancer using SAM and Transfer Learning." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2501.00586)]
+[2024.12]
+
+:boom:Cheng Yuan, Jian Jiang, Kunyi Yang, Lv Wu, Rui Wang, Zi Meng, Haonan Ping, Ziyu Xu, Yifan Zhou, Wanli Song, Hesheng Wang, Qi Dou, Yutong Ban.<br />
+"Is Segment Anything Model 2 All You Need for Surgery Video Segmentation? A Systematic Evaluation" ArXiv (2024).
+[[paper](https://arxiv.org/abs/2501.00525)]
+[2024.12]
+
 :boom:Rafaeli, Osher and Svoray, Tal and Blushtein-Livnon, Roni and Nahlieli, Ariel.<br />
 "Solar Panels Segmentation in Remote Sensing Data Using Segment Anything Models 2 and 2.1." IEEE Geoscience and Remote Sensing Letters (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10813428)]
