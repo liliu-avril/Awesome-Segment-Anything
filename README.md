@@ -226,6 +226,22 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**MA-SAM:** D. Fan et al.<br />
+"MA-SAM: A Multi-atlas Guided SAM Using Pseudo Mask Prompts without Manual Annotation for Spine Image Segmentation." TMI (2025).
+[[paper](https://ieeexplore.ieee.org/document/10819446)]
+[2025.01]
+
+:boom:**ReferSAM:** S. -A. Liu, H. Xie, J. Ge and Y. Zhang.<br />
+"ReferSAM: Unleashing Segment Anything Model for Referring Image Segmentation." TCSVT (2025).
+[[paper](https://ieeexplore.ieee.org/document/10819432)]
+[[code](https://github.com/lsa1997/ReferSAM)]
+[2025.01]
+
+:boom:**YS3AM:** Mu S, Liu J, Zhang P, et al.<br />
+"YS3AM: Adaptive 3D Reconstruction and Harvesting Target Detection for Clustered Green Asparagus." ArXiv (2025).
+[[paper](https://www.preprints.org/frontend/manuscript/487777b31e6377d16c8fef09489e9418/download_pub)]
+[2025.01]
+
 :boom:**FCP:** Suho Park, SuBeen Lee, Hyun Seok Seong, Jaejoon Yoo, Jae-Pil Heo.<br />
 "Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot Segmentation." AAAI (2025).
 [[paper](https://arxiv.org/abs/2501.00752)]
@@ -233,12 +249,12 @@ If you find our work useful in your research, please consider citing:
 [2025.01]
 
 :boom:**ScarNet:** Neda Tavakoli, Amir Ali Rahsepar, Brandon C. Benefield, Daming Shen, Santiago López-Tapia, Florian Schiffers, Jeffrey J. Goldberger, Christine M. Albert, Edwin Wu, Aggelos K. Katsaggelos, Daniel C. Lee, Daniel Kim.<br />
-"ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI." ArXiv (2024).
+"ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.01372)]
 [2025.01]
 
 :boom:**EUGIS:** Jiang Shang, Yuanmeng Wu, Xiaoxiang Han, Xi Chen and Qi Zhang.<br />
-"Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images." ArXiv (2024).
+"Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.01072)]
 [[code](https://github.com/JiangVentinal/EUGIS)]
 [2025.01]
