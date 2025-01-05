@@ -40,17 +40,17 @@ ____
 
 If you find our work useful in your research, please consider citing:
 ```
-@article{chunhui2023samsurvey,
+@article{zhang2023comprehensive,
   title={A Comprehensive Survey on Segment Anything Model for Vision and Beyond},
   author={Zhang, Chunhui and Liu, Li and Cui, Yawen and Huang, Guanjie and Lin, Weilin and Yang, Yiqian and Hu, Yuehong},
-  journal={arXiv:2305.08196},
+  journal={arXiv preprint arXiv:2305.08196},
   year={2023}
 }
 
-@article{chunhui2024samforvideos,
+@article{zhang2024segment,
   title={Segment Anything for Videos: A Systematic Survey},
-  author={Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan},
-  journal={arXiv},
+  author={Zhang, Chunhui and Cui, Yawen and Lin, Weilin and Huang, Guanjie and Rong, Yan and Liu, Li and Shan, Shiguang},
+  journal={arXiv preprint arXiv:2408.08315},
   year={2024}
 }
 ```
