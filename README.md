@@ -226,6 +226,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**EdgeSAM:** Yang, Wenya and Chen, Xiao-Diao and Wu, Wen and Qin, Hongshuai and Yan, Kangming and Mao, Xiaoyang and Song, Haichuan.<br />
+"Boosting Deep Unsupervised Edge Detection via Segment Anything Model." IEEE TII (2024).
+[[paper](https://ieeexplore.ieee.org/document/10490131)]
+[2025.01]
+
+:boom:**PowerSAM:** Nannan Yan, Yuhao Li, Yingke Mao, et al.<br />
+"PowerSAM: Edge-Efficient Segment Anything for Power Systems Through Visual Model Distilla- tion PowerSAM: Edge-Efficient Segment Anything for Power Systems Through Visual Model Distillation." ArXiv (2025).
+[[paper](https://www.researchgate.net/publication/387673524_PowerSAM_Edge-Efficient_Segment_Anything_for_Power_Systems_Through_Visual_Model_Distilla-_tion_PowerSAM_Edge-Efficient_Segment_Anything_for_Power_Systems_Through_Visual_Model_Distillation)]
+[2025.01]
+
 :boom:**PG-SAG:** Tengfei Wang, Xin Wang, Yongmao Hou, Yiwei Xu, Wendi Zhang, Zongqian Zhan.<br />
 "PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.01677)]
