@@ -226,6 +226,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**PG-SAG:** Tengfei Wang, Xin Wang, Yongmao Hou, Yiwei Xu, Wendi Zhang, Zongqian Zhan.<br />
+"PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.01677)]
+[[code](https://github.com/TFWang-9527/PG-SAG)]
+[2025.01]
+
 :boom:**MA-SAM:** D. Fan et al.<br />
 "MA-SAM: A Multi-atlas Guided SAM Using Pseudo Mask Prompts without Manual Annotation for Spine Image Segmentation." TMI (2025).
 [[paper](https://ieeexplore.ieee.org/document/10819446)]
@@ -259,74 +265,74 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/JiangVentinal/EUGIS)]
 [2025.01]
 
-:boom:**GPRN:** Shi-Feng Peng, Guolei Sun, Yong Li, Hongsong Wang, Guo-Sen Xie.<br />
+- **GPRN:** Shi-Feng Peng, Guolei Sun, Yong Li, Hongsong Wang, Guo-Sen Xie.<br />
 "SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation." AAAI (2025).
 [[paper](https://arxiv.org/abs/2501.00303)]
 [[code](https://github.com/CVL-hub/GPRN)]
 [2024.12]
 
-:boom:Asha V, Bhavanishankar K.<br />
+- Asha V, Bhavanishankar K.<br />
 "Advanced Lung Nodule Segmentation and Classification for Early Detection of Lung Cancer using SAM and Transfer Learning." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2501.00586)]
 [2024.12]
 
-:boom:Cheng Yuan, Jian Jiang, Kunyi Yang, Lv Wu, Rui Wang, Zi Meng, Haonan Ping, Ziyu Xu, Yifan Zhou, Wanli Song, Hesheng Wang, Qi Dou, Yutong Ban.<br />
+- Cheng Yuan, Jian Jiang, Kunyi Yang, Lv Wu, Rui Wang, Zi Meng, Haonan Ping, Ziyu Xu, Yifan Zhou, Wanli Song, Hesheng Wang, Qi Dou, Yutong Ban.<br />
 "Is Segment Anything Model 2 All You Need for Surgery Video Segmentation? A Systematic Evaluation" ArXiv (2024).
 [[paper](https://arxiv.org/abs/2501.00525)]
 [2024.12]
 
-:boom:Rafaeli, Osher and Svoray, Tal and Blushtein-Livnon, Roni and Nahlieli, Ariel.<br />
+- Rafaeli, Osher and Svoray, Tal and Blushtein-Livnon, Roni and Nahlieli, Ariel.<br />
 "Solar Panels Segmentation in Remote Sensing Data Using Segment Anything Models 2 and 2.1." IEEE Geoscience and Remote Sensing Letters (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10813428)]
 [2024.12]
 
-:boom:**Trans-SAM::** Yanlin Wu , Zhihong Wang, Xiongfeng Yang, Hong Kang, Along He, Tao Li.<br />
+- **Trans-SAM::** Yanlin Wu , Zhihong Wang, Xiongfeng Yang, Hong Kang, Along He, Tao Li.<br />
 "Trans-SAM: Transfer Segment Anything Model to medical image segmentation with Parameter-Efficient Fine-Tuning." KBS (2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0950705124015430)]
 [[code](https://github.com/wuyanlin-wyl/Trans-SAM)]
 [2024.12]
 
-:boom:**MAP:** Wan, Y.; Wang, W.; Zhang, M.; Peng, W.; Tang.<br />
+- **MAP:** Wan, Y.; Wang, W.; Zhang, M.; Peng, W.; Tang.<br />
 "Advancing a Vision Foundation Model for Ming-Style Furniture Image Segmentation: A New Dataset and Method." Sensors (2024).
 [[paper](https://www.mdpi.com/1424-8220/25/1/96)]
 [2024.12]
 
-:boom:**RapidBenthos:** Tiny Remmers, Nader Boutros, Mathew Wyatt, Sophie Gordon, Maren Toor, Chris Roelfsema, Katharina Fabricius, Alana Grech, Marine Lechene, Renata Ferrari.<br />
+- **RapidBenthos:** Tiny Remmers, Nader Boutros, Mathew Wyatt, Sophie Gordon, Maren Toor, Chris Roelfsema, Katharina Fabricius, Alana Grech, Marine Lechene, Renata Ferrari.<br />
 "RapidBenthos: Automated segmentation and multi-view classification of coral reef communities from photogrammetric reconstruction." Methods in Ecology and Evolution(2024).
 [[paper](https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.14477)]
 [2024.12]
 
-:boom:Lu Li, Lingxiao Jiang, Kun Yang, Bin Luo, Xinghuan Wang.<br />
+- Lu Li, Lingxiao Jiang, Kun Yang, Bin Luo, Xinghuan Wang.<br />
 "A novel artificial intelligence segmentation model for early diagnosis of bladder tumors." Abdominal Radiology (2024).
 [[paper](https://link.springer.com/article/10.1007/s00261-024-04715-9)]
 [2024.12]
 
-:boom:**SAM-dPCR:** Yuanyuan Wei, Shanhang Luo, Changran Xu, Yingqi Fu, Yi Zhang, Fuyang Qu, Guoxun Zhang, Yi-Ping Ho, Ho-Pui Ho, Wu Yuan.<br />
+- **SAM-dPCR:** Yuanyuan Wei, Shanhang Luo, Changran Xu, Yingqi Fu, Yi Zhang, Fuyang Qu, Guoxun Zhang, Yi-Ping Ho, Ho-Pui Ho, Wu Yuan.<br />
 "SAM-dPCR: Accurate and Generalist Nuclei Acid Quantification Leveraging the Zero-Shot Segment Anything Model." Advanced Science (2024).
 [[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202406797)]
 [2024.12]
 
-:boom:**SAMNet:** Xingzheng Wang, Jianbin Wu, Shaoyong Wu, Jiahui Li.<br />
+- **SAMNet:** Xingzheng Wang, Jianbin Wu, Shaoyong Wu, Jiahui Li.<br />
 "SAMNet: Adapting segment anything model for accurate light field salient object detection." Image and Vision Computing (2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0262885624005080)]
 [2024.12]
 
-:boom:**MMFD:** Yiming Liu and Ling Zhang and Mingxue Gu and Yaoxing Xiao and Ting Yu and Xiang Tao and Qing Zhang and Yan Wang and Dinggang Shen and Qingli Li.<br />
+- **MMFD:** Yiming Liu and Ling Zhang and Mingxue Gu and Yaoxing Xiao and Ting Yu and Xiang Tao and Qing Zhang and Yan Wang and Dinggang Shen and Qingli Li.<br />
 "Inspect quantitative signals in placental histopathology: Computer-assisted multiple functional tissues identification through multi-model fusion and distillation framework." CMIG (2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0895611124001599)]
 [2024.12]
 
-:boom: LI Feng, XUE Mei, ZHAN Yong, YANG Yuan.<br />
+- LI Feng, XUE Mei, ZHAN Yong, YANG Yuan.<br />
 "Semantic segmentation of 3D real scene based on segment anything model." Bulletin of Surveying and Mapping(2024).
 [[paper](http://tb.chinasmp.com/EN/Y2024/V0/I12/101)]
 [2024.12]
 
-:boom:**Char-SAM:** Enze Xie, Jiaho Lyu, Daiqing Wu, Huawen Shen, Yu Zhou.<br />
+- **Char-SAM:** Enze Xie, Jiaho Lyu, Daiqing Wu, Huawen Shen, Yu Zhou.<br />
 "Char-SAM: Turning Segment Anything Model into Scene Text Segmentation Annotator with Character-level Visual Prompts." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.19917)]
 [2024.12]
 
-:boom:Leiping Jie.<br />
+- Leiping Jie.<br />
 "When SAM2 Meets Video Shadow and Mirror Detection." ArXiv (2024).
 [[paper](https://arxiv.org/abs/2412.19293)]
 [[code](https://github.com/LeipingJie/SAM2Video)]
