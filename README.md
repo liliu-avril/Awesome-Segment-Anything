@@ -226,6 +226,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:Risha Goel, Zain Shabeeb, Isabel Panicker, Vida Jamali.<br />
+"Segment Anything Model for Zero-shot Single Particle Tracking in Liquid Phase Transmission Electron Microscopy." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.03153)]
+[2025.01]
+
+:boom:**SAM4EM:** Javier Montalvo, Álvaro García-Martín, Pablo Carballeira, Juan C. SanMiguel.<br />
+"Unsupervised Class Generation to Expand Semantic Segmentation Datasets." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.02264)]
+[2025.01]
+
 :boom:**EdgeSAM:** Yang, Wenya and Chen, Xiao-Diao and Wu, Wen and Qin, Hongshuai and Yan, Kangming and Mao, Xiaoyang and Song, Haichuan.<br />
 "Boosting Deep Unsupervised Edge Detection via Segment Anything Model." IEEE TII (2024).
 [[paper](https://ieeexplore.ieee.org/document/10490131)]
