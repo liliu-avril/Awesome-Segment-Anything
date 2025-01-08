@@ -226,6 +226,25 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**Sa2VA:** Haobo Yuan, Xiangtai Li, Tao Zhang, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang.<br />
+"Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.04001)]
+[[code](https://lxtgh.github.io/project/sa2va)]
+[[project](https://huggingface.co/ByteDance/Sa2VA-4B)]
+[2025.01]
+
+:boom:**AutoFish:** Stefan Hein Bengtson, Daniel Lehotský, Vasiliki Ismiroglou, Niels Madsen, Thomas B. Moeslund, Malte Pedersen.<br />
+"AutoFish: Dataset and Benchmark for Fine-grained Analysis of Fish." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.03767)]
+[[code](https://vap.aau.dk/autofish/)]
+[2025.01]
+
+:boom:**MedFocusCLIP :** Aadya Arora, Vinay Namboodiri.<br />
+"MedFocusCLIP : Improving few shot classification in medical datasets using pixel wise attention." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.03839)]
+[[code](https://aadya-arora.github.io/MedFocusClip/)]
+[2025.01]
+
 :boom:Risha Goel, Zain Shabeeb, Isabel Panicker, Vida Jamali.<br />
 "Segment Anything Model for Zero-shot Single Particle Tracking in Liquid Phase Transmission Electron Microscopy." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.03153)]
