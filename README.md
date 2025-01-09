@@ -241,7 +241,7 @@ If you find our work useful in your research, please consider citing:
 [2025.01]
 
 :boom:**AutoFish:** Stefan Hein Bengtson, Daniel Lehotský, Vasiliki Ismiroglou, Niels Madsen, Thomas B. Moeslund, Malte Pedersen.<br />
-"AutoFish: Dataset and Benchmark for Fine-grained Analysis of Fish." ArXiv (2025).
+"AutoFish: Dataset and Benchmark for Fine-grained Analysis of Fish." WACV Workshop (2025).
 [[paper](https://arxiv.org/abs/2501.03767)]
 [[code](https://vap.aau.dk/autofish/)]
 [2025.01]
