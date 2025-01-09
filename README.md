@@ -233,6 +233,16 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM-Upflow Splitter:** Wenhui Liu, Yulong Qiao, Zhengyi Xing, Yue Zhao.<br />
+"Zero-shot moving ship segmentation based on segment anything network and optical flow network." ELECTRONICS LETTERS (2025).
+[[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.70136)]
+[2025.01]
+
+:boom:Naddaf-Sh, Amir-M., Vinay S. Baburao, and Hassan Zargarzadeh.<br />
+"Leveraging Segment Anything Model (SAM) for Weld Defect Detection in Industrial Ultrasonic B-Scan Images." Sensors (2025).
+[[paper](https://www.mdpi.com/1424-8220/25/1/277)]
+[2025.01]
+
 :boom:**Sa2VA:** Haobo Yuan, Xiangtai Li, Tao Zhang, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang.<br />
 "Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.04001)]
