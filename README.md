@@ -5067,7 +5067,7 @@ Spatial Information Research (2024).
   [2024.02]
 
 - **OBJ-GSP:** Wenxiao Cai, Wankou Yang.<br />
-  "Object-level Geometric Structure Preserving for Natural Image Stitching." ArXiv (2024).
+  "Object-level Geometric Structure Preserving for Natural Image Stitching." AAAI (2025).
   [[paper](https://arxiv.org/abs/2402.12677)] 
   [[code](https://github.com/RussRobin/OBJ-GSP)]
   [2024.02]
@@ -5826,7 +5826,7 @@ Spatial Information Research (2024).
   [2023.12]
 
 - **TinySAM:** Han Shu, Wenshuo Li, Yehui Tang, Yiman Zhang, Yihao Chen, Houqiang Li, Yunhe Wang, Xinghao Chen.<br />
-  "TinySAM: Pushing the Envelope for Efficient Segment Anything Model." ArXiv (2023).
+  "TinySAM: Pushing the Envelope for Efficient Segment Anything Model." AAAI (2025).
   [[paper](https://arxiv.org/abs/2312.13789)] 
   [[code](https://github.com/xinghaochen/TinySAM)]
   [[weights](https://gitee.com/mindspore/models/tree/master/research/cv/TinySAM)]
