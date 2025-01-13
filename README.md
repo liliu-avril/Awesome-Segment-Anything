@@ -233,95 +233,104 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**CCT:** Olivier Morelle, Justus Bisten, Maximilian W. M. Wintergerst, Robert P. Finger, Thomas Schultz.<br />
+"Weakly Supervised Segmentation of Hyper-Reflective Foci with Compact Convolutional Transformers and SAM2." German Conference on Medical Image Computing(2025).
+[[paper](https://arxiv.org/abs/2501.05933)]
+[2025.01]
 
-:boom:**SPA:** Hu, Jihong and Li, Yinhao and Jain, Rahul Kumar and Lin, Lanfen and Chen, Yen-wei.<br />
+:boom:**FLAIR:** Chinmay K Lalgudi, Mark E Leone, Jaden V Clark, Sergio Madrigal-Mora, Mario Espinoza.<br />
+"Zero-shot Shark Tracking and Biometrics from Aerial Imagery." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.05717)]
+[2025.01]
+
+- **SPA:** Hu, Jihong and Li, Yinhao and Jain, Rahul Kumar and Lin, Lanfen and Chen, Yen-wei.<br />
 "SPA: Leveraging the SAM with Spatial Priors Adapter for Enhanced Medical Image Segmentation." JBHI(2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10829779)]
 [2025.01]
 
-:boom:**SAM-Upflow Splitter:** Wenhui Liu, Yulong Qiao, Zhengyi Xing, Yue Zhao.<br />
+- **SAM-Upflow Splitter:** Wenhui Liu, Yulong Qiao, Zhengyi Xing, Yue Zhao.<br />
 "Zero-shot moving ship segmentation based on segment anything network and optical flow network." ELECTRONICS LETTERS (2025).
 [[paper](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ell2.70136)]
 [2025.01]
 
-:boom:Naddaf-Sh, Amir-M., Vinay S. Baburao, and Hassan Zargarzadeh.<br />
+- Naddaf-Sh, Amir-M., Vinay S. Baburao, and Hassan Zargarzadeh.<br />
 "Leveraging Segment Anything Model (SAM) for Weld Defect Detection in Industrial Ultrasonic B-Scan Images." Sensors (2025).
 [[paper](https://www.mdpi.com/1424-8220/25/1/277)]
 [2025.01]
 
-:boom:**Sa2VA:** Haobo Yuan, Xiangtai Li, Tao Zhang, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang.<br />
+- **Sa2VA:** Haobo Yuan, Xiangtai Li, Tao Zhang, Zilong Huang, Shilin Xu, Shunping Ji, Yunhai Tong, Lu Qi, Jiashi Feng, Ming-Hsuan Yang.<br />
 "Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.04001)]
 [[code](https://lxtgh.github.io/project/sa2va)]
 [[project](https://huggingface.co/ByteDance/Sa2VA-4B)]
 [2025.01]
 
-:boom:**AutoFish:** Stefan Hein Bengtson, Daniel Lehotský, Vasiliki Ismiroglou, Niels Madsen, Thomas B. Moeslund, Malte Pedersen.<br />
+- **AutoFish:** Stefan Hein Bengtson, Daniel Lehotský, Vasiliki Ismiroglou, Niels Madsen, Thomas B. Moeslund, Malte Pedersen.<br />
 "AutoFish: Dataset and Benchmark for Fine-grained Analysis of Fish." WACV Workshop (2025).
 [[paper](https://arxiv.org/abs/2501.03767)]
 [[code](https://vap.aau.dk/autofish/)]
 [2025.01]
 
-:boom:**MedFocusCLIP :** Aadya Arora, Vinay Namboodiri.<br />
+- **MedFocusCLIP :** Aadya Arora, Vinay Namboodiri.<br />
 "MedFocusCLIP : Improving few shot classification in medical datasets using pixel wise attention." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.03839)]
 [[code](https://aadya-arora.github.io/MedFocusClip/)]
 [2025.01]
 
-:boom:Risha Goel, Zain Shabeeb, Isabel Panicker, Vida Jamali.<br />
+- Risha Goel, Zain Shabeeb, Isabel Panicker, Vida Jamali.<br />
 "Segment Anything Model for Zero-shot Single Particle Tracking in Liquid Phase Transmission Electron Microscopy." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.03153)]
 [2025.01]
 
-:boom:**SAM4EM:** Javier Montalvo, Álvaro García-Martín, Pablo Carballeira, Juan C. SanMiguel.<br />
+- **SAM4EM:** Javier Montalvo, Álvaro García-Martín, Pablo Carballeira, Juan C. SanMiguel.<br />
 "Unsupervised Class Generation to Expand Semantic Segmentation Datasets." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.02264)]
 [2025.01]
 
-:boom:**EdgeSAM:** Yang, Wenya and Chen, Xiao-Diao and Wu, Wen and Qin, Hongshuai and Yan, Kangming and Mao, Xiaoyang and Song, Haichuan.<br />
+- **EdgeSAM:** Yang, Wenya and Chen, Xiao-Diao and Wu, Wen and Qin, Hongshuai and Yan, Kangming and Mao, Xiaoyang and Song, Haichuan.<br />
 "Boosting Deep Unsupervised Edge Detection via Segment Anything Model." IEEE TII (2024).
 [[paper](https://ieeexplore.ieee.org/document/10490131)]
 [2025.01]
 
-:boom:**PowerSAM:** Nannan Yan, Yuhao Li, Yingke Mao, et al.<br />
+- **PowerSAM:** Nannan Yan, Yuhao Li, Yingke Mao, et al.<br />
 "PowerSAM: Edge-Efficient Segment Anything for Power Systems Through Visual Model Distilla- tion PowerSAM: Edge-Efficient Segment Anything for Power Systems Through Visual Model Distillation." ArXiv (2025).
 [[paper](https://www.researchgate.net/publication/387673524_PowerSAM_Edge-Efficient_Segment_Anything_for_Power_Systems_Through_Visual_Model_Distilla-_tion_PowerSAM_Edge-Efficient_Segment_Anything_for_Power_Systems_Through_Visual_Model_Distillation)]
 [2025.01]
 
-:boom:**PG-SAG:** Tengfei Wang, Xin Wang, Yongmao Hou, Yiwei Xu, Wendi Zhang, Zongqian Zhan.<br />
+- **PG-SAG:** Tengfei Wang, Xin Wang, Yongmao Hou, Yiwei Xu, Wendi Zhang, Zongqian Zhan.<br />
 "PG-SAG: Parallel Gaussian Splatting for Fine-Grained Large-Scale Urban Buildings Reconstruction via Semantic-Aware Grouping." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.01677)]
 [[code](https://github.com/TFWang-9527/PG-SAG)]
 [2025.01]
 
-:boom:**MA-SAM:** D. Fan et al.<br />
+- **MA-SAM:** D. Fan et al.<br />
 "MA-SAM: A Multi-atlas Guided SAM Using Pseudo Mask Prompts without Manual Annotation for Spine Image Segmentation." TMI (2025).
 [[paper](https://ieeexplore.ieee.org/document/10819446)]
 [2025.01]
 
-:boom:**ReferSAM:** S. -A. Liu, H. Xie, J. Ge and Y. Zhang.<br />
+- **ReferSAM:** S. -A. Liu, H. Xie, J. Ge and Y. Zhang.<br />
 "ReferSAM: Unleashing Segment Anything Model for Referring Image Segmentation." TCSVT (2025).
 [[paper](https://ieeexplore.ieee.org/document/10819432)]
 [[code](https://github.com/lsa1997/ReferSAM)]
 [2025.01]
 
-:boom:**YS3AM:** Mu S, Liu J, Zhang P, et al.<br />
+- **YS3AM:** Mu S, Liu J, Zhang P, et al.<br />
 "YS3AM: Adaptive 3D Reconstruction and Harvesting Target Detection for Clustered Green Asparagus." ArXiv (2025).
 [[paper](https://www.preprints.org/frontend/manuscript/487777b31e6377d16c8fef09489e9418/download_pub)]
 [2025.01]
 
-:boom:**FCP:** Suho Park, SuBeen Lee, Hyun Seok Seong, Jaejoon Yoo, Jae-Pil Heo.<br />
+- **FCP:** Suho Park, SuBeen Lee, Hyun Seok Seong, Jaejoon Yoo, Jae-Pil Heo.<br />
 "Foreground-Covering Prototype Generation and Matching for SAM-Aided Few-Shot Segmentation." AAAI (2025).
 [[paper](https://arxiv.org/abs/2501.00752)]
 [[code](https://github.com/SuhoPark0706/FCP)]
 [2025.01]
 
-:boom:**ScarNet:** Neda Tavakoli, Amir Ali Rahsepar, Brandon C. Benefield, Daming Shen, Santiago López-Tapia, Florian Schiffers, Jeffrey J. Goldberger, Christine M. Albert, Edwin Wu, Aggelos K. Katsaggelos, Daniel C. Lee, Daniel Kim.<br />
+- **ScarNet:** Neda Tavakoli, Amir Ali Rahsepar, Brandon C. Benefield, Daming Shen, Santiago López-Tapia, Florian Schiffers, Jeffrey J. Goldberger, Christine M. Albert, Edwin Wu, Aggelos K. Katsaggelos, Daniel C. Lee, Daniel Kim.<br />
 "ScarNet: A Novel Foundation Model for Automated Myocardial Scar Quantification from LGE in Cardiac MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.01372)]
 [2025.01]
 
-:boom:**EUGIS:** Jiang Shang, Yuanmeng Wu, Xiaoxiang Han, Xi Chen and Qi Zhang.<br />
+- **EUGIS:** Jiang Shang, Yuanmeng Wu, Xiaoxiang Han, Xi Chen and Qi Zhang.<br />
 "Evidential Calibrated Uncertainty-Guided Interactive Segmentation paradigm for Ultrasound Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.01072)]
 [[code](https://github.com/JiangVentinal/EUGIS)]
