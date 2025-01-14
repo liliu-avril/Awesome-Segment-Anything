@@ -233,6 +233,44 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SAM-DA:** Javier Gamazo Tejero, Moritz Schmid, Pablo Márquez Neila, Martin S. Zinkernagel, Sebastian Wolf, Raphael Sznitman.<br />
+"SAM-DA: Decoder Adapter for Efficient Medical Domain Adaptation." WACV (2025).
+[[paper](https://arxiv.org/abs/2501.06836)]
+[2025.01]
+
+:boom:**PGP-SAM:** Zhonghao Yan, Zijin Yin, Tianyu Lin, Xiangzhu Zeng, Kongming Liang, Zhanyu Ma.<br />
+"PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation." ISBI (2025).
+[[paper](https://arxiv.org/abs/2501.06692)]
+[2025.01]
+
+:boom:**SST:** Zhenyang Feng, Zihe Wang, Saul Ibaven Bueno, Tomasz Frelek, Advikaa Ramesh, Jingyan Bai, Lemeng Wang, Zanming Huang, Jianyang Gu, Jinsu Yoo, Tai-Yu Pan, Arpita Chowdhury, Michelle Ramirez, Elizabeth G. Campolongo, Matthew J. Thompson, Christopher G. Lawrence, Sydne Record, Neil Rosser, Anuj Karpatne, Daniel Rubenstein, Hilmar Lapp, Charles V. Stewart, Tanya Berger-Wolf, Yu Su, Wei-Lun Chao.<br />
+"Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.06749)]
+[2025.01]
+
+:boom:**OCORD:** Shuo Zhang, Runpu Wei, Kongming Liang.<br />
+"OCORD: Open-Campus Object Removal Dataset." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.07397)]
+[[code](https://huggingface.co/datasets/theSure/OCORD)]
+[2025.01]
+
+:boom:**Guided SAM:** S.B. van Rooij, G.J. Burghouts.<br />
+"Guided SAM: Label-Efficient Part Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.07434)]
+[2025.01]
+
+:boom:**EdgeTAM:** Chong Zhou, Chenchen Zhu, Yunyang Xiong, Saksham Suri, Fanyi Xiao, Lemeng Wu, Raghuraman Krishnamoorthi, Bo Dai, Chen Change Loy, Vikas Chandra, Bilge Soran.<br />
+"EdgeTAM: On-Device Track Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.07256)]
+[[code](https://github.com/facebookresearch/EdgeTAM)]
+[2025.01]
+
+:boom:**RSRefSeg:** Keyan Chen, Jiafan Zhang, Chenyang Liu, Zhengxia Zou, Zhenwei Shi.<br />
+"RSRefSeg: Referring Remote Sensing Image Segmentation with Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.06809)]
+[[code](https://github.com/KyanChen/RSRefSeg)]
+[2025.01]
+
 :boom:**CCT:** Olivier Morelle, Justus Bisten, Maximilian W. M. Wintergerst, Robert P. Finger, Thomas Schultz.<br />
 "Weakly Supervised Segmentation of Hyper-Reflective Foci with Compact Convolutional Transformers and SAM2." German Conference on Medical Image Computing(2025).
 [[paper](https://arxiv.org/abs/2501.05933)]
