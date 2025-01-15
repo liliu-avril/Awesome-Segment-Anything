@@ -234,6 +234,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**SkipClick:** Robin Schön, Julian Lorenz, Daniel Kienzle, Rainer Lienhart.<br />
+"SkipClick: Combining Quick Responses and Low-Level Features for Interactive Segmentation in Winter Sports Contexts." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.07960)]
+[[code](https://github.com/Schorob/skipclick)]
+[2025.01]
+
 :boom:**SAM-DA:** Javier Gamazo Tejero, Moritz Schmid, Pablo Márquez Neila, Martin S. Zinkernagel, Sebastian Wolf, Raphael Sznitman.<br />
 "SAM-DA: Decoder Adapter for Efficient Medical Domain Adaptation." WACV (2025).
 [[paper](https://arxiv.org/abs/2501.06836)]
