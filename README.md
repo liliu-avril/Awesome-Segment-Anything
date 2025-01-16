@@ -234,6 +234,12 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+:boom:**VRS-HQ:** Sitong Gong, Yunzhi Zhuge, Lu Zhang, Zongxin Yang, Pingping Zhang, Huchuan Lu.<br />
+"The Devil is in Temporal Token: High Quality Video Reasoning Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.08549)]
+[[code](https://github.com/SitongGong/VRS-HQ)]
+[2025.01]
+
 :boom:**SuperSAM:** Waqwoya Abebe, Sadegh Jafari, Sixing Yu, Akash Dutta, Jan Strube, Nathan R. Tallent, Luanzheng Guo, Pablo Munoz, Ali Jannesari.<br />
 "SuperSAM: Crafting a SAM Supernetwork via Structured Pruning and Unstructured Parameter Prioritization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.08504)]
