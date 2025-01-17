@@ -234,6 +234,8 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+#### 2025
+
 :boom:**FATE-SAM:** Xingxin He, Yifan Hu, Zhaoye Zhou, Mohamed Jarraya, Fang Liu.<br />
 "Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.09138)]
@@ -402,6 +404,9 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2501.01072)]
 [[code](https://github.com/JiangVentinal/EUGIS)]
 [2025.01]
+
+
+#### 2025
 
 - **GPRN:** Shi-Feng Peng, Guolei Sun, Yong Li, Hongsong Wang, Guo-Sen Xie.<br />
 "SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation." AAAI (2025).
