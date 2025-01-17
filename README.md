@@ -406,7 +406,7 @@ If you find our work useful in your research, please consider citing:
 [2025.01]
 
 
-#### 2025
+#### 2024
 
 - **GPRN:** Shi-Feng Peng, Guolei Sun, Yong Li, Hongsong Wang, Guo-Sen Xie.<br />
 "SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation." AAAI (2025).
