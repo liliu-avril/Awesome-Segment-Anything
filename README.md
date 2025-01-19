@@ -235,78 +235,97 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**CableSAM:** Aihua Ling, Junwen Wang, Jiaming Lu & Ruyu Liu.<br />
+"CableSAM: an efficient automatic segmentation method for aircraft cabin cables." Optoelectronics Letters (2025).
+[[paper](https://link.springer.com/article/10.1007/s11801-025-4026-8)]
+[2025.01]
 
-:boom:**FATE-SAM:** Xingxin He, Yifan Hu, Zhaoye Zhou, Mohamed Jarraya, Fang Liu.<br />
+:boom:Wang, Yunlong, and Zhiyong Zhang.<br />
+"Segment Any Leaf 3D: A Zero-Shot 3D Leaf Instance Segmentation Method Based on Multi-View Images." Sensors (2025).
+[[paper](https://www.mdpi.com/1424-8220/25/2/526)]
+[2025.01]
+
+:boom:**SegmentAnyTooth:** Khoa Dang Nguyen and Hung Trong Hoang and Thi-Phuong Hong Doan and Khai Quang Dao and Ding-Han Wang and Ming-Lun Hsu.<br />
+"SegmentAnyTooth: An open-source deep learning framework for tooth enumeration and segmentation in intraoral photos." Journal of Dental Sciences (2025).
+[[paper](SegmentAnyTooth: An open-source deep learning framework for tooth enumeration and segmentation in intraoral photos - ScienceDirect)]
+[2025.01]
+
+:boom:**SAM-Glomeruli:** Sun, Rui, and Tianzhu Zhang.<br />
+"SAM-Glomeruli: Enhanced Segment Anything Model for Precise Glomeruli." MICCAI Workshop (2024).
+[[paper](https://www.google.com/books?hl=zh-CN&lr=&id=GkE_EQAAQBAJ&oi=fnd&pg=PA182&dq=SAM-Glomeruli:+Enhanced+Segment+Anything+Model+for+Precise+Glomeruli&ots=3psKjnNt8g&sig=B_G_F-RemAgJFiGDS3w0M_p6sfg)]
+[2025.01]
+
+- **FATE-SAM:** Xingxin He, Yifan Hu, Zhaoye Zhou, Mohamed Jarraya, Fang Liu.<br />
 "Few-Shot Adaptation of Training-Free Foundation Model for 3D Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.09138)]
 [2025.01]
 
-:boom: Pengru Deng, Jiapeng Yao, Chun Li, Su Wang, Xinrun Li, Varun Ojha, Xuhui He, Takashi Matsumoto.<br />
+- Pengru Deng, Jiapeng Yao, Chun Li, Su Wang, Xinrun Li, Varun Ojha, Xuhui He, Takashi Matsumoto.<br />
 "Unified Few-shot Crack Segmentation and its Precise 3D Automatic Measurement in Concrete Structures." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.09203)]
 [2025.01]
 
-:boom:**VRS-HQ:** Sitong Gong, Yunzhi Zhuge, Lu Zhang, Zongxin Yang, Pingping Zhang, Huchuan Lu.<br />
+- **VRS-HQ:** Sitong Gong, Yunzhi Zhuge, Lu Zhang, Zongxin Yang, Pingping Zhang, Huchuan Lu.<br />
 "The Devil is in Temporal Token: High Quality Video Reasoning Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.08549)]
 [[code](https://github.com/SitongGong/VRS-HQ)]
 [2025.01]
 
-:boom:**SuperSAM:** Waqwoya Abebe, Sadegh Jafari, Sixing Yu, Akash Dutta, Jan Strube, Nathan R. Tallent, Luanzheng Guo, Pablo Munoz, Ali Jannesari.<br />
+- **SuperSAM:** Waqwoya Abebe, Sadegh Jafari, Sixing Yu, Akash Dutta, Jan Strube, Nathan R. Tallent, Luanzheng Guo, Pablo Munoz, Ali Jannesari.<br />
 "SuperSAM: Crafting a SAM Supernetwork via Structured Pruning and Unstructured Parameter Prioritization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.08504)]
 [2025.01]
 
-:boom:**SkipClick:** Robin Schön, Julian Lorenz, Daniel Kienzle, Rainer Lienhart.<br />
+- **SkipClick:** Robin Schön, Julian Lorenz, Daniel Kienzle, Rainer Lienhart.<br />
 "SkipClick: Combining Quick Responses and Low-Level Features for Interactive Segmentation in Winter Sports Contexts." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.07960)]
 [[code](https://github.com/Schorob/skipclick)]
 [2025.01]
 
-:boom:**SAM-DA:** Javier Gamazo Tejero, Moritz Schmid, Pablo Márquez Neila, Martin S. Zinkernagel, Sebastian Wolf, Raphael Sznitman.<br />
+- **SAM-DA:** Javier Gamazo Tejero, Moritz Schmid, Pablo Márquez Neila, Martin S. Zinkernagel, Sebastian Wolf, Raphael Sznitman.<br />
 "SAM-DA: Decoder Adapter for Efficient Medical Domain Adaptation." WACV (2025).
 [[paper](https://arxiv.org/abs/2501.06836)]
 [2025.01]
 
-:boom:**PGP-SAM:** Zhonghao Yan, Zijin Yin, Tianyu Lin, Xiangzhu Zeng, Kongming Liang, Zhanyu Ma.<br />
+- **PGP-SAM:** Zhonghao Yan, Zijin Yin, Tianyu Lin, Xiangzhu Zeng, Kongming Liang, Zhanyu Ma.<br />
 "PGP-SAM: Prototype-Guided Prompt Learning for Efficient Few-Shot Medical Image Segmentation." ISBI (2025).
 [[paper](https://arxiv.org/abs/2501.06692)]
 [2025.01]
 
-:boom:**SST:** Zhenyang Feng, Zihe Wang, Saul Ibaven Bueno, Tomasz Frelek, Advikaa Ramesh, Jingyan Bai, Lemeng Wang, Zanming Huang, Jianyang Gu, Jinsu Yoo, Tai-Yu Pan, Arpita Chowdhury, Michelle Ramirez, Elizabeth G. Campolongo, Matthew J. Thompson, Christopher G. Lawrence, Sydne Record, Neil Rosser, Anuj Karpatne, Daniel Rubenstein, Hilmar Lapp, Charles V. Stewart, Tanya Berger-Wolf, Yu Su, Wei-Lun Chao.<br />
+- **SST:** Zhenyang Feng, Zihe Wang, Saul Ibaven Bueno, Tomasz Frelek, Advikaa Ramesh, Jingyan Bai, Lemeng Wang, Zanming Huang, Jianyang Gu, Jinsu Yoo, Tai-Yu Pan, Arpita Chowdhury, Michelle Ramirez, Elizabeth G. Campolongo, Matthew J. Thompson, Christopher G. Lawrence, Sydne Record, Neil Rosser, Anuj Karpatne, Daniel Rubenstein, Hilmar Lapp, Charles V. Stewart, Tanya Berger-Wolf, Yu Su, Wei-Lun Chao.<br />
 "Static Segmentation by Tracking: A Frustratingly Label-Efficient Approach to Fine-Grained Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.06749)]
 [2025.01]
 
-:boom:**OCORD:** Shuo Zhang, Runpu Wei, Kongming Liang.<br />
+- **OCORD:** Shuo Zhang, Runpu Wei, Kongming Liang.<br />
 "OCORD: Open-Campus Object Removal Dataset." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.07397)]
 [[code](https://huggingface.co/datasets/theSure/OCORD)]
 [2025.01]
 
-:boom:**Guided SAM:** S.B. van Rooij, G.J. Burghouts.<br />
+- **Guided SAM:** S.B. van Rooij, G.J. Burghouts.<br />
 "Guided SAM: Label-Efficient Part Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.07434)]
 [2025.01]
 
-:boom:**EdgeTAM:** Chong Zhou, Chenchen Zhu, Yunyang Xiong, Saksham Suri, Fanyi Xiao, Lemeng Wu, Raghuraman Krishnamoorthi, Bo Dai, Chen Change Loy, Vikas Chandra, Bilge Soran.<br />
+- **EdgeTAM:** Chong Zhou, Chenchen Zhu, Yunyang Xiong, Saksham Suri, Fanyi Xiao, Lemeng Wu, Raghuraman Krishnamoorthi, Bo Dai, Chen Change Loy, Vikas Chandra, Bilge Soran.<br />
 "EdgeTAM: On-Device Track Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.07256)]
 [[code](https://github.com/facebookresearch/EdgeTAM)]
 [2025.01]
 
-:boom:**RSRefSeg:** Keyan Chen, Jiafan Zhang, Chenyang Liu, Zhengxia Zou, Zhenwei Shi.<br />
+- **RSRefSeg:** Keyan Chen, Jiafan Zhang, Chenyang Liu, Zhengxia Zou, Zhenwei Shi.<br />
 "RSRefSeg: Referring Remote Sensing Image Segmentation with Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.06809)]
 [[code](https://github.com/KyanChen/RSRefSeg)]
 [2025.01]
 
-:boom:**CCT:** Olivier Morelle, Justus Bisten, Maximilian W. M. Wintergerst, Robert P. Finger, Thomas Schultz.<br />
+- **CCT:** Olivier Morelle, Justus Bisten, Maximilian W. M. Wintergerst, Robert P. Finger, Thomas Schultz.<br />
 "Weakly Supervised Segmentation of Hyper-Reflective Foci with Compact Convolutional Transformers and SAM2." German Conference on Medical Image Computing(2025).
 [[paper](https://arxiv.org/abs/2501.05933)]
 [2025.01]
 
-:boom:**FLAIR:** Chinmay K Lalgudi, Mark E Leone, Jaden V Clark, Sergio Madrigal-Mora, Mario Espinoza.<br />
+- **FLAIR:** Chinmay K Lalgudi, Mark E Leone, Jaden V Clark, Sergio Madrigal-Mora, Mario Espinoza.<br />
 "Zero-shot Shark Tracking and Biometrics from Aerial Imagery." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.05717)]
 [2025.01]
