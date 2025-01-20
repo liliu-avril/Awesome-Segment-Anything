@@ -235,6 +235,12 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**HOPOMOP:** Michael Schwingshackl, Fabio Francisco Oberweger, Markus Murschitz.<br />
+"Few-shot Structure-Informed Machinery Part Segmentation with Foundation Models and Graph Neural Networks." WACV (2025).
+[[paper](https://arxiv.org/abs/2501.10080)]
+[[code](https://github.com/AIT-Assistive-Autonomous-Systems/Hopomop)]
+[2025.01]
+
 :boom:**CableSAM:** Aihua Ling, Junwen Wang, Jiaming Lu & Ruyu Liu.<br />
 "CableSAM: an efficient automatic segmentation method for aircraft cabin cables." Optoelectronics Letters (2025).
 [[paper](https://link.springer.com/article/10.1007/s11801-025-4026-8)]
