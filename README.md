@@ -235,6 +235,12 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**MedicoSAM:** Anwai Archit, Luca Freckmann, Constantin Pape.<br />
+"MedicoSAM: Towards foundation models for medical image segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.11734)]
+[[code](https://github.com/computational-cell-analytics/medico-sam)]
+[2025.01]
+
 :boom:**UW-COT220 & VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "Towards Underwater Camouflaged Object Tracking: Benchmark and Baselines." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2409.16902)]
