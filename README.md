@@ -235,6 +235,17 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**DynamicEarth:** Kaiyu Li, Xiangyong Cao, Yupeng Deng, Chao Pang, Zepeng Xin, Deyu Meng, Zhi Wang.<br />
+"DynamicEarth: How Far are We from Open-Vocabulary Change Detection?." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.12931)]
+[[code](https://likyoo.github.io/DynamicEarth)]
+[2025.01]
+
+:boom:**fabSAM:** Yufeng Xie, Hanzhi Wu, Hongxiang Tong, Lei Xiao, Wenwen Zhou, Ling Li, Thomas Cherico Wanger.<br />
+"fabSAM: A Farmland Boundary Delineation Method Based on the Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.12487)]
+[2025.01]
+
 :boom:**MedicoSAM:** Anwai Archit, Luca Freckmann, Constantin Pape.<br />
 "MedicoSAM: Towards foundation models for medical image segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.11734)]
