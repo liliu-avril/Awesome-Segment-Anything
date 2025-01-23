@@ -1989,7 +1989,7 @@ If you find our work useful in your research, please consider citing:
   [2024.09]
 
 - **PointSAM:** Nanqing Liu, Xun Xu, Yongyi Su, Haojie Zhang, Heng-Chao Li.<br />
-  "PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images." ArXiv (2024).
+  "PointSAM: Pointly-Supervised Segment Anything Model for Remote Sensing Images." TGRS (2025).
   [[paper](https://arxiv.org/abs/2409.13401)] 
   [[code](https://github.com/Lans1ng/PointSAM)]
   [2024.09]
@@ -3455,7 +3455,7 @@ If you find our work useful in your research, please consider citing:
   [2024.06]
 
 - **Point-SAM:** Yuchen Zhou, Jiayuan Gu, Tung Yen Chiang, Fanbo Xiang, Hao Su.<br />
-  "Point-SAM: Promptable 3D Segmentation Model for Point Clouds." ArXiv (2024).
+  "Point-SAM: Promptable 3D Segmentation Model for Point Clouds." ICLR (2025).
   [[paper](https://arxiv.org/abs/2406.17741)] 
   [[code](https://github.com/zyc00/Point-SAM)]
   [2024.06]
