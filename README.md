@@ -235,6 +235,27 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**MPG-SAM 2:** Fu Rong, Meng Lan, Qian Zhang, Lefei Zhang.<br />
+"MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.13667)]
+[2025.01]
+
+:boom:Gabrielle Hoyer, Michelle W Tong, Rupsa Bhattacharjee, Valentina Pedoia, Sharmila Majumdar.<br />
+"Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.13376)]
+[2025.01]
+
+:boom:**APSAM:** Jian Wang, Xiaokang Zhang, Xianping Ma, Weikang Yu, Pedram Ghamisi.<br />
+"Auto-Prompting SAM for Weakly Supervised Landslide Extraction." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.13426)]
+[[code](https://github.com/zxk688)]
+[2025.01]
+
+:boom:**MONA:** Boxun Hu, Mingze Xia, Ding Zhao, Guanlin Wu.<br />
+"MONA: Moving Object Detection from Videos Shot by Dynamic Camera." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.13183)]
+[2025.01]
+
 :boom:**DynamicEarth:** Kaiyu Li, Xiangyong Cao, Yupeng Deng, Chao Pang, Zepeng Xin, Deyu Meng, Zhi Wang.<br />
 "DynamicEarth: How Far are We from Open-Vocabulary Change Detection?." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.12931)]
