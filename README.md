@@ -235,28 +235,33 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
-:boom:**MPG-SAM 2:** Fu Rong, Meng Lan, Qian Zhang, Lefei Zhang.<br />
+:boom:Yijie Zhu, Shan E Ahmed Raza.<br />
+"Gland Segmentation Using SAM With Cancer Grade as a Prompt." ISBI (2025).
+[[paper](https://arxiv.org/abs/2501.14718)]
+[2025.01]
+
+- **MPG-SAM 2:** Fu Rong, Meng Lan, Qian Zhang, Lefei Zhang.<br />
 "MPG-SAM 2: Adapting SAM 2 with Mask Priors and Global Context for Referring Video Object Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.13667)]
 [2025.01]
 
-:boom:Gabrielle Hoyer, Michelle W Tong, Rupsa Bhattacharjee, Valentina Pedoia, Sharmila Majumdar.<br />
+- Gabrielle Hoyer, Michelle W Tong, Rupsa Bhattacharjee, Valentina Pedoia, Sharmila Majumdar.<br />
 "Scalable Evaluation Framework for Foundation Models in Musculoskeletal MRI Bridging Computational Innovation with Clinical Utility." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.13376)]
 [2025.01]
 
-:boom:**APSAM:** Jian Wang, Xiaokang Zhang, Xianping Ma, Weikang Yu, Pedram Ghamisi.<br />
+- **APSAM:** Jian Wang, Xiaokang Zhang, Xianping Ma, Weikang Yu, Pedram Ghamisi.<br />
 "Auto-Prompting SAM for Weakly Supervised Landslide Extraction." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.13426)]
 [[code](https://github.com/zxk688)]
 [2025.01]
 
-:boom:**MONA:** Boxun Hu, Mingze Xia, Ding Zhao, Guanlin Wu.<br />
+- **MONA:** Boxun Hu, Mingze Xia, Ding Zhao, Guanlin Wu.<br />
 "MONA: Moving Object Detection from Videos Shot by Dynamic Camera." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.13183)]
 [2025.01]
 
-:boom:**DynamicEarth:** Kaiyu Li, Xiangyong Cao, Yupeng Deng, Chao Pang, Zepeng Xin, Deyu Meng, Zhi Wang.<br />
+- **DynamicEarth:** Kaiyu Li, Xiangyong Cao, Yupeng Deng, Chao Pang, Zepeng Xin, Deyu Meng, Zhi Wang.<br />
 "DynamicEarth: How Far are We from Open-Vocabulary Change Detection?." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.12931)]
 [[code](https://likyoo.github.io/DynamicEarth)]
@@ -267,13 +272,13 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2501.12487)]
 [2025.01]
 
-:boom:**MedicoSAM:** Anwai Archit, Luca Freckmann, Constantin Pape.<br />
+- **MedicoSAM:** Anwai Archit, Luca Freckmann, Constantin Pape.<br />
 "MedicoSAM: Towards foundation models for medical image segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.11734)]
 [[code](https://github.com/computational-cell-analytics/medico-sam)]
 [2025.01]
 
-:boom:**UW-COT220 & VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
+- **UW-COT220 & VL-SAM2:** Chunhui Zhang, Li Liu, Guanjie Huang, Hao Wen, Xi Zhou, Yanfeng Wang.<br />
   "Towards Underwater Camouflaged Object Tracking: Benchmark and Baselines." ArXiv (2025).
   [[paper](https://arxiv.org/abs/2409.16902)]
   [[ResearchGate](https://www.researchgate.net/publication/388189638_Towards_Underwater_Camouflaged_Object_Tracking_Benchmark_and_Baselines)]
@@ -286,22 +291,22 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/AIT-Assistive-Autonomous-Systems/Hopomop)]
 [2025.01]
 
-:boom:**CableSAM:** Aihua Ling, Junwen Wang, Jiaming Lu & Ruyu Liu.<br />
+- **CableSAM:** Aihua Ling, Junwen Wang, Jiaming Lu & Ruyu Liu.<br />
 "CableSAM: an efficient automatic segmentation method for aircraft cabin cables." Optoelectronics Letters (2025).
 [[paper](https://link.springer.com/article/10.1007/s11801-025-4026-8)]
 [2025.01]
 
-:boom:Wang, Yunlong, and Zhiyong Zhang.<br />
+- Wang, Yunlong, and Zhiyong Zhang.<br />
 "Segment Any Leaf 3D: A Zero-Shot 3D Leaf Instance Segmentation Method Based on Multi-View Images." Sensors (2025).
 [[paper](https://www.mdpi.com/1424-8220/25/2/526)]
 [2025.01]
 
-:boom:**SegmentAnyTooth:** Khoa Dang Nguyen and Hung Trong Hoang and Thi-Phuong Hong Doan and Khai Quang Dao and Ding-Han Wang and Ming-Lun Hsu.<br />
+- **SegmentAnyTooth:** Khoa Dang Nguyen and Hung Trong Hoang and Thi-Phuong Hong Doan and Khai Quang Dao and Ding-Han Wang and Ming-Lun Hsu.<br />
 "SegmentAnyTooth: An open-source deep learning framework for tooth enumeration and segmentation in intraoral photos." Journal of Dental Sciences (2025).
 [[paper](SegmentAnyTooth: An open-source deep learning framework for tooth enumeration and segmentation in intraoral photos - ScienceDirect)]
 [2025.01]
 
-:boom:**SAM-Glomeruli:** Sun, Rui, and Tianzhu Zhang.<br />
+- **SAM-Glomeruli:** Sun, Rui, and Tianzhu Zhang.<br />
 "SAM-Glomeruli: Enhanced Segment Anything Model for Precise Glomeruli." MICCAI Workshop (2024).
 [[paper](https://www.google.com/books?hl=zh-CN&lr=&id=GkE_EQAAQBAJ&oi=fnd&pg=PA182&dq=SAM-Glomeruli:+Enhanced+Segment+Anything+Model+for+Precise+Glomeruli&ots=3psKjnNt8g&sig=B_G_F-RemAgJFiGDS3w0M_p6sfg)]
 [2025.01]
