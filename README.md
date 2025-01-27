@@ -272,7 +272,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://likyoo.github.io/DynamicEarth)]
 [2025.01]
 
-:boom:**fabSAM:** Yufeng Xie, Hanzhi Wu, Hongxiang Tong, Lei Xiao, Wenwen Zhou, Ling Li, Thomas Cherico Wanger.<br />
+- **fabSAM:** Yufeng Xie, Hanzhi Wu, Hongxiang Tong, Lei Xiao, Wenwen Zhou, Ling Li, Thomas Cherico Wanger.<br />
 "fabSAM: A Farmland Boundary Delineation Method Based on the Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.12487)]
 [2025.01]
@@ -290,7 +290,7 @@ If you find our work useful in your research, please consider citing:
   [[project](https://github.com/983632847/Awesome-Multimodal-Object-Tracking/tree/main/UW-COT220)]
   [2025.01]
   
-:boom:**HOPOMOP:** Michael Schwingshackl, Fabio Francisco Oberweger, Markus Murschitz.<br />
+- **HOPOMOP:** Michael Schwingshackl, Fabio Francisco Oberweger, Markus Murschitz.<br />
 "Few-shot Structure-Informed Machinery Part Segmentation with Foundation Models and Graph Neural Networks." WACV (2025).
 [[paper](https://arxiv.org/abs/2501.10080)]
 [[code](https://github.com/AIT-Assistive-Autonomous-Systems/Hopomop)]
