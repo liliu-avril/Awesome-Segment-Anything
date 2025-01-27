@@ -235,6 +235,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**EG-SAM:** Longyi Chen and Xiandong Wang and Fengqin Yao and Mingchen Song and Jiaheng Zhang and Shengke Wang.<br />
+"An Edge-Guided SAM for effective complex object segmentation." Expert Systems With Applications (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425001824)]
+[2025.01]
+
 :boom:Yijie Zhu, Shan E Ahmed Raza.<br />
 "Gland Segmentation Using SAM With Cancer Grade as a Prompt." ISBI (2025).
 [[paper](https://arxiv.org/abs/2501.14718)]
