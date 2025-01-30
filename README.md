@@ -235,6 +235,22 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**Marker Track:** Aimee Guo, Weihua Mao.<br />
+"Marker Track: Accurate Fiducial Marker Tracking for Evaluation of Residual Motions During Breath-Hold Radiotherapy." Biomedical Physics & Engineering Express (2024).
+[[paper](https://arxiv.org/abs/2501.15660)]
+[[code](https://sites.google.com/view/markertrack?usp=sharing)]
+[2025.01]
+
+:boom:**CLISC:** Xiaochuan Ma, Jia Fu, Wenjun Liao, Shichuan Zhang, Guotai Wang.<br />
+"CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation." ISBI (2025).
+[[paper](https://arxiv.org/abs/2501.16246)]
+[2025.01]
+
+:boom:**KD-SAM:** Kunal Dasharath Patil, Gowthamaan Palani, Ganapathy Krishnamurthi.<br />
+"Efficient Knowledge Distillation of SAM for Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.16740)]
+[2025.01]
+
 :boom:**EG-SAM:** Longyi Chen and Xiandong Wang and Fengqin Yao and Mingchen Song and Jiaheng Zhang and Shengke Wang.<br />
 "An Edge-Guided SAM for effective complex object segmentation." Expert Systems With Applications (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425001824)]
