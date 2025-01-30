@@ -235,6 +235,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:Tongxu Zhang, Bei Wang.<br />
+"Point Cloud Upsampling as Statistical Shape Model for Pelvic." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.16716)]
+[2025.01]
+
 :boom:**Marker Track:** Aimee Guo, Weihua Mao.<br />
 "Marker Track: Accurate Fiducial Marker Tracking for Evaluation of Residual Motions During Breath-Hold Radiotherapy." Biomedical Physics & Engineering Express (2024).
 [[paper](https://arxiv.org/abs/2501.15660)]
