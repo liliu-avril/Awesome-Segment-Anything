@@ -235,6 +235,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**DeepSketchCamo:** Ying Zang, Runlong Cao, Jianqi Zhang, Yidong Han, Ziyue Cao, Wenjun Hu, Didi Zhu, Lanyun Zhu, Zejian Li, Deyi Ji, Tianrun Chen.<br />
+"Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.19329)]
+[2025.01]
+
 :boom:Tongxu Zhang, Bei Wang.<br />
 "Point Cloud Upsampling as Statistical Shape Model for Pelvic." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.16716)]
