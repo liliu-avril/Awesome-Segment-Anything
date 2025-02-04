@@ -235,6 +235,55 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**LBG:** Rohan Chacko, Nicolai Haeni, Eldar Khaliullin, Lin Sun, Douglas Lee.<br />
+"Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation." WACV(2025).
+[[paper](https://arxiv.org/abs/2502.00173)]
+[2025.02]
+
+:boom:**GFDS:** Tongkun Liu, Bing Li, Xiao Jin, Yupeng Shi, Qiuying Li, Xiang Wei.<br />
+"Exploring Few-Shot Defect Segmentation in General Industrial Scenarios with Metric Learning and Vision Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.01216)]
+[[code](https://github.com/liutongkun/GFDS)]
+[2025.02]
+
+:boom:**SAM-PLE:** Mingyu Yang, Jitong Lu, and Hun-Seok Kim.<br />
+"SAM-guided Pseudo Label Enhancement for Multi-modal 3D Semantic Segmentation." ICRA (2025).
+[[paper](https://arxiv.org/abs/2502.00960)]
+[2025.02]
+
+:boom:**VLP-SAM:** Kosuke Sakurai, Ryotaro Shimizu, Masayuki Goto.<br />
+"Vision and Language Reference Prompt into SAM for Few-shot Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.00719)]
+[[code](https://github.com/kosukesakurai1/VLP-SAM)]
+[2025.02]
+
+:boom:**Self-Prompt-SAM:** Bin Xie, Hao Tang, Dawen Cai, Yan Yan, Gady Agam.<br />
+"Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.00630)]
+[2025.02]
+
+:boom:**PEFT-SAM:** Carolin Teuber, Anwai Archit, Constantin Pape.<br />
+"Parameter Efficient Fine-Tuning of Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.00418)]
+[[code](https://github.com/computational-cell-analytics/peft-sam)]
+[2025.02]
+
+:boom:**PathoSAM:** Titus Griebel, Anwai Archit, Constantin Pape.<br />
+"Segment Anything for Histopathology." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.00408)]
+[[code](https://github.com/computational-cell-analytics/patho-sam)]
+[2025.02]
+
+:boom:**AVSBench-Robust:** Jia Li, Wenjie Zhao, Ziru Huang, Yunhui Guo, Yapeng Tian.<br />
+"Do Audio-Visual Segmentation Models Truly Segment Sounding Objects?." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.00358)]
+[2025.02]
+
+:boom:**FlexiCrackNet:** Xinlong Wan, Xiaoyan Jiang, Guangsheng Luo, Ferdous Sohel, Jenqneng Hwang.<br />
+"FlexiCrackNet: A Flexible Pipeline for Enhanced Crack Segmentation with General Features Transfered from SAM." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.18855)]
+[2025.01]
+
 :boom:**DeepSketchCamo:** Ying Zang, Runlong Cao, Jianqi Zhang, Yidong Han, Ziyue Cao, Wenjun Hu, Didi Zhu, Lanyun Zhu, Zejian Li, Deyi Ji, Tianrun Chen.<br />
 "Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.19329)]
