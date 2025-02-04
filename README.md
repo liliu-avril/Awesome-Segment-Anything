@@ -284,38 +284,38 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2501.18855)]
 [2025.01]
 
-:boom:**DeepSketchCamo:** Ying Zang, Runlong Cao, Jianqi Zhang, Yidong Han, Ziyue Cao, Wenjun Hu, Didi Zhu, Lanyun Zhu, Zejian Li, Deyi Ji, Tianrun Chen.<br />
+- **DeepSketchCamo:** Ying Zang, Runlong Cao, Jianqi Zhang, Yidong Han, Ziyue Cao, Wenjun Hu, Didi Zhu, Lanyun Zhu, Zejian Li, Deyi Ji, Tianrun Chen.<br />
 "Let Human Sketches Help: Empowering Challenging Image Segmentation Task with Freehand Sketches." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.19329)]
 [2025.01]
 
-:boom:Tongxu Zhang, Bei Wang.<br />
+- Tongxu Zhang, Bei Wang.<br />
 "Point Cloud Upsampling as Statistical Shape Model for Pelvic." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.16716)]
 [2025.01]
 
-:boom:**Marker Track:** Aimee Guo, Weihua Mao.<br />
+- **Marker Track:** Aimee Guo, Weihua Mao.<br />
 "Marker Track: Accurate Fiducial Marker Tracking for Evaluation of Residual Motions During Breath-Hold Radiotherapy." Biomedical Physics & Engineering Express (2024).
 [[paper](https://arxiv.org/abs/2501.15660)]
 [[code](https://sites.google.com/view/markertrack?usp=sharing)]
 [2025.01]
 
-:boom:**CLISC:** Xiaochuan Ma, Jia Fu, Wenjun Liao, Shichuan Zhang, Guotai Wang.<br />
+- **CLISC:** Xiaochuan Ma, Jia Fu, Wenjun Liao, Shichuan Zhang, Guotai Wang.<br />
 "CLISC: Bridging clip and sam by enhanced cam for unsupervised brain tumor segmentation." ISBI (2025).
 [[paper](https://arxiv.org/abs/2501.16246)]
 [2025.01]
 
-:boom:**KD-SAM:** Kunal Dasharath Patil, Gowthamaan Palani, Ganapathy Krishnamurthi.<br />
+- **KD-SAM:** Kunal Dasharath Patil, Gowthamaan Palani, Ganapathy Krishnamurthi.<br />
 "Efficient Knowledge Distillation of SAM for Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.16740)]
 [2025.01]
 
-:boom:**EG-SAM:** Longyi Chen and Xiandong Wang and Fengqin Yao and Mingchen Song and Jiaheng Zhang and Shengke Wang.<br />
+- **EG-SAM:** Longyi Chen and Xiandong Wang and Fengqin Yao and Mingchen Song and Jiaheng Zhang and Shengke Wang.<br />
 "An Edge-Guided SAM for effective complex object segmentation." Expert Systems With Applications (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425001824)]
 [2025.01]
 
-:boom:Yijie Zhu, Shan E Ahmed Raza.<br />
+- Yijie Zhu, Shan E Ahmed Raza.<br />
 "Gland Segmentation Using SAM With Cancer Grade as a Prompt." ISBI (2025).
 [[paper](https://arxiv.org/abs/2501.14718)]
 [2025.01]
