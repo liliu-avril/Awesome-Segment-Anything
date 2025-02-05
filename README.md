@@ -235,6 +235,16 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**Functional-SAM:** Sidak Pal Singh, Hossein Mobahi, Atish Agarwala, Yann Dauphin.<br />
+"Avoiding spurious sharpness minimization broadens applicability of SAM." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.02407)]
+[2025.02]
+
+:boom:**IMDPrompter:** Quan Zhang, Yuxin Qi, Xi Tang, Jinwei Fang, Xi Lin, Ke Zhang, Chun Yuan.<br />
+"IMDPrompter: Adapting SAM to Image Manipulation Detection by Cross-View Automated Prompt Learning." ICLR (2025).
+[[paper](https://arxiv.org/abs/2502.02454)]
+[2025.02]
+
 :boom:**LBG:** Rohan Chacko, Nicolai Haeni, Eldar Khaliullin, Lin Sun, Douglas Lee.<br />
 "Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation." WACV(2025).
 [[paper](https://arxiv.org/abs/2502.00173)]
