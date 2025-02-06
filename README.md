@@ -230,6 +230,28 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**ZISVFM:** Ying Zhang, Maoliang Yin, Wenfu Bi, Haibao Yan, Shaohan Bian, Cui-Hua Zhang, Changchun Hua.<br />
+"ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models." IEEE Transactions on Robotics (2025).
+[[paper](https://arxiv.org/abs/2502.03266)]
+[[code](https://github.com/Yinmlmaoliang/zisvfm)]
+[2025.02]
+
+:boom:**RFMedSAM 2:** Bin Xie, Hao Tang, Yan Yan, Gady Agam.<br />
+"RFMedSAM 2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.02741)]
+[2025.02]
+
+:boom:**FLIP:** Manuel Traub, Martin V. Butz.<br />
+"Rethinking Vision Transformer for Object Centric Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.02763)]
+[2025.02]
+
+:boom:**Tell2Reg:** Wen Yan, Qianye Yang, Shiqi Huang, Yipei Wang, Shonit Punwani, Mark Emberton, Vasilis Stavrinides, Yipeng Hu, Dean Barratt.<br />
+"Tell2Reg: Establishing spatial correspondence between images by the same language prompts." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.03118)]
+[[code](https://github.com/yanwenCi/Tell2Reg.git)]
+[2025.02]
+
 :boom:**Functional-SAM:** Sidak Pal Singh, Hossein Mobahi, Atish Agarwala, Yann Dauphin.<br />
 "Avoiding spurious sharpness minimization broadens applicability of SAM." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.02407)]
