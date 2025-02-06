@@ -72,11 +72,6 @@ If you find our work useful in your research, please consider citing:
 [[中文解读]](https://zhuanlan.zhihu.com/p/712807912)
 [2024.07]
 
-- Xiaorui Sun, Jun Liu, Heng Tao Shen, Xiaofeng Zhu, Ping Hu.<br />
-  "On Efficient Variants of Segment Anything Model: A Survey." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2410.04960)] 
-  [2024.10]
-  
 - **SAM4MIS:** Yichi Zhang, Rushi Jiao.<br />
   "Towards Segment Anything Model (SAM) for Medical Image Segmentation: A Survey." CBM (2024).
   [[paper](https://arxiv.org/abs/2305.03678)] 
@@ -1458,6 +1453,18 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2411.00548)]
 [2024.11]
 
+- **MarineInst:** Zheng, Ziqiang and Chen, Yiwei and Zeng, Huimin and Vu, Tuan-Anh and Hua, Binh-Son and Yeung, Sai-Kit.<br />
+"MarineInst: A Foundation Model for Marine Image Analysis with Instance Visual Description." ECCV (2024).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-031-72627-9_14)]
+[[code](https://github.com/zhengziqiang/MarineInst)]
+[[project](https://marineinst.hkustvgd.com/)]
+[2024.10]
+
+- Xiaorui Sun, Jun Liu, Heng Tao Shen, Xiaofeng Zhu, Ping Hu.<br />
+  "On Efficient Variants of Segment Anything Model: A Survey." ArXiv (2024).
+  [[paper](https://arxiv.org/abs/2410.04960)] 
+  [2024.10]
+  
 - Yue, Jiahe and Zhang, Runchu and Zhang, Zhe and Zhao, Ruixiang and Lv, Wu and Ma, Jie.<br />
 "How SAM helps Unsupervised Video Object Segmentation?." IJCNN (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10651290)]
