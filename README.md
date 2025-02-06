@@ -2597,7 +2597,7 @@ If you find our work useful in your research, please consider citing:
   [2024.08]
 
 - **EmbodiedSAM:** Xiuwei Xu, Huangxing Chen, Linqing Zhao, Ziwei Wang, Jie Zhou, Jiwen Lu.<br />
-  "EmbodiedSAM: Online Segment Any 3D Thing in Real Time." ArXiv (2024).
+  "EmbodiedSAM: Online Segment Any 3D Thing in Real Time." ICLR (2025).
   [[paper](https://arxiv.org/abs/2408.11811)] 
   [[code](https://xuxw98.github.io/ESAM/)]
   [2024.08]
