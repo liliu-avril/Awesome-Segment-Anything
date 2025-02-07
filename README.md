@@ -230,6 +230,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**FE-UNet:** Guohao Huo, Ruiting Dai, Ling Shao, Hao Tang.<br />
+"FE-UNet: Frequency Domain Enhanced U-Net with Segment Anything Capability for Versatile Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.03829)]
+[2025.02]
+
 :boom:**ZISVFM:** Ying Zhang, Maoliang Yin, Wenfu Bi, Haibao Yan, Shaohan Bian, Cui-Hua Zhang, Changchun Hua.<br />
 "ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models." IEEE Transactions on Robotics (2025).
 [[paper](https://arxiv.org/abs/2502.03266)]
