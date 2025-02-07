@@ -230,6 +230,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**PP:** Wang Xinyi, Kang Hongyu, Wei Peishan, Shuai Li, Yu Sun, Sai Kit Lam, Yongping Zheng.<br />
+"Proxy Prompt: Endowing SAM and SAM 2 with Auto-Interactive-Prompt for Medical Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.03501)]
+[2025.02]
+
 :boom:**FE-UNet:** Guohao Huo, Ruiting Dai, Ling Shao, Hao Tang.<br />
 "FE-UNet: Frequency Domain Enhanced U-Net with Segment Anything Capability for Versatile Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.03829)]
