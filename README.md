@@ -230,6 +230,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**LAM:** Wei-Bin Kou, Guangxu Zhu, Rongguang Ye, Shuai Wang, Ming Tang, Yik-Chung Wu.<br />
+"Label Anything: An Interpretable, High-Fidelity and Prompt-Free Annotator." ICRA (2025).
+[[paper](https://arxiv.org/abs/2502.02972)]
+[2025.02]
+
 :boom:**PP:** Wang Xinyi, Kang Hongyu, Wei Peishan, Shuai Li, Yu Sun, Sai Kit Lam, Yongping Zheng.<br />
 "Proxy Prompt: Endowing SAM and SAM 2 with Auto-Interactive-Prompt for Medical Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.03501)]
@@ -2967,7 +2972,7 @@ If you find our work useful in your research, please consider citing:
   [2024.07]
 
 - Pascal Spiegler, Amirhossein Rasoulian, Yiming Xiao.<br />
-  "Weakly Supervised Intracranial Hemorrhage Segmentation with YOLO and an Uncertainty Rectified Segment Anything Model." ArXiv (2024).
+  "Weakly Supervised Intracranial Hemorrhage Segmentation with YOLO and an Uncertainty Rectified Segment Anything Model." SWITCH (2024).
   [[paper](https://arxiv.org/abs/2407.20461)] 
   [2024.07]
 
