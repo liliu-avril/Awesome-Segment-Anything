@@ -230,98 +230,103 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**GlandSAM:** Zhang, Qixiang and Li, Yi and Xue, Cheng and Wang, Haonan and Li, Xiaomeng.<br />
+"GlandSAM: Injecting Morphology Knowledge Into Segment Anything Model for Label-Free Gland Segmentation." TMI.(2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10707661)]
+[2025.02]
+
 :boom:**LAM:** Wei-Bin Kou, Guangxu Zhu, Rongguang Ye, Shuai Wang, Ming Tang, Yik-Chung Wu.<br />
 "Label Anything: An Interpretable, High-Fidelity and Prompt-Free Annotator." ICRA (2025).
 [[paper](https://arxiv.org/abs/2502.02972)]
 [2025.02]
 
-:boom:**PP:** Wang Xinyi, Kang Hongyu, Wei Peishan, Shuai Li, Yu Sun, Sai Kit Lam, Yongping Zheng.<br />
+- **PP:** Wang Xinyi, Kang Hongyu, Wei Peishan, Shuai Li, Yu Sun, Sai Kit Lam, Yongping Zheng.<br />
 "Proxy Prompt: Endowing SAM and SAM 2 with Auto-Interactive-Prompt for Medical Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.03501)]
 [2025.02]
 
-:boom:**FE-UNet:** Guohao Huo, Ruiting Dai, Ling Shao, Hao Tang.<br />
+- **FE-UNet:** Guohao Huo, Ruiting Dai, Ling Shao, Hao Tang.<br />
 "FE-UNet: Frequency Domain Enhanced U-Net with Segment Anything Capability for Versatile Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.03829)]
 [2025.02]
 
-:boom:**ZISVFM:** Ying Zhang, Maoliang Yin, Wenfu Bi, Haibao Yan, Shaohan Bian, Cui-Hua Zhang, Changchun Hua.<br />
+- **ZISVFM:** Ying Zhang, Maoliang Yin, Wenfu Bi, Haibao Yan, Shaohan Bian, Cui-Hua Zhang, Changchun Hua.<br />
 "ZISVFM: Zero-Shot Object Instance Segmentation in Indoor Robotic Environments with Vision Foundation Models." IEEE Transactions on Robotics (2025).
 [[paper](https://arxiv.org/abs/2502.03266)]
 [[code](https://github.com/Yinmlmaoliang/zisvfm)]
 [2025.02]
 
-:boom:**RFMedSAM 2:** Bin Xie, Hao Tang, Yan Yan, Gady Agam.<br />
+- **RFMedSAM 2:** Bin Xie, Hao Tang, Yan Yan, Gady Agam.<br />
 "RFMedSAM 2: Automatic Prompt Refinement for Enhanced Volumetric Medical Image Segmentation with SAM 2." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.02741)]
 [2025.02]
 
-:boom:**FLIP:** Manuel Traub, Martin V. Butz.<br />
+- **FLIP:** Manuel Traub, Martin V. Butz.<br />
 "Rethinking Vision Transformer for Object Centric Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.02763)]
 [2025.02]
 
-:boom:**Tell2Reg:** Wen Yan, Qianye Yang, Shiqi Huang, Yipei Wang, Shonit Punwani, Mark Emberton, Vasilis Stavrinides, Yipeng Hu, Dean Barratt.<br />
+- **Tell2Reg:** Wen Yan, Qianye Yang, Shiqi Huang, Yipei Wang, Shonit Punwani, Mark Emberton, Vasilis Stavrinides, Yipeng Hu, Dean Barratt.<br />
 "Tell2Reg: Establishing spatial correspondence between images by the same language prompts." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.03118)]
 [[code](https://github.com/yanwenCi/Tell2Reg.git)]
 [2025.02]
 
-:boom:**Functional-SAM:** Sidak Pal Singh, Hossein Mobahi, Atish Agarwala, Yann Dauphin.<br />
+- **Functional-SAM:** Sidak Pal Singh, Hossein Mobahi, Atish Agarwala, Yann Dauphin.<br />
 "Avoiding spurious sharpness minimization broadens applicability of SAM." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.02407)]
 [2025.02]
 
-:boom:**IMDPrompter:** Quan Zhang, Yuxin Qi, Xi Tang, Jinwei Fang, Xi Lin, Ke Zhang, Chun Yuan.<br />
+- **IMDPrompter:** Quan Zhang, Yuxin Qi, Xi Tang, Jinwei Fang, Xi Lin, Ke Zhang, Chun Yuan.<br />
 "IMDPrompter: Adapting SAM to Image Manipulation Detection by Cross-View Automated Prompt Learning." ICLR (2025).
 [[paper](https://arxiv.org/abs/2502.02454)]
 [2025.02]
 
-:boom:**LBG:** Rohan Chacko, Nicolai Haeni, Eldar Khaliullin, Lin Sun, Douglas Lee.<br />
+- **LBG:** Rohan Chacko, Nicolai Haeni, Eldar Khaliullin, Lin Sun, Douglas Lee.<br />
 "Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation." WACV(2025).
 [[paper](https://arxiv.org/abs/2502.00173)]
 [2025.02]
 
-:boom:**GFDS:** Tongkun Liu, Bing Li, Xiao Jin, Yupeng Shi, Qiuying Li, Xiang Wei.<br />
+- **GFDS:** Tongkun Liu, Bing Li, Xiao Jin, Yupeng Shi, Qiuying Li, Xiang Wei.<br />
 "Exploring Few-Shot Defect Segmentation in General Industrial Scenarios with Metric Learning and Vision Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.01216)]
 [[code](https://github.com/liutongkun/GFDS)]
 [2025.02]
 
-:boom:**SAM-PLE:** Mingyu Yang, Jitong Lu, and Hun-Seok Kim.<br />
+- **SAM-PLE:** Mingyu Yang, Jitong Lu, and Hun-Seok Kim.<br />
 "SAM-guided Pseudo Label Enhancement for Multi-modal 3D Semantic Segmentation." ICRA (2025).
 [[paper](https://arxiv.org/abs/2502.00960)]
 [2025.02]
 
-:boom:**VLP-SAM:** Kosuke Sakurai, Ryotaro Shimizu, Masayuki Goto.<br />
+- **VLP-SAM:** Kosuke Sakurai, Ryotaro Shimizu, Masayuki Goto.<br />
 "Vision and Language Reference Prompt into SAM for Few-shot Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.00719)]
 [[code](https://github.com/kosukesakurai1/VLP-SAM)]
 [2025.02]
 
-:boom:**Self-Prompt-SAM:** Bin Xie, Hao Tang, Dawen Cai, Yan Yan, Gady Agam.<br />
+- **Self-Prompt-SAM:** Bin Xie, Hao Tang, Dawen Cai, Yan Yan, Gady Agam.<br />
 "Self-Prompt SAM: Medical Image Segmentation via Automatic Prompt SAM Adaptation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.00630)]
 [2025.02]
 
-:boom:**PEFT-SAM:** Carolin Teuber, Anwai Archit, Constantin Pape.<br />
+- **PEFT-SAM:** Carolin Teuber, Anwai Archit, Constantin Pape.<br />
 "Parameter Efficient Fine-Tuning of Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.00418)]
 [[code](https://github.com/computational-cell-analytics/peft-sam)]
 [2025.02]
 
-:boom:**PathoSAM:** Titus Griebel, Anwai Archit, Constantin Pape.<br />
+- **PathoSAM:** Titus Griebel, Anwai Archit, Constantin Pape.<br />
 "Segment Anything for Histopathology." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.00408)]
 [[code](https://github.com/computational-cell-analytics/patho-sam)]
 [2025.02]
 
-:boom:**AVSBench-Robust:** Jia Li, Wenjie Zhao, Ziru Huang, Yunhui Guo, Yapeng Tian.<br />
+- **AVSBench-Robust:** Jia Li, Wenjie Zhao, Ziru Huang, Yunhui Guo, Yapeng Tian.<br />
 "Do Audio-Visual Segmentation Models Truly Segment Sounding Objects?." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.00358)]
 [2025.02]
 
-:boom:**FlexiCrackNet:** Xinlong Wan, Xiaoyan Jiang, Guangsheng Luo, Ferdous Sohel, Jenqneng Hwang.<br />
+- **FlexiCrackNet:** Xinlong Wan, Xiaoyan Jiang, Guangsheng Luo, Ferdous Sohel, Jenqneng Hwang.<br />
 "FlexiCrackNet: A Flexible Pipeline for Enhanced Crack Segmentation with General Features Transfered from SAM." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.18855)]
 [2025.01]
