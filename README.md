@@ -230,6 +230,22 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**SAMRefiner:** Yuqi Lin, Hengjia Li, Wenqi Shao, Zheng Yang, Jun Zhao, Xiaofei He, Ping Luo, Kaipeng Zhang.<br />
+"SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement." ICLR (2025).
+[[paper](https://arxiv.org/abs/2502.06756)]
+[[code](https://github.com/linyq2117/SAMRefiner)]
+[2025.02]
+
+:boom:**MTRMB:** You Zhou, Jiangshan Zhao, Deyu Zeng, Zuo Zuo, Weixiang Liu, Zongze Wu.<br />
+"Multimodal Task Representation Memory Bank vs. Catastrophic Forgetting in Anomaly Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.06194)]
+[2025.02]
+
+:boom:**FunduSAM:** Jinchen Yu, Yongwei Nie, Fei Qi, Wenxiong Liao, Hongmin Cai.<br />
+"FunduSAM: A Specialized Deep Learning Model for Enhanced Optic Disc and Cup Segmentation in Fundus Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.06220)]
+[2025.02]
+
 :boom:**GlandSAM:** Zhang, Qixiang and Li, Yi and Xue, Cheng and Wang, Haonan and Li, Xiaomeng.<br />
 "GlandSAM: Injecting Morphology Knowledge Into Segment Anything Model for Label-Free Gland Segmentation." TMI.(2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10707661)]
