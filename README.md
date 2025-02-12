@@ -230,6 +230,12 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**AutoMedSAM:** Peng Huang, Shu Hu, Bo Peng, Jiashu Zhang, Hongtu Zhu, Xi Wu, Xin Wang.<br />
+"Diffusion-empowered AutoPrompt MedSAM." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.06817)]
+[[code](https://github.com/HP-ML/AutoPromptMedSAM.git)]
+[2025.02]
+
 :boom:**SAMRefiner:** Yuqi Lin, Hengjia Li, Wenqi Shao, Zheng Yang, Jun Zhao, Xiaofei He, Ping Luo, Kaipeng Zhang.<br />
 "SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement." ICLR (2025).
 [[paper](https://arxiv.org/abs/2502.06756)]
