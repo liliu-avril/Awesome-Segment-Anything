@@ -230,6 +230,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**SAMCell:** Alexandra D. VandeLoo, Nathan J. Malta, Emilio Aponte, Caitlin van Zyl, Danfei Xu, Craig R. Forest.<br />
+"SAMCell: Generalized Label-Free Biological Cell Segmentation with Segment Anything." ArXiv (2025).
+[[paper](https://www.biorxiv.org/content/biorxiv/early/2025/02/08/2025.02.06.636835.full.pdf)]
+[2025.02]
+
 :boom:**AutoMedSAM:** Peng Huang, Shu Hu, Bo Peng, Jiashu Zhang, Hongtu Zhu, Xi Wu, Xin Wang.<br />
 "Diffusion-empowered AutoPrompt MedSAM." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.06817)]
