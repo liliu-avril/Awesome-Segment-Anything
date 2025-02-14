@@ -230,6 +230,21 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**Save:** Park, Chae Jung and Nguyen, Khanh-Binh.<br />
+"Save: Segment Audio-Visual Easy Way Using The Segment Anything Model." SSRN (2025).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132584)]
+[2025.02]
+
+:boom:**CAB-USRI:** Jinxin Shao, Haosu Zhang & Jianming Miao.<br />
+"Depthanything and SAM for UIE: exploring large model information contributes to underwater image restoration." Machine Vision and Applications (2025).
+[[paper](https://link.springer.com/article/10.1007/s00138-025-01662-3)]
+[2025.02]
+
+:boom:**REMOTE SENSING LETTERS:** Hui Zhang.<br />
+"A SAM-based dual-branch network for remote sensing semantic segmentation." REMOTE SENSING LETTERS (2025).
+[[paper](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2025.2461331)]
+[2025.02]
+
 :boom:**SAMCell:** Alexandra D. VandeLoo, Nathan J. Malta, Emilio Aponte, Caitlin van Zyl, Danfei Xu, Craig R. Forest.<br />
 "SAMCell: Generalized Label-Free Biological Cell Segmentation with Segment Anything." ArXiv (2025).
 [[paper](https://www.biorxiv.org/content/biorxiv/early/2025/02/08/2025.02.06.636835.full.pdf)]
