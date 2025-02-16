@@ -230,6 +230,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:Yufang He and Bo Chen and Mahdi Motagh and Yuyan Zhu and Songdong Shao and Jiaye Li and Bing Zhang and Hermann Kaufmann.<br />
+"International Journal of Applied Earth Observation and Geoinformation." International Journal of Applied Earth Observation and Geoinformation (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1569843225000548)]
+[2025.02]
+
 :boom:**Save:** Park, Chae Jung and Nguyen, Khanh-Binh.<br />
 "Save: Segment Audio-Visual Easy Way Using The Segment Anything Model." SSRN (2025).
 [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132584)]
