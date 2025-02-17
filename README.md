@@ -230,80 +230,90 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
-:boom:**IDCC-SAM:** Fanijo, Samuel, Ali Jannesari, and Julie Dickerson.<br />
+:boom:**MITO:** Laura Dodds, Tara Boroushaki, Fadel Adib.<br />
+"MITO: Enabling Non-Line-of-Sight Perception using Millimeter-waves through Real-World Datasets and Simulation Tools." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.10259)]
+[2025.02]
+
+:boom:**SAM2Refiner:** Yuan Yao, Qiushi Yang, Miaomiao Cui, Liefeng Bo.<br />
+"Towards Fine-grained Interactive Segmentation in Images and Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.09660)]
+[2025.02]
+
+- **IDCC-SAM:** Fanijo, Samuel, Ali Jannesari, and Julie Dickerson.<br />
 "IDCC-SAM: A Zero-Shot Approach for Cell Counting in Immunocytochemistry Dataset Using the Segment Anything Model." Bioengineering (2025).
 [[paper](https://www.mdpi.com/2306-5354/12/2/184)]
 [2025.02]
 
-:boom:**LV-SAM:** Yagang Wu, Tianli Zhao, Shijun Hu, Qin Wu, Yingxu Chen, Xin Huang & Zhoushun Zheng.<br />
+- **LV-SAM:** Yagang Wu, Tianli Zhao, Shijun Hu, Qin Wu, Yingxu Chen, Xin Huang & Zhoushun Zheng.<br />
 "Integrating multi-scale information and diverse prompts in large model SAM-Med2D for accurate left ventricular ejection fraction estimation." Med Biol Eng Comput(2025).
 [[paper](https://link.springer.com/article/10.1007/s11517-025-03310-4)]
 [2025.02]
 
-:boom:**LangRS:** Mohanad Diab and Polychronis Kolokoussis and Maria Antonia Brovelli.<br />
+- **LangRS:** Mohanad Diab and Polychronis Kolokoussis and Maria Antonia Brovelli.<br />
 "Optimizing zero-shot text-based segmentation of remote sensing imagery using SAM and Grounding DINO." Artificial Intelligence in Geosciences (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S2666544125000012)]
 [[code](https://github.com/MohanadDiab/langrs)]
 [2025.02]
 
-:boom:Xia, Sijie, Rufu Qin, Yang Lu, Lianjiang Ma, and Zhenghu Liu.<br />
+- Xia, Sijie, Rufu Qin, Yang Lu, Lianjiang Ma, and Zhenghu Liu.<br />
 "A Monocular Vision-Based Safety Monitoring Framework for Offshore Infrastructures Utilizing Grounded SAM." Journal of Marine Science and Engineering(2025).
 [[paper](https://www.mdpi.com/2077-1312/13/2/340)]
 [2025.02]
 
-:boom:Yufang He and Bo Chen and Mahdi Motagh and Yuyan Zhu and Songdong Shao and Jiaye Li and Bing Zhang and Hermann Kaufmann.<br />
+- Yufang He and Bo Chen and Mahdi Motagh and Yuyan Zhu and Songdong Shao and Jiaye Li and Bing Zhang and Hermann Kaufmann.<br />
 "International Journal of Applied Earth Observation and Geoinformation." International Journal of Applied Earth Observation and Geoinformation (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1569843225000548)]
 [2025.02]
 
-:boom:**Save:** Park, Chae Jung and Nguyen, Khanh-Binh.<br />
+- **Save:** Park, Chae Jung and Nguyen, Khanh-Binh.<br />
 "Save: Segment Audio-Visual Easy Way Using The Segment Anything Model." SSRN (2025).
 [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5132584)]
 [2025.02]
 
-:boom:**CAB-USRI:** Jinxin Shao, Haosu Zhang & Jianming Miao.<br />
+- **CAB-USRI:** Jinxin Shao, Haosu Zhang & Jianming Miao.<br />
 "Depthanything and SAM for UIE: exploring large model information contributes to underwater image restoration." Machine Vision and Applications (2025).
 [[paper](https://link.springer.com/article/10.1007/s00138-025-01662-3)]
 [2025.02]
 
-:boom:**REMOTE SENSING LETTERS:** Hui Zhang.<br />
+- **REMOTE SENSING LETTERS:** Hui Zhang.<br />
 "A SAM-based dual-branch network for remote sensing semantic segmentation." REMOTE SENSING LETTERS (2025).
 [[paper](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2025.2461331)]
 [2025.02]
 
-:boom:**SAMCell:** Alexandra D. VandeLoo, Nathan J. Malta, Emilio Aponte, Caitlin van Zyl, Danfei Xu, Craig R. Forest.<br />
+- **SAMCell:** Alexandra D. VandeLoo, Nathan J. Malta, Emilio Aponte, Caitlin van Zyl, Danfei Xu, Craig R. Forest.<br />
 "SAMCell: Generalized Label-Free Biological Cell Segmentation with Segment Anything." ArXiv (2025).
 [[paper](https://www.biorxiv.org/content/biorxiv/early/2025/02/08/2025.02.06.636835.full.pdf)]
 [2025.02]
 
-:boom:**AutoMedSAM:** Peng Huang, Shu Hu, Bo Peng, Jiashu Zhang, Hongtu Zhu, Xi Wu, Xin Wang.<br />
+- **AutoMedSAM:** Peng Huang, Shu Hu, Bo Peng, Jiashu Zhang, Hongtu Zhu, Xi Wu, Xin Wang.<br />
 "Diffusion-empowered AutoPrompt MedSAM." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.06817)]
 [[code](https://github.com/HP-ML/AutoPromptMedSAM.git)]
 [2025.02]
 
-:boom:**SAMRefiner:** Yuqi Lin, Hengjia Li, Wenqi Shao, Zheng Yang, Jun Zhao, Xiaofei He, Ping Luo, Kaipeng Zhang.<br />
+- **SAMRefiner:** Yuqi Lin, Hengjia Li, Wenqi Shao, Zheng Yang, Jun Zhao, Xiaofei He, Ping Luo, Kaipeng Zhang.<br />
 "SAMRefiner: Taming Segment Anything Model for Universal Mask Refinement." ICLR (2025).
 [[paper](https://arxiv.org/abs/2502.06756)]
 [[code](https://github.com/linyq2117/SAMRefiner)]
 [2025.02]
 
-:boom:**MTRMB:** You Zhou, Jiangshan Zhao, Deyu Zeng, Zuo Zuo, Weixiang Liu, Zongze Wu.<br />
+- **MTRMB:** You Zhou, Jiangshan Zhao, Deyu Zeng, Zuo Zuo, Weixiang Liu, Zongze Wu.<br />
 "Multimodal Task Representation Memory Bank vs. Catastrophic Forgetting in Anomaly Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.06194)]
 [2025.02]
 
-:boom:**FunduSAM:** Jinchen Yu, Yongwei Nie, Fei Qi, Wenxiong Liao, Hongmin Cai.<br />
+- **FunduSAM:** Jinchen Yu, Yongwei Nie, Fei Qi, Wenxiong Liao, Hongmin Cai.<br />
 "FunduSAM: A Specialized Deep Learning Model for Enhanced Optic Disc and Cup Segmentation in Fundus Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.06220)]
 [2025.02]
 
-:boom:**GlandSAM:** Zhang, Qixiang and Li, Yi and Xue, Cheng and Wang, Haonan and Li, Xiaomeng.<br />
+- **GlandSAM:** Zhang, Qixiang and Li, Yi and Xue, Cheng and Wang, Haonan and Li, Xiaomeng.<br />
 "GlandSAM: Injecting Morphology Knowledge Into Segment Anything Model for Label-Free Gland Segmentation." TMI.(2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10707661)]
 [2025.02]
 
-:boom:**LAM:** Wei-Bin Kou, Guangxu Zhu, Rongguang Ye, Shuai Wang, Ming Tang, Yik-Chung Wu.<br />
+- **LAM:** Wei-Bin Kou, Guangxu Zhu, Rongguang Ye, Shuai Wang, Ming Tang, Yik-Chung Wu.<br />
 "Label Anything: An Interpretable, High-Fidelity and Prompt-Free Annotator." ICRA (2025).
 [[paper](https://arxiv.org/abs/2502.02972)]
 [2025.02]
