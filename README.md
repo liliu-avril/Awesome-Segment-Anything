@@ -230,6 +230,17 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**SAM-Assisted-Registration:** Hao Xu, Tengfei Xue, Jianan Fan, Dongnan Liu, Yuqian Chen, Fan Zhang, Carl-Fredrik Westin, Ron Kikinis, Lauren J. O'Donnell, Weidong Cai.<br />
+"Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness." IPMI (2025).
+[[paper](https://arxiv.org/abs/2502.11440)]
+[[code](https://github.com/HaoXu0507/IPMI25-SAM-Assisted-Registration)]
+[2025.02]
+
+:boom:**WRT-SAM:** Yunyi Zhou, Kun Shi, Gang Hao.<br />
+"WRT-SAM: Foundation Model-Driven Segmentation for Generalized Weld Radiographic Testing ." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.11338)]
+[2025.02]
+
 :boom:**MITO:** Laura Dodds, Tara Boroushaki, Fadel Adib.<br />
 "MITO: Enabling Non-Line-of-Sight Perception using Millimeter-waves through Real-World Datasets and Simulation Tools." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.10259)]
