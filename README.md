@@ -33,6 +33,8 @@ ____
 - [Paper List](#paper-list) 
   - [Seminal Papers](#seminal-papers)
   - [Follow-up Papers ](#follow-up-papers)
+    - [2025](#2025)
+    - [2024](#2024)
 - [Open Source Projects](#open-source-projects)
 - [Awesome Repositories for SAM](#awesome-repositories-for-sam)
 
