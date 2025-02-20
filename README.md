@@ -234,17 +234,17 @@ If you find our work useful in your research, please consider citing:
 #### 2025
 :boom:**SpeHeatal:** Yi Shi, Yunkai Wang, Xupeng Tian, Tieyi Zhang, Bing Yao, Hui Wang, Yong Shao, Cencen Wang, Rong Zeng.<br />
 "SpeHeatal: A Cluster-Enhanced Segmentation Method for Sperm Morphology Analysis." AAAI (2025).
-[[paper]([2502.13192] SpeHeatal: A Cluster-Enhanced Segmentation Method for Sperm Morphology Analysis)]
+[[paper](https://arxiv.org/abs/2502.13192)]
 [2025.02]
 
 :boom:**MaizeEar-SAM:** Hossein Zaremehrjerdi, Lisa Coffey, Talukder Jubery, Huyu Liu, Jon Turkus, Kyle Linders, James C. Schnable, Patrick S. Schnable, Baskar Ganapathysubramanian.<br />
 "MaizeEar-SAM: Zero-Shot Maize Ear Phenotyping." ArXiv (2025).
-[[paper]([2502.13399] MaizeEar-SAM: Zero-Shot Maize Ear Phenotyping)]
+[[paper](https://arxiv.org/abs/2502.13399)]
 [2025.02]
 
 :boom:**PRISM:** Kangning Cui, Rongkun Zhu, Manqi Wang, Wei Tang, Gregory D. Larsen, Victor P. Pauca, Sarra Alqahtani, Fan Yang, David Segurado, David Lutz, Jean-Michel Morel, Miles R. Silman.<br />
 "Detection and Geographic Localization of Natural Objects in the Wild: A Case Study on Palms." ArXiv (2025).
-[[paper]([2502.13023] Detection and Geographic Localization of Natural Objects in the Wild: A Case Study on Palms)]
+[[paper](https://arxiv.org/abs/2502.13023)]
 [2025.02]
 
 :boom:**SAM-Assisted-Registration:** Hao Xu, Tengfei Xue, Jianan Fan, Dongnan Liu, Yuqian Chen, Fan Zhang, Carl-Fredrik Westin, Ron Kikinis, Lauren J. O'Donnell, Weidong Cai.<br />
