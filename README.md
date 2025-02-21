@@ -3011,17 +3011,17 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2408.04098)] 
   [2024.08]
 
-- **SAM2-PATH:** Mingya Zhang, Liang Wang, Limei Gu, Zhao Li, Yaohui Wang, Tingshen Ling, Xianping Tao.<br />
-  "SAM2-PATH: A better segment anything model for semantic segmentation in digital pathology." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2408.03651)] 
-  [[code](https://github.com/simzhangbest/SAM2PATH)]
-  [2024.08]
+- **Path-SAM2:** Mingya Zhang, Liang Wang, Zhihao Chen, Yiyuan Ge, Xianping Tao.<br />
+"Path-SAM2: Transfer SAM2 for digital pathology semantic segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2408.03651)]
+[[code](https://github.com/simzhangbest/SAM2PATH)]
+[2024.08]
   
-- **MedSAM:** Jun Ma, Sumin Kim, Feifei Li, Mohammed Baharoon, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
-  "Segment Anything in Medical Images and Videos: Benchmark and Deployment." ArXiv (2024).
-  [[paper](https://arxiv.org/abs/2408.03322)] 
-  [[code](https://github.com/bowang-lab/MedSAM)]
-  [2024.08]
+- **MedSAM:** Jun Ma, Sumin Kim, Feifei Li, Mohammed Baharoon, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
+"Segment Anything in Medical Images and Videos: Benchmark and Deployment." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2408.03322)]
+[[code](https://github.com/bowang-lab/MedSAM)]
+[2024.08]
 
 - **BioSAM 2:** Zhiling Yan, Weixiang Sun, Rong Zhou, Zhengqing Yuan, Kai Zhang, Yiwei Li, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br />
   "Biomedical SAM 2: Segment Anything in Biomedical Images and Videos." ArXiv (2024).
