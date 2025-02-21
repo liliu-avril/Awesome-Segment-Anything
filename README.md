@@ -285,6 +285,17 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2502.09660)]
 [2025.02]
 
+:boom:**SAM-QA:** Emil Mededovic, Valdy Laurentius, Yuli Wu, Marcin Kopaczka, Zhu Chen, Mareike Schulz, René Tolba, Johannes Stegmaier.<br />
+"No Free Lunch in Annotation either: An objective evaluation of foundation models for streamlining annotation in animal tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.03907)]
+[[code](https://github.com/medem23/SAM-QA)]
+[2025.02]
+
+:boom:**CBCT-US:** Feng Li, Yuan Bi, Dianye Huang, Zhongliang Jiang, Nassir Navab.<br />
+"Robotic CBCT Meets Robotic Ultrasound." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.12019)]
+[2025.02]
+
 - **IDCC-SAM:** Fanijo, Samuel, Ali Jannesari, and Julie Dickerson.<br />
 "IDCC-SAM: A Zero-Shot Approach for Cell Counting in Immunocytochemistry Dataset Using the Segment Anything Model." Bioengineering (2025).
 [[paper](https://www.mdpi.com/2306-5354/12/2/184)]
@@ -299,17 +310,6 @@ If you find our work useful in your research, please consider citing:
 "Optimizing zero-shot text-based segmentation of remote sensing imagery using SAM and Grounding DINO." Artificial Intelligence in Geosciences (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S2666544125000012)]
 [[code](https://github.com/MohanadDiab/langrs)]
-[2025.02]
-
-:boom:**SAM-QA:** Emil Mededovic, Valdy Laurentius, Yuli Wu, Marcin Kopaczka, Zhu Chen, Mareike Schulz, René Tolba, Johannes Stegmaier.<br />
-"No Free Lunch in Annotation either: An objective evaluation of foundation models for streamlining annotation in animal tracking." ArXiv (2025).
-[[paper](https://arxiv.org/abs/2502.03907)]
-[[code](https://github.com/medem23/SAM-QA)]
-[2025.02]
-
-:boom:**CBCT-US:** Feng Li, Yuan Bi, Dianye Huang, Zhongliang Jiang, Nassir Navab.<br />
-"Robotic CBCT Meets Robotic Ultrasound." ArXiv (2025).
-[[paper](https://arxiv.org/abs/2502.12019)]
 [2025.02]
 
 - Xia, Sijie, Rufu Qin, Yang Lu, Lianjiang Ma, and Zhenghu Liu.<br />
