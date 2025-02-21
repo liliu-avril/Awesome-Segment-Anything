@@ -289,6 +289,17 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/MohanadDiab/langrs)]
 [2025.02]
 
+:boom:**SAM-QA:** Emil Mededovic, Valdy Laurentius, Yuli Wu, Marcin Kopaczka, Zhu Chen, Mareike Schulz, René Tolba, Johannes Stegmaier.<br />
+"No Free Lunch in Annotation either: An objective evaluation of foundation models for streamlining annotation in animal tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.03907)]
+[[code](https://github.com/medem23/SAM-QA)]
+[2025.02]
+
+:boom:**CBCT-US:** Feng Li, Yuan Bi, Dianye Huang, Zhongliang Jiang, Nassir Navab.<br />
+"Robotic CBCT Meets Robotic Ultrasound." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.12019)]
+[2025.02]
+
 - Xia, Sijie, Rufu Qin, Yang Lu, Lianjiang Ma, and Zhenghu Liu.<br />
 "A Monocular Vision-Based Safety Monitoring Framework for Offshore Infrastructures Utilizing Grounded SAM." Journal of Marine Science and Engineering(2025).
 [[paper](https://www.mdpi.com/2077-1312/13/2/340)]
