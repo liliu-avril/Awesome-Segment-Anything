@@ -232,6 +232,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:Pengchen Liang, Bin Pu, Haishan Huang, Yiwei Li, Hualiang Wang, Weibo Ma, Qing Chang.<br />
+"Vision Foundation Models in Medical Image Analysis: Advances and Challenges." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.14584)]
+[2025.02]
+
 :boom:**SASVi:** Ssharvien Kumar Sivakumar, Yannik Frisch, Amin Ranem, Anirban Mukhopadhyay.<br />
 "SASVi - Segment Any Surgical Video." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.09653)]
