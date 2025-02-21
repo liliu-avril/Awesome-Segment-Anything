@@ -232,6 +232,11 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**SASVi:** Ssharvien Kumar Sivakumar, Yannik Frisch, Amin Ranem, Anirban Mukhopadhyay.<br />
+"SASVi - Segment Any Surgical Video." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.09653)]
+[2025.02]
+
 :boom:**SpeHeatal:** Yi Shi, Yunkai Wang, Xupeng Tian, Tieyi Zhang, Bing Yao, Hui Wang, Yong Shao, Cencen Wang, Rong Zeng.<br />
 "SpeHeatal: A Cluster-Enhanced Segmentation Method for Sperm Morphology Analysis." AAAI (2025).
 [[paper](https://arxiv.org/abs/2502.13192)]
