@@ -448,6 +448,12 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2502.00358)]
 [2025.02]
 
+- **SAM2Act:** Haoquan Fang, Markus Grotz, Wilbert Pumacay, Yi Ru Wang, Dieter Fox, Ranjay Krishna, Jiafei Duan.<br />
+"SAM2Act: Integrating Visual Foundation Model with A MemoryArchitecture for Robotic Manipulation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2501.18564)]
+[[code](https://sam2act.github.io/)]
+[2025.01]
+
 - **FlexiCrackNet:** Xinlong Wan, Xiaoyan Jiang, Guangsheng Luo, Ferdous Sohel, Jenqneng Hwang.<br />
 "FlexiCrackNet: A Flexible Pipeline for Enhanced Crack Segmentation with General Features Transfered from SAM." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.18855)]
@@ -1617,6 +1623,24 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2411.00548)]
 [2024.11]
 
+- **MVideo:** Qiang Zhou, Shaofeng Zhang, Nianzu Yang, Ye Qian, Hao Li.<br />
+"MVideo: Motion Control for Enhanced Complex Action Video Generation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.08328)]
+[[code](https://mvideo-v1.github.io/)]
+[2024.11]
+
+- **SISeg:** Zhi Li, Kai Zhao, Yaqi Wang, Shuai Wang.<br />
+"Adaptive Interactive Segmentation for Multimodal Medical Imaging via Selection Engine." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.19447)]
+[[code](https://github.com/RicoLeehdu/SISeg)]
+[2024.11]
+
+- **SAMa:** Michael Fischer, Iliyan Georgiev, Thibault Groueix, Vladimir G. Kim, Tobias Ritschel, Valentin Deschaintre.<br />
+"SAMa: Material-aware 3D Selection and Segmentation." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2411.19322)]
+[[code](https://mfischer-ucl.github.io/sama)]
+[2024.11]
+
 - **MarineInst:** Zheng, Ziqiang and Chen, Yiwei and Zeng, Huimin and Vu, Tuan-Anh and Hua, Binh-Son and Yeung, Sai-Kit.<br />
 "MarineInst: A Foundation Model for Marine Image Analysis with Instance Visual Description." ECCV (2024).
 [[paper](https://link.springer.com/chapter/10.1007/978-3-031-72627-9_14)]
@@ -2018,6 +2042,21 @@ If you find our work useful in your research, please consider citing:
   "Adapting Segment Anything Model to Melanoma Segmentation in Microscopy Slide Images." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2410.02207)] 
   [2024.10]
+
+- **ALSS-YOLO-Seg:** Ang He, Ximei Wu, Xing Xu, Jing Chen, Xiaobin Guo, Sheng Xu.<br />
+"Iterative Optimization Annotation Pipeline and ALSS-YOLO-Seg for Efficient Banana Plantation Segmentation in UAV Imagery." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2410.07955)]
+[2024.10]
+
+- **RevSAM2:** Yunhao Bai, Boxiang Yun, Zeli Chen, Qinji Yu, Yingda Xia, Yan Wang.<br />
+"RevSAM2: Prompt SAM2 for Medical Image Segmentation via Reverse-Propagation without Fine-tuning." ArXiv (2024).
+[[paper](https://arxiv.org/abs/2409.04298)]
+[2024.09]
+
+- **SuperPose:** Yu Deng, Jiahong Xue, Teng Cao, Yingxing Zhang, Lanxi Wen, Yiyang Chen.<br />
+"SuperPose: Improved 6D Pose Estimation with Robust Tracking and Mask-Free Initialization." ICML (2024).
+[[paper](https://arxiv.org/abs/2409.19986)]
+[2024.09]
 
 - **PixelCLIP:** Heeseong Shin, Chaehyun Kim, Sunghwan Hong, Seokju Cho, Anurag Arnab, Paul Hongsuck Seo, Seungryong Kim.<br />
   "Towards Open-Vocabulary Semantic Segmentation Without Semantic Labels." NeurIPS (2024).
