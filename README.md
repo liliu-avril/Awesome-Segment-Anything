@@ -35,6 +35,7 @@ ____
   - [Follow-up Papers ](#follow-up-papers)
     - [2025](#2025)
     - [2024](#2024)
+    - [2023](#2023)
 - [Open Source Projects](#open-source-projects)
 - [Awesome Repositories for SAM](#awesome-repositories-for-sam)
 
@@ -232,6 +233,12 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**SegAnyPET:** Yichi Zhang, Le Xue, Wenbo Zhang, Lanlan Li, Yuchen Liu, Chen Jiang, Yuan Cheng, Yuan Qi.<br />
+"SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.14351)]
+[[code](https://github.com/YichiZhang98/SegAnyPET)]
+[2025.02]
+
 :boom:Pengchen Liang, Bin Pu, Haishan Huang, Yiwei Li, Hualiang Wang, Weibo Ma, Qing Chang.<br />
 "Vision Foundation Models in Medical Image Analysis: Advances and Challenges." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.14584)]
@@ -6055,6 +6062,8 @@ Spatial Information Research (2024).
   [[paper](https://arxiv.org/abs/2401.01010)] 
   [[code](https://github.com/shirowalker/UCAD)]
   [2024.01]
+
+#### 2023
 
 - **TrackGPT:** Jiawen Zhu, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Huchuan Lu, Yifeng Geng, Xuansong Xie.<br />
   "Tracking with Human-Intent Reasoning." ArXiv (2023).
