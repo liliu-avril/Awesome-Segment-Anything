@@ -481,21 +481,6 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2502.00358)]
 [2025.02]
 
-- **AIEngiMentor:** Winfred Lin, and Qiang Wang.<br />
-"AIEngiMentor: Scalable Deep Learning System for Hands-on Engineering Education." ICSIDP (2024).
-[[paper](https://ieeexplore.ieee.org/abstract/document/10867959)]
-[2024.11]
-
-- Pai, Hrishikesh Harish.<br />
-"Enhancing image segmentation with point prompt augmentation." ArXiv (2024).
-[[paper](https://dr.ntu.edu.sg/handle/10356/181188)]
-[2024.11]
-
-- **SAM^2:** Hwang, Jongyun and Na, Inye and Kim, Jonghun and Park, Hyunjin.<br />
-"Hwang, Jongyun and Na, Inye and Kim, Jonghun and Park, Hyunjin." ICIIBMS (2024).
-[[paper](https://ieeexplore.ieee.org/abstract/document/10792815)]
-[2024.11]
-
 - Diogo Ebert Gatti; Eduardo Lobo Lustosa Cabral.<br />
 "SISTEMAS PARA PERCEPÇÃO DO ESPAÇO LIVRE À FRENTE DE UM VEÍCULO E CÁLCULO DA DISTÂNCIA DE SEUS LIMITES." ArXiv (2025).
 [[paper](https://maua.br/files/gatti-cabral-1734101582.pdf)]
@@ -1271,6 +1256,21 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2412.01136)]
 [[code](https://cvlab-kaist.github.io/SOLA)]
 [2024.12]
+
+- **AIEngiMentor:** Winfred Lin, and Qiang Wang.<br />
+"AIEngiMentor: Scalable Deep Learning System for Hands-on Engineering Education." ICSIDP (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10867959)]
+[2024.11]
+
+- Pai, Hrishikesh Harish.<br />
+"Enhancing image segmentation with point prompt augmentation." ArXiv (2024).
+[[paper](https://dr.ntu.edu.sg/handle/10356/181188)]
+[2024.11]
+
+- **SAM^2:** Hwang, Jongyun and Na, Inye and Kim, Jonghun and Park, Hyunjin.<br />
+"Hwang, Jongyun and Na, Inye and Kim, Jonghun and Park, Hyunjin." ICIIBMS (2024).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10792815)]
+[2024.11]
 
 - **SADG:** Yun-Jin Li, Mariia Gladkova, Yan Xia, Daniel Cremers.<br />
 "SADG: Segment Any Dynamic Gaussian Without Object Trackers." ArXiv (2024).
