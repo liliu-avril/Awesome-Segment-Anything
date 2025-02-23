@@ -233,6 +233,27 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**FieldSeg:** Lucas B. Ferreira and Vitor S. Martins and Uilson R.V. Aires and Nuwan Wijewardane and Xin Zhang and Sathish Samiappan.<br />
+"FieldSeg: A scalable agricultural field extraction framework based on the Segment Anything Model and 10-m Sentinel-2 imagery." Computers and Electronics in Agriculture (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0168169925001929)]
+[2025.02]
+
+:boom:**GDPGO-SAM:** Hua, Shuzhen, Biao Yang, Xinchang Zhang, Ji Qi, Fengxi Su, Jing Sun, and Yongjian Ruan.<br />
+"GDPGO-SAM: An Unsupervised Fine Segmentation of Desert Vegetation Driven by Grounding DINO Prompt Generation and Optimization Segment Anything Model." Remote Sensing (2025).
+[[paper](https://www.mdpi.com/2072-4292/17/4/691)]
+[2025.02]
+
+:boom:Raphael Stock, et al.<br />
+"Segment Anything in Medical Images with nnUNet." ArXiv (2025).
+[[paper](https://books.google.com.hk/books?hl=zh-CN&lr=&id=j75HEQAAQBAJ&oi=fnd&pg=PA167&ots=OTPhRogBsG&sig=sxq3kAFSJ-PTJT2QSL8rUrEn3E8&redir_esc=y#v=onepage&q&f=false)]
+[2025.02]
+
+:boom:**MedfcientSAM:** Bao-Hiep Le, et al.<br />
+"MedfcientSAM: A Robust Medical Segmentation Model with Optimized Inference Pipeline for Limited Clinical Settings." ArXiv (2025).
+[[paper](https://books.google.com.hk/books?hl=zh-CN&lr=&id=j75HEQAAQBAJ&oi=fnd&pg=PA1&ots=OTPhRogBsG&sig=tAtQslzglGF3YRcBZY0kXGNUjIU&redir_esc=y#v=onepage&q&f=false)]
+[[code](https://github.com/hieplpvip/medficientsam)]
+[2025.02]
+
 :boom:**SegAnyPET:** Yichi Zhang, Le Xue, Wenbo Zhang, Lanlan Li, Yuchen Liu, Chen Jiang, Yuan Cheng, Yuan Qi.<br />
 "SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.14351)]
