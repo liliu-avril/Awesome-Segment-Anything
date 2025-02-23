@@ -481,6 +481,42 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2502.00358)]
 [2025.02]
 
+- Diogo Ebert Gatti; Eduardo Lobo Lustosa Cabral.<br />
+"SISTEMAS PARA PERCEPÇÃO DO ESPAÇO LIVRE À FRENTE DE UM VEÍCULO E CÁLCULO DA DISTÂNCIA DE SEUS LIMITES." ArXiv (2025).
+[[paper](https://maua.br/files/gatti-cabral-1734101582.pdf)]
+[2025.01]
+
+- **OHIF-SAM2:** Jaeyoung Cho, Aditya Rastogi, Jingyu Liu, et al.<br />
+"OHIF-SAM2: Accelerating Radiology Workflows with Segment Anything Model 2." ArXiv (2025).
+[[paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.173387978.85520380)]
+[[code](https://github.com/CCI-Bonn/OHIF-SAM2)]
+[2025.01]
+
+- Joseph Lundy.<br />
+"Foosball Robot Object Detection and Angle Estimation." ArXiv (2025).
+[[paper](https://www.cs.toronto.edu/~lindell/teaching/2529/past_projects/2024/report/joseph-lundy.pdf)]
+[2025.01]
+
+- Niu, Ziang; Huang, Ting; Xu, Chengjia; Sun, Xinyue; Taha, Mohamed Farag; He, Yong; Qiu, Zhengjun.<br />
+"A Novel Approach to Optimize Key Limitations of Azure Kinect DK for Efficient and Precise Leaf Area Measurement." ArXiv (2025).
+[[paper](https://openurl.ebsco.com/EPDB%3Agcd%3A11%3A22953339/detailv2?sid=ebsco%3Aplink%3Ascholar&id=ebsco%3Agcd%3A182476115&crl=c&link_origin=scholar.google.cz)]
+[2025.01]
+
+- J Valero Casas-Aljama.<br />
+"AI-powered 2D animation editor." ArXiv (2025).
+[[paper](https://upcommons.upc.edu/handle/2117/423234)]
+[2025.01]
+
+- Tavakoli, Neda et al.<br />
+"Automated quantification of left ventricular scar volume in cardiac MRI using large vision models." Journal of Cardiovascular Magnetic Resonance (2025).
+[[paper](https://www.journalofcmr.com/article/S1097-6647(24)01304-8/fulltext)]
+[2025.01]
+
+- Mehrnia, Mehri et al.<br />
+"Evaluating foundational 'segment anything' (Med-SAM1, Med-SAM2) deep learning models for left atrial segmentation in 3d LGE CMR." Journal of Cardiovascular Magnetic Resonance (2025).
+[[paper](https://www.journalofcmr.com/article/S1097-6647(24)01544-8/fulltext)]
+[2025.01]
+
 - **SAM2Act:** Haoquan Fang, Markus Grotz, Wilbert Pumacay, Yi Ru Wang, Dieter Fox, Ranjay Krishna, Jiafei Duan.<br />
 "SAM2Act: Integrating Visual Foundation Model with A MemoryArchitecture for Robotic Manipulation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2501.18564)]
