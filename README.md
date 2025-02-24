@@ -233,6 +233,22 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**UrbanSAM:** Chenyu Li, Danfeng Hong, Bing Zhang, Yuxuan Li, Gustau Camps-Valls, Xiao Xiang Zhu, Jocelyn Chanussot.<br />
+"UrbanSAM: Learning Invariance-Inspired Adapters for Segment Anything Models in Urban Construction." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.15199)]
+[[code](https://github.com/danfenghong)]
+[2025.02]
+
+:boom:Ufaq Khan, Umair Nawaz, Adnan Qayyum, Shazad Ashraf, Muhammad Bilal, Junaid Qadir.<br />
+"Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.14886)]
+[2025.02]
+
+:boom:**YOLO-SAM:** Tianyou Jiang, Mingshun Shao, Tianyi Zhang, Xiaoyu Liu, Qun Yu.<br />
+"Soybean pod and seed counting in both outdoor fields and indoor laboratories using unions of deep neural networks." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.15286)]
+[2025.02]
+
 :boom:**SIYO:** Mayankeyshwar, Mridul and Kumar, Lookinder and Wagh, Mamata P. and Behuria, Swatishree and Yadav, Dev.<br />
 "Brain Tumor Detection and Segmentation using SAM integrated YOLOv9 Scheme." ASPCC (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10881978)]
@@ -259,65 +275,65 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/hieplpvip/medficientsam)]
 [2025.02]
 
-:boom:**SegAnyPET:** Yichi Zhang, Le Xue, Wenbo Zhang, Lanlan Li, Yuchen Liu, Chen Jiang, Yuan Cheng, Yuan Qi.<br />
+- **SegAnyPET:** Yichi Zhang, Le Xue, Wenbo Zhang, Lanlan Li, Yuchen Liu, Chen Jiang, Yuan Cheng, Yuan Qi.<br />
 "SegAnyPET: Universal Promptable Segmentation from Positron Emission Tomography Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.14351)]
 [[code](https://github.com/YichiZhang98/SegAnyPET)]
 [2025.02]
 
-:boom:Pengchen Liang, Bin Pu, Haishan Huang, Yiwei Li, Hualiang Wang, Weibo Ma, Qing Chang.<br />
+- Pengchen Liang, Bin Pu, Haishan Huang, Yiwei Li, Hualiang Wang, Weibo Ma, Qing Chang.<br />
 "Vision Foundation Models in Medical Image Analysis: Advances and Challenges." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.14584)]
 [2025.02]
 
-:boom:**SASVi:** Ssharvien Kumar Sivakumar, Yannik Frisch, Amin Ranem, Anirban Mukhopadhyay.<br />
+- **SASVi:** Ssharvien Kumar Sivakumar, Yannik Frisch, Amin Ranem, Anirban Mukhopadhyay.<br />
 "SASVi - Segment Any Surgical Video." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.09653)]
 [2025.02]
 
-:boom:**SpeHeatal:** Yi Shi, Yunkai Wang, Xupeng Tian, Tieyi Zhang, Bing Yao, Hui Wang, Yong Shao, Cencen Wang, Rong Zeng.<br />
+- **SpeHeatal:** Yi Shi, Yunkai Wang, Xupeng Tian, Tieyi Zhang, Bing Yao, Hui Wang, Yong Shao, Cencen Wang, Rong Zeng.<br />
 "SpeHeatal: A Cluster-Enhanced Segmentation Method for Sperm Morphology Analysis." AAAI (2025).
 [[paper](https://arxiv.org/abs/2502.13192)]
 [2025.02]
 
-:boom:**MaizeEar-SAM:** Hossein Zaremehrjerdi, Lisa Coffey, Talukder Jubery, Huyu Liu, Jon Turkus, Kyle Linders, James C. Schnable, Patrick S. Schnable, Baskar Ganapathysubramanian.<br />
+- **MaizeEar-SAM:** Hossein Zaremehrjerdi, Lisa Coffey, Talukder Jubery, Huyu Liu, Jon Turkus, Kyle Linders, James C. Schnable, Patrick S. Schnable, Baskar Ganapathysubramanian.<br />
 "MaizeEar-SAM: Zero-Shot Maize Ear Phenotyping." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.13399)]
 [2025.02]
 
-:boom:**PRISM:** Kangning Cui, Rongkun Zhu, Manqi Wang, Wei Tang, Gregory D. Larsen, Victor P. Pauca, Sarra Alqahtani, Fan Yang, David Segurado, David Lutz, Jean-Michel Morel, Miles R. Silman.<br />
+- **PRISM:** Kangning Cui, Rongkun Zhu, Manqi Wang, Wei Tang, Gregory D. Larsen, Victor P. Pauca, Sarra Alqahtani, Fan Yang, David Segurado, David Lutz, Jean-Michel Morel, Miles R. Silman.<br />
 "Detection and Geographic Localization of Natural Objects in the Wild: A Case Study on Palms." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.13023)]
 [2025.02]
 
-:boom:**SAM-Assisted-Registration:** Hao Xu, Tengfei Xue, Jianan Fan, Dongnan Liu, Yuqian Chen, Fan Zhang, Carl-Fredrik Westin, Ron Kikinis, Lauren J. O'Donnell, Weidong Cai.<br />
+- **SAM-Assisted-Registration:** Hao Xu, Tengfei Xue, Jianan Fan, Dongnan Liu, Yuqian Chen, Fan Zhang, Carl-Fredrik Westin, Ron Kikinis, Lauren J. O'Donnell, Weidong Cai.<br />
 "Medical Image Registration Meets Vision Foundation Model: Prototype Learning and Contour Awareness." IPMI (2025).
 [[paper](https://arxiv.org/abs/2502.11440)]
 [[code](https://github.com/HaoXu0507/IPMI25-SAM-Assisted-Registration)]
 [2025.02]
 
-:boom:**WRT-SAM:** Yunyi Zhou, Kun Shi, Gang Hao.<br />
+- **WRT-SAM:** Yunyi Zhou, Kun Shi, Gang Hao.<br />
 "WRT-SAM: Foundation Model-Driven Segmentation for Generalized Weld Radiographic Testing ." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.11338)]
 [2025.02]
 
-:boom:**MITO:** Laura Dodds, Tara Boroushaki, Fadel Adib.<br />
+- **MITO:** Laura Dodds, Tara Boroushaki, Fadel Adib.<br />
 "MITO: Enabling Non-Line-of-Sight Perception using Millimeter-waves through Real-World Datasets and Simulation Tools." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.10259)]
 [2025.02]
 
-:boom:**SAM2Refiner:** Yuan Yao, Qiushi Yang, Miaomiao Cui, Liefeng Bo.<br />
+- **SAM2Refiner:** Yuan Yao, Qiushi Yang, Miaomiao Cui, Liefeng Bo.<br />
 "Towards Fine-grained Interactive Segmentation in Images and Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.09660)]
 [2025.02]
 
-:boom:**SAM-QA:** Emil Mededovic, Valdy Laurentius, Yuli Wu, Marcin Kopaczka, Zhu Chen, Mareike Schulz, René Tolba, Johannes Stegmaier.<br />
+- **SAM-QA:** Emil Mededovic, Valdy Laurentius, Yuli Wu, Marcin Kopaczka, Zhu Chen, Mareike Schulz, René Tolba, Johannes Stegmaier.<br />
 "No Free Lunch in Annotation either: An objective evaluation of foundation models for streamlining annotation in animal tracking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.03907)]
 [[code](https://github.com/medem23/SAM-QA)]
 [2025.02]
 
-:boom:**CBCT-US:** Feng Li, Yuan Bi, Dianye Huang, Zhongliang Jiang, Nassir Navab.<br />
+- **CBCT-US:** Feng Li, Yuan Bi, Dianye Huang, Zhongliang Jiang, Nassir Navab.<br />
 "Robotic CBCT Meets Robotic Ultrasound." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.12019)]
 [2025.02]
