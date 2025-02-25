@@ -233,6 +233,28 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**DICEPTION:** Canyu Zhao, Mingyu Liu, Huanyi Zheng, Muzhi Zhu, Zhiyue Zhao, Hao Chen, Tong He, Chunhua Shen.<br />
+"DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.17157)]
+[[code](https://huggingface.co/spaces/Canyu/Diception-Demo)]
+[[project](https://aim-uofa.github.io/Diception/)]
+[2025.02]
+
+:boom:**AV2T-SAM:** Kyungbok Lee, You Zhang, Zhiyao Duan.<br />
+"AUDIO VISUAL SEGMENTATION THROUGH TEXT EMBEDDINGS." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.16359)]
+[2025.02]
+
+:boom:**LVM-MSC:** Feibo Jiang, Siwei Tu, Li Dong, Kezhi Wang, Kun Yang, Ruiqi Liu, Cunhua Pan, Jiangzhou Wang.<br />
+"Lightweight Vision Model-based Multi-user Semantic Communication Systems." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.16424)]
+[2025.02]
+
+:boom:**USegMix:** Jiamu Wang, Jin Tae Kwak.<br />
+"USegMix: Unsupervised Segment Mix for Efficient Data Augmentation in Pathology Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.16160)]
+[2025.02]
+
 :boom:**SESSRS:** Qiao, Yang and Zhong, Bo and Du, Bailin and Cai, He and Jiang, Jinxiong and Liu, Qinhuo and Yang, Aixia and Wu, Junjun and Wang, Xiaoya.<br />
 "SAM Enhanced Semantic Segmentation for Remote Sensing Imagery Without Additional Training." TGRS (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10857947)]
