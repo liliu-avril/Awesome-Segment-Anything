@@ -233,6 +233,12 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**SESSRS:** Qiao, Yang and Zhong, Bo and Du, Bailin and Cai, He and Jiang, Jinxiong and Liu, Qinhuo and Yang, Aixia and Wu, Junjun and Wang, Xiaoya.<br />
+"SAM Enhanced Semantic Segmentation for Remote Sensing Imagery Without Additional Training." TGRS (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10857947)]
+[[code](https://github.com/qycools/SESSRS)]
+[2025.02]
+
 :boom:**UrbanSAM:** Chenyu Li, Danfeng Hong, Bing Zhang, Yuxuan Li, Gustau Camps-Valls, Xiao Xiang Zhu, Jocelyn Chanussot.<br />
 "UrbanSAM: Learning Invariance-Inspired Adapters for Segment Anything Models in Urban Construction." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.15199)]
