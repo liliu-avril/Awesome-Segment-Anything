@@ -233,6 +233,12 @@ If you find our work useful in your research, please consider citing:
 
 ### Follow-up Papers
 #### 2025
+:boom:**VesselSAM:** Adnan Iltaf, Rayan Merghani Ahmed, Bin Li, Shoujun Zhou.<br />
+"VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with LoRA and Atrous Attention." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.18185)]
+[[code](https://github.com/Adnan-CAS/AtrousLora)]
+[2025.02]
+
 :boom:**DICEPTION:** Canyu Zhao, Mingyu Liu, Huanyi Zheng, Muzhi Zhu, Zhiyue Zhao, Hao Chen, Tong He, Chunhua Shen.<br />
 "DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.17157)]
