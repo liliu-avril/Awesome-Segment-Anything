@@ -867,7 +867,9 @@ If you find our work useful in your research, please consider citing:
 
 
 #### 2024
-
+<details>
+  <summary>2024 Paper List</summary>
+	
 - **GPRN:** Shi-Feng Peng, Guolei Sun, Yong Li, Hongsong Wang, Guo-Sen Xie.<br />
 "SAM-Aware Graph Prompt Reasoning Network for Cross-Domain Few-Shot Segmentation." AAAI (2025).
 [[paper](https://arxiv.org/abs/2501.00303)]
@@ -6195,9 +6197,13 @@ Spatial Information Research (2024).
   [[paper](https://arxiv.org/abs/2401.01010)] 
   [[code](https://github.com/shirowalker/UCAD)]
   [2024.01]
+</details>
+
 
 #### 2023
-
+<details>
+<summary>2023 Paper List</summary>
+	
 - **TrackGPT:** Jiawen Zhu, Zhi-Qi Cheng, Jun-Yan He, Chenyang Li, Bin Luo, Huchuan Lu, Yifeng Geng, Xuansong Xie.<br />
   "Tracking with Human-Intent Reasoning." ArXiv (2023).
   [[paper](https://arxiv.org/abs/2312.17448)] 
@@ -9287,7 +9293,7 @@ Spatial Information Research (2024).
   [[paper]( https://arxiv.org/abs/2304.04709)] 
   [[code]( https://github.com/luckybird1994/SAMCOD)]
   [2023.04]
-
+</details>
 
 ## Open Source Projects
 | No. | Project | Title | Project page | Code base | Affiliation | Description |
