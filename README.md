@@ -232,6 +232,7 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
+#### The latest papers within a week are marked with a :boom:.
 #### 2025
 :boom:**CLIP+Grad-CAM+SAM:** Muhammad A. Muttaqien, Tomohiro Motoda, Ryo Hanai, Domae Yukiyasu.<br />
 "Attention-Guided Integration of CLIP and SAM for Precise Object Masking in Robotic Manipulation." 2025 IEEE/SICE International Symposium on System Integration (2025).
