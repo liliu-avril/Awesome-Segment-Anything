@@ -234,6 +234,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**LORENZA:** Yehonathan Refael, Iftach Arbel, Ofir Lindenbaum, Tom Tirer.<br />
+"LORENZA: Enhancing Generalization in Low-Rank Gradient LLM Training and Fine-Tuning via Efficient Zeroth-Order Adaptive SAM Optimization." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.19571)]
+[2025.02]
+
+:boom:**HumanCLIP:** Keito Suzuki, Bang Du, Girish Krishnan, Kunyao Chen, Runfa Blark Li, Truong Nguyen.<br />
+"Open-Vocabulary Semantic Part Segmentation of 3D Human." 3DV (2025).
+[[paper](https://arxiv.org/abs/2502.19782)]
+[2025.02]
+
 :boom:**CLIP+Grad-CAM+SAM:** Muhammad A. Muttaqien, Tomohiro Motoda, Ryo Hanai, Domae Yukiyasu.<br />
 "Attention-Guided Integration of CLIP and SAM for Precise Object Masking in Robotic Manipulation." 2025 IEEE/SICE International Symposium on System Integration (2025).
 [[paper](https://arxiv.org/abs/2502.18842)]
