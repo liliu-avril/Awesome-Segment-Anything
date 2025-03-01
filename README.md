@@ -234,6 +234,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**BudSAM:** Zhou, Chenxi and Wan, Tianjiao and Xu, Kele and Qiao, Peng and Dou, Yong.<br />
+"Segment Anything for Visual Bird Sound Denoising." IEEE SPL (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10902138)]
+[[code](https://github.com/colaudiolab/BudSAM)]
+[2025.02]
+
 :boom:**LORENZA:** Yehonathan Refael, Iftach Arbel, Ofir Lindenbaum, Tom Tirer.<br />
 "LORENZA: Enhancing Generalization in Low-Rank Gradient LLM Training and Fine-Tuning via Efficient Zeroth-Order Adaptive SAM Optimization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.19571)]
