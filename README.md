@@ -235,98 +235,113 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
-:boom:**BudSAM:** Zhou, Chenxi and Wan, Tianjiao and Xu, Kele and Qiao, Peng and Dou, Yong.<br />
+:boom:**SemiSAM+:** Yichi Zhang, Bohao Lv, Le Xue, Wenbo Zhang, Yuchen Liu, Yu Fu, Yuan Cheng, Yuan Qi.<br />
+"SemiSAM+: Rethinking Semi-Supervised Medical Image Segmentation in the Era of Foundation Models." MIA (2025).
+[[paper](https://arxiv.org/abs/2502.20749)]
+[2025.02]
+
+:boom:Silius M. Vandeskog, Magne Aldrin, Daniel Howell, Edvin Fuglebakk.<br />
+"Adding smoothing splines to the SAM model improves stock assessment." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.20788)]
+[2025.02]
+
+:boom:Utku Ozbulak, Seyed Amir Mousavi, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Wesley De Neve, Joris Vankerschaver.<br />
+"Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2502.20934)]
+[2025.02]
+
+- **BudSAM:** Zhou, Chenxi and Wan, Tianjiao and Xu, Kele and Qiao, Peng and Dou, Yong.<br />
 "Segment Anything for Visual Bird Sound Denoising." IEEE SPL (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10902138)]
 [[code](https://github.com/colaudiolab/BudSAM)]
 [2025.02]
 
-:boom:**LORENZA:** Yehonathan Refael, Iftach Arbel, Ofir Lindenbaum, Tom Tirer.<br />
+- **LORENZA:** Yehonathan Refael, Iftach Arbel, Ofir Lindenbaum, Tom Tirer.<br />
 "LORENZA: Enhancing Generalization in Low-Rank Gradient LLM Training and Fine-Tuning via Efficient Zeroth-Order Adaptive SAM Optimization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.19571)]
 [2025.02]
 
-:boom:**HumanCLIP:** Keito Suzuki, Bang Du, Girish Krishnan, Kunyao Chen, Runfa Blark Li, Truong Nguyen.<br />
+- **HumanCLIP:** Keito Suzuki, Bang Du, Girish Krishnan, Kunyao Chen, Runfa Blark Li, Truong Nguyen.<br />
 "Open-Vocabulary Semantic Part Segmentation of 3D Human." 3DV (2025).
 [[paper](https://arxiv.org/abs/2502.19782)]
 [2025.02]
 
-:boom:**CLIP+Grad-CAM+SAM:** Muhammad A. Muttaqien, Tomohiro Motoda, Ryo Hanai, Domae Yukiyasu.<br />
+- **CLIP+Grad-CAM+SAM:** Muhammad A. Muttaqien, Tomohiro Motoda, Ryo Hanai, Domae Yukiyasu.<br />
 "Attention-Guided Integration of CLIP and SAM for Precise Object Masking in Robotic Manipulation." 2025 IEEE/SICE International Symposium on System Integration (2025).
 [[paper](https://arxiv.org/abs/2502.18842)]
 [2025.02]
 
-:boom:**VesselSAM:** Adnan Iltaf, Rayan Merghani Ahmed, Bin Li, Shoujun Zhou.<br />
+- **VesselSAM:** Adnan Iltaf, Rayan Merghani Ahmed, Bin Li, Shoujun Zhou.<br />
 "VesselSAM: Leveraging SAM for Aortic Vessel Segmentation with LoRA and Atrous Attention." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.18185)]
 [[code](https://github.com/Adnan-CAS/AtrousLora)]
 [2025.02]
 
-:boom:**DICEPTION:** Canyu Zhao, Mingyu Liu, Huanyi Zheng, Muzhi Zhu, Zhiyue Zhao, Hao Chen, Tong He, Chunhua Shen.<br />
+- **DICEPTION:** Canyu Zhao, Mingyu Liu, Huanyi Zheng, Muzhi Zhu, Zhiyue Zhao, Hao Chen, Tong He, Chunhua Shen.<br />
 "DICEPTION: A Generalist Diffusion Model for Visual Perceptual Tasks." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.17157)]
 [[code](https://huggingface.co/spaces/Canyu/Diception-Demo)]
 [[project](https://aim-uofa.github.io/Diception/)]
 [2025.02]
 
-:boom:**AV2T-SAM:** Kyungbok Lee, You Zhang, Zhiyao Duan.<br />
+- **AV2T-SAM:** Kyungbok Lee, You Zhang, Zhiyao Duan.<br />
 "AUDIO VISUAL SEGMENTATION THROUGH TEXT EMBEDDINGS." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.16359)]
 [2025.02]
 
-:boom:**LVM-MSC:** Feibo Jiang, Siwei Tu, Li Dong, Kezhi Wang, Kun Yang, Ruiqi Liu, Cunhua Pan, Jiangzhou Wang.<br />
+- **LVM-MSC:** Feibo Jiang, Siwei Tu, Li Dong, Kezhi Wang, Kun Yang, Ruiqi Liu, Cunhua Pan, Jiangzhou Wang.<br />
 "Lightweight Vision Model-based Multi-user Semantic Communication Systems." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.16424)]
 [2025.02]
 
-:boom:**USegMix:** Jiamu Wang, Jin Tae Kwak.<br />
+- **USegMix:** Jiamu Wang, Jin Tae Kwak.<br />
 "USegMix: Unsupervised Segment Mix for Efficient Data Augmentation in Pathology Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.16160)]
 [2025.02]
 
-:boom:**SESSRS:** Qiao, Yang and Zhong, Bo and Du, Bailin and Cai, He and Jiang, Jinxiong and Liu, Qinhuo and Yang, Aixia and Wu, Junjun and Wang, Xiaoya.<br />
+- **SESSRS:** Qiao, Yang and Zhong, Bo and Du, Bailin and Cai, He and Jiang, Jinxiong and Liu, Qinhuo and Yang, Aixia and Wu, Junjun and Wang, Xiaoya.<br />
 "SAM Enhanced Semantic Segmentation for Remote Sensing Imagery Without Additional Training." TGRS (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10857947)]
 [[code](https://github.com/qycools/SESSRS)]
 [2025.02]
 
-:boom:**UrbanSAM:** Chenyu Li, Danfeng Hong, Bing Zhang, Yuxuan Li, Gustau Camps-Valls, Xiao Xiang Zhu, Jocelyn Chanussot.<br />
+- **UrbanSAM:** Chenyu Li, Danfeng Hong, Bing Zhang, Yuxuan Li, Gustau Camps-Valls, Xiao Xiang Zhu, Jocelyn Chanussot.<br />
 "UrbanSAM: Learning Invariance-Inspired Adapters for Segment Anything Models in Urban Construction." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.15199)]
 [[code](https://github.com/danfenghong)]
 [2025.02]
 
-:boom:Ufaq Khan, Umair Nawaz, Adnan Qayyum, Shazad Ashraf, Muhammad Bilal, Junaid Qadir.<br />
+- Ufaq Khan, Umair Nawaz, Adnan Qayyum, Shazad Ashraf, Muhammad Bilal, Junaid Qadir.<br />
 "Surgical Scene Understanding in the Era of Foundation AI Models: A Comprehensive Review." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.14886)]
 [2025.02]
 
-:boom:**YOLO-SAM:** Tianyou Jiang, Mingshun Shao, Tianyi Zhang, Xiaoyu Liu, Qun Yu.<br />
+- **YOLO-SAM:** Tianyou Jiang, Mingshun Shao, Tianyi Zhang, Xiaoyu Liu, Qun Yu.<br />
 "Soybean pod and seed counting in both outdoor fields and indoor laboratories using unions of deep neural networks." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.15286)]
 [2025.02]
 
-:boom:**SIYO:** Mayankeyshwar, Mridul and Kumar, Lookinder and Wagh, Mamata P. and Behuria, Swatishree and Yadav, Dev.<br />
+- **SIYO:** Mayankeyshwar, Mridul and Kumar, Lookinder and Wagh, Mamata P. and Behuria, Swatishree and Yadav, Dev.<br />
 "Brain Tumor Detection and Segmentation using SAM integrated YOLOv9 Scheme." ASPCC (2024).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10881978)]
 [2025.02]
 
-:boom:**FieldSeg:** Lucas B. Ferreira and Vitor S. Martins and Uilson R.V. Aires and Nuwan Wijewardane and Xin Zhang and Sathish Samiappan.<br />
+- **FieldSeg:** Lucas B. Ferreira and Vitor S. Martins and Uilson R.V. Aires and Nuwan Wijewardane and Xin Zhang and Sathish Samiappan.<br />
 "FieldSeg: A scalable agricultural field extraction framework based on the Segment Anything Model and 10-m Sentinel-2 imagery." Computers and Electronics in Agriculture (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925001929)]
 [2025.02]
 
-:boom:**GDPGO-SAM:** Hua, Shuzhen, Biao Yang, Xinchang Zhang, Ji Qi, Fengxi Su, Jing Sun, and Yongjian Ruan.<br />
+- **GDPGO-SAM:** Hua, Shuzhen, Biao Yang, Xinchang Zhang, Ji Qi, Fengxi Su, Jing Sun, and Yongjian Ruan.<br />
 "GDPGO-SAM: An Unsupervised Fine Segmentation of Desert Vegetation Driven by Grounding DINO Prompt Generation and Optimization Segment Anything Model." Remote Sensing (2025).
 [[paper](https://www.mdpi.com/2072-4292/17/4/691)]
 [2025.02]
 
-:boom:Raphael Stock, et al.<br />
+- Raphael Stock, et al.<br />
 "Segment Anything in Medical Images with nnUNet." ArXiv (2025).
 [[paper](https://books.google.com.hk/books?hl=zh-CN&lr=&id=j75HEQAAQBAJ&oi=fnd&pg=PA167&ots=OTPhRogBsG&sig=sxq3kAFSJ-PTJT2QSL8rUrEn3E8&redir_esc=y#v=onepage&q&f=false)]
 [2025.02]
 
-:boom:**MedfcientSAM:** Bao-Hiep Le, et al.<br />
+- **MedfcientSAM:** Bao-Hiep Le, et al.<br />
 "MedfcientSAM: A Robust Medical Segmentation Model with Optimized Inference Pipeline for Limited Clinical Settings." ArXiv (2025).
 [[paper](https://books.google.com.hk/books?hl=zh-CN&lr=&id=j75HEQAAQBAJ&oi=fnd&pg=PA1&ots=OTPhRogBsG&sig=tAtQslzglGF3YRcBZY0kXGNUjIU&redir_esc=y#v=onepage&q&f=false)]
 [[code](https://github.com/hieplpvip/medficientsam)]
