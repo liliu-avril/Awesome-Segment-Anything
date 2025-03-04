@@ -235,6 +235,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:Clayton Bromley, Alexander Moore, Amar Saini, Doug Poland, Carmen Carrano.<br />
+"An Analysis of Segment Anything 2." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.00042)]
+[2025.03]
+
+:boom:**SAGE:** Guanyao Wu, Haoyu Liu, Hongming Fu, Yichuan Peng, Jinyuan Liu, Xin Fan, Risheng Liu.<br />
+"Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.01210)]
+[2025.03]
+
+:boom:**SparseMamba-PCL:** Luyi Qiu, Tristan Till, Xiaobao Guo, Adams Wai-Kin Kong.<br />
+"SparseMamba-PCL: Scribble-Supervised Medical Image Segmentation via SAM-Guided Progressive Collaborative Learning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.01633)]
+[[code](http://sparsemamba-pcl.git/)]
+[2025.03]
+
 :boom:**SemiSAM+:** Yichi Zhang, Bohao Lv, Le Xue, Wenbo Zhang, Yuchen Liu, Yu Fu, Yuan Cheng, Yuan Qi.<br />
 "SemiSAM+: Rethinking Semi-Supervised Medical Image Segmentation in the Era of Foundation Models." MIA (2025).
 [[paper](https://arxiv.org/abs/2502.20749)]
