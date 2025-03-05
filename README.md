@@ -235,6 +235,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**SPD-VFM:** Pengchen Liang, Leijun Shi, Huiping Yao, Bin Pu, Jianguo Chen, Lei Zhao, Haishan Huang, Zhuangzhuang Chen, Zhaozhao Xu, Lite Xu, Qing Chang, Yiwei Li.<br />
+"Semantic Prior Distillation with Vision Foundation Model for Enhanced Rapid Bone Scintigraphy Image Restoration." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.02321)]
+[2025.03]
+
+:boom:**SHIFNet :** Jiayi Zhao, Fei Teng, Kai Luo, Guoqiang Zhao, Zhiyong Li, Xu Zheng, Kailun Yang.<br />
+"Unveiling the Potential of Segment Anything Model 2 for RGB-Thermal Semantic Segmentation with Language Guidance." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.02581)]
+[[code](https://github.com/iAsakiT3T/SHIFNet)]
+[2025.03]
+
+:boom:**ReID-SAM:** Kunjun Li, Cheng-Yen Yang, Hsiang-Wei Huang, Jenq-Neng Hwang.<br />
+"Technical Report for ReID-SAM on SkiTB Visual Tracking Challenge 2025." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.01907)]
+[2025.03]
+
 :boom:Clayton Bromley, Alexander Moore, Amar Saini, Doug Poland, Carmen Carrano.<br />
 "An Analysis of Segment Anything 2." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.00042)]
