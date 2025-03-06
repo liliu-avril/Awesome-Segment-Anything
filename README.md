@@ -235,6 +235,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**AHCPTQ:** Wenlun Zhang, Shimpei Ando, Kentaro Yoshioka.<br />
+"AHCPTQ: Accurate and Hardware-Compatible Post-Training Quantization for Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.03088)]
+[2025.03]
+
 :boom:**SPD-VFM:** Pengchen Liang, Leijun Shi, Huiping Yao, Bin Pu, Jianguo Chen, Lei Zhao, Haishan Huang, Zhuangzhuang Chen, Zhaozhao Xu, Lite Xu, Qing Chang, Yiwei Li.<br />
 "Semantic Prior Distillation with Vision Foundation Model for Enhanced Rapid Bone Scintigraphy Image Restoration." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.02321)]
