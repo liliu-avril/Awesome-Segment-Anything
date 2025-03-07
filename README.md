@@ -235,6 +235,34 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:Aishik Konwer, Zhijian Yang, Erhan Bas, Cao Xiao, Prateek Prasanna, Parminder Bhatia, Taha Kass-Hout.<br />
+"Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation." CVPR (2025).
+[[paper](https://arxiv.org/abs/2503.04639)]
+[2025.03]
+
+:boom:Steve Andreas Immanuel, Woojin Cho, Junhyuk Heo, Darongsae Kwon.<br />
+"Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model." ICLRW (2025).
+[[paper](https://arxiv.org/abs/2503.03785)]
+[[code](https://github.com/SteveImmanuel/rs-paint)]
+[2025.03]
+
+:boom:**SurgiSAM2:** Devanish N. Kamtam, Joseph B. Shrager, Satya Deepya Malla, Xiaohan Wang, Nicole Lin, Juan J. Cardona, Serena Yeung-Levy, Clarence Hu.<br />
+"SurgiSAM2: Fine-tuning a foundational model for surgical video anatomy segmentation and detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.03942)]
+[2025.03]
+
+:boom:**GBT-SAM:** Cecilia Diana-Albelda, Roberto Alcover-Couso, Álvaro García-Martín, Jesus Bescos, Marcos Escudero-Viñolo.<br />
+"GBT-SAM: A Parameter-Efficient Depth-Aware Model for Generalizable Brain tumour Segmentation on mp-MRI." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.04325)]
+[[code](https://github.com/vpulab/med-sam-brain)]
+[2025.03]
+
+:boom:**WeakMedSAM:** Haoran Wang, Lian Huai, Wenbin Li, Lei Qi, Xingqun Jiang, Yinghuan Shi.<br />
+"WeakMedSAM: Weakly-Supervised Medical Image Segmentation via SAM with Sub-Class Exploration and Prompt Affinity Mining ." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.04106)]
+[[code](https://github.com/wanghr64/WeakMedSAM)]
+[2025.03]
+
 :boom:**AHCPTQ:** Wenlun Zhang, Shimpei Ando, Kentaro Yoshioka.<br />
 "AHCPTQ: Accurate and Hardware-Compatible Post-Training Quantization for Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.03088)]
