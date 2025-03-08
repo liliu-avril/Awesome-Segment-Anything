@@ -235,82 +235,130 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
-:boom:Aishik Konwer, Zhijian Yang, Erhan Bas, Cao Xiao, Prateek Prasanna, Parminder Bhatia, Taha Kass-Hout.<br />
+:boom:**Meta-CD:** Gao, Junyu and Zhang, Da and Wang, Feiyu and Ning, Lichen and Zhao, Zhiyuan and Li, Xuelong.<br />
+"Combining SAM with Limited Data for Change Detection in Remote Sensing." TGRS (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10902491)]
+[[code](https://github.com/zhangda1018/Meta-CD)]
+[2025.03]
+
+:boom:**SAM-MedUS:** Feng Tian, Jintao Zhai, Jinru Gong, Weirui Lei, Shuai Chang, Fangfang Ju, Shengyou Qian, Xiao Zou.<br />
+"SAM-MedUS: a foundational model for universal ultrasound image segmentation." Journal of Medical Imaging (2025).
+[[paper](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-12/issue-2/027001/SAM-MedUS--a-foundational-model-for-universal-ultrasound-image/10.1117/1.JMI.12.2.027001.short)]
+[2025.03]
+
+:boom:**Yolo-MLSAM:** Hongguang Chen, Banteng Liu, Ke Wang.<br />
+"Yolo-MLSAM: SAM Based Breast Cancer Microcalcification Cluster-Segmentation Method." JCEIM (2025).
+[[paper](https://jceim.org/index.php/ojs/article/view/8)]
+[2025.03]
+
+:boom: Ananth Kochuparambil Biju; Vishnu Prasad Vasu; Sreekumar Krishnan.<br />
+"Consolidated extraterrestrial planetary crater detection using SAM (segment anything model)." AIP Conf. Proc.(2025).
+[[paper](https://pubs.aip.org/aip/acp/article-abstract/3237/1/030008/3337667/Consolidated-extraterrestrial-planetary-crater)]
+[2025.03]
+
+:boom: Chen Jiang, Tianling Lyu, Gege Ma, Zhan Wu, Xinyun Zhong, Yan Xi, Yang Chen, Wentao Zhu.<br />
+"CBCT projection domain metal segmentation for metal artifact reduction using hessian-inspired dual-encoding network with guidance from segment anything model." Medical Physics (2025).
+[[paper](https://aapm.onlinelibrary.wiley.com/doi/epdf/10.1002/mp.17716?saml_referrer)]
+[2025.03]
+
+:boom:**SegLGAD:** Xiao Du and Bing Li and Tongkun Liu and Yi Ding and Liuyi Jin and Zhuo Zhao.<br />
+"SegLGAD: Local-to-global industrial anomaly detection with visual segmentation model." Optics & Laser Technology(2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S003039922500221X)]
+[[code](https://drive.google.com/file/d/1rJF9LMe8abOl0a4Yst5Om5E7041MXI4C/view?usp=drive_link)]
+[2025.03]
+
+:boom:**Det-SAM-Ore:** Li, Fei and Liu, Xiaoyan and Li, Zongping.<br />
+"A Two-Stage Framework with Ore-Detect and Segment Anything Model for Ore Particle Segmentation and Size Measurement." IEEE Sensors Journal (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10908534)]
+[2025.03]
+
+:boom:**MAET-SAM:** Shuaiyu Bu, Yuanyuan Li, Guoqiang Liu , Yifan Li.<br />
+"MAET-SAM: Magneto-Acousto-Electrical Tomography segmentation network based on the segment anything model." Mathematical Biosciences and Engineering (2025).
+[[paper](https://www.aimspress.com/article/doi/10.3934/mbe.2025022)]
+[2025.03]
+
+:boom:**PCCFU:** Sulan Zhai and Chengzhuang Liu and Zhengzheng Tu and Chenglong Li and Liuxuanqi Gao.<br />
+"Weakly Supervised RGBT Salient Object Detection via SAM-Guided Label Optimization and Progressive Cross-modal Cross-scale Fusion." Information Fusion (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1566253525001216)]
+[[code](https://github.com/tzz-ahu)]
+[2025.03]
+
+- Aishik Konwer, Zhijian Yang, Erhan Bas, Cao Xiao, Prateek Prasanna, Parminder Bhatia, Taha Kass-Hout.<br />
 "Enhancing SAM with Efficient Prompting and Preference Optimization for Semi-supervised Medical Image Segmentation." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.04639)]
 [2025.03]
 
-:boom:Steve Andreas Immanuel, Woojin Cho, Junhyuk Heo, Darongsae Kwon.<br />
+- Steve Andreas Immanuel, Woojin Cho, Junhyuk Heo, Darongsae Kwon.<br />
 "Tackling Few-Shot Segmentation in Remote Sensing via Inpainting Diffusion Model." ICLRW (2025).
 [[paper](https://arxiv.org/abs/2503.03785)]
 [[code](https://github.com/SteveImmanuel/rs-paint)]
 [2025.03]
 
-:boom:**SurgiSAM2:** Devanish N. Kamtam, Joseph B. Shrager, Satya Deepya Malla, Xiaohan Wang, Nicole Lin, Juan J. Cardona, Serena Yeung-Levy, Clarence Hu.<br />
+- **SurgiSAM2:** Devanish N. Kamtam, Joseph B. Shrager, Satya Deepya Malla, Xiaohan Wang, Nicole Lin, Juan J. Cardona, Serena Yeung-Levy, Clarence Hu.<br />
 "SurgiSAM2: Fine-tuning a foundational model for surgical video anatomy segmentation and detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.03942)]
 [2025.03]
 
-:boom:**GBT-SAM:** Cecilia Diana-Albelda, Roberto Alcover-Couso, Álvaro García-Martín, Jesus Bescos, Marcos Escudero-Viñolo.<br />
+- **GBT-SAM:** Cecilia Diana-Albelda, Roberto Alcover-Couso, Álvaro García-Martín, Jesus Bescos, Marcos Escudero-Viñolo.<br />
 "GBT-SAM: A Parameter-Efficient Depth-Aware Model for Generalizable Brain tumour Segmentation on mp-MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.04325)]
 [[code](https://github.com/vpulab/med-sam-brain)]
 [2025.03]
 
-:boom:**WeakMedSAM:** Haoran Wang, Lian Huai, Wenbin Li, Lei Qi, Xingqun Jiang, Yinghuan Shi.<br />
+- **WeakMedSAM:** Haoran Wang, Lian Huai, Wenbin Li, Lei Qi, Xingqun Jiang, Yinghuan Shi.<br />
 "WeakMedSAM: Weakly-Supervised Medical Image Segmentation via SAM with Sub-Class Exploration and Prompt Affinity Mining ." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.04106)]
 [[code](https://github.com/wanghr64/WeakMedSAM)]
 [2025.03]
 
-:boom:**AHCPTQ:** Wenlun Zhang, Shimpei Ando, Kentaro Yoshioka.<br />
+- **AHCPTQ:** Wenlun Zhang, Shimpei Ando, Kentaro Yoshioka.<br />
 "AHCPTQ: Accurate and Hardware-Compatible Post-Training Quantization for Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.03088)]
 [2025.03]
 
-:boom:**SPD-VFM:** Pengchen Liang, Leijun Shi, Huiping Yao, Bin Pu, Jianguo Chen, Lei Zhao, Haishan Huang, Zhuangzhuang Chen, Zhaozhao Xu, Lite Xu, Qing Chang, Yiwei Li.<br />
+- **SPD-VFM:** Pengchen Liang, Leijun Shi, Huiping Yao, Bin Pu, Jianguo Chen, Lei Zhao, Haishan Huang, Zhuangzhuang Chen, Zhaozhao Xu, Lite Xu, Qing Chang, Yiwei Li.<br />
 "Semantic Prior Distillation with Vision Foundation Model for Enhanced Rapid Bone Scintigraphy Image Restoration." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.02321)]
 [2025.03]
 
-:boom:**SHIFNet :** Jiayi Zhao, Fei Teng, Kai Luo, Guoqiang Zhao, Zhiyong Li, Xu Zheng, Kailun Yang.<br />
+- **SHIFNet :** Jiayi Zhao, Fei Teng, Kai Luo, Guoqiang Zhao, Zhiyong Li, Xu Zheng, Kailun Yang.<br />
 "Unveiling the Potential of Segment Anything Model 2 for RGB-Thermal Semantic Segmentation with Language Guidance." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.02581)]
 [[code](https://github.com/iAsakiT3T/SHIFNet)]
 [2025.03]
 
-:boom:**ReID-SAM:** Kunjun Li, Cheng-Yen Yang, Hsiang-Wei Huang, Jenq-Neng Hwang.<br />
+- **ReID-SAM:** Kunjun Li, Cheng-Yen Yang, Hsiang-Wei Huang, Jenq-Neng Hwang.<br />
 "Technical Report for ReID-SAM on SkiTB Visual Tracking Challenge 2025." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.01907)]
 [2025.03]
 
-:boom:Clayton Bromley, Alexander Moore, Amar Saini, Doug Poland, Carmen Carrano.<br />
+- Clayton Bromley, Alexander Moore, Amar Saini, Doug Poland, Carmen Carrano.<br />
 "An Analysis of Segment Anything 2." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.00042)]
 [2025.03]
 
-:boom:**SAGE:** Guanyao Wu, Haoyu Liu, Hongming Fu, Yichuan Peng, Jinyuan Liu, Xin Fan, Risheng Liu.<br />
+- **SAGE:** Guanyao Wu, Haoyu Liu, Hongming Fu, Yichuan Peng, Jinyuan Liu, Xin Fan, Risheng Liu.<br />
 "Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.01210)]
 [2025.03]
 
-:boom:**SparseMamba-PCL:** Luyi Qiu, Tristan Till, Xiaobao Guo, Adams Wai-Kin Kong.<br />
+- **SparseMamba-PCL:** Luyi Qiu, Tristan Till, Xiaobao Guo, Adams Wai-Kin Kong.<br />
 "SparseMamba-PCL: Scribble-Supervised Medical Image Segmentation via SAM-Guided Progressive Collaborative Learning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.01633)]
 [[code](http://sparsemamba-pcl.git/)]
 [2025.03]
 
-:boom:**SemiSAM+:** Yichi Zhang, Bohao Lv, Le Xue, Wenbo Zhang, Yuchen Liu, Yu Fu, Yuan Cheng, Yuan Qi.<br />
+- **SemiSAM+:** Yichi Zhang, Bohao Lv, Le Xue, Wenbo Zhang, Yuchen Liu, Yu Fu, Yuan Cheng, Yuan Qi.<br />
 "SemiSAM+: Rethinking Semi-Supervised Medical Image Segmentation in the Era of Foundation Models." MIA (2025).
 [[paper](https://arxiv.org/abs/2502.20749)]
 [2025.02]
 
-:boom:Silius M. Vandeskog, Magne Aldrin, Daniel Howell, Edvin Fuglebakk.<br />
+- Silius M. Vandeskog, Magne Aldrin, Daniel Howell, Edvin Fuglebakk.<br />
 "Adding smoothing splines to the SAM model improves stock assessment." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.20788)]
 [2025.02]
 
-:boom:Utku Ozbulak, Seyed Amir Mousavi, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Wesley De Neve, Joris Vankerschaver.<br />
+- Utku Ozbulak, Seyed Amir Mousavi, Francesca Tozzi, Nikdokht Rashidian, Wouter Willaert, Wesley De Neve, Joris Vankerschaver.<br />
 "Less is More? Revisiting the Importance of Frame Rate in Real-Time Zero-Shot Surgical Video Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2502.20934)]
 [2025.02]
