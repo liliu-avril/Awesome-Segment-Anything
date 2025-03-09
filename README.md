@@ -235,6 +235,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**APG-SAM:** Danping Yin and Qingqing Zheng and Long Chen and Ying Hu and Qiong Wang.<br />
+"APG-SAM: Automatic prompt generation for SAM-based breast lesion segmentation with boundary-aware optimization." Expert Systems with Applications (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425006700)]
+[2025.03]
+
 :boom:**Meta-CD:** Gao, Junyu and Zhang, Da and Wang, Feiyu and Ning, Lichen and Zhao, Zhiyuan and Li, Xuelong.<br />
 "Combining SAM with Limited Data for Change Detection in Remote Sensing." TGRS (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10902491)]
