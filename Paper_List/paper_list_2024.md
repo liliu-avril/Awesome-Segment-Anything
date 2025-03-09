@@ -538,8 +538,8 @@
 [[code](https://github.com/apple1986/SAMatch)]
 [2024.11]
 
-- **DAM4SAM:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
-"A Distractor-Aware Memory for Visual Object Tracking with SAM2." ArXiv (2024).
+- **SAM2.1++:** Jovana Videnovic, Alan Lukezic, Matej Kristan.<br />
+"A Distractor-Aware Memory for Visual Object Tracking with SAM2." CVPR (2025).
 [[paper](https://arxiv.org/abs/2411.17576)]
 [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 [2024.11]
