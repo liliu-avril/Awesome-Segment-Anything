@@ -235,6 +235,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**S4M:** Adrien Meyer, Lorenzo Arboit, Giuseppe Massimiani, Francesco Brucchi, Luca Emanuele Amodio, Didier Mutter, Nicolas Padoy.<br />
+"S4M: Segment Anything with 4 Extreme Points." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.05534)]
+[2025.03]
+
+:boom:Haiyue Zu, Jun Ge, Heting Xiao, Jile Xie, Zhangzhe Zhou, Yifan Meng, Jiayi Ni, Junjie Niu, Linlin Zhang, Li Ni, Huilin Yang.<br />
+"Rethinking Few-Shot Medical Image Segmentation by SAM2: A Training-Free Framework with Augmentative Prompting and Dynamic Matching." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.04826)]
+[2025.03]
+
 :boom:**APG-SAM:** Danping Yin and Qingqing Zheng and Long Chen and Ying Hu and Qiong Wang.<br />
 "APG-SAM: Automatic prompt generation for SAM-based breast lesion segmentation with boundary-aware optimization." Expert Systems with Applications (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425006700)]
