@@ -299,6 +299,17 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2503.07190)]
 [2025.03]
 
+:boom:Yuchen Mao, Hongwei Li, Yinyi Lai, Giorgos Papanastasiou, Peng Qi, Yunjie Yang, Chengjia Wang.<br />
+"Semi-Supervised Medical Image Segmentation via Knowledge Mining from Large Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.06816)]
+[[code](https://anonymous.4open.science/r/Knowledge-Mining-from-Large-Models-C7FE)]
+[2025.03]
+
+:boom:**LPANet:** Wentao Wu, Chenglong Li, Xiao Wang, Bin Luo, Qi Liu.<br />
+"Large Language Model Guided Progressive Feature Alignment for Multimodal UAVObject Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.06948)]
+[2025.03]
+
 :boom:**S4M:** Adrien Meyer, Lorenzo Arboit, Giuseppe Massimiani, Francesco Brucchi, Luca Emanuele Amodio, Didier Mutter, Nicolas Padoy.<br />
 "S4M: Segment Anything with 4 Extreme Points." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.05534)]
