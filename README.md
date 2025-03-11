@@ -235,6 +235,70 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+
+:boom:**YOLOE:** Ao Wang, Lihao Liu, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding.<br />
+"YOLOE:Real-Time Seeing Anything." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.07465)]
+[[code](https://github.com/THU-MIG/yoloe)]
+[2025.03]
+
+:boom:**RS2-SAM 2:** Fu Rong, Meng Lan, Qian Zhang, Lefei Zhang.<br />
+"Customized SAM 2 for Referring Remote Sensing Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.07266)]
+[2025.03]
+
+:boom:**OmniSAM:** Ding Zhong, Xu Zheng, Chenfei Liao, Yuanhuiyi Lyu, Jialei Chen, Shengyang Wu, Linfeng Zhang, Xuming Hu.<br />
+"OmniSAM:Omnidirectional Segment Anything Model for UDA in Panoramic Semantic Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.07098)]
+[2025.03]
+
+:boom:**MemorySAM:** Chenfei Liao, Xu Zheng, Yuanhuiyi Lyu, Haiwei Xue, Yihong Cao, Jiawen Wang, Kailun Yang, Xuming Hu.<br />
+"MemorySAM:MemorizeModalities and Semantics with Segment Anything Model 2 for Multi-modal Semantic Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.06700)]
+[2025.03]
+
+:boom:**SAQ-SAM:** Jing Zhang, Zhikai Li, Qingyi Gu.<br />
+"SAQ-SAM: Semantically-Aligned Quantization for Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.06515)]
+[2025.03]
+
+:boom:**SAMEO:** Wei-En Tai, Yu-Lin Shih, Cheng Sun, Yu-Chiang Frank Wang, Hwann-Tzong Chen.<br />
+"Segment Anything, Even Occluded." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.06261)]
+[2025.03]
+
+:boom:**EvoSAM:** Zhaori Liu, Mengyang Li, Hu Han, Enli Zhang, Shiguang Shan, Zhiming Zhao.<br />
+"Dynamically evolving segment anything model with continuous learning for medical image segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.06236)]
+[2025.03]
+
+:boom:**PDFNet:** Xianjie Liu, Keren Fu, Qijun Zhao.<br />
+"Patch-Depth Fusion: Dichotomous Image Segmentation via Fine-Grained Patch Strategy and Depth Integrity-Prior." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.06100)]
+[[code](https://github.com/Tennine2077/PDFNet)]
+[2025.03]
+
+:boom:**SAM-COD:** Jiaming Liu, Linghe Kong, Guihai Chen.<br />
+"Improving SAM for Camouflaged Object Detection via Dual Stream Adapters." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.06042)]
+[2025.03]
+
+:boom:**OpenVocabCT:** Yuheng Li, Yuxiang Lai, Maria Thor, Deborah Marshall, Zachary Buchwald, David S. Yu and Xiaofeng Yang.<br />
+"Towards Universal Text-driven CT Image Segmentation." TMI (2025).
+[[paper](https://arxiv.org/abs/2503.06030)]
+[[code](https://github.com/ricklisz/OpenVocabCT.)]
+[2025.03]
+
+:boom:**SAS:** Danielle L. Ferreira, Ahana Gangopadhyay, Hsi-Ming Chang, Ravi Soni, Gopal Avinash.<br />
+"SAS: Segment Anything Small for Ultrasound- A Non-Generative Data Augmentation Technique for Robust Deep Learning in Ultrasound Imaging." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.05916)]
+[2025.03]
+
+:boom:Melvin Reka, Tessa Pulli, Markus Vincze.<br />
+"Multi-Modal 3D Mesh Reconstruction from Images and Text." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.07190)]
+[2025.03]
+
 :boom:**S4M:** Adrien Meyer, Lorenzo Arboit, Giuseppe Massimiani, Francesco Brucchi, Luca Emanuele Amodio, Didier Mutter, Nicolas Padoy.<br />
 "S4M: Segment Anything with 4 Extreme Points." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.05534)]
