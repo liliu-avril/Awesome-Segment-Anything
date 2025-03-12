@@ -235,6 +235,10 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**SAM-RD:** Zhu, Liangshan and Wu, Xing and Wang, Chengliang and Wang, Haidong.<br />
+"SAM Adaptation with Refocused Attention and Diverse Prompts for Medical Image Segmentation." ICASSP (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10889427)]
+[2025.03]
 
 :boom:**YOLOE:** Ao Wang, Lihao Liu, Hui Chen, Zijia Lin, Jungong Han, Guiguang Ding.<br />
 "YOLOE:Real-Time Seeing Anything." ArXiv (2025).
