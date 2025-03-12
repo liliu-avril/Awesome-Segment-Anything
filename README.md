@@ -235,6 +235,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**VTPSeg:** Xing Zi, Kairui Jin, Xian Tao, Jun Li, Ali Braytee, Rajiv Ratn Shah, Mukesh Prasad.<br />
+"Visual and Text Prompt Segmentation: A Novel Multi-Model Framework for Remote Sensing." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.07911)]
+[2025.03]
+
 :boom:**SAM-RD:** Zhu, Liangshan and Wu, Xing and Wang, Chengliang and Wang, Haidong.<br />
 "SAM Adaptation with Refocused Attention and Diverse Prompts for Medical Image Segmentation." ICASSP (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10889427)]
