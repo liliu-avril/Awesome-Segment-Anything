@@ -235,6 +235,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**NVP-HRI:** Yuzhi Lai, Shenghai Yuan, Youssef Nassar, Mingyu Fan, Thomas Weber, Matthias Rätsch.<br />
+"NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model." ESWA(2025).
+[[paper](https://arxiv.org/abs/2503.09335)]
+[[code](https://github.com/laiyuzhi/NVP-HRI.git)]
+[2025.03]
+
+:boom:**nnInteractive:** Fabian Isensee, Maximilian Rokuss, Lars Krämer, Stefan Dinkelacker, Ashis Ravindran, Florian Stritzke, Benjamin Hamm, Tassilo Wald, Moritz Langenberg, Constantin Ulrich, Jonathan Deissler, Ralf Floca, Klaus Maier-Hein.<br />
+"nnInteractive: Redefining 3D Promptable Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.08373)]
+[[code](https://www.mitk.org/MITK-nnInteractive)]
+[2025.03]
+
+:boom:Qipeng Mei, Dimitri Bulatov, Dorota Iwaszczuk.<br />
+"Polygonizing roof segments from high-resolution aerial images using YOLOv8-based edge detection." VISAPP(2025).
+[[paper](https://arxiv.org/abs/2503.09187)]
+[2025.03]
+
+:boom:Julian Rene Cuellar Buritica, Vu Dinh, Manjula Burri, Julie Roelandts, James Wendling, Jon D. Klingensmith.<br />
+"Evaluation of state-of-the-art deep learning models in the segmentation of the heart ventricles in parasternal short-axis echocardiograms." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.08970)]
+[2025.03]
+
 :boom:**VTPSeg:** Xing Zi, Kairui Jin, Xian Tao, Jun Li, Ali Braytee, Rajiv Ratn Shah, Mukesh Prasad.<br />
 "Visual and Text Prompt Segmentation: A Novel Multi-Model Framework for Remote Sensing." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.07911)]
