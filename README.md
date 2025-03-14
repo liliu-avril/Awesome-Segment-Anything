@@ -294,7 +294,7 @@ If you find our work useful in your research, please consider citing:
 [2025.03]
 
 :boom:**SAMEO:** Wei-En Tai, Yu-Lin Shih, Cheng Sun, Yu-Chiang Frank Wang, Hwann-Tzong Chen.<br />
-"Segment Anything, Even Occluded." ArXiv (2025).
+"Segment Anything, Even Occluded." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.06261)]
 [2025.03]
 
