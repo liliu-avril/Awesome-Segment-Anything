@@ -235,6 +235,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**SeqSAM:** Benjamin Towle, Xin Chen, Ke Zhou.<br />
+"SeqSAM: Autoregressive Multiple Hypothesis Prediction for Medical Image Segmentation using SAM." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.09797)]
+[[code](https://github.com/BenjaminTowle/SeqSAM)]
+[2025.03]
+
 :boom:**NVP-HRI:** Yuzhi Lai, Shenghai Yuan, Youssef Nassar, Mingyu Fan, Thomas Weber, Matthias Rätsch.<br />
 "NVP-HRI: Zero Shot Natural Voice and Posture-based Human-Robot Interaction via Large Language Model." ESWA(2025).
 [[paper](https://arxiv.org/abs/2503.09335)]
