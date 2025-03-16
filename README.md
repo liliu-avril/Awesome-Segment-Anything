@@ -235,6 +235,38 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**EPAF:** Li, Dongsheng and Zang, Chunyan and Zhang, Huijie and Lin, Yiming and Xia, Qiushi.<br />
+"An Efficient Pore Annotation Framework for Tight Sandstone Images with Segment Anything Model." ICASSP (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10889236)]
+[[code](https://github.com/wudi-ldd/EPAF)]
+[2025.03]
+
+:boom:**SAM2-SP:** Wei, Sheng and Qiu, Song and Zhou, Mei and Zhang, He and Wang, Yan and Li, Qingli.<br />
+"Self-Prompting Driven SAM2 for 3D Medical Image Segmentation." ICASSP (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10889344)]
+[2025.03]
+
+:boom:**EP-SAM:** Wang, Zhitao and Wen, Jiangtao and Han, Yuxing.<br />
+"EP-SAM: An Edge-Detection Prompt SAM Based Efficient Framework for Ultra-Low Light Video Segmentation." ICASSP (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10889601)]
+[[code](https://github.com/wzt22thu/EP-SAM/releases/tag/DEMO)]
+[2025.03]
+
+:boom:**U-SAM:** Jin, Xiaofeng and Hu, Jie and Lin, Jianghang and Zhang, Shengchuan and Cao, Liujuan.<br />
+"U-SAM: Upgrade Segment Anything Model With Semantic-Aware and Memory-Efficient." ICASSP (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10889270)]
+[2025.03]
+
+:boom:**VLIMNet:** Chen, Zhongyuan and Zhang, Zhan and Zuo, Decheng and Wang, Ning and Fan, Liufeng and Liu, Zhiwei.<br />
+"VLIMNet: A Visible Light And Infrared Image Matching Network Based On Segment Anything Model And SuperPoint." ICASSP (2025).
+[[paper](https://ieeexplore.ieee.org/document/10889254)]
+[2025.03]
+
+:boom:Ling, Yinzhou and Luo, Jingjing and Han, Yuan and Li, Wenxian and Wang, Hongbo.<br />
+"Instance Segmentation of Airway Anatomies Using Mask R-CNN Prompt Adaptation-SAM." ICASSP (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10889207)]
+[2025.03]
+
 :boom:**SeqSAM:** Benjamin Towle, Xin Chen, Ke Zhou.<br />
 "SeqSAM: Autoregressive Multiple Hypothesis Prediction for Medical Image Segmentation using SAM." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.09797)]
