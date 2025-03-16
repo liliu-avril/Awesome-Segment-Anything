@@ -1054,7 +1054,7 @@ If you find our work useful in your research, please consider citing:
 [2025.01]
 
 - **EdgeTAM:** Chong Zhou, Chenchen Zhu, Yunyang Xiong, Saksham Suri, Fanyi Xiao, Lemeng Wu, Raghuraman Krishnamoorthi, Bo Dai, Chen Change Loy, Vikas Chandra, Bilge Soran.<br />
-"EdgeTAM: On-Device Track Anything Model." ArXiv (2025).
+"EdgeTAM: On-Device Track Anything Model." CVPR (2025).
 [[paper](https://arxiv.org/abs/2501.07256)]
 [[code](https://github.com/facebookresearch/EdgeTAM)]
 [2025.01]
