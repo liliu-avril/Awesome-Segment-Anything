@@ -235,6 +235,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**EgoSplat:** Di Li, Jie Feng, Jiahao Chen, Weisheng Dong, Guanbin Li, Guangming Shi, Licheng Jiao.<br />
+"EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.11345)]
+[2025.03]
+
 :boom:**PPO:** Xueyu Liu · Rui Wang · Yexin Lai · Guangze Shi · Feixue Shao · Fang Hao · Jianan Zhang · Jia Shen · Yongfei Wu · Wen Zheng.<br />
 "Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater." CVPR (2025).
 [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)]
