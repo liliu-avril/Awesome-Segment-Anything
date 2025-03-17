@@ -274,7 +274,7 @@ If you find our work useful in your research, please consider citing:
 [2025.03]
 
 - **SeqSAM:** Benjamin Towle, Xin Chen, Ke Zhou.<br />
-"SeqSAM: Autoregressive Multiple Hypothesis Prediction for Medical Image Segmentation using SAM." ArXiv (2025).
+"SeqSAM: Autoregressive Multiple Hypothesis Prediction for Medical Image Segmentation using SAM." ISBI (2025).
 [[paper](https://arxiv.org/abs/2503.09797)]
 [[code](https://github.com/BenjaminTowle/SeqSAM)]
 [2025.03]
