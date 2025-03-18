@@ -240,6 +240,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**SPC-GS:** Guibiao Liao, Qing Li, Zhenyu Bao, Guoping Qiu, Kanglin Liu.<br />
+"SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs." CVPR (2025).
+[[paper](https://arxiv.org/abs/2503.12535)]
+[[code](https://gbliao.github.io/SPC-GS.github.io/)]
+[2025.03]
+
 :boom:**GleSAM:** Guangqian Guo, Yoong Guo, Xuehui Yu, Wenbo Li, Yaoxing Wang, Shan Gao.<br />
 "Segment Any-Quality Images with Generative Latent Space Enhancement." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.12507)]
