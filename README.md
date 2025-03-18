@@ -103,6 +103,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://www.sciencedirect.com/science/article/pii/S0895611124001502)]
 [2024.12]
 
+- Zhang Jiaxing, Tang Hao.<br />
+"SAM2 for Image and Video Segmentation: A Comprehensive Survey." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.12781)]
+[2025.03]
+
 ## Paper List
 ### Seminal Papers
 - **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
@@ -235,6 +240,36 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**GleSAM:** Guangqian Guo, Yoong Guo, Xuehui Yu, Wenbo Li, Yaoxing Wang, Shan Gao.<br />
+"Segment Any-Quality Images with Generative Latent Space Enhancement." CVPR (2025).
+[[paper](https://arxiv.org/abs/2503.12507)]
+[2025.03]
+
+:boom:**MSMV-Swin:** Farnoush Bayatmakou, Reza Taleei, Milad Amir Toutounchian, Arash Mohammadi.<br />
+"Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.13309)]
+[2025.03]
+
+:boom:**3DAxisPrompt:** Dingning Liu, Cheng Wang, Peng Gao, Renrui Zhang, Xinzhu Ma, Yuan Meng, Zhihui Wang.<br />
+"3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.13185)]
+[2025.03]
+
+:boom:**CL-Net:** Dazhou Guo, Zhanghexuan Ji, Yanzhou Su, Dandan Zheng, Heng Guo, Puyang Wang, Ke Yan, Yirui Wang, Qinji Yu, Zi Li, Minfeng Xu, Jianfeng Zhang, Haoshen Li, Jia Ge, Tsung-Ying Ho, Bing-Shen Huang, Tashan Ai, Kuaile Zhao, Na Shen, Qifeng Wang, Yun Bian, Tingyu Wu, Peng Du, Hua Zhang, Feng-Ming Kong, Alan L. Yuille, Cher Heng Tan, Chunyan Miao, Perry J. Pickhardt, Senxiang Yan, Ronald M. Summers, Le Lu, Dakai Jin, Xianghua Ye.<br />
+"AContinual Learning-driven Model for Accurate and Gen eralizable Segmentation of Clinically Comprehensive and Fine-grained Whole-body Anatomies in CT." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.12698)]
+[2025.03]
+
+:boom:**SAM2-ELNet:** Jianhao Yang, Wenshuo Yu, Yuanchao Lv, Jiance Sun, Bokang Sun, Mingyang Liu.<br />
+"SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.12404)]
+[2025.03]
+
+:boom:**E-SAM:** Weiming Zhang, Dingwen Xiao, Lei Chen, Lin Wang.<br />
+"E-SAM: Training-Free Segment Every Entity Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.12094)]
+[2025.03]
+
 :boom:**EgoSplat:** Di Li, Jie Feng, Jiahao Chen, Weisheng Dong, Guanbin Li, Guangming Shi, Licheng Jiao.<br />
 "EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.11345)]
