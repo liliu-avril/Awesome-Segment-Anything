@@ -240,6 +240,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:.
 #### 2025
+:boom:**SED-MVS:** Zhenlong Yuan, Zhidong Yang, Yujun Cai, Kuangxin Wu, Mufan Liu, Dapeng Zhang, Hao Jiang, Zhaoxin Li, Zhaoqi Wang.<br />
+"SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.13721)]
+[2025.03]
+ 
+:boom:Yizhou Li, Yusuke Monno, Masatoshi Okutomi, Yuuichi Tanaka, Seiichi Kataoka, Teruaki Kosiba.<br />
+"Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis." VISAPP (2025).
+[[paper]([2503.14219] Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis)]
+[[code](http://www.ok.sc.e.titech.ac.jp/res/NVS/index.html)]
+[2025.03]
+
+:boom:**OMT-SAM:** Wenjie Zhang, Ziyang Zhang, Mengnan He, Jiancheng Ye.<br />
+"Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.13806)]
+[2025.03]
+
 :boom:**ROS-SAM:** Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, Heng Wang, Xia Xie.<br />
 "ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.12006)]
