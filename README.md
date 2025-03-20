@@ -238,8 +238,18 @@ If you find our work useful in your research, please consider citing:
 
 
 ### Follow-up Papers
-#### The latest papers within a week are marked with a :boom:.
+#### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**USAM-Net:** Joseph Emmanuel DL Dayo, Prospero C. Naval Jr.<br />
+"USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.14950)]
+[2025.03]
+
+:boom:**TransCaGNet:** Annalena Blänsdorf, Tristan Wirth, Arne Rak, Thomas Pöllabauer, Volker Knauthe, Arjan Kuijper.<br />
+"Semantic Segmentation of Transparent and Opaque Drinking Glasses with the Help of Zero-shot Learning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.15004)]
+[2025.03]
+
 :boom:**SED-MVS:** Zhenlong Yuan, Zhidong Yang, Yujun Cai, Kuangxin Wu, Mufan Liu, Dapeng Zhang, Hao Jiang, Zhaoxin Li, Zhaoqi Wang.<br />
 "SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.13721)]
