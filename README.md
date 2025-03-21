@@ -240,6 +240,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**M2N2V2:** Markus Karmann, Peng-Tao Jiang, Bo Li, Onay Urfalioglu.<br />
+"M2N2V2: Multi-Modal Unsupervised and Training-free Interactive Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.16254)]
+[2025.03]
+
 :boom:**USAM-Net:** Joseph Emmanuel DL Dayo, Prospero C. Naval Jr.<br />
 "USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.14950)]
