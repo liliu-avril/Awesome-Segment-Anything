@@ -240,118 +240,129 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**M2N2V2:** Markus Karmann, Peng-Tao Jiang, Bo Li, Onay Urfalioglu.<br />
+:boom:**MambaSAM:** Liang, Pengchen and Shi, Leijun and Pu, Bin and Wu, Renkai and Chen, Jianguo and Zhou, Lixin and Xu, Lite and Chen, Zhuangzhuang and Chang, Qing and Li, Yiwei.<br />
+"MambaSAM: A Visual Mamba-Adapted SAM Framework for Medical Image Segmentation." JBHI (2025).
+[[paper](https://ieeexplore.ieee.org/document/10899855)]
+[2025.03]
+
+- **SFA-Net:** Tian Gao and Chaozhen Lan and Wenjun Huang and Sheng Wang.<br />
+"SFA-Net: A SAM-guided focused attention network for multimodal remote sensing image matching." ISPRS Journal of Photogrammetry and Remote Sensing (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0924271625000905)]
+[[code](https://github.com/GaotTian/SFA-Net)]
+[2025.03]
+
+- **M2N2V2:** Markus Karmann, Peng-Tao Jiang, Bo Li, Onay Urfalioglu.<br />
 "M2N2V2: Multi-Modal Unsupervised and Training-free Interactive Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.16254)]
 [2025.03]
 
-:boom:**USAM-Net:** Joseph Emmanuel DL Dayo, Prospero C. Naval Jr.<br />
+- **USAM-Net:** Joseph Emmanuel DL Dayo, Prospero C. Naval Jr.<br />
 "USAM-Net: A U-Net-based Network for Improved Stereo Correspondence and Scene Depth Estimation using Features from a Pre-trained Image Segmentation network." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.14950)]
 [2025.03]
 
-:boom:**TransCaGNet:** Annalena Blänsdorf, Tristan Wirth, Arne Rak, Thomas Pöllabauer, Volker Knauthe, Arjan Kuijper.<br />
+- **TransCaGNet:** Annalena Blänsdorf, Tristan Wirth, Arne Rak, Thomas Pöllabauer, Volker Knauthe, Arjan Kuijper.<br />
 "Semantic Segmentation of Transparent and Opaque Drinking Glasses with the Help of Zero-shot Learning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.15004)]
 [2025.03]
 
-:boom:**SED-MVS:** Zhenlong Yuan, Zhidong Yang, Yujun Cai, Kuangxin Wu, Mufan Liu, Dapeng Zhang, Hao Jiang, Zhaoxin Li, Zhaoqi Wang.<br />
+- **SED-MVS:** Zhenlong Yuan, Zhidong Yang, Yujun Cai, Kuangxin Wu, Mufan Liu, Dapeng Zhang, Hao Jiang, Zhaoxin Li, Zhaoqi Wang.<br />
 "SED-MVS: Segmentation-Driven and Edge-Aligned Deformation Multi-View Stereo with Depth Restoration and Occlusion Constraint." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.13721)]
 [2025.03]
  
-:boom:Yizhou Li, Yusuke Monno, Masatoshi Okutomi, Yuuichi Tanaka, Seiichi Kataoka, Teruaki Kosiba.<br />
+- Yizhou Li, Yusuke Monno, Masatoshi Okutomi, Yuuichi Tanaka, Seiichi Kataoka, Teruaki Kosiba.<br />
 "Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis." VISAPP (2025).
 [[paper]([2503.14219] Segmentation-Guided Neural Radiance Fields for Novel Street View Synthesis)]
 [[code](http://www.ok.sc.e.titech.ac.jp/res/NVS/index.html)]
 [2025.03]
 
-:boom:**OMT-SAM:** Wenjie Zhang, Ziyang Zhang, Mengnan He, Jiancheng Ye.<br />
+- **OMT-SAM:** Wenjie Zhang, Ziyang Zhang, Mengnan He, Jiancheng Ye.<br />
 "Organ-aware Multi-scale Medical Image Segmentation Using Text Prompt Engineering." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.13806)]
 [2025.03]
 
-:boom:**ROS-SAM:** Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, Heng Wang, Xia Xie.<br />
+- **ROS-SAM:** Zhe Shan, Yang Liu, Lei Zhou, Cheng Yan, Heng Wang, Xia Xie.<br />
 "ROS-SAM: High-Quality Interactive Segmentation for Remote Sensing Moving Object." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.12006)]
 [[code](https://github.com/ShanZard/ROS-SAM)]
 [2025.03]
 
-:boom:**SPC-GS:** Guibiao Liao, Qing Li, Zhenyu Bao, Guoping Qiu, Kanglin Liu.<br />
+- **SPC-GS:** Guibiao Liao, Qing Li, Zhenyu Bao, Guoping Qiu, Kanglin Liu.<br />
 "SPC-GS: Gaussian Splatting with Semantic-Prompt Consistency for Indoor Open-World Free-view Synthesis from Sparse Inputs." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.12535)]
 [[code](https://gbliao.github.io/SPC-GS.github.io/)]
 [2025.03]
 
-:boom:**GleSAM:** Guangqian Guo, Yoong Guo, Xuehui Yu, Wenbo Li, Yaoxing Wang, Shan Gao.<br />
+- **GleSAM:** Guangqian Guo, Yoong Guo, Xuehui Yu, Wenbo Li, Yaoxing Wang, Shan Gao.<br />
 "Segment Any-Quality Images with Generative Latent Space Enhancement." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.12507)]
 [2025.03]
 
-:boom:**MSMV-Swin:** Farnoush Bayatmakou, Reza Taleei, Milad Amir Toutounchian, Arash Mohammadi.<br />
+- **MSMV-Swin:** Farnoush Bayatmakou, Reza Taleei, Milad Amir Toutounchian, Arash Mohammadi.<br />
 "Integrating AI for Human-Centric Breast Cancer Diagnostics: A Multi-Scale and Multi-View Swin Transformer Framework." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.13309)]
 [2025.03]
 
-:boom:**3DAxisPrompt:** Dingning Liu, Cheng Wang, Peng Gao, Renrui Zhang, Xinzhu Ma, Yuan Meng, Zhihui Wang.<br />
+- **3DAxisPrompt:** Dingning Liu, Cheng Wang, Peng Gao, Renrui Zhang, Xinzhu Ma, Yuan Meng, Zhihui Wang.<br />
 "3DAxisPrompt: Promoting the 3D Grounding and Reasoning in GPT-4o." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.13185)]
 [2025.03]
 
-:boom:**CL-Net:** Dazhou Guo, Zhanghexuan Ji, Yanzhou Su, Dandan Zheng, Heng Guo, Puyang Wang, Ke Yan, Yirui Wang, Qinji Yu, Zi Li, Minfeng Xu, Jianfeng Zhang, Haoshen Li, Jia Ge, Tsung-Ying Ho, Bing-Shen Huang, Tashan Ai, Kuaile Zhao, Na Shen, Qifeng Wang, Yun Bian, Tingyu Wu, Peng Du, Hua Zhang, Feng-Ming Kong, Alan L. Yuille, Cher Heng Tan, Chunyan Miao, Perry J. Pickhardt, Senxiang Yan, Ronald M. Summers, Le Lu, Dakai Jin, Xianghua Ye.<br />
+- **CL-Net:** Dazhou Guo, Zhanghexuan Ji, Yanzhou Su, Dandan Zheng, Heng Guo, Puyang Wang, Ke Yan, Yirui Wang, Qinji Yu, Zi Li, Minfeng Xu, Jianfeng Zhang, Haoshen Li, Jia Ge, Tsung-Ying Ho, Bing-Shen Huang, Tashan Ai, Kuaile Zhao, Na Shen, Qifeng Wang, Yun Bian, Tingyu Wu, Peng Du, Hua Zhang, Feng-Ming Kong, Alan L. Yuille, Cher Heng Tan, Chunyan Miao, Perry J. Pickhardt, Senxiang Yan, Ronald M. Summers, Le Lu, Dakai Jin, Xianghua Ye.<br />
 "AContinual Learning-driven Model for Accurate and Gen eralizable Segmentation of Clinically Comprehensive and Fine-grained Whole-body Anatomies in CT." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.12698)]
 [2025.03]
 
-:boom:**SAM2-ELNet:** Jianhao Yang, Wenshuo Yu, Yuanchao Lv, Jiance Sun, Bokang Sun, Mingyang Liu.<br />
+- **SAM2-ELNet:** Jianhao Yang, Wenshuo Yu, Yuanchao Lv, Jiance Sun, Bokang Sun, Mingyang Liu.<br />
 "SAM2-ELNet: Label Enhancement and Automatic Annotation for Remote Sensing Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.12404)]
 [2025.03]
 
-:boom:**E-SAM:** Weiming Zhang, Dingwen Xiao, Lei Chen, Lin Wang.<br />
+- **E-SAM:** Weiming Zhang, Dingwen Xiao, Lei Chen, Lin Wang.<br />
 "E-SAM: Training-Free Segment Every Entity Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.12094)]
 [2025.03]
 
-:boom:**EgoSplat:** Di Li, Jie Feng, Jiahao Chen, Weisheng Dong, Guanbin Li, Guangming Shi, Licheng Jiao.<br />
+- **EgoSplat:** Di Li, Jie Feng, Jiahao Chen, Weisheng Dong, Guanbin Li, Guangming Shi, Licheng Jiao.<br />
 "EgoSplat: Open-Vocabulary Egocentric Scene Understanding with Language Embedded 3D Gaussian Splatting." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.11345)]
 [2025.03]
 
-:boom:**PPO:** Xueyu Liu · Rui Wang · Yexin Lai · Guangze Shi · Feixue Shao · Fang Hao · Jianan Zhang · Jia Shen · Yongfei Wu · Wen Zheng.<br />
+- **PPO:** Xueyu Liu · Rui Wang · Yexin Lai · Guangze Shi · Feixue Shao · Fang Hao · Jianan Zhang · Jia Shen · Yongfei Wu · Wen Zheng.<br />
 "Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater." CVPR (2025).
 [[paper](https://cvpr.thecvf.com/Conferences/2025/AcceptedPapers)]
 [[code](https://github.com/XueyuLiu/PPO)]
 [2025.03]
 
-:boom:**EPAF:** Li, Dongsheng and Zang, Chunyan and Zhang, Huijie and Lin, Yiming and Xia, Qiushi.<br />
+- **EPAF:** Li, Dongsheng and Zang, Chunyan and Zhang, Huijie and Lin, Yiming and Xia, Qiushi.<br />
 "An Efficient Pore Annotation Framework for Tight Sandstone Images with Segment Anything Model." ICASSP (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10889236)]
 [[code](https://github.com/wudi-ldd/EPAF)]
 [2025.03]
 
-:boom:**SAM2-SP:** Wei, Sheng and Qiu, Song and Zhou, Mei and Zhang, He and Wang, Yan and Li, Qingli.<br />
+- **SAM2-SP:** Wei, Sheng and Qiu, Song and Zhou, Mei and Zhang, He and Wang, Yan and Li, Qingli.<br />
 "Self-Prompting Driven SAM2 for 3D Medical Image Segmentation." ICASSP (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10889344)]
 [2025.03]
 
-:boom:**EP-SAM:** Wang, Zhitao and Wen, Jiangtao and Han, Yuxing.<br />
+- **EP-SAM:** Wang, Zhitao and Wen, Jiangtao and Han, Yuxing.<br />
 "EP-SAM: An Edge-Detection Prompt SAM Based Efficient Framework for Ultra-Low Light Video Segmentation." ICASSP (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10889601)]
 [[code](https://github.com/wzt22thu/EP-SAM/releases/tag/DEMO)]
 [2025.03]
 
-:boom:**U-SAM:** Jin, Xiaofeng and Hu, Jie and Lin, Jianghang and Zhang, Shengchuan and Cao, Liujuan.<br />
+- **U-SAM:** Jin, Xiaofeng and Hu, Jie and Lin, Jianghang and Zhang, Shengchuan and Cao, Liujuan.<br />
 "U-SAM: Upgrade Segment Anything Model With Semantic-Aware and Memory-Efficient." ICASSP (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10889270)]
 [2025.03]
 
-:boom:**VLIMNet:** Chen, Zhongyuan and Zhang, Zhan and Zuo, Decheng and Wang, Ning and Fan, Liufeng and Liu, Zhiwei.<br />
+- **VLIMNet:** Chen, Zhongyuan and Zhang, Zhan and Zuo, Decheng and Wang, Ning and Fan, Liufeng and Liu, Zhiwei.<br />
 "VLIMNet: A Visible Light And Infrared Image Matching Network Based On Segment Anything Model And SuperPoint." ICASSP (2025).
 [[paper](https://ieeexplore.ieee.org/document/10889254)]
 [2025.03]
 
-:boom:Ling, Yinzhou and Luo, Jingjing and Han, Yuan and Li, Wenxian and Wang, Hongbo.<br />
+- Ling, Yinzhou and Luo, Jingjing and Han, Yuan and Li, Wenxian and Wang, Hongbo.<br />
 "Instance Segmentation of Airway Anatomies Using Mask R-CNN Prompt Adaptation-SAM." ICASSP (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10889207)]
 [2025.03]
