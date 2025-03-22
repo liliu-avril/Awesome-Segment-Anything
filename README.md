@@ -245,7 +245,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://ieeexplore.ieee.org/document/10899855)]
 [2025.03]
 
-- **SFA-Net:** Tian Gao and Chaozhen Lan and Wenjun Huang and Sheng Wang.<br />
+:boom:**SFA-Net:** Tian Gao and Chaozhen Lan and Wenjun Huang and Sheng Wang.<br />
 "SFA-Net: A SAM-guided focused attention network for multimodal remote sensing image matching." ISPRS Journal of Photogrammetry and Remote Sensing (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0924271625000905)]
 [[code](https://github.com/GaotTian/SFA-Net)]
