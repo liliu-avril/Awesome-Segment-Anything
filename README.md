@@ -251,6 +251,12 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/GaotTian/SFA-Net)]
 [2025.03]
 
+:boom:**DSATNet:** Li Y, Huang J, Zhang Y, Deng J, Zhang J, Dong L, Wang D, Mei L, Lei C.<br />
+"Dual branch segment anything model-transformer fusion network for accurate breast ultrasound image segmentation." Med Phys (2025).
+[[paper](https://pubmed.ncbi.nlm.nih.gov/40103542/)]
+[[code](https://github.com/Skylanding/DSATNet)]
+[2025.03]
+
 - **M2N2V2:** Markus Karmann, Peng-Tao Jiang, Bo Li, Onay Urfalioglu.<br />
 "M2N2V2: Multi-Modal Unsupervised and Training-free Interactive Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.16254)]
