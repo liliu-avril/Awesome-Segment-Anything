@@ -240,6 +240,30 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**PanoGS:** Hongjia Zhai, Hai Li, Zhenzhe Li, Xiaokun Pan, Yijia He, Guofeng Zhang.<br />
+"PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding." CVPR (2025).
+[[paper](https://arxiv.org/abs/2503.18107)]
+[[code](https://zju3dv.github.io/panogs)]
+[2025.03]
+
+:boom:**OCRT:** Luyao Tang, Yuxuan Yuan, Chaoqi Chen, Zeyu Zhang, Yue Huang, Kun Zhang.<br />
+"OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad." CVPR (2025).
+[[paper](https://arxiv.org/abs/2503.18695)]
+[[code](https://github.com/lytang63/OCRT)]
+[2025.03]
+
+:boom:**HU-MCD:** Arne Grobrügge, Niklas Kühl, Gerhard Satzger, Philipp Spitzer.<br />
+"Towards Human-Understandable Multi-Dimensional Concept Discovery." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.18629)]
+[[code](https://github.com/grobruegge/hu-mcd)]
+[2025.03]
+
+:boom:**PG-SAM:** Yiheng Zhong, Zihong Luo, Chengzhi Liu, Feilong Tang, Zelin Peng, Ming Hu, Yingzhen Hu, Jionglong Su, Zongyuan Geand, Imran Razzak.<br />
+"PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.18227)]
+[[code](https://github.com/logan-0623/PG-SAM)]
+[2025.03]
+
 :boom:**MambaSAM:** Liang, Pengchen and Shi, Leijun and Pu, Bin and Wu, Renkai and Chen, Jianguo and Zhou, Lixin and Xu, Lite and Chen, Zhuangzhuang and Chang, Qing and Li, Yiwei.<br />
 "MambaSAM: A Visual Mamba-Adapted SAM Framework for Medical Image Segmentation." JBHI (2025).
 [[paper](https://ieeexplore.ieee.org/document/10899855)]
