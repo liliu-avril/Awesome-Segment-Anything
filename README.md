@@ -240,6 +240,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Siamese-SAM:** Wei, Gang and Miao, Yuqi and Wang, Zhicheng.<br />
+"Siamese-SAM: Remote Sensing Image Change Detection with Siamese Structure Segment Anything Model." Applied Sciences (2025).
+[[paper](https://www.mdpi.com/2076-3417/15/7/3475)]
+[2025.03]
+
 :boom:**PanoGS:** Hongjia Zhai, Hai Li, Zhenzhe Li, Xiaokun Pan, Yijia He, Guofeng Zhang.<br />
 "PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.18107)]
