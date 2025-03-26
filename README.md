@@ -240,6 +240,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**BiPrompt-SAM:** Suzhe Xu, Jialin Peng, Chengyuan Zhang.<br />
+"BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.19769)]
+[2025.03]
+
+:boom:**CamSAM2:** Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu.<br />
+"CamSAM2: Segment Anything Accurately in Camouflaged Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.19730)]
+[[code](https://github.com/zhoustan/CamSAM2)]
+[2025.03]
+
 :boom:**Siamese-SAM:** Wei, Gang and Miao, Yuqi and Wang, Zhicheng.<br />
 "Siamese-SAM: Remote Sensing Image Change Detection with Siamese Structure Segment Anything Model." Applied Sciences (2025).
 [[paper](https://www.mdpi.com/2076-3417/15/7/3475)]
