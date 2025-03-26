@@ -240,6 +240,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Optimized MedSAM:** Boyi Li, Ye Yuan, Wenjun Tan.<br />
+"Optimization of MedSAM model based on bounding box adaptive perturbation algorithm." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.19700)]
+[2025.03]
+
 :boom:**BiPrompt-SAM:** Suzhe Xu, Jialin Peng, Chengyuan Zhang.<br />
 "BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.19769)]
