@@ -240,6 +240,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Feature4X:** Shijie Zhou, Hui Ren, Yijia Weng, Shuwang Zhang, Zhen Wang, Dejia Xu, Zhiwen Fan, Suya You, Zhangyang Wang, Leonidas Guibas, Achuta Kadambi.<br />
+"Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields." CVPR (2025).
+[[paper](https://arxiv.org/abs/2503.20776)]
+[[code](https://feature4x.github.io/)]
+[2025.03]
+
+:boom:**CABL:** Xinghao Wang, Changtao Miao, Dianmo Sheng, Tao Gong, Qi Chu, Bin Liu, Nenghai Yu.<br />
+"Context-Aware Weakly Supervised Image Manipulation Localization with SAM Refinement." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.20294)]
+[2025.03]
+
+:boom:**DSMPrompter:** Mélisande Teng, Arthur Ouaknine, Etienne Laliberté, Yoshua Bengio, David Rolnick, Hugo Larochelle.<br />
+"Assessing SAM for Tree Crown Instance Segmentation from Drone Imagery." ICLR ML4RS workshop (2025).
+[[paper](https://arxiv.org/abs/2503.20199)]
+[2025.03]
+
 :boom:**Optimized MedSAM:** Boyi Li, Ye Yuan, Wenjun Tan.<br />
 "Optimization of MedSAM model based on bounding box adaptive perturbation algorithm." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.19700)]
