@@ -240,6 +240,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**DGSUnet:** Yimin Xu.<br />
+"DGSUnet: An Improved Unet Model with DINO-Guided SAM2 for Multi-Scale Feature Collaboration." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.21187)]
+[[code](https://github.com/CheneyXuYiMin/SAM2DINO-Seg)]
+[2025.03]
+
+:boom:**seconGS:** Hairong Yin, Huangying Zhan, Yi Xu, Raymond A. Yeh.<br />
+"Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.21767)]
+[[code](https://evelinyin.github.io/seconGS/)]
+[2025.03]
+
+:boom:**AMA-SAM:** Jiahe Qian, Yaoyu Fang, Jinkui Hao, Bo Zhou.<br />
+"AMA-SAM: Adversarial Multi-Domain Alignment of Segment Anything Model for High-Fidelity Histology Nuclei Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.21695)]
+[2025.03]
+
 :boom:**Feature4X:** Shijie Zhou, Hui Ren, Yijia Weng, Shuwang Zhang, Zhen Wang, Dejia Xu, Zhiwen Fan, Suya You, Zhangyang Wang, Leonidas Guibas, Achuta Kadambi.<br />
 "Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.20776)]
