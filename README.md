@@ -240,96 +240,111 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**DGSUnet:** Yimin Xu.<br />
+:boom:**Erosion-SAM:** Hadi Shokati and Andreas Engelhardt and Kay Seufferheld and Ruhollah Taghizadeh-Mehrjardi and Peter Fiener and Hendrik P.A. Lensch and Thomas Scholten.<br />
+"Erosion-SAM: Semantic segmentation of soil erosion by water." Catena(2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0341816225002565)]
+[2025.03]
+
+:boom:**SD-YOLOv8:** Zhang, Xintong, Dasheng Wu, and Fengya Xu.<br />
+"SD-YOLOv8: SAM-Assisted Dual-Branch YOLOv8 Model for Tea Bud Detection on Optical Images." Agriculture(2025).
+[[paper](https://www.mdpi.com/2077-0472/15/7/712)]
+[2025.03]
+
+:boom:**WS-SAM:** Zhang, Z., Ma, F., Liu, H. et al.<br />
+"WS-SAM: self-prompting SAM with wavelet and spatial domain for OCTA retinal vessel segmentation." The Journal of Supercomputing (2025).
+[[paper](https://link.springer.com/article/10.1007/s11227-025-07136-7)]
+[2025.03]
+
+- **DGSUnet:** Yimin Xu.<br />
 "DGSUnet: An Improved Unet Model with DINO-Guided SAM2 for Multi-Scale Feature Collaboration." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.21187)]
 [[code](https://github.com/CheneyXuYiMin/SAM2DINO-Seg)]
 [2025.03]
 
-:boom:**seconGS:** Hairong Yin, Huangying Zhan, Yi Xu, Raymond A. Yeh.<br />
+- **seconGS:** Hairong Yin, Huangying Zhan, Yi Xu, Raymond A. Yeh.<br />
 "Semantic Consistent Language Gaussian Splatting for Point-Level Open-vocabulary Querying." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.21767)]
 [[code](https://evelinyin.github.io/seconGS/)]
 [2025.03]
 
-:boom:**AMA-SAM:** Jiahe Qian, Yaoyu Fang, Jinkui Hao, Bo Zhou.<br />
+- **AMA-SAM:** Jiahe Qian, Yaoyu Fang, Jinkui Hao, Bo Zhou.<br />
 "AMA-SAM: Adversarial Multi-Domain Alignment of Segment Anything Model for High-Fidelity Histology Nuclei Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.21695)]
 [2025.03]
 
-:boom:**Feature4X:** Shijie Zhou, Hui Ren, Yijia Weng, Shuwang Zhang, Zhen Wang, Dejia Xu, Zhiwen Fan, Suya You, Zhangyang Wang, Leonidas Guibas, Achuta Kadambi.<br />
+- **Feature4X:** Shijie Zhou, Hui Ren, Yijia Weng, Shuwang Zhang, Zhen Wang, Dejia Xu, Zhiwen Fan, Suya You, Zhangyang Wang, Leonidas Guibas, Achuta Kadambi.<br />
 "Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.20776)]
 [[code](https://feature4x.github.io/)]
 [2025.03]
 
-:boom:**CABL:** Xinghao Wang, Changtao Miao, Dianmo Sheng, Tao Gong, Qi Chu, Bin Liu, Nenghai Yu.<br />
+- **CABL:** Xinghao Wang, Changtao Miao, Dianmo Sheng, Tao Gong, Qi Chu, Bin Liu, Nenghai Yu.<br />
 "Context-Aware Weakly Supervised Image Manipulation Localization with SAM Refinement." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.20294)]
 [2025.03]
 
-:boom:**DSMPrompter:** Mélisande Teng, Arthur Ouaknine, Etienne Laliberté, Yoshua Bengio, David Rolnick, Hugo Larochelle.<br />
+- **DSMPrompter:** Mélisande Teng, Arthur Ouaknine, Etienne Laliberté, Yoshua Bengio, David Rolnick, Hugo Larochelle.<br />
 "Assessing SAM for Tree Crown Instance Segmentation from Drone Imagery." ICLR ML4RS workshop (2025).
 [[paper](https://arxiv.org/abs/2503.20199)]
 [2025.03]
 
-:boom:**Optimized MedSAM:** Boyi Li, Ye Yuan, Wenjun Tan.<br />
+- **Optimized MedSAM:** Boyi Li, Ye Yuan, Wenjun Tan.<br />
 "Optimization of MedSAM model based on bounding box adaptive perturbation algorithm." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.19700)]
 [2025.03]
 
-:boom:**BiPrompt-SAM:** Suzhe Xu, Jialin Peng, Chengyuan Zhang.<br />
+- **BiPrompt-SAM:** Suzhe Xu, Jialin Peng, Chengyuan Zhang.<br />
 "BiPrompt-SAM: Enhancing Image Segmentation via Explicit Selection between Point and Text Prompts." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.19769)]
 [2025.03]
 
-:boom:**CamSAM2:** Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu.<br />
+- **CamSAM2:** Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu.<br />
 "CamSAM2: Segment Anything Accurately in Camouflaged Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.19730)]
 [[code](https://github.com/zhoustan/CamSAM2)]
 [2025.03]
 
-:boom:**Siamese-SAM:** Wei, Gang and Miao, Yuqi and Wang, Zhicheng.<br />
+- **Siamese-SAM:** Wei, Gang and Miao, Yuqi and Wang, Zhicheng.<br />
 "Siamese-SAM: Remote Sensing Image Change Detection with Siamese Structure Segment Anything Model." Applied Sciences (2025).
 [[paper](https://www.mdpi.com/2076-3417/15/7/3475)]
 [2025.03]
 
-:boom:**PanoGS:** Hongjia Zhai, Hai Li, Zhenzhe Li, Xiaokun Pan, Yijia He, Guofeng Zhang.<br />
+- **PanoGS:** Hongjia Zhai, Hai Li, Zhenzhe Li, Xiaokun Pan, Yijia He, Guofeng Zhang.<br />
 "PanoGS: Gaussian-based Panoptic Segmentation for 3D Open Vocabulary Scene Understanding." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.18107)]
 [[code](https://zju3dv.github.io/panogs)]
 [2025.03]
 
-:boom:**OCRT:** Luyao Tang, Yuxuan Yuan, Chaoqi Chen, Zeyu Zhang, Yue Huang, Kun Zhang.<br />
+- **OCRT:** Luyao Tang, Yuxuan Yuan, Chaoqi Chen, Zeyu Zhang, Yue Huang, Kun Zhang.<br />
 "OCRT: Boosting Foundation Models in the Open World with Object-Concept-Relation Triad." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.18695)]
 [[code](https://github.com/lytang63/OCRT)]
 [2025.03]
 
-:boom:**HU-MCD:** Arne Grobrügge, Niklas Kühl, Gerhard Satzger, Philipp Spitzer.<br />
+- **HU-MCD:** Arne Grobrügge, Niklas Kühl, Gerhard Satzger, Philipp Spitzer.<br />
 "Towards Human-Understandable Multi-Dimensional Concept Discovery." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.18629)]
 [[code](https://github.com/grobruegge/hu-mcd)]
 [2025.03]
 
-:boom:**PG-SAM:** Yiheng Zhong, Zihong Luo, Chengzhi Liu, Feilong Tang, Zelin Peng, Ming Hu, Yingzhen Hu, Jionglong Su, Zongyuan Geand, Imran Razzak.<br />
+- **PG-SAM:** Yiheng Zhong, Zihong Luo, Chengzhi Liu, Feilong Tang, Zelin Peng, Ming Hu, Yingzhen Hu, Jionglong Su, Zongyuan Geand, Imran Razzak.<br />
 "PG-SAM: Prior-Guided SAM with Medical for Multi-organ Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.18227)]
 [[code](https://github.com/logan-0623/PG-SAM)]
 [2025.03]
 
-:boom:**MambaSAM:** Liang, Pengchen and Shi, Leijun and Pu, Bin and Wu, Renkai and Chen, Jianguo and Zhou, Lixin and Xu, Lite and Chen, Zhuangzhuang and Chang, Qing and Li, Yiwei.<br />
+- **MambaSAM:** Liang, Pengchen and Shi, Leijun and Pu, Bin and Wu, Renkai and Chen, Jianguo and Zhou, Lixin and Xu, Lite and Chen, Zhuangzhuang and Chang, Qing and Li, Yiwei.<br />
 "MambaSAM: A Visual Mamba-Adapted SAM Framework for Medical Image Segmentation." JBHI (2025).
 [[paper](https://ieeexplore.ieee.org/document/10899855)]
 [2025.03]
 
-:boom:**SFA-Net:** Tian Gao and Chaozhen Lan and Wenjun Huang and Sheng Wang.<br />
+- **SFA-Net:** Tian Gao and Chaozhen Lan and Wenjun Huang and Sheng Wang.<br />
 "SFA-Net: A SAM-guided focused attention network for multimodal remote sensing image matching." ISPRS Journal of Photogrammetry and Remote Sensing (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0924271625000905)]
 [[code](https://github.com/GaotTian/SFA-Net)]
 [2025.03]
 
-:boom:**DSATNet:** Li Y, Huang J, Zhang Y, Deng J, Zhang J, Dong L, Wang D, Mei L, Lei C.<br />
+- **DSATNet:** Li Y, Huang J, Zhang Y, Deng J, Zhang J, Dong L, Wang D, Mei L, Lei C.<br />
 "Dual branch segment anything model-transformer fusion network for accurate breast ultrasound image segmentation." Med Phys (2025).
 [[paper](https://pubmed.ncbi.nlm.nih.gov/40103542/)]
 [[code](https://github.com/Skylanding/DSATNet)]
