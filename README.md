@@ -240,6 +240,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Motion-Seg:** Nan Huang, Wenzhao Zheng, Chenfeng Xu, Kurt Keutzer, Shanghang Zhang, Angjoo Kanazawa, Qianqian Wang.<br />
+"Segment Any Motion in Videos." CVPR (2025).
+[[paper](https://arxiv.org/abs/2503.22268)]
+[[code](https://motion-seg.github.io/)]
+[2025.03]
+
+:boom:**SCHNet:** Kunliang Liu, Jianming Wang, Rize Jin, Wonjun Hwang, Tae-Sun Chung.<br />
+"SCHNet: SAM Marries CLIP for Human Parsing." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.22237)]
+[2025.03]
+
+:boom:**BlooDet:** Jialun Pei, Zhangjun Zhou, Diandian Guo, Zhixi Li, Jing Qin, Bo Du, Pheng-Ann Heng.<br />
+"Synergistic Bleeding Region and Point Detection in Surgical Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.22174)]
+[2025.03]
+
 :boom:**Erosion-SAM:** Hadi Shokati and Andreas Engelhardt and Kay Seufferheld and Ruhollah Taghizadeh-Mehrjardi and Peter Fiener and Hendrik P.A. Lensch and Thomas Scholten.<br />
 "Erosion-SAM: Semantic segmentation of soil erosion by water." Catena(2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0341816225002565)]
