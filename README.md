@@ -240,6 +240,46 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**ReferDINO-Plus:** Tianming Liang, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu.<br />
+"ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.23509)]
+[[code](https://github.com/iSEE-Laboratory/ReferDINO-Plus)]
+[2025.03]
+
+:boom:**SALT:** Yanbo Wang, Yongtao Chen, Chuan Cao, Tianchen Deng, Wentao Zhao, Jingchuan Wang, Weidong Chen.<br />
+"SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.23980)]
+[[code](https://github.com/Cavendish518/SALT)]
+[2025.03]
+
+:boom:**MedCL:** Ke Zhang, Vishal M. Patel.<br />
+"MedCL: Learning Consistent Anatomy Distribution for Scribble-supervised Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.22890)]
+[[code](https://github.com/BWGZK/MedCL)]
+[2025.03]
+
+:boom:**ReasonGrounder:** Zhenyang Liu, Yikai Wang, Sixiao Zheng, Tongying Pan, Longfei Liang, Yanwei Fu, Xiangyang Xue.<br />
+"ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.23297)]
+[[code](https://zhenyangliu.github.io/ReasonGrounder/)]
+[2025.03]
+
+:boom:Uxue Delaquintana-Aramendi, Leire Benito-del-Valle, Aitor Alvarez-Gila, Javier Pascau, Luisa F Sánchez-Peralta, Artzai Picón, J Blas Pagador, Cristina L Saratxaga.<br />
+"AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.24138)]
+[2025.03]
+
+:boom:**IMPACT:** Valentin Boussot, Cédric Hémon, Jean-Claude Nunes, Jason Downling, Simon Rouzé, Caroline Lafond, Anaïs Barateau, Jean-Louis Dillenseger.<br />
+"IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.24121)]
+[2025.03]
+
+:boom:**MGD-SAM2:** Haoran Shen, Peixian Zhuang, Jiahao Kou, Yuxin Zeng, Haoying Xu, Jiangyun Li.<br />
+"MGD-SAM2: Multi-view Guided Detail-enhanced Segment Anything Model 2 for High-Resolution Class-agnostic Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.23786)]
+[[code](https://github.com/sevenshr/MGD-SAM2)]
+[2025.03]
+
 :boom:**Motion-Seg:** Nan Huang, Wenzhao Zheng, Chenfeng Xu, Kurt Keutzer, Shanghang Zhang, Angjoo Kanazawa, Qianqian Wang.<br />
 "Segment Any Motion in Videos." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.22268)]
