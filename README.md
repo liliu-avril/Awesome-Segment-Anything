@@ -240,6 +240,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**DBF-UNet:** Haoxuan Li, Wei Song, Aofan Liu, Peiwu Qin.<br />
+"DBF-UNet: A Two-Stage Framework for Carotid Artery Segmentation with Pseudo-Label Generation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.00908)]
+[[code](https://github.com/Haoxuanli-Thu/DBF-UNet)]
+[2025.04]
+
+:boom:**SAL-4D:** Yushan Zhang, Aljoša Ošep, Laura Leal-Taixé, Tim Meinhardt.<br />
+"Zero-Shot 4D Lidar Panoptic Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.00848)]
+[2025.04]
+
+:boom:**CamoSAM2:** Xin Zhang, Keren Fu, Qijun Zhao.<br />
+"CamoSAM2: Motion-Appearance Induced Auto-Refining Prompts for Video Camouflaged Object Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.00375)]
+[2025.04]
+
+:boom:**HybridGL:** Ting Liu, Siyuan Li.<br />
+"Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.00356)]
+[[code](https://github.com/fhgyuanshen/HybridGL)]
+[2025.04]
+
+:boom:**SmartScan:** Savinay Nagendra, Kashif Rashid.<br />
+"SmartScan: An AI-based Interactive Framework for Automated Region Extraction from Satellite Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.00200)]
+[2025.04]
+
 :boom:**ReferDINO-Plus:** Tianming Liang, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu.<br />
 "ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.23509)]
