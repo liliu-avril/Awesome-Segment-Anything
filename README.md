@@ -240,6 +240,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**BiSeg-SAM:** Encheng Su, Hu Cao, Alois Knoll.<br />
+"BiSeg-SAM: Weakly-Supervised Post-Processing Framework for Boosting Binary Segmentation in Segment Anything Models." BIBM (2024).
+[[paper](https://arxiv.org/abs/2504.01452)]
+[[code](https://github.com/suencgo/BiSeg-SAM.)]
+[2025.04]
+
 :boom:**DBF-UNet:** Haoxuan Li, Wei Song, Aofan Liu, Peiwu Qin.<br />
 "DBF-UNet: A Two-Stage Framework for Carotid Artery Segmentation with Pseudo-Label Generation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.00908)]
