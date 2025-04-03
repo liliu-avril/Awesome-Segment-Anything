@@ -240,6 +240,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**ReferDINO-Plus:** Tianming Liang, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu.<br />
+"ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.23509)]
+[[code](https://github.com/iSEE-Laboratory/ReferDINO-Plus)]
+[2025.03]
+
+:boom:**Sa2VA:** Haobo Yuan, Tao Zhang, Xiangtai Li, Lu Qi, Zilong Huang, Shilin Xu, Jiashi Feng, Ming-Hsuan Yang.<br />
+"4th PVUW MeViS 3rd Place Report: Sa2VA." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.00476)]
+[[code](https://github.com/magic-research/Sa2VA)]
+[2025.04]
+
 :boom:**BiSeg-SAM:** Encheng Su, Hu Cao, Alois Knoll.<br />
 "BiSeg-SAM: Weakly-Supervised Post-Processing Framework for Boosting Binary Segmentation in Segment Anything Models." BIBM (2024).
 [[paper](https://arxiv.org/abs/2504.01452)]
@@ -272,12 +284,6 @@ If you find our work useful in your research, please consider citing:
 "SmartScan: An AI-based Interactive Framework for Automated Region Extraction from Satellite Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.00200)]
 [2025.04]
-
-:boom:**ReferDINO-Plus:** Tianming Liang, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu.<br />
-"ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025." ArXiv (2025).
-[[paper](https://arxiv.org/abs/2503.23509)]
-[[code](https://github.com/iSEE-Laboratory/ReferDINO-Plus)]
-[2025.03]
 
 :boom:**SALT:** Yanbo Wang, Yongtao Chen, Chuan Cao, Tianchen Deng, Wentao Zhao, Jingchuan Wang, Weidong Chen.<br />
 "SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency." ArXiv (2025).
