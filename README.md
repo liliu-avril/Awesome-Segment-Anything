@@ -240,6 +240,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Delineate-Anything:** Mykola Lavreniuk, Nataliia Kussul, Andrii Shelestov, Bohdan Yailymov, Yevhenii Salii, Volodymyr Kuzin, Zoltan Szantoi.<br />
+"Delineate Anything: Resolution-Agnostic Field Boundary Delineation on Satellite Imagery." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.02534)]
+[[code](https://lavreniuk.github.io/Delineate-Anything)]
+[2025.04]
+
+:boom:**APSeg:** Liying Xu, Hongliang He, Wei Han, Hanbin Huang, Siwei Feng, Guohong Fu.<br />
+"APSeg: Auto-Prompt Model with Acquired and Injected Knowledge for Nuclear Instance Segmentation and Classification." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.02222)]
+[2025.04]
+
+:boom:**F-ViTA:** Jay N. Paranjape, Celso de Melo, Vishal M. Patel.<br />
+"F-ViTA: Foundation Model Guided Visible to Thermal Translation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.02801)]
+[[code](https://github.com/JayParanjape/F-ViTA/tree/master)]
+[2025.04]
+
 :boom:**ReferDINO-Plus:** Tianming Liang, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu.<br />
 "ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.23509)]
