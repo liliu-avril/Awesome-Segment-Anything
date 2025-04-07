@@ -240,129 +240,141 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**Delineate-Anything:** Mykola Lavreniuk, Nataliia Kussul, Andrii Shelestov, Bohdan Yailymov, Yevhenii Salii, Volodymyr Kuzin, Zoltan Szantoi.<br />
+:boom:**MedSAM2:** Jun Ma, Zongxin Yang, Sumin Kim, Bihui Chen, Mohammed Baharoon, Adibvafa Fallahpour, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
+"MedSAM2: Segment Anything in 3D Medical Images and Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.03600)]
+[[code](https://medsam2.github.io/)]
+[2025.04]
+
+:boom:**GraphSeg:** Haozhan Tang, Tianyi Zhang, Oliver Kroemer, Matthew Johnson-Roberson, Weiming Zhi.<br />
+"GraphSeg: Segmented 3D Representations via Graph Edge Addition and Contraction." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.03129)]
+[[code](https://github.com/tomtang502/graphseg.git)]
+[2025.04]
+
+- **Delineate-Anything:** Mykola Lavreniuk, Nataliia Kussul, Andrii Shelestov, Bohdan Yailymov, Yevhenii Salii, Volodymyr Kuzin, Zoltan Szantoi.<br />
 "Delineate Anything: Resolution-Agnostic Field Boundary Delineation on Satellite Imagery." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.02534)]
 [[code](https://lavreniuk.github.io/Delineate-Anything)]
 [2025.04]
 
-:boom:**APSeg:** Liying Xu, Hongliang He, Wei Han, Hanbin Huang, Siwei Feng, Guohong Fu.<br />
+- **APSeg:** Liying Xu, Hongliang He, Wei Han, Hanbin Huang, Siwei Feng, Guohong Fu.<br />
 "APSeg: Auto-Prompt Model with Acquired and Injected Knowledge for Nuclear Instance Segmentation and Classification." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.02222)]
 [2025.04]
 
-:boom:**F-ViTA:** Jay N. Paranjape, Celso de Melo, Vishal M. Patel.<br />
+- **F-ViTA:** Jay N. Paranjape, Celso de Melo, Vishal M. Patel.<br />
 "F-ViTA: Foundation Model Guided Visible to Thermal Translation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.02801)]
 [[code](https://github.com/JayParanjape/F-ViTA/tree/master)]
 [2025.04]
 
-:boom:**ReferDINO-Plus:** Tianming Liang, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu.<br />
+- **ReferDINO-Plus:** Tianming Liang, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu.<br />
 "ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.23509)]
 [[code](https://github.com/iSEE-Laboratory/ReferDINO-Plus)]
 [2025.03]
 
-:boom:**Sa2VA:** Haobo Yuan, Tao Zhang, Xiangtai Li, Lu Qi, Zilong Huang, Shilin Xu, Jiashi Feng, Ming-Hsuan Yang.<br />
+- **Sa2VA:** Haobo Yuan, Tao Zhang, Xiangtai Li, Lu Qi, Zilong Huang, Shilin Xu, Jiashi Feng, Ming-Hsuan Yang.<br />
 "4th PVUW MeViS 3rd Place Report: Sa2VA." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.00476)]
 [[code](https://github.com/magic-research/Sa2VA)]
 [2025.04]
 
-:boom:**BiSeg-SAM:** Encheng Su, Hu Cao, Alois Knoll.<br />
+- **BiSeg-SAM:** Encheng Su, Hu Cao, Alois Knoll.<br />
 "BiSeg-SAM: Weakly-Supervised Post-Processing Framework for Boosting Binary Segmentation in Segment Anything Models." BIBM (2024).
 [[paper](https://arxiv.org/abs/2504.01452)]
 [[code](https://github.com/suencgo/BiSeg-SAM.)]
 [2025.04]
 
-:boom:**DBF-UNet:** Haoxuan Li, Wei Song, Aofan Liu, Peiwu Qin.<br />
+- **DBF-UNet:** Haoxuan Li, Wei Song, Aofan Liu, Peiwu Qin.<br />
 "DBF-UNet: A Two-Stage Framework for Carotid Artery Segmentation with Pseudo-Label Generation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.00908)]
 [[code](https://github.com/Haoxuanli-Thu/DBF-UNet)]
 [2025.04]
 
-:boom:**SAL-4D:** Yushan Zhang, Aljoša Ošep, Laura Leal-Taixé, Tim Meinhardt.<br />
+- **SAL-4D:** Yushan Zhang, Aljoša Ošep, Laura Leal-Taixé, Tim Meinhardt.<br />
 "Zero-Shot 4D Lidar Panoptic Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.00848)]
 [2025.04]
 
-:boom:**CamoSAM2:** Xin Zhang, Keren Fu, Qijun Zhao.<br />
+- **CamoSAM2:** Xin Zhang, Keren Fu, Qijun Zhao.<br />
 "CamoSAM2: Motion-Appearance Induced Auto-Refining Prompts for Video Camouflaged Object Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.00375)]
 [2025.04]
 
-:boom:**HybridGL:** Ting Liu, Siyuan Li.<br />
+- **HybridGL:** Ting Liu, Siyuan Li.<br />
 "Hybrid Global-Local Representation with Augmented Spatial Guidance for Zero-Shot Referring Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.00356)]
 [[code](https://github.com/fhgyuanshen/HybridGL)]
 [2025.04]
 
-:boom:**SmartScan:** Savinay Nagendra, Kashif Rashid.<br />
+- **SmartScan:** Savinay Nagendra, Kashif Rashid.<br />
 "SmartScan: An AI-based Interactive Framework for Automated Region Extraction from Satellite Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.00200)]
 [2025.04]
 
-:boom:**SALT:** Yanbo Wang, Yongtao Chen, Chuan Cao, Tianchen Deng, Wentao Zhao, Jingchuan Wang, Weidong Chen.<br />
+- **SALT:** Yanbo Wang, Yongtao Chen, Chuan Cao, Tianchen Deng, Wentao Zhao, Jingchuan Wang, Weidong Chen.<br />
 "SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.23980)]
 [[code](https://github.com/Cavendish518/SALT)]
 [2025.03]
 
-:boom:**MedCL:** Ke Zhang, Vishal M. Patel.<br />
+- **MedCL:** Ke Zhang, Vishal M. Patel.<br />
 "MedCL: Learning Consistent Anatomy Distribution for Scribble-supervised Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.22890)]
 [[code](https://github.com/BWGZK/MedCL)]
 [2025.03]
 
-:boom:**ReasonGrounder:** Zhenyang Liu, Yikai Wang, Sixiao Zheng, Tongying Pan, Longfei Liang, Yanwei Fu, Xiangyang Xue.<br />
+- **ReasonGrounder:** Zhenyang Liu, Yikai Wang, Sixiao Zheng, Tongying Pan, Longfei Liang, Yanwei Fu, Xiangyang Xue.<br />
 "ReasonGrounder: LVLM-Guided Hierarchical Feature Splatting for Open-Vocabulary 3D Visual Grounding and Reasoning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.23297)]
 [[code](https://zhenyangliu.github.io/ReasonGrounder/)]
 [2025.03]
 
-:boom:Uxue Delaquintana-Aramendi, Leire Benito-del-Valle, Aitor Alvarez-Gila, Javier Pascau, Luisa F Sánchez-Peralta, Artzai Picón, J Blas Pagador, Cristina L Saratxaga.<br />
+- Uxue Delaquintana-Aramendi, Leire Benito-del-Valle, Aitor Alvarez-Gila, Javier Pascau, Luisa F Sánchez-Peralta, Artzai Picón, J Blas Pagador, Cristina L Saratxaga.<br />
 "AI-Assisted Colonoscopy: Polyp Detection and Segmentation using Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.24138)]
 [2025.03]
 
-:boom:**IMPACT:** Valentin Boussot, Cédric Hémon, Jean-Claude Nunes, Jason Downling, Simon Rouzé, Caroline Lafond, Anaïs Barateau, Jean-Louis Dillenseger.<br />
+- **IMPACT:** Valentin Boussot, Cédric Hémon, Jean-Claude Nunes, Jason Downling, Simon Rouzé, Caroline Lafond, Anaïs Barateau, Jean-Louis Dillenseger.<br />
 "IMPACT: A Generic Semantic Loss for Multimodal Medical Image Registration." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.24121)]
 [2025.03]
 
-:boom:**MGD-SAM2:** Haoran Shen, Peixian Zhuang, Jiahao Kou, Yuxin Zeng, Haoying Xu, Jiangyun Li.<br />
+- **MGD-SAM2:** Haoran Shen, Peixian Zhuang, Jiahao Kou, Yuxin Zeng, Haoying Xu, Jiangyun Li.<br />
 "MGD-SAM2: Multi-view Guided Detail-enhanced Segment Anything Model 2 for High-Resolution Class-agnostic Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.23786)]
 [[code](https://github.com/sevenshr/MGD-SAM2)]
 [2025.03]
 
-:boom:**Motion-Seg:** Nan Huang, Wenzhao Zheng, Chenfeng Xu, Kurt Keutzer, Shanghang Zhang, Angjoo Kanazawa, Qianqian Wang.<br />
+- **Motion-Seg:** Nan Huang, Wenzhao Zheng, Chenfeng Xu, Kurt Keutzer, Shanghang Zhang, Angjoo Kanazawa, Qianqian Wang.<br />
 "Segment Any Motion in Videos." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.22268)]
 [[code](https://motion-seg.github.io/)]
 [2025.03]
 
-:boom:**SCHNet:** Kunliang Liu, Jianming Wang, Rize Jin, Wonjun Hwang, Tae-Sun Chung.<br />
+- **SCHNet:** Kunliang Liu, Jianming Wang, Rize Jin, Wonjun Hwang, Tae-Sun Chung.<br />
 "SCHNet: SAM Marries CLIP for Human Parsing." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.22237)]
 [2025.03]
 
-:boom:**BlooDet:** Jialun Pei, Zhangjun Zhou, Diandian Guo, Zhixi Li, Jing Qin, Bo Du, Pheng-Ann Heng.<br />
+- **BlooDet:** Jialun Pei, Zhangjun Zhou, Diandian Guo, Zhixi Li, Jing Qin, Bo Du, Pheng-Ann Heng.<br />
 "Synergistic Bleeding Region and Point Detection in Surgical Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.22174)]
 [2025.03]
 
-:boom:**Erosion-SAM:** Hadi Shokati and Andreas Engelhardt and Kay Seufferheld and Ruhollah Taghizadeh-Mehrjardi and Peter Fiener and Hendrik P.A. Lensch and Thomas Scholten.<br />
+- **Erosion-SAM:** Hadi Shokati and Andreas Engelhardt and Kay Seufferheld and Ruhollah Taghizadeh-Mehrjardi and Peter Fiener and Hendrik P.A. Lensch and Thomas Scholten.<br />
 "Erosion-SAM: Semantic segmentation of soil erosion by water." Catena(2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0341816225002565)]
 [2025.03]
 
-:boom:**SD-YOLOv8:** Zhang, Xintong, Dasheng Wu, and Fengya Xu.<br />
+- **SD-YOLOv8:** Zhang, Xintong, Dasheng Wu, and Fengya Xu.<br />
 "SD-YOLOv8: SAM-Assisted Dual-Branch YOLOv8 Model for Tea Bud Detection on Optical Images." Agriculture(2025).
 [[paper](https://www.mdpi.com/2077-0472/15/7/712)]
 [2025.03]
 
-:boom:**WS-SAM:** Zhang, Z., Ma, F., Liu, H. et al.<br />
+- **WS-SAM:** Zhang, Z., Ma, F., Liu, H. et al.<br />
 "WS-SAM: self-prompting SAM with wavelet and spatial domain for OCTA retinal vessel segmentation." The Journal of Supercomputing (2025).
 [[paper](https://link.springer.com/article/10.1007/s11227-025-07136-7)]
 [2025.03]
