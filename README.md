@@ -25,7 +25,7 @@ ____
 - 2024.07.31: The first survey on SAM & SAM2 for Videos was online.
 - 2024.07.29: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
-- 2023.05.16: An initial version of recent papers and projects.
+- 2023.05.16: An initial version of this Awesome-Segment-Anything project.
 - 2023.05.14: The first comprehensive SAM survey was online.
 - 2023.04.05: The paper of "Segment Anything" was online.
 ```
