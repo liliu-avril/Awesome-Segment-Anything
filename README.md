@@ -241,6 +241,37 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM2MOT:** Junjie Jiang, Zelin Wang, Manqi Zhao, Yin Li, DongSheng Jiang.<br />
+"SAM2MOT:ANovelParadigm of Multi-Object Tracking by Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.04519)]
+[2025.04]
+
+:boom:**S4M:** Heeji Yoon, Heeseong Shin, Eunbeen Hong, Hyunwook Choi, Hansang Cho, Daun Jeong, Seungryong Kim.<br />
+"S^4M: Boosting Semi-Supervised Instance Segmentation with SAM." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.05301)]
+[[code](https://cvlab-kaist.github.io/S4M)]
+[2025.04]
+
+:boom: Hamza Riaz, Alan F. Smeaton.<br />
+"Resilience of Vision Transformers for Domain Generalisation in the Presence of Out-of-Distribution Noisy Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.04225)]
+[2025.04]
+
+:boom:**UCS:** Dianshuo Li, Li Chen, Yunxiang Cao, Kai Zhu, Jun Cheng.<br />
+"UCS: A Universal Model for Curvilinear Structure Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.04034)]
+[2025.04]
+
+:boom:Mengyuan Liu, Yixiao Chen, Anning Tian, Xinmeng Wu, Mozhi Shen, Tianchou Gong, Jeongkyu Lee.<br />
+"Performance Analysis of Deep Learning Models for Femur Segmentation in MRI Scan." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.04066)]
+[2025.04]
+
+:boom:**CMaP-SAM:** Shuai Chen, Fanman Meng, Haoran Wei, Chenhao Wu, Qingbo Wu, Linfeng Xu, Hongliang Li.<br />
+"CMaP-SAM: Contraction Mapping Prior for SAM-driven Few-shot Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.05049)]
+[2025.04]
+
 :boom:**MedSAM2:** Jun Ma, Zongxin Yang, Sumin Kim, Bihui Chen, Mohammed Baharoon, Adibvafa Fallahpour, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
 "MedSAM2: Segment Anything in 3D Medical Images and Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.03600)]
