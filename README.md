@@ -68,7 +68,7 @@ If you find our work useful in your research, please consider citing:
   [[中文解读]](https://mp.weixin.qq.com/s/uYpRzvRp22-40x8e0pLVIg)
   [2023.05]
 
-- **SAM for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
+- **The first survey on SAM & SAM2 for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
   "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
 [[ArXiv]](https://arxiv.org/abs/2408.08315) 
 [[ChinaXiv]](https://chinaxiv.org/abs/202408.00019)
