@@ -16,13 +16,13 @@
 
 :boom:**[SAM 2](https://github.com/facebookresearch/segment-anything-2): Segment Anything in Images and Videos was released.**
 
-:boom:**[The first survey on SAM for videos](https://github.com/983632847/SAM-for-Videos): Segment Anything for Videos: A Systematic Survey was online.**
+:boom:**[The first survey on SAM & SAM2 for videos](https://github.com/983632847/SAM-for-Videos): Segment Anything for Videos: A Systematic Survey was online.**
 ____
 
 ## :fire: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/liliu-avril/Awesome-Segment-Anything?icon=github&label=last%20updated&color=green)
 ```
-- 2024.07.31: The first survey on SAM for videos was online.
+- 2024.07.31: The first survey on SAM & SAM2 for Videos was online.
 - 2024.07.29: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
 - 2023.05.16: An initial version of recent papers and projects.
