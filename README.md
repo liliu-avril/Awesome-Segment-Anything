@@ -301,6 +301,11 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/JayParanjape/F-ViTA/tree/master)]
 [2025.04]
 
+- **MVP-Lab:** Hao Fang, Runmin Cong, Xiankai Lu, Zhiyang Chen, Wei Zhang.<br />
+"The 1st Solution for 4th PVUW MeViS Challenge: Unleashing the Potential of Large Multimodal Models for Referring Video Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.05178)]
+[2025.04]
+
 - **ReferDINO-Plus:** Tianming Liang, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu.<br />
 "ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.23509)]
