@@ -880,8 +880,9 @@ If you find our work useful in your research, please consider citing:
 [2025.03]
 
 - **SAGE:** Guanyao Wu, Haoyu Liu, Hongming Fu, Yichuan Peng, Jinyuan Liu, Xin Fan, Risheng Liu.<br />
-"Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond." ArXiv (2025).
+"Every SAM Drop Counts: Embracing Semantic Priors for Multi-Modality Image Fusion and Beyond." CVPR (2025).
 [[paper](https://arxiv.org/abs/2503.01210)]
+[[code](https://github.com/RollingPlain/SAGE_IVIF)]
 [2025.03]
 
 - **SparseMamba-PCL:** Luyi Qiu, Tristan Till, Xiaobao Guo, Adams Wai-Kin Kong.<br />
