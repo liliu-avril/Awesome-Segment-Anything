@@ -241,6 +241,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**econSG:** Can Zhang, Gim Hee Lee.<br />
+"econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians." ICLR (2025).
+[[paper](https://arxiv.org/abs/2504.06003)]
+[[code](https://lulusindazc.github.io/econSGproject/)]
+[2025.04]
+
+:boom:**CAT-V:** Yunlong Tang, Jing Bi, Chao Huang, Susan Liang, Daiki Shimada, Hang Hua, Yunzhong Xiao, Yizhi Song, Pinxin Liu, Mingqian Feng, Junjia Guo, Zhuo Liu, Luchuan Song, Ali Vosoughi, Jinxi He, Liu He, Zeliang Zhang, Jiebo Luo, Chenliang Xu.<br />
+"Caption Anything in Video: Fine-grained Object-centric Captioning via Spatiotemporal Multimodal Prompting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.05541)]
+[[code](https://github.com/yunlong10/CAT-V)]
+[2025.04]
+
+:boom:**KAN-SAM:** Xingyuan Li, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
+"KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection." ICME (2025).
+[[paper](https://arxiv.org/abs/2504.05878)]
+[2025.04]
+
+:boom:**HRMedSeg:** Qing Xu, Zhenye Lou, Chenxin Li, Xiangjian He, Rong Qu, Tesema Fiseha Berhanu, Yi Wang, Wenting Duan, Zhen Chen.<br />
+"HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.06205)]
+[[code](https://github.com/xq141839/HRMedSeg)]
+[2025.04]
+
 :boom:**SAM2MOT:** Junjie Jiang, Zelin Wang, Manqi Zhao, Yin Li, DongSheng Jiang.<br />
 "SAM2MOT:ANovelParadigm of Multi-Object Tracking by Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.04519)]
