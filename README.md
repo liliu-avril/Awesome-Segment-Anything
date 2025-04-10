@@ -241,6 +241,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**MovSAM:** Chang Nie, Yiqing Xu, Guangming Wang, Zhe Liu, Yanzi Miao, Hesheng Wang.<br />
+"MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.06863)]
+[[code](https://github.com/IRMVLab/MovSAM)]
+[2025.04]
+
+:boom:Marco Acerbis, Nataša Sladoje, Joakim Lindblad.<br />
+"A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology." SCIA (2025).
+[[paper](https://arxiv.org/abs/2504.06957)]
+[2025.04]
+
+:boom:**Wheat3DGS:** Daiwei Zhang, Joaquin Gajardo, Tomislav Medic, Isinsu Katircioglu, Mike Boss, Norbert Kirchgessner, Achim Walter, Lukas Roth.<br />
+"Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting." CVPRW (2025).
+[[paper](https://arxiv.org/abs/2504.06978)]
+[[code](https://zdwww.github.io/wheat3dgs/)]
+[2025.04]
+
 :boom:**econSG:** Can Zhang, Gim Hee Lee.<br />
 "econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians." ICLR (2025).
 [[paper](https://arxiv.org/abs/2504.06003)]
