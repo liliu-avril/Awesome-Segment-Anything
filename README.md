@@ -241,6 +241,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAMJAM:** Joshua Li, Fernando Jose Pena Cantu, Emily Yu, Alexander Wong, Yuchen Cui, Yuhao Chen.<br />
+"SAMJAM:Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.07867)]
+[2025.04]
+
+:boom:**RP-SAM2:** Nuren Zhaksylyk, Ibrahim Almakky, Jay Paranjape, S. Swaroop Vedula, Shameema Sikder, Vishal M. Patel, Mohammad Yaqub.<br />
+"RP-SAM2: Refining Point Prompts for Stable Surgical Instrument Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.07117)]
+[[code](https://github.com/BioMedIA-MBZUAI/RP-SAM2)]
+[2025.04]
+
 :boom:**MovSAM:** Chang Nie, Yiqing Xu, Guangming Wang, Zhe Liu, Yanzi Miao, Hesheng Wang.<br />
 "MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.06863)]
