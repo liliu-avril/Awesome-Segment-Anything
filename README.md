@@ -241,95 +241,152 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**SAMJAM:** Joshua Li, Fernando Jose Pena Cantu, Emily Yu, Alexander Wong, Yuchen Cui, Yuhao Chen.<br />
+:boom:**WS-SAM:** Zhang, Z., Ma, F., Liu, H. et al.<br />
+"WS-SAM: self-prompting SAM with wavelet and spatial domain for OCTA retinal vessel segmentation." The Journal of Supercomputing (2025).
+[[paper](https://link.springer.com/article/10.1007/s11227-025-07136-7)]
+[2025.04]
+
+:boom:Anbalagan, N., Balraj, N., Jayasingh, N., & Thangavel, P.<br />
+"Brain tumor detection using segment anything model." AIP Conference Proceedings(2025).
+[[paper](https://pubs.aip.org/aip/acp/article-abstract/3279/1/020034/3341679/Brain-tumor-detection-using-segment-anything-model)]
+[2025.04]
+
+:boom:Amirkhosro Kazemi, Aryan Ghazipour, Tyler Settle, Marcus F. Stoddard, and Amir A.<br />
+"Semi-automated segmentation of magnitude images in 4D flow MR scans using segment anything model 2 (SAM 2)." Medical Imaging 2025: Clinical and Biomedical Imaging(2025).
+[[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13410/1341026/Semi-automated-segmentation-of-magnitude-images-in-4D-flow-MR/10.1117/12.3051724.short)]
+[2025.04]
+
+:boom:**MIRSAM:** Zhang, M., Xu, Q., Wang, Y. et al.<br />
+"MIRSAM: multimodal vision-language segment anything model for infrared small target detection." Visual Intelligence.(2025).
+[[paper](https://link.springer.com/article/10.1007/s44267-025-00075-0)]
+[2025.04]
+
+:boom:**DPSAM:** Peng Liu, Jinhong Deng, Lixin Duan, Wen Li, and Fengmao Lv.<br />
+"Segmenting Anything in the Dark via Depth Perception." TMM (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10948332)]
+[[code](https://github.com/liupeng3425/DPSAM)]
+[2025.04]
+
+:boom:Jinlong Huang, Xiao Sun, and Lisheng Wang.<br />
+"Enhancing Foundation Model Robustness for Multi-center Real-World Medical Image Analysis." ArXiv (2025).
+[[paper](https://books.google.com.hk/books?hl=zh-CN&lr=&id=ZlJTEQAAQBAJ&oi=fnd&pg=PA13&ots=rpVvxFnfBj&sig=7GtZgjpOlB3-QPAYJHSidJV_Ie0&redir_esc=y#v=onepage&q&f=false)]
+[2025.04]
+
+:boom:**UV-AdaptFormer:** Feng, W., Guan, F., Tu, J., & Xu, W.<br />
+"UV-AdaptFormer: adapting the segment anything model for urban village identification from high-resolution satellite imagery." Remote Sensing Letters (2025).
+[[paper](https://www.tandfonline.com/doi/abs/10.1080/2150704X.2025.2488533)]
+[2025.04]
+
+:boom:**LORA-MedSAM:** Hu, Jiamin, Xu, Xuwei, and Zou, Zhenmin.<br />
+"LORA-MedSAM: Efficient Medical Image Segmentation." Lecture Notes in Electrical Engineering(2025).
+[[paper](https://books.google.com.hk/books?hl=zh-CN&lr=&id=xIxTEQAAQBAJ&oi=fnd&pg=PA154&ots=BwyxPqC4QD&sig=CAdAI8IjLDTiX_PUOS6f1mpf6bI&redir_esc=y#v=onepage&q&f=false)]
+[2025.04]
+
+:boom:**BuildWin-SAM:** Li, Zhengnan and Yan, Yizhen and Huang, Bo.<br />
+"BuildWin-SAM: An Improved SAM-Based Method for Extracting Building Windows From Street View Images." IEEE Access (2025).
+[[paper](https://ieeexplore.ieee.org/document/10955328)]
+[[code](https://github.com/zhengnanle/svbw)]
+[2025.04]
+
+:boom: Li, Hao, Jianxi Yang, Shixin Jiang, and Xiaoxia Yang.<br />
+"SAM-Guided Concrete Bridge Damage Segmentation with Mamba–ResNet Hierarchical Fusion Network." Electronics (2025).
+[[paper](https://www.mdpi.com/2079-9292/14/8/1497)]
+[2025.04]
+
+:boom:Takashi Nagaoka.<br />
+"Accurate Segmentation of Pigmented Skin Lesions Using Grounded-segment-anything." J Med Imaging Case Rep (2025).
+[[paper](https://medimagingcasereports.com/micr/articles/v9n1/micr-116-takashi-nagaoka.pdf)]
+[2025.04]
+
+- **SAMJAM:** Joshua Li, Fernando Jose Pena Cantu, Emily Yu, Alexander Wong, Yuchen Cui, Yuhao Chen.<br />
 "SAMJAM:Zero-Shot Video Scene Graph Generation for Egocentric Kitchen Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.07867)]
 [2025.04]
 
-:boom:**RP-SAM2:** Nuren Zhaksylyk, Ibrahim Almakky, Jay Paranjape, S. Swaroop Vedula, Shameema Sikder, Vishal M. Patel, Mohammad Yaqub.<br />
+- **RP-SAM2:** Nuren Zhaksylyk, Ibrahim Almakky, Jay Paranjape, S. Swaroop Vedula, Shameema Sikder, Vishal M. Patel, Mohammad Yaqub.<br />
 "RP-SAM2: Refining Point Prompts for Stable Surgical Instrument Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.07117)]
 [[code](https://github.com/BioMedIA-MBZUAI/RP-SAM2)]
 [2025.04]
 
-:boom:**MovSAM:** Chang Nie, Yiqing Xu, Guangming Wang, Zhe Liu, Yanzi Miao, Hesheng Wang.<br />
+- **MovSAM:** Chang Nie, Yiqing Xu, Guangming Wang, Zhe Liu, Yanzi Miao, Hesheng Wang.<br />
 "MovSAM: A Single-image Moving Object Segmentation Framework Based on Deep Thinking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.06863)]
 [[code](https://github.com/IRMVLab/MovSAM)]
 [2025.04]
 
-:boom:Marco Acerbis, Nataša Sladoje, Joakim Lindblad.<br />
+- Marco Acerbis, Nataša Sladoje, Joakim Lindblad.<br />
 "A Comparison of Deep Learning Methods for Cell Detection in Digital Cytology." SCIA (2025).
 [[paper](https://arxiv.org/abs/2504.06957)]
 [2025.04]
 
-:boom:**Wheat3DGS:** Daiwei Zhang, Joaquin Gajardo, Tomislav Medic, Isinsu Katircioglu, Mike Boss, Norbert Kirchgessner, Achim Walter, Lukas Roth.<br />
+- **Wheat3DGS:** Daiwei Zhang, Joaquin Gajardo, Tomislav Medic, Isinsu Katircioglu, Mike Boss, Norbert Kirchgessner, Achim Walter, Lukas Roth.<br />
 "Wheat3DGS: In-field 3D Reconstruction, Instance Segmentation and Phenotyping of Wheat Heads with Gaussian Splatting." CVPRW (2025).
 [[paper](https://arxiv.org/abs/2504.06978)]
 [[code](https://zdwww.github.io/wheat3dgs/)]
 [2025.04]
 
-:boom:**econSG:** Can Zhang, Gim Hee Lee.<br />
+- **econSG:** Can Zhang, Gim Hee Lee.<br />
 "econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians." ICLR (2025).
 [[paper](https://arxiv.org/abs/2504.06003)]
 [[code](https://lulusindazc.github.io/econSGproject/)]
 [2025.04]
 
-:boom:**CAT-V:** Yunlong Tang, Jing Bi, Chao Huang, Susan Liang, Daiki Shimada, Hang Hua, Yunzhong Xiao, Yizhi Song, Pinxin Liu, Mingqian Feng, Junjia Guo, Zhuo Liu, Luchuan Song, Ali Vosoughi, Jinxi He, Liu He, Zeliang Zhang, Jiebo Luo, Chenliang Xu.<br />
+- **CAT-V:** Yunlong Tang, Jing Bi, Chao Huang, Susan Liang, Daiki Shimada, Hang Hua, Yunzhong Xiao, Yizhi Song, Pinxin Liu, Mingqian Feng, Junjia Guo, Zhuo Liu, Luchuan Song, Ali Vosoughi, Jinxi He, Liu He, Zeliang Zhang, Jiebo Luo, Chenliang Xu.<br />
 "Caption Anything in Video: Fine-grained Object-centric Captioning via Spatiotemporal Multimodal Prompting." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.05541)]
 [[code](https://github.com/yunlong10/CAT-V)]
 [2025.04]
 
-:boom:**KAN-SAM:** Xingyuan Li, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
+- **KAN-SAM:** Xingyuan Li, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
 "KAN-SAM: Kolmogorov-Arnold Network Guided Segment Anything Model for RGB-T Salient Object Detection." ICME (2025).
 [[paper](https://arxiv.org/abs/2504.05878)]
 [2025.04]
 
-:boom:**HRMedSeg:** Qing Xu, Zhenye Lou, Chenxin Li, Xiangjian He, Rong Qu, Tesema Fiseha Berhanu, Yi Wang, Wenting Duan, Zhen Chen.<br />
+- **HRMedSeg:** Qing Xu, Zhenye Lou, Chenxin Li, Xiangjian He, Rong Qu, Tesema Fiseha Berhanu, Yi Wang, Wenting Duan, Zhen Chen.<br />
 "HRMedSeg: Unlocking High-resolution Medical Image segmentation via Memory-efficient Attention Modeling." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.06205)]
 [[code](https://github.com/xq141839/HRMedSeg)]
 [2025.04]
 
-:boom:**SAM2MOT:** Junjie Jiang, Zelin Wang, Manqi Zhao, Yin Li, DongSheng Jiang.<br />
+- **SAM2MOT:** Junjie Jiang, Zelin Wang, Manqi Zhao, Yin Li, DongSheng Jiang.<br />
 "SAM2MOT:ANovelParadigm of Multi-Object Tracking by Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.04519)]
 [2025.04]
 
-:boom:**S4M:** Heeji Yoon, Heeseong Shin, Eunbeen Hong, Hyunwook Choi, Hansang Cho, Daun Jeong, Seungryong Kim.<br />
+- **S4M:** Heeji Yoon, Heeseong Shin, Eunbeen Hong, Hyunwook Choi, Hansang Cho, Daun Jeong, Seungryong Kim.<br />
 "S^4M: Boosting Semi-Supervised Instance Segmentation with SAM." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.05301)]
 [[code](https://cvlab-kaist.github.io/S4M)]
 [2025.04]
 
-:boom: Hamza Riaz, Alan F. Smeaton.<br />
+- Hamza Riaz, Alan F. Smeaton.<br />
 "Resilience of Vision Transformers for Domain Generalisation in the Presence of Out-of-Distribution Noisy Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.04225)]
 [2025.04]
 
-:boom:**UCS:** Dianshuo Li, Li Chen, Yunxiang Cao, Kai Zhu, Jun Cheng.<br />
+- **UCS:** Dianshuo Li, Li Chen, Yunxiang Cao, Kai Zhu, Jun Cheng.<br />
 "UCS: A Universal Model for Curvilinear Structure Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.04034)]
 [2025.04]
 
-:boom:Mengyuan Liu, Yixiao Chen, Anning Tian, Xinmeng Wu, Mozhi Shen, Tianchou Gong, Jeongkyu Lee.<br />
+- Mengyuan Liu, Yixiao Chen, Anning Tian, Xinmeng Wu, Mozhi Shen, Tianchou Gong, Jeongkyu Lee.<br />
 "Performance Analysis of Deep Learning Models for Femur Segmentation in MRI Scan." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.04066)]
 [2025.04]
 
-:boom:**CMaP-SAM:** Shuai Chen, Fanman Meng, Haoran Wei, Chenhao Wu, Qingbo Wu, Linfeng Xu, Hongliang Li.<br />
+- **CMaP-SAM:** Shuai Chen, Fanman Meng, Haoran Wei, Chenhao Wu, Qingbo Wu, Linfeng Xu, Hongliang Li.<br />
 "CMaP-SAM: Contraction Mapping Prior for SAM-driven Few-shot Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.05049)]
 [2025.04]
 
-:boom:**MedSAM2:** Jun Ma, Zongxin Yang, Sumin Kim, Bihui Chen, Mohammed Baharoon, Adibvafa Fallahpour, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
+- **MedSAM2:** Jun Ma, Zongxin Yang, Sumin Kim, Bihui Chen, Mohammed Baharoon, Adibvafa Fallahpour, Reza Asakereh, Hongwei Lyu, Bo Wang.<br />
 "MedSAM2: Segment Anything in 3D Medical Images and Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.03600)]
 [[code](https://medsam2.github.io/)]
 [2025.04]
 
-:boom:**GraphSeg:** Haozhan Tang, Tianyi Zhang, Oliver Kroemer, Matthew Johnson-Roberson, Weiming Zhi.<br />
+- **GraphSeg:** Haozhan Tang, Tianyi Zhang, Oliver Kroemer, Matthew Johnson-Roberson, Weiming Zhi.<br />
 "GraphSeg: Segmented 3D Representations via Graph Edge Addition and Contraction." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.03129)]
 [[code](https://github.com/tomtang502/graphseg.git)]
