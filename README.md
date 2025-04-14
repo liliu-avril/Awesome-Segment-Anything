@@ -241,6 +241,31 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**STSeg:** Kehuan Song, Xinglin Xie, Kexin Zhang, Licheng Jiao, Lingling Li, Shuyuan Yang.<br />
+"STSeg- Complex Video Object Segmentation: The 1st Solution for 4th PVUW MOSE Challenge." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.08306)]
+[2025.04]
+
+:boom:**SynthFM:** Sourya Sengupta, Satrajit Chakrabarty, Keerthi Sravan Ravi, Gopal Avinash, Ravi Soni.<br />
+"SynthFM: Training Modality-agnostic Foundation Models for Medical Image Segmentation without Real Medical Data." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.08177)]
+[2025.04]
+
+:boom:**FMLGS:** Xin Tan, Yuzhou Ji, He Zhu, and Yuan Xie.<br />
+"FMLGS: Fast Multilevel Language Embedded Gaussians for Part-level Interactive Agents." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.08581)]
+[2025.04]
+
+:boom:**ChildlikeSHAPES:** Astitva Srivastava, Harrison Jesse Smith, Thu Nguyen-Phuoc, Yuting Ye.<br />
+"ChildlikeSHAPES: Semantic Hierarchical Region Parsing for Animating Figure Drawings." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.08022)]
+[2025.04]
+
+:boom:**FindAnything:** Sebastián Barbas Laina, Simon Boche, Sotiris Papatheodorou, Simon Schaefer, Jaehyung Jung, Stefan Leutenegger.<br />
+"FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.08603)]
+[2025.04]
+
 :boom:**WS-SAM:** Zhang, Z., Ma, F., Liu, H. et al.<br />
 "WS-SAM: self-prompting SAM with wavelet and spatial domain for OCTA retinal vessel segmentation." The Journal of Supercomputing (2025).
 [[paper](https://link.springer.com/article/10.1007/s11227-025-07136-7)]
