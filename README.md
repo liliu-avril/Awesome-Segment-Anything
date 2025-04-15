@@ -246,6 +246,31 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32616)]
 [2025.04]
 
+:boom:Jiahuan Long, Tingsong Jiang, Wen Yao, Yizhe Xiong, Zhengqin Xu, Shuai Jia, Chao Ma.<br />
+"Parameter-Free Fine-tuning via Redundancy Elimination for Vision Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.08915)]
+[2025.04]
+
+:boom:**AerOSeg:** Saikat Dutta, Akhil Vasim, Siddhant Gole, Hamid Rezatofighi, Biplab Banerjee.<br />
+"AerOSeg: Harnessing SAM for Open-Vocabulary Segmentation in Remote Sensing Images." CVPRW (2025).
+[[paper](https://arxiv.org/abs/2504.09203)]
+[2025.04]
+
+:boom:**MoSE:** Jia Wei, Xiaoqi Zhao, Jonghye Woo, Jinsong Ouyang, Georges El Fakhri, Qingyu Chen, Xiaofeng Liu.<br />
+"Mixture-of-Shape-Experts (MoSE): End-to-End Shape Dictionary Framework to Prompt SAM for Generalizable Medical Segmentation." CVPRW (2025).
+[[paper](https://arxiv.org/abs/2504.09601)]
+[2025.04]
+
+:boom:**ToolTipNet:** Zijian Wu, Shuojue Yang, Yueming Jin, Septimiu E Salcudean.<br />
+"ToolTipNet: A Segmentation-Driven Deep Learning Baseline for Surgical Instrument Tip Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.09700)]
+[2025.04]
+
+:boom:**ATOMIC:** Jingyun Yang, Ruoyan Avery Yin, Chi Jiang, Yuepeng Hu, Xiaokai Zhu, Xingjian Hu, Sutharsika Kumar, Xiao Wang, Xiaohua Zhai, Keran Rong, Yunyue Zhu, Tianyi Zhang, Zongyou Yin, Jing Kong, Neil Zhenqiang Gong, Zhichu Ren, Haozhe Wang.<br />
+"Zero-shot Autonomous Microscopy for Scalable and Intelligent Characterization of 2D Materials." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.10281)]
+[2025.04]
+
 :boom:**STSeg:** Kehuan Song, Xinglin Xie, Kexin Zhang, Licheng Jiao, Lingling Li, Shuyuan Yang.<br />
 "STSeg- Complex Video Object Segmentation: The 1st Solution for 4th PVUW MOSE Challenge." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.08306)]
