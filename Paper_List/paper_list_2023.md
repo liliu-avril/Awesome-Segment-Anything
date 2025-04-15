@@ -2528,7 +2528,7 @@
   [2023.06]
 
 - **MatAny:** Jingfeng Yao, Xinggang Wang, Lang Ye, Wenyu Liu.<br />
-  "Matte Anything: Interactive Natural Image Matting with Segment Anything Models." ArXiv (2023).
+  "Matte Anything: Interactive Natural Image Matting with Segment Anything Models." Image and Vision Computing (2024).
   [[paper](https://arxiv.org/abs/2306.04121)] 
   [[code](https://github.com/hustvl/Matte-Anything)]
   [2023.06]
