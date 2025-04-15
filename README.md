@@ -241,6 +241,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Robust SAM:** Long, J., Xu, Z., Jiang, T., Yao, W., Jia, S., Ma, C., & Chen, X.<br />
+"Robust SAM: On the Adversarial Robustness of Vision Foundation Models." ArXiv (2025).
+[[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32616)]
+[2025.04]
+
 :boom:**STSeg:** Kehuan Song, Xinglin Xie, Kexin Zhang, Licheng Jiao, Lingling Li, Shuyuan Yang.<br />
 "STSeg- Complex Video Object Segmentation: The 1st Solution for 4th PVUW MOSE Challenge." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.08306)]
