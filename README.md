@@ -271,6 +271,12 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2504.10281)]
 [2025.04]
 
+:boom:Yiwen Wang, Ying Liang, Yuxuan Zhang, Xinning Chai, Zhengxue Cheng, Yingsheng Qin, Yucai Yang, Rong Xie, Li Song.<br />
+"Enhanced Semantic Extraction and Guidance for UGC Image Super Resolution." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.09887)]
+[[code](https://github.com/Moonsofang/NTIRE-2025-SRlab)]
+[2025.04]
+
 :boom:**STSeg:** Kehuan Song, Xinglin Xie, Kexin Zhang, Licheng Jiao, Lingling Li, Shuyuan Yang.<br />
 "STSeg- Complex Video Object Segmentation: The 1st Solution for 4th PVUW MOSE Challenge." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.08306)]
