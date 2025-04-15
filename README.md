@@ -282,6 +282,17 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2504.08306)]
 [2025.04]
 
+:boom:**MASSeg:** Xuqiang Cao, Linnan Zhao, Jiaxuan Zhao, Fang Liu, Puhua Chen, Wenping Ma.<br />
+"MASSeg: 2nd Technical Report for 4th PVUW MOSE Track." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.10254)]
+[[code](https://github.com/cxqNet/MASSeg)]
+[2025.04]
+
+:boom:**FVOS:** Mengjiao Wang, Junpei Zhang, Xu Liu, Yuting Yang, Mengru Ma.<br />
+"FVOS for MOSE Track of 4th PVUW Challenge: 3rd Place Solution." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.09507)]
+[2025.04]
+
 :boom:**SynthFM:** Sourya Sengupta, Satrajit Chakrabarty, Keerthi Sravan Ravi, Gopal Avinash, Ravi Soni.<br />
 "SynthFM: Training Modality-agnostic Foundation Models for Medical Image Segmentation without Real Medical Data." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.08177)]
