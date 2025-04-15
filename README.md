@@ -242,7 +242,7 @@ If you find our work useful in your research, please consider citing:
 #### The latest papers within a week are marked with a :boom:
 #### 2025
 :boom:**Robust SAM:** Long, J., Xu, Z., Jiang, T., Yao, W., Jia, S., Ma, C., & Chen, X.<br />
-"Robust SAM: On the Adversarial Robustness of Vision Foundation Models." ArXiv (2025).
+"Robust SAM: On the Adversarial Robustness of Vision Foundation Models." AAAI (2025).
 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32616)]
 [2025.04]
 
