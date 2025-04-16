@@ -241,6 +241,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**PathSeqSAM:** Mingyang Zhu, Yinting Liu, Mingyu Li, Jiacheng Wang.<br />
+"PathSeqSAM: Sequential Modeling for Pathology Image Segmentation with SAM2." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.10526)]
+[[code](https://github.com/JackyyyWang/PathSeqSAM)]
+[2025.04]
+
 :boom:**Robust SAM:** Long, J., Xu, Z., Jiang, T., Yao, W., Jia, S., Ma, C., & Chen, X.<br />
 "Robust SAM: On the Adversarial Robustness of Vision Foundation Models." AAAI (2025).
 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/32616)]
