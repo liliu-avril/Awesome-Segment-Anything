@@ -241,6 +241,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**DC-SAM:** Mengshi Qi, Pengfei Zhu, Xiangtai Li, Xiaoyang Bi, Lu Qi, Huadong Ma, Ming-Hsuan Yang.<br />
+"DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.12080)]
+[[code](https://github.com/zaplm/DC-SAM)]
+[2025.04]
+
+:boom:**CAGS:** Wei Sun, Yanzhao Zhou, Jianbin Jiao, Yuan Li.<br />
+"CAGS: Open-Vocabulary 3D Scene Understanding with Context-Aware Gaussian Splatting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.11893)]
+[2025.04]
+
 :boom:**PathSeqSAM:** Mingyang Zhu, Yinting Liu, Mingyu Li, Jiacheng Wang.<br />
 "PathSeqSAM: Sequential Modeling for Pathology Image Segmentation with SAM2." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.10526)]
