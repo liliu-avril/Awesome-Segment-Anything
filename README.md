@@ -241,6 +241,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**DepthForge:** Siyu Chen, Ting Han, Changshe Zhang, Xin Luo, Meiliu Wu, Guorong Cai, Jinhe Su.<br />
+"Stronger, Steadier & Superior: Geometric Consistency in Depth VFM Forges Domain Generalized Semantic Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.12753)]
+[[code](https://github.com/anonymouse-xzrptkvyqc/DepthForge)]
+[2025.04]
+
+:boom:**SAM-ESP:** Xinyu Zhao, Jun Liu, Faqiang Wang, Li Cui, Yuping Duan.<br />
+"Contour Field based Elliptical Shape Prior for the Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.12556)]
+[2025.04]
+
+:boom:**FAEWNet:** Yun-Cheng Li, Sen Lei, Yi-Tao Zhao, Heng-Chao Li, Jun Li, Antonio Plaza.<br />
+"SAM-Based Building Change Detection with Distribution-Aware Fourier Adaptation and Edge-Constrained Warping." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.12619)]
+[[code](https://github.com/SUPERMAN123000/FAEWNet)]
+[2025.04]
+
 :boom:**DC-SAM:** Mengshi Qi, Pengfei Zhu, Xiangtai Li, Xiaoyang Bi, Lu Qi, Huadong Ma, Ming-Hsuan Yang.<br />
 "DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.12080)]
