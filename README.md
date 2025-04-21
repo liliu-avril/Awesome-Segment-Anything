@@ -241,6 +241,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**HSACNet:** Qi'ao Xu, Pengfei Wang, Yanjun Li, Tianwen Qian, Xiaoling Wang.<br />
+"HSACNet: Hierarchical Scale-Aware Consistency Regularized Semi-Supervised Change Detection." ICME (2025).
+[[paper](https://arxiv.org/abs/2504.13428)]
+[2025.04]
+
+:boom:Oliver Mills, Philip Conaghan, Nishant Ravikumar, Samuel Relton.<br />
+"Putting the Segment Anything Model to the Test with 3D Knee MRI -- A Comparison with State-of-the-Art Performance." BMVC (2024).
+[[paper](https://arxiv.org/abs/2504.13340)]
+[[code](https://github.com/oliverjm1/BMVC_menisc_seg)]
+[2025.04]
+
 :boom:**ProtoSAM-2D:** Yiqing Shen, David Dreizin, Blanca Inigo, Mathias Unberath.<br />
 "ProtoSAM-2D: 2D semantic Segment Anything Model with mask-level prototype-learning and distillation." ArXiv (2025).
 [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/1340605/ProtoSAM-2D--2D-semantic-Segment-Anything-Model-with-mask/10.1117/12.3047044.short)]
