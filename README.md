@@ -241,6 +241,21 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**LSR-ST:** Guoyi Zhang, Siyang Chen, Guangsheng Xu, Han Wang, Xiaohu Zhang.<br />
+"Vision-Centric Representation-Efficient Fine-Tuning for Robust Universal Foreground Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.14481)]
+[2025.04]
+
+:boom:**EmoSEM:** Jing Zhang, Dan Guo, Zhangbin Li, Meng Wang.<br />
+"EmoSEM: Segment and Explain Emotion Stimuli in Visual Art." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.14658)]
+[2025.04]
+
+:boom:**SAC:** Ghodsiyeh Rostami, Po-Han Chen, Mahdi S. Hosseini.<br />
+"Segment Any Crack: Deep Semantic Segmentation Adaptation for Crack Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.14138)]
+[2025.04]
+
 :boom:**HSACNet:** Qi'ao Xu, Pengfei Wang, Yanjun Li, Tianwen Qian, Xiaoling Wang.<br />
 "HSACNet: Hierarchical Scale-Aware Consistency Regularized Semi-Supervised Change Detection." ICME (2025).
 [[paper](https://arxiv.org/abs/2504.13428)]
