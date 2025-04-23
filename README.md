@@ -242,6 +242,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**AffordanceSAM:** Dengyang Jiang, Mengmeng Wang, Teli Ma, Hengzhuang Li, Yong liu, Guang Dai, Lei Zhang.<br />
+"AffordanceSAM: Segment Anything Once More in Affordance Grounding." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.15650)]
+[2025.04]
+
+:boom:**FS-DINO:** Wei Zhuo, Zhiyue Tang, Wufeng Xue, Hao Ding, Linlin Shen.<br />
+"DINOv2-powered Few-Shot Semantic Segmentation: A Unified Framework via Cross-Model Distillation and 4D Correlation Mining." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.15669)]
+[2025.04]
+
 :boom:**LSR-ST:** Guoyi Zhang, Siyang Chen, Guangsheng Xu, Han Wang, Xiaohu Zhang.<br />
 "Vision-Centric Representation-Efficient Fine-Tuning for Robust Universal Foreground Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.14481)]
