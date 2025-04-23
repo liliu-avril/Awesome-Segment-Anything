@@ -22,9 +22,10 @@ ____
 ## :fire: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/liliu-avril/Awesome-Segment-Anything?icon=github&label=last%20updated&color=green)
 ```
+- 2025.04.23: SAM2 won the ICLR 2025 Best Paper Honorable Mention.
 - 2024.07.31: The first survey on SAM & SAM2 for Videos was online.
 - 2024.07.29: The SAM 2 was released.
-- 2023.07.14: "Segment Anything" was accepted by ICCV 2023.
+- 2023.07.14: "Segment Anything" was accepted by ICCV 2023 (Best Paper Honorable Mention).
 - 2023.05.16: An initial version of this Awesome-Segment-Anything project.
 - 2023.05.14: The first comprehensive SAM survey was online.
 - 2023.04.05: The paper of "Segment Anything" was online.
@@ -121,7 +122,7 @@ If you find our work useful in your research, please consider citing:
   [2023.04]
 
 - **SAM 2:** Nikhila Ravi∗,†, Valentin Gabeur∗, Yuan-Ting Hu∗, Ronghang Hu∗, Chaitanya Ryali∗, Tengyu Ma∗, Haitham Khedr∗, Roman Rädle∗  Chloe Rolland, Laura Gustafson, Eric Mintun, Junting Pan, Kalyan Vasudev Alwala, Nicolas Carion, Chao-Yuan Wu, Ross Girshick, Piotr Dollár†, Christoph Feichtenhofer∗,†.<br />
-  "SAM 2: Segment Anything in Images and Videos." ArXiv (2024).
+  "SAM 2: Segment Anything in Images and Videos." **ICLR (2025) Best Paper Honorable Mention**.
   [[paper](https://arxiv.org/abs/2408.00714)] 
   [[demo]](https://sam2.metademolab.com/)] 
   [[code](https://github.com/facebookresearch/segment-anything-2)]
