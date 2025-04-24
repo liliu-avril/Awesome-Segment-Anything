@@ -238,6 +238,14 @@ If you find our work useful in your research, please consider citing:
 [[hugging face](https://huggingface.co/ByteDance/Sa2VA-8B)]
 [2025.01]
 
+- **DAM:** Long Lian, Yifan Ding, Yunhao Ge, Sifei Liu, Hanzi Mao, Boyi Li, Marco Pavone, Ming-Yu Liu, Trevor Darrell, Adam Yala, Yin Cui.<br />
+"Describe Anything: Detailed Localized Image and Video Captioning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.16072)]
+[[code](https://github.com/NVlabs/describe-anything)]
+[[project](https://describe-anything.github.io/)]
+[[huggingface](https://huggingface.co/collections/nvidia/describe-anything-680825bb8f5e41ff0785834c)]
+[2025.04]
+
 
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
