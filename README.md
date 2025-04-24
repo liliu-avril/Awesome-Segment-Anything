@@ -242,6 +242,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**PTSAM:** Tristan Piater, Björn Barz, Alexander Freytag.<br />
+"Prompt-Tuning SAM: From Generalist to Specialist with only 2,048 Parameters and 16 Training Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.16739)]
+[2025.04]
+
+:boom:Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
+"RGB-DVideo Object Segmentation via Enhanced Multi-store Feature Memory." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.16471)]
+[2025.04]
+
 :boom:**AffordanceSAM:** Dengyang Jiang, Mengmeng Wang, Teli Ma, Hengzhuang Li, Yong liu, Guang Dai, Lei Zhang.<br />
 "AffordanceSAM: Segment Anything Once More in Affordance Grounding." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.15650)]
