@@ -250,6 +250,39 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Tooth-ASAM:** Peijuan Wang, Hanjie Gu & Yuliang Sun.<br />
+"Tooth segmentation on multimodal images using adapted segment anything model." Scientific Reports (2025).
+[[paper](https://www.nature.com/articles/s41598-025-96301-2)]
+[2025.04]
+
+:boom:Zhang, N., Ling, H., Zhang, W. et al.<br />
+"A prediction method for radiation proctitis based on SAM-Med2D model." Scientific Reports (2025).
+[[paper](https://www.nature.com/articles/s41598-025-87409-6)]
+[2025.04]
+
+:boom:**ToothSC-SAM:** Li, C., Cheng Wang and Zhanchuan Cai.<br />
+"ToothSC-SAM: A Novel Network Model Based on Skip-Connections and SAM for Tooth Segmentation in CBCT Images." ArXiv (2025).
+[[paper](https://www.preprints.org/manuscript/202504.1562)]
+[2025.04]
+
+:boom:**FLSSAM:** Li, Jiayuan and Wang, Zhen and Xu, Nan and You, Zhuhong.<br />
+"Fine-Tuning SAM for Forward-Looking Sonar with Collaborative Prompts and Embedding." LGRS (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10969803)]
+[[code](https://github.com/darkseid-arch/FLSSAM)]
+[2025.04]
+
+
+:boom:**IIIM-SAM:** Zhang, Zhe and Zhou, Yuhang and Yue, Jiahe and Zhang, Runchu and Ma, Jie.<br />
+"IIIM-SAM: Zero-shot Texture Anomaly Detection Without External Prompts." IEEE TASE (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10967541)]
+[2025.04]
+
+:boom:**MIT-SAM:** Zhou, Xichuan and Yan, Lingfeng and Ding, Rui and Atabansi, Chukwuemeka Clinton and Nie, Jing and Chen, Lihui and Feng, Yujie and Liu, Haijun.<br />
+"MIT-SAM: Medical Image-Text SAM with Mutually Enhanced Heterogeneous Features Fusion for Medical Image Segmentation." IEEE JBHI (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/10966035)]
+[[code](https://github.com/jojodan514/MIT-SAM)]
+[2025.04]
+
 :boom:**PTSAM:** Tristan Piater, Björn Barz, Alexander Freytag.<br />
 "Prompt-Tuning SAM: From Generalist to Specialist with only 2,048 Parameters and 16 Training Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.16739)]
