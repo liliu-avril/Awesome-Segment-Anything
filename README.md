@@ -250,106 +250,110 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**Tooth-ASAM:** Peijuan Wang, Hanjie Gu & Yuliang Sun.<br />
+:boom:**RSFR:** Jiahao Huang, Fanwen Wang, Pedro F. Ferreira, Haosen Zhang, Yinzhe Wu, Zhifan Gao, Lei Zhu, Angelica I. Aviles-Rivero, Carola-Bibiane Schonlieb, Andrew D. Scott, Zohya Khalique, Maria Dwornik, Ramyah Rajakulasingam, Ranil De Silva, Dudley J. Pennell, Guang Yang, Sonia Nielles-Vallespin.<br />
+"RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement." Medical Image Analysis (2025).
+[[paper](https://arxiv.org/abs/2504.18520)]
+[2025.04]
+
+- **Tooth-ASAM:** Peijuan Wang, Hanjie Gu & Yuliang Sun.<br />
 "Tooth segmentation on multimodal images using adapted segment anything model." Scientific Reports (2025).
 [[paper](https://www.nature.com/articles/s41598-025-96301-2)]
 [2025.04]
 
-:boom:Zhang, N., Ling, H., Zhang, W. et al.<br />
+- Zhang, N., Ling, H., Zhang, W. et al.<br />
 "A prediction method for radiation proctitis based on SAM-Med2D model." Scientific Reports (2025).
 [[paper](https://www.nature.com/articles/s41598-025-87409-6)]
 [2025.04]
 
-:boom:**ToothSC-SAM:** Li, C., Cheng Wang and Zhanchuan Cai.<br />
+- **ToothSC-SAM:** Li, C., Cheng Wang and Zhanchuan Cai.<br />
 "ToothSC-SAM: A Novel Network Model Based on Skip-Connections and SAM for Tooth Segmentation in CBCT Images." ArXiv (2025).
 [[paper](https://www.preprints.org/manuscript/202504.1562)]
 [2025.04]
 
-:boom:**FLSSAM:** Li, Jiayuan and Wang, Zhen and Xu, Nan and You, Zhuhong.<br />
+- **FLSSAM:** Li, Jiayuan and Wang, Zhen and Xu, Nan and You, Zhuhong.<br />
 "Fine-Tuning SAM for Forward-Looking Sonar with Collaborative Prompts and Embedding." LGRS (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10969803)]
 [[code](https://github.com/darkseid-arch/FLSSAM)]
 [2025.04]
 
-
-:boom:**IIIM-SAM:** Zhang, Zhe and Zhou, Yuhang and Yue, Jiahe and Zhang, Runchu and Ma, Jie.<br />
+- **IIIM-SAM:** Zhang, Zhe and Zhou, Yuhang and Yue, Jiahe and Zhang, Runchu and Ma, Jie.<br />
 "IIIM-SAM: Zero-shot Texture Anomaly Detection Without External Prompts." IEEE TASE (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10967541)]
 [2025.04]
 
-:boom:**MIT-SAM:** Zhou, Xichuan and Yan, Lingfeng and Ding, Rui and Atabansi, Chukwuemeka Clinton and Nie, Jing and Chen, Lihui and Feng, Yujie and Liu, Haijun.<br />
+- **MIT-SAM:** Zhou, Xichuan and Yan, Lingfeng and Ding, Rui and Atabansi, Chukwuemeka Clinton and Nie, Jing and Chen, Lihui and Feng, Yujie and Liu, Haijun.<br />
 "MIT-SAM: Medical Image-Text SAM with Mutually Enhanced Heterogeneous Features Fusion for Medical Image Segmentation." IEEE JBHI (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10966035)]
 [[code](https://github.com/jojodan514/MIT-SAM)]
 [2025.04]
 
-:boom:**PTSAM:** Tristan Piater, Björn Barz, Alexander Freytag.<br />
+- **PTSAM:** Tristan Piater, Björn Barz, Alexander Freytag.<br />
 "Prompt-Tuning SAM: From Generalist to Specialist with only 2,048 Parameters and 16 Training Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.16739)]
 [2025.04]
 
-:boom:Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
+- Boyue Xu, Ruichao Hou, Tongwei Ren, Gangshan Wu.<br />
 "RGB-DVideo Object Segmentation via Enhanced Multi-store Feature Memory." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.16471)]
 [2025.04]
 
-:boom:**AffordanceSAM:** Dengyang Jiang, Mengmeng Wang, Teli Ma, Hengzhuang Li, Yong liu, Guang Dai, Lei Zhang.<br />
+- **AffordanceSAM:** Dengyang Jiang, Mengmeng Wang, Teli Ma, Hengzhuang Li, Yong liu, Guang Dai, Lei Zhang.<br />
 "AffordanceSAM: Segment Anything Once More in Affordance Grounding." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.15650)]
 [2025.04]
 
-:boom:**FS-DINO:** Wei Zhuo, Zhiyue Tang, Wufeng Xue, Hao Ding, Linlin Shen.<br />
+- **FS-DINO:** Wei Zhuo, Zhiyue Tang, Wufeng Xue, Hao Ding, Linlin Shen.<br />
 "DINOv2-powered Few-Shot Semantic Segmentation: A Unified Framework via Cross-Model Distillation and 4D Correlation Mining." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.15669)]
 [2025.04]
 
-:boom:**LSR-ST:** Guoyi Zhang, Siyang Chen, Guangsheng Xu, Han Wang, Xiaohu Zhang.<br />
+- **LSR-ST:** Guoyi Zhang, Siyang Chen, Guangsheng Xu, Han Wang, Xiaohu Zhang.<br />
 "Vision-Centric Representation-Efficient Fine-Tuning for Robust Universal Foreground Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.14481)]
 [2025.04]
 
-:boom:**EmoSEM:** Jing Zhang, Dan Guo, Zhangbin Li, Meng Wang.<br />
+- **EmoSEM:** Jing Zhang, Dan Guo, Zhangbin Li, Meng Wang.<br />
 "EmoSEM: Segment and Explain Emotion Stimuli in Visual Art." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.14658)]
 [2025.04]
 
-:boom:**SAC:** Ghodsiyeh Rostami, Po-Han Chen, Mahdi S. Hosseini.<br />
+- **SAC:** Ghodsiyeh Rostami, Po-Han Chen, Mahdi S. Hosseini.<br />
 "Segment Any Crack: Deep Semantic Segmentation Adaptation for Crack Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.14138)]
 [2025.04]
 
-:boom:**HSACNet:** Qi'ao Xu, Pengfei Wang, Yanjun Li, Tianwen Qian, Xiaoling Wang.<br />
+- **HSACNet:** Qi'ao Xu, Pengfei Wang, Yanjun Li, Tianwen Qian, Xiaoling Wang.<br />
 "HSACNet: Hierarchical Scale-Aware Consistency Regularized Semi-Supervised Change Detection." ICME (2025).
 [[paper](https://arxiv.org/abs/2504.13428)]
 [2025.04]
 
-:boom:Oliver Mills, Philip Conaghan, Nishant Ravikumar, Samuel Relton.<br />
+- Oliver Mills, Philip Conaghan, Nishant Ravikumar, Samuel Relton.<br />
 "Putting the Segment Anything Model to the Test with 3D Knee MRI -- A Comparison with State-of-the-Art Performance." BMVC (2024).
 [[paper](https://arxiv.org/abs/2504.13340)]
 [[code](https://github.com/oliverjm1/BMVC_menisc_seg)]
 [2025.04]
 
-:boom:**ProtoSAM-2D:** Yiqing Shen, David Dreizin, Blanca Inigo, Mathias Unberath.<br />
+- **ProtoSAM-2D:** Yiqing Shen, David Dreizin, Blanca Inigo, Mathias Unberath.<br />
 "ProtoSAM-2D: 2D semantic Segment Anything Model with mask-level prototype-learning and distillation." ArXiv (2025).
 [[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13406/1340605/ProtoSAM-2D--2D-semantic-Segment-Anything-Model-with-mask/10.1117/12.3047044.short)]
 [2025.04]
 
-:boom:**GlomSAM:** Pan, S., Tang, X., Chen, B., Lai, X., & Jin, W.<br />
+- **GlomSAM:** Pan, S., Tang, X., Chen, B., Lai, X., & Jin, W.<br />
 "GlomSAM: Hybrid customized SAM for multi-glomerular detection and segmentation in immunofluorescence images." PLOS ONE (2025).
 [[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0321096)]
 [2025.04]
 
-:boom:**STSAMNet:** Yang, M., Yang, R., Wang, M., Xu, H., & Xu, G.<br />
+- **STSAMNet:** Yang, M., Yang, R., Wang, M., Xu, H., & Xu, G.<br />
 "Integrating unsupervised domain adaptation and SAM technologies for image semantic segmentation: a case study on building extraction from high-resolution remote sensing images." International Journal of Digital Earth (2025).
 [[paper](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2491108)]
 [2025.04]
 
-:boom:**SAMBV:** Yuhan Wang and Shoujun Zhou and Ke Lu and Yuanquan Wang and Lei Zhang and Weipeng Liu and Zhida Wang.<br />
+- **SAMBV:** Yuhan Wang and Shoujun Zhou and Ke Lu and Yuanquan Wang and Lei Zhang and Weipeng Liu and Zhida Wang.<br />
 "SAMBV: A Fine-tuned SAM with Interpolation Consistency Regularization for Semi-supervised Bi-ventricle Segmentation from Cardiac MRI." Medical Engineering & Physics (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1350453325000608)]
 [2025.04]
 
-:boom:Gutiérrez, Juan D., Emilio Delgado, Carlos Breuer, José M. Conejero, and Roberto Rodriguez-Echeverria.<br />
+- Gutiérrez, Juan D., Emilio Delgado, Carlos Breuer, José M. Conejero, and Roberto Rodriguez-Echeverria.<br />
 "Prompt Once, Segment Everything: Leveraging SAM 2 Potential for Infinite Medical Image Segmentation with a Single Prompt." Algorithms(2025).
 [[paper](https://www.mdpi.com/1999-4893/18/4/227)]
 [2025.04]
