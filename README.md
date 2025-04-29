@@ -250,6 +250,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Follow Everything:** Qianyi Zhang, Shijian Ma, Boyi Liu, Jingtai Liu, Jianhao Jiao, Dimitrios Kanoulas.<br />
+"Follow Everything: A Leader-Following and Obstacle Avoidance Framework with Goal-Aware Adaptation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.19399)]
+[[code](https://follow-everything.github.io/)]
+[2025.04]
+
+:boom:**Res-SAM:** Xiren Zhou, Shikang Liu, Xinyu Yan, Yizhan Fan, Xiangyu Wang, Yu Kang, Jian Cheng, Huanhuan Chen.<br />
+"Reservoir-enhanced Segment Anything Model for Subsurface Diagnosis." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.18802)]
+[2025.04]
+
 :boom:**RSFR:** Jiahao Huang, Fanwen Wang, Pedro F. Ferreira, Haosen Zhang, Yinzhe Wu, Zhifan Gao, Lei Zhu, Angelica I. Aviles-Rivero, Carola-Bibiane Schonlieb, Andrew D. Scott, Zohya Khalique, Maria Dwornik, Ramyah Rajakulasingam, Ranil De Silva, Dudley J. Pennell, Guang Yang, Sonia Nielles-Vallespin.<br />
 "RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement." Medical Image Analysis (2025).
 [[paper](https://arxiv.org/abs/2504.18520)]
