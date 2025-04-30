@@ -250,6 +250,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**RadSAM:** Julien Khlaut, Elodie Ferreres, Daniel Tordjman, Hélène Philippe, Tom Boeken, Pierre Manceron, Corentin Dancette.<br />
+"RadSAM: Segmenting 3D radiological images with a 2D promptable model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.20837)]
+[2025.04]
+
+:boom:**RRL-MedSAM:** Jia Wang, Yunan Mei, Jiarui Liu, and Xin Fan.<br />
+"SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.20501)]
+[2025.04]
+
 :boom:**Follow Everything:** Qianyi Zhang, Shijian Ma, Boyi Liu, Jingtai Liu, Jianhao Jiao, Dimitrios Kanoulas.<br />
 "Follow Everything: A Leader-Following and Obstacle Avoidance Framework with Goal-Aware Adaptation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.19399)]
