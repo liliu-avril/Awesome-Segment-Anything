@@ -250,6 +250,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**IDRA-H:** Marc Glocker, Peter Hönig, Matthias Hirschmanner, Markus Vincze.<br />
+"LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.21716)]
+[[code](https://github.com/marc1198/chat-hsr)]
+[2025.04]
+
+:boom:**SAM4EM:** Uzair Shah, Marco Agus, Daniya Boges, Vanessa Chiappini, Mahmood Alzubaidi, Jens Schneider, Markus Hadwiger, Pierre J. Magistretti, Mowafa Househ, Corrado Calı.<br />
+"SAM4EM:Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks." CVPRW (2025).
+[[paper](https://arxiv.org/abs/2504.21544)]
+[[code](https://github.com/Uzshah/SAM4EM)]
+[2025.04]
+
+:boom:**UniBiomed:** Linshan Wu, Yuxiang Nie, Sunan He, Jiaxin Zhuang, Hao Chen.<br />
+"UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2504.21336)]
+[2025.04]
+
 :boom:**RadSAM:** Julien Khlaut, Elodie Ferreres, Daniel Tordjman, Hélène Philippe, Tom Boeken, Pierre Manceron, Corentin Dancette.<br />
 "RadSAM: Segmenting 3D radiological images with a 2D promptable model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.20837)]
