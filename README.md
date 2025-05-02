@@ -250,6 +250,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM-Brain3D:** Zhongying Deng, Haoyu Wang, Ziyan Huang, Lipei Zhang, Angelica I. Aviles-Rivero, Chaoyu Liu, Junjun He, Zoe Kourtzi, Carola-Bibiane Schönlieb.<br />
+"Brain Foundation Models with Hypergraph Dynamic Adapter for Brain Disease Analysis." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.00627)]
+[2025.04]
+
+:boom:Shuang Zhang, Carleton Coffin, Karyn L. Rogers, Catherine Ann Royer, Ge Wang.<br />
+"AI-Driven High-Resolution Cell Segmentation and Quantitative Analysis." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.00578)]
+[2025.04]
+
 :boom:**IDRA-H:** Marc Glocker, Peter Hönig, Matthias Hirschmanner, Markus Vincze.<br />
 "LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.21716)]
