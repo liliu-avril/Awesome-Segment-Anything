@@ -250,6 +250,48 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Yamagishi Y, Hanaoka S, Kikuchi T, Nakao T, Nakamura Y, Nomura Y, Miki S, Yoshikawa T, Abe O.<br />
+"Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation." JMIR AI (2025).
+[[paper](https://ai.jmir.org/2025/1/e72109)]
+[2025.05]
+
+:boom: Chen, Jinlong, Fuqiang Jin, Yingjie Jiao, Yongsong Zhan, and Xingguo Qin.<br />
+"Improving Dynamic Gesture Recognition with Attention-Enhanced LSTM and Grounding SAM." Electronics (2025).
+[[paper](https://www.mdpi.com/2079-9292/14/9/1793)]
+[2025.05]
+
+:boom:Angelo Moroncelli and Sylvain Populus and Armand Rossi and Emanuele Carpanzano and Loris Roveda.<br />
+"Vision-based robotic disassembly of aircraft engines with YOLO-SAM: a novel method for task orientation estimation." CIRP Annals (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0007850625001106)]
+[2025.05]
+
+:boom:**ICA-SAMv7:** Xiaotian Yan and Yuting Guo and Ziyi Pei and Xinyu Zhang and Jinghao Li and Zitao Zhou and Lifang Liang and Shuai Li and Peng Lun and Aimin Hao.<br />
+"ICA-SAMv7: Internal carotid artery segmentation with coarse to fine network." Computerized Medical Imaging and Graphics (2025).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0895611125000643)]
+[[code](https://github.com/BessiePei/ICA-SAMv7)]
+[2025.05]
+
+:boom:Muturi, T. W., & Adu-Gyamfi, Y.<br />
+"Enhanced Crack Segmentation Using Meta’s Segment Anything Model with Low-Cost Ground Truths and Multimodal Prompts." ArXiv (2025).
+[[paper](https://journals.sagepub.com/doi/abs/10.1177/03611981251322484)]
+[2025.05]
+
+:boom:**UN-SAM:** Zhen Chen and Qing Xu and Xinyu Liu and Yixuan Yuan.<br />
+"UN-SAM: Domain-adaptive self-prompt segmentation for universal nuclei images." Medical Image Analysis (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1361841525001549)]
+[[code](https://github.com/CUHK-AIM-Group/UN-SAM)]
+[2025.05]
+
+:boom:Milman, Oded, Dovi Yellin, and Yehudit Aperstein.<br />
+"Adapting SAM for Visible-Light Pupil Segmentation Baseline." Electronics (2025).
+[[paper](https://www.mdpi.com/2079-9292/14/9/1850)]
+[2025.05]
+
+:boom:**SV-Unet:** Wei Wang and Chong Yu and Tengyu Zhang and Feiyu Chen and Yufan Liu and Zongze Wu.<br />
+"Oversized ore segmentation using SAM-enhanced U-Net with self-supervised pre-training and semi-supervised self-training." Expert Systems with Applications (2025).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742501601X)]
+[2025.05]
+
 :boom:**SAM-Brain3D:** Zhongying Deng, Haoyu Wang, Ziyan Huang, Lipei Zhang, Angelica I. Aviles-Rivero, Chaoyu Liu, Junjun He, Zoe Kourtzi, Carola-Bibiane Schönlieb.<br />
 "Brain Foundation Models with Hypergraph Dynamic Adapter for Brain Disease Analysis." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.00627)]
