@@ -250,97 +250,102 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:Yamagishi Y, Hanaoka S, Kikuchi T, Nakao T, Nakamura Y, Nomura Y, Miki S, Yoshikawa T, Abe O.<br />
+:boom:**MoSAM:** Qiushi Yang, Yuan Yao, Miaomiao Cui, Liefeng Bo.<br />
+"MoSAM: Motion-Guided Segment Anything Model with Spatial-Temporal Memory Selection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.00739)]
+[2025.05]
+
+- Yamagishi Y, Hanaoka S, Kikuchi T, Nakao T, Nakamura Y, Nomura Y, Miki S, Yoshikawa T, Abe O.<br />
 "Using Segment Anything Model 2 for Zero-Shot 3D Segmentation of Abdominal Organs in Computed Tomography Scans to Adapt Video Tracking Capabilities for 3D Medical Imaging: Algorithm Development and Validation." JMIR AI (2025).
 [[paper](https://ai.jmir.org/2025/1/e72109)]
 [2025.05]
 
-:boom: Chen, Jinlong, Fuqiang Jin, Yingjie Jiao, Yongsong Zhan, and Xingguo Qin.<br />
+- Chen, Jinlong, Fuqiang Jin, Yingjie Jiao, Yongsong Zhan, and Xingguo Qin.<br />
 "Improving Dynamic Gesture Recognition with Attention-Enhanced LSTM and Grounding SAM." Electronics (2025).
 [[paper](https://www.mdpi.com/2079-9292/14/9/1793)]
 [2025.05]
 
-:boom:Angelo Moroncelli and Sylvain Populus and Armand Rossi and Emanuele Carpanzano and Loris Roveda.<br />
+- Angelo Moroncelli and Sylvain Populus and Armand Rossi and Emanuele Carpanzano and Loris Roveda.<br />
 "Vision-based robotic disassembly of aircraft engines with YOLO-SAM: a novel method for task orientation estimation." CIRP Annals (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0007850625001106)]
 [2025.05]
 
-:boom:**ICA-SAMv7:** Xiaotian Yan and Yuting Guo and Ziyi Pei and Xinyu Zhang and Jinghao Li and Zitao Zhou and Lifang Liang and Shuai Li and Peng Lun and Aimin Hao.<br />
+- **ICA-SAMv7:** Xiaotian Yan and Yuting Guo and Ziyi Pei and Xinyu Zhang and Jinghao Li and Zitao Zhou and Lifang Liang and Shuai Li and Peng Lun and Aimin Hao.<br />
 "ICA-SAMv7: Internal carotid artery segmentation with coarse to fine network." Computerized Medical Imaging and Graphics (2025).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0895611125000643)]
 [[code](https://github.com/BessiePei/ICA-SAMv7)]
 [2025.05]
 
-:boom:Muturi, T. W., & Adu-Gyamfi, Y.<br />
+- Muturi, T. W., & Adu-Gyamfi, Y.<br />
 "Enhanced Crack Segmentation Using Meta’s Segment Anything Model with Low-Cost Ground Truths and Multimodal Prompts." ArXiv (2025).
 [[paper](https://journals.sagepub.com/doi/abs/10.1177/03611981251322484)]
 [2025.05]
 
-:boom:**UN-SAM:** Zhen Chen and Qing Xu and Xinyu Liu and Yixuan Yuan.<br />
+- **UN-SAM:** Zhen Chen and Qing Xu and Xinyu Liu and Yixuan Yuan.<br />
 "UN-SAM: Domain-adaptive self-prompt segmentation for universal nuclei images." Medical Image Analysis (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1361841525001549)]
 [[code](https://github.com/CUHK-AIM-Group/UN-SAM)]
 [2025.05]
 
-:boom:Milman, Oded, Dovi Yellin, and Yehudit Aperstein.<br />
+- Milman, Oded, Dovi Yellin, and Yehudit Aperstein.<br />
 "Adapting SAM for Visible-Light Pupil Segmentation Baseline." Electronics (2025).
 [[paper](https://www.mdpi.com/2079-9292/14/9/1850)]
 [2025.05]
 
-:boom:**SV-Unet:** Wei Wang and Chong Yu and Tengyu Zhang and Feiyu Chen and Yufan Liu and Zongze Wu.<br />
+- **SV-Unet:** Wei Wang and Chong Yu and Tengyu Zhang and Feiyu Chen and Yufan Liu and Zongze Wu.<br />
 "Oversized ore segmentation using SAM-enhanced U-Net with self-supervised pre-training and semi-supervised self-training." Expert Systems with Applications (2025).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S095741742501601X)]
 [2025.05]
 
-:boom:**SAM-Brain3D:** Zhongying Deng, Haoyu Wang, Ziyan Huang, Lipei Zhang, Angelica I. Aviles-Rivero, Chaoyu Liu, Junjun He, Zoe Kourtzi, Carola-Bibiane Schönlieb.<br />
+- **SAM-Brain3D:** Zhongying Deng, Haoyu Wang, Ziyan Huang, Lipei Zhang, Angelica I. Aviles-Rivero, Chaoyu Liu, Junjun He, Zoe Kourtzi, Carola-Bibiane Schönlieb.<br />
 "Brain Foundation Models with Hypergraph Dynamic Adapter for Brain Disease Analysis." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.00627)]
 [2025.05]
 
-:boom:Shuang Zhang, Carleton Coffin, Karyn L. Rogers, Catherine Ann Royer, Ge Wang.<br />
+- Shuang Zhang, Carleton Coffin, Karyn L. Rogers, Catherine Ann Royer, Ge Wang.<br />
 "AI-Driven High-Resolution Cell Segmentation and Quantitative Analysis." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.00578)]
 [2025.05]
 
-:boom:**IDRA-H:** Marc Glocker, Peter Hönig, Matthias Hirschmanner, Markus Vincze.<br />
+- **IDRA-H:** Marc Glocker, Peter Hönig, Matthias Hirschmanner, Markus Vincze.<br />
 "LLM-Empowered Embodied Agent for Memory-Augmented Task Planning in Household Robotics." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.21716)]
 [[code](https://github.com/marc1198/chat-hsr)]
 [2025.04]
 
-:boom:**SAM4EM:** Uzair Shah, Marco Agus, Daniya Boges, Vanessa Chiappini, Mahmood Alzubaidi, Jens Schneider, Markus Hadwiger, Pierre J. Magistretti, Mowafa Househ, Corrado Calı.<br />
+- **SAM4EM:** Uzair Shah, Marco Agus, Daniya Boges, Vanessa Chiappini, Mahmood Alzubaidi, Jens Schneider, Markus Hadwiger, Pierre J. Magistretti, Mowafa Househ, Corrado Calı.<br />
 "SAM4EM:Efficient memory-based two stage prompt-free segment anything model adapter for complex 3D neuroscience electron microscopy stacks." CVPRW (2025).
 [[paper](https://arxiv.org/abs/2504.21544)]
 [[code](https://github.com/Uzshah/SAM4EM)]
 [2025.04]
 
-:boom:**UniBiomed:** Linshan Wu, Yuxiang Nie, Sunan He, Jiaxin Zhuang, Hao Chen.<br />
+- **UniBiomed:** Linshan Wu, Yuxiang Nie, Sunan He, Jiaxin Zhuang, Hao Chen.<br />
 "UniBiomed: A Universal Foundation Model for Grounded Biomedical Image Interpretation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.21336)]
 [2025.04]
 
-:boom:**RadSAM:** Julien Khlaut, Elodie Ferreres, Daniel Tordjman, Hélène Philippe, Tom Boeken, Pierre Manceron, Corentin Dancette.<br />
+- **RadSAM:** Julien Khlaut, Elodie Ferreres, Daniel Tordjman, Hélène Philippe, Tom Boeken, Pierre Manceron, Corentin Dancette.<br />
 "RadSAM: Segmenting 3D radiological images with a 2D promptable model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.20837)]
 [2025.04]
 
-:boom:**RRL-MedSAM:** Jia Wang, Yunan Mei, Jiarui Liu, and Xin Fan.<br />
+- **RRL-MedSAM:** Jia Wang, Yunan Mei, Jiarui Liu, and Xin Fan.<br />
 "SAM-Guided Robust Representation Learning for One-Shot 3D Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.20501)]
 [2025.04]
 
-:boom:**Follow Everything:** Qianyi Zhang, Shijian Ma, Boyi Liu, Jingtai Liu, Jianhao Jiao, Dimitrios Kanoulas.<br />
+- **Follow Everything:** Qianyi Zhang, Shijian Ma, Boyi Liu, Jingtai Liu, Jianhao Jiao, Dimitrios Kanoulas.<br />
 "Follow Everything: A Leader-Following and Obstacle Avoidance Framework with Goal-Aware Adaptation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.19399)]
 [[code](https://follow-everything.github.io/)]
 [2025.04]
 
-:boom:**Res-SAM:** Xiren Zhou, Shikang Liu, Xinyu Yan, Yizhan Fan, Xiangyu Wang, Yu Kang, Jian Cheng, Huanhuan Chen.<br />
+- **Res-SAM:** Xiren Zhou, Shikang Liu, Xinyu Yan, Yizhan Fan, Xiangyu Wang, Yu Kang, Jian Cheng, Huanhuan Chen.<br />
 "Reservoir-enhanced Segment Anything Model for Subsurface Diagnosis." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.18802)]
 [2025.04]
 
-:boom:**RSFR:** Jiahao Huang, Fanwen Wang, Pedro F. Ferreira, Haosen Zhang, Yinzhe Wu, Zhifan Gao, Lei Zhu, Angelica I. Aviles-Rivero, Carola-Bibiane Schonlieb, Andrew D. Scott, Zohya Khalique, Maria Dwornik, Ramyah Rajakulasingam, Ranil De Silva, Dudley J. Pennell, Guang Yang, Sonia Nielles-Vallespin.<br />
+- **RSFR:** Jiahao Huang, Fanwen Wang, Pedro F. Ferreira, Haosen Zhang, Yinzhe Wu, Zhifan Gao, Lei Zhu, Angelica I. Aviles-Rivero, Carola-Bibiane Schonlieb, Andrew D. Scott, Zohya Khalique, Maria Dwornik, Ramyah Rajakulasingam, Ranil De Silva, Dudley J. Pennell, Guang Yang, Sonia Nielles-Vallespin.<br />
 "RSFR: A Coarse-to-Fine Reconstruction Framework for Diffusion Tensor Cardiac MRI with Semantic-Aware Refinement." Medical Image Analysis (2025).
 [[paper](https://arxiv.org/abs/2504.18520)]
 [2025.04]
