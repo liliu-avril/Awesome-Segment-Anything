@@ -250,6 +250,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SARTM:** Dong Xing, Xianxun Zhu, Wei Zhou, Qika Lin, Hang Yang, Yuqing Wang.<br />
+"Segment Any RGB-Thermal Model with Language-aided Distillation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.01950)]
+[2025.05]
+
+:boom:**SLM-SAM 2:** Yuwen Chen, Zafer Yildiz, Qihang Li, Yaqian Chen, Haoyu Dong, Hanxue Gu, Nicholas Konz, Maciej A. Mazurowski.<br />
+"Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2." TMI (2025).
+[[paper](https://arxiv.org/abs/2505.01854)]
+[2025.05]
+
+:boom:**SAM-TIFF:** Michael Marinaccio, Fatemeh Afghah.<br />
+"Seeing Heat with Color - RGB-Only Wildfire Temperature Inference from SAM-Guided Multimodal Distillation using Radiometric Ground Truth." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.01638)]
+[2025.05]
+
+:boom:**ZS-VCOS:** Wenqi Guo, Shan Du.<br />
+"ZS-VCOS: Zero-Shot Outperforms Supervised Video Camouflaged Object Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.01431)]
+[[code](https://github.com/weathon/vcos)]
+[2025.05]
+
+:boom:Malte Mosbach, Sven Behnke.<br />
+"Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.02232)]
+[[code](https://memory-student-teacher.github.io)]
+[2025.05]
+
 :boom:**MoSAM:** Qiushi Yang, Yuan Yao, Miaomiao Cui, Liefeng Bo.<br />
 "MoSAM: Motion-Guided Segment Anything Model with Spatial-Temporal Memory Selection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.00739)]
