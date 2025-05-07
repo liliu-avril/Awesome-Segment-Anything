@@ -250,6 +250,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**CaRaFFusion:** Huawei Sun, Bora Kunter Sahin, Georg Stettinger, Maximilian Bernhard, Matthias Schubert, Robert Wille.<br />
+"CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting." RA-L(2025).
+[[paper](https://arxiv.org/abs/2505.03679)]
+[2025.05]
+
+:boom:Siming He, Zachary Osman, Fernando Cladera, Dexter Ong, Nitant Rai, Patrick Corey Green, Vijay Kumar, Pratik Chaudhari.<br />
+"Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera." ICRA Workshop (2025).
+[[paper](https://arxiv.org/abs/2505.03093)]
+[2025.05]
+
 :boom:**SARTM:** Dong Xing, Xianxun Zhu, Wei Zhou, Qika Lin, Hang Yang, Yuqing Wang.<br />
 "Segment Any RGB-Thermal Model with Language-aided Distillation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.01950)]
