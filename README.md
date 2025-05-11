@@ -250,65 +250,96 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**UncertainSAM:** Timo Kaiser, Thomas Norrenbrock, Bodo Rosenhahn.<br />
+:boom:**SAMSelect :** Joost van Dalen, Yuki M. Asano, Marc Rußwurm.<br />
+"SAMSELECT: A SPECTRAL INDEX SEARCH FOR MARINE DEBRIS VISUALIZATION USING SAM." ICLR Workshop (2025).
+[[paper](https://ml-for-rs.github.io/iclr2025/camera_ready/papers/50.pdf)]
+[2025.05]
+
+:boom:**TP-SA3M:** Li, T., Jiang, Z., Jin, Y. et al.<br />
+"TP-SA3M: text prompts-assisted SAM for myopic maculopathy segmentation." Vis Comput (2025).
+[[paper](https://link.springer.com/article/10.1007/s00371-025-03892-y)]
+[2025.05]
+
+:boom:Wu, Z., Yang, JY., Yan, CB. et al.<br />
+"Integrating SAM priors with U-Net for enhanced multiclass cell detection in digital pathology." Sci Rep (2025).
+[[paper](https://www.nature.com/articles/s41598-025-99278-0)]
+[2025.05]
+
+:boom:**SAMSAR:** Mahdi Rahimi, Saeed Sharifian.<br />
+"SAMSAR: A modified SAM architecture for oceanic ship segmentation of satellite SAR images using CNN-based Cross-Fused Attention." ESWA (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425014745)]
+[2025.05]
+
+:boom:**SAMSnake:** Yejun Wu and Jiao Zhan and Chi Guo and Huyin Zhang.<br />
+"SAMSnake: A generic contour-based instance segmentation network assistedby Efficient Segment Anything Model." Neural Networks (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0893608025003703)]
+[[code](https://github.com/Giansar-Wu/SAMSnake)]
+[2025.05]
+
+:boom:Tao, Kunjian, He Li, Chong Huang, Qingsheng Liu, Junyan Zhang, and Ruoqi Du.<br />
+"Extraction of Cropland Based on Multi-Source Remote Sensing and an Improved Version of the Deep Learning-Based Segment Anything Model (SAM)." Agronomy (2025).
+[[paper](https://www.mdpi.com/2073-4395/15/5/1139)]
+[2025.05]
+
+- **UncertainSAM:** Timo Kaiser, Thomas Norrenbrock, Bodo Rosenhahn.<br />
 "UncertainSAM: Fast and Efficient Uncertainty Quantification of the Segment Anything Model." ICML (2025).
 [[paper](https://arxiv.org/abs/2505.05049)]
 [2025.05]
 
-:boom:**Mix-QSAM:** Navin Ranjan, Andreas Savakis.<br />
+- **Mix-QSAM:** Navin Ranjan, Andreas Savakis.<br />
 "Mix-QSAM: Mixed-Precision Quantization of the Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.04861)]
 [2025.05]
 
-:boom:**CAPNet:** Baoshun Shi, Zheng Liu, Xin Meng, Yan Yang.<br />
+- **CAPNet:** Baoshun Shi, Zheng Liu, Xin Meng, Yan Yang.<br />
 "Cross-organ all-in-one parallel compressed sensing magnetic resonance imaging." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.04658)]
 [[code](https://github.com/shibaoshun/CAPNet)]
 [2025.05]
 
-:boom:**MAISY:** Andrew Zhang, Hao Wang, Shuchang Ye, Michael Fulham, Jinman Kim.<br />
+- **MAISY:** Andrew Zhang, Hao Wang, Shuchang Ye, Michael Fulham, Jinman Kim.<br />
 "MAISY: Motion-Aware Image SYnthesis for Medical Image Motion Correction." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.04105)]
 [2025.05]
 
-:boom:**CaRaFFusion:** Huawei Sun, Bora Kunter Sahin, Georg Stettinger, Maximilian Bernhard, Matthias Schubert, Robert Wille.<br />
+- **CaRaFFusion:** Huawei Sun, Bora Kunter Sahin, Georg Stettinger, Maximilian Bernhard, Matthias Schubert, Robert Wille.<br />
 "CaRaFFusion: Improving 2D Semantic Segmentation with Camera-Radar Point Cloud Fusion and Zero-Shot Image Inpainting." RA-L(2025).
 [[paper](https://arxiv.org/abs/2505.03679)]
 [2025.05]
 
-:boom:Siming He, Zachary Osman, Fernando Cladera, Dexter Ong, Nitant Rai, Patrick Corey Green, Vijay Kumar, Pratik Chaudhari.<br />
+- Siming He, Zachary Osman, Fernando Cladera, Dexter Ong, Nitant Rai, Patrick Corey Green, Vijay Kumar, Pratik Chaudhari.<br />
 "Estimating the Diameter at Breast Height of Trees in a Forest With a Single 360 Camera." ICRA Workshop (2025).
 [[paper](https://arxiv.org/abs/2505.03093)]
 [2025.05]
 
-:boom:**SARTM:** Dong Xing, Xianxun Zhu, Wei Zhou, Qika Lin, Hang Yang, Yuqing Wang.<br />
+- **SARTM:** Dong Xing, Xianxun Zhu, Wei Zhou, Qika Lin, Hang Yang, Yuqing Wang.<br />
 "Segment Any RGB-Thermal Model with Language-aided Distillation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.01950)]
 [2025.05]
 
-:boom:**SLM-SAM 2:** Yuwen Chen, Zafer Yildiz, Qihang Li, Yaqian Chen, Haoyu Dong, Hanxue Gu, Nicholas Konz, Maciej A. Mazurowski.<br />
+- **SLM-SAM 2:** Yuwen Chen, Zafer Yildiz, Qihang Li, Yaqian Chen, Haoyu Dong, Hanxue Gu, Nicholas Konz, Maciej A. Mazurowski.<br />
 "Accelerating Volumetric Medical Image Annotation via Short-Long Memory SAM 2." TMI (2025).
 [[paper](https://arxiv.org/abs/2505.01854)]
 [2025.05]
 
-:boom:**SAM-TIFF:** Michael Marinaccio, Fatemeh Afghah.<br />
+- **SAM-TIFF:** Michael Marinaccio, Fatemeh Afghah.<br />
 "Seeing Heat with Color - RGB-Only Wildfire Temperature Inference from SAM-Guided Multimodal Distillation using Radiometric Ground Truth." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.01638)]
 [2025.05]
 
-:boom:**ZS-VCOS:** Wenqi Guo, Shan Du.<br />
+- **ZS-VCOS:** Wenqi Guo, Shan Du.<br />
 "ZS-VCOS: Zero-Shot Outperforms Supervised Video Camouflaged Object Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.01431)]
 [[code](https://github.com/weathon/vcos)]
 [2025.05]
 
-:boom:Malte Mosbach, Sven Behnke.<br />
+- Malte Mosbach, Sven Behnke.<br />
 "Prompt-responsive Object Retrieval with Memory-augmented Student-Teacher Learning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.02232)]
 [[code](https://memory-student-teacher.github.io)]
 [2025.05]
 
-:boom:**MoSAM:** Qiushi Yang, Yuan Yao, Miaomiao Cui, Liefeng Bo.<br />
+- **MoSAM:** Qiushi Yang, Yuan Yao, Miaomiao Cui, Liefeng Bo.<br />
 "MoSAM: Motion-Guided Segment Anything Model with Spatial-Temporal Memory Selection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.00739)]
 [2025.05]
