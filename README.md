@@ -250,6 +250,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**BrainSegDMlF:** Hongming Wang, Yifeng Wu, Huimin Huang, Hongtao Wu, Jia-Xuan Jiang, Xiaodong Zhang, Hao Zheng, Xian Wu, Yefeng Zheng, Jinping Xu, Jing Cheng.<br />
+"BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.06133)]
+[2025.05]
+
+:boom:**SLCA:** Pengfei Gu, Haoteng Tang, Islam A. Ebeid, Jose A. Nunez, Fabian Vazquez, Diego Adame, Marcus Zhan, Huimin Li, Bin Fu, Danny Z. Chen.<br />
+"Adapting a Segmentation Foundation Model for Medical Image Classification." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.06217)]
+[2025.05]
+
 :boom:**SAMSelect :** Joost van Dalen, Yuki M. Asano, Marc Rußwurm.<br />
 "SAMSELECT: A SPECTRAL INDEX SEARCH FOR MARINE DEBRIS VISUALIZATION USING SAM." ICLR Workshop (2025).
 [[paper](https://ml-for-rs.github.io/iclr2025/camera_ready/papers/50.pdf)]
