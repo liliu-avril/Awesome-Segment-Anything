@@ -250,6 +250,34 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**CPC-SAM:** Jingyao Wang, Jianqi Zhang, Wenwen Qiang, Changwen Zheng.<br />
+"Causal Prompt Calibration Guided Segment Anything Model for Open-Vocabulary Multi-Entity Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.06524)]
+[[code](https://github.com/WangJingyao07/CPC-SAM)]
+[2025.05]
+
+:boom:**MarkMatch:** Fei Zhao, Runlin Zhang, Chengcui Zhang, Nitesh Saxena.<br />
+"MarkMatch: Same-Hand Stuffing Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.07032)]
+[2025.05]
+
+:boom:**MAIS:** Mauricio Orbes-Arteaga, Oeslle Lucena, Sabastien Ourselin, M. Jorge Cardoso.<br />
+"MAIS: Memory-Attention for Interactive Segmentation." MIDL (2025).
+[[paper](https://arxiv.org/abs/2505.07511)]
+[2025.05]
+
+:boom:**ABS-Mamba:** Feng Yuan, Yifan Gao, Wenbin Wu, Keqing Wu, Xiaotong Guo, Jie Jiang, Xin Gao.<br />
+"ABS-Mamba: SAM2-Driven Bidirectional Spiral Mamba Network for Medical Image Translation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.07687)]
+[[code](https://github.com/gatina-yone/ABS-Mamba)]
+[2025.05]
+
+:boom:**SAMSR:** Zihang Liu, Zhenyu Zhang, Hao Tang.<br />
+"Semantic-Guided Diffusion Model for Single-Step Image Super-Resolution." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.07071)]
+[[code](https://github.com/Liu-Zihang/SAMSR)]
+[2025.05]
+
 :boom:**BrainSegDMlF:** Hongming Wang, Yifeng Wu, Huimin Huang, Hongtao Wu, Jia-Xuan Jiang, Xiaodong Zhang, Hao Zheng, Xian Wu, Yefeng Zheng, Jinping Xu, Jing Cheng.<br />
 "BrainSegDMlF: A Dynamic Fusion-enhanced SAM for Brain Lesion Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.06133)]
