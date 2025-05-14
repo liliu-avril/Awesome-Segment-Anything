@@ -250,6 +250,24 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**ReSurgSAM2:** Haofeng Liu, Mingqi Gao, Xuxiao Luo, Ziyue Wang, Guanyi Qin, Junde Wu, Yueming Jin.<br />
+"ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.08581)]
+[[code](https://github.com/jinlab-imvr/ReSurgSAM2)]
+[2025.05]
+
+:boom:**DFG:** Zheang Huai, Hui Tang, Yi Li, Zhuangzhuang Chen, Xiaomeng Li.<br />
+"Leveraging Segment Anything Model for Source-Free Domain Adaptation via Dual Feature Guided Auto-Prompting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.08527)]
+[[code](https://github.com/zheangh/DFG)]
+[2025.05]
+
+:boom:**SLAG:** Laszlo Szilagyi, Francis Engelmann, Jeannette Bohg.<br />
+"SLAG: Scalable Language-Augmented Gaussian Splatting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.08124)]
+[[code](https://slag-project.github.io/)]
+[2025.05]
+
 :boom:**CPC-SAM:** Jingyao Wang, Jianqi Zhang, Wenwen Qiang, Changwen Zheng.<br />
 "Causal Prompt Calibration Guided Segment Anything Model for Open-Vocabulary Multi-Entity Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.06524)]
