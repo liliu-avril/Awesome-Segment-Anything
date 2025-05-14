@@ -251,7 +251,7 @@ If you find our work useful in your research, please consider citing:
 #### The latest papers within a week are marked with a :boom:
 #### 2025
 :boom:**ReSurgSAM2:** Haofeng Liu, Mingqi Gao, Xuxiao Luo, Ziyue Wang, Guanyi Qin, Junde Wu, Yueming Jin.<br />
-"ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking." ArXiv (2025).
+"ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking." MICCAI (2025).
 [[paper](https://arxiv.org/abs/2505.08581)]
 [[code](https://github.com/jinlab-imvr/ReSurgSAM2)]
 [2025.05]
