@@ -250,6 +250,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**ISGR:** Dayong Liang, Changmeng Zheng, Zhiyuan Wen, Yi Cai, Xiao-Yong Wei, Qing Li.<br />
+"Seeing Beyond the Scene: Enhancing Vision-Language Models with Interactional Reasoning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.09118)]
+[[code](https://github.com/open_upon_acceptance)]
+[2025.05]
+
+:boom:**PPT-net:** Guoying Liang ,Su Yang.<br />
+"Promoting SAM for Camouflaged Object Detection via Selective Key Point-based Guidance." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.09123)]
+[2025.05]
+
+:boom:Mohammad Wasil, Ahmad Drak, Brennan Penfold, Ludovico Scarton, Maximilian Johenneken, Alexander Asteroth, Sebastian Houben.<br />
+"Parameter-Efficient Fine-Tuning of Vision Foundation Model for Forest Floor Segmentation from UAV Imagery."  IEEE ICRA Workshop (2025).
+[[paper](https://arxiv.org/abs/2505.08932)]
+[2025.05]
+
 :boom:**ReSurgSAM2:** Haofeng Liu, Mingqi Gao, Xuxiao Luo, Ziyue Wang, Guanyi Qin, Junde Wu, Yueming Jin.<br />
 "ReSurgSAM2: Referring Segment Anything in Surgical Video via Credible Long-term Tracking." MICCAI (2025).
 [[paper](https://arxiv.org/abs/2505.08581)]
