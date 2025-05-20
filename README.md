@@ -250,6 +250,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Long-RVOS:** Tianming Liang, Haichao Jiang, Yuting Yang, Chaolei Tan, Shuai Li, Wei-Shi Zheng, Jian-Fang Hu.<br />
+"Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.12702)]
+[[code](https://isee-laboratory.github.io/Long-RVOS)]
+[2025.05]
+
 :boom:**iSegMan:** Yian Zhao, Wanshi Xu, Ruochong Zheng, Pengchong Qiao, Chang Liu, Jie Chen.<br />
 "iSegMan: Interactive Segment-and-Manipulate 3D Gaussians." CVPR (2025).
 [[paper](https://arxiv.org/abs/2505.11934)]
