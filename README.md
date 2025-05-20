@@ -250,6 +250,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**iSegMan:** Yian Zhao, Wanshi Xu, Ruochong Zheng, Pengchong Qiao, Chang Liu, Jie Chen.<br />
+"iSegMan: Interactive Segment-and-Manipulate 3D Gaussians." CVPR (2025).
+[[paper](https://arxiv.org/abs/2505.11934)]
+[[code](https://zhao-yian.github.io/iSegMan)]
+[2025.05]
+
+:boom:**InsCore:** Shinichi Mae, Ryosuke Yamada, Hirokatsu Kataoka.<br />
+"Industry-focused Synthetic Segmentation Pre-training." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.13099)]
+[2025.05]
+
+:boom:Yijie Zheng, Jinxuan Yang, Yu Chen, Yaxuan Wang, Yihang Lu, Guoqing Li.<br />
+"Beluga Whale Detection from Satellite Imagery with Point Labels." IGARSS (2025).
+[[paper](https://arxiv.org/abs/2505.12066)]
+[[code](http://github.com/voyagerxvoyagerx/beluga-seeker)]
+[2025.05]
+
+:boom:**AoP-SAM:** Yi Chen, Mu-Young Son, Chuanbo Hua, Joo-Young Kim.<br />
+"AoP-SAM: Automation of Prompts for Efficient Segmentation." AAAI (2025).
+[[paper](https://arxiv.org/abs/2505.11980)]
+[2025.05]
+
 :boom:**SurgPose:** Utsav Rai, Haozheng Xu, Stamatia Giannarou.<br />
 "SurgPose: Generalisable Surgical Instrument Pose Estimation using Zero-Shot Learning and Stereo Vision." ICRA (2025).
 [[paper](https://arxiv.org/abs/2505.11439)]
