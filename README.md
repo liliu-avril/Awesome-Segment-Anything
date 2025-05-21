@@ -250,6 +250,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**FSSAM:** Qianxiong Xu, Lanyun Zhu, Xuanyi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao.<br />
+"Unlocking the Power of SAM 2 for Few-Shot Segmentation." ICML (2025).
+[[paper](https://arxiv.org/abs/2505.14100)]
+[2025.05]
+
+:boom:**IPENS:** Wentao Song, He Huang, Youqiang Sun, Fang Qu, Jiaqi Zhang, Longhui Fang, Yuwei Hao, Chenyang Peng.<br />
+"IPENS: Interactive Unsupervised Framework for Rapid Plant Phenotyping Extraction via NeRF-SAM2 Fusion." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.13633)]
+[2025.05]
+
 :boom:**Long-RVOS:** Tianming Liang, Haichao Jiang, Yuting Yang, Chaolei Tan, Shuai Li, Wei-Shi Zheng, Jian-Fang Hu.<br />
 "Long-RVOS: A Comprehensive Benchmark for Long-term Referring Video Object Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.12702)]
