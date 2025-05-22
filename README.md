@@ -250,6 +250,34 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**InstructSAM:** Yijie Zheng, Weijie Wu, Qingyun Li, Xuehui Wang, Xu Zhou, Aiai Ren, Jun Shen, Long Zhao, Guoqing Li, Xue Yang.<br />
+"InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.15818)]
+[[code](https://github.com/VoyagerXvoyagerx/InstructSAM)]
+[2025.05]
+
+:boom:**GEN2SEG:** Om Khangaonkar, Hamed Pirsiavash.<br />
+"GEN2SEG: Generative Models Enable Generalizable Instance Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.15263)]
+[[code](https://reachomk.github.io/gen2seg)]
+[2025.05]
+
+:boom:**VP Lab:** Niccolo Avogaro, Thomas Frick, Yagmur G. Cinar, Daniel Caraballo, Cezary Skura, Filip M. Janicki, Piotr Kluska, Brown Ebouky, Nicola Farronato, Florian Scheidegger, Cristiano Malossi, Konrad Schindler, Andrea Bartezzaghi, Roy Assaf, Mattia Rigotti.<br />
+"VP Lab: a PEFT-Enabled Visual Prompting Laboratory for Semantic Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.15592)]
+[2025.05]
+
+:boom:**UWSAM:** Hua Li, Shijie Lian, Zhiyuan Li, Runmin Cong, Sam Kwong.<br />
+"UWSAM: Segment Anything Model Guided Underwater Instance Segmentation and A Large-scale Benchmark Dataset." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.15581)]
+[[code](https://github.com/LiamLian0727/UIIS10K)]
+[2025.05]
+
+:boom:Tatyana Shmykova, Leila Khaertdinova, Ilya Pershin.<br />
+"Zero-Shot Gaze-based Volumetric Medical Image Segmentation." CVPRW (2025).
+[[paper](https://arxiv.org/abs/2505.15256)]
+[2025.05]
+
 :boom:**FSSAM:** Qianxiong Xu, Lanyun Zhu, Xuanyi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao.<br />
 "Unlocking the Power of SAM 2 for Few-Shot Segmentation." ICML (2025).
 [[paper](https://arxiv.org/abs/2505.14100)]
