@@ -250,6 +250,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAMba-UNet:** Guohao Huo, Ruiting Dai, Hao Tang.<br />
+"SAMba-UNet: Synergizing SAM2 and Mamba in UNet with Heterogeneous Aggregation for Cardiac MRI Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.16304)]
+[2025.05]
+
+:boom:**TextureSAM:** Inbal Cohen, Boaz Meivar, Peihan Tu, Shai Avidan, Gal Oren.<br />
+"TextureSAM: Towards a Texture Aware Foundation Model for Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.16540)]
+[2025.05]
+
 :boom:**InstructSAM:** Yijie Zheng, Weijie Wu, Qingyun Li, Xuehui Wang, Xu Zhou, Aiai Ren, Jun Shen, Long Zhao, Guoqing Li, Xue Yang.<br />
 "InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.15818)]
