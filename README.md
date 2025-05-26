@@ -283,6 +283,12 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/lnikioffic/track-anything-annotate)]
 [2025.05]
 
+:boom:**H2-COMPACT:** Geeta Chandra Raju Bethala, Hao Huang, Niraj Pudasaini, Abdullah Mohamed Ali, Shuaihang Yuan, Congcong Wen, Anthony Tzes, Yi Fang.<br />
+"H2-COMPACT: Human-Humanoid Co-Manipulation via Adaptive Contact Trajectory Policies." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.17627)]
+[[code](https://h2compact.github.io/h2compact/)]
+[2025.05]
+
 :boom:Martin Villagrana, Francisco Lopez-Tiro, Clement Larose, Gilberto Ochoa-Ruiz, Christian Daul.<br />
 "Assessing the generalization performance of SAM for ureteroscopy scene understanding." MIUA (2025).
 [[paper](https://arxiv.org/abs/2505.17210)]
