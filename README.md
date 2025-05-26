@@ -250,6 +250,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**UWIPL_ETRI :** Cheng-Yen Yang, Hsiang-Wei Huang, Pyong-Kun Kim, Chien-Kai Kuo, Jui-Wei Chang, Kwang-Ju Kim, Chung-I Huang, Jenq-Neng Hwang.<br />
+"Adapting SAM 2 for Visual Object Tracking: 1st Place Solution for MMVPR Challenge Multi-Modal Tracking." ICPRW (2025).
+[[paper](https://arxiv.org/abs/2505.18111)]
+[2025.05]
+
+:boom:**RemoteSAM:** Liang Yao, Fan Liu, Delong Chen, Chuanyi Zhang, Yijun Wang, Ziyun Chen, Wei Xu, Shimin Di, Yuhui Zheng.<br />
+"RemoteSAM: Towards Segment Anything for Earth Observation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.18022)]
+[[code](https://github.com/1e12Leon/RemoteSAM)]
+[2025.05]
+
+:boom:**Track Anything Annotate:** Nikita Ivanov, Mark Klimov, Dmitry Glukhikh, Tatiana Chernysheva, Igor Glukhikh.<br />
+"Track Anything Annotate: Video annotation and dataset generation of computer vision models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.17884)]
+[[code](https://github.com/lnikioffic/track-anything-annotate)]
+[2025.05]
+
+:boom:Martin Villagrana, Francisco Lopez-Tiro, Clement Larose, Gilberto Ochoa-Ruiz, Christian Daul.<br />
+"Assessing the generalization performance of SAM for ureteroscopy scene understanding." MIUA (2025).
+[[paper](https://arxiv.org/abs/2505.17210)]
+[2025.05]
+
 :boom:**BuildingSAM:** Feng, Wenqing and Guan, Fangli and Tu, Jihui and Xu, Wei.<br />
 "BuildingSAM: A Dual-Branch Feature-Augmented Segment Anything Model for Remote Sensing Building Extraction." IEEE Geoscience and Remote Sensing Letters (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/10994826)]
@@ -2373,7 +2395,7 @@ Observation and Geoinformation (2025).
 | 069  |YOLOv9+SAM |YOLOv9+SAM   |  [Project page](https://zhuanlan.zhihu.com/p/689061673)  |  [Code](https://zhuanlan.zhihu.com/p/689061673)  | - | Dynamic Detection and Segmentation with YOLOv9+SAM. |
 | 070  | LiteMedSAM  | LiteMedSAM   |  [Project page](https://github.com/bowang-lab/MedSAM/tree/LiteMedSAM)  |  [Code](https://github.com/bowang-lab/MedSAM/tree/LiteMedSAM)  | - | A lightweight version of MedSAM for fast training and inference. |
 | 071  | ISAT_with_segment_anything  | ISAT_with_segment_anything   |  [Project page](https://github.com/yatengLG/ISAT_with_segment_anything)  |  [Code](https://github.com/yatengLG/ISAT_with_segment_anything)  | - | An Interactive Semi-automatic Annotation Tool based on segment anything model, supporting SAM, SAM2, SAM-HQ, MobileSAM, EdgeSAM, etc. |
-
+| 072  |  Track Anything Annotate    | Track Anything Annotate      | [Project page](https://github.com/lnikioffic/track-anything-annotate)  |  [Code](https://github.com/lnikioffic/track-anything-annotate)  | - | A video annotation tool combining SAM2 and Xmem++. |
 
 ## Awesome Repositories for SAM
 - [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything)
