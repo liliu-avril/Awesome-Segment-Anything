@@ -250,6 +250,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**REN:** Savya Khosla, Sethuraman TV, Barnett Lee, Alexander Schwing, Derek Hoiem.<br />
+"REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.18153)]
+[[code](https://github.com/savya08/REN)]
+[2025.05]
+
+:boom:**TAGS:** Sirui Li, Linkai Peng, Zheyuan Zhang, Gorkem Durak, Ulas Bagci.<br />
+"TAGS: 3D Tumor-Adaptive Guidance for SAM." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.17096)]
+[2025.05]
+
+:boom:Mahmoud Chick Zaouali, Todd Charter, Homayoun Najjaran.<br />
+"From Flight to Insight: Semantic 3D Reconstruction for Aerial Inspection via Gaussian Splatting and Language-Guided Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.17402)]
+[2025.05]
+
 :boom:**UWIPL_ETRI :** Cheng-Yen Yang, Hsiang-Wei Huang, Pyong-Kun Kim, Chien-Kai Kuo, Jui-Wei Chang, Kwang-Ju Kim, Chung-I Huang, Jenq-Neng Hwang.<br />
 "Adapting SAM 2 for Visual Object Tracking: 1st Place Solution for MMVPR Challenge Multi-Modal Tracking." ICPRW (2025).
 [[paper](https://arxiv.org/abs/2505.18111)]
