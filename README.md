@@ -250,6 +250,40 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**A3Tune:** Aofei Chang, Le Huang, Alex James Boyd, Parminder Bhatia, Taha Kass-Hout, Cao Xiao, Fenglong Ma.<br />
+"Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning." ACL (2025).
+[[paper](https://arxiv.org/abs/2505.18503)]
+[[code](https://github.com/Aofei-Chang/A3Tune)]
+[2025.05]
+
+:boom:**VL-SAM-V2:** Zhiwei Lin, Yongtao Wang.<br />
+"VL-SAM-V2: Open-World Object Detection with General and Specific Query Fusion." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.18986)]
+[2025.05]
+
+:boom:**SAMA:** Ye Sun, Hao Zhang, Henghui Ding, Tiehua Zhang, Xingjun Ma, Yu-Gang Jiang.<br />
+"SAMA: Towards Multi-Turn Referential Grounded Video Chat with Large Language Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.18812)]
+[[code](https://github.com/sunye23/SAMA)]
+[2025.05]
+
+:boom:**FHGS:** Q. G. Duan, Benyun Zhao, Mingqiao Han Yijun Huang, Ben M. Chen.<br />
+"FHGS: Feature-Homogenized Gaussian Splatting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.19154)]
+[[code](https://fhgs.cuastro.org/)]
+[2025.05]
+
+:boom:Nagito Saito, Shintaro Ito, Koichi Ito, Takafumi Aoki.<br />
+"Zero-Shot Pseudo Labels Generation Using SAM and CLIP for Semi-Supervised Semantic Segmentation." ICIP(2025).
+[[paper](https://arxiv.org/abs/2505.19846)]
+[2025.05]
+
+:boom:**PolyCL:** Tyler Ward, Aaron Moseley, Abdullah-Al-Zubaer Imran.<br />
+"Domain and Task-Focused Example Selection for Data-Efficient Contrastive Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.19208)]
+[[code](https://github.com/tbwa233/PolyCL)]
+[2025.05]
+
 :boom:**REN:** Savya Khosla, Sethuraman TV, Barnett Lee, Alexander Schwing, Derek Hoiem.<br />
 "REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.18153)]
