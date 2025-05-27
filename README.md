@@ -284,6 +284,18 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/tbwa233/PolyCL)]
 [2025.05]
 
+:boom:Mobina Mansoori, Sajjad Shahabodini, Farnoush Bayatmakou, Jamshid Abouei, Konstantinos N. Plataniotis, Arash Mohammadi.<br />
+"Advancements in Medical Image Classification through Fine-Tuning Natural Domain Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.19779)]
+[[code](https://github.com/sajjad-sh33/Medical-Transfer-Learning)]
+[2025.05]
+
+:boom:**ThinkVideo:** Shiu-hong Kao, Yu-Wing Tai, Chi-Keung Tang.<br />
+"ThinkVideo: High-Quality Reasoning Video Segmentation with Chain of Thoughts." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.18561)]
+[[code](https://cse.hkust.edu.hk/~skao/thinkvideo.html)]
+[2025.05]
+
 :boom:**REN:** Savya Khosla, Sethuraman TV, Barnett Lee, Alexander Schwing, Derek Hoiem.<br />
 "REN: Fast and Efficient Region Encodings from Patch-Based Image Encoders." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.18153)]
