@@ -250,6 +250,24 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**ReaMOT:** Sijia Chen, Yanqiu Yu, En Yu, Wenbing Tao.<br />
+"ReaMOT: A Benchmark and Framework for Reasoning-based Multi-Object Tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.20381)]
+[[code](https://github.com/chen-si-jia/ReaMOT)]
+[2025.05]
+
+:boom:**RoBiS:** Xurui Li, Zhonesheng Jiang, Tingxuan Ai, Yu Zhou.<br />
+"RoBiS: Robust Binary Segmentation for High-Resolution Industrial Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.21152)]
+[[code](https://github.com/xrli-U/RoBiS)]
+[2025.05]
+
+:boom:**CCL-LGS:** Lei Tian, Xiaomin Li, Liqian Ma, Hefei Huang, Zirui Zheng, Hao Yin, Taiqing Li, Huchuan Lu, Xu Jia.<br />
+"CCL-LGS: Contrastive Codebook Learning for 3D Language Gaussian Splatting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.20469)]
+[[code](https://epsilontl.github.io/CCL-LGS/)]
+[2025.05]
+
 :boom:**A3Tune:** Aofei Chang, Le Huang, Alex James Boyd, Parminder Bhatia, Taha Kass-Hout, Cao Xiao, Fenglong Ma.<br />
 "Focus on What Matters: Enhancing Medical Vision-Language Models with Automatic Attention Alignment Tuning." ACL (2025).
 [[paper](https://arxiv.org/abs/2505.18503)]
