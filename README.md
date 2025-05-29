@@ -272,6 +272,12 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/ClaudiaCuttano/SANSA)]
 [2025.05]
 
+:boom:** TSP-SAM:** Bilin Wang, Changda Lei, Yunbo Guo, Kaicheng Hong, Xiuji Kan,
+Yifan Ouyang, Junbo Li, Rui Li.<br />
+"Task-Specific Prompting SAM for Multi-task Gastric Cancer Diagnosis in Endoscopic Images." Expert Systems with Applications(2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425019487)]
+[2025.05]
+
 :boom: Kenneth Ball, Erin Taylor, Nirav Patel, Andrew Bartels, Gary Koplik, James Polly, Jay Hineman.<br />
 "Geometric Feature Prompting of Image Segmentation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.21644)]
