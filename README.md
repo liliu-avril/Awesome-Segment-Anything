@@ -250,6 +250,34 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM-R1:** Jiaqi Huang, Zunnan Xu, Jun Zhou, Ting Liu, Yicheng Xiao, Mingwen Ou, Bowen Ji, Xiu Li, Kehong Yuan.<br />
+"SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.22596)]
+[2025.05]
+
+:boom:** ELE-SAM :** Hang Chen, Maoyuan Ye, Peng Yang, Haibin He, Juhua Liu, Bo Du.<br />
+"Adapting Segment Anything Model for Power Transmission Corridor Hazard Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.22105)]
+[[code](https://github.com/Hhaizee/ELE-SAM)]
+[2025.05]
+
+:boom:**InfoSAM:** Yuanhong Zhang, Muyao Yuan, Weizhan Zhang, Tieliang Gong, Wen Wen, Jiangyong Ying, Weijie Shi.<br />
+"InfoSAM: Fine-Tuning the Segment Anything Model from An Information-Theoretic Perspective." ICML(2025).
+[[paper](https://arxiv.org/abs/2505.21920)]
+[2025.05]
+
+:boom:**SANSA::** Claudia Cuttano, Gabriele Trivigno, Giuseppe Averta, Carlo Masone.<br />
+"SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.21795)]
+[[code](https://github.com/ClaudiaCuttano/SANSA)]
+[2025.05]
+
+:boom: Kenneth Ball, Erin Taylor, Nirav Patel, Andrew Bartels, Gary Koplik, James Polly, Jay Hineman.<br />
+"Geometric Feature Prompting of Image Segmentation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.21644)]
+[[code](https://pypi.org/project/geomprompt/)]
+[2025.05]
+
 :boom:**ReaMOT:** Sijia Chen, Yanqiu Yu, En Yu, Wenbing Tao.<br />
 "ReaMOT: A Benchmark and Framework for Reasoning-based Multi-Object Tracking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.20381)]
