@@ -250,6 +250,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**MIAS-SAM:** Marco Colussi, Dragan Ahmetovic, Sergio Mascetti.<br />
+"MIAS-SAM: Medical Image Anomaly Segmentation without thresholding." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.22762)]
+[[code](https://github.com/warpcut/MIAS-SAM)]
+[2025.05]
+
 :boom:**SAM-R1:** Jiaqi Huang, Zunnan Xu, Jun Zhou, Ting Liu, Yicheng Xiao, Mingwen Ou, Bowen Ji, Xiu Li, Kehong Yuan.<br />
 "SAM-R1: Leveraging SAM for Reward Feedback in Multimodal Segmentation via Reinforcement Learning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.22596)]
