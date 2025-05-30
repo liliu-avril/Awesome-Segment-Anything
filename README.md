@@ -250,6 +250,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAMamba:** Wenhao Xu, Shuchen Zheng, Changwei Wang, Zherui Zhang, Chuan Ren, Rongtao Xu, Shibiao Xu.<br />
+"SAMamba: Adaptive State Space Modeling with Hierarchical Vision for Infrared Small Target Detection." Information Fusion(2025).
+[[paper](https://arxiv.org/abs/2505.23214)]
+[[code](https://github.com/zhengshuchen/SAMamba)]
+[2025.05]
+
+:boom:**TextRegion:** Yao Xiao, Qiqian Fu, Heyi Tao, Yuqun Wu, Zhen Zhu, Derek Hoiem.<br />
+"TextRegion: Text-Aligned Region Tokens from Frozen Image-Text Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2505.23769)]
+[[code](https://github.com/avaxiao/TextRegion)]
+[2025.05]
+
 :boom:**MIAS-SAM:** Marco Colussi, Dragan Ahmetovic, Sergio Mascetti.<br />
 "MIAS-SAM: Medical Image Anomaly Segmentation without thresholding." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.22762)]
