@@ -250,17 +250,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Gang Xu and Yingshui Zhang and Qingrui Yue and Xiaogang Liu.<br />
+"Automated detection and quantification of structural component dimensions using segment anything model (SAM)-based segmentation." Automation in Construction (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0926580525003449)]
+[2025.06]
+
+:boom:**EASAM:** Jianguo Zhang, Meng Lin, Hu Hou, Benhao Sun, Fengling Hu, Youcheng Yu & Menghan Li .<br />
+"EASAM: an edge-aware SAM-based paradigm for tooth segmentation." Signal, Image and Video Processing (2025).
+[[paper](https://link.springer.com/article/10.1007/s11760-025-04208-2)]
+[[code](XXXXXXXXXXXXXXXXXXXXXX)]
+[2025.06]
+
+:boom:Daixin Fu, Bowen Kuang, Lin Mi, Yongjie Liu, Qingyuan Wang, Junnan Lv, Lang Li.<br />
+"A threshold-based prompt generation method for segment anything model to identify fission gas bubbles." ArXiv (2025).
+[[paper](https://www.emerald.com/insight/content/doi/10.1108/ijsi-03-2025-0059/full/html)]
+[2025.06]
+
 :boom:Liangyang Ouyang, Yuki Sakai, Ryosuke Furuta, Hisataka Nozawa, Hikoro Matsui, Yoichi Sato.<br />
 "Leadership Assessment in Pediatric Intensive Care Unit Team Training." CVPRW (2025).
 [[paper](https://arxiv.org/abs/2505.24389)]
-[2025.06]
+[2025.05]
 
 
 :boom:**KairosAD:** Uzair Khan, Franco Fummi, Luigi Capogrosso.<br />
 "KairosAD: A SAM-Based Model for Industrial Anomaly Detection on Embedded Devices." ICIAP (2025).
 [[paper](https://arxiv.org/abs/2505.24334)]
 [[code](https://github.com/intelligolabs/KairosAD)]
-[2025.06]
+[2025.05]
 
 - Gang Xu and Yingshui Zhang and Qingrui Yue and Xiaogang Liu.<br />
 "Automated detection and quantification of structural component dimensions using segment anything model (SAM)-based segmentation." Automation in Construction(2025).
