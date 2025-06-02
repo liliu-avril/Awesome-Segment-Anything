@@ -250,6 +250,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Liangyang Ouyang, Yuki Sakai, Ryosuke Furuta, Hisataka Nozawa, Hikoro Matsui, Yoichi Sato.<br />
+"Leadership Assessment in Pediatric Intensive Care Unit Team Training." CVPRW (2025).
+[[paper](https://arxiv.org/abs/2505.24389)]
+[2025.06]
+
+
+:boom:**KairosAD:** Uzair Khan, Franco Fummi, Luigi Capogrosso.<br />
+"KairosAD: A SAM-Based Model for Industrial Anomaly Detection on Embedded Devices." ICIAP (2025).
+[[paper](https://arxiv.org/abs/2505.24334)]
+[[code](https://github.com/intelligolabs/KairosAD)]
+[2025.06]
+
 - Gang Xu and Yingshui Zhang and Qingrui Yue and Xiaogang Liu.<br />
 "Automated detection and quantification of structural component dimensions using segment anything model (SAM)-based segmentation." Automation in Construction(2025).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0926580525003449)]
