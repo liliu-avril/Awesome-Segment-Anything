@@ -250,6 +250,24 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM2-LOVE:** Yuji Wang, Haoran Xu, Yong Liu, Jiaze Li, Yansong Tang.<br />
+"SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes." CVPR (2025).
+[[paper](https://arxiv.org/abs/2506.01558)]
+[[code](https://github.com/VoyageWang/SAM2LOVE)]
+[2025.06]
+
+:boom:**SAM-I2V:** Haiyang Mei, Pengyu Zhang, Mike Zheng Shou.<br />
+"SAM-I2V: Upgrading SAM to Support Promptable Video Segmentation with Less than 0.2% Training Cost." CVPR (2025).
+[[paper](https://arxiv.org/abs/2506.01304)]
+[[code](https://github.com/showlab/SAM-I2V)]
+[2025.06]
+
+:boom:**AuralSAM2:** Yuyuan Liu, Yuanhong Chen, Chong Wang, Junlin Han, Junde Wu, Can Peng, Jingkun Chen, Yu Tian, Gustavo Carneiro.<br />
+"AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.01015)]
+[[code](https://github.com/yyliu01/AuralSAM2)]
+[2025.06]
+
 :boom:Gang Xu and Yingshui Zhang and Qingrui Yue and Xiaogang Liu.<br />
 "Automated detection and quantification of structural component dimensions using segment anything model (SAM)-based segmentation." Automation in Construction (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0926580525003449)]
