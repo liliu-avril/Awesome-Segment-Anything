@@ -250,6 +250,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Michelle Chen, David Russell, Amritha Pallavoor, Derek Young, Jane Wu.<br />
+"Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery." ICLR Workshop (2025).
+[[paper](https://arxiv.org/abs/2506.03114)]
+[[code](https://github.com/open-forest-observatory/tree-detection-framework)]
+[2025.06]
+
+:boom:**GaRA-SAM:** Sohyun Lee, Yeho Kwon, Lukas Hoyer, Suha Kwak.<br />
+"GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.02882)]
+[2025.06]
+
+:boom:**HSP-SAM:** Mengmeng Zhang, Xingyuan Dai, Yicheng Sun, Jing Wang, Yueyang Yao, Xiaoyan Gong, Fuze Cong, Feiyue Wang, Yisheng Lv.<br />
+"Hierarchical Self-Prompting SAM: A Prompt-Free Medical Image Segmentation Framework." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.02854)]
+[2025.06]
+
+:boom:**SAMJ:** Carlos Garcia-Lopez-de-Haro, Caterina Fuster-Barcelo, Curtis T. Rueden, Jonathan Heras, Vladimir Ulman, Daniel Franco-Barranco, Adrian Ines, Kevin W. Eliceiri, Jean-Christophe Olivo-Marin, Jean-Yves Tinevez, Daniel Sage, Arrate Munoz-Barrutia.<br />
+"SAMJ: Fast Image Annotation on ImageJ/Fiji via Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.02783)]
+[2025.06]
+
 :boom:**SAM2-LOVE:** Yuji Wang, Haoran Xu, Yong Liu, Jiaze Li, Yansong Tang.<br />
 "SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes." CVPR (2025).
 [[paper](https://arxiv.org/abs/2506.01558)]
