@@ -250,6 +250,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**TAO:** Yuzhi Huang, Chenxin Li, Haitao Zhang, Zixu Lin, Yunlong Lin, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang, Xinghao Ding, Yixuan Yuan.<br />
+"Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.05175)]
+[[code](https://tao-25.github.io/)]
+[2025.06]
+
 :boom:**VideoMolmo:** Ghazi Shazan Ahmad, Ahmed Heakl, Hanan Gani, Abdelrahman Shaker, Zhiqiang Shen, Ranjay Krishna, Fahad Shahbaz Khan, Salman Khan.<br />
 "VideoMolmo: Spatio-Temporal Grounding Meets Pointing." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.05336)]
