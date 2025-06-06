@@ -250,6 +250,35 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**VideoMolmo:** Ghazi Shazan Ahmad, Ahmed Heakl, Hanan Gani, Abdelrahman Shaker, Zhiqiang Shen, Ranjay Krishna, Fahad Shahbaz Khan, Salman Khan.<br />
+"VideoMolmo: Spatio-Temporal Grounding Meets Pointing." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.05336)]
+[[code](https://github.com/mbzuai-oryx/VideoMolmo)]
+[2025.06]
+
+:boom:**ORES:** Shengcao Cao, Zijun Wei, Jason Kuen, Kangning Liu, Lingzhi Zhang, Jiuxiang Gu, HyunJoon Jung, Liang-Yan Gui, Yu-Xiong Wang.<br />
+"Refer to Anything with Vision-Language Prompts." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.05342)]
+[[code](https://Ref2Any.github.io)]
+[2025.06]
+
+:boom:**PAM:** Weifeng Lin, Xinyu Wei, Ruichuan An, Tianhe Ren, Tingwei Chen, Renrui Zhang, Ziyu Guo, Wentao Zhang, Lei Zhang, Hongsheng Li.<br />
+"Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.05302)]
+[[code](https://Perceive-Anything.github.io)]
+[2025.06]
+
+:boom:**SAM-TTA:** Jianghao Wu, Yicheng Wu, Yutong Xie, Wenjia Bai, You Zhang, Feilong Tang, Yulong Li, Yasmeen George, Imran Razzak.<br />
+"SAM-aware Test-time Adaptation for Universal Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.05221)]
+[[code](https://github.com/JianghaoWu/SAM-TTA)]
+[2025.06]
+
+:boom:**BalSAM:** Mélisande Teng, Arthur Ouaknine, Etienne Laliberté, Yoshua Bengio, David Rolnick, Hugo Larochelle.<br />
+"Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.04970)]
+[2025.06]
+
 :boom:Michelle Chen, David Russell, Amritha Pallavoor, Derek Young, Jane Wu.<br />
 "Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery." ICLR Workshop (2025).
 [[paper](https://arxiv.org/abs/2506.03114)]
