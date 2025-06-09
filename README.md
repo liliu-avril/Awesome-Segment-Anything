@@ -250,103 +250,153 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**TAO:** Yuzhi Huang, Chenxin Li, Haitao Zhang, Zixu Lin, Yunlong Lin, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang, Xinghao Ding, Yixuan Yuan.<br />
-"Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline." ArXiv (2025).
-[[paper](https://arxiv.org/abs/2506.05175)]
+:boom:**Talk2SAM:** Luka Vetoshkin, Dmitry Yudin.<br />
+"Talk2SAM: Text-Guided Semantic Enhancement for Complex-Shaped Object Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.05396)]
+[[code](https://github.com/richlukich/Talk2SAM)]
+[2025.06]
+
+:boom:**TSAM:** Abduljalil Radman, Jorma Laaksonen.<br />
+"TSAM: Temporal SAM Augmented with Multimodal Prompts for Referring Audio-Visual Segmentation." CVPR (2025).
+[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Radman_TSAM_Temporal_SAM_Augmented_with_Multimodal_Prompts_for_Referring_Audio-Visual_CVPR_2025_paper.html)]
+[[code](https://abdurad.github.io/TSAM/)]
+[2025.06]
+
+:boom:**STT:** Tanner Schmidt, Richard Newcombe.<br />
+"Segment This Thing: Foveated Tokenization for Efficient Point-Prompted Segmentation." CVPR (2025).
+[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Schmidt_Segment_This_Thing_Foveated_Tokenization_for_Efficient_Point-Prompted_Segmentation_CVPR_2025_paper.html)]
+[2025.06]
+
+:boom:**ESC-Net:** Minhyeok Lee, Suhwan Cho, Jungho Lee, Sunghun Yang, Heeseung Choi, Ig-Jae Kim, Sangyoun Lee.<br />
+"Effective SAM Combination for Open-Vocabulary Semantic Segmentation." CVPR (2025).
+[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Effective_SAM_Combination_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.html)]
+[2025.06]
+
+
+:boom:**UNICL-SAM:** Dianmo Sheng, Dongdong Chen, Zhentao Tan, Qiankun Liu, Qi Chu, Tao Gong, Bin Liu, Jing Han, Wenbin Tu, Shengwei Xu, Nenghai Yu.<br />
+"UNICL-SAM: Uncertainty-Driven In-Context Segmentation with Part Prototype Discovery." CVPR (2025).
+[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Sheng_UNICL-SAM_Uncertainty-Driven_In-Context_Segmentation_with_Part_Prototype_Discovery_CVPR_2025_paper.html)]
+[2025.06]
+
+:boom:**PPO:** Xueyu Liu, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu, Wen Zheng.<br />
+"Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater." CVPR (2025).
+[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Plug-and-Play_PPO_An_Adaptive_Point_Prompt_Optimizer_Making_SAM_Greater_CVPR_2025_paper.html)]
+[[code](https://github.com/XueyuLiu/PPO)]
+[2025.06]
+
+:boom:**SAM2Object:** Jihuai Zhao, Junbao Zhuo, Jiansheng Chen, Huimin Ma.<br />
+"SAM2Object: Consolidating View Consistency via SAM2 for Zero-Shot 3D Instance Segmentation." CVPR (2025).
+[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_SAM2Object_Consolidating_View_Consistency_via_SAM2_for_Zero-Shot_3D_Instance_CVPR_2025_paper.html)]
+[[code](https://jihuaizhaohd.github.io/SAM2Object)]
+[2025.06]
+
+:boom:**TAO:** Yuzhi Huang, Chenxin Li, Haitao Zhang, Zixu Lin, Yunlong Lin, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang, Xinghao Ding, Yixuan Yuan.<br />
+"Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline." CVPR (2025).
+[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Track_Any_Anomalous_ObjectA_Granular_Video_Anomaly_Detection_Pipeline_CVPR_2025_paper.html)]
 [[code](https://tao-25.github.io/)]
 [2025.06]
 
-:boom:**VideoMolmo:** Ghazi Shazan Ahmad, Ahmed Heakl, Hanan Gani, Abdelrahman Shaker, Zhiqiang Shen, Ranjay Krishna, Fahad Shahbaz Khan, Salman Khan.<br />
+:boom:**EntitySAM:** Mingqiao Ye, Seoung Wug Oh, Lei Ke, Joon-Young Lee.<br />
+"EntitySAM: Segment Everything in Video." CVPR (2025).
+[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_EntitySAM_Segment_Everything_in_Video_CVPR_2025_paper.html)]
+[[code](https://github.com/ymq2017/entitysam)]
+[2025.06]
+
+:boom:**SAM-REF:** Chongkai Yu, Ting Liu, Anqi Li, Xiaochao Qu, Chengjing Wu, Luoqi Liu, Xiaolin Hu.<br />
+"SAM-REF: Introducing Image-Prompt Synergy during Interaction for Detail Enhancement in the Segment Anything Model." CVPR (2025).
+[[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yu_SAM-REF_Introducing_Image-Prompt_Synergy_during_Interaction_for_Detail_Enhancement_in_CVPR_2025_paper.html)]
+[2025.06]
+
+- **VideoMolmo:** Ghazi Shazan Ahmad, Ahmed Heakl, Hanan Gani, Abdelrahman Shaker, Zhiqiang Shen, Ranjay Krishna, Fahad Shahbaz Khan, Salman Khan.<br />
 "VideoMolmo: Spatio-Temporal Grounding Meets Pointing." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.05336)]
 [[code](https://github.com/mbzuai-oryx/VideoMolmo)]
 [2025.06]
 
-:boom:**ORES:** Shengcao Cao, Zijun Wei, Jason Kuen, Kangning Liu, Lingzhi Zhang, Jiuxiang Gu, HyunJoon Jung, Liang-Yan Gui, Yu-Xiong Wang.<br />
+- **ORES:** Shengcao Cao, Zijun Wei, Jason Kuen, Kangning Liu, Lingzhi Zhang, Jiuxiang Gu, HyunJoon Jung, Liang-Yan Gui, Yu-Xiong Wang.<br />
 "Refer to Anything with Vision-Language Prompts." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.05342)]
 [[code](https://Ref2Any.github.io)]
 [2025.06]
 
-:boom:**PAM:** Weifeng Lin, Xinyu Wei, Ruichuan An, Tianhe Ren, Tingwei Chen, Renrui Zhang, Ziyu Guo, Wentao Zhang, Lei Zhang, Hongsheng Li.<br />
+- **PAM:** Weifeng Lin, Xinyu Wei, Ruichuan An, Tianhe Ren, Tingwei Chen, Renrui Zhang, Ziyu Guo, Wentao Zhang, Lei Zhang, Hongsheng Li.<br />
 "Perceive Anything: Recognize, Explain, Caption, and Segment Anything in Images and Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.05302)]
 [[code](https://Perceive-Anything.github.io)]
 [2025.06]
 
-:boom:**SAM-TTA:** Jianghao Wu, Yicheng Wu, Yutong Xie, Wenjia Bai, You Zhang, Feilong Tang, Yulong Li, Yasmeen George, Imran Razzak.<br />
+- **SAM-TTA:** Jianghao Wu, Yicheng Wu, Yutong Xie, Wenjia Bai, You Zhang, Feilong Tang, Yulong Li, Yasmeen George, Imran Razzak.<br />
 "SAM-aware Test-time Adaptation for Universal Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.05221)]
 [[code](https://github.com/JianghaoWu/SAM-TTA)]
 [2025.06]
 
-:boom:**BalSAM:** Mélisande Teng, Arthur Ouaknine, Etienne Laliberté, Yoshua Bengio, David Rolnick, Hugo Larochelle.<br />
+- **BalSAM:** Mélisande Teng, Arthur Ouaknine, Etienne Laliberté, Yoshua Bengio, David Rolnick, Hugo Larochelle.<br />
 "Bringing SAM to new heights: Leveraging elevation data for tree crown segmentation from drone imagery." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.04970)]
 [2025.06]
 
-:boom:Michelle Chen, David Russell, Amritha Pallavoor, Derek Young, Jane Wu.<br />
+- Michelle Chen, David Russell, Amritha Pallavoor, Derek Young, Jane Wu.<br />
 "Zero-Shot Tree Detection and Segmentation from Aerial Forest Imagery." ICLR Workshop (2025).
 [[paper](https://arxiv.org/abs/2506.03114)]
 [[code](https://github.com/open-forest-observatory/tree-detection-framework)]
 [2025.06]
 
-:boom:**GaRA-SAM:** Sohyun Lee, Yeho Kwon, Lukas Hoyer, Suha Kwak.<br />
+- **GaRA-SAM:** Sohyun Lee, Yeho Kwon, Lukas Hoyer, Suha Kwak.<br />
 "GaRA-SAM: Robustifying Segment Anything Model with Gated-Rank Adaptation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.02882)]
 [2025.06]
 
-:boom:**HSP-SAM:** Mengmeng Zhang, Xingyuan Dai, Yicheng Sun, Jing Wang, Yueyang Yao, Xiaoyan Gong, Fuze Cong, Feiyue Wang, Yisheng Lv.<br />
+- **HSP-SAM:** Mengmeng Zhang, Xingyuan Dai, Yicheng Sun, Jing Wang, Yueyang Yao, Xiaoyan Gong, Fuze Cong, Feiyue Wang, Yisheng Lv.<br />
 "Hierarchical Self-Prompting SAM: A Prompt-Free Medical Image Segmentation Framework." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.02854)]
 [2025.06]
 
-:boom:**SAMJ:** Carlos Garcia-Lopez-de-Haro, Caterina Fuster-Barcelo, Curtis T. Rueden, Jonathan Heras, Vladimir Ulman, Daniel Franco-Barranco, Adrian Ines, Kevin W. Eliceiri, Jean-Christophe Olivo-Marin, Jean-Yves Tinevez, Daniel Sage, Arrate Munoz-Barrutia.<br />
+- **SAMJ:** Carlos Garcia-Lopez-de-Haro, Caterina Fuster-Barcelo, Curtis T. Rueden, Jonathan Heras, Vladimir Ulman, Daniel Franco-Barranco, Adrian Ines, Kevin W. Eliceiri, Jean-Christophe Olivo-Marin, Jean-Yves Tinevez, Daniel Sage, Arrate Munoz-Barrutia.<br />
 "SAMJ: Fast Image Annotation on ImageJ/Fiji via Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.02783)]
 [2025.06]
 
-:boom:**SAM2-LOVE:** Yuji Wang, Haoran Xu, Yong Liu, Jiaze Li, Yansong Tang.<br />
+- **SAM2-LOVE:** Yuji Wang, Haoran Xu, Yong Liu, Jiaze Li, Yansong Tang.<br />
 "SAM2-LOVE: Segment Anything Model 2 in Language-aided Audio-Visual Scenes." CVPR (2025).
 [[paper](https://arxiv.org/abs/2506.01558)]
 [[code](https://github.com/VoyageWang/SAM2LOVE)]
 [2025.06]
 
-:boom:**SAM-I2V:** Haiyang Mei, Pengyu Zhang, Mike Zheng Shou.<br />
+- **SAM-I2V:** Haiyang Mei, Pengyu Zhang, Mike Zheng Shou.<br />
 "SAM-I2V: Upgrading SAM to Support Promptable Video Segmentation with Less than 0.2% Training Cost." CVPR (2025).
 [[paper](https://arxiv.org/abs/2506.01304)]
 [[code](https://github.com/showlab/SAM-I2V)]
 [2025.06]
 
-:boom:**AuralSAM2:** Yuyuan Liu, Yuanhong Chen, Chong Wang, Junlin Han, Junde Wu, Can Peng, Jingkun Chen, Yu Tian, Gustavo Carneiro.<br />
+- **AuralSAM2:** Yuyuan Liu, Yuanhong Chen, Chong Wang, Junlin Han, Junde Wu, Can Peng, Jingkun Chen, Yu Tian, Gustavo Carneiro.<br />
 "AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.01015)]
 [[code](https://github.com/yyliu01/AuralSAM2)]
 [2025.06]
 
-:boom:Gang Xu and Yingshui Zhang and Qingrui Yue and Xiaogang Liu.<br />
+- Gang Xu and Yingshui Zhang and Qingrui Yue and Xiaogang Liu.<br />
 "Automated detection and quantification of structural component dimensions using segment anything model (SAM)-based segmentation." Automation in Construction (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0926580525003449)]
 [2025.06]
 
-:boom:**EASAM:** Jianguo Zhang, Meng Lin, Hu Hou, Benhao Sun, Fengling Hu, Youcheng Yu & Menghan Li .<br />
+- **EASAM:** Jianguo Zhang, Meng Lin, Hu Hou, Benhao Sun, Fengling Hu, Youcheng Yu & Menghan Li .<br />
 "EASAM: an edge-aware SAM-based paradigm for tooth segmentation." Signal, Image and Video Processing (2025).
 [[paper](https://link.springer.com/article/10.1007/s11760-025-04208-2)]
 [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 [2025.06]
 
-:boom:Daixin Fu, Bowen Kuang, Lin Mi, Yongjie Liu, Qingyuan Wang, Junnan Lv, Lang Li.<br />
+- Daixin Fu, Bowen Kuang, Lin Mi, Yongjie Liu, Qingyuan Wang, Junnan Lv, Lang Li.<br />
 "A threshold-based prompt generation method for segment anything model to identify fission gas bubbles." ArXiv (2025).
 [[paper](https://www.emerald.com/insight/content/doi/10.1108/ijsi-03-2025-0059/full/html)]
 [2025.06]
 
-:boom:Liangyang Ouyang, Yuki Sakai, Ryosuke Furuta, Hisataka Nozawa, Hikoro Matsui, Yoichi Sato.<br />
+- Liangyang Ouyang, Yuki Sakai, Ryosuke Furuta, Hisataka Nozawa, Hikoro Matsui, Yoichi Sato.<br />
 "Leadership Assessment in Pediatric Intensive Care Unit Team Training." CVPRW (2025).
 [[paper](https://arxiv.org/abs/2505.24389)]
 [2025.05]
 
-
-:boom:**KairosAD:** Uzair Khan, Franco Fummi, Luigi Capogrosso.<br />
+- **KairosAD:** Uzair Khan, Franco Fummi, Luigi Capogrosso.<br />
 "KairosAD: A SAM-Based Model for Industrial Anomaly Detection on Embedded Devices." ICIAP (2025).
 [[paper](https://arxiv.org/abs/2505.24334)]
 [[code](https://github.com/intelligolabs/KairosAD)]
