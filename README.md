@@ -250,6 +250,37 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM-SVN:** Jintao Tong, Ran Ma, Yixiong Zou, Guangyao Chen, Yuhua Li, Ruixuan Li.<br />
+"Adapter Naturally Serves as Decoupler for Cross-Domain Few-Shot Semantic Segmentation." ICML (2025).
+[[paper](https://arxiv.org/abs/2506.07376)]
+[2025.06]
+
+:boom:Mingqi Gao, Haoran Duan, Tianlu Zhang, Jungong Han.<br />
+"THU-Warwick Submission for EPIC-KITCHEN Challenge 2025: Semi-Supervised Video Object Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.06748)]
+[2025.06]
+
+:boom:**RDVP-MSD:** Chao Yin, Hao Li, Kequan Yang, Jide Li, Pinpin Zhu, Xiaoqiang Li.<br />
+"Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.06818)]
+[[code](https://github.com/ycyinchao/RDVP-MSD)]
+[2025.06]
+
+:boom:Beining Xu, Junxian Li.<br />
+"Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.07779)]
+[2025.06]
+
+:boom:**OpenSplat3D:** Jens Piekenbrinck, Christian Schmidt, Alexander Hermans, Narunas Vaskevicius, Timm Linder, Bastian Leibe.<br />
+"OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.07697)]
+[2025.06]
+
+:boom: Yannis Spyridis, Vasileios Argyriou.<br />
+"Textile Analysis for Recycling Automation using Transfer Learning and Zero-Shot Foundation Models." IEEE DCOSS IoTi5(2025).
+[[paper](https://arxiv.org/abs/2506.06569)]
+[2025.06]
+
 :boom:**Talk2SAM:** Luka Vetoshkin, Dmitry Yudin.<br />
 "Talk2SAM: Text-Guided Semantic Enhancement for Complex-Shaped Object Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.05396)]
