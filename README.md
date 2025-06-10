@@ -276,6 +276,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2506.07697)]
 [2025.06]
 
+:boom:**SAM2Auto:** Arash Rocky, Q.M. Jonathan Wu.<br />
+"SAM2Auto: Auto Annotation Using FLASH." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.07850)]
+[2025.06]
+
 :boom: Yannis Spyridis, Vasileios Argyriou.<br />
 "Textile Analysis for Recycling Automation using Transfer Learning and Zero-Shot Foundation Models." IEEE DCOSS IoTi5(2025).
 [[paper](https://arxiv.org/abs/2506.06569)]
