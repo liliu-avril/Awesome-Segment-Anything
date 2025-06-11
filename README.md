@@ -250,6 +250,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SSS:** Hongjie Zhu, Xiwei Liu, Rundong Xue, Zeyu Zhang, Yong Xu, Daji Ergu, Ying Cai, Yang Zhao.<br />
+"SSS: Semi-Supervised SAM-2 with Efficient Prompting for Medical Imaging Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.08949)]
+[[code](https://github.com/AIGeeksGroup/SSS)]
+[2025.06]
+
+:boom:**SEE:** Chunming He, Kai Li, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu.<br />
+"Segment Concealed Objects with Incomplete Supervision." IEEE TPAMI (2025).
+[[paper](https://arxiv.org/abs/2506.08955)]
+[2025.06]
+
+:boom:**SAMSelect:** Joost van Dalen, Yuki M. Asano, Marc Russwurm.<br />
+"SAMSelect: A Spectral Index Search for Marine Debris Visualization using Segment Anything." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.08613)]
+[2025.06]
+
 :boom:**SAM-SVN:** Jintao Tong, Ran Ma, Yixiong Zou, Guangyao Chen, Yuhua Li, Ruixuan Li.<br />
 "Adapter Naturally Serves as Decoupler for Cross-Domain Few-Shot Semantic Segmentation." ICML (2025).
 [[paper](https://arxiv.org/abs/2506.07376)]
