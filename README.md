@@ -250,6 +250,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Q-SAM2:** Nicola Farronato, Florian Scheidegger, Mattia Rigotti, Cristiano Malossi, Michele Magno, Haotong Qin.<br />
+"Q-SAM2: Accurate Quantization for Segment Anything Model 2." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.09782)]
+[2025.06]
+
+:boom:**SRPL-SFDA:** Xinya Liu, Jianghao Wu, Tao Lu, Shaoting Zhang, Guotai Wang.<br />
+"SRPL-SFDA: SAM-Guided Reliable Pseudo-Labels for Source-Free Domain Adaptation in Medical Image Segmentation." Neurocomputing (2025).
+[[paper](https://arxiv.org/abs/2506.09403)]
+[[code](https://github.com/HiLab-git/SRPL-SFDA)]
+[2025.06]
+
+:boom:**SemanticSplat:** Qijing Li, Jingxiang Sun, Liang An, Zhaoqi Su, Hongwen Zhang, Yebin Liu.<br />
+"SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.09565)]
+[[code](https://semanticsplat.github.io)]
+[2025.06]
+
 :boom:**SSS:** Hongjie Zhu, Xiwei Liu, Rundong Xue, Zeyu Zhang, Yong Xu, Daji Ergu, Ying Cai, Yang Zhao.<br />
 "SSS: Semi-Supervised SAM-2 with Efficient Prompting for Medical Imaging Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.08949)]
