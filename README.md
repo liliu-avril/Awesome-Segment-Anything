@@ -250,6 +250,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**PSLGSAM:** Shuyang Li, Shuang Wang, Zhuangzhuang Sun, Jing Xiao.<br />
+"Semantic Localization Guiding Segment Anything Model For Reference Remote Sensing Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.10503)]
+[2025.06]
+
+:boom:Andrea Moglia, Matteo Leccardi, Matteo Cavicchioli, Alice Maccarini, Marco Marcon, Luca Mainardi, Pietro Cerveri.<br />
+"Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.10825)]
+[2025.06]
+
 :boom:**Q-SAM2:** Nicola Farronato, Florian Scheidegger, Mattia Rigotti, Cristiano Malossi, Michele Magno, Haotong Qin.<br />
 "Q-SAM2: Accurate Quantization for Segment Anything Model 2." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.09782)]
