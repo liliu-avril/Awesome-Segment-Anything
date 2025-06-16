@@ -250,138 +250,149 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**PSLGSAM:** Shuyang Li, Shuang Wang, Zhuangzhuang Sun, Jing Xiao.<br />
+:boom:**TAViS:** Ziyang Luo, Nian Liu, Xuguang Yang, Salman Khan, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, Junwei Han.<br />
+"TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.11436)]
+[2025.06]
+
+:boom:**Occ:** Yunhan Ren, Ruihuang Li, Lingbo Liu, Changwen Chen.<br />
+"Prohibited Items Segmentation via Occlusion-aware Bilayer Modeling." ICME(2025).
+[[paper](https://arxiv.org/abs/2506.11661)]
+[[code](https://github.com/Ryh1218/Occ)]
+[2025.06]
+
+- **PSLGSAM:** Shuyang Li, Shuang Wang, Zhuangzhuang Sun, Jing Xiao.<br />
 "Semantic Localization Guiding Segment Anything Model For Reference Remote Sensing Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.10503)]
 [2025.06]
 
-:boom:Andrea Moglia, Matteo Leccardi, Matteo Cavicchioli, Alice Maccarini, Marco Marcon, Luca Mainardi, Pietro Cerveri.<br />
+- Andrea Moglia, Matteo Leccardi, Matteo Cavicchioli, Alice Maccarini, Marco Marcon, Luca Mainardi, Pietro Cerveri.<br />
 "Generalist Models in Medical Image Segmentation: A Survey and Performance Comparison with Task-Specific Approaches." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.10825)]
 [2025.06]
 
-:boom:**Q-SAM2:** Nicola Farronato, Florian Scheidegger, Mattia Rigotti, Cristiano Malossi, Michele Magno, Haotong Qin.<br />
+- **Q-SAM2:** Nicola Farronato, Florian Scheidegger, Mattia Rigotti, Cristiano Malossi, Michele Magno, Haotong Qin.<br />
 "Q-SAM2: Accurate Quantization for Segment Anything Model 2." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.09782)]
 [2025.06]
 
-:boom:**SRPL-SFDA:** Xinya Liu, Jianghao Wu, Tao Lu, Shaoting Zhang, Guotai Wang.<br />
+- **SRPL-SFDA:** Xinya Liu, Jianghao Wu, Tao Lu, Shaoting Zhang, Guotai Wang.<br />
 "SRPL-SFDA: SAM-Guided Reliable Pseudo-Labels for Source-Free Domain Adaptation in Medical Image Segmentation." Neurocomputing (2025).
 [[paper](https://arxiv.org/abs/2506.09403)]
 [[code](https://github.com/HiLab-git/SRPL-SFDA)]
 [2025.06]
 
-:boom:**SemanticSplat:** Qijing Li, Jingxiang Sun, Liang An, Zhaoqi Su, Hongwen Zhang, Yebin Liu.<br />
+- **SemanticSplat:** Qijing Li, Jingxiang Sun, Liang An, Zhaoqi Su, Hongwen Zhang, Yebin Liu.<br />
 "SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.09565)]
 [[code](https://semanticsplat.github.io)]
 [2025.06]
 
-:boom:**SSS:** Hongjie Zhu, Xiwei Liu, Rundong Xue, Zeyu Zhang, Yong Xu, Daji Ergu, Ying Cai, Yang Zhao.<br />
+- **SSS:** Hongjie Zhu, Xiwei Liu, Rundong Xue, Zeyu Zhang, Yong Xu, Daji Ergu, Ying Cai, Yang Zhao.<br />
 "SSS: Semi-Supervised SAM-2 with Efficient Prompting for Medical Imaging Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.08949)]
 [[code](https://github.com/AIGeeksGroup/SSS)]
 [2025.06]
 
-:boom:**SEE:** Chunming He, Kai Li, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu.<br />
+- **SEE:** Chunming He, Kai Li, Yachao Zhang, Ziyun Yang, Youwei Pang, Longxiang Tang, Chengyu Fang, Yulun Zhang, Linghe Kong, Xiu Li, Sina Farsiu.<br />
 "Segment Concealed Objects with Incomplete Supervision." IEEE TPAMI (2025).
 [[paper](https://arxiv.org/abs/2506.08955)]
 [2025.06]
 
-:boom:**SAMSelect:** Joost van Dalen, Yuki M. Asano, Marc Russwurm.<br />
+- **SAMSelect:** Joost van Dalen, Yuki M. Asano, Marc Russwurm.<br />
 "SAMSelect: A Spectral Index Search for Marine Debris Visualization using Segment Anything." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.08613)]
 [2025.06]
 
-:boom:**SAM-SVN:** Jintao Tong, Ran Ma, Yixiong Zou, Guangyao Chen, Yuhua Li, Ruixuan Li.<br />
+- **SAM-SVN:** Jintao Tong, Ran Ma, Yixiong Zou, Guangyao Chen, Yuhua Li, Ruixuan Li.<br />
 "Adapter Naturally Serves as Decoupler for Cross-Domain Few-Shot Semantic Segmentation." ICML (2025).
 [[paper](https://arxiv.org/abs/2506.07376)]
 [2025.06]
 
-:boom:Mingqi Gao, Haoran Duan, Tianlu Zhang, Jungong Han.<br />
+- Mingqi Gao, Haoran Duan, Tianlu Zhang, Jungong Han.<br />
 "THU-Warwick Submission for EPIC-KITCHEN Challenge 2025: Semi-Supervised Video Object Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.06748)]
 [2025.06]
 
-:boom:**RDVP-MSD:** Chao Yin, Hao Li, Kequan Yang, Jide Li, Pinpin Zhu, Xiaoqiang Li.<br />
+- **RDVP-MSD:** Chao Yin, Hao Li, Kequan Yang, Jide Li, Pinpin Zhu, Xiaoqiang Li.<br />
 "Stepwise Decomposition and Dual-stream Focus: A Novel Approach for Training-free Camouflaged Object Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.06818)]
 [[code](https://github.com/ycyinchao/RDVP-MSD)]
 [2025.06]
 
-:boom:Beining Xu, Junxian Li.<br />
+- Beining Xu, Junxian Li.<br />
 "Design and Evaluation of Deep Learning-Based Dual-Spectrum Image Fusion Methods." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.07779)]
 [2025.06]
 
-:boom:**OpenSplat3D:** Jens Piekenbrinck, Christian Schmidt, Alexander Hermans, Narunas Vaskevicius, Timm Linder, Bastian Leibe.<br />
+- **OpenSplat3D:** Jens Piekenbrinck, Christian Schmidt, Alexander Hermans, Narunas Vaskevicius, Timm Linder, Bastian Leibe.<br />
 "OpenSplat3D: Open-Vocabulary 3D Instance Segmentation using Gaussian Splatting." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.07697)]
 [2025.06]
 
-:boom:**SAM2Auto:** Arash Rocky, Q.M. Jonathan Wu.<br />
+- **SAM2Auto:** Arash Rocky, Q.M. Jonathan Wu.<br />
 "SAM2Auto: Auto Annotation Using FLASH." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.07850)]
 [2025.06]
 
-:boom: Yannis Spyridis, Vasileios Argyriou.<br />
+- Yannis Spyridis, Vasileios Argyriou.<br />
 "Textile Analysis for Recycling Automation using Transfer Learning and Zero-Shot Foundation Models." IEEE DCOSS IoTi5(2025).
 [[paper](https://arxiv.org/abs/2506.06569)]
 [2025.06]
 
-:boom:**Talk2SAM:** Luka Vetoshkin, Dmitry Yudin.<br />
+- **Talk2SAM:** Luka Vetoshkin, Dmitry Yudin.<br />
 "Talk2SAM: Text-Guided Semantic Enhancement for Complex-Shaped Object Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.05396)]
 [[code](https://github.com/richlukich/Talk2SAM)]
 [2025.06]
 
-:boom:**TSAM:** Abduljalil Radman, Jorma Laaksonen.<br />
+- **TSAM:** Abduljalil Radman, Jorma Laaksonen.<br />
 "TSAM: Temporal SAM Augmented with Multimodal Prompts for Referring Audio-Visual Segmentation." CVPR (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Radman_TSAM_Temporal_SAM_Augmented_with_Multimodal_Prompts_for_Referring_Audio-Visual_CVPR_2025_paper.html)]
 [[code](https://abdurad.github.io/TSAM/)]
 [2025.06]
 
-:boom:**STT:** Tanner Schmidt, Richard Newcombe.<br />
+- **STT:** Tanner Schmidt, Richard Newcombe.<br />
 "Segment This Thing: Foveated Tokenization for Efficient Point-Prompted Segmentation." CVPR (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Schmidt_Segment_This_Thing_Foveated_Tokenization_for_Efficient_Point-Prompted_Segmentation_CVPR_2025_paper.html)]
 [2025.06]
 
-:boom:**ESC-Net:** Minhyeok Lee, Suhwan Cho, Jungho Lee, Sunghun Yang, Heeseung Choi, Ig-Jae Kim, Sangyoun Lee.<br />
+- **ESC-Net:** Minhyeok Lee, Suhwan Cho, Jungho Lee, Sunghun Yang, Heeseung Choi, Ig-Jae Kim, Sangyoun Lee.<br />
 "Effective SAM Combination for Open-Vocabulary Semantic Segmentation." CVPR (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_Effective_SAM_Combination_for_Open-Vocabulary_Semantic_Segmentation_CVPR_2025_paper.html)]
 [2025.06]
 
 
-:boom:**UNICL-SAM:** Dianmo Sheng, Dongdong Chen, Zhentao Tan, Qiankun Liu, Qi Chu, Tao Gong, Bin Liu, Jing Han, Wenbin Tu, Shengwei Xu, Nenghai Yu.<br />
+- **UNICL-SAM:** Dianmo Sheng, Dongdong Chen, Zhentao Tan, Qiankun Liu, Qi Chu, Tao Gong, Bin Liu, Jing Han, Wenbin Tu, Shengwei Xu, Nenghai Yu.<br />
 "UNICL-SAM: Uncertainty-Driven In-Context Segmentation with Part Prototype Discovery." CVPR (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Sheng_UNICL-SAM_Uncertainty-Driven_In-Context_Segmentation_with_Part_Prototype_Discovery_CVPR_2025_paper.html)]
 [2025.06]
 
-:boom:**PPO:** Xueyu Liu, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu, Wen Zheng.<br />
+- **PPO:** Xueyu Liu, Rui Wang, Yexin Lai, Guangze Shi, Feixue Shao, Fang Hao, Jianan Zhang, Jia Shen, Yongfei Wu, Wen Zheng.<br />
 "Plug-and-Play PPO: An Adaptive Point Prompt Optimizer Making SAM Greater." CVPR (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Liu_Plug-and-Play_PPO_An_Adaptive_Point_Prompt_Optimizer_Making_SAM_Greater_CVPR_2025_paper.html)]
 [[code](https://github.com/XueyuLiu/PPO)]
 [2025.06]
 
-:boom:**SAM2Object:** Jihuai Zhao, Junbao Zhuo, Jiansheng Chen, Huimin Ma.<br />
+- **SAM2Object:** Jihuai Zhao, Junbao Zhuo, Jiansheng Chen, Huimin Ma.<br />
 "SAM2Object: Consolidating View Consistency via SAM2 for Zero-Shot 3D Instance Segmentation." CVPR (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Zhao_SAM2Object_Consolidating_View_Consistency_via_SAM2_for_Zero-Shot_3D_Instance_CVPR_2025_paper.html)]
 [[code](https://jihuaizhaohd.github.io/SAM2Object)]
 [2025.06]
 
-:boom:**TAO:** Yuzhi Huang, Chenxin Li, Haitao Zhang, Zixu Lin, Yunlong Lin, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang, Xinghao Ding, Yixuan Yuan.<br />
+- **TAO:** Yuzhi Huang, Chenxin Li, Haitao Zhang, Zixu Lin, Yunlong Lin, Hengyu Liu, Wuyang Li, Xinyu Liu, Jiechao Gao, Yue Huang, Xinghao Ding, Yixuan Yuan.<br />
 "Track Any Anomalous Object: A Granular Video Anomaly Detection Pipeline." CVPR (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Huang_Track_Any_Anomalous_ObjectA_Granular_Video_Anomaly_Detection_Pipeline_CVPR_2025_paper.html)]
 [[code](https://tao-25.github.io/)]
 [2025.06]
 
-:boom:**EntitySAM:** Mingqiao Ye, Seoung Wug Oh, Lei Ke, Joon-Young Lee.<br />
+- **EntitySAM:** Mingqiao Ye, Seoung Wug Oh, Lei Ke, Joon-Young Lee.<br />
 "EntitySAM: Segment Everything in Video." CVPR (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Ye_EntitySAM_Segment_Everything_in_Video_CVPR_2025_paper.html)]
 [[code](https://github.com/ymq2017/entitysam)]
 [2025.06]
 
-:boom:**SAM-REF:** Chongkai Yu, Ting Liu, Anqi Li, Xiaochao Qu, Chengjing Wu, Luoqi Liu, Xiaolin Hu.<br />
+- **SAM-REF:** Chongkai Yu, Ting Liu, Anqi Li, Xiaochao Qu, Chengjing Wu, Luoqi Liu, Xiaolin Hu.<br />
 "SAM-REF: Introducing Image-Prompt Synergy during Interaction for Detail Enhancement in the Segment Anything Model." CVPR (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Yu_SAM-REF_Introducing_Image-Prompt_Synergy_during_Interaction_for_Detail_Enhancement_in_CVPR_2025_paper.html)]
 [2025.06]
