@@ -250,6 +250,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**MorphSAM:** Dingwei Fan, Junyong Zhao, Chunlin Li, Xinlong Wang, Ronghan Zhang, Mingliang Wang, Qi Zhu, Haipeng Si, Daoqiang Zhang, Liang Sun.<br />
+"MorphSAM: Learning the Morphological Prompts from Atlases for Spine Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.13094)]
+[2025.06]
+
 :boom:**TAViS:** Ziyang Luo, Nian Liu, Xuguang Yang, Salman Khan, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, Junwei Han.<br />
 "TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.11436)]
