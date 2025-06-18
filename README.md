@@ -250,6 +250,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Leader360V:** Weiming Zhang, Dingwen Xiao, Aobotao Dai, Yexin Liu, Tianbo Pan, Shiqi Wen, Lei Chen, Lin Wang.<br />
+"Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.14271)]
+[2025.06]
+
 :boom:**SASAM:** Xingyi Zhang, Changqi Yu, Shihao Chen and Bin Pang.<br />
 "SASAM: A Semantic-Aware SAM Framework for Weld Seam Vision Measurement." Measurement Science and Technology(2025).
 [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ade32a/meta)]
