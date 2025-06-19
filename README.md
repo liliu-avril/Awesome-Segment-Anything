@@ -250,6 +250,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**FreqWeaver Adapter:** Junhao Wu, Aboagye-Ntow Stephen, Chuyuan Wang, Gang Chen, Xin Huang.<br />
+"Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.15565)]
+[2025.06]
+
 :boom:**Leader360V:** Weiming Zhang, Dingwen Xiao, Aobotao Dai, Yexin Liu, Tianbo Pan, Shiqi Wen, Lei Chen, Lin Wang.<br />
 "Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.14271)]
