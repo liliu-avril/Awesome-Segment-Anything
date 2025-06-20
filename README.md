@@ -250,6 +250,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**STAR:** Qiwei Liang and Rulin Zhou and Yijing Zhou and Guankun Wang and Peng Peng and Xiaopin Zhong.<br />
+"STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization." Expert Systems with Applications(2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425022699)]
+[2025.06]
+
 :boom:**FreqWeaver Adapter:** Junhao Wu, Aboagye-Ntow Stephen, Chuyuan Wang, Gang Chen, Xin Huang.<br />
 "Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.15565)]
