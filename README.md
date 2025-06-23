@@ -250,95 +250,101 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**STAR:** Qiwei Liang and Rulin Zhou and Yijing Zhou and Guankun Wang and Peng Peng and Xiaopin Zhong.<br />
+:boom:**ERAS:** Carmelo Scribano, Elena Govi, Paolo bertellini, Simone Parisi, Giorgia Franchini, Marko Bertogna.<br />
+"Segment Anything for Satellite Imagery: A Strong Baseline and a Regional Dataset for Automatic Field Delineation." ICIAP (2025).
+[[paper](https://arxiv.org/abs/2506.16318)]
+[[code](https://github.com/cscribano/ERAS-dataset)]
+[2025.06]
+
+- **STAR:** Qiwei Liang and Rulin Zhou and Yijing Zhou and Guankun Wang and Peng Peng and Xiaopin Zhong.<br />
 "STAR: Empowering Semi-Supervised Medical Image Segmentation with SAM-based Teacher-Student Architecture and Contrastive Consistency Regularization." Expert Systems with Applications(2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425022699)]
 [2025.06]
 
-:boom:**FreqWeaver Adapter:** Junhao Wu, Aboagye-Ntow Stephen, Chuyuan Wang, Gang Chen, Xin Huang.<br />
+- **FreqWeaver Adapter:** Junhao Wu, Aboagye-Ntow Stephen, Chuyuan Wang, Gang Chen, Xin Huang.<br />
 "Baltimore Atlas: FreqWeaver Adapter for Semi-supervised Ultra-high Spatial Resolution Land Cover Classification." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.15565)]
 [2025.06]
 
-:boom:**Leader360V:** Weiming Zhang, Dingwen Xiao, Aobotao Dai, Yexin Liu, Tianbo Pan, Shiqi Wen, Lei Chen, Lin Wang.<br />
+- **Leader360V:** Weiming Zhang, Dingwen Xiao, Aobotao Dai, Yexin Liu, Tianbo Pan, Shiqi Wen, Lei Chen, Lin Wang.<br />
 "Leader360V: The Large-scale, Real-world 360 Video Dataset for Multi-task Learning in Diverse Environment." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.14271)]
 [2025.06]
 
-:boom:**SASAM:** Xingyi Zhang, Changqi Yu, Shihao Chen and Bin Pang.<br />
+- **SASAM:** Xingyi Zhang, Changqi Yu, Shihao Chen and Bin Pang.<br />
 "SASAM: A Semantic-Aware SAM Framework for Weld Seam Vision Measurement." Measurement Science and Technology(2025).
 [[paper](https://iopscience.iop.org/article/10.1088/1361-6501/ade32a/meta)]
 [2025.06]
 
-:boom:**SAMSelect:** van Dalen, Joost and Asano, Yuki M. and Rußwurm, Marc.<br />
+- **SAMSelect:** van Dalen, Joost and Asano, Yuki M. and Rußwurm, Marc.<br />
 "SAMSelect: A Spectral Index Search for Marine Debris Visualization Using Segment Anything." IEEE Geoscience and Remote Sensing Letters (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11028606)]
 [2025.06]
 
-:boom:**SAAF:** Peilin Li, Jun Yin, Jing Zhong, Ran Luo, Pengyu Zeng, Miao Zhang.<br />
+- **SAAF:** Peilin Li, Jun Yin, Jing Zhong, Ran Luo, Pengyu Zeng, Miao Zhang.<br />
 "Segment Any Architectural Facades (SAAF):An automatic segmentation model for building facades, walls and windows based on multimodal semantics guidance." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.09071)]
 [2025.06]
 
-:boom:**Text3DSAM:** Yu Xin, Gorkem Can Ates, Wei Shao.<br />
+- **Text3DSAM:** Yu Xin, Gorkem Can Ates, Wei Shao.<br />
 "Text3DSAM: Text-Guided 3D Medical Image Segmentation Using SAM-Inspired Architecture." CVPRW (2025).
 [[paper](https://openreview.net/forum?id=egbzGkOWVf)]
 [[code](https://github.com/mirthAI/Text3DSAM)]
 [2025.06]
 
-:boom:**SIT-SAM:** Wentao Shi, Junjun He, Yiqing Shen.<br />
+- **SIT-SAM:** Wentao Shi, Junjun He, Yiqing Shen.<br />
 "SIT-SAM: A semantic-integration transformer that adapts the Segment Anything Model to zero-shot medical image semantic segmentation." Biomedical Signal Processing and Control (2025).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S174680942500597X)]
 [[code](https://github.com/wentao0429/SIT-SAM)]
 [2025.06]
 
-:boom:Chang, Christian, Hudson Law, Connor Poon, Sydney Yen, Kaustubh Lall, Armin Jamshidi, Vadim Malis, Dosik Hwang, and Won C. Bae.<br />
+- Chang, Christian, Hudson Law, Connor Poon, Sydney Yen, Kaustubh Lall, Armin Jamshidi, Vadim Malis, Dosik Hwang, and Won C. Bae.<br />
 "Segment Anything Model (SAM) and Medical SAM (MedSAM) for Lumbar Spine MRI." Sensors (2025).
 [[paper](https://www.mdpi.com/1424-8220/25/12/3596)]
 [2025.06]
 
-:boom:**conSAMme:** Josh Myers-Dean, Kangning Liu, Brian Price, Yifei Fan, Jason Kuen, Danna Gurari.<br />
+- **conSAMme:** Josh Myers-Dean, Kangning Liu, Brian Price, Yifei Fan, Jason Kuen, Danna Gurari.<br />
 "conSAMme: Achieving Consistent Segmentations with SAM." CVPRW (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025W/NTIRE/html/Myers-Dean_conSAMme_Achieving_Consistent_Segmentations_with_SAM_CVPRW_2025_paper.html)]
 [2025.06]
 
-:boom:**T-SAM:** Rangel Daroya, Deepak Chandran, Subhransu Maji, Andrea Fanelli.<br />
+- **T-SAM:** Rangel Daroya, Deepak Chandran, Subhransu Maji, Andrea Fanelli.<br />
 "T-SAM: Transductive Learning for Segment Anything Model." CVPRW (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/html/Daroya_T-SAM_Transductive_Learning_for_Segment_Anything_Model_CVPRW_2025_paper.html)]
 [2025.06]
 
-:boom:**U-SAM:** Rohit Kundu, Sudipta Paul, Arindam Dutta, Amit Roy-Chowdhury.<br />
+- **U-SAM:** Rohit Kundu, Sudipta Paul, Arindam Dutta, Amit Roy-Chowdhury.<br />
 "Repurposing SAM for User-Defined Semantics Aware Segmentation." CVPRW (2025).
 [[paper](https://openaccess.thecvf.com/content/CVPR2025W/MMFM/html/Kundu_Repurposing_SAM_for_User-Defined_Semantics_Aware_Segmentation_CVPRW_2025_paper.html)]
 [[code](https://rohit-kundu.github.io/U-SAM)]
 [2025.06]
 
-:boom:Almazroey, Alaa Atallah, Salma kammoun Jarraya, and Reem Alnanih.<br />
+- Almazroey, Alaa Atallah, Salma kammoun Jarraya, and Reem Alnanih.<br />
 "SAM for Road Object Segmentation: Promising but Challenging." Journal of Imaging (2025).
 [[paper](https://www.mdpi.com/2313-433X/11/6/189)]
 [2025.06]
 
-:boom:**RouGE:** Guo, Yizhen and Guo, Hang and Dai, Tao and Wang, Zhi and Chen, Bin and Xia, Shutao.<br />
+- **RouGE:** Guo, Yizhen and Guo, Hang and Dai, Tao and Wang, Zhi and Chen, Bin and Xia, Shutao.<br />
 "Learning Gated Experts for Segment Anything in the Wild." ArXiv (2025).
 [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5288257)]
 [2025.06]
 
-:boom:Niu, Xuewei and Zhang, Jianyuan and Bai, Yu and Gao, Mengman and Yang, Xin.<br />
+- Niu, Xuewei and Zhang, Jianyuan and Bai, Yu and Gao, Mengman and Yang, Xin.<br />
 "SAM-Guided Accurate Pulmonary Nodule Image Segmentation." IEEE Access (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11030594)]
 [2025.06]
 
-:boom:**MorphSAM:** Dingwei Fan, Junyong Zhao, Chunlin Li, Xinlong Wang, Ronghan Zhang, Mingliang Wang, Qi Zhu, Haipeng Si, Daoqiang Zhang, Liang Sun.<br />
+- **MorphSAM:** Dingwei Fan, Junyong Zhao, Chunlin Li, Xinlong Wang, Ronghan Zhang, Mingliang Wang, Qi Zhu, Haipeng Si, Daoqiang Zhang, Liang Sun.<br />
 "MorphSAM: Learning the Morphological Prompts from Atlases for Spine Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.13094)]
 [2025.06]
 
-:boom:**TAViS:** Ziyang Luo, Nian Liu, Xuguang Yang, Salman Khan, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, Junwei Han.<br />
+- **TAViS:** Ziyang Luo, Nian Liu, Xuguang Yang, Salman Khan, Rao Muhammad Anwer, Hisham Cholakkal, Fahad Shahbaz Khan, Junwei Han.<br />
 "TAViS: Text-bridged Audio-Visual Segmentation with Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.11436)]
 [2025.06]
 
-:boom:**Occ:** Yunhan Ren, Ruihuang Li, Lingbo Liu, Changwen Chen.<br />
+- **Occ:** Yunhan Ren, Ruihuang Li, Lingbo Liu, Changwen Chen.<br />
 "Prohibited Items Segmentation via Occlusion-aware Bilayer Modeling." ICME(2025).
 [[paper](https://arxiv.org/abs/2506.11661)]
 [[code](https://github.com/Ryh1218/Occ)]
