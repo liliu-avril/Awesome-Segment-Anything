@@ -250,6 +250,38 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**GeNIE:** Jiaming Wang, Diwen Liu, Jizhuo Chen, Jiaxuan Da, Nuowen Qian, Tram Minh Man, Harold Soh.<br />
+"GeNIE: A Generalizable Navigation System for In-the-Wild Environments." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.17960)]
+[2025.06]
+
+:boom:**Scene-R1:** Zhihao Yuan, Shuyi Jiang, Chun-Mei Feng, Yaolun Zhang, Shuguang Cui, Zhen Li, Na Zhao.<br />
+"Scene-R1: Video-Grounded Large Language Models for 3D Scene Reasoning without 3D Annotations." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.17545)]
+[2025.06]
+
+:boom:Yufan Liu, Yi Wu, Gweneth Ge, Haoliang Cheng, Rui Liu.<br />
+"Reflective VLM Planning for Dual-Arm Desktop Cleaning: Bridging Open-Vocabulary Perception and Precise Manipulation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.17328)]
+[2025.06]
+
+:boom:**SafeClick:** Yifan Gao, Jiaxi Sheng, Wenbin Wu, Haoyue Li, Yaoxian Dong, Chaoyang Ge, Feng Yuan, Xin Gao.<br />
+"SafeClick: Error-Tolerant Interactive Segmentation of Any Medical Volumes via Hierarchical Expert Consensus." MICCAI (2025).
+[[paper](https://arxiv.org/abs/2506.18404)]
+[[code](https://github.com/yifangao112/SafeClick)]
+[2025.06]
+
+:boom:**PicoSAM2:** Pietro Bonazzi, Nicola Farronato, Stefan Zihlmann, Haotong Qi, Michele Magno.<br />
+"PicoSAM2: Low-Latency Segmentation In-Sensor for Edge Vision Applications." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.18807)]
+[2025.06]
+
+:boom:**MedSeg-R:** Hao Shao, Qibin Hou.<br />
+"MedSeg-R: Medical Image Segmentation with Clinical Reasoning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.18669)]
+[[code](https://github.com/haoshao-nku/MedSeg-R.git)]
+[2025.06]
+
 :boom:**ERAS:** Carmelo Scribano, Elena Govi, Paolo bertellini, Simone Parisi, Giorgia Franchini, Marko Bertogna.<br />
 "Segment Anything for Satellite Imagery: A Strong Baseline and a Regional Dataset for Automatic Field Delineation." ICIAP (2025).
 [[paper](https://arxiv.org/abs/2506.16318)]
