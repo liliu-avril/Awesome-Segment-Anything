@@ -250,6 +250,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM2-SGP:** Yang Xing, Jiong Wu, Yuheng Bu, Kuang Gong.<br />
+"SAM2-SGP: Enhancing SAM2 for Medical Image Segmentation via Support-Set Guided Prompting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.19658)]
+[[code](https://github.com/astlian9/SAM_Support)]
+[2025.06]
+
+:boom:**COCUS:** Kai Zhao, Wubang Yuan, Zheng Wang, Guanyi Li, Xiaoqiang Zhu, Deng-ping Fan, Dan Zeng.<br />
+"Open-Vocabulary Camouflaged Object Segmentation with Cascaded Vision Language Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.19300)]
+[[code](https://github.com/intcomp/camouflaged-vlm)]
+[2025.06]
+
 :boom:**GeNIE:** Jiaming Wang, Diwen Liu, Jizhuo Chen, Jiaxuan Da, Nuowen Qian, Tram Minh Man, Harold Soh.<br />
 "GeNIE: A Generalizable Navigation System for In-the-Wild Environments." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.17960)]
