@@ -250,6 +250,52 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**CON-SAM:** Zihang Huang, Yaning Feng, Lilin Guo, Qiutao Shi, Wei Jin.<br />
+"Fully Automated Mandibular Condyle Segmentation: More Detailed Extraction With Hybrid Customized SAM." International Journal of Imaging Systems and Technology (2025).
+[[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ima.70138)]
+[2025.06]
+
+:boom:**MLFA-SAM:** Hui Yang and Zhipeng Jiang and Yaobo Zhang and Yanlan Wu and Heng Luo and Peng Zhang and Biao Wang.<br />
+"A high-resolution remote sensing land use/land cover classification method based on multi-level features adaptation of segment anything model." International Journal of Applied Earth Observation and Geoinformation(2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1569843225003061)]
+[2025.06]
+
+:boom:Siwei Xie.<br />
+"Accelerating Segment Anything Models via Token Merging: A Comparative Study and a Spectrum Preservation-Based Approach." ArXiv (2025).
+[[paper](https://elib.uni-stuttgart.de/server/api/core/bitstreams/baca7815-a21a-4085-be5d-f1250ba7011e/content)]
+[2025.06]
+
+:boom:**PanSAM3D:** Zheng, Yifeng and Liu, Yuanyuan and Zhang, Yangfan and Qian, Huiying and Cao, Yi and Hou, Jue and Mei, Ying and Wang, Shuxin and Liu, Xiaoqing and Qian, Haifeng and Zhong, Jing and Yan, Qiang.<br />
+"PanSAM3D: A SAM Foundation Model-Based Framework for Automatic 3D Pancreatic Segmentation Across Multi-Sequence MRI." ArXiv (2025).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5286619)]
+[2025.06]
+
+:boom:Wang, Shengyi; Huang, Yuxiang; and El-Gohary, Nora.<br />
+"SAM-based Segmentation of Multi-Class Bridge Components from Diverse Real-Scene Inspection Images." CIB Conferences (2025).
+[[paper](https://docs.lib.purdue.edu/cib-conferences/vol1/iss1/240/)]
+[2025.06]
+
+:boom:Bamwenda, Julius, Mehmet Siraç Özerdem, Orhan Ayyıldız, and Veysı Akpolat.<br />
+"A Hybrid Deep Learning Framework for Accurate Cell Segmentation in Whole Slide Images Using YOLOv11, StarDist, and SAM2." Bioengineering (2025).
+[[paper](https://www.mdpi.com/2306-5354/12/6/674)]
+[2025.06]
+
+:boom:**SAM-MyoNet:** Yuhan Ying and Xingyu Fang and Yiwen Zhao and XinGang Zhao and Yufeng Zhou and Gang Du and Ying Zhan and Tian Gao and Andi Li and Dandan Sun and Guoli Song.<br />
+"SAM-MyoNet: A fine-grained perception myocardial ultrasound segmentation network based on segment anything model with prior knowledge driven." Biomedical Signal Processing and Control (2025).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809425006287)]
+[[code](https://github.com/yingyuhan/SAM-MyoNet)]
+[2025.06]
+
+:boom:**adaptive-SAM:** Chenqi Fang, Kai Duan, Zhipeng Lv, Juncai Huang, Qirui Zhong, Jing Chen, Di Lon.<br />
+"Improving image-based water-level monitoring by coupling water-line detection techniques and the Segment Anything Model." Environmental Modelling and Software (2025).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1364815225002506)]
+[2025.06]
+
+:boom:**AL-SAM:** Yuze Sun, Hongwei Zhao, Jianhang Zhou.<br />
+"Segment Anything Model for detecting salient objects with accurate prompting and Ladder Directional Perception." PRL (2025).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0167865525002302)]
+[2025.06]
+
 :boom:**SAM2-SGP:** Yang Xing, Jiong Wu, Yuheng Bu, Kuang Gong.<br />
 "SAM2-SGP: Enhancing SAM2 for Medical Image Segmentation via Support-Set Guided Prompting." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.19658)]
