@@ -250,6 +250,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM4D:** Jianyun Xu, Song Wang, Ziqian Ni, Chunyong Hu, Sheng Yang, Jianke Zhu, Qiang Li.<br />
+"SAM4D: Segment Anything in Camera and LiDAR Streams." ICCV (2025).
+[[paper](https://arxiv.org/abs/2506.21547)]
+[[code](https://SAM4D-Project.github.io)]
+[2025.06]
+
+:boom:**FFCL-SAM:** Tyler Ward, Xiaoqin Wang, Braxton McFarland, Md Atik Ahamed, Sahar Nozad, Talal Arshad, Hafsa Nebbache, Jin Chen, Abdullah Imran.<br />
+"Detection of Breast Cancer Lumpectomy Margin with SAM-incorporated Forward-Forward Contrastive Learning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.21006)]
+[[code](https://github.com/tbwa233/FFCL-SAM/)]
+[2025.06]
+
+:boom:**PathSegmentor:** Zhixuan Chen, Junlin Hou, Liqi Lin, Yihui Wang, Yequan Bie, Xi Wang, Yanning Zhou, Ronald Cheong Kin Chan, Hao Chen.<br />
+"Segment Anything in Pathology Images with Natural Language." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.20988)]
+[[code](https://github.com/zhi-xuan-chen/PathSegmentor)]
+[2025.06]
+
+:boom:Connor Ludwig, Khashayar Namdar, Farzad Khalvati.<br />
+"AI-Driven MRI-based Brain Tumour Segmentation Benchmarking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.20786)]
+[2025.06]
+
 :boom:**CON-SAM:** Zihang Huang, Yaning Feng, Lilin Guo, Qiutao Shi, Wei Jin.<br />
 "Fully Automated Mandibular Condyle Segmentation: More Detailed Extraction With Hybrid Customized SAM." International Journal of Imaging Systems and Technology (2025).
 [[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ima.70138)]
