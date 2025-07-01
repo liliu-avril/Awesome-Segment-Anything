@@ -250,6 +250,43 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**GroundingDINO-US-SAM:** Hamza Rasaee, Taha Koleilat, Hassan Rivaz.<br />
+"GroundingDINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision-Language Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.23903)]
+[2025.06]
+
+:boom:**VoteSplat:** Minchao Jiang, Shunyu Jia, Jiaming Gu, Xiaoyuan Lu, Guangming Zhu, Anqi Dong, Liang Zhang.<br />
+"VoteSplat: Hough Voting Gaussian Splatting for 3D Scene Understanding." ICCV (2025).
+[[paper](https://arxiv.org/abs/2506.22799)]
+[[code](https://sy-ja.github.io/votesplat/)]
+[2025.06]
+
+:boom:Shubhabrata Mukherjee, Jack Lang, Obeen Kwon, Iryna Zenyuk, Valerie Brogden, Adam Weber, Daniela Ushizima.<br />
+"Foundation Models for Zero-Shot Segmentation of Scientific Images without AI-Ready Data." ICPPW (2025).
+[[paper](https://arxiv.org/abs/2506.24039)]
+[2025.06]
+
+:boom:**MedSAM-CA:** Peiting Tian, Xi Chen, Haixia Bi, Fan Li.<br />
+"MedSAM-CA: A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.23700)]
+[2025.06]
+
+:boom: Fangyijie Wang, Kevin Whelan, Félix Balado, Guénolé Silvestre, Kathleen M. Curran.<br />
+"Diffusion Model-based Data Augmentation Method for Fetal Head Ultrasound Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.23664)]
+[2025.06]
+
+:boom:**SurgTPGS:** Yiming Huang, Long Bai, Beilei Cui, Kun Yuan, Guankun Wang, Mobarakol Islam, Nicolas Padoy, Nassir Navab, Hongliang Ren.<br />
+"SurgTPGS: Semantic 3D Surgical Scene Understanding with Text Promptable Gaussian Splatting." MICCAI (2025).
+[[paper](https://arxiv.org/abs/2506.23309)]
+[[code](https://github.com/lastbasket/SurgTPGS)]
+[2025.06]
+
+:boom:**DC-TTA:** Jihun Kim, Hoyong Kwon, Hyeokjun Kweon, Wooseong Jeong, Kuk-Jin Yoon.<br />
+"DC-TTA: Divide-and-Conquer Framework for Test-Time Adaptation of Interactive Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.23104)]
+[2025.06]
+
 :boom:**TASeg:** Meng Yu, Te Cui, Qitong Chu, Wenjie Song, Yi Yang, Yufeng Yue.<br />
 "TASeg: Text-aware RGB-T Semantic Segmentation based on Fine-tuning Vision Foundation Models." lROS(2025).
 [[paper](https://arxiv.org/abs/2506.21975)]
