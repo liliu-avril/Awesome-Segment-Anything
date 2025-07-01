@@ -250,6 +250,30 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Seg-R1:** Zuyao You, Zuxuan Wu.<br />
+"Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.22624)]
+[[code](https://geshang777.github.io/seg-r1.github.io/)]
+[2025.06]
+
+:boom:**CRISP-SAM2:** Xinlei Yu, Chanmiao Wang, Hui Jin, Ahmed Elazab, Gangyong Jia, Xiang Wan, Changqing Zou, Ruiquan Ge.<br />
+"CRISP-SAM2: SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.23121)]
+[[code](https://github.com/YU-deep/CRISP_SAM2.git)]
+[2025.06]
+
+:boom:**MaTIR:** Li-Cheng Shen, Jih-Kang Hsieh, Wei-Hua Li, Chu-Song Chen.<br />
+"Mask-aware Text-to-Image Retrieval: Referring Expression Segmentation Meets Cross-modal Retrieval." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.22864)]
+[[code](ttps://github.com/AI-Application-andIntegration-Lab/MaTIR)]
+[2025.06]
+
+:boom:**DeSa2VA:** Dang Jisheng, Wu Xudong, Wang Bimei, Lv Ning, Chen Jiayu, Jingwen Zhao, Yichu liu, Jizhao Liu, Juncheng Li, Teng Wang.<br />
+"Decoupled Seg Tokens Make Stronger Reasoning Video Segmenter and Grounder." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2506.22880)]
+[[code](https://github.com/longmalongma/DeSa2VA)]
+[2025.06]
+
 :boom:**GroundingDINO-US-SAM:** Hamza Rasaee, Taha Koleilat, Hassan Rivaz.<br />
 "GroundingDINO-US-SAM: Text-Prompted Multi-Organ Segmentation in Ultrasound with LoRA-Tuned Vision-Language Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.23903)]
