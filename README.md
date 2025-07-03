@@ -250,6 +250,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**NOCTIS:** Max Gandyra, Alessandro Santonicola, Michael Beetz.<br />
+"NOCTIS: Novel Object Cyclic Threshold based Instance Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.01463)]
+[[code](https://github.com/code-iai/noctis)]
+[2025.07]
+
+:boom:**ADA-SAM:** Tyler Ward, Meredith K. Owen, O'Kira Coleman, Brian Noehren, Abdullah-Al-Zubaer Imran.<br />
+"Autoadaptive Medical Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.01828)]
+[[code](https://github.com/tbwa233/ADA-SAM)]
+[2025.07]
+
+:boom:**SGP:** Zihong Guo, Chen Wan, Yayin Zheng, Hailing Kuang, Xiaohai Lu.<br />
+"Boosting Adversarial Transferability Against Defenses via Multi-Scale Transformation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.01791)]
+[2025.07]
+
+:boom:**SAM-MaGuP:** Tapas K. Dutta, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha.<br />
+"Mamba Guided Boundary Prior Matters: A New Perspective for Generalized Polyp Segmentation." MICCAI (2025).
+[[paper](https://arxiv.org/abs/2507.01509)]
+[[code](https://github.com/deepak1113/SAM-MaGuP)]
+[2025.07]
+
 :boom:**Seg-R1:** Zuyao You, Zuxuan Wu.<br />
 "Seg-R1: Segmentation Can Be Surprisingly Simple with Reinforcement Learning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.22624)]
