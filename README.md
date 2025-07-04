@@ -250,6 +250,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Training-free:** Miguel Espinosa, Chenhongyi Yang, Linus Ericsson, Steven McDonagh, Elliot J. Crowley.<br />
+"No time to train! Training-Free Reference-Based Instance Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.02798)]
+[[code](https://miquel-espinosa.github.io/no-time-to-train)]
+[2025.07]
+
+:boom:**WeCoL:** Weiwei Duan, Luping Ji, Shengjia Chen, Sicheng Zhu, Jianghong Huang, Mao Ye.<br />
+"Weakly-supervised Contrastive Learning with Quantity Prompts for Moving Infrared Small Target Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.02454)]
+[[code](https://github.com/UESTC-nnLab/WeCoL)]
+[2025.07]
+
+:boom:**ViRefSAM:** Hanbo Bi, Yulong Xu, Ya Li, Yongqiang Mao, Boyuan Tong, Chongyang Li, Chunbo Lang, Wenhui Diao, Hongqi Wang, Yingchao Feng, Xian Sun.<br />
+"ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.02294)]
+[2025.07]
+
 :boom:**NOCTIS:** Max Gandyra, Alessandro Santonicola, Michael Beetz.<br />
 "NOCTIS: Novel Object Cyclic Threshold based Instance Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.01463)]
