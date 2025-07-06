@@ -260,7 +260,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733413)]
 [2025.07]
 
-:boom:** Light SAM:** Jiahong Chen, Hui Li, Shengnan Shen, Yingjie Wang, Rongzhe Ma, Haoyuan Chen, Hong Yin, Liwei Xia.<br />
+:boom:**Light SAM:** Jiahong Chen, Hui Li, Shengnan Shen, Yingjie Wang, Rongzhe Ma, Haoyuan Chen, Hong Yin, Liwei Xia.<br />
 "Universal Light SAM algorithm for in-situ melting pool monitoring of L-DED/L-PBF/PAM processes." Journal of Computational Design and Engineering(2025).
 [[paper](https://doi.org/10.1093/jcde/qwaf057)]
 [2025.07]
