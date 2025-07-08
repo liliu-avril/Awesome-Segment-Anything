@@ -250,6 +250,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAMed-2:** Zhiling Yan, Sifan Song, Dingjie Song, Yiwei Li, Rong Zhou, Weixiang Sun, Zhennong Chen, Sekeun Kim, Hui Ren, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br />
+"SAMed-2: Selective Memory Enhanced Medical Segment Anything Model." MICCAI (2025).
+[[paper](https://arxiv.org/abs/2507.03698)]
+[[code](https://github.com/ZhilingYan/Medical-SAM-Bench)]
+[2025.07]
+
+:boom:**Causal-SAM-LLM:** Tao Tang, Shijie Xu, Yiting Wu, Zhixiang Lu.<br />
+"Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.03585)]
+[2025.07]
+
 :boom:**SAM2RL:** Alen Adamyan, Tomáš Čížek, Matej Straka, Klara Janouskova, Martin Schmid.<br />
 "SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2." RLC Workshop on RL4RS (2025).
 [[paper](https://openreview.net/forum?id=nikfkVtih1)]
