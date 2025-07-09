@@ -250,6 +250,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**RSRefSeg 2:** Keyan Chen, Chenyang Liu, Bowen Chen, Jiafan Zhang, Zhengxia Zou, Zhenwei Shi.<br />
+"RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.06231)]
+[[code](https://github.com/KyanChen/RSRefSeg2)]
+[2025.07]
+
+:boom:**Accordion:** Jingye Chen, Zhaowen Wang, Nanxuan Zhao, Li Zhang, Difan Liu, Jimei Yang, Qifeng Chen.<br />
+"Rethinking Layered Graphic Design Generation with a Top-Down Approach." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.05601)]
+[2025.07]
+
+:boom:**OpenWorldSAM:** Shiting Xiao, Rishabh Kabra, Yuhang Li, Donghyun Lee, Joao Carreira, Priyadarshini Panda.<br />
+"OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.05427)]
+[2025.07]
+
 :boom:**SAMed-2:** Zhiling Yan, Sifan Song, Dingjie Song, Yiwei Li, Rong Zhou, Weixiang Sun, Zhennong Chen, Sekeun Kim, Hui Ren, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br />
 "SAMed-2: Selective Memory Enhanced Medical Segment Anything Model." MICCAI (2025).
 [[paper](https://arxiv.org/abs/2507.03698)]
