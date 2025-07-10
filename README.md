@@ -250,6 +250,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SpatialReasoner:** Zhenyang Liu, Sixiao Zheng, Siyu Chen, Cairong Zhao, Longfei Liang, Xiangyang Xue, Yanwei Fu.<br />
+"A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding." ACM MM (2025).
+[[paper](https://arxiv.org/abs/2507.06719)]
+[[code](https://zhenyangliu.github.io/SpatialReasoner/)]
+[2025.07]
+
 :boom:**RSRefSeg 2:** Keyan Chen, Chenyang Liu, Bowen Chen, Jiafan Zhang, Zhengxia Zou, Zhenwei Shi.<br />
 "RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.06231)]
