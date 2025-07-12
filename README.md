@@ -250,6 +250,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**HiM2SAM:** Ruixiang Chen, Guolei Sun, Yawei Li, Jie Qin, Luca Benini.<br />
+"HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.07603)]
+[[code](https://github.com/LouisFinner/HiM2SAM)]
+[2025.07]
+
 :boom:**Objectomaly:** Jeonghoon Song, Sunghun Kim, Jaegyun Im, Byeongjoon Noh.<br />
 "Objectomaly: Objectness-Aware Refinement for OoD Segmentation with Structural Consistency and Boundary Precision." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.07460)]
