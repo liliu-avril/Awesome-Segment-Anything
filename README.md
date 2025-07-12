@@ -250,6 +250,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Objectomaly:** Jeonghoon Song, Sunghun Kim, Jaegyun Im, Byeongjoon Noh.<br />
+"Objectomaly: Objectness-Aware Refinement for OoD Segmentation with Structural Consistency and Boundary Precision." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.07460)]
+[2025.07]
+
+:boom:**Seg-Wild:** Yongtang Bao, Chengjie Tang, Yuze Wang, Haojie Li.<br />
+"Seg-Wild: Interactive Segmentation based on 3D Gaussian Splatting for Unconstrained Image Collections." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.07395)]
+[[code](https://github.com/Sugar0725/Seg-Wild)]
+[2025.07]
+
+:boom:**LangSplatV2:** Wanhua Li, Yujie Zhao, Minghan Qin, Yang Liu, Yuanhao Cai, Chuang Gan, Hanspeter Pfister.<br />
+"LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.07136)]
+[[code](https://langsplat-v2.github.io)]
+[2025.07]
+
+:boom:**Raps-3D:** Théo Danielou, Daniel Tordjman, Pierre Manceron, Corentin Dancette.<br />
+"RAPS-3D: Efficient interactive segmentation for 3D radiological imaging." MIUA (2025).
+[[paper](https://arxiv.org/abs/2507.07730)]
+[2025.07]
+
+:boom:**SMML:** Guoyan Liang, Qin Zhou, Jingyuan Chen, Bingcang Huang, Kai Chen, Lin Gu, Zhe Wang, Sai Wu, Chang Yao.<br />
+"Semantic-guided Masked Mutual Learning for Multi-modal Brain Tumor Segmentation with Arbitrary Missing Modalities." AAAI (2025).
+[[paper](https://arxiv.org/abs/2507.07592)]
+[2025.07]
+
 :boom:**SpatialReasoner:** Zhenyang Liu, Sixiao Zheng, Siyu Chen, Cairong Zhao, Longfei Liang, Xiangyang Xue, Yanwei Fu.<br />
 "A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding." ACM MM (2025).
 [[paper](https://arxiv.org/abs/2507.06719)]
