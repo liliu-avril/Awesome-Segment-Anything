@@ -1117,7 +1117,7 @@ Yifan Ouyang, Junbo Li, Rui Li.<br />
 [2025.05]
 
 - **RemoteSAM:** Liang Yao, Fan Liu, Delong Chen, Chuanyi Zhang, Yijun Wang, Ziyun Chen, Wei Xu, Shimin Di, Yuhui Zheng.<br />
-"RemoteSAM: Towards Segment Anything for Earth Observation." ArXiv (2025).
+"RemoteSAM: Towards Segment Anything for Earth Observation." ACM MM (2025).
 [[paper](https://arxiv.org/abs/2505.18022)]
 [[code](https://github.com/1e12Leon/RemoteSAM)]
 [2025.05]
