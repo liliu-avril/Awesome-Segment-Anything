@@ -250,139 +250,149 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**HiM2SAM:** Ruixiang Chen, Guolei Sun, Yawei Li, Jie Qin, Luca Benini.<br />
+:boom:Wu, Xiaoqin, Dacheng Wang, Caihong Ma, Yi Zeng, Yongze Lv, Xianmiao Huang, and Jiandong Wang.<br />
+"Parcel Segmentation Method Combined YOLOV5s and Segment Anything Model Using Remote Sensing Image." ArXiv (2025).
+[[paper](https://www.mdpi.com/2073-445X/14/7/1429)]
+[2025.07]
+
+:boom:**PlantSAM:** Daniel J Petti, Changying Li, Alina Zare.<br />
+"PlantSAM: Towards Real-Time Plant Segmentation with Efficient Vision-Language Foundation Models." ArXiv (2025).
+[[paper](https://elibrary.asabe.org/abstract.asp?aid=55403)]
+[2025.07]
+
+- **HiM2SAM:** Ruixiang Chen, Guolei Sun, Yawei Li, Jie Qin, Luca Benini.<br />
 "HiM2SAM: Enhancing SAM2 with Hierarchical Motion Estimation and Memory Optimization towards Long-term Tracking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.07603)]
 [[code](https://github.com/LouisFinner/HiM2SAM)]
 [2025.07]
 
-:boom:**Objectomaly:** Jeonghoon Song, Sunghun Kim, Jaegyun Im, Byeongjoon Noh.<br />
+- **Objectomaly:** Jeonghoon Song, Sunghun Kim, Jaegyun Im, Byeongjoon Noh.<br />
 "Objectomaly: Objectness-Aware Refinement for OoD Segmentation with Structural Consistency and Boundary Precision." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.07460)]
 [2025.07]
 
-:boom:**Seg-Wild:** Yongtang Bao, Chengjie Tang, Yuze Wang, Haojie Li.<br />
+- **Seg-Wild:** Yongtang Bao, Chengjie Tang, Yuze Wang, Haojie Li.<br />
 "Seg-Wild: Interactive Segmentation based on 3D Gaussian Splatting for Unconstrained Image Collections." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.07395)]
 [[code](https://github.com/Sugar0725/Seg-Wild)]
 [2025.07]
 
-:boom:**LangSplatV2:** Wanhua Li, Yujie Zhao, Minghan Qin, Yang Liu, Yuanhao Cai, Chuang Gan, Hanspeter Pfister.<br />
+- **LangSplatV2:** Wanhua Li, Yujie Zhao, Minghan Qin, Yang Liu, Yuanhao Cai, Chuang Gan, Hanspeter Pfister.<br />
 "LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.07136)]
 [[code](https://langsplat-v2.github.io)]
 [2025.07]
 
-:boom:**Raps-3D:** Théo Danielou, Daniel Tordjman, Pierre Manceron, Corentin Dancette.<br />
+- **Raps-3D:** Théo Danielou, Daniel Tordjman, Pierre Manceron, Corentin Dancette.<br />
 "RAPS-3D: Efficient interactive segmentation for 3D radiological imaging." MIUA (2025).
 [[paper](https://arxiv.org/abs/2507.07730)]
 [2025.07]
 
-:boom:**SMML:** Guoyan Liang, Qin Zhou, Jingyuan Chen, Bingcang Huang, Kai Chen, Lin Gu, Zhe Wang, Sai Wu, Chang Yao.<br />
+- **SMML:** Guoyan Liang, Qin Zhou, Jingyuan Chen, Bingcang Huang, Kai Chen, Lin Gu, Zhe Wang, Sai Wu, Chang Yao.<br />
 "Semantic-guided Masked Mutual Learning for Multi-modal Brain Tumor Segmentation with Arbitrary Missing Modalities." AAAI (2025).
 [[paper](https://arxiv.org/abs/2507.07592)]
 [2025.07]
 
-:boom:**SpatialReasoner:** Zhenyang Liu, Sixiao Zheng, Siyu Chen, Cairong Zhao, Longfei Liang, Xiangyang Xue, Yanwei Fu.<br />
+- **SpatialReasoner:** Zhenyang Liu, Sixiao Zheng, Siyu Chen, Cairong Zhao, Longfei Liang, Xiangyang Xue, Yanwei Fu.<br />
 "A Neural Representation Framework with LLM-Driven Spatial Reasoning for Open-Vocabulary 3D Visual Grounding." ACM MM (2025).
 [[paper](https://arxiv.org/abs/2507.06719)]
 [[code](https://zhenyangliu.github.io/SpatialReasoner/)]
 [2025.07]
 
-:boom:**RSRefSeg 2:** Keyan Chen, Chenyang Liu, Bowen Chen, Jiafan Zhang, Zhengxia Zou, Zhenwei Shi.<br />
+- **RSRefSeg 2:** Keyan Chen, Chenyang Liu, Bowen Chen, Jiafan Zhang, Zhengxia Zou, Zhenwei Shi.<br />
 "RSRefSeg 2: Decoupling Referring Remote Sensing Image Segmentation with Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.06231)]
 [[code](https://github.com/KyanChen/RSRefSeg2)]
 [2025.07]
 
-:boom:**Accordion:** Jingye Chen, Zhaowen Wang, Nanxuan Zhao, Li Zhang, Difan Liu, Jimei Yang, Qifeng Chen.<br />
+- **Accordion:** Jingye Chen, Zhaowen Wang, Nanxuan Zhao, Li Zhang, Difan Liu, Jimei Yang, Qifeng Chen.<br />
 "Rethinking Layered Graphic Design Generation with a Top-Down Approach." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.05601)]
 [2025.07]
 
-:boom:**OpenWorldSAM:** Shiting Xiao, Rishabh Kabra, Yuhang Li, Donghyun Lee, Joao Carreira, Priyadarshini Panda.<br />
+- **OpenWorldSAM:** Shiting Xiao, Rishabh Kabra, Yuhang Li, Donghyun Lee, Joao Carreira, Priyadarshini Panda.<br />
 "OpenWorldSAM: Extending SAM2 for Universal Image Segmentation with Language Prompts." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.05427)]
 [2025.07]
 
-:boom:**SAMed-2:** Zhiling Yan, Sifan Song, Dingjie Song, Yiwei Li, Rong Zhou, Weixiang Sun, Zhennong Chen, Sekeun Kim, Hui Ren, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br />
+- **SAMed-2:** Zhiling Yan, Sifan Song, Dingjie Song, Yiwei Li, Rong Zhou, Weixiang Sun, Zhennong Chen, Sekeun Kim, Hui Ren, Tianming Liu, Quanzheng Li, Xiang Li, Lifang He, Lichao Sun.<br />
 "SAMed-2: Selective Memory Enhanced Medical Segment Anything Model." MICCAI (2025).
 [[paper](https://arxiv.org/abs/2507.03698)]
 [[code](https://github.com/ZhilingYan/Medical-SAM-Bench)]
 [2025.07]
 
-:boom:**Causal-SAM-LLM:** Tao Tang, Shijie Xu, Yiting Wu, Zhixiang Lu.<br />
+- **Causal-SAM-LLM:** Tao Tang, Shijie Xu, Yiting Wu, Zhixiang Lu.<br />
 "Causal-SAM-LLM: Large Language Models as Causal Reasoners for Robust Medical Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.03585)]
 [2025.07]
 
-:boom:**SAM2RL:** Alen Adamyan, Tomáš Čížek, Matej Straka, Klara Janouskova, Martin Schmid.<br />
+- **SAM2RL:** Alen Adamyan, Tomáš Čížek, Matej Straka, Klara Janouskova, Martin Schmid.<br />
 "SAM2RL: Towards Reinforcement Learning Memory Control in Segment Anything Model 2." RLC Workshop on RL4RS (2025).
 [[paper](https://openreview.net/forum?id=nikfkVtih1)]
 [2025.07]
 
-:boom:**PAP-SAM:** Jizhe Yu, Xiya Bu, Yu Liu, and Kaiping Xu.<br />
+- **PAP-SAM:** Jizhe Yu, Xiya Bu, Yu Liu, and Kaiping Xu.<br />
 "PAP-SAM: Global-Local Prior Adaptive Perception SAM for Co-Salient Object Detection." ICMR (2025).
 [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733413)]
 [2025.07]
 
-:boom:**Light SAM:** Jiahong Chen, Hui Li, Shengnan Shen, Yingjie Wang, Rongzhe Ma, Haoyuan Chen, Hong Yin, Liwei Xia.<br />
+- **Light SAM:** Jiahong Chen, Hui Li, Shengnan Shen, Yingjie Wang, Rongzhe Ma, Haoyuan Chen, Hong Yin, Liwei Xia.<br />
 "Universal Light SAM algorithm for in-situ melting pool monitoring of L-DED/L-PBF/PAM processes." Journal of Computational Design and Engineering(2025).
 [[paper](https://doi.org/10.1093/jcde/qwaf057)]
 [2025.07]
 
-:boom:Zhanghao Qin.<br />
+- Zhanghao Qin.<br />
 "Diffusion-Based Adversarial Generation with SAM-Guided Spatial Semantics for Text-to-Image Models." ICMR (2025).
 [[paper](https://dl.acm.org/doi/abs/10.1145/3731715.3733306)]
 [2025.07]
 
-:boom:**EFI-SAM:** Huang, Junqing and Bao, Junqi and Xia, Min and Yuan, Xiaochen.<br />
+- **EFI-SAM:** Huang, Junqing and Bao, Junqi and Xia, Min and Yuan, Xiaochen.<br />
 "SAM-Based Efficient Feature Integration Network for Remote Sensing Change Detection: A Case Study on Macao Sea Reclamation." JSTARS (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11058393)]
 [[code](https://github.com/juncyan/efi-sam.git)]
 [2025.07]
 
-:boom:**FlexiSAM:** Zhan Zhang et al.<br />
+- **FlexiSAM:** Zhan Zhang et al.<br />
 "FlexiSAM: A flexible SAM-based semantic segmentation model for land cover classification using high-resolution multimodal remote sensing imagery." ISPRS Journal of Photogrammetry and Remote Sensing (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0924271625002151)]
 [2025.07]
 
-:boom:Yuan Meng et al.<br />
+- Yuan Meng et al.<br />
 "Unsupervised SAM segmentation of zebrafish body: Application to melanin analysis." Environmental Pollution (2025).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0269749125011248)]
 [2025.07]
 
-:boom:Gandul, Luis Villanueva, Antonio Madueño-Luna, José Miguel Madueño-Luna, Miguel Calixto López-Gordillo, and Manuel Jesús González-Ortega.<br />
+- Gandul, Luis Villanueva, Antonio Madueño-Luna, José Miguel Madueño-Luna, Miguel Calixto López-Gordillo, and Manuel Jesús González-Ortega.<br />
 "Diagnosis by SAM Linked to Machine Vision Systems in Olive Pitting Machines." Applied Sciences (2025).
 [[paper](https://www.mdpi.com/2076-3417/15/13/7395)]
 [2025.07]
 
-:boom:Sui, Y., Hu, Q. & Zhang, Y.<br />
+- Sui, Y., Hu, Q. & Zhang, Y.<br />
 "Cross-domain subcortical brain structure segmentation algorithm based on low-rank adaptation fine-tuning SAM." BMC Med Imaging (2025). 
 [[paper](https://link.springer.com/article/10.1186/s12880-025-01779-x)]
 [2025.07]
 
-:boom:**SAMUSA:** Baptiste Podvin et al.<br />
+- **SAMUSA:** Baptiste Podvin et al.<br />
 "SAMUSA: Segment Anything Model 2 for UltraSound Annotation." ArXiv (2025).
 [[paper](https://www.researchgate.net/profile/Daniel-George-3/publication/393160079_SAMUSA_Segment_Anything_Model_2_for_UltraSound_Annotation/links/6862713d92697d42903be602/SAMUSA-Segment-Anything-Model-2-for-UltraSound-Annotation.pdf)]
 [2025.07]
 
-:boom:**Sway:** Gupta, J., Sharma, S. Sway.<br />
+- **Sway:** Gupta, J., Sharma, S. Sway.<br />
 "Sway: efficient pedestrian detection using SAM-based walkable area segmentation and YOLO." Int. j. inf. tecnol.(2025).
 [[paper](https://link.springer.com/article/10.1007/s41870-025-02596-9)]
 [2025.07]
 
-:boom:Luis Villanueva Gandul et al.<br />
+- Luis Villanueva Gandul et al.<br />
 "Diagnosis by SAM Linked to Machine Vision Systems in Olive Pitting Machines." Appl. Sci. (2025).
 [[paper](https://idus.us.es/server/api/core/bitstreams/4ba7ee3a-7568-4eb6-ba6f-e3afc08b83aa/content)]
 [2025.07]
 
-:boom:**FESS-SAM:** Hangbin Wu and Shaojun Zhou and Zhengwen Xu and Haili Sun and Lianbi Yao.<br />
+- **FESS-SAM:** Hangbin Wu and Shaojun Zhou and Zhengwen Xu and Haili Sun and Lianbi Yao.<br />
 "FESS-SAM: Full-element semantic segmentation of tunnel linear array images based on the segment anything model." Advanced Engineering Informatics (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1474034625005026)]
 [2025.07]
 
-:boom:**SAMOccNet:** Qifan Tan and Wenzhuo Liu and Han Bi and Lening Wang and Lei Yang and Yicheng Qiao and Zhuo Zhao and Yanhuan Jiang and Qiannan Guo and Huaping Liu and Zhiwei Li and Cheng Qiu.<br />
+- **SAMOccNet:** Qifan Tan and Wenzhuo Liu and Han Bi and Lening Wang and Lei Yang and Yicheng Qiao and Zhuo Zhao and Yanhuan Jiang and Qiannan Guo and Huaping Liu and Zhiwei Li and Cheng Qiu.<br />
 "SAMOccNet: Refined SAM-based Surrounding Semantic Occupancy Perception for Autonomous Driving." Neurocomputing (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0925231225015905)]
 [2025.07]
