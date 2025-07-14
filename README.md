@@ -250,6 +250,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Birkhoff:** Juntong Fan, Zhiwei Hao, Jianqiang Shen, Shang-Ling Jui, Yi Zhang, Jing-Xiao Liao, Feng-Lei Fan.<br />
+"Compress Any Segment Anything Model (SAM)." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.08765)]
+[[code](https://github.com/Juntongkuki/Birkhoff-Model-Compression.git)]
+[2025.07]
+
 :boom:Wu, Xiaoqin, Dacheng Wang, Caihong Ma, Yi Zeng, Yongze Lv, Xianmiao Huang, and Jiandong Wang.<br />
 "Parcel Segmentation Method Combined YOLOV5s and Segment Anything Model Using Remote Sensing Image." ArXiv (2025).
 [[paper](https://www.mdpi.com/2073-445X/14/7/1429)]
