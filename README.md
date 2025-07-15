@@ -250,6 +250,40 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**StaRFM:** Behraj Khan, Tahir Syed.<br />
+"Calibrated and Robust Foundation Models for Vision-Language and Medical Image Tasks Under Distribution Shift." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.09222)]
+[[code](https://anonymous.4open.science/r/StaRFM-C0CD/)]
+[2025.07]
+
+:boom:**DEARLi:** Ivan Martinović, Josip Šarić, Marin Oršić, Matej Kristan, Siniša Šegvić.<br />
+"DEARLi: Decoupled Enhancement of Recognition and Localization for Semi-supervised Panoptic Segmentation." ICCV Workshop (2025).
+[[paper](https://arxiv.org/abs/2507.10118)]
+[[code](https://github.com/helen1c/DEARLi)]
+[2025.07]
+
+:boom:**FOCAL:** Utkarsh Singhal, Ryan Feng, Stella X. Yu, Atul Prakash.<br />
+"Test-Time Canonicalization by Foundation Models for Robust Perception." ICML (2025).
+[[paper](https://arxiv.org/abs/2507.10375)]
+[[code](https://github.com/sutkarsh/focal)]
+[2025.07]
+
+:boom:**Inter2Former.:** You Huang, Lichao Chen, Jiayi Ji, Liujuan Cao, Shengchuan Zhang, Rongrong Ji.<br />
+"Inter2Former: Dynamic Hybrid Attention for Efficient High-Precision Interactive." ICCV (2025).
+[[paper](https://arxiv.org/abs/2507.09612)]
+[2025.07]
+
+:boom:**MA-SAM2:** Ming Yin, Fu Wang, Xujiong Ye, Yanda Meng, Zeyu Fu.<br />
+"Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.09577)]
+[[code](https://github.com/Fawke108/MA-SAM2)]
+[2025.07]
+
+:boom:Yidong Jiang.<br />
+"Prompt Engineering in Segment Anything Model: Methodologies, Applications, and Emerging Challenges." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.09562)]
+[2025.07]
+
 :boom:**Birkhoff:** Juntong Fan, Zhiwei Hao, Jianqiang Shen, Shang-Ling Jui, Yi Zhang, Jing-Xiao Liao, Feng-Lei Fan.<br />
 "Compress Any Segment Anything Model (SAM)." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.08765)]
