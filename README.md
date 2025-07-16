@@ -250,6 +250,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Wang Zhicheng, Satoshi Yagi, Satoshi Yamamori, Jun Morimoto.<br />
+"Object-Centric Mobile Manipulation through SAM2-Guided Perception and Imitation Learning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.10899)]
+[2025.07]
+
 :boom:**StaRFM:** Behraj Khan, Tahir Syed.<br />
 "Calibrated and Robust Foundation Models for Vision-Language and Medical Image Tasks Under Distribution Shift." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.09222)]
