@@ -250,6 +250,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**RegCL:**  Yuan-Chen Shu, Zhiwei Lin, Yongtao Wang.<br />
+"RegCL: Continual Adaptation of Segment Anything Model via Model Merging." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.12297)]
+[2025.07]
+
+:boom:Antonio Finocchiaro, Giovanni Maria Farinella, Antonino Furnari.<br />
+"Efficient Calisthenics Skills Classification through Foreground Instance Selection and Depth Estimation." International Conference on Image Analysis and Processing(2025).
+[[paper](https://arxiv.org/abs/2507.12292)]
+[[code](https://iplab.dmi.unict.it/fpv/)]
+[2025.07]
+
+:boom:**SAMST:** Jun Yin, Fei Wu, Yupeng Ren, Jisheng Huang, Qiankun Li, Heng jin, Jianhai Fu, Chanjie Cui.<br />
+"SAMST: A Transformer framework based on SAM pseudo label filtering for remote sensing semi-supervised semantic segmentation."  IGARSS(2025).
+[[paper](https://arxiv.org/abs/2507.11994)]
+[2025.07]
+
+:boom:Ekaterina Stansfield, Jennifer A. Mitterer, Abdulrahman Altahhan.<br />
+"Landmark Detection for Medical Images using a General-purpose Segmentation Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.11551)]
+[2025.07]
+
+:boom:**CSCPNet:** Jinglin Zhang et al.<br />
+"Controlled-SAM and Context Promoting Network for Fine-Grained Semantic Segmentation." JSTARS (2025).
+[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11045311&tag=1)]
+[2025.07]
+
 :boom:Wang Zhicheng, Satoshi Yagi, Satoshi Yamamori, Jun Morimoto.<br />
 "Object-Centric Mobile Manipulation through SAM2-Guided Perception and Imitation Learning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.10899)]
