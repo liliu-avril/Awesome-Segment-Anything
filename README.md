@@ -250,6 +250,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Hanxue Gu, Yaqian Chen, Nicholas Konz, Qihang Li, Maciej A. Mazurowski.<br />
+"Are Vision Foundation Models Ready for Out-of-the-Box Medical Image Registration?." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.11569)]
+[[code](https://github.com/mazurowski-lab/Foundation-based-reg)]
+[2025.07]
+
 :boom:**RegCL:**  Yuan-Chen Shu, Zhiwei Lin, Yongtao Wang.<br />
 "RegCL: Continual Adaptation of Segment Anything Model via Model Merging." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.12297)]
