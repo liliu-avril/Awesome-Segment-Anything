@@ -255,6 +255,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://www.mdpi.com/1424-8220/25/13/4199)]
 [2025.07]
 
+:boom:**BreastSegNet:** Qihang Li, Jichen Yang, Yaqian Chen, Yuwen Chen, Hanxue Gu, Lars J. Grimm, Maciej A. Mazurowski.<br />
+"BreastSegNet: Multi-label Segmentation of Breast MRI." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.13604)]
+[2025.07]
+
 - Hanxue Gu, Yaqian Chen, Nicholas Konz, Qihang Li, Maciej A. Mazurowski.<br />
 "Are Vision Foundation Models Ready for Out-of-the-Box Medical Image Registration?." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.11569)]
