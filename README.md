@@ -250,89 +250,94 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:Hanxue Gu, Yaqian Chen, Nicholas Konz, Qihang Li, Maciej A. Mazurowski.<br />
+:boom:**SAM2Plus:** Yin, Jun, Fei Wu, Hao Su, Peng Huang, and Yuetong Qixuan.<br />
+"Improvement of SAM2 Algorithm Based on Kalman Filtering for Long-Term Video Object Segmentation." Sensors (2025).
+[[paper](https://www.mdpi.com/1424-8220/25/13/4199)]
+[2025.07]
+
+- Hanxue Gu, Yaqian Chen, Nicholas Konz, Qihang Li, Maciej A. Mazurowski.<br />
 "Are Vision Foundation Models Ready for Out-of-the-Box Medical Image Registration?." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.11569)]
 [[code](https://github.com/mazurowski-lab/Foundation-based-reg)]
 [2025.07]
 
-:boom:**RegCL:**  Yuan-Chen Shu, Zhiwei Lin, Yongtao Wang.<br />
+- **RegCL:**  Yuan-Chen Shu, Zhiwei Lin, Yongtao Wang.<br />
 "RegCL: Continual Adaptation of Segment Anything Model via Model Merging." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.12297)]
 [2025.07]
 
-:boom:Antonio Finocchiaro, Giovanni Maria Farinella, Antonino Furnari.<br />
+- Antonio Finocchiaro, Giovanni Maria Farinella, Antonino Furnari.<br />
 "Efficient Calisthenics Skills Classification through Foreground Instance Selection and Depth Estimation." International Conference on Image Analysis and Processing(2025).
 [[paper](https://arxiv.org/abs/2507.12292)]
 [[code](https://iplab.dmi.unict.it/fpv/)]
 [2025.07]
 
-:boom:**SAMST:** Jun Yin, Fei Wu, Yupeng Ren, Jisheng Huang, Qiankun Li, Heng jin, Jianhai Fu, Chanjie Cui.<br />
+- **SAMST:** Jun Yin, Fei Wu, Yupeng Ren, Jisheng Huang, Qiankun Li, Heng jin, Jianhai Fu, Chanjie Cui.<br />
 "SAMST: A Transformer framework based on SAM pseudo label filtering for remote sensing semi-supervised semantic segmentation."  IGARSS(2025).
 [[paper](https://arxiv.org/abs/2507.11994)]
 [2025.07]
 
-:boom:Ekaterina Stansfield, Jennifer A. Mitterer, Abdulrahman Altahhan.<br />
+- Ekaterina Stansfield, Jennifer A. Mitterer, Abdulrahman Altahhan.<br />
 "Landmark Detection for Medical Images using a General-purpose Segmentation Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.11551)]
 [2025.07]
 
-:boom:**CSCPNet:** Jinglin Zhang et al.<br />
+- **CSCPNet:** Jinglin Zhang et al.<br />
 "Controlled-SAM and Context Promoting Network for Fine-Grained Semantic Segmentation." JSTARS (2025).
 [[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11045311&tag=1)]
 [2025.07]
 
-:boom:Wang Zhicheng, Satoshi Yagi, Satoshi Yamamori, Jun Morimoto.<br />
+- Wang Zhicheng, Satoshi Yagi, Satoshi Yamamori, Jun Morimoto.<br />
 "Object-Centric Mobile Manipulation through SAM2-Guided Perception and Imitation Learning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.10899)]
 [2025.07]
 
-:boom:**StaRFM:** Behraj Khan, Tahir Syed.<br />
+- **StaRFM:** Behraj Khan, Tahir Syed.<br />
 "Calibrated and Robust Foundation Models for Vision-Language and Medical Image Tasks Under Distribution Shift." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.09222)]
 [[code](https://anonymous.4open.science/r/StaRFM-C0CD/)]
 [2025.07]
 
-:boom:**DEARLi:** Ivan Martinović, Josip Šarić, Marin Oršić, Matej Kristan, Siniša Šegvić.<br />
+- **DEARLi:** Ivan Martinović, Josip Šarić, Marin Oršić, Matej Kristan, Siniša Šegvić.<br />
 "DEARLi: Decoupled Enhancement of Recognition and Localization for Semi-supervised Panoptic Segmentation." ICCV Workshop (2025).
 [[paper](https://arxiv.org/abs/2507.10118)]
 [[code](https://github.com/helen1c/DEARLi)]
 [2025.07]
 
-:boom:**FOCAL:** Utkarsh Singhal, Ryan Feng, Stella X. Yu, Atul Prakash.<br />
+- **FOCAL:** Utkarsh Singhal, Ryan Feng, Stella X. Yu, Atul Prakash.<br />
 "Test-Time Canonicalization by Foundation Models for Robust Perception." ICML (2025).
 [[paper](https://arxiv.org/abs/2507.10375)]
 [[code](https://github.com/sutkarsh/focal)]
 [2025.07]
 
-:boom:**Inter2Former.:** You Huang, Lichao Chen, Jiayi Ji, Liujuan Cao, Shengchuan Zhang, Rongrong Ji.<br />
+- **Inter2Former.:** You Huang, Lichao Chen, Jiayi Ji, Liujuan Cao, Shengchuan Zhang, Rongrong Ji.<br />
 "Inter2Former: Dynamic Hybrid Attention for Efficient High-Precision Interactive." ICCV (2025).
 [[paper](https://arxiv.org/abs/2507.09612)]
 [2025.07]
 
-:boom:**MA-SAM2:** Ming Yin, Fu Wang, Xujiong Ye, Yanda Meng, Zeyu Fu.<br />
+- **MA-SAM2:** Ming Yin, Fu Wang, Xujiong Ye, Yanda Meng, Zeyu Fu.<br />
 "Memory-Augmented SAM2 for Training-Free Surgical Video Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.09577)]
 [[code](https://github.com/Fawke108/MA-SAM2)]
 [2025.07]
 
-:boom:Yidong Jiang.<br />
+- Yidong Jiang.<br />
 "Prompt Engineering in Segment Anything Model: Methodologies, Applications, and Emerging Challenges." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.09562)]
 [2025.07]
 
-:boom:**Birkhoff:** Juntong Fan, Zhiwei Hao, Jianqiang Shen, Shang-Ling Jui, Yi Zhang, Jing-Xiao Liao, Feng-Lei Fan.<br />
+- **Birkhoff:** Juntong Fan, Zhiwei Hao, Jianqiang Shen, Shang-Ling Jui, Yi Zhang, Jing-Xiao Liao, Feng-Lei Fan.<br />
 "Compress Any Segment Anything Model (SAM)." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.08765)]
 [[code](https://github.com/Juntongkuki/Birkhoff-Model-Compression.git)]
 [2025.07]
 
-:boom:Wu, Xiaoqin, Dacheng Wang, Caihong Ma, Yi Zeng, Yongze Lv, Xianmiao Huang, and Jiandong Wang.<br />
+- Wu, Xiaoqin, Dacheng Wang, Caihong Ma, Yi Zeng, Yongze Lv, Xianmiao Huang, and Jiandong Wang.<br />
 "Parcel Segmentation Method Combined YOLOV5s and Segment Anything Model Using Remote Sensing Image." ArXiv (2025).
 [[paper](https://www.mdpi.com/2073-445X/14/7/1429)]
 [2025.07]
 
-:boom:**PlantSAM:** Daniel J Petti, Changying Li, Alina Zare.<br />
+- **PlantSAM:** Daniel J Petti, Changying Li, Alina Zare.<br />
 "PlantSAM: Towards Real-Time Plant Segmentation with Efficient Vision-Language Foundation Models." ArXiv (2025).
 [[paper](https://elibrary.asabe.org/abstract.asp?aid=55403)]
 [2025.07]
