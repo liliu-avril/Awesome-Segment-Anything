@@ -250,6 +250,37 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SeC:** Zhixiong Zhang, Shuangrui Ding, Xiaoyi Dong, Songxin He, Jianfan Lin, Junsong Tang, Yuhang Zang, Yuhang Cao, Dahua Lin, Jiaqi Wang.<br />
+"SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.15852)]
+[[project](https://rookiexiong7.github.io/projects/SeC/)]
+[[code](https://github.com/OpenIXCLab/SeC)]
+[[dataset](https://huggingface.co/datasets/OpenIXCLab/SeCVOS)]
+[2025.07]
+
+:boom:**PseudonuScenes:** Atharv Goel, Mehar Khurana.<br />
+"Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop." ArXiv (2025).
+[[paper](Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop)]
+[[code](https://github.com/atharv0goel/open-world-3D-det)]
+[2025.07]
+
+:boom:**ConformalSAM:** Danhui Chen, Ziquan Liu, Chuxi Yang, Dan Wang, Yan Yan, Yi Xu, Xiangyang Ji.<br />
+"ConformalSAM: Unlocking the Potential of Foundational Segmentation Models in Semi-Supervised Semantic Segmentation with Conformal Prediction." ICCV (2025).
+[[paper](https://arxiv.org/abs/2507.15803)]
+[2025.07]
+
+:boom:**FastSmoothSAM:** Jiasheng Xu, Yewang Chen.<br />
+"FastSmoothSAM: A Fast Smooth Method For Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.15008)]
+[[code](https://github.com/XFastDataLab/FastSmoothSAM)]
+[2025.07]
+
+:boom:**DD-SAM2:** Guoping Xu, Christopher Kabat, You Zhang.<br />
+"Depthwise-Dilated Convolutional Adapters for Medical Object Tracking and Segmentation Using the Segment Anything Model 2." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.14613)]
+[[code](https://github.com/apple1986/DD-SAM2)]
+[2025.07]
+
 :boom:**SAM2Plus:** Yin, Jun, Fei Wu, Hao Su, Peng Huang, and Yuetong Qixuan.<br />
 "Improvement of SAM2 Algorithm Based on Kalman Filtering for Long-Term Video Object Segmentation." Sensors (2025).
 [[paper](https://www.mdpi.com/1424-8220/25/13/4199)]
