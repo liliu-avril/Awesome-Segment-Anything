@@ -291,6 +291,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2507.13604)]
 [2025.07]
 
+:boom:**CSW-SAM:** Tianyi Zhang and Yi Ren and Weibin Li and Chenhao Qin and Licheng Jiao and Hua Su.<br />
+"CSW-SAM: a cross-scale algorithm for very-high-resolution water body segmentation based on segment anything model 2." ISPRS Journal of Photogrammetry and Remote Sensing(2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0924271625002709)]
+[2025.07]
+
 - Hanxue Gu, Yaqian Chen, Nicholas Konz, Qihang Li, Maciej A. Mazurowski.<br />
 "Are Vision Foundation Models Ready for Out-of-the-Box Medical Image Registration?." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.11569)]
