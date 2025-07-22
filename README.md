@@ -250,6 +250,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**HFS-SAM2:** Wu, Zihuang and Xiong, Xinyu and Gao, Guangwei and Li, Hongwei and Chen, Hua.<br />
+"HFS-SAM2: Segment Anything Model 2 with High-Frequency Feature Supplementation for Camouflaged Object Detection." SPL (2025).
+[[paper](https://ieeexplore.ieee.org/document/11081899)]
+[[code](https://github.com/WZH0120/HFS-SAM2)]
+[2025.07]
+
 :boom:**SeC:** Zhixiong Zhang, Shuangrui Ding, Xiaoyi Dong, Songxin He, Jianfan Lin, Junsong Tang, Yuhang Zang, Yuhang Cao, Dahua Lin, Jiaqi Wang.<br />
 "SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.15852)]
