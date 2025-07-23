@@ -250,6 +250,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SpelkeNet:** Rahul Venkatesh, Klemen Kotar, Lilian Naing Chen, Seungwoo Kim, Luca Thomas Wheeler, Jared Watrous, Ashley Xu, Gia Ancone, Wanhee Lee, Honglin Chen, Daniel Bear, Stefan Stojanov, Daniel Yamins.<br />
+"Discovering and using Spelke segments." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.16038)]
+[[code](https://neuroailab.github.io/spelke_net)]
+[2025.07]
+
 :boom:**CMP:** Shuai Chen, Fanman Meng, Chunjin Yang, Haoran Wei, Chenhao Wu, Qingbo Wu, Hongliang Li.<br />
 "CMP: A Composable Meta Prompt for SAM-Based Cross-Domain Few-Shot Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.16753)]
