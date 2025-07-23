@@ -250,6 +250,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**CMP:** Shuai Chen, Fanman Meng, Chunjin Yang, Haoran Wei, Chenhao Wu, Qingbo Wu, Hongliang Li.<br />
+"CMP: A Composable Meta Prompt for SAM-Based Cross-Domain Few-Shot Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.16753)]
+[2025.07]
+
+:boom:**DFR::** Shuai Chen, Fanman Meng, Xiwei Zhang, Haoran Wei, Chenhao Wu, Qingbo Wu, Hongliang Li.<br />
+"DFR: A Decompose-Fuse-Reconstruct Framework for Multi-Modal Few-Shot Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.16736)]
+[2025.07]
+
+:boom:**PlantSAM:** Youcef Sklab, Florian Castanet, Hanane Ariouat, Souhila Arib, Jean-Daniel Zucker, Eric Chenin, Edi Prifti.<br />
+"PlantSAM: An Object Detection-Driven Segmentation Pipeline for Herbarium Specimens." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.16506)]
+[2025.07]
+
+:boom:**OP-SAM:** Xinyu Mao, Xiaohan Xing, Fei Meng, Jianbang Liu, Fan Bai, Qiang Nie, Max Meng.<br />
+"One Polyp Identifies All: One-Shot Polyp Segmentation with SAM via Cascaded Priors and Iterative Prompt Evolution." ICCV (2025).
+[[paper](https://arxiv.org/abs/2507.16337)]
+[[code](https://github.com/Hectormxy/OP-SAM)]
+[2025.07]
+
 :boom:**HFS-SAM2:** Wu, Zihuang and Xiong, Xinyu and Gao, Guangwei and Li, Hongwei and Chen, Hua.<br />
 "HFS-SAM2: Segment Anything Model 2 with High-Frequency Feature Supplementation for Camouflaged Object Detection." SPL (2025).
 [[paper](https://ieeexplore.ieee.org/document/11081899)]
