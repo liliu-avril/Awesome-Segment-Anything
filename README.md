@@ -2488,7 +2488,7 @@ Observation and Geoinformation (2025).
 [2025.03]
 
 - **SAM-COD:** Jiaming Liu, Linghe Kong, Guihai Chen.<br />
-"Improving SAM for Camouflaged Object Detection via Dual Stream Adapters." ArXiv (2025).
+"Improving SAM for Camouflaged Object Detection via Dual Stream Adapters." ICCV (2025).
 [[paper](https://arxiv.org/abs/2503.06042)]
 [2025.03]
 
