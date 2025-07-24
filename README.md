@@ -250,6 +250,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**FA-SAM:** Huanli Zhuo, Leilei Ma, Haifeng Zhao, Shiwei Zhou, Dengdi Sun, Yanping Fu.<br />
+"Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation." IEEE SMC(2025).
+[[paper](https://arxiv.org/abs/2507.17281)]
+[2025.07]
+
+:boom:**ScSAM:** Bo Fang, Jianan Fan, Dongnan Liu, Hang Chang, Gerald J. Shami, Filip Braet, Weidong Cai.<br />
+"ScSAM: Debiasing Morphology and Distributional Variability in Subcellular Semantic Segmentation." ECAI(2025).
+[[paper](https://arxiv.org/abs/2507.17149)]
+[2025.07]
+
+:boom:**MARSCalib:** Seokhwan Jeong, Hogyun Kim, Younggun Cho.<br />
+"MARSCalib: Multi-robot, Automatic, Robust, Spherical Target-based Extrinsic Calibration in Field and Extraterrestrial Environments." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.17130)]
+[[code](https://github.com/sparolab/MARSCalib)]
+[2025.07]
+
 :boom:**SpelkeNet:** Rahul Venkatesh, Klemen Kotar, Lilian Naing Chen, Seungwoo Kim, Luca Thomas Wheeler, Jared Watrous, Ashley Xu, Gia Ancone, Wanhee Lee, Honglin Chen, Daniel Bear, Stefan Stojanov, Daniel Yamins.<br />
 "Discovering and using Spelke segments." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.16038)]
