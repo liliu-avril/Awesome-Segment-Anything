@@ -250,6 +250,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM2-DFBCNet:** Yuan, Cao, Libang Liu, Yaqin Li, and Jianxiang Li.<br />
+"SAM2-DFBCNet: A Camouflaged Object Detection Network Based on the Heira Architecture of SAM2." Sensors (2025).
+[[paper](https://www.mdpi.com/1424-8220/25/14/4509)]
+[2025.07]
+
 :boom:Bolutife Atoki, Jenny Benois-Pineau, Renaud Péteri, Fabien Baldacci, Aymar de Rugy.<br />
 "Object segmentation in the wild with foundation models: application to vision assisted neuro-prostheses for upper limbs." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.18517)]
@@ -262,12 +267,12 @@ If you find our work useful in your research, please consider citing:
 [2025.07]
 
 :boom:**FA-SAM:** Huanli Zhuo, Leilei Ma, Haifeng Zhao, Shiwei Zhou, Dengdi Sun, Yanping Fu.<br />
-"Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation." IEEE SMC(2025).
+"Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation." IEEE SMC (2025).
 [[paper](https://arxiv.org/abs/2507.17281)]
 [2025.07]
 
 :boom:**ScSAM:** Bo Fang, Jianan Fan, Dongnan Liu, Hang Chang, Gerald J. Shami, Filip Braet, Weidong Cai.<br />
-"ScSAM: Debiasing Morphology and Distributional Variability in Subcellular Semantic Segmentation." ECAI(2025).
+"ScSAM: Debiasing Morphology and Distributional Variability in Subcellular Semantic Segmentation." ECAI (2025).
 [[paper](https://arxiv.org/abs/2507.17149)]
 [2025.07]
 
@@ -305,7 +310,7 @@ If you find our work useful in your research, please consider citing:
 [2025.07]
 
 :boom:**HFS-SAM2:** Wu, Zihuang and Xiong, Xinyu and Gao, Guangwei and Li, Hongwei and Chen, Hua.<br />
-"HFS-SAM2: Segment Anything Model 2 with High-Frequency Feature Supplementation for Camouflaged Object Detection." SPL (2025).
+"HFS-SAM2: Segment Anything Model 2 with High-Frequency Feature Supplementation for Camouflaged Object Detection." IEEE SPL (2025).
 [[paper](https://ieeexplore.ieee.org/document/11081899)]
 [[code](https://github.com/WZH0120/HFS-SAM2)]
 [2025.07]
