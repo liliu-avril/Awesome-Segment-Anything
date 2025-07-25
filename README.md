@@ -250,6 +250,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Bolutife Atoki, Jenny Benois-Pineau, Renaud Péteri, Fabien Baldacci, Aymar de Rugy.<br />
+"Object segmentation in the wild with foundation models: application to vision assisted neuro-prostheses for upper limbs." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.18517)]
+[[code](https://universe.roboflow.com/iwrist/grasping-in-the-wild)]
+[2025.07]
+
+:boom:**TextSAM-EUS::** Pascal Spiegler, Taha Koleilat, Arash Harirpoush, Corey S. Miller, Hassan Rivaz, Marta Kersten-Oertel, Yiming Xiao.<br />
+"TextSAM-EUS: Text Prompt Learning for SAM to Accurately Segment Pancreatic Tumor in Endoscopic Ultrasound." ICCVW (2025).
+[[paper](https://arxiv.org/abs/2507.18082)]
+[2025.07]
+
 :boom:**FA-SAM:** Huanli Zhuo, Leilei Ma, Haifeng Zhao, Shiwei Zhou, Dengdi Sun, Yanping Fu.<br />
 "Fully Automated SAM for Single-source Domain Generalization in Medical Image Segmentation." IEEE SMC(2025).
 [[paper](https://arxiv.org/abs/2507.17281)]
