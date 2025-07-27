@@ -110,6 +110,12 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2503.12781)]
 [2025.03]
 
+- Kang Wang.<br />
+"A survey on SAM-based methods for medical image segmentation." IS-AII (2025).
+[[paper](https://doi.org/10.1117/12.3073583)]
+[2025.07]
+
+
 ## Paper List
 ### Seminal Papers
 - **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
