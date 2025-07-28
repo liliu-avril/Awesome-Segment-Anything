@@ -279,7 +279,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://osherr1996.github.io/SinkSAMNet)]
 [2025.07]
 
-:boom:**XXX:** Sergi, G., Bocchino, F., Ravanelli, R., & Crespi, M.<br />
+:boom:Sergi, G., Bocchino, F., Ravanelli, R., & Crespi, M.<br />
 "Monitoring water reservoirs extent with Segment Anything Model applied to Sentinel imagery." European Journal of Remote Sensing(2025).
 [[paper](https://www.tandfonline.com/doi/full/10.1080/22797254.2025.2527248)]
 [2025.07]
