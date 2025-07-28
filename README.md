@@ -256,6 +256,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**HQ-SMem:** Elham Soltani Kazemi, Imad Eddine Toubal, Gani Rahmon, Jaired Collins, K. Palaniappan.<br />
+"HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object Embedding With Selective Update and Self-Supervised Distillation Feedback." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.18921)]
+[2025.07]
+
+:boom:**SAM2-Aug:** Guoping Xu, Yan Dai, Hengrui Zhao, Ying Zhang, Jie Deng, Weiguo Lu, You Zhang.<br />
+"SAM2-Aug: Prior knowledge-based Augmentation for Target Volume Auto-Segmentation in Adaptive Radiation Therapy Using Segment Anything Model 2." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.19282)]
+[[code](https://github.com/apple1986/SAM2-Aug)]
+[2025.07]
+
 :boom:**Lacune_Detection:** Pon Deepika et al.<br />
 "Automated Detection of Lacunes in Brain MR Images Using SAM with Robust Prompts via Self-Distillation and Anatomy-Informed Priors." ArXiv (2025).
 [[paper](https://www.medrxiv.org/content/10.1101/2025.07.09.25331177v1)]
