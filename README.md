@@ -256,6 +256,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Marcel Moran, Arunav Gupta, Jiali Qian, Debra Laefer.<br />
+"Scaling Pedestrian Crossing Analysis to 100 U.S. Cities via AI-based Segmentation of Satellite Imagery." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.20497)]
+[2025.07]
+
+:boom:**SAMwave:** Saurabh Yadav, Avi Gupta, Koteswar Rao Jerripothula.<br />
+"SAMwave: Wavelet-Driven Feature Enrichment for Effective Adaptation of Segment Anything Model." BMVC(2025).
+[[paper](https://arxiv.org/abs/2507.20186)]
+[2025.07]
+
 :boom:**HQ-SMem:** Elham Soltani Kazemi, Imad Eddine Toubal, Gani Rahmon, Jaired Collins, K. Palaniappan.<br />
 "HQ-SMem: Video Segmentation and Tracking Using Memory Efficient Object Embedding With Selective Update and Self-Supervised Distillation Feedback." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.18921)]
