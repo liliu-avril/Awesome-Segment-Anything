@@ -256,6 +256,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAMITE:** Qianxiong Xu, Lanyun Zhu, Chenxi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao.<br />
+"SAMITE: Position Prompted SAM2 with Calibrated Memory for Visual Object Tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.21732)]
+[[code](https://github.com/Sam1224/SAMITE)]
+[2025.07]
+
+:boom:Maoquan Zhang, Bisser Raytchev, Xiujuan Sun.<br />
+"Semantic Segmentation of iPS Cells: Case Study on Model Complexity in Biomedical Imaging." MVA(2025).
+[[paper](https://arxiv.org/abs/2507.21608)]
+[2025.07]
+
 :boom:Marcel Moran, Arunav Gupta, Jiali Qian, Debra Laefer.<br />
 "Scaling Pedestrian Crossing Analysis to 100 U.S. Cities via AI-based Segmentation of Satellite Imagery." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.20497)]
