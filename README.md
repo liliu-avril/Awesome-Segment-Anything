@@ -115,6 +115,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://doi.org/10.1117/12.3073583)]
 [2025.07]
 
+- Guoping Xu, Jayaram K. Udupa, Yajun Yu, Hua-Chieh Shao, Songlin Zhao, Wei Liu, You Zhang.<br />
+"Segment Anything for Video: A Comprehensive Review of Video Object Segmentation and Tracking from Past to Future." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.22792)]
+[2025.07]
+
 
 ## Paper List
 ### Seminal Papers
@@ -256,6 +261,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**MergeSAM:** Meiqi Hu, Lingzhi Lu, Chengxi Han, Xiaoping Liu.<br />
+"MergeSAM: Unsupervised change detection of remote sensing images based on the Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.22675)]
+[2025.07]
+
 :boom:**SAMITE:** Qianxiong Xu, Lanyun Zhu, Chenxi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao.<br />
 "SAMITE: Position Prompted SAM2 with Calibrated Memory for Visual Object Tracking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.21732)]
