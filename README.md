@@ -261,6 +261,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAMSA:** Alfie Roddan, Tobias Czempiel, Chi Xu, Daniel S. Elson, Stamatia Giannarou.<br />
+"SAMSA: Segment Anything Model Enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.23673)]
+[2025.07]
+
+:boom:**ST-SAM:** Xihang Hu, Fuming Sun, Jiazhe Liu, Feilong Xu, Xiaoli Zhang.<br />
+"ST-SAM: SAM-Driven Self-Training Framework for Semi-Supervised Camouflaged Object Detection." ACM MM (2025).
+[[paper](https://arxiv.org/abs/2507.23307)]
+[[code](https://github.com/hu-xh/ST-SAM)]
+[2025.07]
+
+:boom:Solha Kang, Eugene Kim, Joris Vankerschaver, Utku Ozbulak.<br />
+"Towards Affordable Tumor Segmentation and Visualization for 3D Breast MRI Using SAM2." MICCAI Workshop (2025).
+[[paper](https://arxiv.org/abs/2507.23272)]
+[2025.07]
+
+:boom:Lalithkumar Seenivasan, Jiru Xu, Roger D. Soberanis Mukul, Hao Ding, Grayson Byrd, Yu-Chun Ku, Jose L. Porras, Masaru Ishii, Mathias Unberath.<br />
+"Beyond Rigid AI: Towards Natural Human-Machine Symbiosis for Interoperative Surgical Assistance." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.23088)]
+[2025.07]
+
 :boom:**MergeSAM:** Meiqi Hu, Lingzhi Lu, Chengxi Han, Xiaoping Liu.<br />
 "MergeSAM: Unsupervised change detection of remote sensing images based on the Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.22675)]
