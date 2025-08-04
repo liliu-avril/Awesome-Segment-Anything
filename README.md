@@ -120,10 +120,6 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2507.22792)]
 [2025.07]
 
-- Yang Liu, Muzhi Zhu, Hao Chen, Xinlong Wang, Bo Feng, Hao Wang, Shiyu Li, Raviteja Vemulapalli & Chunhua Shen .<br />
-"Segment Anything in Context with Vision Foundation Models." IJCV (2025).
-[[paper](https://link.springer.com/article/10.1007/s11263-025-02517-0)]
-[2025.08]
 
 
 ## Paper List
@@ -266,6 +262,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Yang Liu, Muzhi Zhu, Hao Chen, Xinlong Wang, Bo Feng, Hao Wang, Shiyu Li, Raviteja Vemulapalli & Chunhua Shen .<br />
+"Segment Anything in Context with Vision Foundation Models." IJCV (2025).
+[[paper](https://link.springer.com/article/10.1007/s11263-025-02517-0)]
+[2025.08]
+
 :boom:**SAMSA 2.0:** Alfie Roddan, Tobias Czempiel, Chi Xu, Daniel S. Elson, Stamatia Giannarou.<br />
 "SAMSA 2.0: Prompting Segment Anything with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.00493)]
