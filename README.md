@@ -120,6 +120,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2507.22792)]
 [2025.07]
 
+- Yang Liu, Muzhi Zhu, Hao Chen, Xinlong Wang, Bo Feng, Hao Wang, Shiyu Li, Raviteja Vemulapalli & Chunhua Shen .<br />
+"Segment Anything in Context with Vision Foundation Models." IJCV (2025).
+[[paper](https://link.springer.com/article/10.1007/s11263-025-02517-0)]
+[2025.08]
+
 
 ## Paper List
 ### Seminal Papers
