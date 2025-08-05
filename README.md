@@ -262,6 +262,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAMPO:** Yonghuang Wu, Wenwen Zeng, Xuan Xie, Chengqian Zhao, Guoqing Wu, Jinhua Yu.<br />
+"SAMPO: Visual Preference Optimization for Intent-Aware Segmentation with Vision Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.02464)]
+[2025.08]
+
+:boom:Kumail Abbas, Zeeshan Afzal, Aqeel Raza, Taha Mansouri, Andrew W. Dowsey, Chaidate Inchaisri, Ali Alameer.<br />
+"Vision transformer-based multi-camera multi-object tracking framework for dairy cow monitoring." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.01752)]
+[2025.08]
+
+:boom:**PromptReg:** Shiqi Huang, Tingfa Xu, Wen Yan, Dean Barratt, Yipeng Hu.<br />
+"Register Anything: Estimating "Corresponding Prompts" for Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.01697)]
+[2025.08]
+
+:boom:**Rein++:** Zhixiang Wei, Xiaoxiao Ma, Ruishen Yan, Tao Tu, Huaian Chen, Jinjin Zheng, Yi Jin, Enhong Chen.<br />
+"Rein++: Efficient Generalization and Adaptation for Semantic Segmentation with Vision Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.01667)]
+[[code](https://github.com/wloves/Rein)]
+[2025.08]
+
+:boom:**VELA:** Zhixuan Li, Yujia Liu, Chen Hui, Weisi Lin.<br />
+"Single Point, Full Mask: Velocity-Guided Level Set Evolution for End-to-End Amodal Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.01661)]
+[2025.08]
+
 :boom:Yang Liu, Muzhi Zhu, Hao Chen, Xinlong Wang, Bo Feng, Hao Wang, Shiyu Li, Raviteja Vemulapalli & Chunhua Shen .<br />
 "Segment Anything in Context with Vision Foundation Models." IJCV (2025).
 [[paper](https://link.springer.com/article/10.1007/s11263-025-02517-0)]
