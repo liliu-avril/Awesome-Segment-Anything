@@ -262,6 +262,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**MFNet:** Ma, Xianping and Zhang, Xiaokang and Pun, Man-On and Huang, Bo.<br />
+"A Unified Framework with Multimodal Fine-tuning for Remote Sensing Semantic Segmentation." TGRS (2025).
+[[paper](https://ieeexplore.ieee.org/document/11063320)]
+[[code](https://github.com/sstary/SSRS)]
+[2025.08]
+
 :boom:**SAMPO:** Yonghuang Wu, Wenwen Zeng, Xuan Xie, Chengqian Zhao, Guoqing Wu, Jinhua Yu.<br />
 "SAMPO: Visual Preference Optimization for Intent-Aware Segmentation with Vision Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.02464)]
