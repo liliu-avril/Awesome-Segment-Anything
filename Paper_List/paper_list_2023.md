@@ -1505,7 +1505,7 @@
   [2023.10] 
 
 - **SAM-Med3D:** Haoyu Wang, Sizheng Guo, Jin Ye, Zhongying Deng, Junlong Cheng, Tianbin Li, Jianpin Chen, Yanzhou Su, Ziyan Huang, Yiqing Shen, Bin Fu, Shaoting Zhang, Junjun He, Yu Qiao.<br />
-  "SAM-Med3D." ArXiv (2023).
+  "SAM-Med3D: Towards General-purpose Segmentation Models for Volumetric Medical Images." TNNLS (2025).
   [[paper](https://arxiv.org/abs/2310.15161)] 
   [[code](https://github.com/uni-medical/SAM-Med3D)]
   [2023.10] 
