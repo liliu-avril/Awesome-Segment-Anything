@@ -262,6 +262,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**ParticleSAM:** Yu Zhou, Pelle Thielmann, Ayush Chamoli, Bruno Mirbach, Didier Stricker, Jason Rambach.<br />
+"ParticleSAM: Small Particle Segmentation for Material Quality Monitoring in Recycling Processes." EUSIPCO(2025).
+[[paper](https://arxiv.org/abs/2508.03490)]
+[2025.08]
+
 :boom:**SAM2-UNeXT:** Xinyu Xiong, Zihuang Wu, Lei Zhang, Lei Lu, Ming Li, Guanbin Li.<br />
 "SAM2-UNeXT: An Improved High-Resolution Baseline for Adapting Foundation Models to Downstream Segmentation Tasks." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.03566)]
