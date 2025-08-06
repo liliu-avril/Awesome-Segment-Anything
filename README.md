@@ -262,6 +262,21 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM2-UNeXT:** Xinyu Xiong, Zihuang Wu, Lei Zhang, Lei Lu, Ming Li, Guanbin Li.<br />
+"SAM2-UNeXT: An Improved High-Resolution Baseline for Adapting Foundation Models to Downstream Segmentation Tasks." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.03566)]
+[[code](https://github.com/WZH0120/SAM2-UNeXT)]
+[2025.08]
+
+:boom:**MAUP:** Yazhou Zhu, Haofeng Zhang.<br />
+"MAUP: Training-free Multi-center Adaptive Uncertainty-aware Prompting for Cross-domain Few-shot Medical Image Segmentation." MICCAI (2025).
+[[paper](https://arxiv.org/abs/2508.03511)]
+[[code](https://github.com/YazhouZhu19/MAUP)]
+[2025.08]
+
+:boom:Freida Barnatan, Emunah Goldstein, Einav Kalimian, Orchen Madar, Avi Huri, David Zitoun, Ya'akov Mandelbaum, Moshe Amitay.<br />
+"Zero-shot Shape Classification of Nanoparticles in SEM Images using Vision Foundation Models." ArXiv (2025).
+
 :boom:**MFNet:** Ma, Xianping and Zhang, Xiaokang and Pun, Man-On and Huang, Bo.<br />
 "A Unified Framework with Multimodal Fine-tuning for Remote Sensing Semantic Segmentation." TGRS (2025).
 [[paper](https://ieeexplore.ieee.org/document/11063320)]
