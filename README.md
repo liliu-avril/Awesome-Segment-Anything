@@ -262,6 +262,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**RAP-SAM:** Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, Yibo Yang, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem, Xiangtai Li, Ming-Hsuan Yang.<br />
+"RMP-SAM: Towards Real-Time Multi-Purpose Segment Anything." ICLR (2025).
+[[paper](https://arxiv.org/abs/2401.10228)]
+[[code](https://github.com/xushilin1/RAP-SAM)]
+[2025.08]
+
 :boom:**ParticleSAM:** Yu Zhou, Pelle Thielmann, Ayush Chamoli, Bruno Mirbach, Didier Stricker, Jason Rambach.<br />
 "ParticleSAM: Small Particle Segmentation for Material Quality Monitoring in Recycling Processes." EUSIPCO(2025).
 [[paper](https://arxiv.org/abs/2508.03490)]
