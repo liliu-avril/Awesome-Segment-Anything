@@ -262,6 +262,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**X-SAM: :** Hao Wang, Limeng Qiao, Zequn Jie, Zhijian Huang, Chengjian Feng, Qingfang Zheng, Lin Ma, Xiangyuan Lan, Xiaodan Liang.<br />
+"X-SAM: From Segment Anything to Any Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.04655)]
+[[code](https://github.com/wanghao9610/X-SAM)]
+[2025.08]
+
+:boom:**Edge2Prompt:** Nathan Hollet, Oumeymah Cherkaoui, Philippe C. Cattin, Sidaty El hadramy.<br />
+"Edge2Prompt: Modality-Agnostic Model for Out-of-Distribution Liver Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.04305)]
+[2025.08]
+
+:boom:**SAV:** Xiao Wang, Ziwen Wang, Wentao Wu, Anjie Wang, Jiashu Wu, Yantao Pan, Chenglong Li.<br />
+"Segment Any Vehicle: Semantic and Visual Context Driven SAM and A Benchmark." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.04260)]
+[[code](https://github.com/Event-AHU/SAV)]
+[2025.08]
+
+:boom:**MLLMSeg:** Jingchao Wang, Zhijian Wu, Dingjiang Huang, Yefeng Zheng, Hong Wang.<br />
+"Unlocking the Potential of MLLMs in Referring Expression Segmentation via a Light-weight Mask Decode." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.04107)]
+[[code](https://github.com/jcwang0602/MLLMSeg)]
+[2025.08]
+
 :boom:**RAP-SAM:** Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, Yibo Yang, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem, Xiangtai Li, Ming-Hsuan Yang.<br />
 "RMP-SAM: Towards Real-Time Multi-Purpose Segment Anything." ICLR (2025).
 [[paper](https://arxiv.org/abs/2401.10228)]
