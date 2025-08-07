@@ -262,6 +262,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**TGS-Agent:** Jinxing Zhou, Yanghao Zhou, Mingfei Han, Tong Wang, Xiaojun Chang, Hisham Cholakkal, Rao Muhammad Anwer.<br />
+"Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.04418)]
+[[code](https://github.com/jasongief/TGS-Agent)]
+[2025.08]
+
 :boom:**X-SAM: :** Hao Wang, Limeng Qiao, Zequn Jie, Zhijian Huang, Chengjian Feng, Qingfang Zheng, Lin Ma, Xiangyuan Lan, Xiaodan Liang.<br />
 "X-SAM: From Segment Anything to Any Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.04655)]
