@@ -268,6 +268,11 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/boshizhang123/SGDFuse)]
 [2025.08]
 
+:boom:**SMOL-MapSeg:** Yunshuang Yuan, Frank Thiemann, Thorsten Dahms, Monika Sester.<br />
+"SMOL-MapSeg: Show Me One Label." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.05501)]
+[2025.08]
+
 :boom:Semanur Küçük, Cosimo Della Santina, Angeliki Laskari.<br />
 "Segmenting the Complex and Irregular in Two-Phase Flows: A Real-World Empirical Study with SAM2." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.05227)]
