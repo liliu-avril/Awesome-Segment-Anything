@@ -262,6 +262,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SGDFuse:** Xiaoyang Zhang, Zhen Hua, Yakun Ju, Wei Zhou, Jun Liu, Alex C. Kot.<br />
+"SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.05264)]
+[[code](https://github.com/boshizhang123/SGDFuse)]
+[2025.08]
+
+:boom:Semanur Küçük, Cosimo Della Santina, Angeliki Laskari.<br />
+"Segmenting the Complex and Irregular in Two-Phase Flows: A Real-World Empirical Study with SAM2." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.05227)]
+[2025.08]
+
+:boom:**DecoupleCSS:** Yifu Guo, Yuquan Lu, Wentao Zhang, Zishan Xu, Dexia Chen, Siyu Zhang, Yizhe Zhang, Ruixuan Wang.<br />
+"Decoupling Continual Semantic Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.05065)]
+[[code](https://github.com/euyis1019/Decoupling-Continual-Semantic-Segmentation)]
+[2025.08]
+
 :boom:**TGS-Agent:** Jinxing Zhou, Yanghao Zhou, Mingfei Han, Tong Wang, Xiaojun Chang, Hisham Cholakkal, Rao Muhammad Anwer.<br />
 "Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.04418)]
