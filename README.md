@@ -262,137 +262,170 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**SGDFuse:** Xiaoyang Zhang, Zhen Hua, Yakun Ju, Wei Zhou, Jun Liu, Alex C. Kot.<br />
+:boom:**Prompt-DINO:** Yuchen Guan, Chong Sun, Canmiao Fu, Zhipeng Huang, Chun Yuan, Chen Li.<br />
+"Text-guided Visual Prompt DINO for Generic Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.06146)]
+[[code](https://github.com/WeChatCV/WeVisionOne)]
+[2025.08]
+
+:boom:**VeSCA:** Yi Qin, Rui Wang, Tao Huang, Tong Xiao, Liping Jing.<br />
+"SAM Encoder Breach by Adversarial Simplicial Complex Triggers Downstream Model Failures." ICCV(2025).
+[[paper](https://arxiv.org/abs/2508.06127)]
+[[code](https://github.com/Seveone/SAM_VeSCA.)]
+[2025.08]
+
+:boom:Sri Ramana Saketh Vasanthawada, Pengkun Liu, Pingbo Tang.<br />
+"Enhancing Construction Site Analysis and Understanding with 3D Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.05922)]
+[2025.08]
+
+:boom:Ahmad Farooq, Kamran Iqbal.<br />
+"Integrating Vision Foundation Models with Reinforcement Learning for Enhanced Object Interaction." RCVE(2025).
+[[paper](https://arxiv.org/abs/2508.05838)]
+[2025.08]
+
+:boom:**TSMS-SAM2:** Guoping Xu, Hua-Chieh Shao, You Zhang.<br />
+"TSMS-SAM2: Multi-scale Temporal Sampling Augmentation and Memory-Splitting Pruning for Promptable Video Object Segmentation and Tracking in Surgical Scenarios." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.05829)]
+[[code](https://github.com/apple1986/TSMS-SAM2)]
+[2025.08]
+
+:boom:Ojonugwa Oluwafemi Ejiga Peter, Akingbola Oluwapemiisin, Amalahu Chetachi, Adeniran Opeyemi, Fahmi Khalifa, Md Mahmudur Rahman.<br />
+"Synthetic Data-Driven Multi-Architecture Framework for Automated Polyp Segmentation Through Integrated Detection and Mask Generation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.06170)]
+[2025.08]
+
+- **SGDFuse:** Xiaoyang Zhang, Zhen Hua, Yakun Ju, Wei Zhou, Jun Liu, Alex C. Kot.<br />
 "SGDFuse: SAM-Guided Diffusion for High-Fidelity Infrared and Visible Image Fusion." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.05264)]
 [[code](https://github.com/boshizhang123/SGDFuse)]
 [2025.08]
 
-:boom:**SMOL-MapSeg:** Yunshuang Yuan, Frank Thiemann, Thorsten Dahms, Monika Sester.<br />
+- **SMOL-MapSeg:** Yunshuang Yuan, Frank Thiemann, Thorsten Dahms, Monika Sester.<br />
 "SMOL-MapSeg: Show Me One Label." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.05501)]
 [2025.08]
 
-:boom:Semanur Küçük, Cosimo Della Santina, Angeliki Laskari.<br />
+- Semanur Küçük, Cosimo Della Santina, Angeliki Laskari.<br />
 "Segmenting the Complex and Irregular in Two-Phase Flows: A Real-World Empirical Study with SAM2." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.05227)]
 [2025.08]
 
-:boom:**DecoupleCSS:** Yifu Guo, Yuquan Lu, Wentao Zhang, Zishan Xu, Dexia Chen, Siyu Zhang, Yizhe Zhang, Ruixuan Wang.<br />
+- **DecoupleCSS:** Yifu Guo, Yuquan Lu, Wentao Zhang, Zishan Xu, Dexia Chen, Siyu Zhang, Yizhe Zhang, Ruixuan Wang.<br />
 "Decoupling Continual Semantic Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.05065)]
 [[code](https://github.com/euyis1019/Decoupling-Continual-Semantic-Segmentation)]
 [2025.08]
 
-:boom:**TGS-Agent:** Jinxing Zhou, Yanghao Zhou, Mingfei Han, Tong Wang, Xiaojun Chang, Hisham Cholakkal, Rao Muhammad Anwer.<br />
+- **TGS-Agent:** Jinxing Zhou, Yanghao Zhou, Mingfei Han, Tong Wang, Xiaojun Chang, Hisham Cholakkal, Rao Muhammad Anwer.<br />
 "Think Before You Segment: An Object-aware Reasoning Agent for Referring Audio-Visual Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.04418)]
 [[code](https://github.com/jasongief/TGS-Agent)]
 [2025.08]
 
-:boom:**X-SAM: :** Hao Wang, Limeng Qiao, Zequn Jie, Zhijian Huang, Chengjian Feng, Qingfang Zheng, Lin Ma, Xiangyuan Lan, Xiaodan Liang.<br />
+- **X-SAM:** Hao Wang, Limeng Qiao, Zequn Jie, Zhijian Huang, Chengjian Feng, Qingfang Zheng, Lin Ma, Xiangyuan Lan, Xiaodan Liang.<br />
 "X-SAM: From Segment Anything to Any Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.04655)]
 [[code](https://github.com/wanghao9610/X-SAM)]
 [2025.08]
 
-:boom:**Edge2Prompt:** Nathan Hollet, Oumeymah Cherkaoui, Philippe C. Cattin, Sidaty El hadramy.<br />
+- **Edge2Prompt:** Nathan Hollet, Oumeymah Cherkaoui, Philippe C. Cattin, Sidaty El hadramy.<br />
 "Edge2Prompt: Modality-Agnostic Model for Out-of-Distribution Liver Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.04305)]
 [2025.08]
 
-:boom:**SAV:** Xiao Wang, Ziwen Wang, Wentao Wu, Anjie Wang, Jiashu Wu, Yantao Pan, Chenglong Li.<br />
+- **SAV:** Xiao Wang, Ziwen Wang, Wentao Wu, Anjie Wang, Jiashu Wu, Yantao Pan, Chenglong Li.<br />
 "Segment Any Vehicle: Semantic and Visual Context Driven SAM and A Benchmark." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.04260)]
 [[code](https://github.com/Event-AHU/SAV)]
 [2025.08]
 
-:boom:**MLLMSeg:** Jingchao Wang, Zhijian Wu, Dingjiang Huang, Yefeng Zheng, Hong Wang.<br />
+- **MLLMSeg:** Jingchao Wang, Zhijian Wu, Dingjiang Huang, Yefeng Zheng, Hong Wang.<br />
 "Unlocking the Potential of MLLMs in Referring Expression Segmentation via a Light-weight Mask Decode." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.04107)]
 [[code](https://github.com/jcwang0602/MLLMSeg)]
 [2025.08]
 
-:boom:**RAP-SAM:** Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, Yibo Yang, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem, Xiangtai Li, Ming-Hsuan Yang.<br />
+- **RAP-SAM:** Shilin Xu, Haobo Yuan, Qingyu Shi, Lu Qi, Jingbo Wang, Yibo Yang, Yining Li, Kai Chen, Yunhai Tong, Bernard Ghanem, Xiangtai Li, Ming-Hsuan Yang.<br />
 "RMP-SAM: Towards Real-Time Multi-Purpose Segment Anything." ICLR (2025).
 [[paper](https://arxiv.org/abs/2401.10228)]
 [[code](https://github.com/xushilin1/RAP-SAM)]
 [2025.08]
 
-:boom:**ParticleSAM:** Yu Zhou, Pelle Thielmann, Ayush Chamoli, Bruno Mirbach, Didier Stricker, Jason Rambach.<br />
+- **ParticleSAM:** Yu Zhou, Pelle Thielmann, Ayush Chamoli, Bruno Mirbach, Didier Stricker, Jason Rambach.<br />
 "ParticleSAM: Small Particle Segmentation for Material Quality Monitoring in Recycling Processes." EUSIPCO(2025).
 [[paper](https://arxiv.org/abs/2508.03490)]
 [2025.08]
 
-:boom:**SAM2-UNeXT:** Xinyu Xiong, Zihuang Wu, Lei Zhang, Lei Lu, Ming Li, Guanbin Li.<br />
+- **SAM2-UNeXT:** Xinyu Xiong, Zihuang Wu, Lei Zhang, Lei Lu, Ming Li, Guanbin Li.<br />
 "SAM2-UNeXT: An Improved High-Resolution Baseline for Adapting Foundation Models to Downstream Segmentation Tasks." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.03566)]
 [[code](https://github.com/WZH0120/SAM2-UNeXT)]
 [2025.08]
 
-:boom:**MAUP:** Yazhou Zhu, Haofeng Zhang.<br />
+- **MAUP:** Yazhou Zhu, Haofeng Zhang.<br />
 "MAUP: Training-free Multi-center Adaptive Uncertainty-aware Prompting for Cross-domain Few-shot Medical Image Segmentation." MICCAI (2025).
 [[paper](https://arxiv.org/abs/2508.03511)]
 [[code](https://github.com/YazhouZhu19/MAUP)]
 [2025.08]
 
-:boom:Freida Barnatan, Emunah Goldstein, Einav Kalimian, Orchen Madar, Avi Huri, David Zitoun, Ya'akov Mandelbaum, Moshe Amitay.<br />
+- Freida Barnatan, Emunah Goldstein, Einav Kalimian, Orchen Madar, Avi Huri, David Zitoun, Ya'akov Mandelbaum, Moshe Amitay.<br />
 "Zero-shot Shape Classification of Nanoparticles in SEM Images using Vision Foundation Models." ArXiv (2025).
 
-:boom:**MFNet:** Ma, Xianping and Zhang, Xiaokang and Pun, Man-On and Huang, Bo.<br />
+- **MFNet:** Ma, Xianping and Zhang, Xiaokang and Pun, Man-On and Huang, Bo.<br />
 "A Unified Framework with Multimodal Fine-tuning for Remote Sensing Semantic Segmentation." TGRS (2025).
 [[paper](https://ieeexplore.ieee.org/document/11063320)]
 [[code](https://github.com/sstary/SSRS)]
 [2025.08]
 
-:boom:**SAMPO:** Yonghuang Wu, Wenwen Zeng, Xuan Xie, Chengqian Zhao, Guoqing Wu, Jinhua Yu.<br />
+- **SAMPO:** Yonghuang Wu, Wenwen Zeng, Xuan Xie, Chengqian Zhao, Guoqing Wu, Jinhua Yu.<br />
 "SAMPO: Visual Preference Optimization for Intent-Aware Segmentation with Vision Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.02464)]
 [2025.08]
 
-:boom:Kumail Abbas, Zeeshan Afzal, Aqeel Raza, Taha Mansouri, Andrew W. Dowsey, Chaidate Inchaisri, Ali Alameer.<br />
+- Kumail Abbas, Zeeshan Afzal, Aqeel Raza, Taha Mansouri, Andrew W. Dowsey, Chaidate Inchaisri, Ali Alameer.<br />
 "Vision transformer-based multi-camera multi-object tracking framework for dairy cow monitoring." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.01752)]
 [2025.08]
 
-:boom:**PromptReg:** Shiqi Huang, Tingfa Xu, Wen Yan, Dean Barratt, Yipeng Hu.<br />
+- **PromptReg:** Shiqi Huang, Tingfa Xu, Wen Yan, Dean Barratt, Yipeng Hu.<br />
 "Register Anything: Estimating "Corresponding Prompts" for Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.01697)]
 [2025.08]
 
-:boom:**Rein++:** Zhixiang Wei, Xiaoxiao Ma, Ruishen Yan, Tao Tu, Huaian Chen, Jinjin Zheng, Yi Jin, Enhong Chen.<br />
+- **Rein++:** Zhixiang Wei, Xiaoxiao Ma, Ruishen Yan, Tao Tu, Huaian Chen, Jinjin Zheng, Yi Jin, Enhong Chen.<br />
 "Rein++: Efficient Generalization and Adaptation for Semantic Segmentation with Vision Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.01667)]
 [[code](https://github.com/wloves/Rein)]
 [2025.08]
 
-:boom:**VELA:** Zhixuan Li, Yujia Liu, Chen Hui, Weisi Lin.<br />
+- **VELA:** Zhixuan Li, Yujia Liu, Chen Hui, Weisi Lin.<br />
 "Single Point, Full Mask: Velocity-Guided Level Set Evolution for End-to-End Amodal Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.01661)]
 [2025.08]
 
-:boom:Yang Liu, Muzhi Zhu, Hao Chen, Xinlong Wang, Bo Feng, Hao Wang, Shiyu Li, Raviteja Vemulapalli & Chunhua Shen .<br />
+- Yang Liu, Muzhi Zhu, Hao Chen, Xinlong Wang, Bo Feng, Hao Wang, Shiyu Li, Raviteja Vemulapalli & Chunhua Shen .<br />
 "Segment Anything in Context with Vision Foundation Models." IJCV (2025).
 [[paper](https://link.springer.com/article/10.1007/s11263-025-02517-0)]
 [2025.08]
 
-:boom:**SAMSA 2.0:** Alfie Roddan, Tobias Czempiel, Chi Xu, Daniel S. Elson, Stamatia Giannarou.<br />
+- **SAMSA 2.0:** Alfie Roddan, Tobias Czempiel, Chi Xu, Daniel S. Elson, Stamatia Giannarou.<br />
 "SAMSA 2.0: Prompting Segment Anything with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.00493)]
 [2025.08]
 
-:boom:**Omni-Scan:** Tianshuang Qiu, Zehan Ma, Karim El-Refai, Hiya Shah, Chung Min Kim, Justin Kerr, Ken Goldberg.<br />
+- **Omni-Scan:** Tianshuang Qiu, Zehan Ma, Karim El-Refai, Hiya Shah, Chung Min Kim, Justin Kerr, Ken Goldberg.<br />
 "Omni-Scan: Creating Visually-Accurate Digital Twin Object Models Using a Bimanual Robot with Handover and Gaussian Splat Merging ." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.00354)]
 [[code](https://berkeleyautomation.github.io/omni-scan/)]
 [2025.08]
 
-:boom:Aymane Abdali, Bartosz Boguslawski, Lucas Drumetz, Vincent Gripon.<br />
+- Aymane Abdali, Bartosz Boguslawski, Lucas Drumetz, Vincent Gripon.<br />
 "Object-Centric Cropping for Visual Few-Shot Classification." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.00218)]
 [2025.08]
 
-:boom:**SAM-PTx:** Shayan Jalilian, Abdul Bais.<br />
+- **SAM-PTx:** Shayan Jalilian, Abdul Bais.<br />
 "SAM-PTx: Text-Guided Fine-Tuning of SAM with Parameter-Efficient, Parallel-Text Adapters." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.00213)]
 [2025.08]
