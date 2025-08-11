@@ -278,7 +278,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://ieeexplore.ieee.org/abstract/document/11098671)]
 [2025.08]
 
-:boom:**XXX:** Y. Xia et al.<br />
+:boom:Y. Xia et al.<br />
 "Box-Prompt Zero-Shot Smart Segmentation in Radiation Oncology Using a SAM-Based Model: SmartSAM." AAPM (2025).
 [[paper](file:///C:/Users/p1/Desktop/Yuqing%20Xia%20Poster_AAPM.pdf)]
 [2025.08]
@@ -308,7 +308,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://pubs.rsna.org/doi/abs/10.1148/radiol.252185?journalCode=radiology)]
 [2025.08]
 
-:boom:** Vessel-SAM2:** Zihuang Wu and Xinyu Xiong.<br />
+:boom:**Vessel-SAM2:** Zihuang Wu and Xinyu Xiong.<br />
 "Vessel-SAM2: Adapting Segment Anything 2 for Patch-Free Retinal Vessel Segmentation in Ultra-High Resolution Fundus Images." IEEE Sensors Letters (2025).
 [[paper](https://ieeexplore.ieee.org/document/11107345)]
 [2025.08]
