@@ -262,6 +262,66 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM-Med3D:** Wang, Haoyu and Guo, Sizheng and Ye, Jin and Deng, Zhongying and Cheng, Junlong and Li, Tianbin and Chen, Jianpin and Su, Yanzhou and Huang, Ziyan and Shen, Yiqing and Fu, Bin and Zhang, Shaoting and He, Junjun.<br />
+"SAM-Med3D: A Vision Foundation Model for General-Purpose Segmentation on Volumetric Medical Images." TNNLS (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11105528/)]
+[[code](https://github.com/uni-medical/SAM-Med3D)]
+[2025.08]
+
+:boom:**AP-SAM:** Peigang Liu and Peijie Wang and Chaozhi Yang and Honghao Dong and Jing Ma and Zongmin Li.<br />
+"Automatic pore structure analysis of mudstone and shale in hydrocarbon-rich areas using SEM images and AP-SAM." Fuel (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0016236125020915)]
+[2025.08]
+
+:boom:**AP-SAM:** Feng, Yunjian and Li, Jun.<br />
+"Auto-Prompting SAM for Container Detection and Localization in Container Yards." TITS (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11098671)]
+[2025.08]
+
+:boom:**XXX:** Y. Xia et al.<br />
+"Box-Prompt Zero-Shot Smart Segmentation in Radiation Oncology Using a SAM-Based Model: SmartSAM." AAPM (2025).
+[[paper](file:///C:/Users/p1/Desktop/Yuqing%20Xia%20Poster_AAPM.pdf)]
+[2025.08]
+
+:boom:Chenxiao Zhang and Peng Yue.<br />
+"Toward unsupervised building extraction from very high-resolutionremote sensing images using SAM and CLIP." GIScience & Remote Sensing (2025).
+[[paper](https://doi.org/10.1080/15481603.2025.2543102)]
+[2025.08]
+
+:boom:**ScribbleSAM:** Tae Hun Lee , Jae Yeol Lee.<br />
+"ScribbleSAM: Weakly supervised salient object detection and localization in remote sensing images using Transformer and Segment Anything Model." Journal of Computational Design and Engineering (2025).
+[[paper](https://academic.oup.com/jcde/advance-article/doi/10.1093/jcde/qwaf081/8222498?login=false)]
+[2025.08]
+
+:boom:**2AM:** Ren, Chenyu, Liwen Zou, and Luying Gui.<br />
+"2AM: Weakly Supervised Tumor Segmentation in Pathology via CAM and SAM Synergy." Electronics (2025).
+[[paper](https://doi.org/10.3390/electronics14153109)]
+[2025.08]
+
+:boom:Ying Qu.<br />
+"Attitude Estimation for Cardan-Connected End-Effector of an Underwater Robot by Integrating SAM-based Segmentation and Neural Network." ICECET (2025).
+[[paper](https://portal.findresearcher.sdu.dk/en/publications/attitude-estimation-for-cardan-connected-end-effector-of-an-under)]
+[2025.08]
+
+:boom:Rajesh Bhayana, Bo Wang.<br />
+"Segment Anything in the Ovary: Toward Scalable AI-assisted Lesion Classification." Radiology (2025).
+[[paper](https://pubs.rsna.org/doi/abs/10.1148/radiol.252185?journalCode=radiology)]
+[2025.08]
+
+:boom:** Vessel-SAM2:** Zihuang Wu and Xinyu Xiong.<br />
+"Vessel-SAM2: Adapting Segment Anything 2 for Patch-Free Retinal Vessel Segmentation in Ultra-High Resolution Fundus Images." IEEE Sensors Letters (2025).
+[[paper](https://ieeexplore.ieee.org/document/11107345)]
+[2025.08]
+
+:boom:**TFSeg:** He, Jiaqi and Li, Haofeng and Yang, Liang and Chen, Bohui.<br />
+"Training-Free Breast Ultrasound Image Segmentation with Retrieval-based SAM2." IEEE Transactions on Biomedical Engineering (2025).
+[[paper](https://ieeexplore.ieee.org/document/11113315)]
+[2025.08]
+
+:boom:**BCTDNet:** Zhang, Wei, Jinsong Li, Shuaipeng Wang, and Jianhua Wan.<br />
+"BCTDNet: Building Change-Type Detection Networks with the Segment Anything Model in Remote Sensing Images." Remote Sensing (2025).
+[[paper](https://doi.org/10.3390/rs17152742)]
+[2025.08]
 :boom:**Prompt-DINO:** Yuchen Guan, Chong Sun, Canmiao Fu, Zhipeng Huang, Chun Yuan, Chen Li.<br />
 "Text-guided Visual Prompt DINO for Generic Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.06146)]
