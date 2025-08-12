@@ -262,6 +262,41 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**RSFIQA:** Chenyue Song, Chen Hui, Haiqi Zhu, Feng Jiang, Yachun Mi, Wei Zhang, Shaohui Liu.<br />
+"Segmenting and Understanding: Region-aware Semantic Attention for Fine-grained Image Quality Assessment with Large Language Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.07818)]
+[2025.08]
+
+:boom:**CAV-SAM:** Haoran Wang, Zekun Li, Jian Zhang, Lei Qi, Yinghuan Shi.<br />
+"Correspondence as Video: Test-Time Adaption on SAM2 for Reference Segmentation in the Wild." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.07759)]
+[[code](https://github.com/wanghr64/cav-sam)]
+[2025.08]
+
+:boom:**CLUE:** Youqi Wang, Shunquan Tan, Rongxuan Peng, Bin Li, Jiwu Huang.<br />
+"CLUE: Leveraging Low-Rank Adaptation to Capture Latent Uncovered Evidence for Image Forgery Localization." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.07413)]
+[[code](https://github.com/SZAISEC/CLUE)]
+[2025.08]
+
+:boom:**ForensicsSAM:** Rongxuan Peng, Shunquan Tan, Chenqi Kong, Anwei Luo, Alex C. Kot, Jiwu Huang.<br />
+"ForensicsSAM: Toward Robust and Unified Image Forgery Detection and Localization Resisting to Adversarial Attack." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.07402)]
+[[code](https://github.com/siriusPRX/ForensicsSAM)]
+[2025.08]
+
+:boom:**S2-UniSeg:** Huihui Xu, Jin Ye, Hongqiu Wang, Changkai Ji, Jiashi Lin, Ming Hu, Ziyan Huang, Ying Chen, Chenglong Ma, Tianbin Li, Lihao Liu, Junjun He, Lei Zhu.<br />
+"S2-UniSeg: Fast Universal Agglomerative Pooling for Scalable Segment Anything without Supervision." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.06995)]
+[[code](https://github.com/bio-mlhui/S2-UniSeg)]
+[2025.08]
+
+:boom:**IAPF:** Chao Yin, Jide Li, Xiaoqiang Li.<br />
+"A Simple yet Powerful Instance-Aware Prompting Framework for Training-free Camouflaged Object Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.06904)]
+[[code](https://github.com/ycyinchao/RDVP-MSD)]
+[2025.08]
+
 :boom:**SAM-Med3D:** Wang, Haoyu and Guo, Sizheng and Ye, Jin and Deng, Zhongying and Cheng, Junlong and Li, Tianbin and Chen, Jianpin and Su, Yanzhou and Huang, Ziyan and Shen, Yiqing and Fu, Bin and Zhang, Shaoting and He, Junjun.<br />
 "SAM-Med3D: A Vision Foundation Model for General-Purpose Segmentation on Volumetric Medical Images." TNNLS (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11105528/)]
