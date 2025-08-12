@@ -297,6 +297,11 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/ycyinchao/RDVP-MSD)]
 [2025.08]
 
+:boom:**SAGOnline:** Wentao Sun, Quanyun Wu, Hanqing Xu, Kyle Gao, Zhengsen Xu, Yiping Chen, Dedong Zhang, Lingfei Ma, John S. Zelek, Jonathan Li.<br />
+"SAGOnline: Segment Any Gaussians Online." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.08219)]
+[2025.08]
+
 :boom:**SAM-Med3D:** Wang, Haoyu and Guo, Sizheng and Ye, Jin and Deng, Zhongying and Cheng, Junlong and Li, Tianbin and Chen, Jianpin and Su, Yanzhou and Huang, Ziyan and Shen, Yiqing and Fu, Bin and Zhang, Shaoting and He, Junjun.<br />
 "SAM-Med3D: A Vision Foundation Model for General-Purpose Segmentation on Volumetric Medical Images." TNNLS (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11105528/)]
