@@ -262,6 +262,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**AutoSAME:** Tuo Liu, Qinghan Yang, Yu Zhang, Rongjun Ge, Yang Chen, Guangquan Zhou.<br />
+"Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.08566)]
+[[code](https://github.com/QC-LIU-1997/AutoSAME)]
+[2025.08]
+
 :boom:**RSFIQA:** Chenyue Song, Chen Hui, Haiqi Zhu, Feng Jiang, Yachun Mi, Wei Zhang, Shaohui Liu.<br />
 "Segmenting and Understanding: Region-aware Semantic Attention for Fine-grained Image Quality Assessment with Large Language Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.07818)]
