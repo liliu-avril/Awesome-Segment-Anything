@@ -262,6 +262,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**PG-SAM:** Zhongyuan Wu, Chuan-Xian Ren, Yu Wang, Xiaohua Ban, Jianning Xiao, Xiaohui Duan.<br />
+"Multi-Sequence Parotid Gland Lesion Segmentation via Expert Text-Guided Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.09645)]
+[2025.08]
+
+:boom:**SegDAC:** Alexandre Brown, Glen Berseth.<br />
+"SegDAC: Segmentation-Driven Actor-Critic for Visual Reinforcement Learning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.09325)]
+[[code](https://segdac.github.io/)]
+[2025.08]
+
 :boom:**AutoSAME:** Tuo Liu, Qinghan Yang, Yu Zhang, Rongjun Ge, Yang Chen, Guangquan Zhou.<br />
 "Think as Cardiac Sonographers: Marrying SAM with Left Ventricular Indicators Measurements According to Clinical Guidelines." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.08566)]
