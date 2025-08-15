@@ -262,6 +262,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM-CEM-CD:** Humza Naveed, Xina Zeng, Mitch Bryson, Nagita Mehrseresht.<br />
+"Adapting SAM via Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.10568)]
+[[code](https://github.com/humza909/SAM-CEM-CD)]
+[2025.08]
+
 :boom:**PG-SAM:** Zhongyuan Wu, Chuan-Xian Ren, Yu Wang, Xiaohua Ban, Jianning Xiao, Xiaohui Duan.<br />
 "Multi-Sequence Parotid Gland Lesion Segmentation via Expert Text-Guided Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.09645)]
