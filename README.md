@@ -262,6 +262,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Bolt-SAM:** Yangjie Xiao, Ke Zhang, Jiacun Wang, Xin Sheng, Yurong Guo, Meijuan Chen, Zehua Ren, Zhaoye Zheng, Zhenbing Zhao.<br />
+"A Segmentation-driven Editing Method for Bolt Defect Augmentation and Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.10509)]
+[[code](https://github.com/Jay-xyj/SBDE)]
+[2025.08]
+
 :boom:**SAM-CEM-CD:** Humza Naveed, Xina Zeng, Mitch Bryson, Nagita Mehrseresht.<br />
 "Adapting SAM via Cross-Entropy Masking for Class Imbalance in Remote Sensing Change Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.10568)]
