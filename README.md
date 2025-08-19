@@ -262,6 +262,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**InstDrive:** Hongyuan Liu, Haochen Yu, Jianfei Jiang, Qiankun Liu, Jiansheng Chen, Huimin Ma.<br />
+"InstDrive: Instance-Aware 3D Gaussian Splatting for Driving Scenes." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.12015)]
+[2025.08]
+
 :boom:**CoFi:** Hongjin Fang, Daniel Reisenbüchler, Kenji Ikemura, Mert R. Sabuncu, Yihe Yang, Ruining Deng.<br />
 "CoFi: A Fast Coarse-to-Fine Few-Shot Pipeline for Glomerular Basement Membrane Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.11469)]
