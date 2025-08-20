@@ -262,6 +262,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**GeoSAM2:** Ken Deng, Yunhan Yang, Jingxiang Sun, Xihui Liu, Yebin Liu, Ding Liang, Yan-Pei Cao.<br />
+"GeoSAM2: Unleashing the Power of SAM2 for 3D Part Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.14036)]
+[[code](https://detailgen3d.github.io/GeoSAM2/)]
+[2025.08]
+
 :boom:**InstDrive:** Hongyuan Liu, Haochen Yu, Jianfei Jiang, Qiankun Liu, Jiansheng Chen, Huimin Ma.<br />
 "InstDrive: Instance-Aware 3D Gaussian Splatting for Driving Scenes." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.12015)]
