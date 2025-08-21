@@ -258,6 +258,12 @@ If you find our work useful in your research, please consider citing:
 [[huggingface](https://huggingface.co/collections/nvidia/describe-anything-680825bb8f5e41ff0785834c)]
 [2025.04]
 
+- **DINOv3:** Oriane Siméoni, Huy V. Vo, Maximilian Seitzer, Federico Baldassarre, Maxime Oquab, Cijo Jose, Vasil Khalidov, Marc Szafraniec, Seungeun Yi, Michaël Ramamonjisoa, Francisco Massa, Daniel Haziza, Luca Wehrstedt, Jianyuan Wang, Timothée Darcet, Théo Moutakanni, Leonel Sentana, Claire Roberts, Andrea Vedaldi, Jamie Tolan, John Brandt, Camille Couprie, Julien Mairal, Hervé Jégou, Patrick Labatut, Piotr Bojanowski.<br />
+"DINOv3." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.10104)]
+[[code](https://github.com/facebookresearch/dinov3)]
+[2025.08]
+
 
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
