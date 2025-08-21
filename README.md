@@ -268,6 +268,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**EASSA:** Wang, Jinghan and Cao, Zhen and Fu, Shiyang and Kang, Zhizhong and Wang, Jingyi.<br />
+"A Novel Flexible Architecture Based on SAM for Automatic Exraction of Rampart Craters From Martian High Resolution Images." IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11122573)]
+[2025.08]
+
+:boom:**UGCA:** Haowen Pang, Xiaoming Hong, Peng Zhang & Chuyang Ye.<br />
+"Cascaded Diffusion Model and Segment Anything Model for Medical Image Synthesis via Uncertainty-Guided Prompt Generation." IPMI (2025).
+[[paper](https://doi.org/10.1007/978-3-031-96628-6_14)]
+[2025.08]
+
+:boom:**MSAM:** Xing, Jiezhen, and Jicong Zhang.<br />
+"Segmentation of Brain Tumors Using a Multi-Modal Segment Anything Model (MSAM) with Missing Modality Adaptation." Bioengineering (2025).
+[[paper](https://doi.org/10.3390/bioengineering12080871)]
+[2025.08]
+
+:boom:**Co2SAM:** Liu, Chunmeng and Shen, Yao and Zhou, Haoran and Xiao, Qingguo and Chen, Qiaochuan and Li, Guangyao.<br />
+"Co2SAM: Exploring Co-occurrence Challenges With SAM in Weakly Supervised Semantic Segmentation." IEEE Internet of Things Journal (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11124587)]
+[[code](https://github.com/chunmengliu666/Co2SAM)]
+[2025.08]
+
+:boom:**CD-SAM:** Guowei Zheng and Pengbo Bo and Songhua Xu and Linqin Wang and Zhaoyang Cong and Liangliang Liu and Ziyang Zhao and Caiming Zhang.<br />
+"Enhancing Segment Anything Model with spatial context and textural detail for cardiac MRI segmentation." Biomedical Signal Processing and Control(2025).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809425009486)]
+[[code](https://github.com/LZUzgw/CD-SAM)]
+[2025.08]
+
 :boom:**LENS:** Lianghui Zhu, Bin Ouyang, Yuxuan Zhang, Tianheng Cheng, Rui Hu, Haocheng Shen, Longjin Ran, Xiaoxin Chen, Li Yu, Wenyu Liu, Xinggang Wang.<br />
 "LENS: Learning to Segment Anything with Unified Reinforced Reasoning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.14153)]
