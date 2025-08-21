@@ -262,6 +262,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**LENS:** Lianghui Zhu, Bin Ouyang, Yuxuan Zhang, Tianheng Cheng, Rui Hu, Haocheng Shen, Longjin Ran, Xiaoxin Chen, Li Yu, Wenyu Liu, Xinggang Wang.<br />
+"LENS: Learning to Segment Anything with Unified Reinforced Reasoning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.14153)]
+[[code](https://github.com/hustvl/LENS)]
+[2025.08]
+
 :boom:**GeoSAM2:** Ken Deng, Yunhan Yang, Jingxiang Sun, Xihui Liu, Yebin Liu, Ding Liang, Yan-Pei Cao.<br />
 "GeoSAM2: Unleashing the Power of SAM2 for 3D Part Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.14036)]
