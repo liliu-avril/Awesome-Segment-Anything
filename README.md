@@ -268,6 +268,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Lang2Lift:** Huy Hoang Nguyen, Johannes Huemer, Markus Murschitz, Tobias Glueck, Minh Nhat Vu, Andreas Kugi.<br />
+"Lang2Lift: A Framework for Language-Guided Pallet Detection and Pose Estimation Integrated in Autonomous Outdoor Forklift Operation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.15427)]
+[[code](https://eric-nguyen1402.github.io/lang2lift.github.io/)]
+[2025.08]
+
 :boom:**All-in-SAM:** Xueyuan Li, Can Cui, Ruining Deng, Yucheng Tang, Quan Liu, Tianyuan Yao, Shunxing Bao, Naweed Chowdhury, Haichun Yang, Yuankai Huo.<br />
 "Fine-grained Multi-class Nuclei Segmentation with Molecular-empowered All-in-SAM Model." Journal of Medical Imaging(2025).
 [[paper](https://arxiv.org/abs/2508.15751)]
