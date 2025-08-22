@@ -268,6 +268,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**All-in-SAM:** Xueyuan Li, Can Cui, Ruining Deng, Yucheng Tang, Quan Liu, Tianyuan Yao, Shunxing Bao, Naweed Chowdhury, Haichun Yang, Yuankai Huo.<br />
+"Fine-grained Multi-class Nuclei Segmentation with Molecular-empowered All-in-SAM Model." Journal of Medical Imaging(2025).
+[[paper](https://arxiv.org/abs/2508.15751)]
+[2025.08]
+
+:boom:**RAG-SEG:** Wutao Liu, YiDan Wang, Pan Gao.<br />
+"First RAG, Second SEG: A Training-Free Paradigm for Camouflaged Object Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.15313)]
+[2025.08]
+
+:boom:**TOM:**  Jiacheng Xie, Ziyang Zhang, Biplab Poudel, Congyu Guo, Yang Yu, Guanghui An, Xiaoting Tang, Lening Zhao, Chunhui Xu, Dong Xu.<br />
+"TOM: An Open-Source Tongue Segmentation Method with Multi-Teacher Distillation and Task-Specific Data Augmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.14932)]
+[[code](https://itongue.cn/)]
+[2025.08]
+
 :boom:**EASSA:** Wang, Jinghan and Cao, Zhen and Fu, Shiyang and Kang, Zhizhong and Wang, Jingyi.<br />
 "A Novel Flexible Architecture Based on SAM for Automatic Exraction of Rampart Craters From Martian High Resolution Images." IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11122573)]
