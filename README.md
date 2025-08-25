@@ -323,7 +323,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/MauricioFernandezM/Self-TrainingSAM)]
 [2025.08]
 
-:boom:** PAL-SAM:** Christopher Bunn et al.<br />
+:boom:**PAL-SAM:** Christopher Bunn et al.<br />
 "Re-Purposing Segment Anything For Skeleton Action Localization." ICIP (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11084482)]
 [2025.08]
