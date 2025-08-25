@@ -311,6 +311,28 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2542913)]
 [2025.08]
 
+:boom:**MFB-SAC:** Xutao Sun et al.<br />
+"MFB-SAC: A Multi-Scale Frequency and Boundary-Enhanced SAM for Cell Segmentation." ICIP (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11084537)]
+[[code](https://github.com/Mrliujunwen/SAC)]
+[2025.08]
+
+:boom:**Self-TrainingSAM:** Mauricio Fernandez M. et al.<br />
+"SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video." ICIP (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11084376)]
+[[code](https://github.com/MauricioFernandezM/Self-TrainingSAM)]
+[2025.08]
+
+:boom:** PAL-SAM:** Christopher Bunn et al.<br />
+"Re-Purposing Segment Anything For Skeleton Action Localization." ICIP (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11084482)]
+[2025.08]
+
+:boom:**subCellSAM:** Jacob Hanimann, Daniel Siegismund, Mario Wieser, Stephan Steigele.<br />
+"subCellSAM: Zero-Shot (Sub-)Cellular Segmentation for Hit Validation in Drug Discovery." GCPR (2025).
+[[paper](https://arxiv.org/abs/2508.13701)]
+[2025.08]
+
 - **Lang2Lift:** Huy Hoang Nguyen, Johannes Huemer, Markus Murschitz, Tobias Glueck, Minh Nhat Vu, Andreas Kugi.<br />
 "Lang2Lift: A Framework for Language-Guided Pallet Detection and Pose Estimation Integrated in Autonomous Outdoor Forklift Operation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.15427)]
