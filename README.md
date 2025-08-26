@@ -268,6 +268,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Propose-Rectify:** Keyang Zhang, Chenqi Kong, Hui Liu, Bo Ding, Xinghao Jiang, Haoliang Li.<br />
+"Propose and Rectify: A Forensics-Driven MLLM Framework for Image Manipulation Localization." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.17976)]
+[2025.08]
+
 :boom:**E-BayesSAM:** Bin Huang, Zhong Liu, Huiying Wen, Bingsheng Huang, Xin Chen, Shuo Li.<br />
 "E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation." MICCAI (2025).
 [[paper](https://arxiv.org/abs/2508.17408)]
