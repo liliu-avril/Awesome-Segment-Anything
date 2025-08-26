@@ -268,6 +268,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**DeH4R:** Dengxian Gong, Shunping Ji.<br />
+"DeH4R: A Decoupled and Hybrid Method for Road Network Graph Extraction." ArXiv (2025).
+[[paper](https://www.arxiv.org/abs/2508.13669)]
+[[code](https://github.com/7777777FAN/DeH4R)]
+[2025.08]
+
 :boom:**SAMDWICH:** Seunghun Lee, Jiwan Seo, Jeonghoon Kim, Siwon Kim, Haeun Yun, Hyogyeong Jeon, Wonhyeok Choi, Jaehoon Jeong, Zane Durante, Sang Hyun Park, Sunghoon Im.<br />
 "SAMDWICH: Moment-aware Video-text Alignment for Referring Video Object Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.11955)]
