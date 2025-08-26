@@ -268,6 +268,24 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**E-BayesSAM:** Bin Huang, Zhong Liu, Huiying Wen, Bingsheng Huang, Xin Chen, Shuo Li.<br />
+"E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation." MICCAI (2025).
+[[paper](https://arxiv.org/abs/2508.17408)]
+[[code](https://github.com/mp31192/E-BayesSAM)]
+[2025.08]
+
+:boom:**QTT-SEG:** Breenda Das, Lennart Purucker, Timur Carstensen, Frank Hutter.<br />
+"Quickly Tuning Foundation Models for Image Segmentation." AutoML (2025).
+[[paper](https://arxiv.org/abs/2508.17283)]
+[[code](https://github.com/ds-brx/QTT-SEG/)]
+[2025.08]
+
+:boom:**AdvCP:** Zhenghui Zhao, Chen Wu, Di Wang, Hongruixuan Chen, Cuiqun Chen, Zhuo Zheng, Bo Du, Liangpei Zhang.<br />
+"Advancing Weakly-Supervised Change Detection in Satellite Images via Adversarial Class Prompting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.17186)]
+[[code](https://github.com/zhenghuizhao/AdvCP)]
+[2025.08]
+
 :boom:**DeH4R:** Dengxian Gong, Shunping Ji.<br />
 "DeH4R: A Decoupled and Hybrid Method for Road Network Graph Extraction." ArXiv (2025).
 [[paper](https://www.arxiv.org/abs/2508.13669)]
