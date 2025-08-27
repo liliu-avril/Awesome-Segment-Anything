@@ -268,6 +268,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**AUSM:** Miran Heo, Sukjun Hwang, Min-Hung Chen, Yu-Chiang Frank Wang, Albert Gu, Seon Joo Kim, Ryo Hachiuma.<br />
+"Autoregressive Universal Video Segmentation Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.19242)]
+[2025.08]
+
 :boom:**Propose-Rectify:** Keyang Zhang, Chenqi Kong, Hui Liu, Bo Ding, Xinghao Jiang, Haoliang Li.<br />
 "Propose and Rectify: A Forensics-Driven MLLM Framework for Image Manipulation Localization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.17976)]
