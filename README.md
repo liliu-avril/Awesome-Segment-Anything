@@ -268,7 +268,7 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**FreeVPS :** Qiang Hu, Ying Zhou, Gepeng Ji, Nick Barnes, Qiang Li, Zhiwei Wang.<br />
+:boom:**FreeVPS:** Qiang Hu, Ying Zhou, Gepeng Ji, Nick Barnes, Qiang Li, Zhiwei Wang.<br />
 "FreeVPS: Repurposing Training-Free SAM2 for Generalizable Video Polyp Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.19705)]
 [2025.08]
@@ -277,6 +277,11 @@ If you find our work useful in your research, please consider citing:
 "SPLF-SAM: Self-Prompting Segment Anything Model for Light Field Salient Object Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.19746)]
 [[code](https://github.com/XucherCH/splfsam)]
+[2025.08]
+
+:boom: Lechun You, Zhonghua Wu, Weide Liu, Xulei Yang, Jun Cheng, Wei Zhou, Bharadwaj Veeravalli, Guosheng Lin.<br />
+"Integrating SAM Supervision for 3D Weakly Supervised Point Cloud Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.19909)]
 [2025.08]
 
 :boom:**AUSM:** Miran Heo, Sukjun Hwang, Min-Hung Chen, Yu-Chiang Frank Wang, Albert Gu, Seon Joo Kim, Ryo Hachiuma.<br />
