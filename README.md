@@ -268,6 +268,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Amir Jmal, Chaima Chtourou, Mahdi Louati, Abdelaziz Kallel, Houda Khmila.<br />
+"Olive Tree Satellite Image Segmentation Based On SAM and Multi-Phase Refinement." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.20954)]
+[2025.08]
+
+:boom:**SPGrasp:** Yunpeng Mei, Hongjie Cao, Yinqiu Xia, Wei Xiao, Zhaohan Feng, Gang Wang, Jie Chen.<br />
+"SPGrasp: Spatiotemporal Prompt-driven Grasp Synthesis in Dynamic Scenes." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.20547)]
+[[code](https://github.com/sejmoonwei/SPGrasp)]
+[2025.08]
+
 :boom:**FreeVPS:** Qiang Hu, Ying Zhou, Gepeng Ji, Nick Barnes, Qiang Li, Zhiwei Wang.<br />
 "FreeVPS: Repurposing Training-Free SAM2 for Generalizable Video Polyp Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.19705)]
