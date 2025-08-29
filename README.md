@@ -268,6 +268,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**FSA:** Zhixiang Chi, Yanan Wu, Li Gu, Huan Liu, Ziqiang Wang, Yang Zhang, Yang Wang, Konstantinos N. Plataniotis.<br />
+"Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation." ICCV (2025).
+[[paper](https://arxiv.org/abs/2508.20265)]
+[[code](https://github.com/chi-chi-zx/FSA)]
+[2025.08]
+
 :boom:Amir Jmal, Chaima Chtourou, Mahdi Louati, Abdelaziz Kallel, Houda Khmila.<br />
 "Olive Tree Satellite Image Segmentation Based On SAM and Multi-Phase Refinement." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.20954)]
