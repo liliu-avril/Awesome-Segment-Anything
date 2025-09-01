@@ -268,134 +268,144 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**FSA:** Zhixiang Chi, Yanan Wu, Li Gu, Huan Liu, Ziqiang Wang, Yang Zhang, Yang Wang, Konstantinos N. Plataniotis.<br />
+:boom:Abdul Rehman, Ilona Heldal, Jerry Chun-Wei Lin.<br />
+"Spatiotemporal EEG-Based Emotion Recognition Using SAM Ratings from Serious Games with Hybrid Deep Learning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2508.21103)]
+[2025.08]
+
+:boom:Kaouther Mouheb, Marawan Elbatel, Janne Papma, Geert Jan Biessels, Jurgen Claassen, Huub Middelkoop, Barbara van Munster, Wiesje van der Flier, Inez Ramakers, Stefan Klein, Esther E. Bron.<br />
+"Federated Fine-tuning of SAM-Med3D for MRI-based Dementia Classification." MICCAI Workshop (2025).
+[[paper](https://arxiv.org/abs/2508.21458)]
+[2025.08]
+
+- **FSA:** Zhixiang Chi, Yanan Wu, Li Gu, Huan Liu, Ziqiang Wang, Yang Zhang, Yang Wang, Konstantinos N. Plataniotis.<br />
 "Plug-in Feedback Self-adaptive Attention in CLIP for Training-free Open-Vocabulary Segmentation." ICCV (2025).
 [[paper](https://arxiv.org/abs/2508.20265)]
 [[code](https://github.com/chi-chi-zx/FSA)]
 [2025.08]
 
-:boom:Amir Jmal, Chaima Chtourou, Mahdi Louati, Abdelaziz Kallel, Houda Khmila.<br />
+- Amir Jmal, Chaima Chtourou, Mahdi Louati, Abdelaziz Kallel, Houda Khmila.<br />
 "Olive Tree Satellite Image Segmentation Based On SAM and Multi-Phase Refinement." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.20954)]
 [2025.08]
 
-:boom:**SPGrasp:** Yunpeng Mei, Hongjie Cao, Yinqiu Xia, Wei Xiao, Zhaohan Feng, Gang Wang, Jie Chen.<br />
+- **SPGrasp:** Yunpeng Mei, Hongjie Cao, Yinqiu Xia, Wei Xiao, Zhaohan Feng, Gang Wang, Jie Chen.<br />
 "SPGrasp: Spatiotemporal Prompt-driven Grasp Synthesis in Dynamic Scenes." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.20547)]
 [[code](https://github.com/sejmoonwei/SPGrasp)]
 [2025.08]
 
-:boom:**FreeVPS:** Qiang Hu, Ying Zhou, Gepeng Ji, Nick Barnes, Qiang Li, Zhiwei Wang.<br />
+- **FreeVPS:** Qiang Hu, Ying Zhou, Gepeng Ji, Nick Barnes, Qiang Li, Zhiwei Wang.<br />
 "FreeVPS: Repurposing Training-Free SAM2 for Generalizable Video Polyp Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.19705)]
 [2025.08]
 
-:boom:**SPLF-SAM:** Qiyao Xu, Qiming Wu, Xiaowei Li.<br />
+- **SPLF-SAM:** Qiyao Xu, Qiming Wu, Xiaowei Li.<br />
 "SPLF-SAM: Self-Prompting Segment Anything Model for Light Field Salient Object Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.19746)]
 [[code](https://github.com/XucherCH/splfsam)]
 [2025.08]
 
-:boom: Lechun You, Zhonghua Wu, Weide Liu, Xulei Yang, Jun Cheng, Wei Zhou, Bharadwaj Veeravalli, Guosheng Lin.<br />
+- Lechun You, Zhonghua Wu, Weide Liu, Xulei Yang, Jun Cheng, Wei Zhou, Bharadwaj Veeravalli, Guosheng Lin.<br />
 "Integrating SAM Supervision for 3D Weakly Supervised Point Cloud Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.19909)]
 [2025.08]
 
-:boom:**AUSM:** Miran Heo, Sukjun Hwang, Min-Hung Chen, Yu-Chiang Frank Wang, Albert Gu, Seon Joo Kim, Ryo Hachiuma.<br />
+- **AUSM:** Miran Heo, Sukjun Hwang, Min-Hung Chen, Yu-Chiang Frank Wang, Albert Gu, Seon Joo Kim, Ryo Hachiuma.<br />
 "Autoregressive Universal Video Segmentation Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.19242)]
 [2025.08]
 
-:boom:**Propose-Rectify:** Keyang Zhang, Chenqi Kong, Hui Liu, Bo Ding, Xinghao Jiang, Haoliang Li.<br />
+- **Propose-Rectify:** Keyang Zhang, Chenqi Kong, Hui Liu, Bo Ding, Xinghao Jiang, Haoliang Li.<br />
 "Propose and Rectify: A Forensics-Driven MLLM Framework for Image Manipulation Localization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.17976)]
 [2025.08]
 
-:boom:**E-BayesSAM:** Bin Huang, Zhong Liu, Huiying Wen, Bingsheng Huang, Xin Chen, Shuo Li.<br />
+- **E-BayesSAM:** Bin Huang, Zhong Liu, Huiying Wen, Bingsheng Huang, Xin Chen, Shuo Li.<br />
 "E-BayesSAM: Efficient Bayesian Adaptation of SAM with Self-Optimizing KAN-Based Interpretation for Uncertainty-Aware Ultrasonic Segmentation." MICCAI (2025).
 [[paper](https://arxiv.org/abs/2508.17408)]
 [[code](https://github.com/mp31192/E-BayesSAM)]
 [2025.08]
 
-:boom:**QTT-SEG:** Breenda Das, Lennart Purucker, Timur Carstensen, Frank Hutter.<br />
+- **QTT-SEG:** Breenda Das, Lennart Purucker, Timur Carstensen, Frank Hutter.<br />
 "Quickly Tuning Foundation Models for Image Segmentation." AutoML (2025).
 [[paper](https://arxiv.org/abs/2508.17283)]
 [[code](https://github.com/ds-brx/QTT-SEG/)]
 [2025.08]
 
-:boom:**AdvCP:** Zhenghui Zhao, Chen Wu, Di Wang, Hongruixuan Chen, Cuiqun Chen, Zhuo Zheng, Bo Du, Liangpei Zhang.<br />
+- **AdvCP:** Zhenghui Zhao, Chen Wu, Di Wang, Hongruixuan Chen, Cuiqun Chen, Zhuo Zheng, Bo Du, Liangpei Zhang.<br />
 "Advancing Weakly-Supervised Change Detection in Satellite Images via Adversarial Class Prompting." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.17186)]
 [[code](https://github.com/zhenghuizhao/AdvCP)]
 [2025.08]
 
-:boom:**DeH4R:** Dengxian Gong, Shunping Ji.<br />
+- **DeH4R:** Dengxian Gong, Shunping Ji.<br />
 "DeH4R: A Decoupled and Hybrid Method for Road Network Graph Extraction." ArXiv (2025).
 [[paper](https://www.arxiv.org/abs/2508.13669)]
 [[code](https://github.com/7777777FAN/DeH4R)]
 [2025.08]
 
-:boom:**SAMDWICH:** Seunghun Lee, Jiwan Seo, Jeonghoon Kim, Siwon Kim, Haeun Yun, Hyogyeong Jeon, Wonhyeok Choi, Jaehoon Jeong, Zane Durante, Sang Hyun Park, Sunghoon Im.<br />
+- **SAMDWICH:** Seunghun Lee, Jiwan Seo, Jeonghoon Kim, Siwon Kim, Haeun Yun, Hyogyeong Jeon, Wonhyeok Choi, Jaehoon Jeong, Zane Durante, Sang Hyun Park, Sunghoon Im.<br />
 "SAMDWICH: Moment-aware Video-text Alignment for Referring Video Object Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.11955)]
 [[project](https://seung-hun-lee.github.io/projects/SAMDWICH/)]
 [[code](https://github.com/Seung-Hun-Lee/SAMDWICH)]
 [2025.08]
 
-:boom:**Q-MiniSAM2:** Xuanxuan Ren , Xiangyu Li , Kun Wei , Xu Yang , Yanhua Yang.<br />
+- **Q-MiniSAM2:** Xuanxuan Ren , Xiangyu Li , Kun Wei , Xu Yang , Yanhua Yang.<br />
 "Q-MiniSAM2: A Quantization-based Benchmark for Resource-Efficient Video Segmentation." IJCAI (2025).
 [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/2112.pdf)]
 [2025.08]
 
-:boom:**ODS-SAM:** Chao Huang et al.<br />
+- **ODS-SAM:** Chao Huang et al.<br />
 "Omni-Dimensional State Space Model-driven SAM for Pixel-level Anomaly Detection." IJCAI (2025).
 [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/6311.pdf)]
 [2025.08]
 
-:boom:**DenseSAM:** Linyun Zhou et al.<br />
+- **DenseSAM:** Linyun Zhou et al.<br />
 "DenseSAM: Semantic Enhance SAM For Efficient Dense Object Segmentation." IJCAI (2025).
 [[paper](https://ijcai-preprints.s3.us-west-1.amazonaws.com/2025/3133.pdf)]
 [[code](https://github.com/imAzhou/DenseSAM)]
 [2025.08]
 
-:boom:**PG-SAM:** Hadee Madadum,  Fazal E Nasir, Kanjana Haruehansapong.<br />
+- **PG-SAM:** Hadee Madadum,  Fazal E Nasir, Kanjana Haruehansapong.<br />
 "Optimizing Watermelon Leaf Disease Detection Using SAM-based Augmentation with YOLO for Practical Agricultural Solutions." Smart Agricultural Technology (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S277237552500557X)]
 [2025.08]
 
-:boom:**ShadowCraft-Nerf:** Xun Chen et al.<br />
+- **ShadowCraft-Nerf:** Xun Chen et al.<br />
 "ShadowCraft-Nerf: Occlusion and Shadow Mitigation via SAM-Guided Nerf." CASA (2025).
 [[paper](https://books.google.com.hk/books?hl=zh-CN&lr=&id=9qh-EQAAQBAJ&oi=fnd&pg=PA93&ots=c6sYGYyArX&sig=tHNgp8kDDnuQlFYQtyGtFoU7aTw&redir_esc=y#v=onepage&q&f=false)]
 [2025.08]
 
-:boom:**SAM2Med3D:** Ying Chen and Wenjing Cui and Xiaoyan Dong and Shuai Zhou and Zhongqiu Wang.<br />
+- **SAM2Med3D:** Ying Chen and Wenjing Cui and Xiaoyan Dong and Shuai Zhou and Zhongqiu Wang.<br />
 "SAM2Med3D: Leveraging video foundation models for 3D breast MRI segmentation." Computers & Graphics (2025).
 [[paper](https://doi.org/10.1016/j.cag.2025.104341)]
 [2025.08]
 
-:boom:Huang, X., Long, A., Han, W., Chen, Y., Min, G., & Yan, D.<br />
+- Huang, X., Long, A., Han, W., Chen, Y., Min, G., & Yan, D.<br />
 "A segment anything model-based geological remote sensing interpretation method with a distributed data-parallel deep learning framework."  International Journal of Digital Earth (2025).
 [[paper](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2542913)]
 [2025.08]
 
-:boom:**MFB-SAC:** Xutao Sun et al.<br />
+- **MFB-SAC:** Xutao Sun et al.<br />
 "MFB-SAC: A Multi-Scale Frequency and Boundary-Enhanced SAM for Cell Segmentation." ICIP (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11084537)]
 [[code](https://github.com/Mrliujunwen/SAC)]
 [2025.08]
 
-:boom:**Self-TrainingSAM:** Mauricio Fernandez M. et al.<br />
+- **Self-TrainingSAM:** Mauricio Fernandez M. et al.<br />
 "SAM 2-Driven Self-Training for Mammogram Segmentation: Zero-Shot Mask Generation Via Pseudo-Video." ICIP (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11084376)]
 [[code](https://github.com/MauricioFernandezM/Self-TrainingSAM)]
 [2025.08]
 
-:boom:**PAL-SAM:** Christopher Bunn et al.<br />
+- **PAL-SAM:** Christopher Bunn et al.<br />
 "Re-Purposing Segment Anything For Skeleton Action Localization." ICIP (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11084482)]
 [2025.08]
 
-:boom:**subCellSAM:** Jacob Hanimann, Daniel Siegismund, Mario Wieser, Stephan Steigele.<br />
+- **subCellSAM:** Jacob Hanimann, Daniel Siegismund, Mario Wieser, Stephan Steigele.<br />
 "subCellSAM: Zero-Shot (Sub-)Cellular Segmentation for Hit Validation in Drug Discovery." GCPR (2025).
 [[paper](https://arxiv.org/abs/2508.13701)]
 [2025.08]
