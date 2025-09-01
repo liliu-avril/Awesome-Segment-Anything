@@ -268,6 +268,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:You, Ruixi and Xu, Feng and Liu, Min.<br />
+"SAR Aircraft Segmentation With SAR-to-Optical Image Translation and Segment Anything Model." JSTARS (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11134789)]
+[2025.07]
+
+:boom:Mohammad Marjani, Masoud Mahdianpari, Daniel J. Varon, Fariba Mohammadimanesh.<br />
+"The integration of vision transformers and SAM for automated methane super-emitter detection using TROPOMI data." Journal of Environmental Management (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0301479725030105)]
+[2025.08]
+
 :boom:Abdul Rehman, Ilona Heldal, Jerry Chun-Wei Lin.<br />
 "Spatiotemporal EEG-Based Emotion Recognition Using SAM Ratings from Serious Games with Hybrid Deep Learning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.21103)]
