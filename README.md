@@ -268,6 +268,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SegAssess:** Bingnan Yang, Mi Zhang, Zhili Zhang, Zhan Zhang, Yuanxin Zhao, Xiangyun Hu, Jianya Gong.<br />
+"SegAssess: Panoramic quality mapping for robust and transferable unsupervised segmentation assessment." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.01183)]
+[[code](https://github.com/Yangbn97/SegAssess)]
+[2025.09]
+
+:boom:**TReF-6:** Yuxuan Ding, Shuangge Wang, Tesca Fitzgerald.<br />
+"TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.00310)]
+[2025.09]
+
 :boom:You, Ruixi and Xu, Feng and Liu, Min.<br />
 "SAR Aircraft Segmentation With SAR-to-Optical Image Translation and Segment Anything Model." JSTARS (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11134789)]
