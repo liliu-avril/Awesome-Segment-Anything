@@ -268,6 +268,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**InfraDiffusion:** Yixiong Jing, Cheng Zhang, Haibing Wu, Guangming Wang, Olaf Wysocki, Brian Sheil.<br />
+"InfraDiffusion: zero-shot depth map restoration with diffusion models and prompted segmentation from sparse infrastructure point clouds." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.03324)]
+[[code](https://github.com/Jingyixiong/InfraDiffusion-official-implement)]
+[2025.09]
+
+:boom:**SOPSeg:** Chenhao Wang, Yingrui Ji, Yu Meng, Yunjian Zhang, Yao Zhu.<br />
+"SOPSeg: Prompt-based Small Object Instance Segmentation in Remote Sensing Imagery." AAAI (2025).
+[[paper](https://arxiv.org/abs/2509.03002)]
+[2025.09]
+
 :boom:**SegAssess:** Bingnan Yang, Mi Zhang, Zhili Zhang, Zhan Zhang, Yuanxin Zhao, Xiangyun Hu, Jianya Gong.<br />
 "SegAssess: Panoramic quality mapping for robust and transferable unsupervised segmentation assessment." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.01183)]
