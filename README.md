@@ -268,6 +268,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**VisioFirm:** Safouane El Ghazouali, Umberto Michelucci.<br />
+"VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.04180)]
+[[code](https://github.com/OschAI/VisioFirm)]
+[2025.09]
+
 :boom:**InfraDiffusion:** Yixiong Jing, Cheng Zhang, Haibing Wu, Guangming Wang, Olaf Wysocki, Brian Sheil.<br />
 "InfraDiffusion: zero-shot depth map restoration with diffusion models and prompted segmentation from sparse infrastructure point clouds." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.03324)]
