@@ -466,7 +466,7 @@
   [2023.12]
 
 - **EdgeSAM:** Chong Zhou, Xiangtai Li, Chen Change Loy, Bo Dai.<br />
-  "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM." ArXiv (2023).
+  "EdgeSAM: Prompt-In-the-Loop Distillation for On-Device Deployment of SAM." IJCV (2025).
   [[paper](https://arxiv.org/abs/2312.06660)] 
   [[code](https://github.com/chongzhou96/EdgeSAM)]
   [2023.12]
