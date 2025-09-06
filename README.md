@@ -273,50 +273,61 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**VisioFirm:** Safouane El Ghazouali, Umberto Michelucci.<br />
+:boom:Allabadi, G., Lucic, A., Wang, YX. et al.<br />
+" Learning to Detect Novel Species with SAM in the Wild." IJCV (2025).
+[[paper](https://link.springer.com/article/10.1007/s11263-024-02234-0)]
+[2025.09]
+
+:boom:**SA3D:** Cen, J., Fang, J., Zhou, Z. et al.<br />
+"Segment Anything in 3D with Radiance Fields." IJCV (2025).
+[[paper](https://doi.org/10.1007/s11263-025-02421-7)]
+[[code](https://github.com/Jumpat/SegmentAnythingin3D)]
+[2025.09]
+
+- **VisioFirm:** Safouane El Ghazouali, Umberto Michelucci.<br />
 "VisioFirm: Cross-Platform AI-assisted Annotation Tool for Computer Vision." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.04180)]
 [[code](https://github.com/OschAI/VisioFirm)]
 [2025.09]
 
-:boom:**InfraDiffusion:** Yixiong Jing, Cheng Zhang, Haibing Wu, Guangming Wang, Olaf Wysocki, Brian Sheil.<br />
+- **InfraDiffusion:** Yixiong Jing, Cheng Zhang, Haibing Wu, Guangming Wang, Olaf Wysocki, Brian Sheil.<br />
 "InfraDiffusion: zero-shot depth map restoration with diffusion models and prompted segmentation from sparse infrastructure point clouds." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.03324)]
 [[code](https://github.com/Jingyixiong/InfraDiffusion-official-implement)]
 [2025.09]
 
-:boom:**SOPSeg:** Chenhao Wang, Yingrui Ji, Yu Meng, Yunjian Zhang, Yao Zhu.<br />
+- **SOPSeg:** Chenhao Wang, Yingrui Ji, Yu Meng, Yunjian Zhang, Yao Zhu.<br />
 "SOPSeg: Prompt-based Small Object Instance Segmentation in Remote Sensing Imagery." AAAI (2025).
 [[paper](https://arxiv.org/abs/2509.03002)]
 [2025.09]
 
-:boom:**SegAssess:** Bingnan Yang, Mi Zhang, Zhili Zhang, Zhan Zhang, Yuanxin Zhao, Xiangyun Hu, Jianya Gong.<br />
+- **SegAssess:** Bingnan Yang, Mi Zhang, Zhili Zhang, Zhan Zhang, Yuanxin Zhao, Xiangyun Hu, Jianya Gong.<br />
 "SegAssess: Panoramic quality mapping for robust and transferable unsupervised segmentation assessment." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.01183)]
 [[code](https://github.com/Yangbn97/SegAssess)]
 [2025.09]
 
-:boom:**TReF-6:** Yuxuan Ding, Shuangge Wang, Tesca Fitzgerald.<br />
+- **TReF-6:** Yuxuan Ding, Shuangge Wang, Tesca Fitzgerald.<br />
 "TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.00310)]
 [2025.09]
 
-:boom:You, Ruixi and Xu, Feng and Liu, Min.<br />
+- You, Ruixi and Xu, Feng and Liu, Min.<br />
 "SAR Aircraft Segmentation With SAR-to-Optical Image Translation and Segment Anything Model." JSTARS (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11134789)]
 [2025.07]
 
-:boom:Mohammad Marjani, Masoud Mahdianpari, Daniel J. Varon, Fariba Mohammadimanesh.<br />
+- Mohammad Marjani, Masoud Mahdianpari, Daniel J. Varon, Fariba Mohammadimanesh.<br />
 "The integration of vision transformers and SAM for automated methane super-emitter detection using TROPOMI data." Journal of Environmental Management (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0301479725030105)]
 [2025.08]
 
-:boom:Abdul Rehman, Ilona Heldal, Jerry Chun-Wei Lin.<br />
+- Abdul Rehman, Ilona Heldal, Jerry Chun-Wei Lin.<br />
 "Spatiotemporal EEG-Based Emotion Recognition Using SAM Ratings from Serious Games with Hybrid Deep Learning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.21103)]
 [2025.08]
 
-:boom:Kaouther Mouheb, Marawan Elbatel, Janne Papma, Geert Jan Biessels, Jurgen Claassen, Huub Middelkoop, Barbara van Munster, Wiesje van der Flier, Inez Ramakers, Stefan Klein, Esther E. Bron.<br />
+- Kaouther Mouheb, Marawan Elbatel, Janne Papma, Geert Jan Biessels, Jurgen Claassen, Huub Middelkoop, Barbara van Munster, Wiesje van der Flier, Inez Ramakers, Stefan Klein, Esther E. Bron.<br />
 "Federated Fine-tuning of SAM-Med3D for MRI-based Dementia Classification." MICCAI Workshop (2025).
 [[paper](https://arxiv.org/abs/2508.21458)]
 [2025.08]
