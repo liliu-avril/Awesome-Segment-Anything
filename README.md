@@ -100,6 +100,11 @@ If you find our work useful in your research, please consider citing:
   [[paper](https://arxiv.org/abs/2306.06211)] 
   [2023.05]
 
+- Xiaorui Sun, Jun Liu, Heng Tao Shen, Xiaofeng Zhu, Ping Hu.<br />
+  "On Efficient Variants of Segment Anything Model: A Survey." IJCV (2025).
+  [[paper](https://arxiv.org/abs/2410.04960)] 
+  [2024.10]
+  
 - Mudassar Ali and Tong Wu and Haoji Hu and Qiong Luo and Dong Xu and Weizeng Zheng and Neng Jin and Chen Yang and Jincao Yao.<br />
 "A review of the Segment Anything Model (SAM) for medical image analysis: Accomplishments and perspectives." Computerized Medical Imaging and Graphics (2024).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0895611124001502)]
