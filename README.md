@@ -273,6 +273,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**UAT-SAM:** Dharsan Ravindran, Kevin Wang, Zhuoyuan Cao, Saleh Abdelrahman, Jeffery Wu.<br />
+"Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.04735)]
+[2025.09]
+
 :boom:Allabadi, G., Lucic, A., Wang, YX. et al.<br />
 " Learning to Detect Novel Species with SAM in the Wild." IJCV (2025).
 [[paper](https://link.springer.com/article/10.1007/s11263-024-02234-0)]
