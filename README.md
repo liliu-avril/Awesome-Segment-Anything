@@ -273,6 +273,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Probabilistic SAM:** Tyler Ward, Abdullah Imran.<br />
+"A Probabilistic Segment Anything Model for Ambiguity-Aware Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.05809)]
+[[code](https://github.com/tbwa233/Probabilistic-SAM/)]
+[2025.09]
+
 :boom:**UAT-SAM:** Dharsan Ravindran, Kevin Wang, Zhuoyuan Cao, Saleh Abdelrahman, Jeffery Wu.<br />
 "Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.04735)]
