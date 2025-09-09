@@ -273,6 +273,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Phongsakon Mark Konrad, Andrei-Alexandru Popa, Yaser Sabzehmeidani, Liang Zhong, Elisa A. Liehn, Serkan Ayvaz.<br />
+"Challenges in Deep Learning-Based Small Organ Segmentation: A Benchmarking Perspective for Medical Research with Limited Datasets." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.05892)]
+[2025.09]
+
+:boom:**Phantom-Insight:** Hua Zhang, Changjiang Luo, Ruoyu Chen.<br />
+"Phantom-Insight: Adaptive Multi-cue Fusion for Video Camouflaged Object Detection with Multimodal LLM." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.06422)]
+[2025.09]
+
+:boom:**P3-SAM:** Changfeng Ma, Yang Li, Xinhao Yan, Jiachen Xu, Yunhan Yang, Chunshi Wang, Zibo Zhao, Yanwen Guo, Zhuo Chen, Chunchao Guo.<br />
+"P3-SAM: Native 3D Part Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.06784)]
+[[code](XXXXXXXXXXXXXXXXXXXXXX)]
+[2025.09]
+
 :boom:**Probabilistic SAM:** Tyler Ward, Abdullah Imran.<br />
 "A Probabilistic Segment Anything Model for Ambiguity-Aware Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.05809)]
