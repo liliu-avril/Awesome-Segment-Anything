@@ -273,6 +273,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM:** Kamyar Barakati, Utkarsh Pratiush, Sheryl L. Sanchez, Aditya Raghavan, Delia J. Milliron, Mahshid Ahmadi, Philip D. Rack, Sergei V. Kalinin.<br />
+"SAM*: Task-Adaptive SAM with Physics-Guided Rewards." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.07047)]
+[2025.09]
+
 :boom:Phongsakon Mark Konrad, Andrei-Alexandru Popa, Yaser Sabzehmeidani, Liang Zhong, Elisa A. Liehn, Serkan Ayvaz.<br />
 "Challenges in Deep Learning-Based Small Organ Segmentation: A Benchmarking Perspective for Medical Research with Limited Datasets." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.05892)]
