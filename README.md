@@ -273,6 +273,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SLENet:** Xinxin Huang, Han Sun, Ningzhong Liu, Huiyu Zhou, Yinan Yao.<br />
+"SLENet: A Guidance-Enhanced Network for Underwater Camouflaged Object Detection." PRCV (2025).
+[[paper](https://arxiv.org/abs/2509.03786)]
+[2025.09]
+
 :boom:**CLAPS:** Zhihao Zhao, Yinzheng Zhao, Junjie Yang, Xiangtong Yao, Quanmin Liang, Shahrooz Faghihroohi, Kai Huang, Nassir Navab, M. Ali Nasseri.<br />
 "CLAPS: A CLIP-Unified Auto-Prompt Segmentation for Multi-Modal Retinal Imaging." BIBM (2025).
 [[paper](https://arxiv.org/abs/2509.08618)]
