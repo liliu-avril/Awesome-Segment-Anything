@@ -273,6 +273,78 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**OrthoSAM:** Chan, V., Rheinwalt, A., and Bookhagen, B.<br />
+"OrthoSAM: Multi-Scale Extension of the Segment Anything Model for River Pebble Delineation from Large Orthophotos." EGUsphere (2025).
+[[paper](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4003/)]
+[2025.09]
+
+:boom:**MEPNet:** Jiang, T., Wang, Y., Hou, F. et al.<br />
+"Enhancing video salient object detection via SAM-based multimodal energy prompting." Pattern Anal Applic (2025).
+[[paper](https://link.springer.com/article/10.1007/s10044-025-01531-9)]
+[2025.09]
+
+:boom:**ISA:** Fan Huang, Liming Zheng, Haiying Wen, Min Dai & Zhisheng Zhang.<br />
+"A novel data augmentation method for few-shot industrial surface defect detection based on segment anything model adapter."  J Intell Manuf (2025).
+[[paper](https://doi.org/10.1007/s10845-025-02658-6)]
+[2025.09]
+
+:boom:**Lite ENSAM:** Agnar Martin Bjørnsta, Elias Stenhede, Arian Ranjbar.<br />
+"Lite ENSAM: a lightweight cancer segmentation model for 3D Computed Tomography." MICCAI Workshop (2025).
+[[paper](https://openreview.net/forum?id=Ev0c6zrp9N)]
+[2025.09]
+
+:boom:**EdgeSAM:** Chong Zhou, Xiangtai Li, Chen Change Loy, Bo Dai .<br />
+"EdgeSAM: Prompt-In-the-Loop Distillation for SAM." IJCV (2025).
+[[paper](https://link.springer.com/article/10.1007/s11263-025-02562-9)]
+[[code](https://mmlab-ntu.github.io/project/edgesam/)]
+[2025.09]
+
+:boom:**BiSAM-CD:** Qin, Yuan and Chen, Jinyun and Wang, Chaoting and Pan, Chanling.<br />
+"BiSAM-CD: Zero-Shot Remote Sensing Change Detection via Bidirectional Temporal Memory in SAM2." TGRS (2025).
+[[paper](https://ieeexplore.ieee.org/document/11150452)]
+[[code](https://github.com/KimotaQY/BiSAM-CD)]
+[2025.09]
+
+:boom:**SA4L:** Zhipeng Jiang, Yanlan Wu, Hui Yang.<br />
+"Adapting segment anything model for land cover classification: the SA4L model and its applications in remote sensing." RSTSM (2025).
+[[paper](https://doi.org/10.1117/12.3067773)]
+[2025.09]
+
+:boom:**MBiTGA:** Tang, Ziyi and Luo, Xinyi and Yan, Zijia and Li, Shiyi and Xiao, Sujie and Li, Hao.<br />
+"An Automatic Sample Augmentation Method for Paddy Rice Mapping Based on Segment Anything Model and Phenological Features—A Case Study in Southwest China." JSTARS (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11152514)]
+[2025.09]
+
+:boom:**SAMPLE:** L. Guan, M. Ge and X. Yuan.<br />
+"Enhancing Semi-Supervised Instance Segmentation Through SAM-Driven Pseudo-Label Generation in Autonomous Driving Environment." TITS (2025).
+[[paper](https://ieeexplore.ieee.org/document/11151648)]
+[2025.09]
+
+:boom:**MSCG:** Xinjun Yu and Zhoushan Feng and Xiaohong Wu and Jianqiu Chen and Weidong Chen and Baisheng Li and Huan Kuang.<br />
+"Medical SAM-Clip Grafting for brain tumor segmentation." Computers in Biology and Medicine (2025).
+[[paper](https://doi.org/10.1016/j.compbiomed.2025.110928)]
+[2025.09]
+
+:boom:Tijana Geroski and Amir A Amini.<br />
+"Optimizing Cardiac MR Image Segmentation: Fine-Tuning the Foundational Segment Anything Model (SAM)." ArXiv (2025).
+[[paper](https://archive.ismrm.org/2025/4011_ZTBoZcSMp.html)]
+[2025.09]
+
+:boom: Han, KyeongHwan, JaeHyung Lim, Jin-Soo Ahn, and Ki-Sun Lee.<br />
+"The Evaluation of a Deep Learning Approach to Automatic Segmentation of Teeth and Shade Guides for Tooth Shade Matching Using the SAM2 Algorithm." Bioengineering (2025).
+[[paper](https://www.mdpi.com/2306-5354/12/9/959)]
+[2025.09]
+
+:boom:**EAGT-LG:** Sun, Rui and Xiong, Jiahang and Zhu, Jing and Wang, Xueying and Ma, Xibo.<br />
+"Edge-Attention Guided Tracking Algorithm with Line Graph and SAM Segmentation for Cell Analysis." ArXiv (2025).
+[[paper](https://ssrn.com/abstract=5451561)]
+[2025.09]
+
+:boom:Zeru Cui, Jianfeng Xue, Shengping Wang.<br />
+"Side-scan sonar sea bottom line extraction based on Segment Anything Model 2." CVAR (2025).
+[[paper](https://doi.org/10.1117/12.3077315)]
+[2025.09]
+
 :boom:**PeftCD:** Sijun Dong, Yuxuan Hu, LiBo Wang, Geng Chen, Xiaoliang Meng.<br />
 "PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.09572)]
