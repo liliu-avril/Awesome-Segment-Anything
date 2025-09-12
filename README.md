@@ -273,6 +273,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**PeftCD:** Sijun Dong, Yuxuan Hu, LiBo Wang, Geng Chen, Xiaoliang Meng.<br />
+"PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.09572)]
+[[code](https://github.com/dyzy41/PeftCD)]
+[2025.09]
+
+:boom:**SAMONAI:** Muhammad Alberb, Helen Cheung, Anne Martel.<br />
+"Live(r) Die: Predicting Survival in Colorectal Liver Metastasis." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.08935)]
+[2025.09]
+
 :boom:**SLENet:** Xinxin Huang, Han Sun, Ningzhong Liu, Huiyu Zhou, Yinan Yao.<br />
 "SLENet: A Guidance-Enhanced Network for Underwater Camouflaged Object Detection." PRCV (2025).
 [[paper](https://arxiv.org/abs/2509.03786)]
