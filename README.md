@@ -125,6 +125,12 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2507.22792)]
 [2025.07]
 
+- **WanSAM4RS-Tracker:** Zhipeng Wan and Sheng Wang and Wei Han and Yuewei Wang and Xiaohui Huang and Xiaohan Zhang and Xiaodao Chen and Yunliang Chen.<br />
+"A systematic survey and meta-analysis of the segment anything model in remote sensing image processing: Challenges, advances, applications, and opportunities." ISPRS Journal of Photogrammetry and Remote Sensing (2025).
+[[paper](https://doi.org/10.1016/j.isprsjprs.2025.08.023)]
+[[project](https://github.com/WanZhan-lucky/WanSAM4RS-Tracker)]
+[2025.09]
+
 
 
 ## Paper List
@@ -273,6 +279,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SCOPE:** Akkala, Shruthi and Chawada, Tanisha and Dutta, Saikat and Chaudhuri, Subhasis and Banerjee, Biplab.<br />
+"SCOPE: Segmenting Common Objects with Prompt-conditioned Encoding and SAM Distillation." ArXiv (2025).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5465897)]
+[2025.09]
+
 :boom:**OrthoSAM:** Chan, V., Rheinwalt, A., and Bookhagen, B.<br />
 "OrthoSAM: Multi-Scale Extension of the Segment Anything Model for River Pebble Delineation from Large Orthophotos." EGUsphere (2025).
 [[paper](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4003/)]
@@ -345,65 +356,65 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://doi.org/10.1117/12.3077315)]
 [2025.09]
 
-:boom:**PeftCD:** Sijun Dong, Yuxuan Hu, LiBo Wang, Geng Chen, Xiaoliang Meng.<br />
+- **PeftCD:** Sijun Dong, Yuxuan Hu, LiBo Wang, Geng Chen, Xiaoliang Meng.<br />
 "PeftCD: Leveraging Vision Foundation Models with Parameter-Efficient Fine-Tuning for Remote Sensing Change Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.09572)]
 [[code](https://github.com/dyzy41/PeftCD)]
 [2025.09]
 
-:boom:**SAMONAI:** Muhammad Alberb, Helen Cheung, Anne Martel.<br />
+- **SAMONAI:** Muhammad Alberb, Helen Cheung, Anne Martel.<br />
 "Live(r) Die: Predicting Survival in Colorectal Liver Metastasis." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.08935)]
 [2025.09]
 
-:boom:**SLENet:** Xinxin Huang, Han Sun, Ningzhong Liu, Huiyu Zhou, Yinan Yao.<br />
+- **SLENet:** Xinxin Huang, Han Sun, Ningzhong Liu, Huiyu Zhou, Yinan Yao.<br />
 "SLENet: A Guidance-Enhanced Network for Underwater Camouflaged Object Detection." PRCV (2025).
 [[paper](https://arxiv.org/abs/2509.03786)]
 [2025.09]
 
-:boom:**CLAPS:** Zhihao Zhao, Yinzheng Zhao, Junjie Yang, Xiangtong Yao, Quanmin Liang, Shahrooz Faghihroohi, Kai Huang, Nassir Navab, M. Ali Nasseri.<br />
+- **CLAPS:** Zhihao Zhao, Yinzheng Zhao, Junjie Yang, Xiangtong Yao, Quanmin Liang, Shahrooz Faghihroohi, Kai Huang, Nassir Navab, M. Ali Nasseri.<br />
 "CLAPS: A CLIP-Unified Auto-Prompt Segmentation for Multi-Modal Retinal Imaging." BIBM (2025).
 [[paper](https://arxiv.org/abs/2509.08618)]
 [2025.09]
 
-:boom:**SAM:** Kamyar Barakati, Utkarsh Pratiush, Sheryl L. Sanchez, Aditya Raghavan, Delia J. Milliron, Mahshid Ahmadi, Philip D. Rack, Sergei V. Kalinin.<br />
+- **SAM:** Kamyar Barakati, Utkarsh Pratiush, Sheryl L. Sanchez, Aditya Raghavan, Delia J. Milliron, Mahshid Ahmadi, Philip D. Rack, Sergei V. Kalinin.<br />
 "SAM*: Task-Adaptive SAM with Physics-Guided Rewards." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.07047)]
 [2025.09]
 
-:boom:Phongsakon Mark Konrad, Andrei-Alexandru Popa, Yaser Sabzehmeidani, Liang Zhong, Elisa A. Liehn, Serkan Ayvaz.<br />
+- Phongsakon Mark Konrad, Andrei-Alexandru Popa, Yaser Sabzehmeidani, Liang Zhong, Elisa A. Liehn, Serkan Ayvaz.<br />
 "Challenges in Deep Learning-Based Small Organ Segmentation: A Benchmarking Perspective for Medical Research with Limited Datasets." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.05892)]
 [2025.09]
 
-:boom:**Phantom-Insight:** Hua Zhang, Changjiang Luo, Ruoyu Chen.<br />
+- **Phantom-Insight:** Hua Zhang, Changjiang Luo, Ruoyu Chen.<br />
 "Phantom-Insight: Adaptive Multi-cue Fusion for Video Camouflaged Object Detection with Multimodal LLM." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.06422)]
 [2025.09]
 
-:boom:**P3-SAM:** Changfeng Ma, Yang Li, Xinhao Yan, Jiachen Xu, Yunhan Yang, Chunshi Wang, Zibo Zhao, Yanwen Guo, Zhuo Chen, Chunchao Guo.<br />
+- **P3-SAM:** Changfeng Ma, Yang Li, Xinhao Yan, Jiachen Xu, Yunhan Yang, Chunshi Wang, Zibo Zhao, Yanwen Guo, Zhuo Chen, Chunchao Guo.<br />
 "P3-SAM: Native 3D Part Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.06784)]
 [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 [2025.09]
 
-:boom:**Probabilistic SAM:** Tyler Ward, Abdullah Imran.<br />
+- **Probabilistic SAM:** Tyler Ward, Abdullah Imran.<br />
 "A Probabilistic Segment Anything Model for Ambiguity-Aware Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.05809)]
 [[code](https://github.com/tbwa233/Probabilistic-SAM/)]
 [2025.09]
 
-:boom:**UAT-SAM:** Dharsan Ravindran, Kevin Wang, Zhuoyuan Cao, Saleh Abdelrahman, Jeffery Wu.<br />
+- **UAT-SAM:** Dharsan Ravindran, Kevin Wang, Zhuoyuan Cao, Saleh Abdelrahman, Jeffery Wu.<br />
 "Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.04735)]
 [2025.09]
 
-:boom:Allabadi, G., Lucic, A., Wang, YX. et al.<br />
+- Allabadi, G., Lucic, A., Wang, YX. et al.<br />
 " Learning to Detect Novel Species with SAM in the Wild." IJCV (2025).
 [[paper](https://link.springer.com/article/10.1007/s11263-024-02234-0)]
 [2025.09]
 
-:boom:**SA3D:** Cen, J., Fang, J., Zhou, Z. et al.<br />
+- **SA3D:** Cen, J., Fang, J., Zhou, Z. et al.<br />
 "Segment Anything in 3D with Radiance Fields." IJCV (2025).
 [[paper](https://doi.org/10.1007/s11263-025-02421-7)]
 [[code](https://github.com/Jumpat/SegmentAnythingin3D)]
