@@ -279,6 +279,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM4CellTracking:** Zhu Chen, Mert Edgü, Er Jin, Johannes Stegmaier.<br />
+"Segment Anything for Cell Tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.09943)]
+[[code](https://github.com/zhuchen96/sam4celltracking)]
+[2025.09]
+
+:boom:**MM SAM-adapter:** Iacopo Curti, Pierluigi Zama Ramirez, Alioscia Petrelli, Luigi Di Stefano.<br />
+"Multimodal SAM-adapter for Semantic Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.10408)]
+[[code](https://github.com/iacopo97/Multimodal-SAM-Adapter)]
+[2025.09]
+
 :boom:**SCOPE:** Akkala, Shruthi and Chawada, Tanisha and Dutta, Saikat and Chaudhuri, Subhasis and Banerjee, Biplab.<br />
 "SCOPE: Segmenting Common Objects with Prompt-conditioned Encoding and SAM Distillation." ArXiv (2025).
 [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5465897)]
