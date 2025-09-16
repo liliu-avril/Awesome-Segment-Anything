@@ -279,6 +279,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM-TTT:** Zhenni Yu, Li Zhao, Guobao Xiao, Xiaoqin Zhang.<br />
+"SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection." ACM MM (2025).
+[[paper](https://arxiv.org/abs/2509.11884)]
+[[code](https://github.com/guobaoxiao/SAM-TTT)]
+[2025.09]
+
+:boom:**FS-SAM2:** Bernardo Forni, Gabriele Lombardi, Federico Pozzi, Mirco Planamente.<br />
+"FS-SAM2: Adapting Segment Anything Model 2 for Few-Shot Semantic Segmentation via Low-Rank Adaptation." ICIAP (2025).
+[[paper](https://arxiv.org/abs/2509.12105)]
+[[code](https://github.com/fornib/FS-SAM2)]
+[2025.09]
+
+:boom:**EMeRALDS:** Hafza Eman, Furqan Shaukat, Muhammad Hamza Zafar, Syed Muhammad Anwar.<br />
+"EMeRALDS: Electronic Medical Record Driven Automated Lung Nodule Detection and Classification in Thoracic CT Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.11714)]
+[2025.09]
+
+:boom:**Organoid Tracker:** Xiaoyu Huang, Lauren M Maxson, Trang Nguyen, Cheng Jack Song, Yuankai Huo.<br />
+"Organoid Tracker: A SAM2-Powered Platform for Zero-shot Cyst Analysis in Human Kidney Organoid Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.11063)]
+[[code](https://github.com/hrlblab/OrganoidTracker)]
+[2025.09]
+
 :boom:**SAM4CellTracking:** Zhu Chen, Mert Edgü, Er Jin, Johannes Stegmaier.<br />
 "Segment Anything for Cell Tracking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.09943)]
