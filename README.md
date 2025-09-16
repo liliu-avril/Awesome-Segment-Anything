@@ -279,6 +279,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Seg2Track-SAM2:** Diogo Mendonça, Tiago Barros, Cristiano Premebida, Urbano J. Nunes.<br />
+"Seg2Track-SAM2: SAM2-based Multi-object Tracking and Segmentation for Zero-shot Generalization." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.11772)]
+[[code](https://github.com/hcmr-lab/Seg2Track-SAM2)]
+[2025.09]
+
+:boom:**IMD:** Ruimin Ma, Sebastian Zudaire, Zhen Li, Chi Zhang.<br />
+"IMD: A 6-DoF Pose Estimation Benchmark for Industrial Metallic Objects." RCAE (2025).
+[[paper](https://arxiv.org/abs/2509.11680)]
+[2025.09]
+
+:boom:**MAE-SAM2:** Xin Xing, Irmak Karaca, Samira Badrloo, Quan Dong Nguyen, Mahadevan Subramaniam.<br />
+"MAE-SAM2: Mask Autoencoder-Enhanced SAM2 for Clinical Retinal Vascular Leakage Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.10554)]
+[2025.09]
+
+:boom:**ViSTR-GP:** Navid Aftabi, Philip Samaha, Jin Ma, Long Cheng, Ramy Harik, Dan Li.<br />
+"ViSTR-GP: Online Cyberattack Detection via Vision-to-State Tensor Regression and Gaussian Processes in Automated Robotic Operations." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.10948)]
+[2025.09]
+
 :boom:**SAM-TTT:** Zhenni Yu, Li Zhao, Guobao Xiao, Xiaoqin Zhang.<br />
 "SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection." ACM MM (2025).
 [[paper](https://arxiv.org/abs/2509.11884)]
