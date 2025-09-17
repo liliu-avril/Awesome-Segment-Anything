@@ -279,6 +279,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**ReCOT:** Xiaohan Zhang, Si-Yuan Cao, Xiaokai Bai, Yiming Li, Zhangkai Shen, Zhe Wu, Xiaoxi Hu, Hui-liang Shen.<br />
+"Recurrent Cross-View Object Geo-Localization." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.12757)]
+[2025.09]
+
+:boom:**SPAM:** Julien Walther, Rémi Giraud, Michaël Clément.<br />
+"Superpixel Anything: A general object-based framework for accurate yet regular superpixel segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.12791)]
+[[code](https://github.com/waldo-j/spam)]
+[2025.09]
+
 :boom:**Seg2Track-SAM2:** Diogo Mendonça, Tiago Barros, Cristiano Premebida, Urbano J. Nunes.<br />
 "Seg2Track-SAM2: SAM2-based Multi-object Tracking and Segmentation for Zero-shot Generalization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.11772)]
