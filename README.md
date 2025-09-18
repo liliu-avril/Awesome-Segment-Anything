@@ -279,6 +279,21 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Jeongwoo Park, Seabin Lee, Changmin Park, Wonjong Lee, Changjoo Nam.<br />
+"Reinforcement Learning for Robotic Insertion of Flexible Cables in Industrial Settings." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.13731)]
+[2025.09]
+
+:boom:**SVP:** Xiaobo Yang, Xiaojin Gong.<br />
+"Re-purposing SAM into Efficient Visual Projectors for MLLM-Based Referring Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.13676)]
+[2025.09]
+
+:boom:**SAMIR:** Yue He, Min Liu, Qinghao Liu, Jiazheng Wang, Yaonan Wang, Hang Zhang, Xiang Chen.<br />
+"SAMIR, an efficient registration framework via robust feature learning from SAM." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.13629)]
+[2025.09]
+
 :boom:**ReCOT:** Xiaohan Zhang, Si-Yuan Cao, Xiaokai Bai, Yiming Li, Zhangkai Shen, Zhe Wu, Xiaoxi Hu, Hui-liang Shen.<br />
 "Recurrent Cross-View Object Geo-Localization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.12757)]
