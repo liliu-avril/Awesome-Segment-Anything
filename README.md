@@ -279,6 +279,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM4SAM:** Jovana Videnovic, Matej Kristan, Alan Lukezic.<br />
+"Distractor-Aware Memory-Based Visual Object Tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.13864)]
+[[code](https://github.com/jovanavidenovic/DAM4SAM)]
+[2025.09]
+
 :boom:Jeongwoo Park, Seabin Lee, Changmin Park, Wonjong Lee, Changjoo Nam.<br />
 "Reinforcement Learning for Robotic Insertion of Flexible Cables in Industrial Settings." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.13731)]
