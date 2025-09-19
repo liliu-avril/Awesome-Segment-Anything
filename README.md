@@ -279,6 +279,31 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Ramón A. Mollineda and Karel Becerra and Boris Mederos.<br />
+"Sex classification from hand X-ray images in pediatric patients: How zero-shot Segment Anything Model (SAM) can improve medical image analysis." Computers in Biology and Medicine (2025).
+[[paper](https://doi.org/10.1016/j.compbiomed.2025.111060)]
+[2025.09]
+
+:boom:**SAM2MS:** Zhang, Pengnian, Junxiang Li, Chenggang Wang, and Yifeng Niu.<br />
+"SAM2MS: An Efficient Framework for HRSI Road Extraction Powered by SAM2." Remote Sensing (2025).
+[[paper](https://doi.org/10.3390/rs17183181)]
+[2025.09]
+
+:boom:**BenchPRISM:** Chengze Li et al.<br />
+"BenchPRISM: Benchmarking Physical Relationship Understanding In Segmentation Models." ArXiv (2025).
+[[paper](https://cs231n.stanford.edu/papers/text_file_840578959-CS231N_Final_Project_Report.pdf)]
+[2025.09]
+
+:boom: Komei Ryu et al.<br />
+"Enhancing Segment Anything Model (SAM) for Brain Tumor Image Segmentation." ArXiv (2025).
+[[paper](https://cs231n.stanford.edu/papers/text_file_840592918-Final%20Report%20Submission.pdf)]
+[2025.09]
+
+:boom:**YOLOSAM:** Yu, R., Chen, W., Fan, J. et al.<br />
+"YOLOSAM: A unified and efficient anomaly detection model based on auto mask prompt." Signal, Image and Video Processing (2025).
+[[paper](https://link.springer.com/article/10.1007/s11760-025-04636-0)]
+[2025.09]
+
 :boom:An Yan, Leilei Cao, Feng Lu, Ran Hong, Youhai Jiang, Fengjie Zhu.<br />
 "Pseudo-Label Enhanced Cascaded Framework: 2nd Technical Report for LSVOS 2025 VOS Track." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.14901)]
@@ -367,7 +392,7 @@ If you find our work useful in your research, please consider citing:
 [2025.09]
 
 :boom:**MM SAM-adapter:** Iacopo Curti, Pierluigi Zama Ramirez, Alioscia Petrelli, Luigi Di Stefano.<br />
-"Multimodal SAM-adapter for Semantic Segmentation." ArXiv (2025).
+"Multimodal SAM-adapter for Semantic Segmentation." IEEE Access (2025).
 [[paper](https://arxiv.org/abs/2509.10408)]
 [[code](https://github.com/iacopo97/Multimodal-SAM-Adapter)]
 [2025.09]
@@ -434,7 +459,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://archive.ismrm.org/2025/4011_ZTBoZcSMp.html)]
 [2025.09]
 
-:boom: Han, KyeongHwan, JaeHyung Lim, Jin-Soo Ahn, and Ki-Sun Lee.<br />
+:boom:Han, KyeongHwan, JaeHyung Lim, Jin-Soo Ahn, and Ki-Sun Lee.<br />
 "The Evaluation of a Deep Learning Approach to Automatic Segmentation of Teeth and Shade Guides for Tooth Shade Matching Using the SAM2 Algorithm." Bioengineering (2025).
 [[paper](https://www.mdpi.com/2306-5354/12/9/959)]
 [2025.09]
