@@ -279,6 +279,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:An Yan, Leilei Cao, Feng Lu, Ran Hong, Youhai Jiang, Fengjie Zhu.<br />
+"Pseudo-Label Enhanced Cascaded Framework: 2nd Technical Report for LSVOS 2025 VOS Track." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.14901)]
+[2025.09]
+
 :boom:**SAM4SAM:** Jovana Videnovic, Matej Kristan, Alan Lukezic.<br />
 "Distractor-Aware Memory-Based Visual Object Tracking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.13864)]
