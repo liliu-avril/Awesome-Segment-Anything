@@ -279,6 +279,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**DUR-Net+:** Qin, Chuanbo and Chen, Zhuyuan and Wang, Dong and Zheng, Bin and Luo, Jun and Zeng, Junying and Jia, Xudong and Wen, Jin and Hu, Maoqing and Zhai, Yikui and Coscia, Pasquale and Genovese, Angelo.<br />
+"DUR-Net+: Semi-Supervised Abdominal CT Pheochromocytoma Segmentation Via Dynamic Uncertainty Rectified and Prior Knowledge From SAM-Med3D." JBHI (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11162509)]
+[2025.09]
+
 :boom:Ramón A. Mollineda and Karel Becerra and Boris Mederos.<br />
 "Sex classification from hand X-ray images in pediatric patients: How zero-shot Segment Anything Model (SAM) can improve medical image analysis." Computers in Biology and Medicine (2025).
 [[paper](https://doi.org/10.1016/j.compbiomed.2025.111060)]
