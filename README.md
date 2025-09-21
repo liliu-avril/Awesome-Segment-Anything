@@ -3326,7 +3326,7 @@ Observation and Geoinformation (2025).
 [2025.03]
 
 - **CamSAM2:** Yuli Zhou, Guolei Sun, Yawei Li, Yuqian Fu, Luca Benini, Ender Konukoglu.<br />
-"CamSAM2: Segment Anything Accurately in Camouflaged Videos." ArXiv (2025).
+"CamSAM2: Segment Anything Accurately in Camouflaged Videos." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2503.19730)]
 [[code](https://github.com/zhoustan/CamSAM2)]
 [2025.03]
