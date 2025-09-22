@@ -278,8 +278,19 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**RangeSAM:** Paul Julius Kühn, Duc Anh Nguyen, Arjan Kuijper, Holger Graf, Dieter Fellner, Saptarshi Neil Sinha.<br />
+"RangeSAM: Leveraging Visual Foundation Models for Range-View repesented LiDAR segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.15886)]
+[2025.09]
+
+:boom:**SCOPE:** Chang Soo Lim, Joonyoung Moon, Donghyeon Cho.<br />
+"Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution." ICCVW (2025).
+[[paper](https://arxiv.org/abs/2509.15781)]
+[[code](https://github.com/2025-LSVOS-3rd-place/MOSEv2_3rd_place)]
+[2025.09]
+
 :boom:Ran Hong, Feng Lu, Leilei Cao, An Yan, Youhai Jiang, Fengjie Zhu.<br />
-"Enhancing Sa2VA for Referent Video Object Segmentation: 2nd Solution for 7th LSVOS RVOS Track." ArXiv (2025).
+"Enhancing Sa2VA for Referent Video Object Segmentation: 2nd Solution for 7th LSVOS RVOS Track." ICCVW (2025).
 [[paper](https://arxiv.org/abs/2509.15546)]
 [2025.09]
 
