@@ -132,7 +132,6 @@ If you find our work useful in your research, please consider citing:
 [2025.09]
 
 
-
 ## Paper List
 ### Seminal Papers
 - **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
@@ -279,6 +278,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Ran Hong, Feng Lu, Leilei Cao, An Yan, Youhai Jiang, Fengjie Zhu.<br />
+"Enhancing Sa2VA for Referent Video Object Segmentation: 2nd Solution for 7th LSVOS RVOS Track." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.15546)]
+[2025.09]
+
 :boom:**ENSAM:** Elias Stenhede, Agnar Martin Bjørnstad, Arian Ranjbar.<br />
 "ENSAM: an efficient foundation model for interactive segmentation of 3D medical images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.15874)]
