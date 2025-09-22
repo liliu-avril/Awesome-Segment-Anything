@@ -279,107 +279,133 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**DUR-Net+:** Qin, Chuanbo and Chen, Zhuyuan and Wang, Dong and Zheng, Bin and Luo, Jun and Zeng, Junying and Jia, Xudong and Wen, Jin and Hu, Maoqing and Zhai, Yikui and Coscia, Pasquale and Genovese, Angelo.<br />
+:boom:**ENSAM:** Elias Stenhede, Agnar Martin Bjørnstad, Arian Ranjbar.<br />
+"ENSAM: an efficient foundation model for interactive segmentation of 3D medical images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.15874)]
+[2025.09]
+
+:boom:**TASAM:** Tianyang Wang, Xi Xiao, Gaofei Chen, Hanzhang Chi, Qi Zhang, Guo Cheng, Yingrui Ji.<br />
+"TASAM: Terrain-and-Aware Segment Anything Model for Temporal-Scale Remote Sensing Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.15795)]
+[2025.09]
+
+:boom:**FloorSAM:** Han Ye, Haofu Wang, Yunchi Zhang, Jiangjian Xiao, Yuqiang Jin, Jinyuan Liu, Wen-An Zhang, Uladzislau Sychou, Alexander Tuzikov, Vladislav Sobolevskii, Valerii Zakharov, Boris Sokolov, Minglei Fu.<br />
+"FloorSAM: SAM-Guided Floorplan Reconstruction with Semantic-Geometric Fusion." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.15750)]
+[[code](https://github.com/Silentbarber/FloorSAM)]
+[2025.09]
+
+:boom:**pFedSAM:** Tong Wang, Xingyue Zhao, Linghao Zhuang, Haoyu Zhao, Jiayi Yin, Yuyang He, Gang Yu, Bo Lin.<br />
+"pFedSAM: Personalized Federated Learning of Segment Anything Model for Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.15638)]
+[2025.09]
+
+:boom:**ORB:** Jinkai Qiu, Yungjun Kim, Gaurav Sethia, Tanmay Agarwal, Siddharth Ghodasara, Zackory Erickson, Jeffrey Ichnowski.<br />
+"ORB: Operating Room Bot, Automating Operating Room Logistics through Mobile Manipulation."  IEEE CASE (2025).
+[[paper](https://arxiv.org/abs/2509.15600)]
+[2025.09]
+
+- **DUR-Net+:** Qin, Chuanbo and Chen, Zhuyuan and Wang, Dong and Zheng, Bin and Luo, Jun and Zeng, Junying and Jia, Xudong and Wen, Jin and Hu, Maoqing and Zhai, Yikui and Coscia, Pasquale and Genovese, Angelo.<br />
 "DUR-Net+: Semi-Supervised Abdominal CT Pheochromocytoma Segmentation Via Dynamic Uncertainty Rectified and Prior Knowledge From SAM-Med3D." JBHI (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11162509)]
 [2025.09]
 
-:boom:Ramón A. Mollineda and Karel Becerra and Boris Mederos.<br />
+- Ramón A. Mollineda and Karel Becerra and Boris Mederos.<br />
 "Sex classification from hand X-ray images in pediatric patients: How zero-shot Segment Anything Model (SAM) can improve medical image analysis." Computers in Biology and Medicine (2025).
 [[paper](https://doi.org/10.1016/j.compbiomed.2025.111060)]
 [2025.09]
 
-:boom:**SAM2MS:** Zhang, Pengnian, Junxiang Li, Chenggang Wang, and Yifeng Niu.<br />
+- **SAM2MS:** Zhang, Pengnian, Junxiang Li, Chenggang Wang, and Yifeng Niu.<br />
 "SAM2MS: An Efficient Framework for HRSI Road Extraction Powered by SAM2." Remote Sensing (2025).
 [[paper](https://doi.org/10.3390/rs17183181)]
 [2025.09]
 
-:boom:**BenchPRISM:** Chengze Li et al.<br />
+- **BenchPRISM:** Chengze Li et al.<br />
 "BenchPRISM: Benchmarking Physical Relationship Understanding In Segmentation Models." ArXiv (2025).
 [[paper](https://cs231n.stanford.edu/papers/text_file_840578959-CS231N_Final_Project_Report.pdf)]
 [2025.09]
 
-:boom: Komei Ryu et al.<br />
+- Komei Ryu et al.<br />
 "Enhancing Segment Anything Model (SAM) for Brain Tumor Image Segmentation." ArXiv (2025).
 [[paper](https://cs231n.stanford.edu/papers/text_file_840592918-Final%20Report%20Submission.pdf)]
 [2025.09]
 
-:boom:**YOLOSAM:** Yu, R., Chen, W., Fan, J. et al.<br />
+- **YOLOSAM:** Yu, R., Chen, W., Fan, J. et al.<br />
 "YOLOSAM: A unified and efficient anomaly detection model based on auto mask prompt." Signal, Image and Video Processing (2025).
 [[paper](https://link.springer.com/article/10.1007/s11760-025-04636-0)]
 [2025.09]
 
-:boom:An Yan, Leilei Cao, Feng Lu, Ran Hong, Youhai Jiang, Fengjie Zhu.<br />
+- An Yan, Leilei Cao, Feng Lu, Ran Hong, Youhai Jiang, Fengjie Zhu.<br />
 "Pseudo-Label Enhanced Cascaded Framework: 2nd Technical Report for LSVOS 2025 VOS Track." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.14901)]
 [2025.09]
 
-:boom:**SAM4SAM:** Jovana Videnovic, Matej Kristan, Alan Lukezic.<br />
+- **SAM4SAM:** Jovana Videnovic, Matej Kristan, Alan Lukezic.<br />
 "Distractor-Aware Memory-Based Visual Object Tracking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.13864)]
 [[code](https://github.com/jovanavidenovic/DAM4SAM)]
 [2025.09]
 
-:boom:Jeongwoo Park, Seabin Lee, Changmin Park, Wonjong Lee, Changjoo Nam.<br />
+- Jeongwoo Park, Seabin Lee, Changmin Park, Wonjong Lee, Changjoo Nam.<br />
 "Reinforcement Learning for Robotic Insertion of Flexible Cables in Industrial Settings." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.13731)]
 [2025.09]
 
-:boom:**SVP:** Xiaobo Yang, Xiaojin Gong.<br />
+- **SVP:** Xiaobo Yang, Xiaojin Gong.<br />
 "Re-purposing SAM into Efficient Visual Projectors for MLLM-Based Referring Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.13676)]
 [2025.09]
 
-:boom:**SAMIR:** Yue He, Min Liu, Qinghao Liu, Jiazheng Wang, Yaonan Wang, Hang Zhang, Xiang Chen.<br />
+- **SAMIR:** Yue He, Min Liu, Qinghao Liu, Jiazheng Wang, Yaonan Wang, Hang Zhang, Xiang Chen.<br />
 "SAMIR, an efficient registration framework via robust feature learning from SAM." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.13629)]
 [2025.09]
 
-:boom:**ReCOT:** Xiaohan Zhang, Si-Yuan Cao, Xiaokai Bai, Yiming Li, Zhangkai Shen, Zhe Wu, Xiaoxi Hu, Hui-liang Shen.<br />
+- **ReCOT:** Xiaohan Zhang, Si-Yuan Cao, Xiaokai Bai, Yiming Li, Zhangkai Shen, Zhe Wu, Xiaoxi Hu, Hui-liang Shen.<br />
 "Recurrent Cross-View Object Geo-Localization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.12757)]
 [2025.09]
 
-:boom:**SPAM:** Julien Walther, Rémi Giraud, Michaël Clément.<br />
+- **SPAM:** Julien Walther, Rémi Giraud, Michaël Clément.<br />
 "Superpixel Anything: A general object-based framework for accurate yet regular superpixel segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.12791)]
 [[code](https://github.com/waldo-j/spam)]
 [2025.09]
 
-:boom:**Seg2Track-SAM2:** Diogo Mendonça, Tiago Barros, Cristiano Premebida, Urbano J. Nunes.<br />
+- **Seg2Track-SAM2:** Diogo Mendonça, Tiago Barros, Cristiano Premebida, Urbano J. Nunes.<br />
 "Seg2Track-SAM2: SAM2-based Multi-object Tracking and Segmentation for Zero-shot Generalization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.11772)]
 [[code](https://github.com/hcmr-lab/Seg2Track-SAM2)]
 [2025.09]
 
-:boom:**IMD:** Ruimin Ma, Sebastian Zudaire, Zhen Li, Chi Zhang.<br />
+- **IMD:** Ruimin Ma, Sebastian Zudaire, Zhen Li, Chi Zhang.<br />
 "IMD: A 6-DoF Pose Estimation Benchmark for Industrial Metallic Objects." RCAE (2025).
 [[paper](https://arxiv.org/abs/2509.11680)]
 [2025.09]
 
-:boom:**MAE-SAM2:** Xin Xing, Irmak Karaca, Samira Badrloo, Quan Dong Nguyen, Mahadevan Subramaniam.<br />
+- **MAE-SAM2:** Xin Xing, Irmak Karaca, Samira Badrloo, Quan Dong Nguyen, Mahadevan Subramaniam.<br />
 "MAE-SAM2: Mask Autoencoder-Enhanced SAM2 for Clinical Retinal Vascular Leakage Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.10554)]
 [2025.09]
 
-:boom:**ViSTR-GP:** Navid Aftabi, Philip Samaha, Jin Ma, Long Cheng, Ramy Harik, Dan Li.<br />
+- **ViSTR-GP:** Navid Aftabi, Philip Samaha, Jin Ma, Long Cheng, Ramy Harik, Dan Li.<br />
 "ViSTR-GP: Online Cyberattack Detection via Vision-to-State Tensor Regression and Gaussian Processes in Automated Robotic Operations." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.10948)]
 [2025.09]
 
-:boom:**SAM-TTT:** Zhenni Yu, Li Zhao, Guobao Xiao, Xiaoqin Zhang.<br />
+- **SAM-TTT:** Zhenni Yu, Li Zhao, Guobao Xiao, Xiaoqin Zhang.<br />
 "SAM-TTT: Segment Anything Model via Reverse Parameter Configuration and Test-Time Training for Camouflaged Object Detection." ACM MM (2025).
 [[paper](https://arxiv.org/abs/2509.11884)]
 [[code](https://github.com/guobaoxiao/SAM-TTT)]
 [2025.09]
 
-:boom:**FS-SAM2:** Bernardo Forni, Gabriele Lombardi, Federico Pozzi, Mirco Planamente.<br />
+- **FS-SAM2:** Bernardo Forni, Gabriele Lombardi, Federico Pozzi, Mirco Planamente.<br />
 "FS-SAM2: Adapting Segment Anything Model 2 for Few-Shot Semantic Segmentation via Low-Rank Adaptation." ICIAP (2025).
 [[paper](https://arxiv.org/abs/2509.12105)]
 [[code](https://github.com/fornib/FS-SAM2)]
 [2025.09]
 
-:boom:**EMeRALDS:** Hafza Eman, Furqan Shaukat, Muhammad Hamza Zafar, Syed Muhammad Anwar.<br />
+- **EMeRALDS:** Hafza Eman, Furqan Shaukat, Muhammad Hamza Zafar, Syed Muhammad Anwar.<br />
 "EMeRALDS: Electronic Medical Record Driven Automated Lung Nodule Detection and Classification in Thoracic CT Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.11714)]
 [2025.09]
@@ -390,91 +416,91 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/hrlblab/OrganoidTracker)]
 [2025.09]
 
-:boom:**SAM4CellTracking:** Zhu Chen, Mert Edgü, Er Jin, Johannes Stegmaier.<br />
+- **SAM4CellTracking:** Zhu Chen, Mert Edgü, Er Jin, Johannes Stegmaier.<br />
 "Segment Anything for Cell Tracking." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.09943)]
 [[code](https://github.com/zhuchen96/sam4celltracking)]
 [2025.09]
 
-:boom:**MM SAM-adapter:** Iacopo Curti, Pierluigi Zama Ramirez, Alioscia Petrelli, Luigi Di Stefano.<br />
+- **MM SAM-adapter:** Iacopo Curti, Pierluigi Zama Ramirez, Alioscia Petrelli, Luigi Di Stefano.<br />
 "Multimodal SAM-adapter for Semantic Segmentation." IEEE Access (2025).
 [[paper](https://arxiv.org/abs/2509.10408)]
 [[code](https://github.com/iacopo97/Multimodal-SAM-Adapter)]
 [2025.09]
 
-:boom:**SCOPE:** Akkala, Shruthi and Chawada, Tanisha and Dutta, Saikat and Chaudhuri, Subhasis and Banerjee, Biplab.<br />
+- **SCOPE:** Akkala, Shruthi and Chawada, Tanisha and Dutta, Saikat and Chaudhuri, Subhasis and Banerjee, Biplab.<br />
 "SCOPE: Segmenting Common Objects with Prompt-conditioned Encoding and SAM Distillation." ArXiv (2025).
 [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5465897)]
 [2025.09]
 
-:boom:**OrthoSAM:** Chan, V., Rheinwalt, A., and Bookhagen, B.<br />
+- **OrthoSAM:** Chan, V., Rheinwalt, A., and Bookhagen, B.<br />
 "OrthoSAM: Multi-Scale Extension of the Segment Anything Model for River Pebble Delineation from Large Orthophotos." EGUsphere (2025).
 [[paper](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4003/)]
 [2025.09]
 
-:boom:**MEPNet:** Jiang, T., Wang, Y., Hou, F. et al.<br />
+- **MEPNet:** Jiang, T., Wang, Y., Hou, F. et al.<br />
 "Enhancing video salient object detection via SAM-based multimodal energy prompting." Pattern Anal Applic (2025).
 [[paper](https://link.springer.com/article/10.1007/s10044-025-01531-9)]
 [2025.09]
 
-:boom:**ISA:** Fan Huang, Liming Zheng, Haiying Wen, Min Dai & Zhisheng Zhang.<br />
+- **ISA:** Fan Huang, Liming Zheng, Haiying Wen, Min Dai & Zhisheng Zhang.<br />
 "A novel data augmentation method for few-shot industrial surface defect detection based on segment anything model adapter."  J Intell Manuf (2025).
 [[paper](https://doi.org/10.1007/s10845-025-02658-6)]
 [2025.09]
 
-:boom:**Lite ENSAM:** Agnar Martin Bjørnsta, Elias Stenhede, Arian Ranjbar.<br />
+- **Lite ENSAM:** Agnar Martin Bjørnsta, Elias Stenhede, Arian Ranjbar.<br />
 "Lite ENSAM: a lightweight cancer segmentation model for 3D Computed Tomography." MICCAI Workshop (2025).
 [[paper](https://openreview.net/forum?id=Ev0c6zrp9N)]
 [2025.09]
 
-:boom:**EdgeSAM:** Chong Zhou, Xiangtai Li, Chen Change Loy, Bo Dai .<br />
+- **EdgeSAM:** Chong Zhou, Xiangtai Li, Chen Change Loy, Bo Dai .<br />
 "EdgeSAM: Prompt-In-the-Loop Distillation for SAM." IJCV (2025).
 [[paper](https://link.springer.com/article/10.1007/s11263-025-02562-9)]
 [[code](https://mmlab-ntu.github.io/project/edgesam/)]
 [2025.09]
 
-:boom:**BiSAM-CD:** Qin, Yuan and Chen, Jinyun and Wang, Chaoting and Pan, Chanling.<br />
+- **BiSAM-CD:** Qin, Yuan and Chen, Jinyun and Wang, Chaoting and Pan, Chanling.<br />
 "BiSAM-CD: Zero-Shot Remote Sensing Change Detection via Bidirectional Temporal Memory in SAM2." TGRS (2025).
 [[paper](https://ieeexplore.ieee.org/document/11150452)]
 [[code](https://github.com/KimotaQY/BiSAM-CD)]
 [2025.09]
 
-:boom:**SA4L:** Zhipeng Jiang, Yanlan Wu, Hui Yang.<br />
+- **SA4L:** Zhipeng Jiang, Yanlan Wu, Hui Yang.<br />
 "Adapting segment anything model for land cover classification: the SA4L model and its applications in remote sensing." RSTSM (2025).
 [[paper](https://doi.org/10.1117/12.3067773)]
 [2025.09]
 
-:boom:**MBiTGA:** Tang, Ziyi and Luo, Xinyi and Yan, Zijia and Li, Shiyi and Xiao, Sujie and Li, Hao.<br />
+- **MBiTGA:** Tang, Ziyi and Luo, Xinyi and Yan, Zijia and Li, Shiyi and Xiao, Sujie and Li, Hao.<br />
 "An Automatic Sample Augmentation Method for Paddy Rice Mapping Based on Segment Anything Model and Phenological Features—A Case Study in Southwest China." JSTARS (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11152514)]
 [2025.09]
 
-:boom:**SAMPLE:** L. Guan, M. Ge and X. Yuan.<br />
+- **SAMPLE:** L. Guan, M. Ge and X. Yuan.<br />
 "Enhancing Semi-Supervised Instance Segmentation Through SAM-Driven Pseudo-Label Generation in Autonomous Driving Environment." TITS (2025).
 [[paper](https://ieeexplore.ieee.org/document/11151648)]
 [2025.09]
 
-:boom:**MSCG:** Xinjun Yu and Zhoushan Feng and Xiaohong Wu and Jianqiu Chen and Weidong Chen and Baisheng Li and Huan Kuang.<br />
+- **MSCG:** Xinjun Yu and Zhoushan Feng and Xiaohong Wu and Jianqiu Chen and Weidong Chen and Baisheng Li and Huan Kuang.<br />
 "Medical SAM-Clip Grafting for brain tumor segmentation." Computers in Biology and Medicine (2025).
 [[paper](https://doi.org/10.1016/j.compbiomed.2025.110928)]
 [2025.09]
 
-:boom:Tijana Geroski and Amir A Amini.<br />
+- Tijana Geroski and Amir A Amini.<br />
 "Optimizing Cardiac MR Image Segmentation: Fine-Tuning the Foundational Segment Anything Model (SAM)." ArXiv (2025).
 [[paper](https://archive.ismrm.org/2025/4011_ZTBoZcSMp.html)]
 [2025.09]
 
-:boom:Han, KyeongHwan, JaeHyung Lim, Jin-Soo Ahn, and Ki-Sun Lee.<br />
+- Han, KyeongHwan, JaeHyung Lim, Jin-Soo Ahn, and Ki-Sun Lee.<br />
 "The Evaluation of a Deep Learning Approach to Automatic Segmentation of Teeth and Shade Guides for Tooth Shade Matching Using the SAM2 Algorithm." Bioengineering (2025).
 [[paper](https://www.mdpi.com/2306-5354/12/9/959)]
 [2025.09]
 
-:boom:**EAGT-LG:** Sun, Rui and Xiong, Jiahang and Zhu, Jing and Wang, Xueying and Ma, Xibo.<br />
+- **EAGT-LG:** Sun, Rui and Xiong, Jiahang and Zhu, Jing and Wang, Xueying and Ma, Xibo.<br />
 "Edge-Attention Guided Tracking Algorithm with Line Graph and SAM Segmentation for Cell Analysis." ArXiv (2025).
 [[paper](https://ssrn.com/abstract=5451561)]
 [2025.09]
 
-:boom:Zeru Cui, Jianfeng Xue, Shengping Wang.<br />
+- Zeru Cui, Jianfeng Xue, Shengping Wang.<br />
 "Side-scan sonar sea bottom line extraction based on Segment Anything Model 2." CVAR (2025).
 [[paper](https://doi.org/10.1117/12.3077315)]
 [2025.09]
