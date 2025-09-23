@@ -278,14 +278,31 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**SimToken:** Dian Jin, Yanghao Zhou, Jinxing Zhou, Jiaqi Ma, Ruohao Guo, Dan Guo.<br />
-"SimToken: A Simple Baseline for Referring Audio-Visual Segmentation." ArXiv (2025).
-[[paper](https://arxiv.org/abs/2509.17537)]
+:boom:**SaSaSa2VA:** Quanzhu Niu, Dengxian Gong, Shihao Chen, Tao Zhang, Yikang Zhou, Haobo Yuan, Lu Qi, Xiangtai Li, Shunping Ji.<br />
+"The 1st Solution for 7th LSVOS RVOS Track: SaSaSa2VA." ICCVW (2025).
+[[paper](https://arxiv.org/abs/2509.16972)]
+[[code](https://github.com/magic-research/Sa2VA)]
+[2025.09]
+
+:boom:Ran Hong, Feng Lu, Leilei Cao, An Yan, Youhai Jiang, Fengjie Zhu.<br />
+"Enhancing Sa2VA for Referent Video Object Segmentation: 2nd Solution for 7th LSVOS RVOS Track." ICCVW (2025).
+[[paper](https://arxiv.org/abs/2509.15546)]
+[2025.09]
+
+:boom:**SCOPE:** Chang Soo Lim, Joonyoung Moon, Donghyeon Cho.<br />
+"Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution." ICCVW (2025).
+[[paper](https://arxiv.org/abs/2509.15781)]
+[[code](https://github.com/2025-LSVOS-3rd-place/MOSEv2_3rd_place)]
 [2025.09]
 
 :boom:**SAMSON:** Yujie Xie, Hongyang Zhang, Zhihui Liu, Shihai Ruan.<br />
 "SAMSON: 3rd Place Solution of LSVOS 2025 VOS Challenge." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.17500)]
+[2025.09]
+
+:boom:**SimToken:** Dian Jin, Yanghao Zhou, Jinxing Zhou, Jiaqi Ma, Ruohao Guo, Dan Guo.<br />
+"SimToken: A Simple Baseline for Referring Audio-Visual Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.17537)]
 [2025.09]
 
 :boom:**FTP4RM:** Yongliang Wang, Hamidreza Kasaei.<br />
@@ -308,17 +325,6 @@ If you find our work useful in your research, please consider citing:
 :boom:**RangeSAM:** Paul Julius Kühn, Duc Anh Nguyen, Arjan Kuijper, Holger Graf, Dieter Fellner, Saptarshi Neil Sinha.<br />
 "RangeSAM: Leveraging Visual Foundation Models for Range-View repesented LiDAR segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.15886)]
-[2025.09]
-
-:boom:**SCOPE:** Chang Soo Lim, Joonyoung Moon, Donghyeon Cho.<br />
-"Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution." ICCVW (2025).
-[[paper](https://arxiv.org/abs/2509.15781)]
-[[code](https://github.com/2025-LSVOS-3rd-place/MOSEv2_3rd_place)]
-[2025.09]
-
-:boom:Ran Hong, Feng Lu, Leilei Cao, An Yan, Youhai Jiang, Fengjie Zhu.<br />
-"Enhancing Sa2VA for Referent Video Object Segmentation: 2nd Solution for 7th LSVOS RVOS Track." ICCVW (2025).
-[[paper](https://arxiv.org/abs/2509.15546)]
 [2025.09]
 
 :boom:**ENSAM:** Elias Stenhede, Agnar Martin Bjørnstad, Arian Ranjbar.<br />
