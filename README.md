@@ -278,6 +278,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SimToken:** Dian Jin, Yanghao Zhou, Jinxing Zhou, Jiaqi Ma, Ruohao Guo, Dan Guo.<br />
+"SimToken: A Simple Baseline for Referring Audio-Visual Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.17537)]
+[2025.09]
+
+:boom:**SAMSON:** Yujie Xie, Hongyang Zhang, Zhihui Liu, Shihai Ruan.<br />
+"SAMSON: 3rd Place Solution of LSVOS 2025 VOS Challenge." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.17500)]
+[2025.09]
+
+:boom:**FTP4RM:** Yongliang Wang, Hamidreza Kasaei.<br />
+"Fast Trajectory Planner with a Reinforcement Learning-based Controller for Robotic Manipulators." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.17381)]
+[[project](https://sites.google.com/view/ftp4rm/home)]
+[[code](https://github.com/wyl1253/FTP4RM)]
+[2025.09]
+
+:boom:**MirrorSAM2:** Mingchen Xu, Yukun Lai, Ze Ji, Jing Wu.<br />
+"MirrorSAM2: Segment Mirror in Videos with Depth Perception." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.17220)]
+[2025.09]
+
+:boom:**SAM-DCE:** Yingzhen Hu, Yiheng Zhong, Ruobing Li, Yingxue Su, Jiabao An, Feilong Tang, Jionglong Su, Imran Razzak.<br />
+"SAM-DCE: Addressing Token Uniformity and Semantic Over-Smoothing in Medical Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.16886)]
+[2025.09]
+
 :boom:**RangeSAM:** Paul Julius Kühn, Duc Anh Nguyen, Arjan Kuijper, Holger Graf, Dieter Fellner, Saptarshi Neil Sinha.<br />
 "RangeSAM: Leveraging Visual Foundation Models for Range-View repesented LiDAR segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.15886)]
