@@ -278,6 +278,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**STMFSAM:** Tu, Z., Zong, L., Jiang, B., Wang, H., Wang, K., Zhang, C.<br />
+"Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos." MICCAI (2025).
+[[paper](https://doi.org/10.1007/978-3-032-04937-7_52)]
+[[code](https://github.com/tzz-ahu/STMFSAM)]
+[2025.09]
+
 :boom:**SaSaSa2VA:** Quanzhu Niu, Dengxian Gong, Shihao Chen, Tao Zhang, Yikang Zhou, Haobo Yuan, Lu Qi, Xiangtai Li, Shunping Ji.<br />
 "The 1st Solution for 7th LSVOS RVOS Track: SaSaSa2VA." ICCVW (2025).
 [[paper](https://arxiv.org/abs/2509.16972)]
