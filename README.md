@@ -349,6 +349,12 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/2025-LSVOS-3rd-place/MOSEv2_3rd_place)]
 [2025.09]
 
+:boom:**Sa2VA-i:** Alexey Nekrasov, Ali Athar, Daan de Geus, Alexander Hermans, Bastian Leibe.<br />
+"3rd Place Report of LSVOS 2025 MeViS Track: Sa2VA-i: Improving Sa2VA Results with Consistent Training and Inference." ICCVW (2025).
+[[paper](https://arxiv.org/abs/2509.19082)]
+[[code](https://github.com/kumuji/sa2va-i)]
+[2025.09]
+
 :boom:**SimToken:** Dian Jin, Yanghao Zhou, Jinxing Zhou, Jiaqi Ma, Ruohao Guo, Dan Guo.<br />
 "SimToken: A Simple Baseline for Referring Audio-Visual Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.17537)]
