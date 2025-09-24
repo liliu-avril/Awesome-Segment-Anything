@@ -2359,7 +2359,7 @@ If you find our work useful in your research, please consider citing:
 [2025.05]
 
 - **SANSA::** Claudia Cuttano, Gabriele Trivigno, Giuseppe Averta, Carlo Masone.<br />
-"SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation." ArXiv (2025).
+"SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2505.21795)]
 [[code](https://github.com/ClaudiaCuttano/SANSA)]
 [2025.05]
