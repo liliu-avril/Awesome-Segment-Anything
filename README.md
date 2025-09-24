@@ -278,6 +278,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**OSDA:** Siyi Chen, Kai Wang, Weicong Pang, Ruiming Yang, Ziru Chen, Renjun Gao, Alexis Kai Hon Lau, Dasa Gu, Chenchen Zhang, Cheng Li.<br />
+"OSDA: A Framework for Open-Set Discovery and Automatic Interpretation of Land-cover in Remote Sensing Imagery." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.18693)]
+[[code](https://anonymous.4open.science/r/openset_remotesensing_tagging-2B5F/README.md)]
+[2025.09]
+
+:boom:**Prompt-DAS:** Jiabao Chen, Shan Xiong, Jialin Peng.<br />
+"Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images." MICCAI (2025).
+[[paper](https://arxiv.org/abs/2509.18973)]
+[2025.09]
+
 :boom:**MOIS-SAM2: :** Georgii Kolokolnikov, Marie-Lena Schmalhofer, Sophie Götz, Lennart Well, Said Farschtschi, Victor-Felix Mautner, Inka Ristow, Rene Werner.<br />
 "MOIS-SAM2: Exemplar-based Segment Anything Model 2 for multilesion interactive segmentation of neurobromas in whole-body MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.19277)]
@@ -321,15 +332,21 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2509.15546)]
 [2025.09]
 
+:boom:**SAMSON:** Yujie Xie, Hongyang Zhang, Zhihui Liu, Shihai Ruan.<br />
+"SAMSON: 3rd Place Solution of LSVOS 2025 VOS Challenge." ICCVW (2025).
+[[paper](https://arxiv.org/abs/2509.17500)]
+[2025.09]
+
+:boom:Mingqi Gao, Jingkun Chen, Yunqi Miao, Gengshen Wu, Zhijin Qin, Jungong Han.<br />
+"The 1st Solution for MOSEv2 Challenge 2025: Long-term and Concept-aware Video Segmentation via SeC." ICCVW (2025).
+[[paper](https://arxiv.org/abs/2509.19183)]
+[[code](https://github.com/OpenIXCLab/SeC)]
+[2025.09]
+
 :boom:**SCOPE:** Chang Soo Lim, Joonyoung Moon, Donghyeon Cho.<br />
 "Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution." ICCVW (2025).
 [[paper](https://arxiv.org/abs/2509.15781)]
 [[code](https://github.com/2025-LSVOS-3rd-place/MOSEv2_3rd_place)]
-[2025.09]
-
-:boom:**SAMSON:** Yujie Xie, Hongyang Zhang, Zhihui Liu, Shihai Ruan.<br />
-"SAMSON: 3rd Place Solution of LSVOS 2025 VOS Challenge." ArXiv (2025).
-[[paper](https://arxiv.org/abs/2509.17500)]
 [2025.09]
 
 :boom:**SimToken:** Dian Jin, Yanghao Zhou, Jinxing Zhou, Jiaqi Ma, Ruohao Guo, Dan Guo.<br />
