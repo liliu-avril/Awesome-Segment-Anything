@@ -309,6 +309,7 @@ If you find our work useful in your research, please consider citing:
 :boom:**SimToken:** Dian Jin, Yanghao Zhou, Jinxing Zhou, Jiaqi Ma, Ruohao Guo, Dan Guo.<br />
 "SimToken: A Simple Baseline for Referring Audio-Visual Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.17537)]
+[[project](https://github.com/DianJin-HFUT/SimToken)]
 [2025.09]
 
 :boom:**FTP4RM:** Yongliang Wang, Hamidreza Kasaei.<br />
