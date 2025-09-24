@@ -304,7 +304,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2509.19028)]
 [2025.09]
 
-:boom:**PPD::** Xueyu Liu, Xiaoyi Zhang, Guangze Shi, Meilin Liu, Yexin Lai, Yongfei Wu, Mingqiang Wei.<br />
+:boom:**PPD:** Xueyu Liu, Xiaoyi Zhang, Guangze Shi, Meilin Liu, Yexin Lai, Yongfei Wu, Mingqiang Wei.<br />
 "Attack for Defense: Adversarial Agents for Point Prompt Optimization Empowering Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.18891)]
 [2025.09]
