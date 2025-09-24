@@ -289,7 +289,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2509.18973)]
 [2025.09]
 
-:boom:**MOIS-SAM2: :** Georgii Kolokolnikov, Marie-Lena Schmalhofer, Sophie Götz, Lennart Well, Said Farschtschi, Victor-Felix Mautner, Inka Ristow, Rene Werner.<br />
+:boom:**MOIS-SAM2: :** Georgii Kolokolnikov, Marie-Lena Schmalhofer, Sophie Götz, Lennart Well, Said Farschtschi, Victor-Felix Mautner, Inka Ristow, Rene Werner.<br />
 "MOIS-SAM2: Exemplar-based Segment Anything Model 2 for multilesion interactive segmentation of neurobromas in whole-body MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.19277)]
 [2025.09]
