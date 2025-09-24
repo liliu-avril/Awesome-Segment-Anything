@@ -278,6 +278,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**MOIS-SAM2: :** Georgii Kolokolnikov, Marie-Lena Schmalhofer, Sophie Götz, Lennart Well, Said Farschtschi, Victor-Felix Mautner, Inka Ristow, Rene Werner.<br />
+"MOIS-SAM2: Exemplar-based Segment Anything Model 2 for multilesion interactive segmentation of neurobromas in whole-body MRI." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.19277)]
+[2025.09]
+
+:boom:Ilhan Skender, Kailin Tong, Selim Solmaz, Daniel Watzenig.<br />
+"Investigating Traffic Accident Detection Using Multimodal Large Language Models."  IAVVC (2025).
+[[paper](https://arxiv.org/abs/2509.19096)]
+[2025.09]
+
+:boom:Ioannis Sarafis, Alexandros Papadopoulos, Anastasios Delopoulos.<br />
+"Weakly Supervised Food Image Segmentation using Vision Transformers and Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.19028)]
+[2025.09]
+
+:boom:**PPD::** Xueyu Liu, Xiaoyi Zhang, Guangze Shi, Meilin Liu, Yexin Lai, Yongfei Wu, Mingqiang Wei.<br />
+"Attack for Defense: Adversarial Agents for Point Prompt Optimization Empowering Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.18891)]
+[2025.09]
+
+:boom:**HyPSAM:** Ruichao Hou, Xingyuan Li, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
+"HyPSAM: Hybrid Prompt-driven Segment Anything Model for RGB-Thermal Salient Object Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.18738)]
+[[code](https://github.com/milotic233/HyPSAM)]
+[2025.09]
+
 :boom:**STMFSAM:** Tu, Z., Zong, L., Jiang, B., Wang, H., Wang, K., Zhang, C.<br />
 "Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos." MICCAI (2025).
 [[paper](https://doi.org/10.1007/978-3-032-04937-7_52)]
