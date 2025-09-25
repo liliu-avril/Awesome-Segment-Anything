@@ -278,6 +278,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Eleftherios Papadopoulos, Yagmur Güçlütürk.<br />
+"Interactive Semantic Segmentation for Phosphene Vision Neuroprosthetics." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.19957)]
+[2025.09]
+
 :boom:**OSDA:** Siyi Chen, Kai Wang, Weicong Pang, Ruiming Yang, Ziru Chen, Renjun Gao, Alexis Kai Hon Lau, Dasa Gu, Chenchen Zhang, Cheng Li.<br />
 "OSDA: A Framework for Open-Set Discovery and Automatic Interpretation of Land-cover in Remote Sensing Imagery." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.18693)]
