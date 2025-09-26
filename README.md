@@ -278,6 +278,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Opt-SynSet:** Chao Zhang and Lars Christian Gansel and Marc Bracke and Ricardo da Silva Torres.<br />
+"An image synthesis framework for enhanced salmon louse larvae (Lepeophtheirus Salmonis) detection in complex seawater conditions." Computers and Electronics in Agriculture (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0168169925010919)]
+[[code](https://github.com/jay-zc/synthetic-dataset)]
+[2025.09]
+
 :boom:Eleftherios Papadopoulos, Yagmur Güçlütürk.<br />
 "Interactive Semantic Segmentation for Phosphene Vision Neuroprosthetics." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.19957)]
