@@ -278,10 +278,15 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**RefAM:** Anna Kukleva, Enis Simsar, Alessio Tonioni, Muhammad Ferjad Naeem, Federico Tombari, Jan Eric Lenssen, Bernt Schiele.<br />
+"RefAM: Attention Magnets for Zero-Shot Referral Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.22650)]
+[[code](https://refam-diffusion.github.io/)]
+[2025.09]
+
 :boom:**RAU:** Yiwei Li, Yikang Liu, Jiaqi Guo, Lin Zhao, Zheyuan Zhang, Xiao Chen, Boris Mailhe, Ankush Mukherjee, Terrence Chen, Shanhui Sun.<br />
 "RAU: Reference-based Anatomical Understanding with Vision Language Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.22404)]
-[[code](XXXXXXXXXXXXXXXXXXXXXX)]
 [2025.09]
 
 :boom:**LG-CD:** Yixiao Liu, Yizhou Yang, Jinwen Li, Jun Tao, Ruoyu Li, Xiangkun Wang, Min Zhu, Junlong Cheng.<br />
