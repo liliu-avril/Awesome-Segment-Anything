@@ -278,6 +278,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**RAU:** Yiwei Li, Yikang Liu, Jiaqi Guo, Lin Zhao, Zheyuan Zhang, Xiao Chen, Boris Mailhe, Ankush Mukherjee, Terrence Chen, Shanhui Sun.<br />
+"RAU: Reference-based Anatomical Understanding with Vision Language Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.22404)]
+[[code](XXXXXXXXXXXXXXXXXXXXXX)]
+[2025.09]
+
+:boom:**LG-CD:** Yixiao Liu, Yizhou Yang, Jinwen Li, Jun Tao, Ruoyu Li, Xiangkun Wang, Min Zhu, Junlong Cheng.<br />
+"LG-CD: Enhancing Language-Guided Change Detection through SAM2 Adaptation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.21894)]
+[2025.09]
+
+:boom:**PartSAM:** Zhe Zhu, Le Wan, Rui Xu, Yiheng Zhang, Honghua Chen, Zhiyang Dou, Cheng Lin, Yuan Liu, Mingqiang Wei.<br />
+"PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.21965)]
+[2025.09]
+
+:boom:**CubistMerge:** Wenyi Gong, Mieszko Lis.<br />
+"CubistMerge: Spatial-Preserving Token Merging For Diverse ViT Backbones." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.21764)]
+[2025.09]
+
+:boom:Aleksa Jelaca, Ying Jiao, Chang Tian, Marie-Francine Moens.<br />
+"Automated Prompt Generation for Creative and Counterfactual Text-to-image Synthesis." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.21375)]
+[2025.09]
+
 :boom:**KG-SAM:** Yu Li, Da Chang, Xi Xiao.<br />
 "KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.21750)]
