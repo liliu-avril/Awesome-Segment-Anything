@@ -278,6 +278,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**CORE-3D:** Mohamad Amin Mirzaei, Pantea Amoie, Ali Ekhterachian, Matin Mirzababaei.<br />
+"CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.24528)]
+[2025.09]
+
 :boom:**BALR-SAM:** Zelin Liu, Sicheng Dong, Bocheng Li, Yixuan Yang, Jiacheng Ruan, Chenxu Zhou, Suncheng Xiang.<br />
 "BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.24204)]
