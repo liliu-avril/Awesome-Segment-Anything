@@ -278,6 +278,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SeC (ZS):** Zhixiong Zhang, Shuangrui Ding, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Jiaqi Wang.<br />
+"2nd Place Report of MOSEv2 Challenge 2025: Concept Guided Video Object Segmentation via SeC." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.23838)]
+[2025.09]
+
 :boom:**CORE-3D:** Mohamad Amin Mirzaei, Pantea Amoie, Ali Ekhterachian, Matin Mirzababaei.<br />
 "CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.24528)]
@@ -1293,6 +1298,14 @@ If you find our work useful in your research, please consider citing:
 "SAM-PTx: Text-Guided Fine-Tuning of SAM with Parameter-Efficient, Parallel-Text Adapters." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2508.00213)]
 [2025.08]
+
+- **SeC:** Zhixiong Zhang, Shuangrui Ding, Xiaoyi Dong, Songxin He, Jianfan Lin, Junsong Tang, Yuhang Zang, Yuhang Cao, Dahua Lin, Jiaqi Wang.<br />
+"SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2507.15852v2)]
+[[project](https://rookiexiong7.github.io/projects/SeC/)]
+[[code](https://github.com/OpenIXCLab/SeC)]
+[[dataset](https://huggingface.co/datasets/OpenIXCLab/SeCVOS)]
+[2025.07]
 
 - **SAMSA:** Alfie Roddan, Tobias Czempiel, Chi Xu, Daniel S. Elson, Stamatia Giannarou.<br />
 "SAMSA: Segment Anything Model Enhanced with Spectral Angles for Hyperspectral Interactive Medical Image Segmentation." ArXiv (2025).
