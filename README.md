@@ -278,6 +278,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**BALR-SAM:** Zelin Liu, Sicheng Dong, Bocheng Li, Yixuan Yang, Jiacheng Ruan, Chenxu Zhou, Suncheng Xiang.<br />
+"BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.24204)]
+[2025.09]
+
+:boom:**CalSAM:** Behraj Khan, Tahir Qasim Syed.<br />
+"Confidence-Calibrating Regularization for Robust Brain MRI Segmentation Under Domain Shift." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.23176)]
+[2025.09]
+
 :boom:**RefAM:** Anna Kukleva, Enis Simsar, Alessio Tonioni, Muhammad Ferjad Naeem, Federico Tombari, Jan Eric Lenssen, Bernt Schiele.<br />
 "RefAM: Attention Magnets for Zero-Shot Referral Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.22650)]
