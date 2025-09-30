@@ -1547,14 +1547,6 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/WZH0120/HFS-SAM2)]
 [2025.07]
 
-- **SeC:** Zhixiong Zhang, Shuangrui Ding, Xiaoyi Dong, Songxin He, Jianfan Lin, Junsong Tang, Yuhang Zang, Yuhang Cao, Dahua Lin, Jiaqi Wang.<br />
-"SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction." ArXiv (2025).
-[[paper](https://arxiv.org/abs/2507.15852)]
-[[project](https://rookiexiong7.github.io/projects/SeC/)]
-[[code](https://github.com/OpenIXCLab/SeC)]
-[[dataset](https://huggingface.co/datasets/OpenIXCLab/SeCVOS)]
-[2025.07]
-
 - **PseudonuScenes:** Atharv Goel, Mehar Khurana.<br />
 "Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop." ArXiv (2025).
 [[paper](Just Add Geometry: Gradient-Free Open-Vocabulary 3D Detection Without Human-in-the-Loop)]
