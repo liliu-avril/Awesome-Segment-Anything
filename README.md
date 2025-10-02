@@ -278,6 +278,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Point2RBox-v3:** Teng Zhang, Ziqian Fan, Mingxin Liu, Xin Zhang, Xudong Lu, Wentong Li, Yue Zhou, Yi Yu, Xiang Li, Junchi Yan, Xue Yang.<br />
+"Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.26281)]
+[[code](https://github.com/VisionXLab/Point2RBox-v3)]
+[2025.09]
+
+:boom:**EasyOcc:** Seamie Hayes, Ganesh Sistu, Ciarán Eising.<br />
+"EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.26087)]
+[2025.09]
+
+:boom:**DSGA:** Xintong Jiang, Yixue Liu, Mohamed Debbagh, Yu Tian, Valerio Hoyos-Villegas, Viacheslav Adamchuk, Shangpeng Sun.<br />
+"Adapting SAM with Dynamic Similarity Graphs for Few-Shot Parameter-Efficient Small Dense Object Detection: A Case Study of Chickpea Pods in Field Conditions." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.25805)]
+[2025.09]
+
 :boom:**SeC (ZS):** Zhixiong Zhang, Shuangrui Ding, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Jiaqi Wang.<br />
 "2nd Place Report of MOSEv2 Challenge 2025: Concept Guided Video Object Segmentation via SeC." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.23838)]
