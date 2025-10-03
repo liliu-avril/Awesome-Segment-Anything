@@ -278,6 +278,21 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Runchen Wang, Junlin Guo, Siqi Lu, Ruining Deng, Zhengyi Lu, Yanfan Zhu, Yuechen Yang, Chongyu Qu, Yu Wang, Shilin Zhao, Catie Chang, Mitchell Wilkes, Mengmeng Yin, Haichun Yang, Yuankai Huo.<br />
+"Evaluating New AI Cell Foundation Models on Challenging Kidney Pathology Cases Unaddressed by Previous Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.01287)]
+[2025.10]
+
+:boom:Woowon Jang, Jiwon Im, Juseung Choi, Niki Rashidian, Wesley De Neve, Utku Ozbulak.<br />
+"When Tracking Fails: Analyzing Failure Modes of SAM2 for Point-Based Tracking in Surgical Videos." MICCAI Workshop (2025).
+[[paper](https://arxiv.org/abs/2510.02100)]
+[2025.10]
+
+:boom:**CGFSeg:** Tingmin Li, Yixuan Li, Yang Yang.<br />
+"The 1st Solution for MOSEv1 Challenge on LSVOS 2025: CGFSeg." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2509.25738)]
+[2025.09]
+
 :boom:**Point2RBox-v3:** Teng Zhang, Ziqian Fan, Mingxin Liu, Xin Zhang, Xudong Lu, Wentong Li, Yue Zhou, Yi Yu, Xiang Li, Junchi Yan, Xue Yang.<br />
 "Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.26281)]
