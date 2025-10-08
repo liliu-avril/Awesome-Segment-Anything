@@ -278,231 +278,241 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:Runchen Wang, Junlin Guo, Siqi Lu, Ruining Deng, Zhengyi Lu, Yanfan Zhu, Yuechen Yang, Chongyu Qu, Yu Wang, Shilin Zhao, Catie Chang, Mitchell Wilkes, Mengmeng Yin, Haichun Yang, Yuankai Huo.<br />
+:boom:**XXX:** Günel Aghakishiyeva, Jiayi Zhou, Saagar Arya, James David Poling, Holly R. Houliston, Jamie N. Womble, David W. Johnston, Brinnae Bent.<br />
+"Photorealistic Inpainting for Perturbation-based Explanations in Ecological Monitoring." NeurIPS Workshop (2025).
+[[paper](https://arxiv.org/abs/2510.03317)]
+[2025.10]
+
+:boom:**SAMSOD:** Zhengyi Liu, Xinrui Wang, Xianyong Fang, Zhengzheng Tu, Linbo Wang.<br />
+"SAMSOD: Rethinking SAM Optimization for RGB-T Salient Object Detection." TMM (2025).
+[[paper](https://arxiv.org/abs/2510.03689)]
+[2025.10]
+
+- Runchen Wang, Junlin Guo, Siqi Lu, Ruining Deng, Zhengyi Lu, Yanfan Zhu, Yuechen Yang, Chongyu Qu, Yu Wang, Shilin Zhao, Catie Chang, Mitchell Wilkes, Mengmeng Yin, Haichun Yang, Yuankai Huo.<br />
 "Evaluating New AI Cell Foundation Models on Challenging Kidney Pathology Cases Unaddressed by Previous Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.01287)]
 [2025.10]
 
-:boom:Woowon Jang, Jiwon Im, Juseung Choi, Niki Rashidian, Wesley De Neve, Utku Ozbulak.<br />
+- Woowon Jang, Jiwon Im, Juseung Choi, Niki Rashidian, Wesley De Neve, Utku Ozbulak.<br />
 "When Tracking Fails: Analyzing Failure Modes of SAM2 for Point-Based Tracking in Surgical Videos." MICCAI Workshop (2025).
 [[paper](https://arxiv.org/abs/2510.02100)]
 [2025.10]
 
-:boom:**CGFSeg:** Tingmin Li, Yixuan Li, Yang Yang.<br />
+- **CGFSeg:** Tingmin Li, Yixuan Li, Yang Yang.<br />
 "The 1st Solution for MOSEv1 Challenge on LSVOS 2025: CGFSeg." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.25738)]
 [2025.09]
 
-:boom:**Point2RBox-v3:** Teng Zhang, Ziqian Fan, Mingxin Liu, Xin Zhang, Xudong Lu, Wentong Li, Yue Zhou, Yi Yu, Xiang Li, Junchi Yan, Xue Yang.<br />
+- **Point2RBox-v3:** Teng Zhang, Ziqian Fan, Mingxin Liu, Xin Zhang, Xudong Lu, Wentong Li, Yue Zhou, Yi Yu, Xiang Li, Junchi Yan, Xue Yang.<br />
 "Point2RBox-v3: Self-Bootstrapping from Point Annotations via Integrated Pseudo-Label Refinement and Utilization." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.26281)]
 [[code](https://github.com/VisionXLab/Point2RBox-v3)]
 [2025.09]
 
-:boom:**EasyOcc:** Seamie Hayes, Ganesh Sistu, Ciarán Eising.<br />
+- **EasyOcc:** Seamie Hayes, Ganesh Sistu, Ciarán Eising.<br />
 "EasyOcc: 3D Pseudo-Label Supervision for Fully Self-Supervised Semantic Occupancy Prediction Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.26087)]
 [2025.09]
 
-:boom:**DSGA:** Xintong Jiang, Yixue Liu, Mohamed Debbagh, Yu Tian, Valerio Hoyos-Villegas, Viacheslav Adamchuk, Shangpeng Sun.<br />
+- **DSGA:** Xintong Jiang, Yixue Liu, Mohamed Debbagh, Yu Tian, Valerio Hoyos-Villegas, Viacheslav Adamchuk, Shangpeng Sun.<br />
 "Adapting SAM with Dynamic Similarity Graphs for Few-Shot Parameter-Efficient Small Dense Object Detection: A Case Study of Chickpea Pods in Field Conditions." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.25805)]
 [2025.09]
 
-:boom:**SeC (ZS):** Zhixiong Zhang, Shuangrui Ding, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Jiaqi Wang.<br />
+- **SeC (ZS):** Zhixiong Zhang, Shuangrui Ding, Xiaoyi Dong, Yuhang Zang, Yuhang Cao, Jiaqi Wang.<br />
 "2nd Place Report of MOSEv2 Challenge 2025: Concept Guided Video Object Segmentation via SeC." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.23838)]
 [2025.09]
 
-:boom:**CORE-3D:** Mohamad Amin Mirzaei, Pantea Amoie, Ali Ekhterachian, Matin Mirzababaei.<br />
+- **CORE-3D:** Mohamad Amin Mirzaei, Pantea Amoie, Ali Ekhterachian, Matin Mirzababaei.<br />
 "CORE-3D: Context-aware Open-vocabulary Retrieval by Embeddings in 3D." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.24528)]
 [2025.09]
 
-:boom:**BALR-SAM:** Zelin Liu, Sicheng Dong, Bocheng Li, Yixuan Yang, Jiacheng Ruan, Chenxu Zhou, Suncheng Xiang.<br />
+- **BALR-SAM:** Zelin Liu, Sicheng Dong, Bocheng Li, Yixuan Yang, Jiacheng Ruan, Chenxu Zhou, Suncheng Xiang.<br />
 "BALR-SAM: Boundary-Aware Low-Rank Adaptation of SAM for Resource-Efficient Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.24204)]
 [2025.09]
 
-:boom:**CalSAM:** Behraj Khan, Tahir Qasim Syed.<br />
+- **CalSAM:** Behraj Khan, Tahir Qasim Syed.<br />
 "Confidence-Calibrating Regularization for Robust Brain MRI Segmentation Under Domain Shift." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.23176)]
 [2025.09]
 
-:boom:**RefAM:** Anna Kukleva, Enis Simsar, Alessio Tonioni, Muhammad Ferjad Naeem, Federico Tombari, Jan Eric Lenssen, Bernt Schiele.<br />
+- **RefAM:** Anna Kukleva, Enis Simsar, Alessio Tonioni, Muhammad Ferjad Naeem, Federico Tombari, Jan Eric Lenssen, Bernt Schiele.<br />
 "RefAM: Attention Magnets for Zero-Shot Referral Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.22650)]
 [[code](https://refam-diffusion.github.io/)]
 [2025.09]
 
-:boom:**RAU:** Yiwei Li, Yikang Liu, Jiaqi Guo, Lin Zhao, Zheyuan Zhang, Xiao Chen, Boris Mailhe, Ankush Mukherjee, Terrence Chen, Shanhui Sun.<br />
+- **RAU:** Yiwei Li, Yikang Liu, Jiaqi Guo, Lin Zhao, Zheyuan Zhang, Xiao Chen, Boris Mailhe, Ankush Mukherjee, Terrence Chen, Shanhui Sun.<br />
 "RAU: Reference-based Anatomical Understanding with Vision Language Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.22404)]
 [2025.09]
 
-:boom:**LG-CD:** Yixiao Liu, Yizhou Yang, Jinwen Li, Jun Tao, Ruoyu Li, Xiangkun Wang, Min Zhu, Junlong Cheng.<br />
+- **LG-CD:** Yixiao Liu, Yizhou Yang, Jinwen Li, Jun Tao, Ruoyu Li, Xiangkun Wang, Min Zhu, Junlong Cheng.<br />
 "LG-CD: Enhancing Language-Guided Change Detection through SAM2 Adaptation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.21894)]
 [2025.09]
 
-:boom:**PartSAM:** Zhe Zhu, Le Wan, Rui Xu, Yiheng Zhang, Honghua Chen, Zhiyang Dou, Cheng Lin, Yuan Liu, Mingqiang Wei.<br />
+- **PartSAM:** Zhe Zhu, Le Wan, Rui Xu, Yiheng Zhang, Honghua Chen, Zhiyang Dou, Cheng Lin, Yuan Liu, Mingqiang Wei.<br />
 "PartSAM: A Scalable Promptable Part Segmentation Model Trained on Native 3D Data." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.21965)]
 [2025.09]
 
-:boom:**CubistMerge:** Wenyi Gong, Mieszko Lis.<br />
+- **CubistMerge:** Wenyi Gong, Mieszko Lis.<br />
 "CubistMerge: Spatial-Preserving Token Merging For Diverse ViT Backbones." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.21764)]
 [2025.09]
 
-:boom:Aleksa Jelaca, Ying Jiao, Chang Tian, Marie-Francine Moens.<br />
+- Aleksa Jelaca, Ying Jiao, Chang Tian, Marie-Francine Moens.<br />
 "Automated Prompt Generation for Creative and Counterfactual Text-to-image Synthesis." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.21375)]
 [2025.09]
 
-:boom:**KG-SAM:** Yu Li, Da Chang, Xi Xiao.<br />
+- **KG-SAM:** Yu Li, Da Chang, Xi Xiao.<br />
 "KG-SAM: Injecting Anatomical Knowledge into Segment Anything Models via Conditional Random Fields." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.21750)]
 [2025.09]
 
-:boom:**Opt-SynSet:** Chao Zhang and Lars Christian Gansel and Marc Bracke and Ricardo da Silva Torres.<br />
+- **Opt-SynSet:** Chao Zhang and Lars Christian Gansel and Marc Bracke and Ricardo da Silva Torres.<br />
 "An image synthesis framework for enhanced salmon louse larvae (Lepeophtheirus Salmonis) detection in complex seawater conditions." Computers and Electronics in Agriculture (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925010919)]
 [[code](https://github.com/jay-zc/synthetic-dataset)]
 [2025.09]
 
-:boom:Eleftherios Papadopoulos, Yagmur Güçlütürk.<br />
+- Eleftherios Papadopoulos, Yagmur Güçlütürk.<br />
 "Interactive Semantic Segmentation for Phosphene Vision Neuroprosthetics." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.19957)]
 [2025.09]
 
-:boom:**OSDA:** Siyi Chen, Kai Wang, Weicong Pang, Ruiming Yang, Ziru Chen, Renjun Gao, Alexis Kai Hon Lau, Dasa Gu, Chenchen Zhang, Cheng Li.<br />
+- **OSDA:** Siyi Chen, Kai Wang, Weicong Pang, Ruiming Yang, Ziru Chen, Renjun Gao, Alexis Kai Hon Lau, Dasa Gu, Chenchen Zhang, Cheng Li.<br />
 "OSDA: A Framework for Open-Set Discovery and Automatic Interpretation of Land-cover in Remote Sensing Imagery." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.18693)]
 [[code](https://anonymous.4open.science/r/openset_remotesensing_tagging-2B5F/README.md)]
 [2025.09]
 
-:boom:**Prompt-DAS:** Jiabao Chen, Shan Xiong, Jialin Peng.<br />
+- **Prompt-DAS:** Jiabao Chen, Shan Xiong, Jialin Peng.<br />
 "Prompt-DAS: Annotation-Efficient Prompt Learning for Domain Adaptive Semantic Segmentation of Electron Microscopy Images." MICCAI (2025).
 [[paper](https://arxiv.org/abs/2509.18973)]
 [2025.09]
 
-:boom:**MOIS-SAM2: :** Georgii Kolokolnikov, Marie-Lena Schmalhofer, Sophie Götz, Lennart Well, Said Farschtschi, Victor-Felix Mautner, Inka Ristow, Rene Werner.<br />
+- **MOIS-SAM2: :** Georgii Kolokolnikov, Marie-Lena Schmalhofer, Sophie Götz, Lennart Well, Said Farschtschi, Victor-Felix Mautner, Inka Ristow, Rene Werner.<br />
 "MOIS-SAM2: Exemplar-based Segment Anything Model 2 for multilesion interactive segmentation of neurobromas in whole-body MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.19277)]
 [2025.09]
 
-:boom:Ilhan Skender, Kailin Tong, Selim Solmaz, Daniel Watzenig.<br />
+- Ilhan Skender, Kailin Tong, Selim Solmaz, Daniel Watzenig.<br />
 "Investigating Traffic Accident Detection Using Multimodal Large Language Models."  IAVVC (2025).
 [[paper](https://arxiv.org/abs/2509.19096)]
 [2025.09]
 
-:boom:Ioannis Sarafis, Alexandros Papadopoulos, Anastasios Delopoulos.<br />
+- Ioannis Sarafis, Alexandros Papadopoulos, Anastasios Delopoulos.<br />
 "Weakly Supervised Food Image Segmentation using Vision Transformers and Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.19028)]
 [2025.09]
 
-:boom:**PPD:** Xueyu Liu, Xiaoyi Zhang, Guangze Shi, Meilin Liu, Yexin Lai, Yongfei Wu, Mingqiang Wei.<br />
+- **PPD:** Xueyu Liu, Xiaoyi Zhang, Guangze Shi, Meilin Liu, Yexin Lai, Yongfei Wu, Mingqiang Wei.<br />
 "Attack for Defense: Adversarial Agents for Point Prompt Optimization Empowering Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.18891)]
 [2025.09]
 
-:boom:**HyPSAM:** Ruichao Hou, Xingyuan Li, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
+- **HyPSAM:** Ruichao Hou, Xingyuan Li, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
 "HyPSAM: Hybrid Prompt-driven Segment Anything Model for RGB-Thermal Salient Object Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.18738)]
 [[code](https://github.com/milotic233/HyPSAM)]
 [2025.09]
 
-:boom:**STMFSAM:** Tu, Z., Zong, L., Jiang, B., Wang, H., Wang, K., Zhang, C.<br />
+- **STMFSAM:** Tu, Z., Zong, L., Jiang, B., Wang, H., Wang, K., Zhang, C.<br />
 "Spatial-Temporal Memory Filtering SAM for Lesion Segmentation in Breast Ultrasound Videos." MICCAI (2025).
 [[paper](https://doi.org/10.1007/978-3-032-04937-7_52)]
 [[code](https://github.com/tzz-ahu/STMFSAM)]
 [2025.09]
 
-:boom:**SaSaSa2VA:** Quanzhu Niu, Dengxian Gong, Shihao Chen, Tao Zhang, Yikang Zhou, Haobo Yuan, Lu Qi, Xiangtai Li, Shunping Ji.<br />
+- **SaSaSa2VA:** Quanzhu Niu, Dengxian Gong, Shihao Chen, Tao Zhang, Yikang Zhou, Haobo Yuan, Lu Qi, Xiangtai Li, Shunping Ji.<br />
 "The 1st Solution for 7th LSVOS RVOS Track: SaSaSa2VA." ICCVW (2025).
 [[paper](https://arxiv.org/abs/2509.16972)]
 [[code](https://github.com/magic-research/Sa2VA)]
 [2025.09]
 
-:boom:Ran Hong, Feng Lu, Leilei Cao, An Yan, Youhai Jiang, Fengjie Zhu.<br />
+- Ran Hong, Feng Lu, Leilei Cao, An Yan, Youhai Jiang, Fengjie Zhu.<br />
 "Enhancing Sa2VA for Referent Video Object Segmentation: 2nd Solution for 7th LSVOS RVOS Track." ICCVW (2025).
 [[paper](https://arxiv.org/abs/2509.15546)]
 [2025.09]
 
-:boom:**SAMSON:** Yujie Xie, Hongyang Zhang, Zhihui Liu, Shihai Ruan.<br />
+- **SAMSON:** Yujie Xie, Hongyang Zhang, Zhihui Liu, Shihai Ruan.<br />
 "SAMSON: 3rd Place Solution of LSVOS 2025 VOS Challenge." ICCVW (2025).
 [[paper](https://arxiv.org/abs/2509.17500)]
 [2025.09]
 
-:boom:Mingqi Gao, Jingkun Chen, Yunqi Miao, Gengshen Wu, Zhijin Qin, Jungong Han.<br />
+- Mingqi Gao, Jingkun Chen, Yunqi Miao, Gengshen Wu, Zhijin Qin, Jungong Han.<br />
 "The 1st Solution for MOSEv2 Challenge 2025: Long-term and Concept-aware Video Segmentation via SeC." ICCVW (2025).
 [[paper](https://arxiv.org/abs/2509.19183)]
 [[code](https://github.com/OpenIXCLab/SeC)]
 [2025.09]
 
-:boom:**SCOPE:** Chang Soo Lim, Joonyoung Moon, Donghyeon Cho.<br />
+- **SCOPE:** Chang Soo Lim, Joonyoung Moon, Donghyeon Cho.<br />
 "Enriched Feature Representation and Motion Prediction Module for MOSEv2 Track of 7th LSVOS Challenge: 3rd Place Solution." ICCVW (2025).
 [[paper](https://arxiv.org/abs/2509.15781)]
 [[code](https://github.com/2025-LSVOS-3rd-place/MOSEv2_3rd_place)]
 [2025.09]
 
-:boom:**Sa2VA-i:** Alexey Nekrasov, Ali Athar, Daan de Geus, Alexander Hermans, Bastian Leibe.<br />
+- **Sa2VA-i:** Alexey Nekrasov, Ali Athar, Daan de Geus, Alexander Hermans, Bastian Leibe.<br />
 "3rd Place Report of LSVOS 2025 MeViS Track: Sa2VA-i: Improving Sa2VA Results with Consistent Training and Inference." ICCVW (2025).
 [[paper](https://arxiv.org/abs/2509.19082)]
 [[code](https://github.com/kumuji/sa2va-i)]
 [2025.09]
 
-:boom:**SimToken:** Dian Jin, Yanghao Zhou, Jinxing Zhou, Jiaqi Ma, Ruohao Guo, Dan Guo.<br />
+- **SimToken:** Dian Jin, Yanghao Zhou, Jinxing Zhou, Jiaqi Ma, Ruohao Guo, Dan Guo.<br />
 "SimToken: A Simple Baseline for Referring Audio-Visual Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.17537)]
 [[project](https://github.com/DianJin-HFUT/SimToken)]
 [2025.09]
 
-:boom:**FTP4RM:** Yongliang Wang, Hamidreza Kasaei.<br />
+- **FTP4RM:** Yongliang Wang, Hamidreza Kasaei.<br />
 "Fast Trajectory Planner with a Reinforcement Learning-based Controller for Robotic Manipulators." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.17381)]
 [[project](https://sites.google.com/view/ftp4rm/home)]
 [[code](https://github.com/wyl1253/FTP4RM)]
 [2025.09]
 
-:boom:**MirrorSAM2:** Mingchen Xu, Yukun Lai, Ze Ji, Jing Wu.<br />
+- **MirrorSAM2:** Mingchen Xu, Yukun Lai, Ze Ji, Jing Wu.<br />
 "MirrorSAM2: Segment Mirror in Videos with Depth Perception." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.17220)]
 [2025.09]
 
-:boom:**SAM-DCE:** Yingzhen Hu, Yiheng Zhong, Ruobing Li, Yingxue Su, Jiabao An, Feilong Tang, Jionglong Su, Imran Razzak.<br />
+- **SAM-DCE:** Yingzhen Hu, Yiheng Zhong, Ruobing Li, Yingxue Su, Jiabao An, Feilong Tang, Jionglong Su, Imran Razzak.<br />
 "SAM-DCE: Addressing Token Uniformity and Semantic Over-Smoothing in Medical Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.16886)]
 [2025.09]
 
-:boom:**RangeSAM:** Paul Julius Kühn, Duc Anh Nguyen, Arjan Kuijper, Holger Graf, Dieter Fellner, Saptarshi Neil Sinha.<br />
+- **RangeSAM:** Paul Julius Kühn, Duc Anh Nguyen, Arjan Kuijper, Holger Graf, Dieter Fellner, Saptarshi Neil Sinha.<br />
 "RangeSAM: Leveraging Visual Foundation Models for Range-View repesented LiDAR segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.15886)]
 [2025.09]
 
-:boom:**ENSAM:** Elias Stenhede, Agnar Martin Bjørnstad, Arian Ranjbar.<br />
+- **ENSAM:** Elias Stenhede, Agnar Martin Bjørnstad, Arian Ranjbar.<br />
 "ENSAM: an efficient foundation model for interactive segmentation of 3D medical images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.15874)]
 [2025.09]
 
-:boom:**TASAM:** Tianyang Wang, Xi Xiao, Gaofei Chen, Hanzhang Chi, Qi Zhang, Guo Cheng, Yingrui Ji.<br />
+- **TASAM:** Tianyang Wang, Xi Xiao, Gaofei Chen, Hanzhang Chi, Qi Zhang, Guo Cheng, Yingrui Ji.<br />
 "TASAM: Terrain-and-Aware Segment Anything Model for Temporal-Scale Remote Sensing Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.15795)]
 [2025.09]
 
-:boom:**FloorSAM:** Han Ye, Haofu Wang, Yunchi Zhang, Jiangjian Xiao, Yuqiang Jin, Jinyuan Liu, Wen-An Zhang, Uladzislau Sychou, Alexander Tuzikov, Vladislav Sobolevskii, Valerii Zakharov, Boris Sokolov, Minglei Fu.<br />
+- **FloorSAM:** Han Ye, Haofu Wang, Yunchi Zhang, Jiangjian Xiao, Yuqiang Jin, Jinyuan Liu, Wen-An Zhang, Uladzislau Sychou, Alexander Tuzikov, Vladislav Sobolevskii, Valerii Zakharov, Boris Sokolov, Minglei Fu.<br />
 "FloorSAM: SAM-Guided Floorplan Reconstruction with Semantic-Geometric Fusion." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.15750)]
 [[code](https://github.com/Silentbarber/FloorSAM)]
 [2025.09]
 
-:boom:**pFedSAM:** Tong Wang, Xingyue Zhao, Linghao Zhuang, Haoyu Zhao, Jiayi Yin, Yuyang He, Gang Yu, Bo Lin.<br />
+- **pFedSAM:** Tong Wang, Xingyue Zhao, Linghao Zhuang, Haoyu Zhao, Jiayi Yin, Yuyang He, Gang Yu, Bo Lin.<br />
 "pFedSAM: Personalized Federated Learning of Segment Anything Model for Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.15638)]
 [2025.09]
 
-:boom:**ORB:** Jinkai Qiu, Yungjun Kim, Gaurav Sethia, Tanmay Agarwal, Siddharth Ghodasara, Zackory Erickson, Jeffrey Ichnowski.<br />
+- **ORB:** Jinkai Qiu, Yungjun Kim, Gaurav Sethia, Tanmay Agarwal, Siddharth Ghodasara, Zackory Erickson, Jeffrey Ichnowski.<br />
 "ORB: Operating Room Bot, Automating Operating Room Logistics through Mobile Manipulation."  IEEE CASE (2025).
 [[paper](https://arxiv.org/abs/2509.15600)]
 [2025.09]
