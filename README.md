@@ -278,6 +278,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**nnSAM2:** Zhongyi Zhang, Julie A. Hides, Enrico De Martino, Abdul Joseph Fofanah, Gervase Tuxworth.<br />
+"nnSAM2: nnUNet-Enhanced One-Prompt SAM2 for Few-shot Multi-Modality Segmentation and Composition Analysis of Lumbar Paraspinal Muscles." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.05555)]
+[2025.10]
+
+:boom:**SegMASt3R:** Rohit Jayanti, Swayam Agrawal, Vansh Garg, Siddharth Tourani, Muhammad Haris Khan, Sourav Garg, Madhava Krishna.<br />
+"SegMASt3R: Geometry Grounded Segment Matching." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.02815)]
+[[code](https://segmast3r.github.io/)]
+[2025.10]
+
+:boom:**Med-K2N:** Feng Yuan, Yifan Gao, Yuehua Ye, Haoyue Li, Xin Gao.<br />
+"Med-K2N: Flexible K-to-N Modality Translation for Medical Image Synthesis." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.02815)]
+[[code](https://github.com/gatina-yone/Med-K2N)]
+[2025.10]
+
 :boom:**YOLOv10+MobileSAM:** Lyes Saad Saoud, Loic Lesobre, Enrico Sorato, Irfan Hussain.<br />
 "Real-Time Threaded Houbara Detection and Segmentation for Wildlife Conservation using Mobile Platforms." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.03501)]
