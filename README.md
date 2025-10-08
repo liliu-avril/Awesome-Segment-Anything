@@ -278,7 +278,19 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**XXX:** Günel Aghakishiyeva, Jiayi Zhou, Saagar Arya, James David Poling, Holly R. Houliston, Jamie N. Womble, David W. Johnston, Brinnae Bent.<br />
+:boom:**YOLOv10+MobileSAM:** Lyes Saad Saoud, Loic Lesobre, Enrico Sorato, Irfan Hussain.<br />
+"Real-Time Threaded Houbara Detection and Segmentation for Wildlife Conservation using Mobile Platforms." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.03501)]
+[[code](https://lyessaadsaoud.github.io/LyesSaadSaoud-Threaded-YOLO-SAM-Houbara)]
+[2025.10]
+
+:boom:**UGround:** Rui Qian, Xin Yin, Chuanhang Deng, Zhiyuan Peng, Jian Xiong, Wei Zhai, Dejing Dou.<br />
+"UGround: Towards Unified Visual Grounding with Unrolled Transformers." ArXiv (2025).
+[[paper](https://arxiv.org/pdf/2510.03853)]
+[[code](https://github.com/rui-qian/UGround)]
+[2025.10]
+
+:boom:Günel Aghakishiyeva, Jiayi Zhou, Saagar Arya, James David Poling, Holly R. Houliston, Jamie N. Womble, David W. Johnston, Brinnae Bent.<br />
 "Photorealistic Inpainting for Perturbation-based Explanations in Ecological Monitoring." NeurIPS Workshop (2025).
 [[paper](https://arxiv.org/abs/2510.03317)]
 [2025.10]
