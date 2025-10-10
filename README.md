@@ -284,7 +284,7 @@ If you find our work useful in your research, please consider citing:
 [2025.10]
 
 :boom:**SegMASt3R:** Rohit Jayanti, Swayam Agrawal, Vansh Garg, Siddharth Tourani, Muhammad Haris Khan, Sourav Garg, Madhava Krishna.<br />
-"SegMASt3R: Geometry Grounded Segment Matching." ArXiv (2025).
+"SegMASt3R: Geometry Grounded Segment Matching." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2510.02815)]
 [[code](https://segmast3r.github.io/)]
 [2025.10]
