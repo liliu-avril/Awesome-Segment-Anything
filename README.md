@@ -22,6 +22,7 @@ ____
 ## :fire: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/liliu-avril/Awesome-Segment-Anything?icon=github&label=last%20updated&color=green)
 ```
+- 2025.10.11: SAM 3 arrives! Officially announced and set to launch.
 - 2025.04.22: SAM2 won the ICLR 2025 Best Paper Honorable Mention.
 - 2024.07.31: The first survey on SAM & SAM2 for Videos was online.
 - 2024.07.29: The SAM 2 was released.
@@ -153,6 +154,10 @@ If you find our work useful in your research, please consider citing:
   [[blog](https://ai.meta.com/blog/segment-anything-2)] 
   [2024.07]
 
+- **SAM3:** Meta AI.<br />
+  "Segment Anything 3." arXiv (2025). 
+  [[homepage](https://ai.meta.com/sam3/)] 
+  [2025.10]
 
 - **GPT-4V:** OpenAI.<br />
   "GPT-4V(ision) System Card." ArXiv (2023).
