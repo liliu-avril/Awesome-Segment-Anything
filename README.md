@@ -154,7 +154,7 @@ If you find our work useful in your research, please consider citing:
   [[blog](https://ai.meta.com/blog/segment-anything-2)] 
   [2024.07]
 
-- **SAM3:** Meta AI.<br />
+:boom:**SAM 3:** Meta AI.<br />
   "Segment Anything 3." arXiv (2025). 
   [[homepage](https://ai.meta.com/sam3/)] 
   [2025.10]
