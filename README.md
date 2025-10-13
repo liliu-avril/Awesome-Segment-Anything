@@ -288,41 +288,46 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2510.08967)]
 [2025.10]
 
-:boom:**nnSAM2:** Zhongyi Zhang, Julie A. Hides, Enrico De Martino, Abdul Joseph Fofanah, Gervase Tuxworth.<br />
+:boom:Parhom Esmaeili, Virginia Fernandez, Pedro Borges, Eli Gibson, Sebastien Ourselin, M. Jorge Cardoso.<br />
+"A methodology for clinically driven interactive segmentation evaluation." MICCAI (2025).
+[[paper](https://arxiv.org/abs/2510.09499)]
+[2025.10]
+
+- **nnSAM2:** Zhongyi Zhang, Julie A. Hides, Enrico De Martino, Abdul Joseph Fofanah, Gervase Tuxworth.<br />
 "nnSAM2: nnUNet-Enhanced One-Prompt SAM2 for Few-shot Multi-Modality Segmentation and Composition Analysis of Lumbar Paraspinal Muscles." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.05555)]
 [2025.10]
 
-:boom:**SegMASt3R:** Rohit Jayanti, Swayam Agrawal, Vansh Garg, Siddharth Tourani, Muhammad Haris Khan, Sourav Garg, Madhava Krishna.<br />
+- **SegMASt3R:** Rohit Jayanti, Swayam Agrawal, Vansh Garg, Siddharth Tourani, Muhammad Haris Khan, Sourav Garg, Madhava Krishna.<br />
 "SegMASt3R: Geometry Grounded Segment Matching." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2510.02815)]
 [[code](https://segmast3r.github.io/)]
 [2025.10]
 
-:boom:**Med-K2N:** Feng Yuan, Yifan Gao, Yuehua Ye, Haoyue Li, Xin Gao.<br />
+- **Med-K2N:** Feng Yuan, Yifan Gao, Yuehua Ye, Haoyue Li, Xin Gao.<br />
 "Med-K2N: Flexible K-to-N Modality Translation for Medical Image Synthesis." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.02815)]
 [[code](https://github.com/gatina-yone/Med-K2N)]
 [2025.10]
 
-:boom:**YOLOv10+MobileSAM:** Lyes Saad Saoud, Loic Lesobre, Enrico Sorato, Irfan Hussain.<br />
+- **YOLOv10+MobileSAM:** Lyes Saad Saoud, Loic Lesobre, Enrico Sorato, Irfan Hussain.<br />
 "Real-Time Threaded Houbara Detection and Segmentation for Wildlife Conservation using Mobile Platforms." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.03501)]
 [[code](https://lyessaadsaoud.github.io/LyesSaadSaoud-Threaded-YOLO-SAM-Houbara)]
 [2025.10]
 
-:boom:**UGround:** Rui Qian, Xin Yin, Chuanhang Deng, Zhiyuan Peng, Jian Xiong, Wei Zhai, Dejing Dou.<br />
+- **UGround:** Rui Qian, Xin Yin, Chuanhang Deng, Zhiyuan Peng, Jian Xiong, Wei Zhai, Dejing Dou.<br />
 "UGround: Towards Unified Visual Grounding with Unrolled Transformers." ArXiv (2025).
 [[paper](https://arxiv.org/pdf/2510.03853)]
 [[code](https://github.com/rui-qian/UGround)]
 [2025.10]
 
-:boom:Günel Aghakishiyeva, Jiayi Zhou, Saagar Arya, James David Poling, Holly R. Houliston, Jamie N. Womble, David W. Johnston, Brinnae Bent.<br />
+- Günel Aghakishiyeva, Jiayi Zhou, Saagar Arya, James David Poling, Holly R. Houliston, Jamie N. Womble, David W. Johnston, Brinnae Bent.<br />
 "Photorealistic Inpainting for Perturbation-based Explanations in Ecological Monitoring." NeurIPS Workshop (2025).
 [[paper](https://arxiv.org/abs/2510.03317)]
 [2025.10]
 
-:boom:**SAMSOD:** Zhengyi Liu, Xinrui Wang, Xianyong Fang, Zhengzheng Tu, Linbo Wang.<br />
+- **SAMSOD:** Zhengyi Liu, Xinrui Wang, Xianyong Fang, Zhengzheng Tu, Linbo Wang.<br />
 "SAMSOD: Rethinking SAM Optimization for RGB-T Salient Object Detection." TMM (2025).
 [[paper](https://arxiv.org/abs/2510.03689)]
 [2025.10]
