@@ -283,6 +283,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM2-3dMed:** Yeqing Yang, Le Xu, Lixia Tian.<br />
+"SAM2-3dMed: Empowering SAM2 for 3D Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.08967)]
+[2025.10]
+
 :boom:**nnSAM2:** Zhongyi Zhang, Julie A. Hides, Enrico De Martino, Abdul Joseph Fofanah, Gervase Tuxworth.<br />
 "nnSAM2: nnUNet-Enhanced One-Prompt SAM2 for Few-shot Multi-Modality Segmentation and Composition Analysis of Lumbar Paraspinal Muscles." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.05555)]
