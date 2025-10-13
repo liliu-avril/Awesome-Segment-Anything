@@ -65,14 +65,14 @@ If you find our work useful in your research, please consider citing:
 ```
 
 ## Survey
-- **The first comprehensive SAM survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
+- **The First Comprehensive SAM Survey:** Chunhui Zhang, Li Liu, Yawen Cui, Guanjie Huang, Weilin Lin, Yiqian Yang, Yuehong Hu.<br />
   "A Comprehensive Survey on Segment Anything Model for Vision and Beyond." ArXiv (2024).
   [[paper](https://arxiv.org/abs/2305.08196)]
   [[homepage]](https://github.com/liliu-avril/Awesome-Segment-Anything)
   [[中文解读]](https://mp.weixin.qq.com/s/uYpRzvRp22-40x8e0pLVIg)
   [2023.05]
 
-- **The first survey on SAM & SAM2 for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
+- **The First Survey on SAM & SAM2 for Videos:** Chunhui Zhang, Yawen Cui, Weilin Lin, Guanjie Huang, Yan Rong, Li Liu, Shiguang Shan.<br />
   "Segment Anything for Videos: A Systematic Survey." ArXiv (2024).
 [[ArXiv]](https://arxiv.org/abs/2408.08315) 
 [[ChinaXiv]](https://chinaxiv.org/abs/202408.00019)
