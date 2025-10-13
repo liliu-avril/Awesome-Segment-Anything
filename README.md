@@ -14,9 +14,11 @@
 
 #### We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)].
 
+:boom:**[SAM 3](https://ai.meta.com/sam3/): The paper of [SAM 3](https://openreview.net/pdf?id=r35clVtGzw) was released.**
+
 :boom:**[SAM 2](https://github.com/facebookresearch/segment-anything-2): Segment Anything in Images and Videos was released.**
 
-:boom:**[The first survey on SAM & SAM2 for videos](https://github.com/983632847/SAM-for-Videos): Segment Anything for Videos: A Systematic Survey was online.**
+:boom:**[SAM & SAM2 for videos](https://github.com/983632847/SAM-for-Videos): The first survey on Segment Anything for Videos: A Systematic Survey was online.**
 ____
 
 ## :fire: Highlights
