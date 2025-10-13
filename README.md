@@ -157,7 +157,7 @@ If you find our work useful in your research, please consider citing:
   [2024.07]
 
 :boom:**SAM 3:** Meta AI.<br />
-  "Segment Anything 3." arXiv (2025). 
+  "SAM 3: Segment Anything with Concepts." arXiv (2025). 
   [[paper](https://openreview.net/pdf?id=r35clVtGzw)]
   [[homepage](https://ai.meta.com/sam3/)] 
   [2025.10]
