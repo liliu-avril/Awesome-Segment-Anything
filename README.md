@@ -304,6 +304,26 @@ If you find our work useful in your research, please consider citing:
 [[code](https://neu-vi.github.io/SNAP/)]
 [2025.10]
 
+:boom:**SparseUWSeg:** César Borja, Carlos Plou, Rubén Martinez-Cantín, Ana C. Murillo.<br />
+"SparseUWSeg: Active Sparse Point-Label Augmentation for Underwater Semantic Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.10163)]
+[2025.10]
+
+:boom:**CLIP-SAM:** Yanning Hou, Ke Xu, Junfa Li, Yanran Ruan, Jianfeng Qiu.<br />
+"Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts." PRCV (2025).
+[[paper](https://arxiv.org/abs/2510.11028)]
+[2025.10]
+
+:boom:**HuLiRAG:** Suyang Xi, Chenxi Yang, Hong Ding, Yiqing Ni, Catherine C. Liu, Yunhao Liu, Chengqi Zhang.<br />
+"Taming a Retrieval Framework to Read Images in Humanlike Manner for Augmenting Generation of MLLMs." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.10426)]
+[2025.10]
+
+:boom:**J-RAS:** Salma J. Ahmed, Emad A. Mohammed, Azam Asilian Bidgoli.<br />
+"J-RAS: Enhancing Medical Image Segmentation via Retrieval-Augmented Joint Training." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.09953)]
+[2025.10]
+
 :boom:**SAM2-3dMed:** Yeqing Yang, Le Xu, Lixia Tian.<br />
 "SAM2-3dMed: Empowering SAM2 for 3D Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.08967)]
