@@ -286,6 +286,24 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM2LoRA:** Sayan Mandal, Divyadarshini Karthikeyan, Manas Paldhe.<br />
+"SAM2LoRA: Composite Loss-Guided, Parameter-Efficient Finetuning of SAM2 for Retinal Fundus Segmentation." ICMLA (2025).
+[[paper](https://arxiv.org/abs/2510.10288)]
+[[code](https://github.com/sayanmndl/SAM2LoRA)]
+[2025.10]
+
+:boom:**LM-EEC:** Yijun Hu, Bing Fan, Xin Gu, Haiqing Ren, Dongfang Liu, Heng Fan, Libo Zhang.<br />
+"Robust Ego-Exo Correspondence with Long-Term Memory." NeurIPS (2025).
+[[paper](https://arxiv.org/abs/2510.11417)]
+[[code](https://github.com/juneyeeHu/LM-EEC)]
+[2025.10]
+
+:boom:**SNAP:** Aniket Gupta, Hanhui Wang, Charles Saunders, Aruni RoyChowdhury, Hanumant Singh, Huaizu Jiang.<br />
+"SNAP: Towards Segmenting Anything in Any Point Cloud." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.11565)]
+[[code](https://neu-vi.github.io/SNAP/)]
+[2025.10]
+
 :boom:**SAM2-3dMed:** Yeqing Yang, Le Xu, Lixia Tian.<br />
 "SAM2-3dMed: Empowering SAM2 for 3D Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.08967)]
