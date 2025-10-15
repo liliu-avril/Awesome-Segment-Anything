@@ -286,6 +286,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Simon Ravé, Jean-Christophe Lombardo, Pejman Rasti, Alexis Joly, David Rousseau.<br />
+"Unlocking Zero-Shot Plant Segmentation with Pl@ntNet Intelligence." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.12579)]
+[2025.10]
+
+:boom:**CurriFlow:** Jinzhou Lin, Jie Zhou, Wenhao Xu, Rongtao Xu, Changwei Wang, Shunpeng Chen, Kexue Fu, Yihua Shao, Li Guo, Shibiao Xu.<br />
+"CurriFlow: Curriculum-Guided Depth Fusion with Optical Flow-Based Temporal Alignment for 3D Semantic Scene Completion." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.12362)]
+[2025.10]
+
 :boom:**SAM2LoRA:** Sayan Mandal, Divyadarshini Karthikeyan, Manas Paldhe.<br />
 "SAM2LoRA: Composite Loss-Guided, Parameter-Efficient Finetuning of SAM2 for Retinal Fundus Segmentation." ICMLA (2025).
 [[paper](https://arxiv.org/abs/2510.10288)]
