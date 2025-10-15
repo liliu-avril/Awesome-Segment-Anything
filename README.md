@@ -282,6 +282,12 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/facebookresearch/dinov3)]
 [2025.08]
 
+- **Rex-Omni:** Qing Jiang, Junan Huo, Xingyu Chen, Yuda Xiong, Zhaoyang Zeng, Yihao Chen, Tianhe Ren, Junzhi Yu, Lei Zhang.<br />
+"Detect Anything via Next Point Prediction." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.12798)]
+[[project](http://rex-omni.github.io/)]
+[[code](https://github.com/IDEA-Research/Rex-Omni)]
+[2025.10]
 
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
