@@ -292,6 +292,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**CIGOcc:** Rongtao Xu, Jinzhou Lin, Jialei Zhou, Jiahua Dong, Changwei Wang, Ruisheng Wang, Li Guo, Shibiao Xu, Xiaodan Liang.<br />
+"Complementary Information Guided Occupancy Prediction via Multi-Level Representation Fusion." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.13198)]
+[[code](https://github.com/VitaLemonTea1/CIGOcc)]
+[2025.10]
+
 :boom:Simon Ravé, Jean-Christophe Lombardo, Pejman Rasti, Alexis Joly, David Rousseau.<br />
 "Unlocking Zero-Shot Plant Segmentation with Pl@ntNet Intelligence." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.12579)]
