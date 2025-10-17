@@ -521,7 +521,7 @@ Fengyu Liang, and Panpan Yuan.<br />
 :boom:**CUGD:** Zeng, Xiangrui and Zhu, Lingyu and Yang, Wenhan and Leung, Howard and Wang, Shiqi and Kwong, Sam.<br />
 "Low-Light Image Enhancement via Diffusion Models with Semantic Priors of Any Region." TCSVT (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11192523)]
-[[code](https: //github.com/lingyzhu0101/Diffusion Image Enhancement.git)]
+[[code](https://github.com/lingyzhu0101/Diffusion Image Enhancement.git)]
 [2025.10]
 
 :boom:**SPSIS:** Wang, Yinda and Pan, Yaozhong and Lei, Hao and Jin, Decai and Chen, Jiahui.<br />
