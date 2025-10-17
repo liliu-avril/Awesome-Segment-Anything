@@ -292,6 +292,129 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**e-CNN-GRU-SAM:** Santosh Bisoyi, Amit Kumar Rathi & Swarup Mahato.<br />
+"Fault diagnosis of rolling bearing failures using a multi-stage e-CNN-GRU-SAM network." Scientific Reports (2025).
+[[paper](https://www.nature.com/articles/s41598-025-17008-y)]
+[2025.10]
+
+:boom:**HalF-SAM:** Mayank Golhar, Luojie Huang, Nicholas J. Durr.<br />
+"HalF-SAM: SAM-Based Haustral Fold Detection in Colonoscopy with Debris Suppression and Temporal Consistency." MICCAI (2025).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-032-05114-1_29)]
+[2025.10]
+
+:boom:**KSAM:** Hengyuan Zhang, Peng Qiao, Wenyu Li, Yan Jia, Yong Dou.<br />
+"Knowledge Bridges the Intent Gap: Contextual Fusion in Medical Fine-Grained Segmentation." MICCAI (2025).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-032-04927-8_27)]
+[2025.10]
+
+:boom:**TemSAM:** Liang Zhang, Xixi Jiang, Xiaohuan Ding, Zihang Huang, Tianyu Zhao, Xin Yang.<br />
+"TemSAM: Temporal-Aware Segment Anything Model for Cerebrovascular Segmentation in Digital Subtraction Angiography Sequences." MICCAI (2025).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-032-04927-8_58)]
+[[code](https://github.com/zhang-liang-hust/TemSAM)]
+[2025.10]
+
+:boom:Zhang, X., Ali, S., Kang, Y. et al.<br />
+"Liver mask-guided SAM-enhanced dual-decoder network for landmark segmentation in AR-guided surgery." Int J CARS (2025).
+[[paper](https://link.springer.com/article/10.1007/s11548-025-03516-9)]
+[2025.10]
+
+:boom:**TongueSAM_Lite:** Qunsheng Ruan, Shan Cao, Zhirong Luo.<br />
+"A lightweight segmentation model based on Segment Anything Model for tongue image segmentation." Engineering Applications of Artificial Intelligence (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0952197625023875)]
+[[code](https://github.com/ruanqunsheng/TongueSAM_Lite)]
+[2025.10]
+
+:boom:M. Franaszek, P. Piliptchak, P. Rachakonda, and K. S. Saidi.<br />
+"Investigating the Ambiguity of SAM when Applied to Depth and RGB Images." SEIA (2025).
+[[paper](https://www.researchgate.net/profile/Sergey-Yurish/publication/396033705_Sensors_and_Electronic_Instrumentation_Advances_Proceedings_of_the_11-th_International_Conference_on_Sensors_and_Electronic_Instrumentation_Advances_SEIA'_2025/links/68dcfe46f3032e2b4be5409b/Sensors-and-Electronic-Instrumentation-Advances-Proceedings-of-the-11-th-International-Conference-on-Sensors-and-Electronic-Instrumentation-Advances-SEIA-2025.pdf?__cf_chl_tk=QTVpQPEmIb4T7h8dfuS4iAsINoaj2ElgUcFXj1REWfU-1760704269-1.0.1.1-OkiIw8VxqlykeJM2l2tSlkitc8RQ3EWpiSn621Zcwt0#page=65)]
+[2025.10]
+
+:boom:**AdaptVFMs-RSCD:** Wandong Jiang, Yuli Sun, Lin Lei, Gangyao Kuang, Kefeng Ji.<br />
+"AdaptVFMs-RSCD: Advancing Remote Sensing Change Detection from binary to semantic with SAM and CLIP." ISPRS Journal of Photogrammetry and Remote Sensing (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0924271625003636)]
+[2025.10]
+
+:boom:**GC-SAM:** Lanlan Li, Chongyang Wang, Yi Geng et al.<br />
+"Segment Anything Model for Gastric Cancer." Cancer Medicine (2025).
+[[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/cam4.71246)]
+[2025.10]
+
+:boom:**BiSTC-SAM:** Minghao Wang et al.<br />
+"A segment anything model for transesophageal echocardiography based on bidirectional spatiotemporal context fusion." Information Fusion (2025).
+[[paper](https://doi.org/10.1016/j.inffus.2025.103771)]
+[2025.10]
+
+:boom:**Embed-MedSAM:** Zhang, Y., Ye, F., Yu, X. et al.<br />
+"Embedded framework for clinical medical image segment anything in resource limited healthcare regions." npj Digit. Med (2025).
+[[paper](https://doi.org/10.1038/s41746-025-01881-y)]
+[2025.10]
+
+:boom:**IPLC+:** Zhang, Guoning and Qi, Xiaoran and Wu, Jianghao and Yan, Bo and Wang, Guotai.<br />
+"IPLC+: SAM-Guided Iterative Pseudo Label Correction for Source-Free Domain Adaptation in Medical Image Segmentation." JBHI (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11177220)]
+[[code](https://github.com/HiLab-git/IPLC)]
+[2025.10]
+
+:boom:Zhirong Li, Fuzhong Bai, Yue Liu, Xiaojuan Gao and Zhaoxin Xu.<br />
+"Binocular 3D reconstruction for wood ice cream sticks via speckle projection and SAM2 mask extraction." Engineering Research
+Express (2025).
+[[paper](https://iopscience.iop.org/article/10.1088/2631-8695/ae0c5a/meta)]
+[2025.10]
+
+:boom:**PlaneSAM** Zhongchen Deng et al.<br />
+"Multimodal plane instance segmentation with the Segment Anything Model." Automation in Construction (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0926580525005813)]
+[2025.10]
+
+:boom:**S-T-Simi:** Cao, Yuan and He, Shuyi and Wang, Feng and Su, Shuai and Sun, Yongkui.<br />
+"A Large-Model-Enhanced Method for Rail Surface Defect Detection in Heavy-Haul Railway." TITS (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11184686)]
+[2025.10]
+
+:boom:**H-fusion SEG:** ElShafai, W., Ali, A.M., Alzaben, N. et al.<br />
+"H-fusion SEG: dual-branch hyper-attention fusion network with SAM integration for robust skin disease segmentation." Scientific Reports (2025).
+[[paper](https://www.nature.com/articles/s41598-025-18202-8)]
+[[code](https://github.com/AnasHXH/Skin-DiseaseS-Segmentation)]
+[2025.10]
+
+:boom:Sihang Zhang, Zhi Yang, Yupeng Li, Chang Liu, Boyan Jia, Hongliang Liu.<br />
+"Flood detection for satellite and UAV remote sensing based on fine-tuned SAM." RSGPA (2025).
+[[paper](https://doi.org/10.1117/12.3082298)]
+[2025.10]
+
+:boom:**SAMAug:** Lorenzo Carisi, Francesco Chiereghin, Carlo Fantozzi and Loris Nanni.<br />
+"SAM-Based Input Augmentations and Ensemble Strategies for Image Segmentation." Information (2025).
+[[paper](https://doi.org/10.3390/info16100848)]
+[2025.10]
+
+:boom:**ORIC340:** Yupeng Du, Qiang Qu, Cong Zhang, Xu Wang, Guowen Kuang, Mengna Wen, Man Liu, Jinfeng Yang,
+Fengyu Liang, and Panpan Yuan.<br />
+"Oral Radiological Indices Calculation Based on SAM." Engineering Letters (2025).
+[[paper](https://www.engineeringletters.com/issues_v33/issue_10/EL_33_10_17.pdf)]
+[2025.10]
+
+:boom:Akshat Vashisht et al.<br />
+"Effective Segmentation of Grape Leaves Using Segment Anything Model 2." ArXiv (2025).
+[[paper](https://books.google.com.hk/books?hl=zh-CN&lr=&id=2R-LEQAAQBAJ&oi=fnd&pg=PA374&dq=%22segment+anything%22&ots=QPzdzoQEJv&sig=hO1C18FAT1_-MOpHSdzaSqKjpFM&redir_esc=y#v=onepage&q=%22segment%20anything%22&f=false)]
+[2025.10]
+
+:boom:**SSRA:** Shaohui Jing et al.<br />
+"SSRA: Semantic Segmentation-Guided Region-Attention Colorization Method." LGRS (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11192536)]
+[2025.10]
+
+:boom:**DenSiSeg:** Yichao Cao et al.<br />
+"Refining the granularity of smoke representation: SAM-powered density-aware progressive smoke segmentation framework." Pattern Recognition (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S003132032501180X)]
+[[code](https://github.com/Caoyichao/DenSiSeg)]
+[2025.10]
+
+:boom:**CUGD:** Zeng, Xiangrui and Zhu, Lingyu and Yang, Wenhan and Leung, Howard and Wang, Shiqi and Kwong, Sam.<br />
+"Low-Light Image Enhancement via Diffusion Models with Semantic Priors of Any Region." TCSVT (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11192523)]
+[[code](https: //github.com/lingyzhu0101/Diffusion Image Enhancement.git)]
+[2025.10]
+
 :boom:**SPSIS:** Wang, Yinda and Pan, Yaozhong and Lei, Hao and Jin, Decai and Chen, Jiahui.<br />
 "SPSIS: Single-Point Supervised Instance Segmentation for Remote Sensing." JSTARS (2025).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11186225)]
