@@ -292,6 +292,61 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SPSIS:** Wang, Yinda and Pan, Yaozhong and Lei, Hao and Jin, Decai and Chen, Jiahui.<br />
+"SPSIS: Single-Point Supervised Instance Segmentation for Remote Sensing." JSTARS (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11186225)]
+[2025.10]
+
+:boom:Chai, M., Huang, R., Zeng, Z., Chang, R., Tan, W., Feng, S.<br />
+"Potential of an adapting segment anything model (SAM) for automatically extracting supraglacial lakes from satellite imagery over the Greenland ice sheet." International Journal of Digital Earth (2025).
+[[paper](https://www.tandfonline.com/doi/full/10.1080/17538947.2025.2554312)]
+[2025.10]
+
+:boom:**SAMMed-VR:** Vahid Pooryousef et al.<br />
+"SAMMed-VR: Integrated Segment Anything Model in Virtual Reality for Supervised Brain Tumour Segmentation." ArXiv (2025).
+[[paper](https://www.researchgate.net/profile/Jiazhou-Liu/publication/396192974_SAMMed-VR_Integrated_Segment_Anything_Model_in_Virtual_Reality_for_Supervised_Brain_Tumour_Segmentation/links/68e0f633ffdca73694b55d78/SAMMed-VR-Integrated-Segment-Anything-Model-in-Virtual-Reality-for-Supervised-Brain-Tumour-Segmentation.pdf)]
+[2025.10]
+
+:boom:**USD:** Wang, Jin and Zhang, Bingfeng and Pang, Jian and Liu, Weifeng and Liu, Baodi and Chen, Honglong.<br />
+"Unbiased Semantic Decoding With Vision Foundation Models for Few-Shot Segmentation." TNNLS (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11185253)]
+[2025.10]
+
+:boom:Hong-Deok Seo;Eui-Myoung Kim.<br />
+"Building Segmentation Using Multiprompts and Fine-tuned Segment Anything Model 2." Sensors & Materials (2025).
+[[paper](https://doi.org/10.18494/SAM5730)]
+[2025.10]
+
+:boom:**ZSPose:** Sheng Yu et al.<br />
+"ZSPose: Instance-Level Zero-Shot Object Pose Estimation with Segment Anything Model." IEEE TASE (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11195205)]
+[2025.10]
+
+:boom:Fauzia Aristalindra et al.<br />
+"Penerapan SAM-Geo untuk Delineasi Otomatis Batas Bidang Tanah Pertanian pada Ortofoto." ArXiv (2025).
+[[paper](https://jurnalwidyabhumi.stpn.ac.id/index.php/JWB/article/view/247)]
+[2025.10]
+
+:boom:Agus Ambarwari et al.<br />
+"Domain-Aware Transfer Learning with SAM-Assisted Mask R-CNN for Urban Tree Crown Delineation from UAV Orthophotos." IEEE Access (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11199025)]
+[2025.10]
+
+:boom:**ESAM2-BLS:** Lishuang Guo, Haonan Zhang, Chenbin Ma.<br />
+"ESAM2-BLS: Enhanced Segment Anything Model 2 for Efficient Breast Lesion Segmentation in Ultrasound Imaging." Computerized Medical Imaging and Graphics (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0895611125001636)]
+[2025.10]
+
+:boom:**OSLSM:** Wei Y, Guo Z, Li C, Li W, Wang S.<br />
+"SAM-Based Few-Shot Learning for Coastal Vegetation Segmentation in UAV Imagery via Cross-Matching and Self-Matching." Remote Sens (2025).
+[[paper](https://www.mdpi.com/2072-4292/17/20/3404)]
+[2025.10]
+
+:boom:**Space-SAM:** Yizhuo Zhao, Hongwei Yang.<br />
+"Space-SAM: On-Orbit Real-Time Semantic Segmentation for Space Imaging Objects." Advances in Space Research (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0273117725011639)]
+[2025.10]
+
 :boom:Su, Y., Tan, S., Zhang, Y. et al.<br />
 "Universal forged image detection and localization via self-supervised data generation and large-scale model adaptation." Multimedia Systems (2025).
 [[paper](https://link.springer.com/article/10.1007/s00530-025-02037-4)]
