@@ -292,6 +292,37 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Su, Y., Tan, S., Zhang, Y. et al.<br />
+"Universal forged image detection and localization via self-supervised data generation and large-scale model adaptation." Multimedia Systems (2025).
+[[paper](https://link.springer.com/article/10.1007/s00530-025-02037-4)]
+[2025.10]
+
+:boom:Cynthia Baseman, Yingtian Shi, Zikang Leng, Yaqi Liu, Gabriel Santamarina, Marcos C. Schechter, Maya Fayfman, Thomas Ploetz, Rosa I. Arriaga.<br />
+"Towards More Equitable Ulcer Recognition Models: A Dataset of Naturalistic Foot Images from People of Color Living with Diabetes." IEEE BHI (2025).
+[[paper](https://openreview.net/pdf?id=v0ZDvVLro6)]
+[2025.10]
+
+:boom:Ranit Karmakar , William V. Trim , Marc Kirschner, Simon F. Nørrelykke.<br />
+"Kidney Tissue Characterization using Normalized Raman Imaging and Segment-Anything." ArXiv (2025).
+[[paper](https://www.biorxiv.org/content/10.1101/2025.10.09.681509v2.abstract)]
+[2025.10]
+
+:boom:**SwinMas:** Mohammed Lawal, Dewei Yi.<br />
+"SwinMas: Shifted Windows and Mask Unit Attention with auxiliary supervision for medical image segmentation." Biomedical Signal Processing and Control (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1746809425013692)]
+[[code](https://github.com/mantis180/SwinMas)]
+[2025.10]
+
+:boom:Tanveer, Jawad.<br />
+"Draft Version of Refining Early Breast Cancer Detection Accuracy: Leveraging a Large Vision-Language Model Framework in Medical Imaging for Enhanced Precision." ArXiv (2025).
+[[paper](https://www.researchgate.net/profile/Jawad-Tanveer-2/publication/396389691_Draft_Version_of_Refining_Early_Breast_Cancer_Detection_Accuracy_Leveraging_a_Large_Vision-Language_Model_Framework_in_Medical_Imaging_for_Enhanced_Precision/links/68e91570f3032e2b4be813fc/Draft-Version-of-Refining-Early-Breast-Cancer-Detection-Accuracy-Leveraging-a-Large-Vision-Language-Model-Framework-in-Medical-Imaging-for-Enhanced-Precision.pdf)]
+[2025.10]
+
+:boom:Ayhan Can Erdur et al.<br />
+"Independent Benchmarking of Prompt-Based Medical Segmentation Models." ArXiv (2025).
+[[paper](https://doi.org/10.21203/rs.3.rs-7593773/v1)]
+[2025.10]
+
 :boom:**CIGOcc:** Rongtao Xu, Jinzhou Lin, Jialei Zhou, Jiahua Dong, Changwei Wang, Ruisheng Wang, Li Guo, Shibiao Xu, Xiaodan Liang.<br />
 "Complementary Information Guided Occupancy Prediction via Multi-Level Representation Fusion." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.13198)]
