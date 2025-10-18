@@ -2377,6 +2377,11 @@ Express (2025).
 [[code](https://geshang777.github.io/seg-r1.github.io/)]
 [2025.06]
 
+- **SFMS:** Zhan, Tianming and Qi, Jiaqiang and Zhang, Jinjin and Yu, Xiaobin and Du, Qian and Wu, Zebin.<br />
+"Spatial–Spectral Feature-Enhanced Mamba and SAM-Guided Hyperspectral Multiclass Change Detection." TGRS (2025).
+[[paper](https://ieeexplore.ieee.org/document/11045957)]
+[2025.06]
+
 - **CRISP-SAM2:** Xinlei Yu, Chanmiao Wang, Hui Jin, Ahmed Elazab, Gangyong Jia, Xiang Wan, Changqing Zou, Ruiquan Ge.<br />
 "CRISP-SAM2: SAM2 with Cross-Modal Interaction and Semantic Prompting for Multi-Organ Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2506.23121)]
