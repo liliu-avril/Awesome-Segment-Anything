@@ -292,66 +292,76 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**CIGOcc:** Rongtao Xu, Jinzhou Lin, Jialei Zhou, Jiahua Dong, Changwei Wang, Ruisheng Wang, Li Guo, Shibiao Xu, Xiaodan Liang.<br />
+:boom:**MViT-AE:** Gerard Comas-Quiles, Carles Garcia-Cabrera, Julia Dietlmeier, Noel E. O'Connor, Ferran Marques.<br />
+"Towards Label-Free Brain Tumor Segmentation: Unsupervised Learning with Multimodal MRI." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.15684)]
+[2025.10]
+
+:boom:**UA-EPT:** Lei Shi, Gang Li, Junxing Zhang.<br />
+"Uncertainty-Aware Extreme Point Tracing for WeaklySupervised Ultrasound Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.15666)]
+[2025.10]
+
+- **CIGOcc:** Rongtao Xu, Jinzhou Lin, Jialei Zhou, Jiahua Dong, Changwei Wang, Ruisheng Wang, Li Guo, Shibiao Xu, Xiaodan Liang.<br />
 "Complementary Information Guided Occupancy Prediction via Multi-Level Representation Fusion." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.13198)]
 [[code](https://github.com/VitaLemonTea1/CIGOcc)]
 [2025.10]
 
-:boom:Simon Ravé, Jean-Christophe Lombardo, Pejman Rasti, Alexis Joly, David Rousseau.<br />
+- Simon Ravé, Jean-Christophe Lombardo, Pejman Rasti, Alexis Joly, David Rousseau.<br />
 "Unlocking Zero-Shot Plant Segmentation with Pl@ntNet Intelligence." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.12579)]
 [2025.10]
 
-:boom:**CurriFlow:** Jinzhou Lin, Jie Zhou, Wenhao Xu, Rongtao Xu, Changwei Wang, Shunpeng Chen, Kexue Fu, Yihua Shao, Li Guo, Shibiao Xu.<br />
+- **CurriFlow:** Jinzhou Lin, Jie Zhou, Wenhao Xu, Rongtao Xu, Changwei Wang, Shunpeng Chen, Kexue Fu, Yihua Shao, Li Guo, Shibiao Xu.<br />
 "CurriFlow: Curriculum-Guided Depth Fusion with Optical Flow-Based Temporal Alignment for 3D Semantic Scene Completion." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.12362)]
 [2025.10]
 
-:boom:**SAM2LoRA:** Sayan Mandal, Divyadarshini Karthikeyan, Manas Paldhe.<br />
+- **SAM2LoRA:** Sayan Mandal, Divyadarshini Karthikeyan, Manas Paldhe.<br />
 "SAM2LoRA: Composite Loss-Guided, Parameter-Efficient Finetuning of SAM2 for Retinal Fundus Segmentation." ICMLA (2025).
 [[paper](https://arxiv.org/abs/2510.10288)]
 [[code](https://github.com/sayanmndl/SAM2LoRA)]
 [2025.10]
 
-:boom:**LM-EEC:** Yijun Hu, Bing Fan, Xin Gu, Haiqing Ren, Dongfang Liu, Heng Fan, Libo Zhang.<br />
+- **LM-EEC:** Yijun Hu, Bing Fan, Xin Gu, Haiqing Ren, Dongfang Liu, Heng Fan, Libo Zhang.<br />
 "Robust Ego-Exo Correspondence with Long-Term Memory." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2510.11417)]
 [[code](https://github.com/juneyeeHu/LM-EEC)]
 [2025.10]
 
-:boom:**SNAP:** Aniket Gupta, Hanhui Wang, Charles Saunders, Aruni RoyChowdhury, Hanumant Singh, Huaizu Jiang.<br />
+- **SNAP:** Aniket Gupta, Hanhui Wang, Charles Saunders, Aruni RoyChowdhury, Hanumant Singh, Huaizu Jiang.<br />
 "SNAP: Towards Segmenting Anything in Any Point Cloud." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.11565)]
 [[code](https://neu-vi.github.io/SNAP/)]
 [2025.10]
 
-:boom:**SparseUWSeg:** César Borja, Carlos Plou, Rubén Martinez-Cantín, Ana C. Murillo.<br />
+- **SparseUWSeg:** César Borja, Carlos Plou, Rubén Martinez-Cantín, Ana C. Murillo.<br />
 "SparseUWSeg: Active Sparse Point-Label Augmentation for Underwater Semantic Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.10163)]
 [2025.10]
 
-:boom:**CLIP-SAM:** Yanning Hou, Ke Xu, Junfa Li, Yanran Ruan, Jianfeng Qiu.<br />
+- **CLIP-SAM:** Yanning Hou, Ke Xu, Junfa Li, Yanran Ruan, Jianfeng Qiu.<br />
 "Enhancing Zero-Shot Anomaly Detection: CLIP-SAM Collaboration with Cascaded Prompts." PRCV (2025).
 [[paper](https://arxiv.org/abs/2510.11028)]
 [2025.10]
 
-:boom:**HuLiRAG:** Suyang Xi, Chenxi Yang, Hong Ding, Yiqing Ni, Catherine C. Liu, Yunhao Liu, Chengqi Zhang.<br />
+- **HuLiRAG:** Suyang Xi, Chenxi Yang, Hong Ding, Yiqing Ni, Catherine C. Liu, Yunhao Liu, Chengqi Zhang.<br />
 "Taming a Retrieval Framework to Read Images in Humanlike Manner for Augmenting Generation of MLLMs." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.10426)]
 [2025.10]
 
-:boom:**J-RAS:** Salma J. Ahmed, Emad A. Mohammed, Azam Asilian Bidgoli.<br />
+- **J-RAS:** Salma J. Ahmed, Emad A. Mohammed, Azam Asilian Bidgoli.<br />
 "J-RAS: Enhancing Medical Image Segmentation via Retrieval-Augmented Joint Training." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.09953)]
 [2025.10]
 
-:boom:**SAM2-3dMed:** Yeqing Yang, Le Xu, Lixia Tian.<br />
+- **SAM2-3dMed:** Yeqing Yang, Le Xu, Lixia Tian.<br />
 "SAM2-3dMed: Empowering SAM2 for 3D Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.08967)]
 [2025.10]
 
-:boom:Parhom Esmaeili, Virginia Fernandez, Pedro Borges, Eli Gibson, Sebastien Ourselin, M. Jorge Cardoso.<br />
+- Parhom Esmaeili, Virginia Fernandez, Pedro Borges, Eli Gibson, Sebastien Ourselin, M. Jorge Cardoso.<br />
 "A methodology for clinically driven interactive segmentation evaluation." MICCAI (2025).
 [[paper](https://arxiv.org/abs/2510.09499)]
 [2025.10]
