@@ -292,6 +292,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Memory-SAM:** Joongwon Chae, Lihui Luo, Xi Yuan, Dongmei Yu, Zhenglin Chen, Lian Zhang, Peiwu Qin.<br />
+"Memory-SAM: Human-Prompt-Free Tongue Segmentation via Retrieval-to-Prompt." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.15849)]
+[[code](https://github.com/jw-chae/memory-sam)]
+[2025.10]
+
 :boom:**MViT-AE:** Gerard Comas-Quiles, Carles Garcia-Cabrera, Julia Dietlmeier, Noel E. O'Connor, Ferran Marques.<br />
 "Towards Label-Free Brain Tumor Segmentation: Unsupervised Learning with Multimodal MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.15684)]
