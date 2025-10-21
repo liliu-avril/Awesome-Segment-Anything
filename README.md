@@ -293,6 +293,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Akhila Kambhatla, Ahmed R Khaled.<br />
+"Beyond RGB: Leveraging Vision Transformers for Thermal Weapon Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.16913)]
+[2025.10]
+
+:boom:**UCIS-SAM:** Chuhong Wang, Hua Li, Chongyi Li, Huazhong Liu, Xiongxin Tang, Sam Kwong.<br />
+"Expose Camouflage in the Water: Underwater Camouflaged Instance Segmentation and Dataset." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.17585)]
+[[code](https://github.com/wchchw/UCIS4K)]
+[2025.10]
+
+:boom:**Semantic-E2VID:** Jingqian Wu, Shengpeng Xu, Yunbo Jia, Edmund Y. Lam.<br />
+"Exploring The Missing Semantics In Event Modality." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.17347)]
+[2025.10]
+
+:boom:M Saifuzzaman Rafat, Mohd Ruhul Ameen, Akif Islam, Abu Saleh Musa Miah, Jungpil Shin.<br />
+"From Pixels to People: Satellite-Based Mapping and Quantification of Riverbank Erosion and Lost Villages in Bangladesh." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.17198)]
+[2025.10]
+
+:boom:Masoud Khairi Atani, Alon Harell, Hyomin Choi, Runyu Yang, Fabien Racape, Ivan V. Bajic.<br />
+"How Universal Are SAM2 Features?." IEEE PCS (2025).
+[[paper](https://arxiv.org/abs/2510.17051)]
+[2025.10]
+
 :boom:**Memory-SAM:** Joongwon Chae, Lihui Luo, Xi Yuan, Dongmei Yu, Zhenglin Chen, Lian Zhang, Peiwu Qin.<br />
 "Memory-SAM: Human-Prompt-Free Tongue Segmentation via Retrieval-to-Prompt." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.15849)]
