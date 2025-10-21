@@ -160,6 +160,7 @@ If you find our work useful in your research, please consider citing:
   "SAM 3: Segment Anything with Concepts." arXiv (2025). 
   [[paper](https://openreview.net/pdf?id=r35clVtGzw)]
   [[homepage](https://ai.meta.com/sam3/)] 
+  [[中文解读](https://zhuanlan.zhihu.com/p/1961100103482873205)]
   [2025.10]
 
 - **GPT-4V:** OpenAI.<br />
