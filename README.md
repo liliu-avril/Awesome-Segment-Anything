@@ -293,6 +293,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM 2++:** Jiaming Zhang, Cheng Liang, Yichun Yang, Chenkai Zeng, Yutao Cui, Xinwen Zhang, Xin Zhou, Kai Ma, Gangshan Wu, Limin Wang.<br />
+"SAM 2++: Tracking Anything at Any Granularity." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.18822)]
+[[code](https://tracking-any-granularity.github.io/)]
+[2025.10]
+
+:boom:**EMA-SAM:** Maryam Dialameh, Hossein Rajabzadeh, Jung Suk Sim, Hyock Ju Kwon.<br />
+"EMA-SAM: Exponential Moving-average for SAM-based PTMC Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.18213)]
+[[code](https://github.com/mdialameh/EMA-SAM)]
+[2025.10]
+
+:boom:**AttSAM:** Lan, Lixiang and Yang, Yang and Zhao, Guangyu and Li, Yifeng and Liu, Wanting and Wang, Jikui.<br />
+"AttSAM: Attention-Augmented Segment Anything Model for Accurate Polyp Segmentation." WRC SARA (2025).
+[[paper](https://ieeexplore.ieee.org/document/11194946)]
+[2025.10]
+
 :boom:Akhila Kambhatla, Ahmed R Khaled.<br />
 "Beyond RGB: Leveraging Vision Transformers for Thermal Weapon Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.16913)]
