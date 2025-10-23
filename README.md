@@ -293,6 +293,13 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**DecAF:** Su Ho Han, Jeongseok Hyun, Pilhyeon Lee, Minho Shim, Dongyoon Wee, Seon Joo Kim.<br />
+"Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.19592)]
+[[project](https://www.jshyun.me/projects/decaf)]
+[[code](https://github.com/HYUNJS/DecAF)]
+[2025.10]
+
 :boom:**SAM 2++:** Jiaming Zhang, Cheng Liang, Yichun Yang, Chenkai Zeng, Yutao Cui, Xinwen Zhang, Xin Zhou, Kai Ma, Gangshan Wu, Limin Wang.<br />
 "SAM 2++: Tracking Anything at Any Granularity." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.18822)]
