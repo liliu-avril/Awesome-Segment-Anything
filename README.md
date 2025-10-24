@@ -293,6 +293,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**HyperET:** Zelin Peng, Zhengqin Xu, Qingyang Liu, Xiaokang Yang, Wei Shen.<br />
+"HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models." NeurIPS (2025).
+[[paper](https://arxiv.org/abs/2510.20322)]
+[2025.10]
+
+:boom:**PartNeXt:** Penghao Wang, Yiyang He, Xin Lv, Yukai Zhou, Lan Xu, Jingyi Yu, Jiayuan Gu.<br />
+"PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D Part Understanding." NeurIPS (2025).
+[[paper](https://arxiv.org/abs/2510.20155)]
+[[code](https://authoritywang.github.io/partnext)]
+[2025.10]
+
 :boom:**DecAF:** Su Ho Han, Jeongseok Hyun, Pilhyeon Lee, Minho Shim, Dongyoon Wee, Seon Joo Kim.<br />
 "Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.19592)]
