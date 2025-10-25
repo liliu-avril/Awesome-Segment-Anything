@@ -3974,12 +3974,6 @@ Observation and Geoinformation (2025).
 [[paper](https://arxiv.org/abs/2504.05178)]
 [2025.04]
 
-- **ReferDINO-Plus:** Tianming Liang, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu.<br />
-"ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025." ArXiv (2025).
-[[paper](https://arxiv.org/abs/2503.23509)]
-[[code](https://github.com/iSEE-Laboratory/ReferDINO-Plus)]
-[2025.03]
-
 - **Sa2VA:** Haobo Yuan, Tao Zhang, Xiangtai Li, Lu Qi, Zilong Huang, Shilin Xu, Jiashi Feng, Ming-Hsuan Yang.<br />
 "4th PVUW MeViS 3rd Place Report: Sa2VA." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.00476)]
@@ -4018,6 +4012,12 @@ Observation and Geoinformation (2025).
 "SmartScan: An AI-based Interactive Framework for Automated Region Extraction from Satellite Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.00200)]
 [2025.04]
+
+- **ReferDINO-Plus:** Tianming Liang, Haichao Jiang, Wei-Shi Zheng, Jian-Fang Hu.<br />
+"ReferDINO-Plus: 2nd Solution for 4th PVUW MeViS Challenge at CVPR 2025." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.23509)]
+[[code](https://github.com/iSEE-Laboratory/ReferDINO-Plus)]
+[2025.03]
 
 - **DSU-Net:** Yimin Xu, Fan Yang, Bin Xu.<br />
 "DSU-Net: An Improved U-Net Model Based on DINOv2 and SAM2 with Multi-scale Cross-model Feature Enhancement." ArXiv (2025).
