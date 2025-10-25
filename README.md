@@ -293,6 +293,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**TAP-v2:** Ting Pan, Lulu Tang, Xinlong Wang, Xin Liu & Shiguang Shan.<br />
+"Consistent multimodal pre-training for visual tokenization." SCIENCE CHINA Information Sciences (2025).
+[[paper](https://link.springer.com/article/10.1007/s11432-024-4603-x)]
+[2025.10]
+
 :boom:**HyperET:** Zelin Peng, Zhengqin Xu, Qingyang Liu, Xiaokang Yang, Wei Shen.<br />
 "HyperET: Efficient Training in Hyperbolic Space for Multi-modal Large Language Models." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2510.20322)]
