@@ -956,7 +956,7 @@ Express (2025).
 [[paper](https://arxiv.org/abs/2509.18973)]
 [2025.09]
 
-- **MOIS-SAM2: :** Georgii Kolokolnikov, Marie-Lena Schmalhofer, Sophie Götz, Lennart Well, Said Farschtschi, Victor-Felix Mautner, Inka Ristow, Rene Werner.<br />
+- **MOIS-SAM2:** Georgii Kolokolnikov, Marie-Lena Schmalhofer, Sophie Götz, Lennart Well, Said Farschtschi, Victor-Felix Mautner, Inka Ristow, Rene Werner.<br />
 "MOIS-SAM2: Exemplar-based Segment Anything Model 2 for multilesion interactive segmentation of neurobromas in whole-body MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.19277)]
 [2025.09]
@@ -1315,7 +1315,6 @@ Express (2025).
 - **P3-SAM:** Changfeng Ma, Yang Li, Xinhao Yan, Jiachen Xu, Yunhan Yang, Chunshi Wang, Zibo Zhao, Yanwen Guo, Zhuo Chen, Chunchao Guo.<br />
 "P3-SAM: Native 3D Part Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.06784)]
-[[code](XXXXXXXXXXXXXXXXXXXXXX)]
 [2025.09]
 
 - **Probabilistic SAM:** Tyler Ward, Abdullah Imran.<br />
@@ -2093,7 +2092,7 @@ Express (2025).
 [[code](https://universe.roboflow.com/iwrist/grasping-in-the-wild)]
 [2025.07]
 
-- **TextSAM-EUS::** Pascal Spiegler, Taha Koleilat, Arash Harirpoush, Corey S. Miller, Hassan Rivaz, Marta Kersten-Oertel, Yiming Xiao.<br />
+- **TextSAM-EUS:** Pascal Spiegler, Taha Koleilat, Arash Harirpoush, Corey S. Miller, Hassan Rivaz, Marta Kersten-Oertel, Yiming Xiao.<br />
 "TextSAM-EUS: Text Prompt Learning for SAM to Accurately Segment Pancreatic Tumor in Endoscopic Ultrasound." ICCVW (2025).
 [[paper](https://arxiv.org/abs/2507.18082)]
 [2025.07]
@@ -2125,7 +2124,7 @@ Express (2025).
 [[paper](https://arxiv.org/abs/2507.16753)]
 [2025.07]
 
-- **DFR::** Shuai Chen, Fanman Meng, Xiwei Zhang, Haoran Wei, Chenhao Wu, Qingbo Wu, Hongliang Li.<br />
+- **DFR:** Shuai Chen, Fanman Meng, Xiwei Zhang, Haoran Wei, Chenhao Wu, Qingbo Wu, Hongliang Li.<br />
 "DFR: A Decompose-Fuse-Reconstruct Framework for Multi-Modal Few-Shot Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2507.16736)]
 [2025.07]
@@ -2240,7 +2239,7 @@ Express (2025).
 [[code](https://github.com/sutkarsh/focal)]
 [2025.07]
 
-- **Inter2Former.:** You Huang, Lichao Chen, Jiayi Ji, Liujuan Cao, Shengchuan Zhang, Rongrong Ji.<br />
+- **Inter2Former:** You Huang, Lichao Chen, Jiayi Ji, Liujuan Cao, Shengchuan Zhang, Rongrong Ji.<br />
 "Inter2Former: Dynamic Hybrid Attention for Efficient High-Precision Interactive." ICCV (2025).
 [[paper](https://arxiv.org/abs/2507.09612)]
 [2025.07]
@@ -2972,7 +2971,6 @@ Express (2025).
 - **EASAM:** Jianguo Zhang, Meng Lin, Hu Hou, Benhao Sun, Fengling Hu, Youcheng Yu & Menghan Li .<br />
 "EASAM: an edge-aware SAM-based paradigm for tooth segmentation." Signal, Image and Video Processing (2025).
 [[paper](https://link.springer.com/article/10.1007/s11760-025-04208-2)]
-[[code](XXXXXXXXXXXXXXXXXXXXXX)]
 [2025.06]
 
 - Daixin Fu, Bowen Kuang, Lin Mi, Yongjie Liu, Qingyuan Wang, Junnan Lv, Lang Li.<br />
@@ -3019,7 +3017,7 @@ Express (2025).
 [[paper](https://arxiv.org/abs/2505.22596)]
 [2025.05]
 
-- ** ELE-SAM :** Hang Chen, Maoyuan Ye, Peng Yang, Haibin He, Juhua Liu, Bo Du.<br />
+- **ELE-SAM:** Hang Chen, Maoyuan Ye, Peng Yang, Haibin He, Juhua Liu, Bo Du.<br />
 "Adapting Segment Anything Model for Power Transmission Corridor Hazard Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2505.22105)]
 [[code](https://github.com/Hhaizee/ELE-SAM)]
@@ -3030,13 +3028,13 @@ Express (2025).
 [[paper](https://arxiv.org/abs/2505.21920)]
 [2025.05]
 
-- **SANSA::** Claudia Cuttano, Gabriele Trivigno, Giuseppe Averta, Carlo Masone.<br />
+- **SANSA:** Claudia Cuttano, Gabriele Trivigno, Giuseppe Averta, Carlo Masone.<br />
 "SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2505.21795)]
 [[code](https://github.com/ClaudiaCuttano/SANSA)]
 [2025.05]
 
-- ** TSP-SAM:** Bilin Wang, Changda Lei, Yunbo Guo, Kaicheng Hong, Xiuji Kan,
+- **TSP-SAM:** Bilin Wang, Changda Lei, Yunbo Guo, Kaicheng Hong, Xiuji Kan,
 Yifan Ouyang, Junbo Li, Rui Li.<br />
 "Task-Specific Prompting SAM for Multi-task Gastric Cancer Diagnosis in Endoscopic Images." Expert Systems with Applications(2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425019487)]
@@ -3128,7 +3126,7 @@ Yifan Ouyang, Junbo Li, Rui Li.<br />
 [[paper](https://arxiv.org/abs/2505.17402)]
 [2025.05]
 
-- **UWIPL_ETRI :** Cheng-Yen Yang, Hsiang-Wei Huang, Pyong-Kun Kim, Chien-Kai Kuo, Jui-Wei Chang, Kwang-Ju Kim, Chung-I Huang, Jenq-Neng Hwang.<br />
+- **UWIPL_ETRI:** Cheng-Yen Yang, Hsiang-Wei Huang, Pyong-Kun Kim, Chien-Kai Kuo, Jui-Wei Chang, Kwang-Ju Kim, Chung-I Huang, Jenq-Neng Hwang.<br />
 "Adapting SAM 2 for Visual Object Tracking: 1st Place Solution for MMVPR Challenge Multi-Modal Tracking." ICPRW (2025).
 [[paper](https://arxiv.org/abs/2505.18111)]
 [2025.05]
@@ -3166,7 +3164,7 @@ Yifan Ouyang, Junbo Li, Rui Li.<br />
 [[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17854)]
 [2025.05]
 
-- **MGNet,:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.<br />
+- **MGNet:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.<br />
 "Weakly supervised camouflaged object detection based on the SAM model and mask guidance." Image and Vision Computing (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0262885625001593)]
 [2025.05]
@@ -3403,7 +3401,7 @@ Observation and Geoinformation (2025).
 [[paper](https://arxiv.org/abs/2505.06217)]
 [2025.05]
 
-- **SAMSelect :** Joost van Dalen, Yuki M. Asano, Marc Rußwurm.<br />
+- **SAMSelect:** Joost van Dalen, Yuki M. Asano, Marc Rußwurm.<br />
 "SAMSELECT: A SPECTRAL INDEX SEARCH FOR MARINE DEBRIS VISUALIZATION USING SAM." ICLR Workshop (2025).
 [[paper](https://ml-for-rs.github.io/iclr2025/camera_ready/papers/50.pdf)]
 [2025.05]
@@ -4514,7 +4512,7 @@ Observation and Geoinformation (2025).
 [[paper](https://arxiv.org/abs/2503.02321)]
 [2025.03]
 
-- **SHIFNet :** Jiayi Zhao, Fei Teng, Kai Luo, Guoqiang Zhao, Zhiyong Li, Xu Zheng, Kailun Yang.<br />
+- **SHIFNet:** Jiayi Zhao, Fei Teng, Kai Luo, Guoqiang Zhao, Zhiyong Li, Xu Zheng, Kailun Yang.<br />
 "Unveiling the Potential of Segment Anything Model 2 for RGB-Thermal Semantic Segmentation with Language Guidance." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.02581)]
 [[code](https://github.com/iAsakiT3T/SHIFNet)]
