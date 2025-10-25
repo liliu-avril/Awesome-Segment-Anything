@@ -4019,6 +4019,12 @@ Observation and Geoinformation (2025).
 [[paper](https://arxiv.org/abs/2504.00200)]
 [2025.04]
 
+- **DSU-Net:** Yimin Xu, Fan Yang, Bin Xu.<br />
+"DSU-Net: An Improved U-Net Model Based on DINOv2 and SAM2 with Multi-scale Cross-model Feature Enhancement." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2503.21187)]
+[[code](https://github.com/CheneyXuYiMin/SAM2DINO-Seg)]
+[2025.3]
+
 - **SALT:** Yanbo Wang, Yongtao Chen, Chuan Cao, Tianchen Deng, Wentao Zhao, Jingchuan Wang, Weidong Chen.<br />
 "SALT: A Flexible Semi-Automatic Labeling Tool for General LiDAR Point Clouds with Cross-Scene Adaptability and 4D Consistency." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2503.23980)]
