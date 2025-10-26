@@ -3258,7 +3258,7 @@ Observation and Geoinformation (2025).
 [2025.05]
 
 - **InstructSAM:** Yijie Zheng, Weijie Wu, Qingyun Li, Xuehui Wang, Xu Zhou, Aiai Ren, Jun Shen, Long Zhao, Guoqing Li, Xue Yang.<br />
-"InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition." ArXiv (2025).
+"InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2505.15818)]
 [[code](https://github.com/VoyagerXvoyagerx/InstructSAM)]
 [2025.05]
