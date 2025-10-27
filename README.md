@@ -351,6 +351,12 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://openaccess.thecvf.com/content/ICCV2025W/CV4MS/html/Mendoza_SAM-_and_mSAM-_Based_Inference_of_Nuclear_Materials_Processing_History_ICCVW_2025_paper.html)]
 [2025.10]
 
+:boom:**BioDet:** Jiaqi Hu, Hongli Xu, Junwen Huang, Peter KT Yu, Slobodan Ilic, Benjamin Busam.<br />
+"BioDet: Boosting Industrial Object Detection with Image Preprocessing Strategies." ICCVW (2025).
+[[paper](https://arxiv.org/abs/2510.21000)]
+[[code](https://github.com/jacky-hjqq/BioDet)]
+[2025.10]
+
 :boom:**IC-MoE:** Xinwei Zhang, Hu Chen, Zhe Yuan, Sukun Tian, Peng Feng.<br />
 "Intelligent Communication Mixture-of-Experts Boosted-Medical Image Segmentation Foundation Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.17684)]
@@ -359,6 +365,12 @@ If you find our work useful in your research, please consider citing:
 :boom:**MSSAM:** Wang, Dandan and Wang, Zhichao and Zhao, Xiaoming and Chen, Qi and Chen, Qiuyue and Zhang, Shiqing and Lu, Hongsheng.<br />
 "MSSAM: A Robust Multi-scale Adaptation of Segment Anything Model for General Medical Image Segmentation." ArXiv (2025).
 [[paper]( http://dx.doi.org/10.2139/ssrn.5587512)]
+[2025.10]
+
+:boom:Valentin Boussot, Cédric Hémon, Jean-Claude Nunes, Jean-Louis Dillenseger.<br />
+"Why Registration Quality Matters: Enhancing sCT Synthesis with IMPACT-Based Registration." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.21358)]
+[[code](https://ltsi.univ-rennes.fr/)]
 [2025.10]
 
 :boom:**APSAM:** Xingzheng Wang, Shaoyong Wu, Jianbin Wu, Jiahui Li.<br />
