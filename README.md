@@ -293,6 +293,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**stSAM-Splat m:** Anthony Opipari, Aravindhan K Krishnan, Shreekant Gayaka, Min Sun, Cheng-Hao Kuo, Arnie Sen, Odest Chadwicke Jenkins.<br />
+"Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation." IEEE Robotics and Automation Letters (2025).
+[[paper](https://arxiv.org/abs/2510.23521)]
+[[code](https://topipari.com/projects/FastSAM-Splat/)]
+[2025.10]
+
+:boom:Marouane Tliba, Mohamed Amine Kerkouri, Yassine Nasser, Nour Aburaed, Aladine Chetouani, Ulas Bagci, Rachid Jennane.<br />
+"Morphology-Aware KOA Classification: Integrating Graph Priors with Vision Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.21801)]
+[2025.10]
+
+:boom:**ProFSAM:** Emmanuel U. Ugwu, Zhang Xinming.<br />
+"Promptable Fire Segmentation: Unleashing SAM2's Potential for Real-Time Mobile Deployment with Strategic Bounding Box Guidance." ICIGP (2026).
+[[paper](https://arxiv.org/abs/2510.21782)]
+[[code](https://github.com/UEmmanuel5/ProFSAM)]
+[2025.10]
+
 :boom:**I-SAM-YOLOv5:** Jun Tang and Dan Li and Jiawei Yang and Jing Chen and Ruiping Yuan.<br />
 "Leveraging large visual models for enhanced object detection: An improved SAM-YOLOv5 model." Knowledge-Based Systems (2025).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125017952)]
