@@ -299,7 +299,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/CGCL-codes/UAP-SAM2)]
 [2025.10]
 
-:boom:**FastSAM-Splat m:** Anthony Opipari, Aravindhan K Krishnan, Shreekant Gayaka, Min Sun, Cheng-Hao Kuo, Arnie Sen, Odest Chadwicke Jenkins.<br />
+:boom:**FastSAM-Splat:** Anthony Opipari, Aravindhan K Krishnan, Shreekant Gayaka, Min Sun, Cheng-Hao Kuo, Arnie Sen, Odest Chadwicke Jenkins.<br />
 "Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation." IEEE Robotics and Automation Letters (2025).
 [[paper](https://arxiv.org/abs/2510.23521)]
 [[code](https://topipari.com/projects/FastSAM-Splat/)]
