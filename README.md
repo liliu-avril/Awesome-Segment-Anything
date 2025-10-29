@@ -293,7 +293,13 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**stSAM-Splat m:** Anthony Opipari, Aravindhan K Krishnan, Shreekant Gayaka, Min Sun, Cheng-Hao Kuo, Arnie Sen, Odest Chadwicke Jenkins.<br />
+:boom:**UAP-SAM2:** Ziqi Zhou, Yifan Hu, Yufei Song, Zijing Li, Shengshan Hu, Leo Yu Zhang, Dezhong Yao, Long Zheng, Hai Jin.<br />
+"Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2." NeurIPS (2025).
+[[paper](https://arxiv.org/abs/2510.24195)]
+[[code](https://github.com/CGCL-codes/UAP-SAM2)]
+[2025.10]
+
+:boom:**FastSAM-Splat m:** Anthony Opipari, Aravindhan K Krishnan, Shreekant Gayaka, Min Sun, Cheng-Hao Kuo, Arnie Sen, Odest Chadwicke Jenkins.<br />
 "Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation." IEEE Robotics and Automation Letters (2025).
 [[paper](https://arxiv.org/abs/2510.23521)]
 [[code](https://topipari.com/projects/FastSAM-Splat/)]
