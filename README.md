@@ -293,6 +293,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**M-SAM:** Hossein R. Nowdeh, Jie Ji, Xiaolong Ma, Fatemeh Afghah.<br />
+"Modality-Aware SAM: Sharpness-Aware-Minimization Driven Gradient Modulation for Harmonized Multimodal Learning." NeurIPS (2025).
+[[paper](https://arxiv.org/abs/2510.24919)]
+[2025.10]
+
 :boom:**UAP-SAM2:** Ziqi Zhou, Yifan Hu, Yufei Song, Zijing Li, Shengshan Hu, Leo Yu Zhang, Dezhong Yao, Long Zheng, Hai Jin.<br />
 "Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2510.24195)]
