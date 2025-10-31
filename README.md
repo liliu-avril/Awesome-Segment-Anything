@@ -293,6 +293,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAMRI:** Zhao Wang, Wei Dai, Thuy Thanh Dao, Steffen Bollmann, Hongfu Sun, Craig Engstrom, Shekhar S. Chandra.<br />
+"SAMRI: Segment Anything Model for MRI." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.26635)]
+[[code](https://github.com/wangzhaomxy/SAMRI)]
+[2025.10]
+
+:boom:Valentin Boussot, Cédric Hémon, Jean-Claude Nunes, Jean-Louis Dillenseger.<br />
+"Fine-tuning Segment Anything for Real-Time Tumor Tracking in Cine-MRI." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.25990)]
+[[code](https://ltsi.univ-rennes.fr/)]
+[2025.10]
+
 :boom:**M-SAM:** Hossein R. Nowdeh, Jie Ji, Xiaolong Ma, Fatemeh Afghah.<br />
 "Modality-Aware SAM: Sharpness-Aware-Minimization Driven Gradient Modulation for Harmonized Multimodal Learning." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2510.24919)]
