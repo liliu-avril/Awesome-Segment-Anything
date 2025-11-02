@@ -298,6 +298,85 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://openreview.net/forum?id=o8r3gOFTQo)]
 [[code](https://github.com/ClaudiaCuttano/SANSA)]
 
+:boom:**SAM-RNet:** Yanliang Ge, Yuxi Zhong, Qiao Zhang, Hongbo Bi and Tian-Zhu Xiang.<br />
+"Weakly-supervised Camouflaged Object Detection via SAM-guided Resolution Iteration Learning." IEEE Transactions on Big Data (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11216034)]
+[[code](https://github.com/ZX123445/SAM-RNet)]
+[2025.10]
+
+:boom:**CHD:** Chi, Hanyang and Liu, Mengyu and Wang, Jin and Gao, Xuru and Luo, Guixun and Zhang, Bingfeng and Liu, Weifeng.<br />
+"Cross-Hierarchical Decoding with SAM for Semi-Supervised Medical Image Segmentation." TCSVT (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11217143)]
+[2025.10]
+
+:boom:Cabral, Rafael, Ricardo Santos, José A. F. O. Correia, and Diogo Ribeiro.<br />
+"A Hybrid YOLO and Segment Anything Model Pipeline for Multi-Damage Segmentation in UAV Inspection Imagery." Sensors (2025).
+[[paper](https://www.mdpi.com/1424-8220/25/21/6568)]
+[2025.10]
+
+:boom:**SemFusion:** Ting Li, Songtao Li, Shuaifeng Li, Xiaolin Qin, Maoyuan Zhao, Luping Ji, Mao Ye.<br />
+"SAM-Guided Semantic Knowledge Fusion for Visible-Infrared Object Detection." ACM MM (2025).
+[[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3755718)]
+[[code](https://github.com/liting1018/SemFusion)]
+[2025.10]
+
+:boom:**SAMVSR:** Hongtao Wu, Yifeng Wu, Jiaxuan Jiang, Chengyu Wu, Hong Wang, Yefeng Zheng.<br />
+"SAMVSR: Leveraging Semantic Priors to Zone-Focused Mamba for Video Snow Removal." ACM MM (2025).
+[[paper](https://dl.acm.org/doi/abs/10.1145/3746027.3754783)]
+[2025.10]
+
+:boom:**CoMed-SAM:** Kim, Minkyu and Ryu, Kanghyun and Han, Yoseob.<br />
+"CoMed-SAM: Collaborative Medical SAM for Multi-Modality Image Segmentation." IEEE Access (2025).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11218923)]
+[[code](https://github.com/hunzo300/CoMed-SAM.git)]
+[2025.10]
+
+:boom:Javier Rodriguez-Sanchez et al.<br />
+"Aerial Imagery and Segment Anything Model for Architectural Trait Phenotyping to Support Genetic Analysis in Peanut Breeding." Plant Phenomics (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S2643651525001323)]
+[2025.10]
+
+:boom:**DIG:** Jiawei Wang et al.<br />
+"An interactive framework integrating segment anything model and structure-from-motion for three-dimensional discontinuity identification in rock masses." International Journal of Mining Science and Technology (2025).
+[[paper](https://doi.org/10.1016/j.ijmst.2025.09.005)]
+[2025.10]
+
+:boom:**SAM-EM:** Alexander Wang, Max Xu, Risha Goel, Zain Shabeeb, Isabel Panicker, Vida Jamali.<br />
+"SAM-EM: Real-Time Segmentation for Automated Liquid Phase Transmission Electron Microscopy." NeurIPS Workshop (2025).
+[[paper](https://openreview.net/forum?id=farKrjdsIH)]
+[2025.10]
+
+:boom:**SHAP:** Yaojin Jiang, Tianyuan Liu, Jinsong Bao.<br />
+"What are the eigen visual features for penetration state recognition?." Expert Systems with Applications (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425037844)]
+[2025.10]
+
+:boom:**Prompt-SAM:** Uma Gurav & Sanket Jadhav .<br />
+"Prompt-SAM: A Vision-Language and SAM based Hybrid Framework for Prompt-Augmented Zero-Shot Segmentation." Human-Centric Intelligent Systems (2025).
+[[paper](https://link.springer.com/article/10.1007/s44230-025-00115-4)]
+[2025.10]
+
+:boom:**ETU-SAM:** Huang, Bin and Liu, Zhong and Liu, Jingming and Wen, Huiying and Chen, Xin and Huang, Bingsheng and Li, Shuo.<br />
+"ETU-SAM: Efficient and Transparent Uncertainty Estimation for Segment Anything Model in Ultrasound Segmentation." ArXiv (2025).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5669479)]
+[2025.10]
+
+:boom:Giuseppe Martino, Niccolò Camarlinghi, Antonio Di Tommaso, Benedetto Michelozzi, Giacomo Fontanelli, Andrea Masini, Marco Cococcioni.<br />
+"From bounding boxes to semantic segmentation: leveraging SAM for weak supervision in remote sensing." Artificial Intelligence for Security and Defence Applications (2025).
+[[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13679/1367914/From-bounding-boxes-to-semantic-segmentation--leveraging-SAM-for/10.1117/12.3069933.short)]
+[2025.10]
+
+:boom:**DRF-YOLOv8n-SAM:** Li, Youlin and Yang, Yang and He, Hongjie and He, Sha and Luo, Jiqing and Peng, Xin and Peng, Xiaowei and He, Jianghai and Zhong, Fengcheng.<br />
+"Spatial-aware pipeline occupancy monitoring: A dual-stage collaborative framework integrating UAV dynamic pose with DRF-YOLOv8n-SAM." ArXiv (2025).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5675152)]
+[[code](https://github.com/giserlyl/DRF-YOLOv8n-SAM)]
+[2025.10]
+
+:boom:Qiang Fan, Yue Yang, Bo Lei.<br />
+"Beyond manual labeling: integrating multimodal foundation models with SAM for scalable data curation." AOPC (2025).
+[[paper](https://doi.org/10.1117/12.3077881)]
+[2025.10]
+
 - **SAMRI:** Zhao Wang, Wei Dai, Thuy Thanh Dao, Steffen Bollmann, Hongfu Sun, Craig Engstrom, Shekhar S. Chandra.<br />
 "SAMRI: Segment Anything Model for MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.26635)]
