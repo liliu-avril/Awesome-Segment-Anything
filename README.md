@@ -986,7 +986,7 @@ Fengyu Liang, and Panpan Yuan.<br />
 [[paper](https://link.springer.com/chapter/10.1007/978-3-032-05114-1_29)]
 [2025.09]
 
-:boom:**KSAM:** Hengyuan Zhang, Peng Qiao, Wenyu Li, Yan Jia, Yong Dou.<br />
+- **KSAM:** Hengyuan Zhang, Peng Qiao, Wenyu Li, Yan Jia, Yong Dou.<br />
 "Knowledge Bridges the Intent Gap: Contextual Fusion in Medical Fine-Grained Segmentation." MICCAI (2025).
 [[paper](https://link.springer.com/chapter/10.1007/978-3-032-04927-8_27)]
 [2025.09]
@@ -1395,7 +1395,7 @@ Express (2025).
 [[paper](https://arxiv.org/abs/2509.11714)]
 [2025.09]
 
-:boom:**Organoid Tracker:** Xiaoyu Huang, Lauren M Maxson, Trang Nguyen, Cheng Jack Song, Yuankai Huo.<br />
+- **Organoid Tracker:** Xiaoyu Huang, Lauren M Maxson, Trang Nguyen, Cheng Jack Song, Yuankai Huo.<br />
 "Organoid Tracker: A SAM2-Powered Platform for Zero-shot Cyst Analysis in Human Kidney Organoid Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2509.11063)]
 [[code](https://github.com/hrlblab/OrganoidTracker)]
