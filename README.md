@@ -293,6 +293,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SANSA:** Claudia Cuttano, Gabriele Trivigno, Giuseppe Averta, Carlo Masone.<br />
+"SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation." NeurIPS (2025).
+[[paper](https://openreview.net/forum?id=o8r3gOFTQo)]
+[[code](https://github.com/ClaudiaCuttano/SANSA)]
+
 :boom:**SAMRI:** Zhao Wang, Wei Dai, Thuy Thanh Dao, Steffen Bollmann, Hongfu Sun, Craig Engstrom, Shekhar S. Chandra.<br />
 "SAMRI: Segment Anything Model for MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.26635)]
