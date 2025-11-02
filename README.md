@@ -298,132 +298,132 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://openreview.net/forum?id=o8r3gOFTQo)]
 [[code](https://github.com/ClaudiaCuttano/SANSA)]
 
-:boom:**SAMRI:** Zhao Wang, Wei Dai, Thuy Thanh Dao, Steffen Bollmann, Hongfu Sun, Craig Engstrom, Shekhar S. Chandra.<br />
+- **SAMRI:** Zhao Wang, Wei Dai, Thuy Thanh Dao, Steffen Bollmann, Hongfu Sun, Craig Engstrom, Shekhar S. Chandra.<br />
 "SAMRI: Segment Anything Model for MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.26635)]
 [[code](https://github.com/wangzhaomxy/SAMRI)]
 [2025.10]
 
-:boom:Valentin Boussot, Cédric Hémon, Jean-Claude Nunes, Jean-Louis Dillenseger.<br />
+- Valentin Boussot, Cédric Hémon, Jean-Claude Nunes, Jean-Louis Dillenseger.<br />
 "Fine-tuning Segment Anything for Real-Time Tumor Tracking in Cine-MRI." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.25990)]
 [[code](https://ltsi.univ-rennes.fr/)]
 [2025.10]
 
-:boom:**M-SAM:** Hossein R. Nowdeh, Jie Ji, Xiaolong Ma, Fatemeh Afghah.<br />
+- **M-SAM:** Hossein R. Nowdeh, Jie Ji, Xiaolong Ma, Fatemeh Afghah.<br />
 "Modality-Aware SAM: Sharpness-Aware-Minimization Driven Gradient Modulation for Harmonized Multimodal Learning." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2510.24919)]
 [2025.10]
 
-:boom:**UAP-SAM2:** Ziqi Zhou, Yifan Hu, Yufei Song, Zijing Li, Shengshan Hu, Leo Yu Zhang, Dezhong Yao, Long Zheng, Hai Jin.<br />
+- **UAP-SAM2:** Ziqi Zhou, Yifan Hu, Yufei Song, Zijing Li, Shengshan Hu, Leo Yu Zhang, Dezhong Yao, Long Zheng, Hai Jin.<br />
 "Vanish into Thin Air: Cross-prompt Universal Adversarial Attacks for SAM2." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2510.24195)]
 [[code](https://github.com/CGCL-codes/UAP-SAM2)]
 [2025.10]
 
-:boom:**FastSAM-Splat:** Anthony Opipari, Aravindhan K Krishnan, Shreekant Gayaka, Min Sun, Cheng-Hao Kuo, Arnie Sen, Odest Chadwicke Jenkins.<br />
+- **FastSAM-Splat:** Anthony Opipari, Aravindhan K Krishnan, Shreekant Gayaka, Min Sun, Cheng-Hao Kuo, Arnie Sen, Odest Chadwicke Jenkins.<br />
 "Explicit Memory through Online 3D Gaussian Splatting Improves Class-Agnostic Video Segmentation." IEEE Robotics and Automation Letters (2025).
 [[paper](https://arxiv.org/abs/2510.23521)]
 [[code](https://topipari.com/projects/FastSAM-Splat/)]
 [2025.10]
 
-:boom:Marouane Tliba, Mohamed Amine Kerkouri, Yassine Nasser, Nour Aburaed, Aladine Chetouani, Ulas Bagci, Rachid Jennane.<br />
+- Marouane Tliba, Mohamed Amine Kerkouri, Yassine Nasser, Nour Aburaed, Aladine Chetouani, Ulas Bagci, Rachid Jennane.<br />
 "Morphology-Aware KOA Classification: Integrating Graph Priors with Vision Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.21801)]
 [2025.10]
 
-:boom:**ProFSAM:** Emmanuel U. Ugwu, Zhang Xinming.<br />
+- **ProFSAM:** Emmanuel U. Ugwu, Zhang Xinming.<br />
 "Promptable Fire Segmentation: Unleashing SAM2's Potential for Real-Time Mobile Deployment with Strategic Bounding Box Guidance." ICIGP (2026).
 [[paper](https://arxiv.org/abs/2510.21782)]
 [[code](https://github.com/UEmmanuel5/ProFSAM)]
 [2025.10]
 
-:boom:**I-SAM-YOLOv5:** Jun Tang and Dan Li and Jiawei Yang and Jing Chen and Ruiping Yuan.<br />
+- **I-SAM-YOLOv5:** Jun Tang and Dan Li and Jiawei Yang and Jing Chen and Ruiping Yuan.<br />
 "Leveraging large visual models for enhanced object detection: An improved SAM-YOLOv5 model." Knowledge-Based Systems (2025).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705125017952)]
 [2025.10]
 
-:boom:**O-MaMa:** Lorenzo Mur-Labadia, Maria Santos-Villafranca, Jesus Bermudez-Cameo, Alejandro Perez-Yus, Ruben Martinez-Cantin, Jose J. Guerrero.<br />
+- **O-MaMa:** Lorenzo Mur-Labadia, Maria Santos-Villafranca, Jesus Bermudez-Cameo, Alejandro Perez-Yus, Ruben Martinez-Cantin, Jose J. Guerrero.<br />
 "O-MaMa: Learning Object Mask Matching between Egocentric and Exocentric Views." ICCV (2025).
 [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Mur-Labadia_O-MaMa_Learning_Object_Mask_Matching_between_Egocentric_and_Exocentric_Views_ICCV_2025_paper.html)]
 [[code](https://github.com/Maria-SanVil/O-MaMa)]
 [2025.10]
 
-:boom:**RISE:** Ji Du, Xin Wang, Fangwei Hao, Mingyang Yu, Chunyuan Chen, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li.<br />
+- **RISE:** Ji Du, Xin Wang, Fangwei Hao, Mingyang Yu, Chunyuan Chen, Jiesheng Wu, Bin Wang, Jing Xu, Ping Li.<br />
 "Beyond Single Images: Retrieval Self-Augmented Unsupervised Camouflaged Object Detection." ICCV (2025).
 [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Du_Beyond_Single_Images_Retrieval_Self-Augmented_Unsupervised_Camouflaged_Object_Detection_ICCV_2025_paper.html)]
 [[code](https://github.com/xiaohainku/RISE)]
 [2025.10]
 
-:boom:**SDFormer:** Yujie Xue, Huilong Pi, Jiapeng Zhang, Yunchuan Qin, Zhuo Tang, Kenli Li, Ruihui Li.<br />
+- **SDFormer:** Yujie Xue, Huilong Pi, Jiapeng Zhang, Yunchuan Qin, Zhuo Tang, Kenli Li, Ruihui Li.<br />
 "SDFormer: Vision-based 3D Semantic Scene Completion via SAM-assisted Dual-channel Voxel Transformer." ICCV (2025).
 [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Xue_SDFormer_Vision-based_3D_Semantic_Scene_Completion_via_SAM-assisted_Dual-channel_Voxel_ICCV_2025_paper.html)]
 [2025.10]
 
-:boom:Li Yi, Jie Hu, Songan Zhang, Guannan Jiang.<br />
+- Li Yi, Jie Hu, Songan Zhang, Guannan Jiang.<br />
 "Adapt Foundational Segmentation Models with Heterogeneous Searching Space." ICCV (2025).
 [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Yi_Adapt_Foundational_Segmentation_Models_with_Heterogeneous_Searching_Space_ICCV_2025_paper.html)]
 [2025.10]
 
-:boom:**SAMora:** Shuhang Chen, Hangjie Yuan, Pengwei Liu, Hanxue Gu, Tao Feng, Dong Ni.<br />
+- **SAMora:** Shuhang Chen, Hangjie Yuan, Pengwei Liu, Hanxue Gu, Tao Feng, Dong Ni.<br />
 "SAMora: Enhancing SAM through Hierarchical Self-Supervised Pre-Training for Medical Images." ICCV (2025).
 [[paper](https://openaccess.thecvf.com/content/ICCV2025/html/Chen_SAMora_Enhancing_SAM_through_Hierarchical_Self-Supervised_Pre-Training_for_Medical_Images_ICCV_2025_paper.html)]
 [[code](https://github.com/ShChen233/SAMora)]
 [2025.10]
 
-:boom:**MedSAM-CL:** Athira Kalladayil Shibu, Sriprabha Ramanarayanan, Vinoth Kanna, Jaikishan Jayakumar, Keerthi Ram, Mohanasankar Sivaprakasam.<br />
+- **MedSAM-CL:** Athira Kalladayil Shibu, Sriprabha Ramanarayanan, Vinoth Kanna, Jaikishan Jayakumar, Keerthi Ram, Mohanasankar Sivaprakasam.<br />
 "MedSAM-Guided Curriculum Learning for White Matter Tract Segmentation in Block Face Imaging of Fetal Brain." ICCVW (2025).
 [[paper](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Shibu_MedSAM-Guided_Curriculum_Learning_for_White_Matter_Tract_Segmentation_in_Block_ICCVW_2025_paper.html)]
 [2025.10]
 
-:boom:Ryota Nakai, Kazuhiro Hotta.<br />
+- Ryota Nakai, Kazuhiro Hotta.<br />
 "Unsupervised Nuclei Segmentation by Improving Pseudo Labels from Segment Anything Model." ICCVW (2025).
 [[paper](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Nakai_Unsupervised_Nuclei_Segmentation_by_Improving_Pseudo_Labels_from_Segment_Anything_ICCVW_2025_paper.html)]
 [2025.10]
 
-:boom:**UR-SAM:** Yichi Zhang, Shiyao Hu, Le Xue, Sijie Ren, Zixin Hu, Yuan Cheng, Yuan Qi.<br />
+- **UR-SAM:** Yichi Zhang, Shiyao Hu, Le Xue, Sijie Ren, Zixin Hu, Yuan Cheng, Yuan Qi.<br />
 "Enhancing the Reliability of Auto-Prompting SAM for Medical Image Segmentation with Uncertainty Estimation and Rectification." ICCVW (2025).
 [[paper](https://openaccess.thecvf.com/content/ICCV2025W/CVAMD/html/Zhang_Enhancing_the_Reliability_of_Auto-Prompting_SAM_for_Medical_Image_Segmentation_ICCVW_2025_paper.html)]
 [2025.10]
 
-:boom:**SAM-SPJunc::** Minasadat Attari, Kannappan Palaniappan, Filiz Bunyak.<br />
+- **SAM-SPJunc::** Minasadat Attari, Kannappan Palaniappan, Filiz Bunyak.<br />
 "SAM-SPJunc: Self-Prompting for Junction Detection in Retinal Images via Radius-Based Representations." ICCVW (2025).
 [[paper](https://openaccess.thecvf.com/content/ICCV2025W/BISCUIT/html/Attari_SAM-SPJunc_Self-Prompting_for_Junction_Detection_in_Retinal_Images_via_Radius-Based_ICCVW_2025_paper.html)]
 [2025.10]
 
-:boom:Mayolo Valencia Mendoza, Alexei Skurikhin, Judith Cohn, Luther Mcdonald, Kari Sentz.<br />
+- Mayolo Valencia Mendoza, Alexei Skurikhin, Judith Cohn, Luther Mcdonald, Kari Sentz.<br />
 "SAM- and mSAM- Based Inference of Nuclear Materials Processing History from SEM Imagery." ICCVW (2025).
 [[paper](https://openaccess.thecvf.com/content/ICCV2025W/CV4MS/html/Mendoza_SAM-_and_mSAM-_Based_Inference_of_Nuclear_Materials_Processing_History_ICCVW_2025_paper.html)]
 [2025.10]
 
-:boom:**BioDet:** Jiaqi Hu, Hongli Xu, Junwen Huang, Peter KT Yu, Slobodan Ilic, Benjamin Busam.<br />
+- **BioDet:** Jiaqi Hu, Hongli Xu, Junwen Huang, Peter KT Yu, Slobodan Ilic, Benjamin Busam.<br />
 "BioDet: Boosting Industrial Object Detection with Image Preprocessing Strategies." ICCVW (2025).
 [[paper](https://arxiv.org/abs/2510.21000)]
 [[code](https://github.com/jacky-hjqq/BioDet)]
 [2025.10]
 
-:boom:**IC-MoE:** Xinwei Zhang, Hu Chen, Zhe Yuan, Sukun Tian, Peng Feng.<br />
+- **IC-MoE:** Xinwei Zhang, Hu Chen, Zhe Yuan, Sukun Tian, Peng Feng.<br />
 "Intelligent Communication Mixture-of-Experts Boosted-Medical Image Segmentation Foundation Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.17684)]
 [2025.10]
 
-:boom:**MSSAM:** Wang, Dandan and Wang, Zhichao and Zhao, Xiaoming and Chen, Qi and Chen, Qiuyue and Zhang, Shiqing and Lu, Hongsheng.<br />
+- **MSSAM:** Wang, Dandan and Wang, Zhichao and Zhao, Xiaoming and Chen, Qi and Chen, Qiuyue and Zhang, Shiqing and Lu, Hongsheng.<br />
 "MSSAM: A Robust Multi-scale Adaptation of Segment Anything Model for General Medical Image Segmentation." ArXiv (2025).
 [[paper]( http://dx.doi.org/10.2139/ssrn.5587512)]
 [2025.10]
 
-:boom:Valentin Boussot, Cédric Hémon, Jean-Claude Nunes, Jean-Louis Dillenseger.<br />
+- Valentin Boussot, Cédric Hémon, Jean-Claude Nunes, Jean-Louis Dillenseger.<br />
 "Why Registration Quality Matters: Enhancing sCT Synthesis with IMPACT-Based Registration." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.21358)]
 [[code](https://ltsi.univ-rennes.fr/)]
 [2025.10]
 
-:boom:**APSAM:** Xingzheng Wang, Shaoyong Wu, Jianbin Wu, Jiahui Li.<br />
+- **APSAM:** Xingzheng Wang, Shaoyong Wu, Jianbin Wu, Jiahui Li.<br />
 "APSAM: Adaptive Progressive Learning for Segment Anything Model in anomaly detection." Image and Vision Computing (2025).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0262885625003701)]
 [2025.10]
 
-:boom:**TAP-v2:** Ting Pan, Lulu Tang, Xinlong Wang, Xin Liu & Shiguang Shan.<br />
+- **TAP-v2:** Ting Pan, Lulu Tang, Xinlong Wang, Xin Liu & Shiguang Shan.<br />
 "Consistent multimodal pre-training for visual tokenization." SCIENCE CHINA Information Sciences (2025).
 [[paper](https://link.springer.com/article/10.1007/s11432-024-4603-x)]
 [2025.10]
