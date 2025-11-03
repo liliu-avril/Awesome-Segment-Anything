@@ -293,6 +293,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**MapSAM2:** Xue Xia, Randall Balestriero, Tao Zhang, Yixin Zhou, Andrew Ding, Dev Saini, Lorenz Hurni.<br />
+"MapSAM2: Adapting SAM2 for Automatic Segmentation of Historical Map Images and Time Series." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.27547)]
+[2025.10]
+
+:boom:**AD-SAM:** Mario Camarena, Het Patel, Fatemeh Nazari, Evangelos Papalexakis, Mohamadhossein Noruzoliaee, Jia Chen.<br />
+"AD-SAM: Fine-Tuning the Segment Anything Vision Foundation Model for Autonomous Driving Perception." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2510.27047)]
+[2025.10]
+
 :boom:**SANSA:** Claudia Cuttano, Gabriele Trivigno, Giuseppe Averta, Carlo Masone.<br />
 "SANSA: Unleashing the Hidden Semantics in SAM2 for Few-Shot Segmentation." NeurIPS (2025).
 [[paper](https://openreview.net/forum?id=o8r3gOFTQo)]
