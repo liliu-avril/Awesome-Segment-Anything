@@ -293,6 +293,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**VesSAM:** Suzhong Fu, Rui Sun, Xuan Ding, Jingqi Dong, Yiming Yang, Yao Zhu, Min Chang Jordan Ren, Delin Deng, Angelica Aviles-Rivero, Shuguang Cui, Zhen Li.<br />
+"VesSAM: Efficient Multi-Prompting for Segmenting Complex Vessel." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.00981)]
+[2025.11]
+
+:boom:**SpinalSAM-R1:** Jiaming Liu, Dingwei Fan, Junyong Zhao, Chunlin Li, Haipeng Si, Liang Sun.<br />
+"SpinalSAM-R1: A Vision-Language Multimodal Interactive System for Spine CT Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.00095)]
+[[code](https://github.com/6jm233333/spinalsam-r1)]
+[2025.11]
+
 :boom:**MapSAM2:** Xue Xia, Randall Balestriero, Tao Zhang, Yixin Zhou, Andrew Ding, Dev Saini, Lorenz Hurni.<br />
 "MapSAM2: Adapting SAM2 for Automatic Segmentation of Historical Map Images and Time Series." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2510.27547)]
