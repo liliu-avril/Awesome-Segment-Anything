@@ -293,6 +293,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**CenterMamba-SAM:** Yu Tian, Zhongheng Yang, Chenshi Liu, Yiyun Su, Ziwei Hong, Zexi Gong, Jingyuan Xu.<br />
+"CenterMamba-SAM: Center-Prioritized Scanning and Temporal Prototypes for Brain Lesion Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.01243)]
+[2025.11]
+
+:boom:**MIQ-SAM3D:** Jierui Qu, Jianchun Zhao.<br />
+"MIQ-SAM3D: From Single-Point Prompt to Multi-Instance Segmentation via Competitive Query Refinement." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.01345)]
+[2025.11]
+
 :boom:**VesSAM:** Suzhong Fu, Rui Sun, Xuan Ding, Jingqi Dong, Yiming Yang, Yao Zhu, Min Chang Jordan Ren, Delin Deng, Angelica Aviles-Rivero, Shuguang Cui, Zhen Li.<br />
 "VesSAM: Efficient Multi-Prompting for Segmenting Complex Vessel." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.00981)]
