@@ -293,6 +293,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM2-Animal-Tracking:** Jan Frederik Meier, Timo Lüddecke.<br />
+"Zero-Shot Multi-Animal Tracking in the Wild." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.02591)]
+[[code](https://github.com/ecker-lab/SAM2-Animal-Tracking)]
+[2025.11]
+
+:boom:Jiajia Li, Keyi Zhu, Qianwen Zhang, Dong Chen, Qi Sun, Zhaojian Li.<br />
+"Object-Centric 3D Gaussian Splatting for Strawberry Plant Reconstruction and Phenotyping." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.02207)]
+[2025.11]
+
 :boom:**CenterMamba-SAM:** Yu Tian, Zhongheng Yang, Chenshi Liu, Yiyun Su, Ziwei Hong, Zexi Gong, Jingyuan Xu.<br />
 "CenterMamba-SAM: Center-Prioritized Scanning and Temporal Prototypes for Brain Lesion Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.01243)]
