@@ -293,6 +293,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SRFT-GaLore:** Yun-Chen Lin, Jiayuan Huang, Hanyuan Zhang, Sergi Kavtaradze, Matthew J. Clarkson, Mobarak I. Hoque.<br />
+"Subsampled Randomized Fourier GaLore for Adapting Foundation Models in Depth-Driven Liver Landmark Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.03163)]
+[2025.11]
+
 :boom:**SAM2-Animal-Tracking:** Jan Frederik Meier, Timo Lüddecke.<br />
 "Zero-Shot Multi-Animal Tracking in the Wild." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.02591)]
