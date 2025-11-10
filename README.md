@@ -293,6 +293,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**4D3R:** Mengqi Guo, Bo Xu, Yanyan Li, Gim Hee Lee.<br />
+"4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos." NeurIPS (2025).
+[[paper](https://arxiv.org/abs/2511.05229)]
+[2025.11]
+
 :boom:**SaliencyCLIP-SAM:** Ying Yuan, Yingying Zhang, Shuai Zhang & Hongjuan Wang.<br />
 "SaliencyCLIP-SAM: Bridging Text and Image Towards Text-Driven Salient Object Detection." ICIG (2025).
 [[paper](https://link.springer.com/chapter/10.1007/978-981-95-3393-0_3)]
