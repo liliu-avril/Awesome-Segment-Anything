@@ -293,6 +293,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**NOVO:** Kyung-Yoon Yoon, Yeong-Jun Cho.<br />
+"NOVO: Bridging LLaVA and SAM with Visual-only Prompts for Reasoning Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.06651)]
+[[code](https://will_be_soon/)]
+[2025.11]
+
+:boom:Xing Yao, Ahana Gangopadhyay, Hsi-Ming Chang, Ravi Soni.<br />
+"Towards Better Ultrasound Video Segmentation Foundation Model: An Empirical study on SAM2 Finetuning from Data Perspective." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.05731)]
+[2025.11]
+
+:boom:**U(PM)^2:** Chang Li, Xingtao Peng.<br />
+"U(PM)^2: Unsupervised polygon matching with pre-trained models for challenging stereo images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.05949)]
+[2025.11]
+
 :boom:**4D3R:** Mengqi Guo, Bo Xu, Yanyan Li, Gim Hee Lee.<br />
 "4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2511.05229)]
