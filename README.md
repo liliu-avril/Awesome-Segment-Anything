@@ -293,6 +293,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Cascade HQP-DETR:** Zhiyuan Chen, Yuelin Guo, Zitong Huang, Haoyu He, Renhao Lu, Weizhe Zhang.<br />
+"High-Quality Proposal Encoding and Cascade Denoising for Imaginary Supervised Object Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.08018)]
+[2025.11]
+
+:boom:Mehmet Batuhan Duman, Alejandro Carnero, Cristian Martín, Daniel Garrido, Manuel Díaz.<br />
+"Foam Segmentation in Wastewater Treatment Plants: A Federated Learning Approach with Segment Anything Model 2." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.08130)]
+[[code](https://github.com/ertis-research/zerovision)]
+[2025.11]
+
 :boom:**NOVO:** Kyung-Yoon Yoon, Yeong-Jun Cho.<br />
 "NOVO: Bridging LLaVA and SAM with Visual-only Prompts for Reasoning Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.06651)]
