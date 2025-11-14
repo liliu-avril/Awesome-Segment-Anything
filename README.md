@@ -293,6 +293,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM-DAQ:** Jia Lin, Xiaofei Zhou, Jiyuan Liu, Runmin Cong, Guodao Zhang, Zhi Liu, Jiyong Zhang.<br />
+"SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection." AAAI (2025).
+[[paper](https://arxiv.org/abs/2511.09870)]
+[[code](https://github.com/LinJ0866/SAM-DAQ)]
+[2025.11]
+
+:boom:**SAT3D:** Himashi Peiris, Sizhe Wang, Gary Egan, Mehrtash Harandi, Meng Law, Zhaolin Chen.<br />
+"Segment Any Tumour: An Uncertainty-Aware Vision Foundation Model for Whole-Body Analysis." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.09592)]
+[2025.11]
+
 :boom:**Cascade HQP-DETR:** Zhiyuan Chen, Yuelin Guo, Zitong Huang, Haoyu He, Renhao Lu, Weizhe Zhang.<br />
 "High-Quality Proposal Encoding and Cascade Denoising for Imaginary Supervised Object Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.08018)]
