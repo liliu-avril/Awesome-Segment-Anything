@@ -156,7 +156,7 @@ If you find our work useful in your research, please consider citing:
   [[blog](https://ai.meta.com/blog/segment-anything-2)] 
   [2024.07]
 
-:boom:**SAM 3:** Meta AI.<br />
+- **SAM 3:** Meta AI.<br />
   "SAM 3: Segment Anything with Concepts." arXiv (2025). 
   [[paper](https://openreview.net/pdf?id=r35clVtGzw)]
   [[homepage](https://ai.meta.com/sam3/)] 
@@ -289,6 +289,17 @@ If you find our work useful in your research, please consider citing:
 [[project](http://rex-omni.github.io/)]
 [[code](https://github.com/IDEA-Research/Rex-Omni)]
 [2025.10]
+
+- **Mamba-3:** Anonymous authors.<br />
+"Mamba-3: Improved Sequence Modeling using State Space Principles." ArXiv (2025).
+[[paper](https://openreview.net/forum?id=HwCvaJOiCj)]
+[2025.11]
+
+- **Depth Anything 3:** Haotong Lin, Sili Chen, Junhao Liew, Donny Y. Chen, Zhenyu Li, Guang Shi, Jiashi Feng, Bingyi Kang.<br />
+"Depth Anything 3: Recovering the Visual Space from Any Views." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.10647)]
+[[code](https://depth-anything-3.github.io/)]
+[2025.11]
 
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
