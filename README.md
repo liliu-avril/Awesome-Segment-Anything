@@ -305,7 +305,7 @@ If you find our work useful in your research, please consider citing:
 #### The latest papers within a week are marked with a :boom:
 #### 2025
 :boom:**SAM-DAQ:** Jia Lin, Xiaofei Zhou, Jiyuan Liu, Runmin Cong, Guodao Zhang, Zhi Liu, Jiyong Zhang.<br />
-"SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection." AAAI (2025).
+"SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection." AAAI (2026).
 [[paper](https://arxiv.org/abs/2511.09870)]
 [[code](https://github.com/LinJ0866/SAM-DAQ)]
 [2025.11]
