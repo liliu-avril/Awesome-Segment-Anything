@@ -331,80 +331,80 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2511.12005)]
 [2025.11]
 
-:boom:**SAM-DAQ:** Jia Lin, Xiaofei Zhou, Jiyuan Liu, Runmin Cong, Guodao Zhang, Zhi Liu, Jiyong Zhang.<br />
+- **SAM-DAQ:** Jia Lin, Xiaofei Zhou, Jiyuan Liu, Runmin Cong, Guodao Zhang, Zhi Liu, Jiyong Zhang.<br />
 "SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection." AAAI (2026).
 [[paper](https://arxiv.org/abs/2511.09870)]
 [[code](https://github.com/LinJ0866/SAM-DAQ)]
 [2025.11]
 
-:boom:**SAT3D:** Himashi Peiris, Sizhe Wang, Gary Egan, Mehrtash Harandi, Meng Law, Zhaolin Chen.<br />
+- **SAT3D:** Himashi Peiris, Sizhe Wang, Gary Egan, Mehrtash Harandi, Meng Law, Zhaolin Chen.<br />
 "Segment Any Tumour: An Uncertainty-Aware Vision Foundation Model for Whole-Body Analysis." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.09592)]
 [2025.11]
 
-:boom:**Cascade HQP-DETR:** Zhiyuan Chen, Yuelin Guo, Zitong Huang, Haoyu He, Renhao Lu, Weizhe Zhang.<br />
+- **Cascade HQP-DETR:** Zhiyuan Chen, Yuelin Guo, Zitong Huang, Haoyu He, Renhao Lu, Weizhe Zhang.<br />
 "High-Quality Proposal Encoding and Cascade Denoising for Imaginary Supervised Object Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.08018)]
 [2025.11]
 
-:boom:Mehmet Batuhan Duman, Alejandro Carnero, Cristian Martín, Daniel Garrido, Manuel Díaz.<br />
+- Mehmet Batuhan Duman, Alejandro Carnero, Cristian Martín, Daniel Garrido, Manuel Díaz.<br />
 "Foam Segmentation in Wastewater Treatment Plants: A Federated Learning Approach with Segment Anything Model 2." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.08130)]
 [[code](https://github.com/ertis-research/zerovision)]
 [2025.11]
 
-:boom:**NOVO:** Kyung-Yoon Yoon, Yeong-Jun Cho.<br />
+- **NOVO:** Kyung-Yoon Yoon, Yeong-Jun Cho.<br />
 "NOVO: Bridging LLaVA and SAM with Visual-only Prompts for Reasoning Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.06651)]
 [[code](https://will_be_soon/)]
 [2025.11]
 
-:boom:Xing Yao, Ahana Gangopadhyay, Hsi-Ming Chang, Ravi Soni.<br />
+- Xing Yao, Ahana Gangopadhyay, Hsi-Ming Chang, Ravi Soni.<br />
 "Towards Better Ultrasound Video Segmentation Foundation Model: An Empirical study on SAM2 Finetuning from Data Perspective." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.05731)]
 [2025.11]
 
-:boom:**U(PM)^2:** Chang Li, Xingtao Peng.<br />
+- **U(PM)^2:** Chang Li, Xingtao Peng.<br />
 "U(PM)^2: Unsupervised polygon matching with pre-trained models for challenging stereo images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.05949)]
 [2025.11]
 
-:boom:**4D3R:** Mengqi Guo, Bo Xu, Yanyan Li, Gim Hee Lee.<br />
+- **4D3R:** Mengqi Guo, Bo Xu, Yanyan Li, Gim Hee Lee.<br />
 "4D3R: Motion-Aware Neural Reconstruction and Rendering of Dynamic Scenes from Monocular Videos." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2511.05229)]
 [2025.11]
 
-:boom:**SaliencyCLIP-SAM:** Ying Yuan, Yingying Zhang, Shuai Zhang & Hongjuan Wang.<br />
+- **SaliencyCLIP-SAM:** Ying Yuan, Yingying Zhang, Shuai Zhang & Hongjuan Wang.<br />
 "SaliencyCLIP-SAM: Bridging Text and Image Towards Text-Driven Salient Object Detection." ICIG (2025).
 [[paper](https://link.springer.com/chapter/10.1007/978-981-95-3393-0_3)]
 [2025.11]
 
-:boom:**UltraSAM:** Tao Jiang et al.<br />
+- **UltraSAM:** Tao Jiang et al.<br />
 "UltraSAM: A foundational medical ultrasound segmentation model with limited training data." Expert Systems With Applications (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0957417425038382)]
 [2025.11]
 
-:boom:Liu, Zongxian, Chen Chen, Huibao Huang, Jiankang Chen, Pengtao Zhang, and Jianghan Xue.<br />
+- Liu, Zongxian, Chen Chen, Huibao Huang, Jiankang Chen, Pengtao Zhang, and Jianghan Xue.<br />
 "SAM-Based Approach for Automated Fabric Anisotropy Quantification in Concrete Aggregates." Sensors (2025).
 [[paper](https://www.mdpi.com/1424-8220/25/21/6661)]
 [2025.11]
 
-:boom:**FM-SAM:** Haohua Que et al.<br />
+- **FM-SAM:** Haohua Que et al.<br />
 "FM-SAM: individual tree crown delineation and classification based on Segmentation Anything Model (SAM) and YOLOv10 in UAV imagery for forest monitoring." Computers and Electronics in Agriculture (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925012682)]
 [2025.11]
 
-:boom:Alahmari, Saeed S., Michael R. Gardner, and Tawfiq Salem.<br />
+vAlahmari, Saeed S., Michael R. Gardner, and Tawfiq Salem.<br />
 "Zero-Shot SAM for Food Image Segmentation." Electronics (2025).
 [[paper](https://www.mdpi.com/2079-9292/14/21/4316)]
 [2025.11]
 
-:boom:**MSDP-SAM2-UNet:** Liu, Shuai, Cong Zhang, and Zheng Wang.<br />
+- **MSDP-SAM2-UNet:** Liu, Shuai, Cong Zhang, and Zheng Wang.<br />
 "MSDP-SAM2-UNet: A Novel Multi-Scale and Dual-Path Model for Wheat Leaf Disease Segmentation Based on SAM2-UNet." Applied Sciences (2025).
 [[paper](https://www.mdpi.com/2076-3417/15/21/11778)]
 [2025.11]
 
-:boom:**SAMConvFormer+LLM:** Muhammad Owais et al.<br />
+- **SAMConvFormer+LLM:** Muhammad Owais et al.<br />
 "SAMConvFormer+LLM: Exploring synergistic fusion of Segment Anything Model with joint convolutional transformer and large language model to advance dense agricultural crop analysis." Computers and Electronics in Agriculture (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0168169925012980)]
 [[code](https://github.com/Owais-CodeHub/SAMConvFormer-LLM)]
