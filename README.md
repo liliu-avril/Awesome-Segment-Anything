@@ -304,6 +304,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAAS:** Hengrui Hu, Kaining Ying, Henghui Ding.<br />
+"Segment Anything Across Shots: A Method and Benchmark." AAAI (2026).
+[[paper](https://arxiv.org/abs/2511.13715)]
+[[code](https://henghuiding.com/SAAS/)]
+[2025.11]
+
+:boom:**FGNet:** Zhenghua Li, Hang Chen, Zihao Sun, Kai Li, Xiaolin Hu.<br />
+"FGNet: Leveraging Feature-Guided Attention to Refine SAM2 for 3D EM Neuron Segmentation." AAAI (2026).
+[[paper](https://arxiv.org/abs/2511.13063)]
+[2025.11]
+
+:boom:**UnSAMv2:** Junwei Yu, Trevor Darrell, XuDong Wang.<br />
+"UnSAMv2: Self-Supervised Learning Enables Segment Anything at Any Granularity." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.13714)]
+[[code](https://yujunwei04.github.io/UnSAMv2-Project-Page/)]
+[2025.11]
+
+:boom:**DelAnyFlow:** Mykola Lavreniuk, Nataliia Kussul, Andrii Shelestov, Yevhenii Salii, Volodymyr Kuzin, Sergii Skakun, Zoltan Szantoi.<br />
+"Delineate Anything Flow: Fast, Country-Level Field Boundary Detection from Any Source." ArXiv (2025).
+[[paper](https://lavreniuk.github.io/Delineate-Anything/)]
+[2025.11]
+
+:boom:**LithoSeg:** Xinyu He, Botong Zhao, Bingbing Li, Shujing Lyu, Jiwei Shen, Yue Lu.<br />
+"LithoSeg: A Coarse-to-Fine Framework for High-Precision Lithography Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.12005)]
+[2025.11]
+
 :boom:**SAM-DAQ:** Jia Lin, Xiaofei Zhou, Jiyuan Liu, Runmin Cong, Guodao Zhang, Zhi Liu, Jiyong Zhang.<br />
 "SAM-DAQ: Segment Anything Model with Depth-guided Adaptive Queries for RGB-D Video Salient Object Detection." AAAI (2026).
 [[paper](https://arxiv.org/abs/2511.09870)]
