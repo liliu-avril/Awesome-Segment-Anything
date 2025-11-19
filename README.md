@@ -304,6 +304,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**CS3:** Kranti Kumar Parida, Omar Emara, Hazel Doughty, Dima Damen.<br />
+"Segmenting Collision Sound Sources in Egocentric Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.13863)]
+[[code](https://krantiparida.github.io/projects/cs3.html)]
+[2025.11]
+
+:boom:**SAM-Fed:** Sahar Nasirihaghighi, Negin Ghamsarian, Yiping Li, Marcel Breeuwer, Raphael Sznitman, Klaus Schoeffmann.<br />
+"SAM-Fed: SAM-Guided Federated Semi-Supervised Learning for Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.14302)]
+[2025.11]
+
+:boom:**WeSTAR:** Yan Huang, Yongyi Su, Xin Lin, Le Zhang, Xun Xu.<br />
+"Enhancing Generalization of Depth Estimation Foundation Model via Weakly-Supervised Adaptation with Regularization." AAAI (2026).
+[[paper](https://arxiv.org/abs/2511.14238)]
+[2025.11]
+
 :boom:**SAAS:** Hengrui Hu, Kaining Ying, Henghui Ding.<br />
 "Segment Anything Across Shots: A Method and Benchmark." AAAI (2026).
 [[paper](https://arxiv.org/abs/2511.13715)]
