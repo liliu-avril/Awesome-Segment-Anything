@@ -14,16 +14,22 @@
 
 #### We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)].
 
+:boom:**[SAM 3D](https://github.com/facebookresearch/sam-3d-objects?tab=readme-ov-file#citing-sam-3d-objects): ''SAM 3D: 3Dfy Anything in Images'' was released.**
+
 :boom:**[SAM 3](https://ai.meta.com/sam3/): The paper of [SAM 3](https://openreview.net/pdf?id=r35clVtGzw) was released.**
 
-:boom:**[SAM 2](https://github.com/facebookresearch/segment-anything-2): Segment Anything in Images and Videos was released.**
+:boom:**[SAM 2](https://github.com/facebookresearch/segment-anything-2): ''Segment Anything in Images and Videos'' was released.**
+
+:boom:**[SAM](https://github.com/facebookresearch/segment-anything): ''Segment Anything'' was released.**
 
 :boom:**[SAM & SAM2 for videos](https://github.com/983632847/SAM-for-Videos): The first survey on Segment Anything for Videos: A Systematic Survey was online.**
 ____
 
+
 ## :fire: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/liliu-avril/Awesome-Segment-Anything?icon=github&label=last%20updated&color=green)
 ```
+- 2025.11.19: SAM 3D was released.
 - 2025.10.11: SAM 3 arrives! Officially announced and set to launch.
 - 2025.04.22: SAM2 won the ICLR 2025 Best Paper Honorable Mention.
 - 2024.07.31: The first survey on SAM & SAM2 for Videos was online.
@@ -162,6 +168,15 @@ If you find our work useful in your research, please consider citing:
   [[homepage](https://ai.meta.com/sam3/)] 
   [[中文解读](https://zhuanlan.zhihu.com/p/1961100103482873205)]
   [2025.10]
+
+- **SAM 3D:** SAM 3D Team, Xingyu Chen, Fu-Jen Chu, Pierre Gleize, Kevin J Liang, Alexander Sax, Hao Tang,Weiyao Wang, Michelle Guo, Thibaut Hardin, Xiang Li, Aohan Lin, Jiawei Liu, Ziqi Ma, Anushka Sagar,Bowen Song, Xiaodong Wang, Jianing Yang, Bowen Zhang, Piotr Dollár, Georgia Gkioxari, MattFeiszli, Jitendra Malik.<br />
+"SAM 3D: 3Dfy Anything in Images." ArXiv (2025).
+[[paper](https://ai.meta.com/research/publications/sam-3d-3dfy-anything-in-images/)]
+[[code](https://github.com/facebookresearch/sam-3d-objects)]
+[[project](https://ai.meta.com/sam3d/)]
+[[demo](https://www.aidemos.meta.com/segment-anything/editor/convert-image-to-3d)]
+[[blog](https://ai.meta.com/blog/sam-3d/)]
+[2025.11]
 
 - **GPT-4V:** OpenAI.<br />
   "GPT-4V(ision) System Card." ArXiv (2023).
