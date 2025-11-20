@@ -31,7 +31,7 @@ ____
 ```
 - 2025.11.19: SAM 3D was released.
 - 2025.10.11: SAM 3 arrives! Officially announced and set to launch.
-- 2025.04.22: SAM2 won the ICLR 2025 Best Paper Honorable Mention.
+- 2025.04.22: SAM 2 won the ICLR 2025 Best Paper Honorable Mention.
 - 2024.07.31: The first survey on SAM & SAM2 for Videos was online.
 - 2024.07.29: The SAM 2 was released.
 - 2023.07.14: "Segment Anything" was accepted by ICCV 2023 (Best Paper Honorable Mention).
