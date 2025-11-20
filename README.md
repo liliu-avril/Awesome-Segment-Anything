@@ -326,6 +326,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SA-FARI:** Dante Francisco Wasmuht, Otto Brookes, Maximillian Schall, Pablo Palencia, Chris Beirne, Tilo Burghardt, Majid Mirmehdi, Hjalmar Kühl, Mimi Arandjelovic, Sam Pottie, Peter Bermant, Brandon Asheim, Yi Jin Toh, Adam Elzinga, Jason Holmberg, Andrew Whitworth, Eleanor Flatt, Laura Gustafson, Chaitanya Ryali, Yuan-Ting Hu, Baishan Guo, Andrew Westbury, Kate Saenko, Didac Suris.<br />
+"The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.15622)]
+[[code](https://www.conservationxlabs.com/sa-fari)]
+[2025.11]
+
+:boom:Xabier Lekunberri, Ahmad Kamal, Izaro Goienetxea, Jon Ruiz, Iñaki Quincoces, Jaime Valls Miro, Ignacio Arganda-Carreras, Jose A. Fernandes-Salvador.<br />
+"Deep Learning for Accurate Vision-based Catch Composition in Tropical Tuna Purse Seiners." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.15468)]
+[2025.11]
+
 :boom:**CS3:** Kranti Kumar Parida, Omar Emara, Hazel Doughty, Dima Damen.<br />
 "Segmenting Collision Sound Sources in Egocentric Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.13863)]
