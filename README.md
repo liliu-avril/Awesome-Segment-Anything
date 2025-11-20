@@ -16,7 +16,7 @@
 
 :boom:**[SAM 3D](https://github.com/facebookresearch/sam-3d-objects?tab=readme-ov-file#citing-sam-3d-objects): ''SAM 3D: 3Dfy Anything in Images'' was released.**
 
-:boom:**[SAM 3](https://ai.meta.com/sam3/): The paper of [SAM 3](https://openreview.net/pdf?id=r35clVtGzw) was released.**
+:boom:**[SAM 3](https://github.com/facebookresearch/sam3): ''SAM 3: Segment Anything with Concepts'' was released.**
 
 :boom:**[SAM 2](https://github.com/facebookresearch/segment-anything-2): ''Segment Anything in Images and Videos'' was released.**
 
@@ -29,7 +29,7 @@ ____
 ## :fire: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/liliu-avril/Awesome-Segment-Anything?icon=github&label=last%20updated&color=green)
 ```
-- 2025.11.19: SAM 3D was released.
+- 2025.11.19: SAM 3 and SAM 3D were released.
 - 2025.10.11: SAM 3 arrives! Officially announced and set to launch.
 - 2025.04.22: SAM 2 won the ICLR 2025 Best Paper Honorable Mention.
 - 2024.07.31: The first survey on SAM & SAM2 for Videos was online.
@@ -162,9 +162,10 @@ If you find our work useful in your research, please consider citing:
   [[blog](https://ai.meta.com/blog/segment-anything-2)] 
   [2024.07]
 
-- **SAM 3:** Meta AI.<br />
+- **SAM 3:** Nicolas Carion*, Laura Gustafson*, Yuan-Ting Hu*, Shoubhik Debnath*, Ronghang Hu*, Didac Suris*, Chaitanya Ryali*, Kalyan Vasudev Alwala*, Haitham Khedr*, Andrew Huang, Jie Lei, Tengyu Ma, Baishan Guo, Arpit Kalla, Markus Marks, Joseph Greer, Meng Wang, Peize Sun, Roman Rädle, Triantafyllos Afouras, Effrosyni Mavroudi, Katherine Xu°, Tsung-Han Wu°, Yu Zhou°, Liliane Momeni°, Rishi Hazra°, Shuangrui Ding°, Sagar Vaze°, Francois Porcher°, Feng Li°, Siyuan Li°, Aishwarya Kamath°, Ho Kei Cheng°, Piotr Dollar†, Nikhila Ravi†, Kate Saenko†, Pengchuan Zhang†, Christoph Feichtenhofer†.<br />
   "SAM 3: Segment Anything with Concepts." arXiv (2025). 
-  [[paper](https://openreview.net/pdf?id=r35clVtGzw)]
+  [[paper](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.2365-6/586037495_2236299700208804_3520531923593328648_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=nmZfwAXlWFIQ7kNvwG4Ziha&_nc_oc=AdkN4o3mxVR9EsmETWKcD22Es9j13TyVnzBM4i12yV--s4BBVU7JRjK7o5i8gmi3GXY&_nc_zt=14&_nc_ht=scontent-hkg1-2.xx&_nc_gid=cv151uZyJ6W0M4xGA5YJeg&oh=00_AfhGOif-baPFkfDU5Os8PdgwzC4mo825cMW2vNKx2E9vog&oe=6924E449)]
+  [[code](https://github.com/facebookresearch/sam3)]
   [[homepage](https://ai.meta.com/sam3/)] 
   [[中文解读](https://zhuanlan.zhihu.com/p/1961100103482873205)]
   [2025.10]
