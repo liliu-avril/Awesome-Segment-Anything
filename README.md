@@ -169,13 +169,20 @@ If you find our work useful in your research, please consider citing:
   [[中文解读](https://zhuanlan.zhihu.com/p/1961100103482873205)]
   [2025.10]
 
-- **SAM 3D:** SAM 3D Team, Xingyu Chen, Fu-Jen Chu, Pierre Gleize, Kevin J Liang, Alexander Sax, Hao Tang,Weiyao Wang, Michelle Guo, Thibaut Hardin, Xiang Li, Aohan Lin, Jiawei Liu, Ziqi Ma, Anushka Sagar,Bowen Song, Xiaodong Wang, Jianing Yang, Bowen Zhang, Piotr Dollár, Georgia Gkioxari, MattFeiszli, Jitendra Malik.<br />
+- **SAM 3D:** SAM 3D Team, Xingyu Chen, Fu-Jen Chu, Pierre Gleize, Kevin J Liang, Alexander Sax, Hao Tang Weiyao Wang, Michelle Guo, Thibaut Hardin, Xiang Li, Aohan Lin, Jiawei Liu, Ziqi Ma, Anushka Sagar, Bowen Song, Xiaodong Wang, Jianing Yang, Bowen Zhang, Piotr Dollár, Georgia Gkioxari, MattFeiszli, Jitendra Malik.<br />
 "SAM 3D: 3Dfy Anything in Images." ArXiv (2025).
 [[paper](https://ai.meta.com/research/publications/sam-3d-3dfy-anything-in-images/)]
 [[code](https://github.com/facebookresearch/sam-3d-objects)]
 [[project](https://ai.meta.com/sam3d/)]
 [[demo](https://www.aidemos.meta.com/segment-anything/editor/convert-image-to-3d)]
 [[blog](https://ai.meta.com/blog/sam-3d/)]
+[2025.11]
+
+- **SAM 3D Body:** Xitong Yang⋆, Devansh Kukreja⋆, Don Pinkus⋆, Anushka Sagar, Taosha Fan, Jinhyung Park◦, Soyong Shin◦, Jinkun Cao, Jiawei Liu, Nicolas Ugrinovic, Matt Feiszli†, Jitendra Malik†, Piotr Dollar†, Kris Kitani†.<br />
+"SAM 3D Body: Robust Full-Body Human Mesh Recovery." ArXiv (2025).
+[[paper](https://ai.meta.com/research/publications/sam-3d-body-robust-full-body-human-mesh-recovery/)]
+[[code](https://github.com/facebookresearch/sam-3d-body)]
+[[project](https://ai.meta.com/sam3d)]
 [2025.11]
 
 - **GPT-4V:** OpenAI.<br />
