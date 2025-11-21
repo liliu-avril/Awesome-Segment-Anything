@@ -327,6 +327,35 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**VideoSeg-R1:** Zishan Xu, Yifu Guo, Yuquan Lu, Fengyu Yang, Junxin Li.<br />
+"VideoSeg-R1:Reasoning Video Object Segmentation via Reinforcement Learning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.16077)]
+[[code](https://github.com/euyis1019/VideoSeg-R1)]
+[2025.11]
+
+:boom:**SAM2S:** Haofeng Liu, Ziyue Wang, Sudhanshu Mishra, Mingqi Gao, Guanyi Qin, Chang Han Low, Alex Y. W. Kong, Yueming Jin.<br />
+"SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.16618)]
+[[code](https://jinlab-imvr.github.io/SAM2S)]
+[2025.11]
+
+:boom:**EfficientSAM3:** Chengxi Zeng, Yuxuan Jiang, Aaron Zhang.<br />
+"EfficientSAM3: Progressive Hierarchical Distillation for Video Concept Segmentation from SAM1, 2, and 3." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.15833)]
+[[code](https://github.com/SimonZeng7108/efficientsam3)]
+[2025.11]
+
+:boom:**UniUltra:** Yue Li, Qing Xu, Yixuan Zhang, Xiangjian He, Qian Zhang, Yuan Yao, Fiseha B. Tesem, Xin Chen, Ruili Wang, Zhen Chen, Chang Wen Chen.<br />
+"UniUltra: Interactive Parameter-Efficient SAM2 for Universal Ultrasound Segmentation." TMM (2025).
+[[paper](https://arxiv.org/abs/2511.15771)]
+[[code](https://github.com/xq141839/UniUltra)]
+[2025.11]
+
+:boom:**Click2Graph:** Raphael Ruschel, Hardikkumar Prajapati, Awsafur Rahman, B. S. Manjunath.<br />
+"Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.15948)]
+[2025.11]
+
 :boom:**SA-FARI:** Dante Francisco Wasmuht, Otto Brookes, Maximillian Schall, Pablo Palencia, Chris Beirne, Tilo Burghardt, Majid Mirmehdi, Hjalmar Kühl, Mimi Arandjelovic, Sam Pottie, Peter Bermant, Brandon Asheim, Yi Jin Toh, Adam Elzinga, Jason Holmberg, Andrew Whitworth, Eleanor Flatt, Laura Gustafson, Chaitanya Ryali, Yuan-Ting Hu, Baishan Guo, Andrew Westbury, Kate Saenko, Didac Suris.<br />
 "The SA-FARI Dataset: Segment Anything in Footage of Animals for Recognition and Identification." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.15622)]
