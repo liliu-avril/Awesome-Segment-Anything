@@ -165,6 +165,7 @@ If you find our work useful in your research, please consider citing:
 - **SAM 3:** Nicolas Carion*, Laura Gustafson*, Yuan-Ting Hu*, Shoubhik Debnath*, Ronghang Hu*, Didac Suris*, Chaitanya Ryali*, Kalyan Vasudev Alwala*, Haitham Khedr*, Andrew Huang, Jie Lei, Tengyu Ma, Baishan Guo, Arpit Kalla, Markus Marks, Joseph Greer, Meng Wang, Peize Sun, Roman Rädle, Triantafyllos Afouras, Effrosyni Mavroudi, Katherine Xu°, Tsung-Han Wu°, Yu Zhou°, Liliane Momeni°, Rishi Hazra°, Shuangrui Ding°, Sagar Vaze°, Francois Porcher°, Feng Li°, Siyuan Li°, Aishwarya Kamath°, Ho Kei Cheng°, Piotr Dollar†, Nikhila Ravi†, Kate Saenko†, Pengchuan Zhang†, Christoph Feichtenhofer†.<br />
   "SAM 3: Segment Anything with Concepts." arXiv (2025). 
   [[paper](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.2365-6/586037495_2236299700208804_3520531923593328648_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=nmZfwAXlWFIQ7kNvwG4Ziha&_nc_oc=AdkN4o3mxVR9EsmETWKcD22Es9j13TyVnzBM4i12yV--s4BBVU7JRjK7o5i8gmi3GXY&_nc_zt=14&_nc_ht=scontent-hkg1-2.xx&_nc_gid=cv151uZyJ6W0M4xGA5YJeg&oh=00_AfhGOif-baPFkfDU5Os8PdgwzC4mo825cMW2vNKx2E9vog&oe=6924E449)]
+  [[arXiv](https://arxiv.org/abs/2511.16719)]
   [[code](https://github.com/facebookresearch/sam3)]
   [[homepage](https://ai.meta.com/sam3/)] 
   [[中文解读](https://zhuanlan.zhihu.com/p/1961100103482873205)]
@@ -177,6 +178,7 @@ If you find our work useful in your research, please consider citing:
 [[project](https://ai.meta.com/sam3d/)]
 [[demo](https://www.aidemos.meta.com/segment-anything/editor/convert-image-to-3d)]
 [[blog](https://ai.meta.com/blog/sam-3d/)]
+[[中文解读](https://zhuanlan.zhihu.com/p/1974819250574209615)]
 [2025.11]
 
 - **SAM 3D Body:** Xitong Yang⋆, Devansh Kukreja⋆, Don Pinkus⋆, Anushka Sagar, Taosha Fan, Jinhyung Park◦, Soyong Shin◦, Jinkun Cao, Jiawei Liu, Nicolas Ugrinovic, Matt Feiszli†, Jitendra Malik†, Piotr Dollar†, Kris Kitani†.<br />
@@ -327,6 +329,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**CA-SAM:** Jiayi Wang, Wei Dai, Haoyu Wang, Sihan Yang, Haixia Bi, Jian Sun.<br />
+"Continual Alignment for SAM: Rethinking Foundation Models for Medical Image Segmentation in Continual Learning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.17201)]
+[[code](https://github.com/azzzzyo/Continual-Alignment-for-SAM)]
+[2025.11]
+
+:boom:**SVG360:** Mengnan Jiang, Zhaolin Sun, Christian Franke, Michele Franco Adesso, Antonio Haas, Grace Li Zhang.<br />
+"SVG360: Multi-View SVG Generation with Geometric and Color Consistency from a Single SVG." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.16766)]
+[2025.11]
+
 :boom:**CoroSAM:** Michela Ferrari and Mario Urtis and Edoardo Spairani and Antonio Tescari and Francesca Sessa and Maurizia Grasso and Francesco Prati and Eloisa Arbustini and Giovanni Magenes.<br />
 "CoroSAM: adaptation of the Segment Anything Model for interactive segmentation in Coronary angiograms." Computer Methods and Programs in Biomedicine (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0169260725005887)]
