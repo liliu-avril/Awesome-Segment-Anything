@@ -329,6 +329,47 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**MedSAM3:** Anglin Liu, Rundong Xue, Xu R. Cao, Yifan Shen, Yi Lu, Xiang Li, Qianqian Chen, Jintai Chen.<br />
+"MedSAM3: Delving into Segment Anything with Medical Concepts." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.19046)]
+[[code](https://github.com/Joey-S-Liu/MedSAM3)]
+[2025.11]
+
+:boom:**SAM3-Adapter:** Tianrun Chen, Runlong Cao, Xinda Yu, Lanyun Zhu, Chaotao Ding, Deyi Ji, Cheng Chen, Qi Zhu, Chunyan Xu, Papa Mao, Ying Zang.<br />
+"SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.19425)]
+[[code](http://tianrun-chen.github.io/SAM-Adaptor/)]
+[2025.11]
+
+:boom:**SCALER:** Chunming He, Rihan Zhang, Longxiang Tang, Ziyun Yang, Kai Li, Deng-Ping Fan, Sina Farsiu.<br />
+"SCALER: SAM-Enhanced Collaborative Learning for Label-Deficient Concealed Object Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.18136)]
+[2025.11]
+
+:boom:**SatSAM2:** Tianrun Chen, Runlong Cao, Xinda Yu, Lanyun Zhu, Chaotao Ding, Deyi Ji, Cheng Chen, Qi Zhu, Chunyan Xu, Papa Mao, Ying Zang.<br />
+"SatSAM2: Motion-Constrained Video Object Tracking in Satellite Imagery using Promptable SAM2 and Kalman Priors." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.19425)]
+[2025.11]
+
+:boom:**DEAP-3DSAM:** Fangda Chen, Jintao Tang, Pancheng Wang, Ting Wang, Shasha Li, Ting Deng.<br />
+"DEAP-3DSAM: Decoder Enhanced and Auto Prompt SAM for 3D Medical Image Segmentation." BIBM (2025).
+[[paper](https://arxiv.org/abs/2511.19071)]
+[2025.11]
+
+:boom:**Grc-SAM:** Qiyang Yu, Yu Fang, Tianrui Li, Xuemei Cao, Yan Chen, Jianghao Li, Fan Min, Yi Zhang.<br />
+"Granular Computing-driven SAM: From Coarse-to-Fine Guidance for Prompt-Free Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.19062)]
+[2025.11]
+
+:boom:**AGE-VLM:** Shweta Mahajan, Hoang Le, Hyojin Park, Farzad Farhadzadeh, Munawar Hayat, Fatih Porikli.<br />
+"Attention Guided Alignment in Efficient Vision-Language Models." NeurIPS workshop (2025).
+[[paper](https://arxiv.org/abs/2511.17793)]
+[2025.11]
+
+:boom:**CellFMCount:** Abdurahman Ali Mohammed, Catherine Fonder, Ying Wei, Wallapak Tavanapong, Donald S Sakaguchi, Qi Li, Surya K. Mallapragada.<br />
+"CellFMCount: A Fluorescence Microscopy Dataset, Benchmark, and Methods for Cell Counting." ICDM (2025).
+[[paper](https://arxiv.org/abs/2511.19351)]
+[2025.11]
 :boom:**CA-SAM:** Jiayi Wang, Wei Dai, Haoyu Wang, Sihan Yang, Haixia Bi, Jian Sun.<br />
 "Continual Alignment for SAM: Rethinking Foundation Models for Medical Image Segmentation in Continual Learning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.17201)]
