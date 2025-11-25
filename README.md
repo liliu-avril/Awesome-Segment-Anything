@@ -335,6 +335,12 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/Joey-S-Liu/MedSAM3)]
 [2025.11]
 
+:boom:**Ref-SAM3D:** Yun Zhou, Yaoting Wang, Guangquan Jie, Jinyu Liu, Henghui Ding.<br />
+"Ref-SAM3D: Bridging SAM3D with Text for Reference 3D Reconstruction." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.19426)]
+[[code](https://github.com/FudanCVL/Ref-SAM3D)]
+[2025.11]
+
 :boom:**SAM3-Adapter:** Tianrun Chen, Runlong Cao, Xinda Yu, Lanyun Zhu, Chaotao Ding, Deyi Ji, Cheng Chen, Qi Zhu, Chunyan Xu, Papa Mao, Ying Zang.<br />
 "SAM3-Adapter: Efficient Adaptation of Segment Anything 3 for Camouflage Object Segmentation, Shadow Detection, and Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.19425)]
