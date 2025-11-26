@@ -329,6 +329,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**DRIFT:** Youngseo Kim, Dohyun Kim, Geohee Han, Paul Hongsuck Seo.<br />
+"Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.19936)]
+[2025.11]
+
+:boom:**SPROUT:** Wen Zhang, Qin Ren, Wenjing Liu, Haibin Ling, Chenyu You.<br />
+"Supervise Less, See More: Training-free Nuclear Instance Segmentation with Prototype-Guided Prompting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.19953)]
+[[code](https://github.com/Y-Research-SBU/SPROUT)]
+[2025.11]
+
+:boom:**SAM-MI:** Lin Chen, Yingjian Zhu, Qi Yang, Xin Niu, Kun Ding, Shiming Xiang.<br />
+"SAM-MI: A Mask-Injected Framework for Enhancing Open-Vocabulary Semantic Segmentation with SAM." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.20027)]
+[2025.11]
+
+:boom:**BoxPromptIML:** Zhiqing Guo, Dongdong Xi, Songlin Li, Gaobo Yang.<br />
+"From Passive Perception to Active Memory: A Weakly Supervised Image Manipulation Localization Framework Driven by Coarse-Grained Annotations." AAAI (2026).
+[[paper](https://arxiv.org/abs/2511.20359)]
+[[code](https://github.com/vpsg-research/BoxPromtIML)]
+[2025.11]
+
+:boom:Keith Moore.<br />
+"Not Quite Anything: Overcoming SAMs Limitations for 3D Medical Imaging." AIAS (2025).
+[[paper](https://arxiv.org/abs/2511.19471)]
+[2025.11]
+
 :boom:**MedSAM3:** Anglin Liu, Rundong Xue, Xu R. Cao, Yifan Shen, Yi Lu, Xiang Li, Qianqian Chen, Jintai Chen.<br />
 "MedSAM3: Delving into Segment Anything with Medical Concepts." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.19046)]
