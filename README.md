@@ -329,6 +329,15 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SATA:** Tianlu Zhang, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
+  "Tracking and Segmenting Anything in Any Modality." AAAI (2026).
+  [[paper](https://arxiv.org/abs/2511.19475)]
+  
+:boom:**VESSA:** Jiaqi Guo, Mingzhen Li, Hanyu Su, Santiago López, Lexiaozi Fan, Daniel Kim, Aggelos Katsaggelos.<br />
+"Vision-Language Enhanced Foundation Model for Semi-supervised Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.19759)]
+[2025.11]
+
 :boom:**DRIFT:** Youngseo Kim, Dohyun Kim, Geohee Han, Paul Hongsuck Seo.<br />
 "Image Diffusion Models Exhibit Emergent Temporal Propagation in Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.19936)]
