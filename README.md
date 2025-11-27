@@ -329,6 +329,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**V^2-SAM:** Jiancheng Pan, Runze Wang, Tianwen Qian, Mohammad Mahdi, Yanwei Fu, Xiangyang Xue, Xiaomeng Huang, Luc Van Gool, Danda Pani Paudel, Yuqian Fu.<br />
+"V^2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.20886)]
+[[code](https://v2sam.space/)]
+[2025.11]
+
+:boom:Futian Wang, Mengqi Wang, Xiao Wang, Haowen Wang, Jin Tang.<br />
+"SAM Guided Semantic and Motion Changed Region Mining for Remote Sensing Change Captioning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.21420)]
+[[code](https://github.com/Event-AHU/SAM_ChangeCaptioning)]
+[2025.11]
+
+:boom:**ReSAM:** M. Naseer Subhani.<br />
+"ReSAM: Refine, Requery, and Reinforce: Self-Prompting Point-Supervised Segmentation for Remote Sensing Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.21606)]
+[2025.11]
+
 :boom:**SATA:** Tianlu Zhang, Qiang Zhang, Guiguang Ding, Jungong Han.<br />
   "Tracking and Segmenting Anything in Any Modality." AAAI (2026).
   [[paper](https://arxiv.org/abs/2511.19475)]
