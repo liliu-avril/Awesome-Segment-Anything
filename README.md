@@ -429,6 +429,7 @@ If you find our work useful in your research, please consider citing:
 "CellFMCount: A Fluorescence Microscopy Dataset, Benchmark, and Methods for Cell Counting." ICDM (2025).
 [[paper](https://arxiv.org/abs/2511.19351)]
 [2025.11]
+
 :boom:**CA-SAM:** Jiayi Wang, Wei Dai, Haoyu Wang, Sihan Yang, Haixia Bi, Jian Sun.<br />
 "Continual Alignment for SAM: Rethinking Foundation Models for Medical Image Segmentation in Continual Learning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.17201)]
