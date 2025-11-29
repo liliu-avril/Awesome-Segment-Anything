@@ -329,6 +329,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Vision-Language SAM:** Guangyu Ren · Hengyan Liu · Michalis Lazarou · Tania Stathaki.<br />
+"Multi-modal Segment Anything Model for Camouflaged Scene Segmentation." ICCV (2025).
+[[paper](https://iccv.thecvf.com/virtual/2025/poster/2186)]
+[[code](https://github.com/ic-qialanqian/Vision-Language-SAM)]
+[2025.11]
+
 :boom:**V^2-SAM:** Jiancheng Pan, Runze Wang, Tianwen Qian, Mohammad Mahdi, Yanwei Fu, Xiangyang Xue, Xiaomeng Huang, Luc Van Gool, Danda Pani Paudel, Yuqian Fu.<br />
 "V^2-SAM: Marrying SAM2 with Multi-Prompt Experts for Cross-View Object Correspondence." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.20886)]
