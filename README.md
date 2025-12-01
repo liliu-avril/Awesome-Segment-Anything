@@ -329,6 +329,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Qi Song, Ziyuan Luo, Renjie Wan.<br />
+"Creating Blank Canvas Against AI-enabled Image Forgery." AAAI (2026).
+[[paper](https://arxiv.org/abs/2511.22237)]
+[[code](https://github.com/qsong2001/blank_canvas)]
+[2025.11]
+
+:boom:Satrajit Chakrabarty, Ravi Soni.<br />
+"Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.21926)]
+[2025.11]
+
+:boom:Yaqi Wang, Zhi Li, Chengyu Wu, Jun Liu, Yifan Zhang, Jiaxue Ni, Qian Luo, Jialuo Chen, Hongyuan Zhang, Jin Liu, Can Han, Kaiwen Fu, Changkai Ji, Xinxu Cai, Jing Hao, Zhihao Zheng, Shi Xu, Junqiang Chen, Qianni Zhang, Dahong Qian, Shuai Wang, Huiyu Zhou.<br />
+"MICCAI STS 2024 Challenge: Semi-Supervised Instance-Level Tooth Segmentation in Panoramic X-ray and CBCT Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.22911)]
+[[code](https://github.com/ricoleehduu/STS-Challenge-2024)]
+[2025.11]
+
+:boom:**RobotSeg:** Haiyang Mei, Qiming Huang, Hai Ci, Mike Zheng Shou.<br />
+"RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2511.22950)]
+[[code](https://github.com/showlab/RobotSeg)]
+[2025.11]
+
 :boom:**YOLIC Labeling:** Su, Kai and Zhao, Aihua and Hua, Jing and Chen, Chunqin.<br />
 "YOLIC Labeling: A Semi-Automated Image Annotation Tool with Segment Anything Model for Cell-wise Labeling." ArXiv (2025).
 [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5787151)]
