@@ -329,6 +329,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**LISA-3D:** Zhongbin Guo, Jiahe Liu, Wenyu Gao, Yushan Li, Chengzhi Li, Ping Jian.<br />
+"LISA-3D: Lifting Language-Image Segmentation to 3D via Multi-View Consistency." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.01008)]
+[[code](https://github.com/binisalegend/LISA-3D)]
+[2025.12]
+
+:boom:**SAM3-UNet:** Xinyu Xiong, Zihuang Wu, Lei Lu, Yufa Xia.<br />
+"SAM3-UNet: Simplified Adaptation of Segment Anything Model 3." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.01789)]
+[[code](https://github.com/WZH0120/SAM3-UNet)]
+[2025.12]
+
+:boom:Syed Hesham Syed Ariff, Yun Liu, Guolei Sun, Jing Yang, Henghui Ding, Xue Geng, Xudong Jiang.<br />
+"Evaluating SAM2 for Video Semantic Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.01774)]
+[2025.12]
+
 :boom:Qi Song, Ziyuan Luo, Renjie Wan.<br />
 "Creating Blank Canvas Against AI-enabled Image Forgery." AAAI (2026).
 [[paper](https://arxiv.org/abs/2511.22237)]
