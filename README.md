@@ -329,6 +329,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM2Grasp:** Shengkai Wu, Jinrong Yang, Wenqiu Luo, Linfeng Gao, Chaohui Shang, Meiyu Zhi, Mingshan Sun, Fangping Yang, Liangliang Ren, Yong Zhao.<br />
+"SAM2Grasp: Resolve Multi-modal Grasping via Prompt-conditioned Temporal Action Prediction." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.02609)]
+[2025.12]
+
 :boom:**LISA-3D:** Zhongbin Guo, Jiahe Liu, Wenyu Gao, Yushan Li, Chengzhi Li, Ping Jian.<br />
 "LISA-3D: Lifting Language-Image Segmentation to 3D via Multi-View Consistency." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.01008)]
