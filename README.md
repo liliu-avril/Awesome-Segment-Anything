@@ -329,6 +329,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Motion4D:** Haoran Zhou, Gim Hee Lee.<br />
+"Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding." NeurIPS (2025).
+[[paper](https://arxiv.org/abs/2512.03601)]
+[[code](https://hrzhou2.github.io/motion4d-web/)]
+[2025.12]
+
+:boom:Kwaku Opoku-Ware, Gideon Opoku.<br />
+"AfroBeats Dance Movement Analysis Using Computer Vision: A Proof-of-Concept Framework Combining YOLO and Segment Anything Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.03509)]
+[2025.12]
+
+:boom:**NAS-LoRA:** Renqi Chen, Haoyang Su, Shixiang Tang.<br />
+"NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.03499)]
+[2025.12]
+
 :boom:**SAM2Grasp:** Shengkai Wu, Jinrong Yang, Wenqiu Luo, Linfeng Gao, Chaohui Shang, Meiyu Zhi, Mingshan Sun, Fangping Yang, Liangliang Ren, Yong Zhao.<br />
 "SAM2Grasp: Resolve Multi-modal Grasping via Prompt-conditioned Temporal Action Prediction." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.02609)]
