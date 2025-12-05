@@ -329,6 +329,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM3-I:** Jingjing Li, Yue Feng, Yuchen Guo, Jincai Huang, Yongri Piao, Qi Bi, Miao Zhang, Xiaoqi Zhao, Qiang Chen, Shihao Zou, Wei Ji, Huchuan Lu, Li Cheng.<br />
+"SAM3-I: Segment Anything with Instructions." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.04585)]
+[[code](https://github.com/debby-0527/SAM3-I)]
+[2025.12]
+
+:boom:**BA-TTA-SAM:** Chenlin Xu, Lei Zhang, Lituan Wang, Xinyu Pu, Pengfei Ma, Guangwu Qian, Zizhou Wang, Yan Wang.<br />
+"Boundary-Aware Test-Time Adaptation for Zero-Shot Medical Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.04520)]
+[[code](https://github.com/Emilychenlin/BA-TTA-SAM)]
+[2025.12]
+
+:boom:Sheng Hang, Chaoxiang He, Hongsheng Hu, Hanqing Hu, Bin Benjamin Zhu, Shi-Feng Sun, Dawu Gu, Shuo Wang.<br />
+"Malicious Image Analysis via Vision-Language Segmentation Fusion: Detection, Element, and Location in One-shot." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.04599)]
+[2025.12]
+
 :boom:**Motion4D:** Haoran Zhou, Gim Hee Lee.<br />
 "Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2512.03601)]
