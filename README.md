@@ -329,120 +329,131 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**SAM3-I:** Jingjing Li, Yue Feng, Yuchen Guo, Jincai Huang, Yongri Piao, Qi Bi, Miao Zhang, Xiaoqi Zhao, Qiang Chen, Shihao Zou, Wei Ji, Huchuan Lu, Li Cheng.<br />
+:boom:**DYNAPO:** Zhuoyuan Wu, Xurui Yang, Jiahui Huang, Yue Wang, Jun Gao.<br />
+"The Dynamic Prior: Understanding 3D Structures for Casual Dynamic Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.05398)]
+[[code](https://github.com/wuzy2115/DYNAPO)]
+[2025.12]
+
+:boom:**DepSeg:** Kunyi Yang, Qingyu Wang, Cheng Yuan, Yutong Ban.<br />
+"See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.05529)]
+[2025.12]
+
+- **SAM3-I:** Jingjing Li, Yue Feng, Yuchen Guo, Jincai Huang, Yongri Piao, Qi Bi, Miao Zhang, Xiaoqi Zhao, Qiang Chen, Shihao Zou, Wei Ji, Huchuan Lu, Li Cheng.<br />
 "SAM3-I: Segment Anything with Instructions." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.04585)]
 [[code](https://github.com/debby-0527/SAM3-I)]
 [2025.12]
 
-:boom:**BA-TTA-SAM:** Chenlin Xu, Lei Zhang, Lituan Wang, Xinyu Pu, Pengfei Ma, Guangwu Qian, Zizhou Wang, Yan Wang.<br />
+- **BA-TTA-SAM:** Chenlin Xu, Lei Zhang, Lituan Wang, Xinyu Pu, Pengfei Ma, Guangwu Qian, Zizhou Wang, Yan Wang.<br />
 "Boundary-Aware Test-Time Adaptation for Zero-Shot Medical Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.04520)]
 [[code](https://github.com/Emilychenlin/BA-TTA-SAM)]
 [2025.12]
 
-:boom:Sheng Hang, Chaoxiang He, Hongsheng Hu, Hanqing Hu, Bin Benjamin Zhu, Shi-Feng Sun, Dawu Gu, Shuo Wang.<br />
+- Sheng Hang, Chaoxiang He, Hongsheng Hu, Hanqing Hu, Bin Benjamin Zhu, Shi-Feng Sun, Dawu Gu, Shuo Wang.<br />
 "Malicious Image Analysis via Vision-Language Segmentation Fusion: Detection, Element, and Location in One-shot." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.04599)]
 [2025.12]
 
-:boom:**Motion4D:** Haoran Zhou, Gim Hee Lee.<br />
+- **Motion4D:** Haoran Zhou, Gim Hee Lee.<br />
 "Motion4D: Learning 3D-Consistent Motion and Semantics for 4D Scene Understanding." NeurIPS (2025).
 [[paper](https://arxiv.org/abs/2512.03601)]
 [[code](https://hrzhou2.github.io/motion4d-web/)]
 [2025.12]
 
-:boom:Kwaku Opoku-Ware, Gideon Opoku.<br />
+- Kwaku Opoku-Ware, Gideon Opoku.<br />
 "AfroBeats Dance Movement Analysis Using Computer Vision: A Proof-of-Concept Framework Combining YOLO and Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.03509)]
 [2025.12]
 
-:boom:**NAS-LoRA:** Renqi Chen, Haoyang Su, Shixiang Tang.<br />
+- **NAS-LoRA:** Renqi Chen, Haoyang Su, Shixiang Tang.<br />
 "NAS-LoRA: Empowering Parameter-Efficient Fine-Tuning for Visual Foundation Models with Searchable Adaptation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.03499)]
 [2025.12]
 
-:boom:**SAM2Grasp:** Shengkai Wu, Jinrong Yang, Wenqiu Luo, Linfeng Gao, Chaohui Shang, Meiyu Zhi, Mingshan Sun, Fangping Yang, Liangliang Ren, Yong Zhao.<br />
+- **SAM2Grasp:** Shengkai Wu, Jinrong Yang, Wenqiu Luo, Linfeng Gao, Chaohui Shang, Meiyu Zhi, Mingshan Sun, Fangping Yang, Liangliang Ren, Yong Zhao.<br />
 "SAM2Grasp: Resolve Multi-modal Grasping via Prompt-conditioned Temporal Action Prediction." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.02609)]
 [2025.12]
 
-:boom:**LISA-3D:** Zhongbin Guo, Jiahe Liu, Wenyu Gao, Yushan Li, Chengzhi Li, Ping Jian.<br />
+- **LISA-3D:** Zhongbin Guo, Jiahe Liu, Wenyu Gao, Yushan Li, Chengzhi Li, Ping Jian.<br />
 "LISA-3D: Lifting Language-Image Segmentation to 3D via Multi-View Consistency." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.01008)]
 [[code](https://github.com/binisalegend/LISA-3D)]
 [2025.12]
 
-:boom:**SAM3-UNet:** Xinyu Xiong, Zihuang Wu, Lei Lu, Yufa Xia.<br />
+- **SAM3-UNet:** Xinyu Xiong, Zihuang Wu, Lei Lu, Yufa Xia.<br />
 "SAM3-UNet: Simplified Adaptation of Segment Anything Model 3." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.01789)]
 [[code](https://github.com/WZH0120/SAM3-UNet)]
 [2025.12]
 
-:boom:Syed Hesham Syed Ariff, Yun Liu, Guolei Sun, Jing Yang, Henghui Ding, Xue Geng, Xudong Jiang.<br />
+- Syed Hesham Syed Ariff, Yun Liu, Guolei Sun, Jing Yang, Henghui Ding, Xue Geng, Xudong Jiang.<br />
 "Evaluating SAM2 for Video Semantic Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.01774)]
 [2025.12]
 
-:boom:Qi Song, Ziyuan Luo, Renjie Wan.<br />
+- Qi Song, Ziyuan Luo, Renjie Wan.<br />
 "Creating Blank Canvas Against AI-enabled Image Forgery." AAAI (2026).
 [[paper](https://arxiv.org/abs/2511.22237)]
 [[code](https://github.com/qsong2001/blank_canvas)]
 [2025.11]
 
-:boom:Satrajit Chakrabarty, Ravi Soni.<br />
+- Satrajit Chakrabarty, Ravi Soni.<br />
 "Comparing SAM 2 and SAM 3 for Zero-Shot Segmentation of 3D Medical Data." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.21926)]
 [2025.11]
 
-:boom:Yaqi Wang, Zhi Li, Chengyu Wu, Jun Liu, Yifan Zhang, Jiaxue Ni, Qian Luo, Jialuo Chen, Hongyuan Zhang, Jin Liu, Can Han, Kaiwen Fu, Changkai Ji, Xinxu Cai, Jing Hao, Zhihao Zheng, Shi Xu, Junqiang Chen, Qianni Zhang, Dahong Qian, Shuai Wang, Huiyu Zhou.<br />
+- Yaqi Wang, Zhi Li, Chengyu Wu, Jun Liu, Yifan Zhang, Jiaxue Ni, Qian Luo, Jialuo Chen, Hongyuan Zhang, Jin Liu, Can Han, Kaiwen Fu, Changkai Ji, Xinxu Cai, Jing Hao, Zhihao Zheng, Shi Xu, Junqiang Chen, Qianni Zhang, Dahong Qian, Shuai Wang, Huiyu Zhou.<br />
 "MICCAI STS 2024 Challenge: Semi-Supervised Instance-Level Tooth Segmentation in Panoramic X-ray and CBCT Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.22911)]
 [[code](https://github.com/ricoleehduu/STS-Challenge-2024)]
 [2025.11]
 
-:boom:**RobotSeg:** Haiyang Mei, Qiming Huang, Hai Ci, Mike Zheng Shou.<br />
+- **RobotSeg:** Haiyang Mei, Qiming Huang, Hai Ci, Mike Zheng Shou.<br />
 "RobotSeg: A Model and Dataset for Segmenting Robots in Image and Video." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2511.22950)]
 [[code](https://github.com/showlab/RobotSeg)]
 [2025.11]
 
-:boom:**YOLIC Labeling:** Su, Kai and Zhao, Aihua and Hua, Jing and Chen, Chunqin.<br />
+- **YOLIC Labeling:** Su, Kai and Zhao, Aihua and Hua, Jing and Chen, Chunqin.<br />
 "YOLIC Labeling: A Semi-Automated Image Annotation Tool with Segment Anything Model for Cell-wise Labeling." ArXiv (2025).
 [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5787151)]
 [2025.11]
 
-:boom:**UnSAM-MoME:** Jing Li and Yixuan Wu and Xiaorou Zheng and Shoubin Dong.<br />
+- **UnSAM-MoME:** Jing Li and Yixuan Wu and Xiaorou Zheng and Shoubin Dong.<br />
 "Unsupervised SAM-guided mixture-of-multimodal-experts fusion network for medical image diagnosis." Neural Networks (2025).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608025012298)]
 [2025.11]
 
-:boom:**ProtoSAM :** Ayzenberg, L., Giryes, R. & Greenspan, H.<br />
+- **ProtoSAM :** Ayzenberg, L., Giryes, R. & Greenspan, H.<br />
 "ProtoSAM for automated one shot medical image segmentation using foundational models." Sci Rep (2025).
 [[paper](https://www.nature.com/articles/s41598-025-06643-0)]
 [2025.11]
 
-:boom:**SAM-KDNet:** Omid Halimi Milani et al.<br />
+- **SAM-KDNet:** Omid Halimi Milani et al.<br />
 "SAM-KDNet: A Segmentation and Knowledge Distillation Framework for Automated CVM Stages Classification from CBCT." ArXiv (2025).
 [[paper](https://www.researchsquare.com/article/rs-7991912/v1)]
 [2025.11]
 
-:boom:Jun-Seok Yun et al.<br />
+- Jun-Seok Yun et al.<br />
 "MedSAM-prior-guided coarse-to-fine CBCT synthesis from ZTE MRI." ArXiv (2025).
 [[paper](https://www.researchsquare.com/article/rs-8044755/v1)]
 [2025.11]
 
-:boom:Maria Chiara Fiorentino and Lorenzo Federici and Alessandro Pietro La Camera and Enrico Gianluca Caiani.<br />
+- Maria Chiara Fiorentino and Lorenzo Federici and Alessandro Pietro La Camera and Enrico Gianluca Caiani.<br />
 "Adapt or specialize? A comprehensive evaluation of adapted SAM versus task-specific CNNs for fetal abdominal segmentation." Computer Methods and Programs in Biomedicine (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0169260725005930)]
 [2025.11]
 
-:boom:**UAT-SAM:** Cao, Zhuoyuan, Kevin Wang, Saleh Abdelrahman, Jeffery Wu, and Dharsan Ravindran.<br />
+- **UAT-SAM:** Cao, Zhuoyuan, Kevin Wang, Saleh Abdelrahman, Jeffery Wu, and Dharsan Ravindran.<br />
 "Enhancing Self-Driving Segmentation in Adverse Weather Conditions: A Dual Uncertainty-Aware Training Approach to SAM Optimization." Electronics (2025).
 [[paper](https://doi.org/10.3390/electronics14234555)]
 [2025.11]
 
-:boom:**MAFF-Net:** Yifeng Zhou and Huiling Gong and Ruiyun Qiu and Shaofeng Wei and Zhixun Li and Wei Zhang.<br />
+- **MAFF-Net:** Yifeng Zhou and Huiling Gong and Ruiyun Qiu and Shaofeng Wei and Zhixun Li and Wei Zhang.<br />
 "MAFF-Net: SAM-powered Mixed Multi-scale Perception Adaptation and frequency-guided feature fusion for robust skin lesion segmentation." Biomedical Signal Processing and Control (2025).
 [[paper](https://doi.org/10.1016/j.bspc.2025.109222)]
 [2025.11]
