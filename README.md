@@ -329,6 +329,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**YOLO-World+SAM:** Yu Zhu, Naoya Chiba, Koichi Hashimoto.<br />
+"Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion." BMVC (2025).
+[[paper](https://arxiv.org/abs/2512.06882)]
+[2025.12]
+
+:boom:Wenzhen Dong, Jieming Yu, Yiming Huang, Hongqiu Wang, Lei Zhu, Albert C. S. Chung, Hongliang Ren, Long Bai.<br />
+"More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.07596)]
+[2025.12]
+
+:boom:Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee.<br />
+"The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.06032)]
+[[code](https://github.com/Applied-AI-Research-Lab/The-SAM2-to-SAM3-Gap-in-the-Segment-Anything-Model-Family)]
+[2025.12]
+
 :boom:**DYNAPO:** Zhuoyuan Wu, Xurui Yang, Jiahui Huang, Yue Wang, Jun Gao.<br />
 "The Dynamic Prior: Understanding 3D Structures for Casual Dynamic Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.05398)]
