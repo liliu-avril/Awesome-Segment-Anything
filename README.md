@@ -329,6 +329,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**MultiMotion:** Penghui Liu, Jiangshan Wang, Yutong Shen, Shanhui Mo, Chenyang Qi, Yue Ma.<br />
+"MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.07500)]
+[2025.12]
+
 :boom:**SAM-Body4D:** Mingqi Gao, Yunqi Miao, Jungong Han.<br />
 "SAM-Body4D: Training-Free 4D Human Body Mesh Recovery from Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.08406)]
