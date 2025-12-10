@@ -329,6 +329,34 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM-Body4D:** Mingqi Gao, Yunqi Miao, Jungong Han.<br />
+"SAM-Body4D: Training-Free 4D Human Body Mesh Recovery from Videos." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.08406)]
+[[code](https://github.com/gaomingqi/sam-body4d)]
+[2025.12]
+
+:boom:**LapFM:** Qing Xu, Kun Yuan, Yuxiang Luo, Yuhao Zhai, Wenting Duan, Nassir Navab, Zhen Chen.<br />
+"LapFM: A Laparoscopic Segmentation Foundation Model via Hierarchical Concept Evolving Pre-training." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.08439)]
+[[code](https://github.com/xq141839/LapFM)]
+[2025.12]
+
+:boom:**OpenMonoGS-SLAM:** Jisang Yoo, Gyeongjin Kang, Hyun-kyu Ko, Hyeonwoo Yu, Eunbyung Park.<br />
+"OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.08625)]
+[2025.12]
+
+:boom:**SegEarth-OV3:** Kaiyu Li, Shengqi Zhang, Yupeng Deng, Zhi Wang, Deyu Meng, Xiangyong Cao.<br />
+"SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.08730)]
+[[code](https://github.com/earth-insights/SegEarth-OV-3)]
+[2025.12]
+
+:boom:**SAM+CSRT:** Chamath Ranasinghe, Uthayasanker Thayasivam.<br />
+"Team-Aware Football Player Tracking with SAM: An Appearance-Based Approach to Occlusion Recovery." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.08467)]
+[2025.12]
+
 :boom:**YOLO-World+SAM:** Yu Zhu, Naoya Chiba, Koichi Hashimoto.<br />
 "Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion." BMVC (2025).
 [[paper](https://arxiv.org/abs/2512.06882)]
