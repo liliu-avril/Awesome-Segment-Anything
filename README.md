@@ -329,6 +329,21 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Polyp-DiFoM:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha.<br />
+"From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.09307)]
+[[code](https://github.com/lostinrepo/PolypDiFoM)]
+[2025.12]
+
+:boom:Zihao Ding, Mufeng Zhu, Zhongze Tang, Sheng Wei, Yao Liu.<br />
+"A Distributed Framework for Privacy-Enhanced Vision Transformers on the Edge." SEC (2025).
+[[paper](https://arxiv.org/abs/2512.09309)]
+[2025.12]
+
+:boom:Senem Aktas, Charles Markham, John McDonald, Rozenn Dahyot.<br />
+  "Benchmarking SAM2-based Trackers on FMOX." AICS (2025).
+  [[paper](https://arxiv.org/abs/2512.09633)] 
+  
 :boom:**MultiMotion:** Penghui Liu, Jiangshan Wang, Yutong Shen, Shanhui Mo, Chenyang Qi, Yue Ma.<br />
 "MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.07500)]
