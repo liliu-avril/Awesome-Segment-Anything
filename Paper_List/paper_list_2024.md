@@ -527,7 +527,7 @@
 [2024.11]
 
 - **SAM-Road++:** Pan Yin, Kaiyu Li, Xiangyong Cao, Jing Yao, Lei Liu, Xueru Bai, Feng Zhou, Deyu Meng.<br />
-"Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method." ArXiv (2024).
+"Towards Satellite Image Road Graph Extraction: A Global-Scale Dataset and A Novel Method." CVPR (2025).
 [[paper](https://arxiv.org/abs/2411.16733)]
 [[code](https://github.com/earth-insights/samroadplus)]
 [2024.11]
