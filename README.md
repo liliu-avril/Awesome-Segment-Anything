@@ -329,6 +329,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**MaGRoad:** Wenfei Guan, Jilin Mei, Tong Shen, Xumin Wu, Shuo Wang, Cheng Min, Yu Hu.<br />
+"Beyond Endpoints: Path-Centric Reasoning for Vectorized Off-Road Network Extraction." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.10416)]
+[[code](https://github.com/xiaofei-guan/attorch_copy)]
+[2025.12]
+
 :boom:**Polyp-DiFoM:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha.<br />
 "From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.09307)]
