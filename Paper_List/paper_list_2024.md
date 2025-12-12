@@ -4138,7 +4138,7 @@
   [2024.03]
 
 - **SAM-Road:** Congrui Hetang, Haoru Xue, Cindy Le, Tianwei Yue, Wenping Wang, Yihui He.<br />
-  "Segment Anything Model for Road Network Graph Extraction." CVPR (2024).
+  "Segment Anything Model for Road Network Graph Extraction." CVPRW (2024).
   [[paper](https://arxiv.org/abs/2403.16051)] 
   [[code](https://github.com/htcr/sam_road)]
   [2024.03]
