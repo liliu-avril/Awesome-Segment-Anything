@@ -329,6 +329,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM2VideoX:** Yang Fei, George Stoica, Jingyuan Liu, Qifeng Chen, Ranjay Krishna, Xiaojuan Wang, Benlin Liu.<br />
+"Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.11792)]
+[[code](https://sam2videox.github.io/)]
+[2025.12]
+
 :boom:**3DTeethSAM:** Zhiguo Lu, Jianwen Lou, Mingjun Ma, Hairong Jin, Youyi Zheng, Kun Zhou.<br />
 "3DTeethSAM: Taming SAM2 for 3D Teeth Segmentation." AAAI (2025).
 [[paper](https://arxiv.org/abs/2512.11557)]
