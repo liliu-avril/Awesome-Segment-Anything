@@ -329,83 +329,100 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
-:boom:**MaGRoad:** Wenfei Guan, Jilin Mei, Tong Shen, Xumin Wu, Shuo Wang, Cheng Min, Yu Hu.<br />
+:boom:**3DTeethSAM:** Zhiguo Lu, Jianwen Lou, Mingjun Ma, Hairong Jin, Youyi Zheng, Kun Zhou.<br />
+"3DTeethSAM: Taming SAM2 for 3D Teeth Segmentation." AAAI (2025).
+[[paper](https://arxiv.org/abs/2512.11557)]
+[[code](https://github.com/Crisitofy/3DTeethSAM)]
+[2025.12]
+
+:boom:**Depth-Copy-Paste:** https://arxiv.org/abs/2512.11683.<br />
+"Depth-Copy-Paste: Multimodal and Depth-Aware Compositing for Robust Face Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.11683)]
+[2025.12]
+
+:boom:**SSL-MedSAM2:** Zhendi Gong, Xin Chen.<br />
+"SSL-MedSAM2: A Semi-supervised Medical Image Segmentation Framework Powered by Few-shot Learning of SAM2." MICCAI workshop (2025).
+[[paper](https://arxiv.org/abs/2512.11548)]
+[[code](https://github.com/naisops/SSL-MedSAM2/tree/main)]
+[2025.12]
+
+- **MaGRoad:** Wenfei Guan, Jilin Mei, Tong Shen, Xumin Wu, Shuo Wang, Cheng Min, Yu Hu.<br />
 "Beyond Endpoints: Path-Centric Reasoning for Vectorized Off-Road Network Extraction." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.10416)]
 [[code](https://github.com/xiaofei-guan/attorch_copy)]
 [2025.12]
 
-:boom:**Polyp-DiFoM:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha.<br />
+- **Polyp-DiFoM:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Debesh Jha.<br />
 "From SAM to DINOv2: Towards Distilling Foundation Models to Lightweight Baselines for Generalized Polyp Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.09307)]
 [[code](https://github.com/lostinrepo/PolypDiFoM)]
 [2025.12]
 
-:boom:Zihao Ding, Mufeng Zhu, Zhongze Tang, Sheng Wei, Yao Liu.<br />
+- Zihao Ding, Mufeng Zhu, Zhongze Tang, Sheng Wei, Yao Liu.<br />
 "A Distributed Framework for Privacy-Enhanced Vision Transformers on the Edge." SEC (2025).
 [[paper](https://arxiv.org/abs/2512.09309)]
 [2025.12]
 
-:boom:Senem Aktas, Charles Markham, John McDonald, Rozenn Dahyot.<br />
+- Senem Aktas, Charles Markham, John McDonald, Rozenn Dahyot.<br />
   "Benchmarking SAM2-based Trackers on FMOX." AICS (2025).
   [[paper](https://arxiv.org/abs/2512.09633)] 
   
-:boom:**MultiMotion:** Penghui Liu, Jiangshan Wang, Yutong Shen, Shanhui Mo, Chenyang Qi, Yue Ma.<br />
+- **MultiMotion:** Penghui Liu, Jiangshan Wang, Yutong Shen, Shanhui Mo, Chenyang Qi, Yue Ma.<br />
 "MultiMotion: Multi Subject Video Motion Transfer via Video Diffusion Transformer." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.07500)]
 [2025.12]
 
-:boom:**SAM-Body4D:** Mingqi Gao, Yunqi Miao, Jungong Han.<br />
+- **SAM-Body4D:** Mingqi Gao, Yunqi Miao, Jungong Han.<br />
 "SAM-Body4D: Training-Free 4D Human Body Mesh Recovery from Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.08406)]
 [[code](https://github.com/gaomingqi/sam-body4d)]
 [2025.12]
 
-:boom:**LapFM:** Qing Xu, Kun Yuan, Yuxiang Luo, Yuhao Zhai, Wenting Duan, Nassir Navab, Zhen Chen.<br />
+- **LapFM:** Qing Xu, Kun Yuan, Yuxiang Luo, Yuhao Zhai, Wenting Duan, Nassir Navab, Zhen Chen.<br />
 "LapFM: A Laparoscopic Segmentation Foundation Model via Hierarchical Concept Evolving Pre-training." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.08439)]
 [[code](https://github.com/xq141839/LapFM)]
 [2025.12]
 
-:boom:**OpenMonoGS-SLAM:** Jisang Yoo, Gyeongjin Kang, Hyun-kyu Ko, Hyeonwoo Yu, Eunbyung Park.<br />
+- **OpenMonoGS-SLAM:** Jisang Yoo, Gyeongjin Kang, Hyun-kyu Ko, Hyeonwoo Yu, Eunbyung Park.<br />
 "OpenMonoGS-SLAM: Monocular Gaussian Splatting SLAM with Open-set Semantics." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.08625)]
 [2025.12]
 
-:boom:**SegEarth-OV3:** Kaiyu Li, Shengqi Zhang, Yupeng Deng, Zhi Wang, Deyu Meng, Xiangyong Cao.<br />
+- **SegEarth-OV3:** Kaiyu Li, Shengqi Zhang, Yupeng Deng, Zhi Wang, Deyu Meng, Xiangyong Cao.<br />
 "SegEarth-OV3: Exploring SAM 3 for Open-Vocabulary Semantic Segmentation in Remote Sensing Images." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.08730)]
 [[code](https://github.com/earth-insights/SegEarth-OV-3)]
 [2025.12]
 
-:boom:**SAM+CSRT:** Chamath Ranasinghe, Uthayasanker Thayasivam.<br />
+- **SAM+CSRT:** Chamath Ranasinghe, Uthayasanker Thayasivam.<br />
 "Team-Aware Football Player Tracking with SAM: An Appearance-Based Approach to Occlusion Recovery." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.08467)]
 [2025.12]
 
-:boom:**YOLO-World+SAM:** Yu Zhu, Naoya Chiba, Koichi Hashimoto.<br />
+- **YOLO-World+SAM:** Yu Zhu, Naoya Chiba, Koichi Hashimoto.<br />
 "Hierarchical Image-Guided 3D Point Cloud Segmentation in Industrial Scenes via Multi-View Bayesian Fusion." BMVC (2025).
 [[paper](https://arxiv.org/abs/2512.06882)]
 [2025.12]
 
-:boom:Wenzhen Dong, Jieming Yu, Yiming Huang, Hongqiu Wang, Lei Zhu, Albert C. S. Chung, Hongliang Ren, Long Bai.<br />
+- Wenzhen Dong, Jieming Yu, Yiming Huang, Hongqiu Wang, Lei Zhu, Albert C. S. Chung, Hongliang Ren, Long Bai.<br />
 "More than Segmentation: Benchmarking SAM 3 for Segmentation, 3D Perception, and Reconstruction in Robotic Surgery." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.07596)]
 [2025.12]
 
-:boom:Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee.<br />
+- Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee.<br />
 "The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.06032)]
 [[code](https://github.com/Applied-AI-Research-Lab/The-SAM2-to-SAM3-Gap-in-the-Segment-Anything-Model-Family)]
 [2025.12]
 
-:boom:**DYNAPO:** Zhuoyuan Wu, Xurui Yang, Jiahui Huang, Yue Wang, Jun Gao.<br />
+- **DYNAPO:** Zhuoyuan Wu, Xurui Yang, Jiahui Huang, Yue Wang, Jun Gao.<br />
 "The Dynamic Prior: Understanding 3D Structures for Casual Dynamic Videos." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.05398)]
 [[code](https://github.com/wuzy2115/DYNAPO)]
 [2025.12]
 
-:boom:**DepSeg:** Kunyi Yang, Qingyu Wang, Cheng Yuan, Yutong Ban.<br />
+- **DepSeg:** Kunyi Yang, Qingyu Wang, Cheng Yuan, Yutong Ban.<br />
 "See in Depth: Training-Free Surgical Scene Segmentation with Monocular Depth Priors." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.05529)]
 [2025.12]
