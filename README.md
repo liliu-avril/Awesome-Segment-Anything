@@ -329,6 +329,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**UniVCD:** Ziqiang Zhu, Bowei Yang.<br />
+"UniVCD: A New Method for Unsupervised Change Detection in the Open-Vocabulary Era." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.13089)]
+[[code](https://github.com/Die-Xie/UniVCD)]
+[2025.12]
+
+:boom:Ranjan Sapkota, Konstantinos I. Roumeliotis, Manoj Karkee, Nikolaos D. Tselikas.<br />
+"Generalization vs. Specialization: Evaluating Segment Anything Model (SAM3) Zero-Shot Segmentation Against Fine-Tuned YOLO Detectors." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.11884)]
+[[code](https://github.com/Applied-AI-Research-Lab/Segment-Anything-Model-SAM3-Zero-Shot-Segmentation-Against-Fine-Tuned-YOLO-Detectors)]
+[2025.12]
+
 :boom:**SAM2VideoX:** Yang Fei, George Stoica, Jingyuan Liu, Qifeng Chen, Ranjay Krishna, Xiaojuan Wang, Benlin Liu.<br />
 "Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.11792)]
