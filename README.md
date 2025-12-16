@@ -333,6 +333,69 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Hao Tian and Tingting Zhao and Tongming Qu and Shaoteng Liu and Kaixuan Ju and Zhiqiang Li and Yuntian Feng.<br />
+"Virtual dispersion and gradation prediction of stacked particles via improved Pix2Pix and SAM framework." Computers and Geotechnics (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0266352X2500761X)]
+[2025.12]
+
+:boom:**SAM-SPOT:** Felix Y. Zhou, Adam Norton-Steele, Lewis Marsh, Helen M. Byrne, Heather A. Harrington, Xin Lu.<br />
+"Development of a universal imaging “phenome” using Shape, Appearance and Motion (SAM) features and the SAM Observation Tool (SPOT)." ArXiv (2025).
+[[paper](https://www.biorxiv.org/content/10.1101/2025.11.28.691105v1.abstract)]
+[2025.12]
+
+:boom:Quang, N.H., Kim, N., Lee, H. et al.<br />
+"Semantic water body extraction by the high-quality segment anything model using multiple optical and SAR imagery." Acta Geophys (2025).
+[[paper](https://link.springer.com/article/10.1007/s11600-025-01732-0)]
+[2025.12]
+
+:boom:**CellSAM:** Marks, M., Israel, U., Dilip, R. et al..<br />
+"CellSAM: a foundation model for cell segmentation." Nature Methods (2025).
+[[paper](https://doi.org/10.1038/s41592-025-02879-w)]
+[[code](https://cellsam.deepcell.org/)]
+[2025.12]
+
+:boom:**SaSAM:** You Ma and Hongwei Tong and Lin Chai and Shihan Mao and Yucheng Zhang.<br />
+"SaSAM: Scale-aware segmentation anything model for multimodal remote sensing images." Information Fusion (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1566253525011169)]
+[[code](https://github.com/MaYou1997/SaSAM)]
+[2025.12]
+
+:boom:**DASAM:** Yang, Lihong, Pengfei Liu, Guilong Zhang, Huaici Zhao, and Chunyang Zhao.<br />
+"Domain-Adaptive Segment Anything Model for Cross-Domain Water Body Segmentation in Satellite Imagery." Journal of Imaging (2025).
+[[paper](https://www.mdpi.com/2313-433X/11/12/437)]
+[2025.12]
+
+:boom:Hongyu Chen and Zhen Zhang and Jie Su and Siya Wen.<br />
+"Robust water level measurement using adaptive prompt staff gauge image segmentation based on EdgeSAM." Journal of Hydrology (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0022169425020645)]
+[2025.12]
+
+:boom:Buyukpatpat, H., Sezer, E.A. & Guzel, M.S.<br />
+"A Comparative Evaluation of Zero-Shot Performance of SAM, SAM2, MedSAM, and MedSAM2 Models on Lung Segmentation." J Digit Imaging. Inform. med.(2025).
+[[paper](https://link.springer.com/article/10.1007/s10278-025-01778-y)]
+[2025.12]
+
+:boom:Gauthami Vijayakumar Kuttuva , Prawin J.<br />
+"Structural defect segmentation using a semi-supervised algorithm integrating YOLO and the segment anything model." Automation in Construction (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0926580525007496)]
+[2025.12]
+
+:boom:Mandal, S., Saha, A.<br />
+"A novel deep learning based spatial ensemble approach and segment anything model for landslide risk assessment in Chamoli district of Garhwal Himalayas." Sci Rep (2025).
+[[paper](https://www.nature.com/articles/s41598-025-01958-4)]
+[2025.12]
+
+:boom:**SemanticHRI:** Hengxu You, et al.<br />
+"Semantic: An Advanced Human-Robot Collaboration System Based on FastSAM." Computing in Civil Engineering (2025).
+[[paper](https://ascelibrary.org/doi/abs/10.1061/9780784486115.100)]
+[2025.12]
+
+:boom:**SAM2-DEGNet:** Zhong, Z., Jiao, G., Li, G. et al.<br />
+"SAM2-DEGNet: dual-stage edge guidance network for camouflaged object detection using SAM2." Vis Comput (2025).
+[[paper](https://link.springer.com/article/10.1007/s00371-025-04252-6)]
+[[code](https://github.com/zzp1314525/SAM2-DEGNet)]
+[2025.12]
+
 :boom:**UniVCD:** Ziqiang Zhu, Bowei Yang.<br />
 "UniVCD: A New Method for Unsupervised Change Detection in the Open-Vocabulary Era." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.13089)]
