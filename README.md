@@ -140,6 +140,10 @@ If you find our work useful in your research, please consider citing:
 [[project](https://github.com/WanZhan-lucky/WanSAM4RS-Tracker)]
 [2025.09]
 
+- Yang, Yizai and Cheng, Lechao and Wang, Yaxiong and Hui, Tianrui and Li, Wenjing and Zhong, Zhun.<br />
+"A Survey for Point Prompt of Segment Anything Model." MMAsia Workshops (2025).
+[[paper](https://dl.acm.org/doi/full/10.1145/3769748.3773346)]
+[2025.12]
 
 ## Paper List
 ### Seminal Papers
