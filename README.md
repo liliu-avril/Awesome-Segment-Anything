@@ -341,7 +341,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/Crisitofy/3DTeethSAM)]
 [2025.12]
 
-:boom:**Depth-Copy-Paste:** https://arxiv.org/abs/2512.11683.<br />
+:boom:**Depth-Copy-Paste:** Qiushi Guo.<br />
 "Depth-Copy-Paste: Multimodal and Depth-Aware Compositing for Robust Face Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.11683)]
 [2025.12]
