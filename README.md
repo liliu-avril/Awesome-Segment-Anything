@@ -14,6 +14,9 @@
 
 #### We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)].
 
+
+:boom:**[SAM Audio](https://github.com/facebookresearch/sam-audio): ''SAM Audio: Segment Anything in Audio'' was released.**
+
 :boom:**[SAM 3D](https://github.com/facebookresearch/sam-3d-objects?tab=readme-ov-file#citing-sam-3d-objects): ''SAM 3D: 3Dfy Anything in Images'' was released.**
 
 :boom:**[SAM 3](https://github.com/facebookresearch/sam3): ''SAM 3: Segment Anything with Concepts'' was released.**
@@ -29,6 +32,7 @@ ____
 ## :fire: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/liliu-avril/Awesome-Segment-Anything?icon=github&label=last%20updated&color=green)
 ```
+- 2025.12.15: SAM Audio was released.
 - 2025.11.19: SAM 3 and SAM 3D were released.
 - 2025.10.11: SAM 3 arrives! Officially announced and set to launch.
 - 2025.04.22: SAM 2 won the ICLR 2025 Best Paper Honorable Mention.
@@ -191,6 +195,14 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/facebookresearch/sam-3d-body)]
 [[project](https://ai.meta.com/sam3d)]
 [2025.11]
+
+- **SAM Audio:** Bowen Shi∗, Andros Tjandra∗, John Hoffman∗, Helin Wang∗, Yi-Chiao Wu∗, Luya Gao∗, Julius Richter†,Matt Le†, Apoorv Vyas†, Sanyuan Chen†, Christoph Feichtenhofer‡, Piotr Dollár‡, Wei-Ning Hsu‡, Ann Lee‡.<br />
+"SAM Audio: Segment Anything in Audio." ArXiv (2025).
+[[paper](https://ai.meta.com/research/publications/sam-audio-segment-anything-in-audio/)]
+[[code](https://github.com/facebookresearch/sam-audio)]
+[[project](https://ai.meta.com/samaudio/)]
+[[demo](https://aidemos.meta.com/segment-anything/editor/segment-audio)]
+[2025.12]
 
 - **GPT-4V:** OpenAI.<br />
   "GPT-4V(ision) System Card." ArXiv (2023).
