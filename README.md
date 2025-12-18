@@ -333,6 +333,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Leo Segre, Or Hirschorn, Shai Avidan.<br />
+"Multi-View Foundation Model." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.15708)]
+[[code](https://leosegre.github.io/Multi-View-Foundation-Models)]
+[2025.12]
+
+:boom:**MoonSeg3R:** Zhipeng Du, Duolikun Danier, Jan Eric Lenssen, Hakan Bilen.<br />
+"MoonSeg3R: Monocular Online Zero-Shot Segment Anything in 3D with Reconstructive Foundation Priors." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.15577)]
+[2025.12]
+
 :boom:Hao Tian and Tingting Zhao and Tongming Qu and Shaoteng Liu and Kaixuan Ju and Zhiqiang Li and Yuntian Feng.<br />
 "Virtual dispersion and gradation prediction of stacked particles via improved Pix2Pix and SAM framework." Computers and Geotechnics (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0266352X2500761X)]
