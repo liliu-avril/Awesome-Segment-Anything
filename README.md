@@ -345,6 +345,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**ReMeDI-SAM3:** Valay Bundele, Mehran Hosseinzadeh, Hendrik P. A. Lensch.<br />
+"Memory-Enhanced SAM3 for Occlusion-Robust Surgical Instrument Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.16880)]
+[[code](https://valaybundele.github.io/remedi-sam3/)]
+[2025.12]
+
+:boom:**SNOW:** Tin Stribor Sohn, Maximilian Dillitzer, Jason J. Corso, Eric Sax.<br />
+"SNOW: Spatio-Temporal Scene Understanding with World Knowledge for Open-World Embodied Reasoning." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.16461)]
+[2025.12]
+
+:boom:**SegGraph:** Yueyang Hu, Haiyong Jiang, Haoxuan Song, Jun Xiao, Hao Pan.<br />
+"SegGraph: Leveraging Graphs of SAM Segments for Few-Shot 3D Part Segmentation." NeurIPS (2025).
+[[paper](https://arxiv.org/abs/2512.16143)]
+[[code](https://github.com/YueyangHu2000/SegGraph)]
+[2025.12]
+
+:boom:Roni Blushtein-Livnon, Osher Rafaeli, David Ioffe, Amir Boger, Karen Sandberg Esquenazi, Tal Svoray.<br />
+"On the Effectiveness of Textual Prompting with Lightweight Fine-Tuning for SAM3 Remote Sensing Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.15564)]
+[2025.12]
+
 :boom:Leo Segre, Or Hirschorn, Shai Avidan.<br />
 "Multi-View Foundation Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.15708)]
