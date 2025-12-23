@@ -345,6 +345,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Think2Seg-RS:** Xu Zhang, Junyao Ge, Yang Zheng, Kaitai Guo, Jimin Liang.<br />
+"Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Remote Sensing." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.19302)]
+[[code](https://github.com/Ricardo-XZ/Think2Seg-RS)]
+[2025.12]
+
+
+:boom:Charilaos Kapelonis, Marios Antonakakis, Konstantinos Politof, Aristomenis Antoniadis, Michalis Zervakis.<br />
+"Automated Mosaic Tesserae Segmentation via Deep Learning Techniques." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.18406)]
+[2025.12]
+
 :boom:**FALCON-SFOD:** Sairam VCR, Rishabh Lalla, Aveen Dayal, Tejal Kulkarni, Anuj Lalla, Vineeth N Balasubramanian, Muhammad Haris Khan.<br />
 "Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.17514)]
