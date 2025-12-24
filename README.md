@@ -345,6 +345,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**D3ETOR:** Jiawei Ge, Jiuxin Cao, Xinyi Li, Xuelin Zhu, Chang Liu, Bo Liu, Chen Feng, Ioannis Patras.<br />
+"D3ETOR: Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged ObjectDetection with Scribble Annotations." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.20260)]
+[2025.12]
+
 :boom:**Think2Seg-RS:** Xu Zhang, Junyao Ge, Yang Zheng, Kaitai Guo, Jimin Liang.<br />
 "Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Remote Sensing." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.19302)]
