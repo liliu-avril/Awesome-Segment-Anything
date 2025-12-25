@@ -345,6 +345,26 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**SAM-MedClass:** Zhu, H., Zhu, Z. & Lu, SY.<br />
+"Multi-stage attention for efficient brain tumor classification with SAM-Med2D." Multimedia Systems(2025).
+[[paper](https://link.springer.com/article/10.1007/s00530-025-02096-7)]
+[2025.12]
+
+:boom:Zhong, Xiukun, Guohong Liang, Lingbei Meng, Wei Xi, Lin Gu, Nana Tian, Yong Zhai, Yutong He, Yuqiong Huang, Fengmin Jin, and et al.<br />
+"Automated Particle Size Analysis of Supported Nanoparticle TEM Images Using a Pre-Trained SAM Model." Nanomaterials (2025).
+[[paper](https://www.mdpi.com/2079-4991/15/24/1886)]
+[2025.12]
+
+:boom:**SAM-FireAdapter:** Yanan Wu, Chaoqun Hong, Yongfeng Chen, Haixi Cheng.<br />
+"SAM-FireAdapter: An adapter for fire segmentation with SAM." Journal of Visual Communication and Image Representation (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1047320325002925)]
+[2025.12]
+
+:boom:M. Cihad Arslanoglu and Abdulkadir Albayrak and Huseyin Acar.<br />
+"Towards automated metaphase cell detection using foundation models: A SAM and DINO-based approach." Engineering Science and Technology, an International Journal (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S2215098625003179)]
+[2025.12]
+
 :boom:Avilasha Mandal, Chaoning Zhang, Fachrina Dewi Puspitasari, Xudong Wang, Jiaquan Zhang, Caiyan Qin, Guoqing Wang, Yang Yang, Heng Tao Shen.<br />
 "Fast SAM2 with Text-Driven Token Pruning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.21333)]
