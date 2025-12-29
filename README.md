@@ -345,59 +345,64 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**BadVSFM:** Zongmin Zhang, Zhen Sun, Yifan Liao, Wenhan Dong, Xinlei He, Xingshuo Han, Shengmin Xu, Xinyi Huang.<br />
+"Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.22046)]
+[2025.12]
+
 :boom:Zhangzheng Tum, Kailun Su, Shaolong Zhu, Yukun Zheng.<br />
 "World-Coordinate Human Motion Retargeting via SAM 3D Body." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.21573)]
 [2025.12]
 
-:boom:Marek SOMPOLSKI, Michał TYMPALSKI, and Wojciech MILCZAREK.<br />
+- Marek SOMPOLSKI, Michał TYMPALSKI, and Wojciech MILCZAREK.<br />
 "Exploratory Research on the Implementation of Segment Anything Model (SAM) 2 for Glacier Calving Front Detection using SAR Imagery." ArXiv (2025).
 [[paper](https://www.researchgate.net/profile/Ivan-Parnikoza/publication/399002602_Vegetation_Cover_as_an_Indicator_of_Active_Layer_Status_in_Maritime_Antarctica_First_Results_from_Model_Plots_on_South_Shetland_Islands_and_Argentine_Islands_-_Kyiv_Peninsula_Region/links/694ad6a59aa6b4649dc3e123/Vegetation-Cover-as-an-Indicator-of-Active-Layer-Status-in-Maritime-Antarctica-First-Results-from-Model-Plots-on-South-Shetland-Islands-and-Argentine-Islands-Kyiv-Peninsula-Region.pdf#page=138)]
 [2025.12]
 
-:boom:**SAM-MedClass:** Zhu, H., Zhu, Z. & Lu, SY.<br />
+- **SAM-MedClass:** Zhu, H., Zhu, Z. & Lu, SY.<br />
 "Multi-stage attention for efficient brain tumor classification with SAM-Med2D." Multimedia Systems(2025).
 [[paper](https://link.springer.com/article/10.1007/s00530-025-02096-7)]
 [2025.12]
 
-:boom:Zhong, Xiukun, Guohong Liang, Lingbei Meng, Wei Xi, Lin Gu, Nana Tian, Yong Zhai, Yutong He, Yuqiong Huang, Fengmin Jin, and et al.<br />
+- Zhong, Xiukun, Guohong Liang, Lingbei Meng, Wei Xi, Lin Gu, Nana Tian, Yong Zhai, Yutong He, Yuqiong Huang, Fengmin Jin, and et al.<br />
 "Automated Particle Size Analysis of Supported Nanoparticle TEM Images Using a Pre-Trained SAM Model." Nanomaterials (2025).
 [[paper](https://www.mdpi.com/2079-4991/15/24/1886)]
 [2025.12]
 
-:boom:**SAM-FireAdapter:** Yanan Wu, Chaoqun Hong, Yongfeng Chen, Haixi Cheng.<br />
+- **SAM-FireAdapter:** Yanan Wu, Chaoqun Hong, Yongfeng Chen, Haixi Cheng.<br />
 "SAM-FireAdapter: An adapter for fire segmentation with SAM." Journal of Visual Communication and Image Representation (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1047320325002925)]
 [2025.12]
 
-:boom:M. Cihad Arslanoglu and Abdulkadir Albayrak and Huseyin Acar.<br />
+- M. Cihad Arslanoglu and Abdulkadir Albayrak and Huseyin Acar.<br />
 "Towards automated metaphase cell detection using foundation models: A SAM and DINO-based approach." Engineering Science and Technology, an International Journal (2025).
 [[paper](https://www.sciencedirect.com/science/article/pii/S2215098625003179)]
 [2025.12]
 
-:boom:Avilasha Mandal, Chaoning Zhang, Fachrina Dewi Puspitasari, Xudong Wang, Jiaquan Zhang, Caiyan Qin, Guoqing Wang, Yang Yang, Heng Tao Shen.<br />
+- Avilasha Mandal, Chaoning Zhang, Fachrina Dewi Puspitasari, Xudong Wang, Jiaquan Zhang, Caiyan Qin, Guoqing Wang, Yang Yang, Heng Tao Shen.<br />
 "Fast SAM2 with Text-Driven Token Pruning." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.21333)]
 [2025.12]
 
-:boom:**D3ETOR:** Jiawei Ge, Jiuxin Cao, Xinyi Li, Xuelin Zhu, Chang Liu, Bo Liu, Chen Feng, Ioannis Patras.<br />
+- **D3ETOR:** Jiawei Ge, Jiuxin Cao, Xinyi Li, Xuelin Zhu, Chang Liu, Bo Liu, Chen Feng, Ioannis Patras.<br />
 "D3ETOR: Debate-Enhanced Pseudo Labeling and Frequency-Aware Progressive Debiasing for Weakly-Supervised Camouflaged ObjectDetection with Scribble Annotations." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.20260)]
 [2025.12]
 
-:boom:**Think2Seg-RS:** Xu Zhang, Junyao Ge, Yang Zheng, Kaitai Guo, Jimin Liang.<br />
+- **Think2Seg-RS:** Xu Zhang, Junyao Ge, Yang Zheng, Kaitai Guo, Jimin Liang.<br />
 "Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Remote Sensing." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.19302)]
 [[code](https://github.com/Ricardo-XZ/Think2Seg-RS)]
 [2025.12]
 
 
-:boom:Charilaos Kapelonis, Marios Antonakakis, Konstantinos Politof, Aristomenis Antoniadis, Michalis Zervakis.<br />
+- Charilaos Kapelonis, Marios Antonakakis, Konstantinos Politof, Aristomenis Antoniadis, Michalis Zervakis.<br />
 "Automated Mosaic Tesserae Segmentation via Deep Learning Techniques." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.18406)]
 [2025.12]
 
-:boom:**FALCON-SFOD:** Sairam VCR, Rishabh Lalla, Aveen Dayal, Tejal Kulkarni, Anuj Lalla, Vineeth N Balasubramanian, Muhammad Haris Khan.<br />
+- **FALCON-SFOD:** Sairam VCR, Rishabh Lalla, Aveen Dayal, Tejal Kulkarni, Anuj Lalla, Vineeth N Balasubramanian, Muhammad Haris Khan.<br />
 "Foundation Model Priors Enhance Object Focus in Feature Space for Source-Free Object Detection." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.17514)]
 [2025.12]
