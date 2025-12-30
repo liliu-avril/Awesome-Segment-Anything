@@ -373,6 +373,10 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2512.22452)]
 [2025.12]
 
+:boom:Brayden Miao, Zain Rehman, Xin Miao, Siming Liu, Jianjie Wang.<br />
+"MedSAM-based lung masking for multi-label chest X-ray classification." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.23089)]
+[2025.12]
 
 :boom:**Scalpel-SAM:** Zihan Liu, Xiangning Ren, Dezhang Kong, Yipeng Zhang, Meng Han .<br />
 "Scalpel-SAM: A Semi-Supervised Paradigm for Adapting SAM to Infrared Small Object Detection ." ArXiv (2025).
