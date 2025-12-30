@@ -345,6 +345,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**UncertSAM:** Jesse Brouwers, Xiaoyan Xing, Alexander Timans .<br />
+"Towards Integrating Uncertainty for Domain-Agnostic Segmentation." NeurIPS Workshop (2025).
+[[paper](https://arxiv.org/abs/2512.23427)]
+[[code](https://github.com/JesseBrouw/UncertSAM)]
+[2025.12]
+
+:boom:**SOFTooth:** Xiaolan Li, Wanquan Liu, Pengcheng Li, Pengyu Jie, Chenqiang Gao .<br />
+"SOFTooth: Semantics-Enhanced Order-Aware Fusion for Tooth Instance Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.23411)]
+[2025.12]
+
+:boom:**Tiny-YOLOSAM::** Kenneth Xu, Songhan Wu .<br />
+"Tiny-YOLOSAM: Fast Hybrid Image Segmentation." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.22193)]
+[[code](https://github.com/Kenneth-Xu11566/tiny-yolosam)]
+[2025.12]
+
+:boom:**SAM3_Tracking_Zoo:** Mohamad Alansari, Muzammal Naseer, Hasan Al Marzouqi, Naoufel Werghi, Sajid Javed .<br />
+  "Rethinking Memory Design in SAM-Based Visual Object Tracking." ArXiv (2025).
+  [[paper](https://arxiv.org/abs/2512.22624)] 
+  [[code](https://github.com/HamadYA/SAM3_Tracking_Zoo)]
+[2025.12]
+
 :boom:**BadVSFM:** Zongmin Zhang, Zhen Sun, Yifan Liao, Wenhan Dong, Xinlei He, Xingshuo Han, Shengmin Xu, Xinyi Huang.<br />
 "Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.22046)]
