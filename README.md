@@ -368,6 +368,17 @@ If you find our work useful in your research, please consider citing:
   [[code](https://github.com/HamadYA/SAM3_Tracking_Zoo)]
 [2025.12]
 
+:boom:Junsheng Yao, Lichao Mou, Qingyu Li .<br />
+"SAM 3D for 3D Object Reconstruction from Remote Sensing Images ." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.22452)]
+[2025.12]
+
+
+:boom:**Scalpel-SAM:** Zihan Liu, Xiangning Ren, Dezhang Kong, Yipeng Zhang, Meng Han .<br />
+"Scalpel-SAM: A Semi-Supervised Paradigm for Adapting SAM to Infrared Small Object Detection ." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.22483)]
+[2025.12]
+
 :boom:**BadVSFM:** Zongmin Zhang, Zhen Sun, Yifan Liao, Wenhan Dong, Xinlei He, Xingshuo Han, Shengmin Xu, Xinyi Huang.<br />
 "Backdoor Attacks on Prompt-Driven Video Segmentation Foundation Models." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.22046)]
