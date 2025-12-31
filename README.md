@@ -345,6 +345,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**CF-SAM:** Mao, Yanliang, Kubwimana Olivier, Guangzhi Niu, and Liping Chen.<br />
+"CF-SAM: An Efficient and Precise SAM Model for Instance Segmentation of Cotton Top Leaves." Agronomy  (2025).
+[[paper](https://doi.org/10.3390/agronomy16010030)]
+[2025.12]
+
+:boom:**Shoreline-SAM:** Chen, Guoquan and Tang, Hutian and Wang, Weijun and Xie, Daoshun.<br />
+"A Temporal-Enhanced Segment Anything Model for Precise and Robust Shoreline Segmentation." ArXiv (2025).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5962245)]
+[2025.12]
+
+:boom:Huibin Li, et al.<br />
+"Achieving precise cropland parcel extraction from remote sensing images through integration of segment anything model and adaptive mask refinement." CEA (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S016816992501453X)]
+[2025.12]
+
+:boom:**YSAM-SLAM:** Zhang Lin, Chen Tao, Yang Ming, Ma ZongFang, Zhang YingJie, Chen Yun, Gao Xiao, Xin MeiTing.<br />
+"YSAM-SLAM: A real-time performance enhancement algorithm for visual SLAM in dynamic environments." Information Sciences (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0020025525011661)]
+[2025.12]
+
+:boom:Jeongbae Jeon and Solhee Kim and STaegon Kim.<br />
+"Improving agricultural land use detection through YOLO–SAM fusion framework." Information Processing in Agriculture (2025).
+[[paper](https://www.sciencedirect.com/science/article/pii/S2214317325000903)]
+[[code](https://data.mendeley.com/datasets/znxyv9rtwp/1 (DOI: 10.17632/znxyv9rtwp.1)]
+[2025.12]
+
 :boom:**UncertSAM:** Jesse Brouwers, Xiaoyan Xing, Alexander Timans .<br />
 "Towards Integrating Uncertainty for Domain-Agnostic Segmentation." NeurIPS Workshop (2025).
 [[paper](https://arxiv.org/abs/2512.23427)]
