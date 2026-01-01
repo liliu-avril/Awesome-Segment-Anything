@@ -345,6 +345,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**Evol-SAM3:** Kai Ye, Xiaotong You, Jianghang Lin, Jiayi Ji, Pingyang Dai, Liujuan Cao.<br />
+"Evolving, Not Training: Zero-Shot Reasoning Segmentation via Evolutionary Prompting." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.24702)]
+[[code](https://github.com/AHideoKuzeA/Evol-SAM3)]
+[2025.12]
+
+:boom:**Edit3r:** Jiageng Liu, Weijie Lyu, Xueting Li, Yejie Guo, Ming-Hsuan Yang.<br />
+"Edit3r: Instant 3D Scene Editing from Sparse Unposed Images." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.25071)]
+[[code](https://edit3r.github.io/edit3r/)]
+[2025.12]
+
+:boom:**OFL-SAM2:** Meng Lan, Lefei Zhang, Xiaomeng Li.<br />
+"OFL-SAM2: Prompt SAM2 with Online Few-shot Learner for Efficient Medical Image Segmentation." AAAI (2025).
+[[paper](https://arxiv.org/abs/2512.24861)]
+[[code]( https://github.com/xmed-lab/OFL-SAM2)]
+[2025.12]
+
+:boom:** Hilbert-VLM:** Hao Wu, Hui Li, Yiyun Su.<br />
+"Bridging the Perception-Cognition Gap:Re-engineering SAM2 with Hilbert-Mamba for Robust VLM-based Medical Diagnosis." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2512.24013)]
+[2025.12]
+
 :boom:**CF-SAM:** Mao, Yanliang, Kubwimana Olivier, Guangzhi Niu, and Liping Chen.<br />
 "CF-SAM: An Efficient and Precise SAM Model for Instance Segmentation of Cotton Top Leaves." Agronomy  (2025).
 [[paper](https://doi.org/10.3390/agronomy16010030)]
