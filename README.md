@@ -358,12 +358,12 @@ If you find our work useful in your research, please consider citing:
 [2025.12]
 
 :boom:**OFL-SAM2:** Meng Lan, Lefei Zhang, Xiaomeng Li.<br />
-"OFL-SAM2: Prompt SAM2 with Online Few-shot Learner for Efficient Medical Image Segmentation." AAAI (2025).
+"OFL-SAM2: Prompt SAM2 with Online Few-shot Learner for Efficient Medical Image Segmentation." AAAI (2026).
 [[paper](https://arxiv.org/abs/2512.24861)]
 [[code]( https://github.com/xmed-lab/OFL-SAM2)]
 [2025.12]
 
-:boom:** Hilbert-VLM:** Hao Wu, Hui Li, Yiyun Su.<br />
+:boom:**Hilbert-VLM:** Hao Wu, Hui Li, Yiyun Su.<br />
 "Bridging the Perception-Cognition Gap:Re-engineering SAM2 with Hilbert-Mamba for Robust VLM-based Medical Diagnosis." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.24013)]
 [2025.12]
