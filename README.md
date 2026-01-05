@@ -345,6 +345,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:**VNS-SAM:** Guangqian Guo, Pengfei Chen, Yong Guo, Huafeng Chen, Boqiang Zhang, Shan Gao.<br />
+"Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios." TIP (2025).
+[[paper](https://arxiv.org/abs/2601.00537)]
+[[code](https://guangqian-guo.github.io/VNS-SAM/)]
+[2026.01]
+
 :boom:**Evol-SAM3:** Kai Ye, Xiaotong You, Jianghang Lin, Jiayi Ji, Pingyang Dai, Liujuan Cao.<br />
 "Evolving, Not Training: Zero-Shot Reasoning Segmentation via Evolutionary Prompting." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2512.24702)]
