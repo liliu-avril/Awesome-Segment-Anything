@@ -49,6 +49,7 @@ ____
 - [Paper List](#paper-list) 
   - [Seminal Papers](#seminal-papers)
   - [Follow-up Papers ](#follow-up-papers)
+    - [2026](#2026)
     - [2025](#2025)
     - [2024](#2024)
     - [2023](#2023)
