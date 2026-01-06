@@ -345,6 +345,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2025
+:boom:Devis Salierno, Matteo Dunnhofer & Christian Micheloni.<br />
+"Ego-Exo Object Correspondence by SAM2 and Cross-View Prompting." ICIAP (2025).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-032-10192-1_27)]
+[2026.01]
+
 :boom:**VNS-SAM:** Guangqian Guo, Pengfei Chen, Yong Guo, Huafeng Chen, Boqiang Zhang, Shan Gao.<br />
 "Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios." TIP (2025).
 [[paper](https://arxiv.org/abs/2601.00537)]
