@@ -346,46 +346,97 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SemiBCP-SAM2:** Guangqi Yang et al.<br />
+"SemiBCP-SAM2: Semi-supervised model via enhanced bidirectional copy-paste based on SAM2 for medical image segmentation." Information Processing & Management (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457325005175)]
+[[code](https://github.com/ydlam/SemiBCP-SAM2)]
+[2026.01]
+ 
+:boom:**SAMOIS:** Bing He et al.<br />
+"SAMOIS: efficient fine-tuned SAM with multi-scale enhancement for optical remote sensing image segmentation." European Journal of Remote Sensing (2026).
+[[paper](https://doi.org/10.1080/22797254.2025.2609404)]
+[2026.01]
+ 
+:boom:**LoGoSAM:** Khang Ta Gia, Quan Nguyen Dinh, Giang Kang Dong & Tho Quan Thanh.<br />
+"LoGoSAM: Enhancing Prototypical Networks for Medical Image One-Shot Segmentation Using Local-Global Encoder Integration and Visual Prompting." ICTIS (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-981-96-9191-3_40)]
+[2026.01]
+ 
+:boom:**XSegTx-SAM2:** Devis Salierno et al.<br />
+"Ego-Exo Object Correspondence bySAM2 and Cross-View Prompting." ICIAP (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-032-10192-1_27)]
+[2026.01]
+
+:boom:**E2SAM:** Ziyi Li, Yinghui Xing, Feng Sang, Shizhou Zhang, Lingyan Ran & Yanning Zhang.<br />
+"E2SAM: Edge-Enhanced SAM with FFC Adapter for Few-Shot Infrared Small Target Detection." JCRAI (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-032-12757-0_9)]
+[2026.01]
+ 
+:boom:Jiaxuan Wang et al.<br />
+"Weakly Supervised Blue-Carbon Mapping of Reef Algae with SAM-Bootstrapped NnU-Net." ACIVS (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-032-07343-3_38)]
+[2026.01]
+ 
+:boom:Jieming Yu et al.<br />
+"SAM 2 in Robotic Surgery: An Empirical Evaluation for Robustness and Generalization in Surgical Video Segmentation." EMA4MICCAI (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-032-13961-0_18)]
+[2026.01]
+ 
+:boom:**EvSAM:** Yi Ding, Bowen Yao, Yuhan Liu, Hao Chen, Ding Ding, Zhen Yang, Youfu Li, Yongjian Deng.<br />
+"EvSAM: Segment Anything Model with Event-based Assistance." ACM Trans. Multimedia Comput. Commun. Appl. (2026).
+[[paper](https://doi.org/10.1145/3786794)]
+[2026.01]
+
+:boom:Fatih Fehmi Şimşek, Melih Altay.<br />
+"Phenology aware agricultural boundary extraction using segment anything model and planet scope imagery (zero shot learning approach)." Advances in Space Research (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0273117725015297)]
+[2026.01]
+ 
+:boom:Yangxin Liu, De Li, and Xun Jin.<br />
+"Research on game object segmentation method based on SAM." ICEEIE (2026).
+[[paper](https://doi.org/10.1117/12.3093078)]
+[2026.01]
+
 :boom:**DGA-Net:** Yuetong Li, Qing Zhang, Yilin Zhao, Gongyang Li, Zeming Liu.<br />
-"DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection." ArXiv (2025).
+"DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.02831)]
 [2026.01]
 
 :boom:Longzhen Li, Guang Li, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama.<br />
-"Foreground-Aware Dataset Distillation via Dynamic Patch Selection." ArXiv (2025).
+"Foreground-Aware Dataset Distillation via Dynamic Patch Selection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.02727)]
 [2026.01]
  
 :boom:**PatchAlign3D:** Souhail Hadgi, Bingchen Gong, Ramana Sundararaman, Emery Pierson, Lei Li, Peter Wonka, Maks Ovsjanikov.<br />
-"PatchAlign3D: Local Feature Alignment for Dense 3D Shape Understanding." ArXiv (2025).
+"PatchAlign3D: Local Feature Alignment for Dense 3D Shape Understanding." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.02457)]
 [[code](https://souhail-hadgi.github.io/patchalign3dsite)]
 [2026.01]
 
 :boom:**TopoLoRA-SAM:** Salim Khazem.<br />
-"TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation." ArXiv (2025).
+"TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.02273)]
 [[code](https://github.com/salimkhazem/Seglab.git)]
 [2026.01]
  
 :boom:**GleSAM++:** Guangqian Guo, Aixi Ren, Yong Guo, Xuehui Yu, Jiacheng Tian, Wenli Li, Yaoxing Wang, Shan Gao.<br />
-"Towards Any-Quality Image Segmentation via Generative and Adaptive Latent Space Enhancement." ArXiv (2025).
+"Towards Any-Quality Image Segmentation via Generative and Adaptive Latent Space Enhancement." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.02018)]
 [[code](https://guangqian-guo.github.io/glesam++)]
 [2026.01]
  
 :boom:Riccardo Gelato, Carlo Sgaravatti, Jakob Grahn, Giacomo Boracchi, Filippo Maria Bianchi.<br />
-"Promptable Foundation Models for SAR Remote Sensing: Adapting the Segment Anything Model for Snow Avalanche Segmentation." ArXiv (2025).
+"Promptable Foundation Models for SAR Remote Sensing: Adapting the Segment Anything Model for Snow Avalanche Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.01213)]
 [2026.01]
 
 :boom:Devis Salierno, Matteo Dunnhofer & Christian Micheloni.<br />
-"Ego-Exo Object Correspondence by SAM2 and Cross-View Prompting." ICIAP (2025).
+"Ego-Exo Object Correspondence by SAM2 and Cross-View Prompting." ICIAP (2026).
 [[paper](https://link.springer.com/chapter/10.1007/978-3-032-10192-1_27)]
 [2026.01]
 
 :boom:**VNS-SAM:** Guangqian Guo, Pengfei Chen, Yong Guo, Huafeng Chen, Boqiang Zhang, Shan Gao.<br />
-"Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios." TIP (2025).
+"Boosting Segment Anything Model to Generalize Visually Non-Salient Scenarios." TIP (2026).
 [[paper](https://arxiv.org/abs/2601.00537)]
 [[code](https://guangqian-guo.github.io/VNS-SAM/)]
 [2026.01]
