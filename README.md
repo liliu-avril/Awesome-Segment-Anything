@@ -346,6 +346,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**DGA-Net:** Yuetong Li, Qing Zhang, Yilin Zhao, Gongyang Li, Zeming Liu.<br />
+"DGA-Net: Enhancing SAM with Depth Prompting and Graph-Anchor Guidance for Camouflaged Object Detection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2601.02831)]
+[2026.01]
+
+:boom:Longzhen Li, Guang Li, Ren Togo, Keisuke Maeda, Takahiro Ogawa, Miki Haseyama.<br />
+"Foreground-Aware Dataset Distillation via Dynamic Patch Selection." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2601.02727)]
+[2026.01]
+ 
+:boom:**PatchAlign3D:** Souhail Hadgi, Bingchen Gong, Ramana Sundararaman, Emery Pierson, Lei Li, Peter Wonka, Maks Ovsjanikov.<br />
+"PatchAlign3D: Local Feature Alignment for Dense 3D Shape Understanding." ArXiv (2025).
+[[paper](https://arxiv.org/abs/2601.02457)]
+[[code](https://souhail-hadgi.github.io/patchalign3dsite)]
+[2026.01]
+
 :boom:**TopoLoRA-SAM:** Salim Khazem.<br />
 "TopoLoRA-SAM: Topology-Aware Parameter-Efficient Adaptation of Foundation Segmenters for Thin-Structure and Cross-Domain Binary Semantic Segmentation." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2601.02273)]
