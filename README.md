@@ -211,7 +211,7 @@ If you find our work useful in your research, please consider citing:
   [[homepage](https://openai.com/research/gpt-4v-system-card)]
   [2023.09]
 
-- **Gemini:** Gemini Team, Googl.<br />
+- **Gemini:** Gemini Team, Google.<br />
   "Gemini: A Family of Highly Capable Multimodal Models." ArXiv (2023).
   [[paper](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)] 
   [[homepage](https://blog.google/technology/ai/google-gemini-ai/#sundar-note)]
