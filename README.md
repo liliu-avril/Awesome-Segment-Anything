@@ -346,6 +346,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**HyperCOD & HSC-SAM:** Shuyan Bai, Tingfa Xu, Peifu Liu, Yuhao Qiu, Huiyan Bai, Huan Chen, Yanyan Peng, Jianan Li.<br />
+"HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.03736)]
+[[code](https://github.com/Baishuyanyan/HyperCOD)]
+[2026.01]
+
 :boom:**SemiBCP-SAM2:** Guangqi Yang et al.<br />
 "SemiBCP-SAM2: Semi-supervised model via enhanced bidirectional copy-paste based on SAM2 for medical image segmentation." Information Processing & Management (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0306457325005175)]
