@@ -346,6 +346,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**DivAS:** Ayush Pande.<br />
+"DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.04860)]
+[2026.01]
+
+:boom:**Detector-Augmented SAMURAI:** Tamara R. Lenhard, Andreas Weinmann, Hichem Snoussi, Tobias Koch.<br />
+"Detector-Augmented SAMURAI for Long-Duration Drone Tracking." WACV Workshop (2026).
+[[paper](https://arxiv.org/abs/2601.04798)]
+[2026.01]
+
 :boom:**HyperCOD & HSC-SAM:** Shuyan Bai, Tingfa Xu, Peifu Liu, Yuhao Qiu, Huiyan Bai, Huan Chen, Yanyan Peng, Jianan Li.<br />
 "HyperCOD: The First Challenging Benchmark and Baseline for Hyperspectral Camouflaged Object Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.03736)]
