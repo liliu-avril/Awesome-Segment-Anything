@@ -457,6 +457,11 @@ If you find our work useful in your research, please consider citing:
 [[code](https://guangqian-guo.github.io/VNS-SAM/)]
 [2026.01]
 
+:boom:Miguel Abreu Cardenas, et al.<br />
+"Few-Shot Cataract Detection via Feature Density Learning: Evaluating SAM Models and Backbone Embeddings." ArXiv (2026).
+[[paper](https://www.researchgate.net/profile/Miguel-Abreu-Cardenas/publication/397632368_Few-Shot_Cataract_Detection_via_Feature_Density_Learning_Evaluating_SAM_Models_and_Backbone_Embeddings/links/6943fb7b0c98040d481eb13e/Few-Shot-Cataract-Detection-via-Feature-Density-Learning-Evaluating-SAM-Models-and-Backbone-Embeddings.pdf)]
+[2026.01]
+
 
 #### 2025
 
