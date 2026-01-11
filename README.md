@@ -346,6 +346,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SSP-SAM:** Tang, Wei and Liu, Xuejing and Sun, Yanpeng and Li, Zechao.<br />
+"SSP-SAM: SAM with Semantic-Spatial Prompt for Referring Expression Segmentation." TCSVT (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11299097)]
+[[code](https://github.com/WayneTomas/SSP-SAM)]
+[2026.01]
+
 :boom:**DivAS:** Ayush Pande.<br />
 "DivAS: Interactive 3D Segmentation of NeRFs via Depth-Weighted Voxel Aggregation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.04860)]
