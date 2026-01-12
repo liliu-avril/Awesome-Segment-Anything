@@ -1034,7 +1034,8 @@ If you find our work useful in your research, please consider citing:
 
 - **SatSAM2:** Tianrun Chen, Runlong Cao, Xinda Yu, Lanyun Zhu, Chaotao Ding, Deyi Ji, Cheng Chen, Qi Zhu, Chunyan Xu, Papa Mao, Ying Zang.<br />
 "SatSAM2: Motion-Constrained Video Object Tracking in Satellite Imagery using Promptable SAM2 and Kalman Priors." ArXiv (2025).
-[[paper](https://arxiv.org/abs/2511.19425)]
+[[paper](https://arxiv.org/abs/2511.18264)]
+[[code](https://arxiv.org/abs/2511.18264)]
 [2025.11]
 
 - **DEAP-3DSAM:** Fangda Chen, Jintao Tang, Pancheng Wang, Ting Wang, Shasha Li, Ting Deng.<br />
