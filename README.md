@@ -346,6 +346,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM-RefiSeR:** Dillan Imans, Phuoc-Nguyen Bui, Duc-Tai Le, Hyunseung Choo.<br />
+"Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.06882)]
+[2026.01]
+ 
+:boom:**PanoSAMic:** Mahdi Chamseddine, Didier Stricker, Jason Rambach.<br />
+"PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.07447)]
+[[code](https://github.com/dfki-av/PanoSAMic)]
+[2026.01]
+
+:boom:Aizierjiang Aiersilan, Ruting Cheng, James Hahn.<br />
+"Investigating Anthropometric Fidelity in SAM 3D Body." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.06035)]
+[2026.01]
+
+:boom:Sanjay Pradeep, Chen Wang, Matthew M. Dahm, Jeff D. Eldredge, Candace S. J. Tsai.<br />
+"Quantification and Classification of Carbon Nanotubes in Electron Micrographs using Vision Foundation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.06673)]
+[2026.01]
+
 :boom:**WaveRNet:** Chanchan Wang, Yuanfang Wang, Qing Xu, Guanxin Chen.<br />
 "WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation." ESWA (2026).
 [[paper](https://arxiv.org/abs/2601.05942)]
