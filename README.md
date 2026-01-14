@@ -346,6 +346,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**3AM:** Yang-Che Sun, Cheng Sun, Chin-Yang Lin, Fu-En Yang, Min-Hung Chen, Yen-Yu Lin, Yu-Lun Liu.<br />
+"3AM: Segment Anything with Geometric Consistency in Videos." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.08831)]
+[[code](https://jayisaking.github.io/3AM-Page/)]
+[2026.01]
+ 
+:boom:Sunusi Ibrahim Muhammad, Ismail Ismail Tijjani, Saadatu Yusuf Jumare, Fatima Isah Jibrin.<br />
+"Sesame Plant Segmentation Dataset: A YOLO Formatted Annotated Dataset." ICCAIT (2026).
+[[paper](https://arxiv.org/abs/2601.07970)]
+[[code](https://www.kaggle.com/datasets/ismailismailtijjani/sesame-plant-detection-dataset)]
+[2026.01]
+
 :boom:**SAM-RefiSeR:** Dillan Imans, Phuoc-Nguyen Bui, Duc-Tai Le, Hyunseung Choo.<br />
 "Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.06882)]
