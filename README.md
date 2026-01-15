@@ -346,6 +346,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM3-DMS:** Ruiqi Shen, Chang Liu, Henghui Ding.<br />
+"SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.09699)]
+[[code](https://github.com/FudanCVL/SAM3-DMS)]
+[2026.01]
+ 
+:boom:**BrainSegNet:** Yucheng Li, Xiaofan Wang, Junyi Wang, Yijie Li, Xi Zhu, Mubai Du, Dian Sheng, Wei Zhang, Fan Zhang.<br />
+"BrainSegNet: A Novel Framework for Whole-Brain MRI Parcellation Enhanced by Large Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.09263)]
+[2026.01]
+ 
+:boom:**SAM-Aug:** Kai Hu, Yaozu Feng, Vladimir Lysenko, Ya Guo Member, Huayi Wu.<br />
+"SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.09110)]
+[2026.01]
+
+:boom:**SAM-pose2seg:** Constantin Kolomiiets, Miroslav Purkrabek, Jiri Matas.<br />
+"SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.08982)]
+[[code](https://github.com/MiraPurkrabek/BBoxMaskPose/)]
+[2026.01]
+
 :boom:**3AM:** Yang-Che Sun, Cheng Sun, Chin-Yang Lin, Fu-En Yang, Min-Hung Chen, Yen-Yu Lin, Yu-Lun Liu.<br />
 "3AM: Segment Anything with Geometric Consistency in Videos." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.08831)]
