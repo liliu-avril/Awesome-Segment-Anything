@@ -346,6 +346,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**MedVL-SAM2:** Yang Xing, Jiong Wu, Savas Ozdemir, Ying Zhang, Yang Yang, Wei Shao, Kuang Gong.<br />
+"MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.09879)]
+[2026.01]
+
 :boom:**SAM-guided-RGB-D-COD:** Dongdong Zhang and Chunping Wang and Qiang Fu and Yao Song.<br />
 "SAM-guided Depth-aware Weakly Supervised Camouflaged Object Detection with Spatial-Frequency Exploration." KBS (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126000687)]
