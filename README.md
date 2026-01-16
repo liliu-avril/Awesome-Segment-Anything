@@ -346,6 +346,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM-guided-RGB-D-COD:** Dongdong Zhang and Chunping Wang and Qiang Fu and Yao Song.<br />
+"SAM-guided Depth-aware Weakly Supervised Camouflaged Object Detection with Spatial-Frequency Exploration." KBS (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126000687)]
+[[code](https://github.com/zcc0616/SAM-guided-RGB-D-COD.git)]
+[2026.01]
+
 :boom:**SAM3-DMS:** Ruiqi Shen, Chang Liu, Henghui Ding.<br />
 "SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.09699)]
