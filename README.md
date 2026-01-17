@@ -346,6 +346,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAMURAI:** Yang, Cheng-Yeng and Huang, Hsiang-Wei and Jiang, Zhongyu and Chai, Wenhao and Hwang, Jenq-Neng.<br />
+"SAMURAI: Motion-Aware Memory for Training-Free Visual Object Tracking with SAM 2." TIP (2026).
+[[paper](https://ieeexplore.ieee.org/document/11351313)]
+[[code](https://github.com/yangchris11/samurai)]
+[2026.01]
+
 :boom:**MedVL-SAM2:** Yang Xing, Jiong Wu, Savas Ozdemir, Ying Zhang, Yang Yang, Wei Shao, Kuang Gong.<br />
 "MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.09879)]
