@@ -346,85 +346,133 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**SAMURAI:** Yang, Cheng-Yeng and Huang, Hsiang-Wei and Jiang, Zhongyu and Chai, Wenhao and Hwang, Jenq-Neng.<br />
+:boom:**VMPicker:** Bo Zhu et al.<br />
+"VMPicker: A novel cryo-EM particle picker leveraging vision mamba and the segment anything model." Micron (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0968432826000090)]
+[2026.01]
+
+:boom:Jiuyi Zhang, Jiaqi Ji, Sijia Feng, Huiying Ru.<br />
+"3D Gaussian-Driven SAM2 Repair Method]{3D Gaussian-Driven SAM2 Multi-View Fusion Detection and Triple-Constrained Symmetry Plane Generation Repair Method." ArXiv (2026).
+[[paper](https://www.researchsquare.com/article/rs-8451382/v1)]
+[2026.01]
+
+:boom:**FILFArch:** Huang, Junqing and Ji, Shucheng and Wang, Yapeng and Xia, Min and Yuan, Xiaochen.<br />
+"An SAM Fine-Tuning Framework With Frequency-Domain Interactive LoRA for Remote Sensing Change Detection." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/document/11329007)]
+[[code](https://github.com/juncyan/filora)]
+[2026.01]
+ 
+:boom:Miao Liu et al.<br />
+"Settlements Extraction and Spatiotemporal Analysis with SAM and Random Forest from High-Resolution Remote Sensing." Agriculture Communications (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S2949798126000013)]
+[2026.01]
+ 
+:boom:**PMG-SAM:** Gao, Jixue, Xiaoyan Jiang, Anjie Wang, Yongbin Gao, Zhijun Fang, and Michael S. Lew.<br />
+"PMG-SAM: Boosting Auto-Segmentation of SAM with Pre-Mask Guidance." Sensors (2026).
+[[paper](https://www.mdpi.com/1424-8220/26/2/365)]
+[2026.01]
+ 
+:boom:**TextSAM:** Xiang, Y., Xian, Y., Cairang, X. et al.<br />
+"Handwritten text line segmentation with TextSAM: An enhanced segment anything model via multi-module fusion." IJDAR (2026).
+[[paper](https://link.springer.com/article/10.1007/s10032-025-00567-1)]
+[2026.01]
+
+:boom:Deboch Eyob Abera et al.<br />
+"Automated prompt-guided multi-modality cell segmentation with shape-aware classification and boundary-aware SAM adaptation." Displays (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0141938225003749)]
+[[code](https://github.com/MIXAILAB/Multi_Modality_CellSeg)]
+[2026.01]
+ 
+:boom:**DescriptorMedSAM:** Zhang, W., Luo, L., He, M. et al.<br />
+"DescriptorMedSAM: language-image fusion with multi-aspect text guidance for medical image segmentation." Sci Rep (2026).
+[[paper](https://www.nature.com/articles/s41598-025-33843-5)]
+[[code](https://github.com/Wenj1eee/Prompt-Dimensions-of-MedSAM)]
+[2026.01]
+ 
+:boom:**TA-MedSAM:** Siyuan Tang et al.<br />
+"TA-MedSAM: Text-augmented improved MedSAM for pulmonary lesion segmentation." Computerized Medical Imaging and Graphics (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0895611126000017)]
+[2026.01]
+
+- **SAMURAI:** Yang, Cheng-Yeng and Huang, Hsiang-Wei and Jiang, Zhongyu and Chai, Wenhao and Hwang, Jenq-Neng.<br />
 "SAMURAI: Motion-Aware Memory for Training-Free Visual Object Tracking with SAM 2." TIP (2026).
 [[paper](https://ieeexplore.ieee.org/document/11351313)]
 [[code](https://github.com/yangchris11/samurai)]
 [2026.01]
 
-:boom:**MedVL-SAM2:** Yang Xing, Jiong Wu, Savas Ozdemir, Ying Zhang, Yang Yang, Wei Shao, Kuang Gong.<br />
+- **MedVL-SAM2:** Yang Xing, Jiong Wu, Savas Ozdemir, Ying Zhang, Yang Yang, Wei Shao, Kuang Gong.<br />
 "MedVL-SAM2: A unified 3D medical vision-language model for multimodal reasoning and prompt-driven segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.09879)]
 [2026.01]
 
-:boom:**SAM-guided-RGB-D-COD:** Dongdong Zhang and Chunping Wang and Qiang Fu and Yao Song.<br />
+- **SAM-guided-RGB-D-COD:** Dongdong Zhang and Chunping Wang and Qiang Fu and Yao Song.<br />
 "SAM-guided Depth-aware Weakly Supervised Camouflaged Object Detection with Spatial-Frequency Exploration." KBS (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126000687)]
 [[code](https://github.com/zcc0616/SAM-guided-RGB-D-COD.git)]
 [2026.01]
 
-:boom:**SAM3-DMS:** Ruiqi Shen, Chang Liu, Henghui Ding.<br />
+- **SAM3-DMS:** Ruiqi Shen, Chang Liu, Henghui Ding.<br />
 "SAM3-DMS: Decoupled Memory Selection for Multi-target Video Segmentation of SAM3." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.09699)]
 [[code](https://github.com/FudanCVL/SAM3-DMS)]
 [2026.01]
  
-:boom:**BrainSegNet:** Yucheng Li, Xiaofan Wang, Junyi Wang, Yijie Li, Xi Zhu, Mubai Du, Dian Sheng, Wei Zhang, Fan Zhang.<br />
+- **BrainSegNet:** Yucheng Li, Xiaofan Wang, Junyi Wang, Yijie Li, Xi Zhu, Mubai Du, Dian Sheng, Wei Zhang, Fan Zhang.<br />
 "BrainSegNet: A Novel Framework for Whole-Brain MRI Parcellation Enhanced by Large Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.09263)]
 [2026.01]
  
-:boom:**SAM-Aug:** Kai Hu, Yaozu Feng, Vladimir Lysenko, Ya Guo Member, Huayi Wu.<br />
+- **SAM-Aug:** Kai Hu, Yaozu Feng, Vladimir Lysenko, Ya Guo Member, Huayi Wu.<br />
 "SAM-Aug: Leveraging SAM Priors for Few-Shot Parcel Segmentation in Satellite Time Series." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.09110)]
 [2026.01]
 
-:boom:**SAM-pose2seg:** Constantin Kolomiiets, Miroslav Purkrabek, Jiri Matas.<br />
+- **SAM-pose2seg:** Constantin Kolomiiets, Miroslav Purkrabek, Jiri Matas.<br />
 "SAM-pose2seg: Pose-Guided Human Instance Segmentation in Crowds." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.08982)]
 [[code](https://github.com/MiraPurkrabek/BBoxMaskPose/)]
 [2026.01]
 
-:boom:**3AM:** Yang-Che Sun, Cheng Sun, Chin-Yang Lin, Fu-En Yang, Min-Hung Chen, Yen-Yu Lin, Yu-Lun Liu.<br />
+- **3AM:** Yang-Che Sun, Cheng Sun, Chin-Yang Lin, Fu-En Yang, Min-Hung Chen, Yen-Yu Lin, Yu-Lun Liu.<br />
 "3AM: Segment Anything with Geometric Consistency in Videos." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.08831)]
 [[code](https://jayisaking.github.io/3AM-Page/)]
 [2026.01]
  
-:boom:Sunusi Ibrahim Muhammad, Ismail Ismail Tijjani, Saadatu Yusuf Jumare, Fatima Isah Jibrin.<br />
+- Sunusi Ibrahim Muhammad, Ismail Ismail Tijjani, Saadatu Yusuf Jumare, Fatima Isah Jibrin.<br />
 "Sesame Plant Segmentation Dataset: A YOLO Formatted Annotated Dataset." ICCAIT (2026).
 [[paper](https://arxiv.org/abs/2601.07970)]
 [[code](https://www.kaggle.com/datasets/ismailismailtijjani/sesame-plant-detection-dataset)]
 [2026.01]
 
-:boom:**SAM-RefiSeR:** Dillan Imans, Phuoc-Nguyen Bui, Duc-Tai Le, Hyunseung Choo.<br />
+- **SAM-RefiSeR:** Dillan Imans, Phuoc-Nguyen Bui, Duc-Tai Le, Hyunseung Choo.<br />
 "Unsupervised Domain Adaptation with SAM-RefiSeR for Enhanced Brain Tumor Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.06882)]
 [2026.01]
  
-:boom:**PanoSAMic:** Mahdi Chamseddine, Didier Stricker, Jason Rambach.<br />
+- **PanoSAMic:** Mahdi Chamseddine, Didier Stricker, Jason Rambach.<br />
 "PanoSAMic: Panoramic Image Segmentation from SAM Feature Encoding and Dual View Fusion." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.07447)]
 [[code](https://github.com/dfki-av/PanoSAMic)]
 [2026.01]
 
-:boom:Aizierjiang Aiersilan, Ruting Cheng, James Hahn.<br />
+- Aizierjiang Aiersilan, Ruting Cheng, James Hahn.<br />
 "Investigating Anthropometric Fidelity in SAM 3D Body." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.06035)]
 [2026.01]
 
-:boom:Sanjay Pradeep, Chen Wang, Matthew M. Dahm, Jeff D. Eldredge, Candace S. J. Tsai.<br />
+- Sanjay Pradeep, Chen Wang, Matthew M. Dahm, Jeff D. Eldredge, Candace S. J. Tsai.<br />
 "Quantification and Classification of Carbon Nanotubes in Electron Micrographs using Vision Foundation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.06673)]
 [2026.01]
 
-:boom:**WaveRNet:** Chanchan Wang, Yuanfang Wang, Qing Xu, Guanxin Chen.<br />
+- **WaveRNet:** Chanchan Wang, Yuanfang Wang, Qing Xu, Guanxin Chen.<br />
 "WaveRNet: Wavelet-Guided Frequency Learning for Multi-Source Domain-Generalized Retinal Vessel Segmentation." ESWA (2026).
 [[paper](https://arxiv.org/abs/2601.05942)]
 [[code](https://github.com/Chanchan-Wang/WaveRNet)]
 [2026.01]
 
-:boom:**Prompt-Free SAM:** Samuel E. Johnny, Bernes L. Atabonfack, Israel Alagbe, Assane Gueye.<br />
+- **Prompt-Free SAM:** Samuel E. Johnny, Bernes L. Atabonfack, Israel Alagbe, Assane Gueye.<br />
 "Prompt-Free SAM-Based Multi-Task Framework for Breast Ultrasound Lesion Segmentation and Classification." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.05498)]
 [2026.01]
