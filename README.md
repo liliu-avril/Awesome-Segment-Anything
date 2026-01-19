@@ -346,6 +346,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Medical SAM3:** Chongcong Jiang, Tianxingjian Ding, Chuhan Song, Jiachen Tu, Ziyang Yan, Yihua Shao, Zhenyi Wang, Yuzhang Shang, Tianyu Han, Yu Tian.<br />
+"Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.10880)]
+[[code](https://github.com/AIM-Research-Lab/Medical-SAM3)]
+[2026.01]
+
+:boom:**PRISM-CAFO:** Oishee Bintey Hoque, Nibir Chandra Mandal, Kyle Luong, Amanda Wilson, Samarth Swarup, Madhav Marathe, Abhijin Adiga.<br />
+"PRISM-CAFO: Prior-conditioned Remote-sensing Infrastructure Segmentation and Mapping for CAFOs." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.11451)]
+[[code](https://github.com/Nibir088/PRISM-CAFO)]
+[2026.01]
+ 
+:boom:**WetSAM:** Shuai Yuan, Tianwu Lin, Shuang Chen, Yu Xia, Peng Qin, Xiangyu Liu, Xiaoqing Xu, Nan Xu, Hongsheng Zhang, Jie Wang, Peng Gong.<br />
+"Wetland mapping from sparse annotations with satellite image time series and temporal-aware segment anything model." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.11400)]
+[2026.01]
+ 
+:boom:**SAMannot:** Gergely Dinya, András Gelencsér, Krisztina Kupán, Clemens Küpper, Kristóf Karacs, Anna Gelencsér-Horváth.<br />
+"SAMannot: A Memory-Efficient, Local, Open-source Framework for Interactive Video Instance Segmentation based on SAM2." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.11301)]
+[2026.01]
+
 :boom:**VMPicker:** Bo Zhu et al.<br />
 "VMPicker: A novel cryo-EM particle picker leveraging vision mamba and the segment anything model." Micron (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0968432826000090)]
