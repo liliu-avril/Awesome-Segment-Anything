@@ -346,6 +346,43 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**OmniOVCD:** Xu Zhang, Danyang Li, Yingjie Xia, Xiaohang Dong, Hualong Yu, Jianye Wang, Qicheng Li.<br />
+"OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.13895)]
+[2026.01]
+
+:boom:**OCCAM:** Michail Spanakis, Iason Oikonomidis, Antonis Argyros.<br />
+"OCCAM: Class-Agnostic, Training-Free, Prior-Free and Multi-Class Object Counting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.13871)]
+[[code](https://mikespanak.github.io/OCCAM_counter)]
+[2026.01]
+ 
+:boom:**DepthCropSeg++:** Jiafei Zhang, Songliang Cao, Binghui Xu, Yanan Li, Weiwei Jia, Tingting Wu, Hao Lu, Weijuan Hu, Zhiguo Han.<br />
+"DepthCropSeg++: Scaling a Crop Segmentation Foundation Model With Depth-Labeled Data." IEEE Journal of Selected Topics in Signal Processing (2026).
+[[paper](https://arxiv.org/abs/2601.12366)]
+[2026.01]
+ 
+:boom:**SynthFM-3D:** Satrajit Chakrabarty, Sourya Sengupta, Gopal Avinash, Ravi Soni.<br />
+"Synthetic Volumetric Data Generation Enables Zero-Shot Generalization of Foundation Models in 3D Medical Image Segmentation." ISBI (2026).
+[[paper](https://arxiv.org/abs/2601.12297)]
+[2026.01]
+ 
+:boom:**SAMA:** Zezhong Fan, Xiaohan Li, Topojoy Biswas, Kaushiki Nag, Kannan Achan.<br />
+"Segment and Matte Anything in a Unified Model." AAAI (2026).
+[[paper](https://arxiv.org/abs/2601.12147)]
+[2026.01]
+
+:boom:**VideoMaMa:** Sangbeom Lim, Seoung Wug Oh, Jiahui Huang, Heeji Yoon, Seungryong Kim, Joon-Young Lee.<br />
+"VideoMaMa: Mask-Guided Video Matting via Generative Prior." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.14255)]
+[[code](https://cvlab-kaist.github.io/VideoMaMa)]
+[2026.01]
+ 
+:boom:**MQC-SAM:** H. Jiang, Y. Sun, Z. Dong, T. Liu, Y. Gu.<br />
+"CroBIM-V: Memory-Quality Controlled Remote Sensing Referring Video Object Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.12076)]
+[2026.01]
+
 :boom:**Medical SAM3:** Chongcong Jiang, Tianxingjian Ding, Chuhan Song, Jiachen Tu, Ziyang Yan, Yihua Shao, Zhenyi Wang, Yuzhang Shang, Tianyu Han, Yu Tian.<br />
 "Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.10880)]
