@@ -5134,7 +5134,7 @@ Observation and Geoinformation (2025).
 [[code](https://github.com/anonymouse-xzrptkvyqc/DepthForge)]
 [2025.04]
 
--**SAM-ESP:** Xinyu Zhao, Jun Liu, Faqiang Wang, Li Cui, Yuping Duan.<br />
+- **SAM-ESP:** Xinyu Zhao, Jun Liu, Faqiang Wang, Li Cui, Yuping Duan.<br />
 "Contour Field based Elliptical Shape Prior for the Segment Anything Model." ArXiv (2025).
 [[paper](https://arxiv.org/abs/2504.12556)]
 [2025.04]
@@ -5146,7 +5146,7 @@ Observation and Geoinformation (2025).
 [2025.04]
 
 - **DC-SAM:** Mengshi Qi, Pengfei Zhu, Xiangtai Li, Xiaoyang Bi, Lu Qi, Huadong Ma, Ming-Hsuan Yang.<br />
-"DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency." ArXiv (2025).
+"DC-SAM: In-Context Segment Anything in Images and Videos via Dual Consistency." TPAMI (2026).
 [[paper](https://arxiv.org/abs/2504.12080)]
 [[code](https://github.com/zaplm/DC-SAM)]
 [2025.04]
