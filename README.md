@@ -383,6 +383,16 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2601.12076)]
 [2026.01]
 
+:boom:**3D LPA:** Yanrui Lu, Danyang Chen, Haowen Xiao, Jiarui Zhu, Fukang Ge, Binqian Zou, Jiali Guan, Jiayin Liang, Yuting Wang, Ziqian Guan, Xiangcheng Bao, Jinhao Bi, Lin Gu, Jun He, Yingying Zhu.<br />
+"Large-scale EM Benchmark for Multi-Organelle Instance Segmentation in the Wild." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.12464)]
+[2026.01]
+ 
+:boom:Raffaele Mazza, Ciro Natale, Pietro Falco.<br />
+"Active Cross-Modal Visuo-Tactile Perception of Deformable Linear Objects." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.13979)]
+[2026.01]
+
 :boom:**Medical SAM3:** Chongcong Jiang, Tianxingjian Ding, Chuhan Song, Jiachen Tu, Ziyang Yan, Yihua Shao, Zhenyi Wang, Yuzhang Shang, Tianyu Han, Yu Tian.<br />
 "Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.10880)]
