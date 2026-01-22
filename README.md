@@ -356,6 +356,7 @@ If you find our work useful in your research, please consider citing:
 "BBoxMaskPose v2: Expanding Mutual Conditioning to 3D." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.15200)]
 [[code](https://mirapurkrabek.github.io/BBox-Mask-Pose/)]
+[2026.01]
 
 :boom:**OmniOVCD:** Xu Zhang, Danyang Li, Yingjie Xia, Xiaohang Dong, Hualong Yu, Jianye Wang, Qicheng Li.<br />
 "OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3." ArXiv (2026).
