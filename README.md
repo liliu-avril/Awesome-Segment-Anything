@@ -346,6 +346,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**BREPS:** Andrey Moskalenko, Danil Kuznetsov, Irina Dudko, Anastasiia Iasakova, Nikita Boldyrev, Denis Shepelev, Andrei Spiridonov, Andrey Kuznetsov, Vlad Shakhuro.<br />
+"BREPS: Bounding-Box Robustness Evaluation of Promptable Segmentation." AAAI (2026).
+[[paper](https://arxiv.org/abs/2601.15123)]
+[[code](https://github.com/emb-ai/BREPS)]
+[2026.01]
+ 
+:boom:**BBoxMaskPose v2:** Miroslav Purkrabek, Constantin Kolomiiets, Jiri Matas.<br />
+"BBoxMaskPose v2: Expanding Mutual Conditioning to 3D." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.15200)]
+[[code](https://mirapurkrabek.github.io/BBox-Mask-Pose/)]
+
 :boom:**OmniOVCD:** Xu Zhang, Danyang Li, Yingjie Xia, Xiaohang Dong, Hualong Yu, Jianye Wang, Qicheng Li.<br />
 "OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.13895)]
