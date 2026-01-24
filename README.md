@@ -355,6 +355,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**AutoPromptSeg:** Junan Zhu, Zhizhe Tang, Ping Ma, Zheng Liang, Chuanjian Wang.<br />
+"AutoPromptSeg: Automated Decoupling of Uncertainty Prompts with SAM for semi-supervised medical image segmentation." Computerized Medical Imaging and Graphics (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S089561112600011X)]
+[2026.01]
+
+:boom:**AM-SAM:** Li, Y., Zhang, L., Liang, Y. et al.<br />
+"Am-sam: a spatially-aware prompt learning and mask calibration framework for few-shot semantic segmentation." International Journal of Machine Learning and Cybernetics (2026).
+[[paper](https://link.springer.com/article/10.1007/s13042-025-02911-7)]
+[[code](https://github.com/aierwaixi/AM-SAM)]
+[2026.01]
+ 
+:boom:Huanyu Li, Li Li, Hao Wang, Weibo Zhang & Peng Ren.<br />
+"Large Foundation Model Empowered Region-aware Underwater Image Captioning." IJCV (2026).
+[[paper](https://link.springer.com/article/10.1007/s11263-025-02650-w)]
+[2026.01]
+
 :boom:**SAMTok:** Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li.<br />
 "SAMTok: Representing Any Mask with Two Words." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.16093)]
