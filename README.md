@@ -172,7 +172,7 @@ If you find our work useful in your research, please consider citing:
   [2024.07]
 
 - **SAM 3:** Nicolas Carion*, Laura Gustafson*, Yuan-Ting Hu*, Shoubhik Debnath*, Ronghang Hu*, Didac Suris*, Chaitanya Ryali*, Kalyan Vasudev Alwala*, Haitham Khedr*, Andrew Huang, Jie Lei, Tengyu Ma, Baishan Guo, Arpit Kalla, Markus Marks, Joseph Greer, Meng Wang, Peize Sun, Roman Rädle, Triantafyllos Afouras, Effrosyni Mavroudi, Katherine Xu°, Tsung-Han Wu°, Yu Zhou°, Liliane Momeni°, Rishi Hazra°, Shuangrui Ding°, Sagar Vaze°, Francois Porcher°, Feng Li°, Siyuan Li°, Aishwarya Kamath°, Ho Kei Cheng°, Piotr Dollar†, Nikhila Ravi†, Kate Saenko†, Pengchuan Zhang†, Christoph Feichtenhofer†.<br />
-  "SAM 3: Segment Anything with Concepts." arXiv (2025). 
+  "SAM 3: Segment Anything with Concepts." ICLR (2026). 
   [[paper](https://scontent-hkg1-2.xx.fbcdn.net/v/t39.2365-6/586037495_2236299700208804_3520531923593328648_n.pdf?_nc_cat=107&ccb=1-7&_nc_sid=3c67a6&_nc_ohc=nmZfwAXlWFIQ7kNvwG4Ziha&_nc_oc=AdkN4o3mxVR9EsmETWKcD22Es9j13TyVnzBM4i12yV--s4BBVU7JRjK7o5i8gmi3GXY&_nc_zt=14&_nc_ht=scontent-hkg1-2.xx&_nc_gid=cv151uZyJ6W0M4xGA5YJeg&oh=00_AfhGOif-baPFkfDU5Os8PdgwzC4mo825cMW2vNKx2E9vog&oe=6924E449)]
   [[arXiv](https://arxiv.org/abs/2511.16719)]
   [[code](https://github.com/facebookresearch/sam3)]
@@ -342,7 +342,7 @@ If you find our work useful in your research, please consider citing:
 [2025.10]
 
 - **Mamba-3:** Anonymous authors.<br />
-"Mamba-3: Improved Sequence Modeling using State Space Principles." ArXiv (2025).
+"Mamba-3: Improved Sequence Modeling using State Space Principles." ICLR (2026).
 [[paper](https://openreview.net/forum?id=HwCvaJOiCj)]
 [2025.11]
 
