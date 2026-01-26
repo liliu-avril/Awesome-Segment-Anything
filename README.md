@@ -3099,7 +3099,7 @@ Express (2025).
 [2025.08]
 
 - **LENS:** Lianghui Zhu, Bin Ouyang, Yuxuan Zhang, Tianheng Cheng, Rui Hu, Haocheng Shen, Longjin Ran, Xiaoxin Chen, Li Yu, Wenyu Liu, Xinggang Wang.<br />
-"LENS: Learning to Segment Anything with Unified Reinforced Reasoning." ArXiv (2025).
+"LENS: Learning to Segment Anything with Unified Reinforced Reasoning." AAAI (2026).
 [[paper](https://arxiv.org/abs/2508.14153)]
 [[code](https://github.com/hustvl/LENS)]
 [2025.08]
