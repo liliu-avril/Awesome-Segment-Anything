@@ -5874,7 +5874,7 @@ Observation and Geoinformation (2025).
 [2025.03]
 
 - **RS2-SAM 2:** Fu Rong, Meng Lan, Qian Zhang, Lefei Zhang.<br />
-"Customized SAM 2 for Referring Remote Sensing Image Segmentation." ArXiv (2025).
+"RS2-SAM2: Customized SAM2 for Referring Remote Sensing Image Segmentation." AAAI (2026).
 [[paper](https://arxiv.org/abs/2503.07266)]
 [2025.03]
 
