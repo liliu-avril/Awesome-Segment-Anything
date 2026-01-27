@@ -355,6 +355,46 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**C-RADIOv4:** Mike Ranzinger, Greg Heinrich, Collin McCarthy, Jan Kautz, Andrew Tao, Bryan Catanzaro, Pavlo Molchanov.<br />
+"C-RADIOv4 (Tech Report)." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.17237)]
+[[code](https://github.com/NVlabs/RADIO)]
+[2026.01]
+
+:boom:**StealthMark:** Qinkai Yu, Chong Zhang, Gaojie Jin, Tianjin Huang, Wei Zhou, Wenhui Li, Xiaobo Jin, Bo Huang, Yitian Zhao, Guang Yang, Gregory Y. H. Lip, Yalin Zheng, Aline Villavicencio, Yanda Meng.<br />
+"StealthMark: Harmless and Stealthy Ownership Verification for Medical Segmentation via Uncertainty-Guided Backdoors." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.17107)]
+[[code](https://github.com/Qinkaiyu/StealthMark)]
+[2026.01]
+
+:boom:Rabin Dulal, Wenfeng Jia, Lihong Zheng, Jane Quinn.<br />
+"Agreement-Driven Multi-View 3D Reconstruction for Live Cattle Weight Estimation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.17791)]
+[2026.01]
+ 
+:boom:**SC-SAM:** Vi Vu, Thanh-Huy Nguyen, Tien-Thinh Nguyen, Ba-Thinh Lam, Hoang-Thien Nguyen, Tianyang Wang, Xingjian Li, Min Xu.<br />
+"From Specialist to Generalist: Unlocking SAM's Learning Potential on Unlabeled Medical Images." ISBI (2026).
+[[paper](https://arxiv.org/abs/2601.17934)]
+[[code](https://github.com/vnlvi2k3/SC-SAM)]
+[2026.01]
+
+:boom:**MV-SAM:** Yoonwoo Jeong, Cheng Sun, Yu-Chiang Frank Wang, Minsu Cho, Jaesung Choe.<br />
+"MV-SAM: Multi-view Promptable Segmentation using Pointmap Guidance." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.17866)]
+[[code](https://jaesung-choe.github.io/mv_sam/index.html)]
+[2026.01]
+ 
+:boom:Takato Yasuno.<br />
+"Multi-stage Bridge Inspection System: Integrating Foundation Models with Location Anonymization." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.17254)]
+[2026.01]
+
+:boom:**MPS-CLIP:** Yifan Li, Shiying Wang, Jianqiang Huang.<br />
+"Multi-Perspective Subimage CLIP with Keyword Guidance for Remote Sensing Image-Text Retrieval." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.18190)]
+[[code](https://github.com/Lcrucial1f/MPS-CLIP)]
+[2026.01]
+
 :boom:**AutoPromptSeg:** Junan Zhu, Zhizhe Tang, Ping Ma, Zheng Liang, Chuanjian Wang.<br />
 "AutoPromptSeg: Automated Decoupling of Uncertainty Prompts with SAM for semi-supervised medical image segmentation." Computerized Medical Imaging and Graphics (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S089561112600011X)]
@@ -371,142 +411,142 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://link.springer.com/article/10.1007/s11263-025-02650-w)]
 [2026.01]
 
-:boom:**SAMTok:** Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li.<br />
+- **SAMTok:** Yikang Zhou, Tao Zhang, Dengxian Gong, Yuanzheng Wu, Ye Tian, Haochen Wang, Haobo Yuan, Jiacong Wang, Lu Qi, Hao Fei, Anran Wang, Zhuochen Wang, Yujing Wang, Cheng Chen, Shunping Ji, Xiangtai Li.<br />
 "SAMTok: Representing Any Mask with Two Words." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.16093)]
 [[code](https://zhouyiks.github.io/projects/SAMTok/)]
 [2026.01]
  
-:boom:**FeTal-SAM:** Qi Zeng, Weide Liu, Bo Li, Ryne Didier, P. Ellen Grant, Davood Karimi.<br />
+- **FeTal-SAM:** Qi Zeng, Weide Liu, Bo Li, Ryne Didier, P. Ellen Grant, Davood Karimi.<br />
 "Atlas-Assisted Segment Anything Model for Fetal Brain MRI (FeTal-SAM)." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.15759)]
 [2026.01]
 
-:boom:**BREPS:** Andrey Moskalenko, Danil Kuznetsov, Irina Dudko, Anastasiia Iasakova, Nikita Boldyrev, Denis Shepelev, Andrei Spiridonov, Andrey Kuznetsov, Vlad Shakhuro.<br />
+- **BREPS:** Andrey Moskalenko, Danil Kuznetsov, Irina Dudko, Anastasiia Iasakova, Nikita Boldyrev, Denis Shepelev, Andrei Spiridonov, Andrey Kuznetsov, Vlad Shakhuro.<br />
 "BREPS: Bounding-Box Robustness Evaluation of Promptable Segmentation." AAAI (2026).
 [[paper](https://arxiv.org/abs/2601.15123)]
 [[code](https://github.com/emb-ai/BREPS)]
 [2026.01]
  
-:boom:**BBoxMaskPose v2:** Miroslav Purkrabek, Constantin Kolomiiets, Jiri Matas.<br />
+- **BBoxMaskPose v2:** Miroslav Purkrabek, Constantin Kolomiiets, Jiri Matas.<br />
 "BBoxMaskPose v2: Expanding Mutual Conditioning to 3D." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.15200)]
 [[code](https://mirapurkrabek.github.io/BBox-Mask-Pose/)]
 [2026.01]
 
-:boom:**OmniOVCD:** Xu Zhang, Danyang Li, Yingjie Xia, Xiaohang Dong, Hualong Yu, Jianye Wang, Qicheng Li.<br />
+- **OmniOVCD:** Xu Zhang, Danyang Li, Yingjie Xia, Xiaohang Dong, Hualong Yu, Jianye Wang, Qicheng Li.<br />
 "OmniOVCD: Streamlining Open-Vocabulary Change Detection with SAM 3." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.13895)]
 [2026.01]
 
-:boom:**OCCAM:** Michail Spanakis, Iason Oikonomidis, Antonis Argyros.<br />
+- **OCCAM:** Michail Spanakis, Iason Oikonomidis, Antonis Argyros.<br />
 "OCCAM: Class-Agnostic, Training-Free, Prior-Free and Multi-Class Object Counting." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.13871)]
 [[code](https://mikespanak.github.io/OCCAM_counter)]
 [2026.01]
  
-:boom:**DepthCropSeg++:** Jiafei Zhang, Songliang Cao, Binghui Xu, Yanan Li, Weiwei Jia, Tingting Wu, Hao Lu, Weijuan Hu, Zhiguo Han.<br />
+- **DepthCropSeg++:** Jiafei Zhang, Songliang Cao, Binghui Xu, Yanan Li, Weiwei Jia, Tingting Wu, Hao Lu, Weijuan Hu, Zhiguo Han.<br />
 "DepthCropSeg++: Scaling a Crop Segmentation Foundation Model With Depth-Labeled Data." IEEE Journal of Selected Topics in Signal Processing (2026).
 [[paper](https://arxiv.org/abs/2601.12366)]
 [2026.01]
  
-:boom:**SynthFM-3D:** Satrajit Chakrabarty, Sourya Sengupta, Gopal Avinash, Ravi Soni.<br />
+- **SynthFM-3D:** Satrajit Chakrabarty, Sourya Sengupta, Gopal Avinash, Ravi Soni.<br />
 "Synthetic Volumetric Data Generation Enables Zero-Shot Generalization of Foundation Models in 3D Medical Image Segmentation." ISBI (2026).
 [[paper](https://arxiv.org/abs/2601.12297)]
 [2026.01]
  
-:boom:**SAMA:** Zezhong Fan, Xiaohan Li, Topojoy Biswas, Kaushiki Nag, Kannan Achan.<br />
+- **SAMA:** Zezhong Fan, Xiaohan Li, Topojoy Biswas, Kaushiki Nag, Kannan Achan.<br />
 "Segment and Matte Anything in a Unified Model." AAAI (2026).
 [[paper](https://arxiv.org/abs/2601.12147)]
 [2026.01]
 
-:boom:**VideoMaMa:** Sangbeom Lim, Seoung Wug Oh, Jiahui Huang, Heeji Yoon, Seungryong Kim, Joon-Young Lee.<br />
+- **VideoMaMa:** Sangbeom Lim, Seoung Wug Oh, Jiahui Huang, Heeji Yoon, Seungryong Kim, Joon-Young Lee.<br />
 "VideoMaMa: Mask-Guided Video Matting via Generative Prior." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.14255)]
 [[code](https://cvlab-kaist.github.io/VideoMaMa)]
 [2026.01]
  
-:boom:**MQC-SAM:** H. Jiang, Y. Sun, Z. Dong, T. Liu, Y. Gu.<br />
+- **MQC-SAM:** H. Jiang, Y. Sun, Z. Dong, T. Liu, Y. Gu.<br />
 "CroBIM-V: Memory-Quality Controlled Remote Sensing Referring Video Object Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.12076)]
 [2026.01]
 
-:boom:**3D LPA:** Yanrui Lu, Danyang Chen, Haowen Xiao, Jiarui Zhu, Fukang Ge, Binqian Zou, Jiali Guan, Jiayin Liang, Yuting Wang, Ziqian Guan, Xiangcheng Bao, Jinhao Bi, Lin Gu, Jun He, Yingying Zhu.<br />
+- **3D LPA:** Yanrui Lu, Danyang Chen, Haowen Xiao, Jiarui Zhu, Fukang Ge, Binqian Zou, Jiali Guan, Jiayin Liang, Yuting Wang, Ziqian Guan, Xiangcheng Bao, Jinhao Bi, Lin Gu, Jun He, Yingying Zhu.<br />
 "Large-scale EM Benchmark for Multi-Organelle Instance Segmentation in the Wild." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.12464)]
 [2026.01]
  
-:boom:Raffaele Mazza, Ciro Natale, Pietro Falco.<br />
+- Raffaele Mazza, Ciro Natale, Pietro Falco.<br />
 "Active Cross-Modal Visuo-Tactile Perception of Deformable Linear Objects." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.13979)]
 [2026.01]
 
-:boom:**Medical SAM3:** Chongcong Jiang, Tianxingjian Ding, Chuhan Song, Jiachen Tu, Ziyang Yan, Yihua Shao, Zhenyi Wang, Yuzhang Shang, Tianyu Han, Yu Tian.<br />
+- **Medical SAM3:** Chongcong Jiang, Tianxingjian Ding, Chuhan Song, Jiachen Tu, Ziyang Yan, Yihua Shao, Zhenyi Wang, Yuzhang Shang, Tianyu Han, Yu Tian.<br />
 "Medical SAM3: A Foundation Model for Universal Prompt-Driven Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.10880)]
 [[code](https://github.com/AIM-Research-Lab/Medical-SAM3)]
 [2026.01]
 
-:boom:**PRISM-CAFO:** Oishee Bintey Hoque, Nibir Chandra Mandal, Kyle Luong, Amanda Wilson, Samarth Swarup, Madhav Marathe, Abhijin Adiga.<br />
+- **PRISM-CAFO:** Oishee Bintey Hoque, Nibir Chandra Mandal, Kyle Luong, Amanda Wilson, Samarth Swarup, Madhav Marathe, Abhijin Adiga.<br />
 "PRISM-CAFO: Prior-conditioned Remote-sensing Infrastructure Segmentation and Mapping for CAFOs." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.11451)]
 [[code](https://github.com/Nibir088/PRISM-CAFO)]
 [2026.01]
  
-:boom:**WetSAM:** Shuai Yuan, Tianwu Lin, Shuang Chen, Yu Xia, Peng Qin, Xiangyu Liu, Xiaoqing Xu, Nan Xu, Hongsheng Zhang, Jie Wang, Peng Gong.<br />
+- **WetSAM:** Shuai Yuan, Tianwu Lin, Shuang Chen, Yu Xia, Peng Qin, Xiangyu Liu, Xiaoqing Xu, Nan Xu, Hongsheng Zhang, Jie Wang, Peng Gong.<br />
 "Wetland mapping from sparse annotations with satellite image time series and temporal-aware segment anything model." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.11400)]
 [2026.01]
  
-:boom:**SAMannot:** Gergely Dinya, András Gelencsér, Krisztina Kupán, Clemens Küpper, Kristóf Karacs, Anna Gelencsér-Horváth.<br />
+- **SAMannot:** Gergely Dinya, András Gelencsér, Krisztina Kupán, Clemens Küpper, Kristóf Karacs, Anna Gelencsér-Horváth.<br />
 "SAMannot: A Memory-Efficient, Local, Open-source Framework for Interactive Video Instance Segmentation based on SAM2." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.11301)]
 [2026.01]
 
-:boom:**VMPicker:** Bo Zhu et al.<br />
+- **VMPicker:** Bo Zhu et al.<br />
 "VMPicker: A novel cryo-EM particle picker leveraging vision mamba and the segment anything model." Micron (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0968432826000090)]
 [2026.01]
 
-:boom:Jiuyi Zhang, Jiaqi Ji, Sijia Feng, Huiying Ru.<br />
+- Jiuyi Zhang, Jiaqi Ji, Sijia Feng, Huiying Ru.<br />
 "3D Gaussian-Driven SAM2 Repair Method]{3D Gaussian-Driven SAM2 Multi-View Fusion Detection and Triple-Constrained Symmetry Plane Generation Repair Method." ArXiv (2026).
 [[paper](https://www.researchsquare.com/article/rs-8451382/v1)]
 [2026.01]
 
-:boom:**FILFArch:** Huang, Junqing and Ji, Shucheng and Wang, Yapeng and Xia, Min and Yuan, Xiaochen.<br />
+- **FILFArch:** Huang, Junqing and Ji, Shucheng and Wang, Yapeng and Xia, Min and Yuan, Xiaochen.<br />
 "An SAM Fine-Tuning Framework With Frequency-Domain Interactive LoRA for Remote Sensing Change Detection." TGRS (2026).
 [[paper](https://ieeexplore.ieee.org/document/11329007)]
 [[code](https://github.com/juncyan/filora)]
 [2026.01]
  
-:boom:Miao Liu et al.<br />
+- Miao Liu et al.<br />
 "Settlements Extraction and Spatiotemporal Analysis with SAM and Random Forest from High-Resolution Remote Sensing." Agriculture Communications (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S2949798126000013)]
 [2026.01]
  
-:boom:**PMG-SAM:** Gao, Jixue, Xiaoyan Jiang, Anjie Wang, Yongbin Gao, Zhijun Fang, and Michael S. Lew.<br />
+- **PMG-SAM:** Gao, Jixue, Xiaoyan Jiang, Anjie Wang, Yongbin Gao, Zhijun Fang, and Michael S. Lew.<br />
 "PMG-SAM: Boosting Auto-Segmentation of SAM with Pre-Mask Guidance." Sensors (2026).
 [[paper](https://www.mdpi.com/1424-8220/26/2/365)]
 [2026.01]
  
-:boom:**TextSAM:** Xiang, Y., Xian, Y., Cairang, X. et al.<br />
+- **TextSAM:** Xiang, Y., Xian, Y., Cairang, X. et al.<br />
 "Handwritten text line segmentation with TextSAM: An enhanced segment anything model via multi-module fusion." IJDAR (2026).
 [[paper](https://link.springer.com/article/10.1007/s10032-025-00567-1)]
 [2026.01]
 
-:boom:Deboch Eyob Abera et al.<br />
+- Deboch Eyob Abera et al.<br />
 "Automated prompt-guided multi-modality cell segmentation with shape-aware classification and boundary-aware SAM adaptation." Displays (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0141938225003749)]
 [[code](https://github.com/MIXAILAB/Multi_Modality_CellSeg)]
 [2026.01]
  
-:boom:**DescriptorMedSAM:** Zhang, W., Luo, L., He, M. et al.<br />
+- **DescriptorMedSAM:** Zhang, W., Luo, L., He, M. et al.<br />
 "DescriptorMedSAM: language-image fusion with multi-aspect text guidance for medical image segmentation." Sci Rep (2026).
 [[paper](https://www.nature.com/articles/s41598-025-33843-5)]
 [[code](https://github.com/Wenj1eee/Prompt-Dimensions-of-MedSAM)]
 [2026.01]
  
-:boom:**TA-MedSAM:** Siyuan Tang et al.<br />
+- **TA-MedSAM:** Siyuan Tang et al.<br />
 "TA-MedSAM: Text-augmented improved MedSAM for pulmonary lesion segmentation." Computerized Medical Imaging and Graphics (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0895611126000017)]
 [2026.01]
