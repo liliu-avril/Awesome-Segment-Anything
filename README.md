@@ -355,6 +355,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAJ:** Helin Wang, Bowen Shi, Andros Tjandra, John Hoffman, Yi-Chiao Wu, Apoorv Vyas, Najim Dehak, Ann Lee, Wei-Ning Hsu.<br />
+"SAM Audio Judge: A Unified Multimodal Framework for Perceptual Evaluation of Audio Separation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.19702)]
+[[code](https://github.com/facebookresearch/sam-audio)]
+[2026.01]
+ 
+:boom:**DSTCS:** Yalin Luo, Shun Long, Huijin Wang, Jieyun Bai.<br />
+"DSTCS: Dual-Student Teacher Framework with Segment Anything Model for Semi-Supervised Pubic Symphysis Fetal Head Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.19446)]
+[2026.01]
+
+:boom:Puzhen Wu, Han Weng, Quan Zheng, Yi Zhan, Hewei Wang, Yiming Li, Jiahui Han, Rui Xu.<br />
+"CLIP-Guided Unsupervised Semantic-Aware Exposure Correction." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.19129)]
+[2026.01]
+
+:boom:Zeineb Dridi, Jihen Bennaceur, Amine Ben Hassouna.<br />
+"Dynamic Mask-Based Backdoor Attack Against Vision AI Models: A Case Study on Mushroom Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.18845)]
+[2026.01]
+
 :boom:**C-RADIOv4:** Mike Ranzinger, Greg Heinrich, Collin McCarthy, Jan Kautz, Andrew Tao, Bryan Catanzaro, Pavlo Molchanov.<br />
 "C-RADIOv4 (Tech Report)." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.17237)]
