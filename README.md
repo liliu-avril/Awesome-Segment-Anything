@@ -347,7 +347,7 @@ If you find our work useful in your research, please consider citing:
 [2025.11]
 
 - **Depth Anything 3:** Haotong Lin, Sili Chen, Junhao Liew, Donny Y. Chen, Zhenyu Li, Guang Shi, Jiashi Feng, Bingyi Kang.<br />
-"Depth Anything 3: Recovering the Visual Space from Any Views." ArXiv (2025).
+"Depth Anything 3: Recovering the Visual Space from Any Views." ICLR (2025).
 [[paper](https://arxiv.org/abs/2511.10647)]
 [[code](https://depth-anything-3.github.io/)]
 [2025.11]
