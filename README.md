@@ -355,6 +355,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**DeepSeek-OCR 2:** Haoran Wei, Yaofeng Sun, Yukun Li.<br />
+"DeepSeek-OCR 2: Visual Causal Flow." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.20552)]
+[[code](http://github.com/deepseek-ai/DeepSeek-OCR-2)]
+[2026.01]
 :boom:**SAJ:** Helin Wang, Bowen Shi, Andros Tjandra, John Hoffman, Yi-Chiao Wu, Apoorv Vyas, Najim Dehak, Ann Lee, Wei-Ning Hsu.<br />
 "SAM Audio Judge: A Unified Multimodal Framework for Perceptual Evaluation of Audio Separation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.19702)]
