@@ -367,7 +367,7 @@ If you find our work useful in your research, please consider citing:
 [2026.01]
 
 :boom:Puzhen Wu, Han Weng, Quan Zheng, Yi Zhan, Hewei Wang, Yiming Li, Jiahui Han, Rui Xu.<br />
-"CLIP-Guided Unsupervised Semantic-Aware Exposure Correction." ArXiv (2026).
+"CLIP-Guided Unsupervised Semantic-Aware Exposure Correction." ICASSP (2026).
 [[paper](https://arxiv.org/abs/2601.19129)]
 [2026.01]
 
