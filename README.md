@@ -347,7 +347,7 @@ If you find our work useful in your research, please consider citing:
 [2025.11]
 
 - **Depth Anything 3:** Haotong Lin, Sili Chen, Junhao Liew, Donny Y. Chen, Zhenyu Li, Guang Shi, Jiashi Feng, Bingyi Kang.<br />
-"Depth Anything 3: Recovering the Visual Space from Any Views." ICLR (2025).
+"Depth Anything 3: Recovering the Visual Space from Any Views." ICLR (2026).
 [[paper](https://arxiv.org/abs/2511.10647)]
 [[code](https://depth-anything-3.github.io/)]
 [2025.11]
@@ -355,6 +355,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**BLO-Inst:** Li Zhang, Pengtao Xie.<br />
+"BLO-Inst: Bi-Level Optimization Based Alignment of YOLO and SAM for Robust Instance Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.22061)]
+[[code](https://github.com/importZL/BLO-Inst)]
+[2026.01]
+
 :boom:**DeepSeek-OCR 2:** Haoran Wei, Yaofeng Sun, Yukun Li.<br />
 "DeepSeek-OCR 2: Visual Causal Flow." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.20552)]
