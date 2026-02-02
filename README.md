@@ -355,6 +355,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SEAL:** Seungjun Lee, Gim Hee Lee.<br />
+"Segment Any Events with Language." ICLR (2026).
+[[paper](https://arxiv.org/abs/2601.23159)]
+[[code](https://0nandon.github.io/SEAL)]
+[2026.01]
+
+:boom:**OpenVTON-Bench:** Jin Li, Tao Chen, Shuai Jiang, Weijie Wang, Jingwen Luo, Chenhui Wu.<br />
+"OpenVTON-Bench: A Large-Scale High-Resolution Benchmark for Controllable Virtual Try-On Evaluation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.22725)]
+[2026.01]
+
+ :boom:**Hive:** Kai Li, Jintao Cheng, Chang Zeng, Zijun Yan, Helin Wang, Zixiong Su, Bo Zheng, Xiaolin Hu.<br />
+"A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2601.22599)]
+[[code](https://shandaai.github.io/Hive)]
+[2026.01]
+
 :boom:**RectiFine-SAM:** Lihong Qiao et al.<br />
 "RectiFine-SAM: Feature Rectification and Boundary Refinement for Prompt-Free Medical Lesion Segmentation." ArXiv (2026).
 [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6095770)]
