@@ -355,90 +355,142 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**BLO-Inst:** Li Zhang, Pengtao Xie.<br />
+:boom:**RectiFine-SAM:** Lihong Qiao et al.<br />
+"RectiFine-SAM: Feature Rectification and Boundary Refinement for Prompt-Free Medical Lesion Segmentation." ArXiv (2026).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6095770)]
+[2026.01]
+
+:boom:Yung-Chen Cheng et al.<br />
+"Automatic pore characterization in SEM images of foams using a fine-tuned segment anything model." Materials & Design (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0264127526000997)]
+[2026.01]
+
+ :boom:**AerOSeg++:** Saikat Dutta et al.<br />
+"AerOSeg++: Scale-Aware and Texture-Guided Open-Vocabulary Segmentation with SAM Features for Remote Sensing Images." ArXiv (2026).
+[[paper](https://dl.acm.org/doi/abs/10.1145/3787522)]
+[2026.01]
+ 
+ :boom:**AutoPromptSeg:** Junan Zhu et al.<br />
+"AutoPromptSeg: Automated Decoupling of Uncertainty Prompts with SAM for semi-supervised medical image segmentation." Computerized Medical Imaging and Graphics (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S089561112600011X)]
+[2026.01]
+ 
+:boom:**Scrap-SAM-CLIP:** Guangda Bao et al.<br />
+"Scrap-SAM-CLIP: Assembling Foundation Models for Typical Shape Recognition in Scrap Classification and Rating." Sensors (2026).
+[[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC12846095/)]
+[2026.01]
+
+:boom:**HL-SAM-Seg:** Xiong, Siting and Wu, Linfeng and Zhang, Bochen and Zhang, Dejin and Tao, Yu and Tang, Yuzhi.<br />
+"HL-SAM-Seg: Complementary High- and Low-Resolution Features Based on SAM for Remote Sensing Image Semantic Segmentation." TGRS (2026).
+[[paper](https://doi.org/10.1109/TGRS.2026.3655448)]
+[2026.01]
+
+ :boom:Guo, Pengyu and Jiang, Cuicui and Long, Chenrong and Hu, Qinglei and Li, Dongyu.<br />
+"Noncooperative Spacecraft Pose Measurement Without Prior Knowledge Based on SAM2." TIM (2026).
+[[paper](https://ieeexplore.ieee.org/document/11361374)]
+[[code](https://github.com/pengyuguo1999/Spacecraft-Pose-Measurement-Without-Prior-Knowledge)]
+[2026.01]
+ 
+:boom:**KTVFR:** Guoqing Zhang et al.<br />
+"Advancing open-set object detection with SAM knowledge transfer and variational feature reconstruction." Neurocomputing (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S092523122600175X)]
+[2026.01]
+
+:boom:**PriorSAM-DBNet:** Zhang, Qiwei, Yisong Wang, Ning Li, Quanwen Jiang, and Yong He.<br />
+"PriorSAM-DBNet: A SAM-Prior-Enhanced Dual-Branch Network for Efficient Semantic Segmentation of High-Resolution Remote Sensing Images." Sensors (2026).
+[[paper](https://www.mdpi.com/1424-8220/26/2/749)]
+[2026.01]
+
+:boom:Weiping M.A.<br />
+"Study on salient object segmentation based on depth information guidance and SAM low-rank adaptation fine-tuning." ArXiv (2026).
+[[paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0340765)]
+[2026.01]
+
+- **BLO-Inst:** Li Zhang, Pengtao Xie.<br />
 "BLO-Inst: Bi-Level Optimization Based Alignment of YOLO and SAM for Robust Instance Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.22061)]
 [[code](https://github.com/importZL/BLO-Inst)]
 [2026.01]
 
-:boom:**DeepSeek-OCR 2:** Haoran Wei, Yaofeng Sun, Yukun Li.<br />
+- **DeepSeek-OCR 2:** Haoran Wei, Yaofeng Sun, Yukun Li.<br />
 "DeepSeek-OCR 2: Visual Causal Flow." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.20552)]
 [[code](http://github.com/deepseek-ai/DeepSeek-OCR-2)]
 [2026.01]
-:boom:**SAJ:** Helin Wang, Bowen Shi, Andros Tjandra, John Hoffman, Yi-Chiao Wu, Apoorv Vyas, Najim Dehak, Ann Lee, Wei-Ning Hsu.<br />
+
+- **SAJ:** Helin Wang, Bowen Shi, Andros Tjandra, John Hoffman, Yi-Chiao Wu, Apoorv Vyas, Najim Dehak, Ann Lee, Wei-Ning Hsu.<br />
 "SAM Audio Judge: A Unified Multimodal Framework for Perceptual Evaluation of Audio Separation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.19702)]
 [[code](https://github.com/facebookresearch/sam-audio)]
 [2026.01]
  
-:boom:**DSTCS:** Yalin Luo, Shun Long, Huijin Wang, Jieyun Bai.<br />
+- **DSTCS:** Yalin Luo, Shun Long, Huijin Wang, Jieyun Bai.<br />
 "DSTCS: Dual-Student Teacher Framework with Segment Anything Model for Semi-Supervised Pubic Symphysis Fetal Head Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.19446)]
 [2026.01]
 
-:boom:Puzhen Wu, Han Weng, Quan Zheng, Yi Zhan, Hewei Wang, Yiming Li, Jiahui Han, Rui Xu.<br />
+- Puzhen Wu, Han Weng, Quan Zheng, Yi Zhan, Hewei Wang, Yiming Li, Jiahui Han, Rui Xu.<br />
 "CLIP-Guided Unsupervised Semantic-Aware Exposure Correction." ICASSP (2026).
 [[paper](https://arxiv.org/abs/2601.19129)]
 [2026.01]
 
-:boom:Zeineb Dridi, Jihen Bennaceur, Amine Ben Hassouna.<br />
+- Zeineb Dridi, Jihen Bennaceur, Amine Ben Hassouna.<br />
 "Dynamic Mask-Based Backdoor Attack Against Vision AI Models: A Case Study on Mushroom Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.18845)]
 [2026.01]
 
-:boom:**C-RADIOv4:** Mike Ranzinger, Greg Heinrich, Collin McCarthy, Jan Kautz, Andrew Tao, Bryan Catanzaro, Pavlo Molchanov.<br />
+- **C-RADIOv4:** Mike Ranzinger, Greg Heinrich, Collin McCarthy, Jan Kautz, Andrew Tao, Bryan Catanzaro, Pavlo Molchanov.<br />
 "C-RADIOv4 (Tech Report)." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.17237)]
 [[code](https://github.com/NVlabs/RADIO)]
 [2026.01]
 
-:boom:**StealthMark:** Qinkai Yu, Chong Zhang, Gaojie Jin, Tianjin Huang, Wei Zhou, Wenhui Li, Xiaobo Jin, Bo Huang, Yitian Zhao, Guang Yang, Gregory Y. H. Lip, Yalin Zheng, Aline Villavicencio, Yanda Meng.<br />
+- **StealthMark:** Qinkai Yu, Chong Zhang, Gaojie Jin, Tianjin Huang, Wei Zhou, Wenhui Li, Xiaobo Jin, Bo Huang, Yitian Zhao, Guang Yang, Gregory Y. H. Lip, Yalin Zheng, Aline Villavicencio, Yanda Meng.<br />
 "StealthMark: Harmless and Stealthy Ownership Verification for Medical Segmentation via Uncertainty-Guided Backdoors." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.17107)]
 [[code](https://github.com/Qinkaiyu/StealthMark)]
 [2026.01]
 
-:boom:Rabin Dulal, Wenfeng Jia, Lihong Zheng, Jane Quinn.<br />
+- Rabin Dulal, Wenfeng Jia, Lihong Zheng, Jane Quinn.<br />
 "Agreement-Driven Multi-View 3D Reconstruction for Live Cattle Weight Estimation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.17791)]
 [2026.01]
  
-:boom:**SC-SAM:** Vi Vu, Thanh-Huy Nguyen, Tien-Thinh Nguyen, Ba-Thinh Lam, Hoang-Thien Nguyen, Tianyang Wang, Xingjian Li, Min Xu.<br />
+- **SC-SAM:** Vi Vu, Thanh-Huy Nguyen, Tien-Thinh Nguyen, Ba-Thinh Lam, Hoang-Thien Nguyen, Tianyang Wang, Xingjian Li, Min Xu.<br />
 "From Specialist to Generalist: Unlocking SAM's Learning Potential on Unlabeled Medical Images." ISBI (2026).
 [[paper](https://arxiv.org/abs/2601.17934)]
 [[code](https://github.com/vnlvi2k3/SC-SAM)]
 [2026.01]
 
-:boom:**MV-SAM:** Yoonwoo Jeong, Cheng Sun, Yu-Chiang Frank Wang, Minsu Cho, Jaesung Choe.<br />
+- **MV-SAM:** Yoonwoo Jeong, Cheng Sun, Yu-Chiang Frank Wang, Minsu Cho, Jaesung Choe.<br />
 "MV-SAM: Multi-view Promptable Segmentation using Pointmap Guidance." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.17866)]
 [[code](https://jaesung-choe.github.io/mv_sam/index.html)]
 [2026.01]
  
-:boom:Takato Yasuno.<br />
+- Takato Yasuno.<br />
 "Multi-stage Bridge Inspection System: Integrating Foundation Models with Location Anonymization." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.17254)]
 [2026.01]
 
-:boom:**MPS-CLIP:** Yifan Li, Shiying Wang, Jianqiang Huang.<br />
+- **MPS-CLIP:** Yifan Li, Shiying Wang, Jianqiang Huang.<br />
 "Multi-Perspective Subimage CLIP with Keyword Guidance for Remote Sensing Image-Text Retrieval." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2601.18190)]
 [[code](https://github.com/Lcrucial1f/MPS-CLIP)]
 [2026.01]
 
-:boom:**AutoPromptSeg:** Junan Zhu, Zhizhe Tang, Ping Ma, Zheng Liang, Chuanjian Wang.<br />
+- **AutoPromptSeg:** Junan Zhu, Zhizhe Tang, Ping Ma, Zheng Liang, Chuanjian Wang.<br />
 "AutoPromptSeg: Automated Decoupling of Uncertainty Prompts with SAM for semi-supervised medical image segmentation." Computerized Medical Imaging and Graphics (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S089561112600011X)]
 [2026.01]
 
-:boom:**AM-SAM:** Li, Y., Zhang, L., Liang, Y. et al.<br />
+- **AM-SAM:** Li, Y., Zhang, L., Liang, Y. et al.<br />
 "Am-sam: a spatially-aware prompt learning and mask calibration framework for few-shot semantic segmentation." International Journal of Machine Learning and Cybernetics (2026).
 [[paper](https://link.springer.com/article/10.1007/s13042-025-02911-7)]
 [[code](https://github.com/aierwaixi/AM-SAM)]
 [2026.01]
  
-:boom:Huanyu Li, Li Li, Hao Wang, Weibo Zhang & Peng Ren.<br />
+- Huanyu Li, Li Li, Hao Wang, Weibo Zhang & Peng Ren.<br />
 "Large Foundation Model Empowered Region-aware Underwater Image Captioning." IJCV (2026).
 [[paper](https://link.springer.com/article/10.1007/s11263-025-02650-w)]
 [2026.01]
