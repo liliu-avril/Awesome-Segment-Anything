@@ -355,6 +355,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**S^3SPOT:** Lingsong Wang, Mancheng Meng, Ziyan Wu, Terrence Chen, Fan Yang, Dinggang Shen.<br />
+"S^3POT: Contrast-Driven Face Occlusion Segmentation via Self-Supervised Prompt Learning." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.00635)]
+[[code](https://github.com/Bh-Johnny/S3SPOT)]
+[2026.02]
+
+ :boom:**Mamba-SAM:** Mohammadreza Gholipour Shahraki, Mehdi Rezaeian, Mohammad Ghasemzadeh.<br />
+"A Hybrid Mamba-SAM Architecture for Efficient 3D Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.00650)]
+[2026.02]
+ 
+:boom:**ZS-TreeSeg:** Pengyu Chen, Fangzheng Lyu, Sicheng Wang, Cuizhen Wang.<br />
+"ZS-TreeSeg: A Zero-Shot Framework for Tree Crown Instance Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.00470)]
+[2026.02]
+
+ :boom:Penghao Deng, Jidong J. Yang, Jiachen Bian.<br />
+"Cross-Paradigm Evaluation of Gaze-Based Semantic Object Identification for Intelligent Vehicles." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.01452)]
+[2026.02]
+ 
+:boom:Samuel Church, Joshua D. Warner, Danyal Maqbool, Xin Tie, Junjie Hu, Meghan G. Lubner, Tyler J. Bradshaw.<br />
+"Opportunistic Promptable Segmentation: Leveraging Routine Radiological Annotations to Guide 3D CT Lesion Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.00309)]
+[2026.02]
+
 :boom:**SEAL:** Seungjun Lee, Gim Hee Lee.<br />
 "Segment Any Events with Language." ICLR (2026).
 [[paper](https://arxiv.org/abs/2601.23159)]
