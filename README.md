@@ -355,6 +355,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**WATS-DA:** Ganggang Huang, Fasheng Wang, Binbin Wang, Hanwei Li, Mingshu Zhang, Mengyin Wang, Fuming Sun & Haojie Li.<br />
+  "Wild Animal Tracking with High-Quality Segment Anything Model and Domain Adaptation." IJCV (2026).
+  [[paper](https://link.springer.com/article/10.1007/s11263-025-02710-1)] 
+  [[code](https://github.com/Hgg12/WATS-DA)]
+  
 :boom:**S^3SPOT:** Lingsong Wang, Mancheng Meng, Ziyan Wu, Terrence Chen, Fan Yang, Dinggang Shen.<br />
 "S^3POT: Contrast-Driven Face Occlusion Segmentation via Self-Supervised Prompt Learning." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.00635)]
