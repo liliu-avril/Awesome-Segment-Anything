@@ -355,6 +355,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**FSOD-VFM:** Chen-Bin Feng, Youyang Sha, Longfei Liu, Yongjun Yu, Chi Man Vong, Xuanlong Yu, Xi Shen.<br />
+"FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion." ICLR (2026).
+[[paper](https://arxiv.org/abs/2602.03137)]
+[[code](https://intellindust-ai-lab.github.io/projects/FSOD-VFM)]
+[2026.02]
+
+:boom:**MedSAM-Agent:** Shengyuan Liu, Liuxin Bao, Qi Yang, Wanting Geng, Boyun Zheng, Chenxin Li, Wenting Chen, Houwen Peng, Yixuan Yuan.<br />
+"MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.03320)]
+[[code](https://github.com/CUHK-AIM-Group/MedSAM-Agent)]
+[2026.02]
+
 :boom:**WATS-DA:** Ganggang Huang, Fasheng Wang, Binbin Wang, Hanwei Li, Mingshu Zhang, Mengyin Wang, Fuming Sun & Haojie Li.<br />
   "Wild Animal Tracking with High-Quality Segment Anything Model and Domain Adaptation." IJCV (2026).
   [[paper](https://link.springer.com/article/10.1007/s11263-025-02710-1)] 
