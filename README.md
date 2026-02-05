@@ -355,6 +355,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**AtlasPatch:** Ahmed Alagha, Christopher Leclerc, Yousef Kotp, Omar Metwally, Calvin Moras, Peter Rentopoulos, Ghodsiyeh Rostami, Bich Ngoc Nguyen, Jumanah Baig, Abdelhakim Khellaf, Vincent Quoc-Huy Trinh, Rabeb Mizouni, Hadi Otrok, Jamal Bentahar, Mahdi S. Hosseini.<br />
+"AtlasPatch: An Efficient and Scalable Tool for Whole Slide Image Preprocessing in Computational Pathology." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.03998)]
+[[code](https://github.com/AtlasAnalyticsLab/AtlasPatch)]
+[2026.02]
+
 :boom:**FSOD-VFM:** Chen-Bin Feng, Youyang Sha, Longfei Liu, Yongjun Yu, Chi Man Vong, Xuanlong Yu, Xi Shen.<br />
 "FSOD-VFM: Few-Shot Object Detection with Vision Foundation Models and Graph Diffusion." ICLR (2026).
 [[paper](https://arxiv.org/abs/2602.03137)]
