@@ -355,6 +355,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Fast-SAM3D:** Weilun Feng, Mingqiang Wu, Zhiliang Chen, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu.<br />
+"Fast-SAM3D: 3Dfy Anything in Images but Faster." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.05293)]
+[[code](https://github.com/wlfeng0509/Fast-SAM3D)]
+[2026.02]
+
 :boom:**CPS:** Jiahao Nie, Yun Xing, Wenbin An, Qingsong Zhao, Jiawei Shao, Yap-Peng Tan, Alex C. Kot, Shijian Lu, Xuelong Li.<br />
 "Boosting SAM for Cross-Domain Few-Shot Segmentation via Conditional Point Sparsification." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.05218)]
