@@ -355,6 +355,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CPS:** Jiahao Nie, Yun Xing, Wenbin An, Qingsong Zhao, Jiawei Shao, Yap-Peng Tan, Alex C. Kot, Shijian Lu, Xuelong Li.<br />
+"Boosting SAM for Cross-Domain Few-Shot Segmentation via Conditional Point Sparsification." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.05218)]
+[2026.02]
+
 :boom:**AtlasPatch:** Ahmed Alagha, Christopher Leclerc, Yousef Kotp, Omar Metwally, Calvin Moras, Peter Rentopoulos, Ghodsiyeh Rostami, Bich Ngoc Nguyen, Jumanah Baig, Abdelhakim Khellaf, Vincent Quoc-Huy Trinh, Rabeb Mizouni, Hadi Otrok, Jamal Bentahar, Mahdi S. Hosseini.<br />
 "AtlasPatch: An Efficient and Scalable Tool for Whole Slide Image Preprocessing in Computational Pathology." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.03998)]
