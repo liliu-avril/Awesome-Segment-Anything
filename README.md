@@ -355,6 +355,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CPAC-SAM:** Juzheng Miao and Cheng Chen and Yuchen Yuan and Quanzheng Li and Pheng-Ann Heng.<br />
+"SAM-Driven Cross Prompting with Adaptive Sampling Consistency for Semi-supervised Medical Image Segmentation." Medical Image Analysis(2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1361841526000423)]
+[[code](https://github.com/JuzhengMiao/CPAC-SAM)]
+[2026.02]
+
 :boom:**Fast-SAM3D:** Weilun Feng, Mingqiang Wu, Zhiliang Chen, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu.<br />
 "Fast-SAM3D: 3Dfy Anything in Images but Faster." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.05293)]
