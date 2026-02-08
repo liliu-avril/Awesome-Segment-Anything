@@ -361,6 +361,42 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/JuzhengMiao/CPAC-SAM)]
 [2026.02]
 
+:boom:**SAMM:** Jiahao Tu, et al.<br />
+"SAMM: A General-Purpose Segmentation Model for Material Micrographs Based on the Segment Anything Model 2." Advanced Powder Materials (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S2772834X26000126)]
+[2026.02]
+
+:boom:**SAM2-PFF:** Henghao Sun, et al.<br />
+"SAM2-PFF: Bridging SAM2 and Progressive Feature Fusion for Robust Indoor Salient Object Detection." ArXiv (2026).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6153643)]
+[[code](https://github.com/fearless0721/SAM-PFF)]
+[2026.02]
+
+:boom:**Semi-MedSAM:** Junhao Li, et al.<br />
+"Semi-MedSAM: Adapting SAM-assisted semi-supervised multi-modality learning for medical endoscopic image segmentation." Pattern Recognition (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326001718)]
+[2026.02]
+ 
+:boom:**SamFusion:** Yucheng Zhang, You Ma, Lin Chai.<br />
+"SamFusion: A model for multimodal image fusion guided by SAM’s rich semantics." Infrared Physics & Technology (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449526000733)]
+[2026.02]
+
+:boom:Takahashi, H., Kato, T., Yamashita, M. et al.<br />
+"Floating object removal in underwater ROV video images using segment anything model and generative image in-painting." Artif Life Robotics (2026).
+[[paper](https://link.springer.com/article/10.1007/s10015-025-01100-7)]
+[2026.02]
+
+:boom:Binzagr, Faisal, and Majed Hariri.<br />
+"Foundation-Model-Driven Skin Lesion Segmentation and Classification Using SAM-Adapters and Vision Transformers." Diagnostics (2026).
+[[paper](https://www.mdpi.com/2075-4418/16/3/468)]
+[2026.02]
+ 
+:boom:**StructSAM:** Liu, M., Yao, Y., Jia, J. et al.<br />
+"StructSAM: structure-aware prompt adaptation for robust lung cancer lesion segmentation in CT." npj Digit. Med.(2026).
+[[paper](https://www.nature.com/articles/s41746-025-02306-6)]
+[2026.02]
+
 - **Fast-SAM3D:** Weilun Feng, Mingqiang Wu, Zhiliang Chen, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu.<br />
 "Fast-SAM3D: 3Dfy Anything in Images but Faster." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.05293)]
