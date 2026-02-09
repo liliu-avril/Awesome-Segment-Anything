@@ -355,6 +355,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ConceptBank:** Gensheng Pei, Xiruo Jiang, Yazhou Yao, Xiangbo Shu, Fumin Shen, Byeungwoo Jeon.<br />
+"Taming SAM3 in the Wild: A Concept Bank for Open-Vocabulary Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.06333)]
+[[code](https://github.com/pgsmall/ConceptBank)]
+[2026.02]
+
+ :boom:**AdaptOVCD:** Mingyu Dou, Shi Qiu, Ming Hu, Yifan Chen, Huping Ye, Xiaohan Liao, Zhe Sun.<br />
+"AdaptOVCD: Training-Free Open-Vocabulary Remote Sensing Change Detection via Adaptive Information Fusion." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.06529)]
+[[code](https://github.com/Dmygithub/AdaptOVCD)]
+[2026.02]
+ 
+:boom:**SPDA-SAM:** Yihan Shang, Wei Wang, Chao Huang, Xinghui Dong.<br />
+"SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.06335)]
+[2026.02]
+
 :boom:**CPAC-SAM:** Juzheng Miao and Cheng Chen and Yuchen Yuan and Quanzheng Li and Pheng-Ann Heng.<br />
 "SAM-Driven Cross Prompting with Adaptive Sampling Consistency for Semi-supervised Medical Image Segmentation." Medical Image Analysis(2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1361841526000423)]
