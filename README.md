@@ -397,6 +397,10 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://www.nature.com/articles/s41746-025-02306-6)]
 [2026.02]
 
+:boom:Raza, Tayyab and Ul Haq, Muhammad Arslan and Qanitah Naqvi, Syeda and Ramzan, Hafiz Arslan and Rehman, Abdul and Ramzan, Sadia.<br />
+"Brain Tumor Segmentation and Classification Using Multi-Scale SAM and VGG16." ICoDT2 (2026).[[paper](https://ieeexplore.ieee.org/abstract/document/11360712)]
+[2026.02]
+
 - **Fast-SAM3D:** Weilun Feng, Mingqiang Wu, Zhiliang Chen, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu.<br />
 "Fast-SAM3D: 3Dfy Anything in Images but Faster." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.05293)]
