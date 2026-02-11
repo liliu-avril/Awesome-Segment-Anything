@@ -355,6 +355,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+ :boom:**Efficient-SAM2:** Jing Zhang, Zhikai Li, Xuewen Liu, Qingyi Gu.<br />
+"Efficient-SAM2: Accelerating SAM2 with Object-Aware Visual Encoding and Memory Retrieval." ICLR (2026).
+[[paper](https://arxiv.org/abs/2602.08224)]
+[[code](https://github.com/jingjing0419/Efficient-SAM2)]
+[2026.02]
+ 
+:boom:**RECITYGEN :** Di Mo, Mingyang Sun, Chengxiu Yin, Runjia Tian, Yanhong Wu, Liyan Xu.<br />
+"RECITYGEN -- Interactive and Generative Participatory Urban Design Tool with Latent Diffusion and Segment Anything." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.07057)]
+[[code](https://github.com/Myangsun/Streetview-app)]
+[2026.02]
+
+:boom:Thomas H. Schmitt, Maximilian Bundscherer, Tobias Bocklet.<br />
+"Learning to Detect Baked Goods with Limited Supervision." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.09979)]
+[2026.02]
+
 :boom:**ConceptBank:** Gensheng Pei, Xiruo Jiang, Yazhou Yao, Xiangbo Shu, Fumin Shen, Byeungwoo Jeon.<br />
 "Taming SAM3 in the Wild: A Concept Bank for Open-Vocabulary Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.06333)]
