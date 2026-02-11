@@ -372,6 +372,21 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2602.09979)]
 [2026.02]
 
+ :boom:**IR-SIS:** Ange Lou, Yamin Li, Qi Chang, Nan Xi, Luyuan Xie, Zichao Li, Tianyu Luan.<br />
+"VLM-Guided Iterative Refinement for Surgical Image Segmentation with Foundation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.09252)]
+[2026.02]
+ 
+:boom:Yan Luo, Advaith Ravishankar, Serena Liu, Yutong Yang, Mengyu Wang.<br />
+"Single-Slice-to-3D Reconstruction in Medical Imaging and Natural Objects: A Comparative Benchmark with SAM 3D." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.09407)]
+[2026.02]
+
+:boom:**GenSeg-R1:** Sandesh Hegde, Jaison Saji Chacko, Debarshi Banerjee, Uma Mahesh.<br />
+"GenSeg-R1: RL-Driven Vision-Language Grounding for Fine-Grained Referring Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.09701)]
+[2026.02]
+
 :boom:**ConceptBank:** Gensheng Pei, Xiruo Jiang, Yazhou Yao, Xiangbo Shu, Fumin Shen, Byeungwoo Jeon.<br />
 "Taming SAM3 in the Wild: A Concept Bank for Open-Vocabulary Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.06333)]
