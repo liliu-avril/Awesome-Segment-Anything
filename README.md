@@ -355,7 +355,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
- :boom:**Efficient-SAM2:** Jing Zhang, Zhikai Li, Xuewen Liu, Qingyi Gu.<br />
+:boom:**SAM3-LiteText:** Chengxi Zeng, Yuxuan Jiang, Ge Gao, Shuai Wang, Duolikun Danier, Bin Zhu, Stevan Rudinac, David Bull, Fan Zhang.<br />
+"SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.12173)]
+[[code](https://github.com/SimonZeng7108/efficientsam3/tree/sam3_litetext)]
+[2026.02]
+
+:boom:**DBTANet:** Yun-Cheng Li, Sen Lei, Heng-Chao Li, Ke Li.<br />
+"A Dual-Branch Framework for Semantic Change Detection with Boundary and Temporal Awareness." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.11466)]
+[2026.02]
+
+ :boom:**Hi-SAM:** Pingjun Pan, Tingting Zhou, Peiyao Lu, Tingting Fei, Hongxiang Chen, Chuanjiang Luo.<br />
+"Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.11799)]
+[2026.02]
+ 
+:boom:Yiming Zhou, Xuenjie Xie, Panfeng Li, Albrecht Kunz, Ahmad Osman, Xavier Maldague.<br />
+"Efficient Segment Anything with Depth-Aware Fusion and Limited Training Data." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.11804)]
+[2026.02]
+
+:boom:**Efficient-SAM2:** Jing Zhang, Zhikai Li, Xuewen Liu, Qingyi Gu.<br />
 "Efficient-SAM2: Accelerating SAM2 with Object-Aware Visual Encoding and Memory Retrieval." ICLR (2026).
 [[paper](https://arxiv.org/abs/2602.08224)]
 [[code](https://github.com/jingjing0419/Efficient-SAM2)]
@@ -372,7 +393,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2602.09979)]
 [2026.02]
 
- :boom:**IR-SIS:** Ange Lou, Yamin Li, Qi Chang, Nan Xi, Luyuan Xie, Zichao Li, Tianyu Luan.<br />
+:boom:**IR-SIS:** Ange Lou, Yamin Li, Qi Chang, Nan Xi, Luyuan Xie, Zichao Li, Tianyu Luan.<br />
 "VLM-Guided Iterative Refinement for Surgical Image Segmentation with Foundation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.09252)]
 [2026.02]
