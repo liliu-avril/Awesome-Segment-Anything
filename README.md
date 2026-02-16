@@ -355,6 +355,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Julius Pesonen, Stefan Rua, Josef Taher, Niko Koivumäki, Xiaowei Yu, Eija Honkavaara.<br />
+"Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.13022)]
+[2026.02]
+
 :boom:**SAM3-LiteText:** Chengxi Zeng, Yuxuan Jiang, Ge Gao, Shuai Wang, Duolikun Danier, Bin Zhu, Stevan Rudinac, David Bull, Fan Zhang.<br />
 "SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.12173)]
