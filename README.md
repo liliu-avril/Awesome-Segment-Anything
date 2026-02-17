@@ -355,6 +355,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**TikArt:** Hao Ding, Zhichuan Yang, Weijie Ge, Ziqin Gao, Chaoyi Lu, Lei Zhao.<br />
+"TikArt: Aperture-Guided Observation for Fine-Grained Visual Reasoning via Reinforcement Learning." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.14482)]
+[2026.02]
+ 
+:boom:**SAM4Dcap:** Li Wang, HaoYu Wang, Xi Chen, ZeKun Jiang, Kang Li, Jian Li.<br />
+"SAM4Dcap: Training-free Biomechanical Twin System from Monocular Video." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.13760)]
+[[code](https://github.com/wanglihx/SAM4Dcap-core)]
+[2026.02]
+
+ :boom:**SAILS:** Shishir Muralidhara, Didier Stricker, René Schuster.<br />
+"SAILS: Segment Anything with Incrementally Learned Semantics for Task-Invariant and Training-Free Continual Learning." IEEE CAI (2026).
+[[paper](https://arxiv.org/abs/2602.14767)]
+[2026.02]
+
 :boom:Julius Pesonen, Stefan Rua, Josef Taher, Niko Koivumäki, Xiaowei Yu, Eija Honkavaara.<br />
 "Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.13022)]
