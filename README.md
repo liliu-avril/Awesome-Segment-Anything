@@ -355,6 +355,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Phoenix Yu, Tilo Burghardt, Andrew W Dowsey, Neill W Campbell.<br />
+"Automated Re-Identification of Holstein-Friesian Cattle in Dense Crowds." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.15962)]
+[[code](https://phoenix4582.github.io/dazzlecows.github.io/)]
+[2026.02]
+
 :boom:**TikArt:** Hao Ding, Zhichuan Yang, Weijie Ge, Ziqin Gao, Chaoyi Lu, Lei Zhao.<br />
 "TikArt: Aperture-Guided Observation for Fine-Grained Visual Reasoning via Reinforcement Learning." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.14482)]
