@@ -355,6 +355,56 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+ :boom:Hadi Shokati, et al.<br />
+"Rapid flood mapping from aerial imagery using fine-tuned SAM and ResNet-backboned U-Net." Hydrology and Earth System Sciences (2026).
+[[paper](https://hess.copernicus.org/articles/30/743/2026/)]
+[2026.02]
+ 
+:boom:Lin, C., Yang, H., Wu, H. et al.<br />
+"Horizontal nystagmus identification with joint SAM segmentation and time series classification." Eur Arch Otorhinolaryngol (2026).
+[[paper](https://link.springer.com/article/10.1007/s00405-025-09950-4)]
+[2026.02]
+
+ :boom:**LDFSAM:** Xuanbo Zhao, et al.<br />
+"LDFSAM: Localization Distillation-Enhanced Feature Prompting SAM for Medical Image Segmentation." Journal of Imaging (2026).
+[[paper](https://www.mdpi.com/2313-433X/12/2/74)]
+[2026.02]
+ 
+:boom:**DCS:** Yan Wan, Yingqi Lang, and Li Yao.<br />
+"DCS: A Zero-Shot Anomaly Detection Framework with DINO-CLIP-SAM Integration." Applied Sciences (2026).
+[[paper](https://www.mdpi.com/2076-3417/16/4/1836)]
+[2026.02]
+
+:boom:**DAS-SAM:** Chen, Z., Zhou, N., Fan, Y. et al.<br />
+"DAS-SAM: fine-tuning SAM towards drivable area segmentation via efficient multi-scale traffic scene-aware adaptation." Vis. Intell.(2026).
+[[paper](https://link.springer.com/article/10.1007/s44267-026-00109-1)]
+[2026.02]
+
+ :boom:**SAM-IAD:** Yichi Chen, et al.<br />
+"SAM-IAD: Injecting specific knowledge into SAM for industrial anomaly detection." KBS (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0950705126002571)]
+[2026.02]
+ 
+:boom:**SynSAM:** Krishnan, C., Onuoha, E., Hung, A. et al.<br />
+"SynSAM: a hybrid synchronous learning framework with knowledge retention for prostate zonal segmentation leveraging the segment anything model." Med Biol Eng Comput (2026).
+[[paper](https://link.springer.com/article/10.1007/s11517-026-03522-2)]
+[2026.02]
+
+:boom:**HCCP-SAM2:** Rui Zhai, et al.<br />
+"SAM2-driven dual-teacher framework using hierarchical cross-slice context for semi-supervised 3D medical image segmentation." Neurocomputing (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226005047)]
+[2026.02]
+
+ :boom:Yili Yang, et al.<br />
+"Keeping pace with a changing planet: An interactive segmentation framework for refining delineations of dynamic Earth features with the Segment Anything Model." International Journal of Applied Earth Observation and Geoinformation (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1569843226001032)]
+[2026.02]
+ 
+:boom:**LG-SAM:** Chen Yi, et al.<br />
+"Clinically oriented LG-SAM for lung CT tumor segmentation with 2D training achieving 3D-level performance." Biomedical Signal Processing and Control(2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809426004751)]
+[2026.02]
+
 :boom:**MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
 "MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.18006)]
