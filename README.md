@@ -355,146 +355,158 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:Phoenix Yu, Tilo Burghardt, Andrew W Dowsey, Neill W Campbell.<br />
+:boom:**MUOT-3M:** Ahsan Baidar Bakht, Mohamad Alansari, Muhayy Ud Din, Muzammal Naseer, Sajid Javed, Irfan Hussain, Jiri Matas, Arif Mahmood.<br />
+"MUOT-3M: A 3 Million Frame Multimodal Underwater Benchmark and the MUTrack Tracking Method ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.18006)]
+[[code](https://github.com/AhsanBaidar/MUOT-3M_Dataset)]
+[2026.02]
+ 
+:boom:Jose Sosa, Danila Rukhovich, Anis Kacem, Djamila Aouada.<br />
+"Enabling Training-Free Text-Based Remote Sensing Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.17799)]
+[[code](https://github.com/josesosajs/trainfree-rs-segmentation)]
+[2026.02]
+
+- Phoenix Yu, Tilo Burghardt, Andrew W Dowsey, Neill W Campbell.<br />
 "Automated Re-Identification of Holstein-Friesian Cattle in Dense Crowds." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.15962)]
 [[code](https://phoenix4582.github.io/dazzlecows.github.io/)]
 [2026.02]
 
-:boom:**TikArt:** Hao Ding, Zhichuan Yang, Weijie Ge, Ziqin Gao, Chaoyi Lu, Lei Zhao.<br />
+- **TikArt:** Hao Ding, Zhichuan Yang, Weijie Ge, Ziqin Gao, Chaoyi Lu, Lei Zhao.<br />
 "TikArt: Aperture-Guided Observation for Fine-Grained Visual Reasoning via Reinforcement Learning." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.14482)]
 [2026.02]
  
-:boom:**SAM4Dcap:** Li Wang, HaoYu Wang, Xi Chen, ZeKun Jiang, Kang Li, Jian Li.<br />
+- **SAM4Dcap:** Li Wang, HaoYu Wang, Xi Chen, ZeKun Jiang, Kang Li, Jian Li.<br />
 "SAM4Dcap: Training-free Biomechanical Twin System from Monocular Video." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.13760)]
 [[code](https://github.com/wanglihx/SAM4Dcap-core)]
 [2026.02]
 
- :boom:**SAILS:** Shishir Muralidhara, Didier Stricker, René Schuster.<br />
+- **SAILS:** Shishir Muralidhara, Didier Stricker, René Schuster.<br />
 "SAILS: Segment Anything with Incrementally Learned Semantics for Task-Invariant and Training-Free Continual Learning." IEEE CAI (2026).
 [[paper](https://arxiv.org/abs/2602.14767)]
 [2026.02]
 
-:boom:Julius Pesonen, Stefan Rua, Josef Taher, Niko Koivumäki, Xiaowei Yu, Eija Honkavaara.<br />
+- Julius Pesonen, Stefan Rua, Josef Taher, Niko Koivumäki, Xiaowei Yu, Eija Honkavaara.<br />
 "Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.13022)]
 [2026.02]
 
-:boom:**SAM3-LiteText:** Chengxi Zeng, Yuxuan Jiang, Ge Gao, Shuai Wang, Duolikun Danier, Bin Zhu, Stevan Rudinac, David Bull, Fan Zhang.<br />
+- **SAM3-LiteText:** Chengxi Zeng, Yuxuan Jiang, Ge Gao, Shuai Wang, Duolikun Danier, Bin Zhu, Stevan Rudinac, David Bull, Fan Zhang.<br />
 "SAM3-LiteText: An Anatomical Study of the SAM3 Text Encoder for Efficient Vision-Language Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.12173)]
 [[code](https://github.com/SimonZeng7108/efficientsam3/tree/sam3_litetext)]
 [2026.02]
 
-:boom:**DBTANet:** Yun-Cheng Li, Sen Lei, Heng-Chao Li, Ke Li.<br />
+- **DBTANet:** Yun-Cheng Li, Sen Lei, Heng-Chao Li, Ke Li.<br />
 "A Dual-Branch Framework for Semantic Change Detection with Boundary and Temporal Awareness." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.11466)]
 [2026.02]
 
- :boom:**Hi-SAM:** Pingjun Pan, Tingting Zhou, Peiyao Lu, Tingting Fei, Hongxiang Chen, Chuanjiang Luo.<br />
+- **Hi-SAM:** Pingjun Pan, Tingting Zhou, Peiyao Lu, Tingting Fei, Hongxiang Chen, Chuanjiang Luo.<br />
 "Hi-SAM: A Hierarchical Structure-Aware Multi-modal Framework for Large-Scale Recommendation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.11799)]
 [2026.02]
  
-:boom:Yiming Zhou, Xuenjie Xie, Panfeng Li, Albrecht Kunz, Ahmad Osman, Xavier Maldague.<br />
+- Yiming Zhou, Xuenjie Xie, Panfeng Li, Albrecht Kunz, Ahmad Osman, Xavier Maldague.<br />
 "Efficient Segment Anything with Depth-Aware Fusion and Limited Training Data." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.11804)]
 [2026.02]
 
-:boom:**Efficient-SAM2:** Jing Zhang, Zhikai Li, Xuewen Liu, Qingyi Gu.<br />
+- **Efficient-SAM2:** Jing Zhang, Zhikai Li, Xuewen Liu, Qingyi Gu.<br />
 "Efficient-SAM2: Accelerating SAM2 with Object-Aware Visual Encoding and Memory Retrieval." ICLR (2026).
 [[paper](https://arxiv.org/abs/2602.08224)]
 [[code](https://github.com/jingjing0419/Efficient-SAM2)]
 [2026.02]
  
-:boom:**RECITYGEN :** Di Mo, Mingyang Sun, Chengxiu Yin, Runjia Tian, Yanhong Wu, Liyan Xu.<br />
+- **RECITYGEN:** Di Mo, Mingyang Sun, Chengxiu Yin, Runjia Tian, Yanhong Wu, Liyan Xu.<br />
 "RECITYGEN -- Interactive and Generative Participatory Urban Design Tool with Latent Diffusion and Segment Anything." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.07057)]
 [[code](https://github.com/Myangsun/Streetview-app)]
 [2026.02]
 
-:boom:Thomas H. Schmitt, Maximilian Bundscherer, Tobias Bocklet.<br />
+- Thomas H. Schmitt, Maximilian Bundscherer, Tobias Bocklet.<br />
 "Learning to Detect Baked Goods with Limited Supervision." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.09979)]
 [2026.02]
 
-:boom:**IR-SIS:** Ange Lou, Yamin Li, Qi Chang, Nan Xi, Luyuan Xie, Zichao Li, Tianyu Luan.<br />
+- **IR-SIS:** Ange Lou, Yamin Li, Qi Chang, Nan Xi, Luyuan Xie, Zichao Li, Tianyu Luan.<br />
 "VLM-Guided Iterative Refinement for Surgical Image Segmentation with Foundation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.09252)]
 [2026.02]
  
-:boom:Yan Luo, Advaith Ravishankar, Serena Liu, Yutong Yang, Mengyu Wang.<br />
+- Yan Luo, Advaith Ravishankar, Serena Liu, Yutong Yang, Mengyu Wang.<br />
 "Single-Slice-to-3D Reconstruction in Medical Imaging and Natural Objects: A Comparative Benchmark with SAM 3D." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.09407)]
 [2026.02]
 
-:boom:**GenSeg-R1:** Sandesh Hegde, Jaison Saji Chacko, Debarshi Banerjee, Uma Mahesh.<br />
+- **GenSeg-R1:** Sandesh Hegde, Jaison Saji Chacko, Debarshi Banerjee, Uma Mahesh.<br />
 "GenSeg-R1: RL-Driven Vision-Language Grounding for Fine-Grained Referring Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.09701)]
 [2026.02]
 
-:boom:**ConceptBank:** Gensheng Pei, Xiruo Jiang, Yazhou Yao, Xiangbo Shu, Fumin Shen, Byeungwoo Jeon.<br />
+- **ConceptBank:** Gensheng Pei, Xiruo Jiang, Yazhou Yao, Xiangbo Shu, Fumin Shen, Byeungwoo Jeon.<br />
 "Taming SAM3 in the Wild: A Concept Bank for Open-Vocabulary Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.06333)]
 [[code](https://github.com/pgsmall/ConceptBank)]
 [2026.02]
 
- :boom:**AdaptOVCD:** Mingyu Dou, Shi Qiu, Ming Hu, Yifan Chen, Huping Ye, Xiaohan Liao, Zhe Sun.<br />
+- **AdaptOVCD:** Mingyu Dou, Shi Qiu, Ming Hu, Yifan Chen, Huping Ye, Xiaohan Liao, Zhe Sun.<br />
 "AdaptOVCD: Training-Free Open-Vocabulary Remote Sensing Change Detection via Adaptive Information Fusion." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.06529)]
 [[code](https://github.com/Dmygithub/AdaptOVCD)]
 [2026.02]
  
-:boom:**SPDA-SAM:** Yihan Shang, Wei Wang, Chao Huang, Xinghui Dong.<br />
+- **SPDA-SAM:** Yihan Shang, Wei Wang, Chao Huang, Xinghui Dong.<br />
 "SPDA-SAM: A Self-prompted Depth-Aware Segment Anything Model for Instance Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.06335)]
 [2026.02]
 
-:boom:**CPAC-SAM:** Juzheng Miao and Cheng Chen and Yuchen Yuan and Quanzheng Li and Pheng-Ann Heng.<br />
+- **CPAC-SAM:** Juzheng Miao and Cheng Chen and Yuchen Yuan and Quanzheng Li and Pheng-Ann Heng.<br />
 "SAM-Driven Cross Prompting with Adaptive Sampling Consistency for Semi-supervised Medical Image Segmentation." Medical Image Analysis(2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1361841526000423)]
 [[code](https://github.com/JuzhengMiao/CPAC-SAM)]
 [2026.02]
 
-:boom:**SAMM:** Jiahao Tu, et al.<br />
+- **SAMM:** Jiahao Tu, et al.<br />
 "SAMM: A General-Purpose Segmentation Model for Material Micrographs Based on the Segment Anything Model 2." Advanced Powder Materials (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S2772834X26000126)]
 [2026.02]
 
-:boom:**SAM2-PFF:** Henghao Sun, et al.<br />
+- **SAM2-PFF:** Henghao Sun, et al.<br />
 "SAM2-PFF: Bridging SAM2 and Progressive Feature Fusion for Robust Indoor Salient Object Detection." ArXiv (2026).
 [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6153643)]
 [[code](https://github.com/fearless0721/SAM-PFF)]
 [2026.02]
 
-:boom:**Semi-MedSAM:** Junhao Li, et al.<br />
+- **Semi-MedSAM:** Junhao Li, et al.<br />
 "Semi-MedSAM: Adapting SAM-assisted semi-supervised multi-modality learning for medical endoscopic image segmentation." Pattern Recognition (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0031320326001718)]
 [2026.02]
  
-:boom:**SamFusion:** Yucheng Zhang, You Ma, Lin Chai.<br />
+- **SamFusion:** Yucheng Zhang, You Ma, Lin Chai.<br />
 "SamFusion: A model for multimodal image fusion guided by SAM’s rich semantics." Infrared Physics & Technology (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1350449526000733)]
 [2026.02]
 
-:boom:Takahashi, H., Kato, T., Yamashita, M. et al.<br />
+- Takahashi, H., Kato, T., Yamashita, M. et al.<br />
 "Floating object removal in underwater ROV video images using segment anything model and generative image in-painting." Artif Life Robotics (2026).
 [[paper](https://link.springer.com/article/10.1007/s10015-025-01100-7)]
 [2026.02]
 
-:boom:Binzagr, Faisal, and Majed Hariri.<br />
+- Binzagr, Faisal, and Majed Hariri.<br />
 "Foundation-Model-Driven Skin Lesion Segmentation and Classification Using SAM-Adapters and Vision Transformers." Diagnostics (2026).
 [[paper](https://www.mdpi.com/2075-4418/16/3/468)]
 [2026.02]
- 
-:boom:**StructSAM:** Liu, M., Yao, Y., Jia, J. et al.<br />
+
+- **StructSAM:** Liu, M., Yao, Y., Jia, J. et al.<br />
 "StructSAM: structure-aware prompt adaptation for robust lung cancer lesion segmentation in CT." npj Digit. Med.(2026).
 [[paper](https://www.nature.com/articles/s41746-025-02306-6)]
 [2026.02]
 
-:boom:Raza, Tayyab and Ul Haq, Muhammad Arslan and Qanitah Naqvi, Syeda and Ramzan, Hafiz Arslan and Rehman, Abdul and Ramzan, Sadia.<br />
+- Raza, Tayyab and Ul Haq, Muhammad Arslan and Qanitah Naqvi, Syeda and Ramzan, Hafiz Arslan and Rehman, Abdul and Ramzan, Sadia.<br />
 "Brain Tumor Segmentation and Classification Using Multi-Scale SAM and VGG16." ICoDT2 (2026).[[paper](https://ieeexplore.ieee.org/abstract/document/11360712)]
 [2026.02]
 
