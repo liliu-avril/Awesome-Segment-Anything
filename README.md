@@ -355,6 +355,58 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Yida Lin, Bing Xue, Mengjie Zhang, Sam Schofield, Richard Green.<br />
+"Progressive Per-Branch Depth Optimization for DEFOM-Stereo and SAM3 Joint Analysis in UAV Forestry Applications." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.20539)]
+[2026.02]
+
+:boom:**CAD-Prompted SAM3:** Zhenran Tang, Rohan Nagabhirava, Changliu Liu.<br />
+"CAD-Prompted SAM3: Geometry-Conditioned Instance Segmentation for Industrial Objects." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.20551)]
+[2026.02]
+
+ :boom:**YOLO–SAM2:** Shiyu Liu, Dylan Lester, Husnu Narman, Ammar Alzarrad, Pingping Zhu.<br />
+"Depth-Enhanced YOLO-SAM2 Detection for Reliable Ballast Insufficiency Identification ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.18961)]
+[2026.02]
+ 
+:boom:**SMBlurDetect:** Ganesh Samarth, Sibendu Paul, Solale Tabarestani, Caren Chen .<br />
+"Subtle Motion Blur Detection and Segmentation from Static Image Artworks." WACV (2026).
+[[paper](https://arxiv.org/abs/2602.18720)]
+[2026.02]
+
+:boom:**TactEx:** Felix Verstraete, Lan Wei, Wen Fan, Dandan Zhang.<br />
+"TactEx: An Explainable Multimodal Robotic Interaction Framework for Human-Like Touch and Hardness Estimation." ICRA (2026).
+[[paper](https://arxiv.org/abs/2602.18967)]
+[2026.02]
+ 
+:boom:**SegMoTE:** Yujie Lu, Jingwen Li, Sibo Ju, Yanzhou Su, he yao, Yisong Liu, Min Zhu, Junlong Cheng.<br />
+"SegMoTE: Token-Level Mixture of Experts for Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.19213)]
+[2026.02]
+
+ :boom:**WOFTSAM:** Jonas Serych, Jiri Matas.<br />
+"Accurate Planar Tracking With Robust Re-Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.19624)]
+[[code](https://github.com/serycjon/WOFTSAM)]
+[2026.02]
+ 
+:boom:**DSS:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.<br />
+"Discover, Segment, and Select: A Progressive Mechanism for Zero-shot Camouflaged Object Segmentation." CVPR (2026).
+[[paper](https://arxiv.org/abs/2602.19944)]
+[2026.02]
+
+ :boom:**SegSEM:** Da Chen, Guangyu Hu, Kaihong Xu, Kaichao Liang, Songjiang Li, Wei Yang, XiangYu Wen, Mingxuan Yuan.<br />
+"SegSEM: Enabling and Enhancing SAM2 for SEM Contour Extraction." ISCAS  (2026).
+[[paper](https://arxiv.org/abs/2602.20471)]
+[2026.02]
+ 
+:boom:**CL-MC:** Huayu Wang, Bahaa Alattar, Cheng-Yen Yang, Hsiang-Wei Huang, Jung Heon Kim, Linda Shapiro, Nathan White, Jenq-Neng Hwang.<br />
+"Detector-in-the-Loop Tracking: Active Memory Rectification for Stable Glottic Opening Localization." MIDL (2026).
+[[paper](https://arxiv.org/abs/2602.19380)]
+[[code](https://github.com/huayuww/CL-MR)]
+[2026.02]
+
  :boom:Hadi Shokati, et al.<br />
 "Rapid flood mapping from aerial imagery using fine-tuned SAM and ResNet-backboned U-Net." Hydrology and Earth System Sciences (2026).
 [[paper](https://hess.copernicus.org/articles/30/743/2026/)]
