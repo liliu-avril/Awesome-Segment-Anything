@@ -355,6 +355,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Katja Kossira, Yunxuan Zhu, Jürgen Seiler, André Kaup.<br />
+"Towards Object Segmentation Mask Selection Using Specular Reflections." VCIP (2026).
+[[paper](https://arxiv.org/abs/2602.21777)]
+[2026.02]
+
+ :boom:**L2RP:** Lokesha Rasanjalee, Jin Lin Tan, Dileepa Pitawela, Rajvinder Singh, Hsiang-Ting Chen.<br />
+"Understanding Annotation Error Propagation and Learning an Adaptive Policy for Expert Intervention in Barrett's Video Segmentation." ISBI  (2026).
+[[paper](https://arxiv.org/abs/2602.21855)]
+[2026.02]
+
 :boom:Yida Lin, Bing Xue, Mengjie Zhang, Sam Schofield, Richard Green.<br />
 "Progressive Per-Branch Depth Optimization for DEFOM-Stereo and SAM3 Joint Analysis in UAV Forestry Applications." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.20539)]
