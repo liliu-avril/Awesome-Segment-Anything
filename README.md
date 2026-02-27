@@ -355,6 +355,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Interactive Medical-SAM2 GUI:** Woojae Hong, Jong Ha Hwang, Jiyong Chung, Joongyeon Choi, Hyunngun Kim, Yong Hwy Kim.<br />
+"Interactive Medical-SAM2 GUI: A Napari-based semi-automatic annotation tool for medical images." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2602.22649)]
+[[code](https://github.com/SKKU-IBE/Medical-SAM2GUI/)]
+[2026.02]
+
 :boom:Katja Kossira, Yunxuan Zhu, Jürgen Seiler, André Kaup.<br />
 "Towards Object Segmentation Mask Selection Using Specular Reflections." VCIP (2026).
 [[paper](https://arxiv.org/abs/2602.21777)]
