@@ -355,6 +355,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM2-FNet:** Shaoli Li, Zihua Zhang, Dejian Li, Bin Liu, Luyao He, Siying Guo.<br />
+"SAM2-FNet: Medical Image Lesion Segmentation Model Based on Frequency Domain Expert Fusion Network." IMA (2026).
+[[paper](https://doi.org/10.1002/ima.70319)]
+[[code](https://github.com/niubihonghong12345/SAM2-FNET)]
+[2026.02]
+
+:boom:**SAM-Zero3D:** Zhang, Dejun and Xu, Shifeng and Bai, Yanzi and Wu, Yiqi and Liu, Jun.<br />
+"SAM-Zero3D: Extending Segment Anything to Zero Shot 3D Scene Segmentation via Iterative Global–Local Interaction." TCSVT (2026).
+[[paper](https://ieeexplore.ieee.org/document/11406142)]
+[2026.02]
+
+:boom:**SAM2-ARAFNet:** Shi, W., Ding, J., Lei, J. et al.<br />
+"SAM2-ARAFNet: adapting SAM2 with an attention-enhanced residual ASPP fusion network for high-resolution remote sensing semantic segmentation." Sci Rep(2026).
+[[paper](https://www.nature.com/articles/s41598-026-38047-z)]
+[2026.02]
+
+:boom:**TextureSAM:** Inbal Cohen, Boaz Meivar, Peihan Tu, Shai Avidan, Gal Oren.<br />
+"Decoupling Shape and Texture in SAM-2 via Controlled Texture Replacement." WACV (2026).
+[[paper](https://openaccess.thecvf.com/content/WACV2026/html/Cohen_Decoupling_Shape_and_Texture_in_SAM-2_via_Controlled_Texture_Replacement_WACV_2026_paper.html)]
+[[code](https://github.com/Scientific-Computing-Lab/TextureSAM)]
+[2026.02]
+
 :boom:**Interactive Medical-SAM2 GUI:** Woojae Hong, Jong Ha Hwang, Jiyong Chung, Joongyeon Choi, Hyunngun Kim, Yong Hwy Kim.<br />
 "Interactive Medical-SAM2 GUI: A Napari-based semi-automatic annotation tool for medical images." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2602.22649)]
