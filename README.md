@@ -355,6 +355,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**MFT:** Li, Guoqiang and Yuan, Hao and Chen, Suyang and Hu, Qi and Wang, Jun and Jiang, Kunming.<br />
+"MFT: Memory-Aware Fine-Tuning of SAM2 for Efficient Long-Sequence Video Object Segmentation." IEEE SPL (2026).
+[[paper](https://ieeexplore.ieee.org/document/11386858)]
+[2026.02]
+
 :boom:**ReSeg-CLIP:** Mohammadreza Heidarianbaei, Mareike Dorozynski, Hubert Kanyamahanga, Max Mehltretter, Franz Rottensteiner.<br />
 "Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition." BMVC Workshops (2026).
 [[paper](https://arxiv.org/abs/2602.23869)]
