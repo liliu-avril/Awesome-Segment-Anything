@@ -355,16 +355,38 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SMART:** Yu Luo, Guangyu Wei, Yangfan Li, Jieyu He, Yueming Lyu.<br />
+"Uncertainty-Aware Concept and Motion Segmentation for Semi-Supervised Angiography Videos." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.00881)]
+[[code](https://github.com/qimingfan10/SMART)]
+[2026.03]
+
+:boom:Carlos Monroy, Benjamin Navarro.<br />
+"Leveraging GenAI for Segmenting and Labeling Centuries-old Technical Documents." IEEE-CH (2026).
+[[paper](https://arxiv.org/abs/2603.00147)]
+[2026.03]
+
+:boom:**STMI:** Xingguo Xu, Zhanyu Liu, Weixiang Zhou, Yuansheng Gao, Junjie Cao, Yuhao Wang, Jixiang Luo, Dell Zhang.<br />
+"STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification." AAAI  (2026).
+[[paper](https://arxiv.org/abs/2603.00695)]
+[2026.03]
+
+:boom:Abhinav Munagala.<br />
+"Zero-Shot and Supervised Bird Image Segmentation Using Foundation Models: A Dual-Pipeline Approach with Grounding DINO~1.5, YOLOv11, and SAM~2.1." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.00184)]
+[[code](https://github.com/mvsakrishna/bird-segmentation-2025)]
+[2026.03]
+
 :boom:**MFT:** Li, Guoqiang and Yuan, Hao and Chen, Suyang and Hu, Qi and Wang, Jun and Jiang, Kunming.<br />
 "MFT: Memory-Aware Fine-Tuning of SAM2 for Efficient Long-Sequence Video Object Segmentation." IEEE SPL (2026).
 [[paper](https://ieeexplore.ieee.org/document/11386858)]
-[2026.02]
+[2026.03]
 
 :boom:**ReSeg-CLIP:** Mohammadreza Heidarianbaei, Mareike Dorozynski, Hubert Kanyamahanga, Max Mehltretter, Franz Rottensteiner.<br />
 "Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition." BMVC Workshops (2026).
 [[paper](https://arxiv.org/abs/2602.23869)]
 [[code](https://github.com/aemrhb/ReSeg-CLIP)]
-[2026.02]
+[2026.03]
 
 - **SAM2-FNet:** Shaoli Li, Zihua Zhang, Dejian Li, Bin Liu, Luyao He, Siying Guo.<br />
 "SAM2-FNet: Medical Image Lesion Segmentation Model Based on Frequency Domain Expert Fusion Network." IMA (2026).
