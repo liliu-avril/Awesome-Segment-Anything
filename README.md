@@ -372,7 +372,7 @@ If you find our work useful in your research, please consider citing:
 [2026.03]
 
 :boom:Abhinav Munagala.<br />
-"Zero-Shot and Supervised Bird Image Segmentation Using Foundation Models: A Dual-Pipeline Approach with Grounding DINO~1.5, YOLOv11, and SAM~2.1." ArXiv (2026).
+"Zero-Shot and Supervised Bird Image Segmentation Using Foundation Models: A Dual-Pipeline Approach with Grounding DINO 1.5, YOLOv11, and SAM 2.1." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.00184)]
 [[code](https://github.com/mvsakrishna/bird-segmentation-2025)]
 [2026.03]
