@@ -355,6 +355,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**GarmentPile++:** Mingleyang Li, Yuran Wang, Yue Chen, Tianxing Chen, Jiaqi Liang, Zishun Shen, Haoran Lu, Ruihai Wu, Hao Dong.<br />
+"GarmentPile++: Affordance-Driven Cluttered Garments Retrieval with Vision-Language Reasoning." ICRA (2026).
+[[paper](https://arxiv.org/abs/2603.04158)]
+[[code](https://garmentpile2.github.io/)]
+[2026.03]
+
+:boom:**VANGUARD:** Yifei Chen, Xupeng Chen, Feng Wang, Niangang Jiao, Jiayin Liu.<br />
+"VANGUARD: Vehicle-Anchored Ground Sample Distance Estimation for UAVs in GPS-Denied Environments." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.04277)]
+[2026.03]
+
+:boom:**L2G-Det:** Qifan Zhang, Sai Haneesh Allu, Jikai Wang, Yangxiao Lu, Yu Xiang.<br />
+"From Local Matches to Global Masks: Novel Instance Detection in Open-World Scenes." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.03577)]
+[[code](https://irvlutd.github.io/L2G/)]
+[2026.03]
+
 :boom:**SMART:** Yu Luo, Guangyu Wei, Yangfan Li, Jieyu He, Yueming Lyu.<br />
 "Uncertainty-Aware Concept and Motion Segmentation for Semi-Supervised Angiography Videos." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.00881)]
