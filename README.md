@@ -355,6 +355,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Akash Sharma, Pranjal Naman, Roopkatha Banerjee, Priyanshu Pansari, Sankalp Gawali, Mayank Arya, Sharath Chandra, Arun Josephraj, Rakshit Ramesh, Punit Rathore, Anirban Chakraborty, Raghu Krishnapuram, Vijay Kovvali, Yogesh Simmhan.<br />
+"Scaling Real-Time Traffic Analytics on Edge-Cloud Fabrics for City-Scale Camera Networks." CCGRID Workshops (2026).
+[[paper](https://arxiv.org/abs/2603.05217)]
+[2026.03]
+
+:boom:Akif Islam, Raufun Nahar, Md. Ekramul Hamid.<br />
+"When Denoising Hinders: Revisiting Zero-Shot ASR with SAM-Audio and Whisper." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.04710)]
+[2026.03]
+
 :boom:**GarmentPile++:** Mingleyang Li, Yuran Wang, Yue Chen, Tianxing Chen, Jiaqi Liang, Zishun Shen, Haoran Lu, Ruihai Wu, Hao Dong.<br />
 "GarmentPile++: Affordance-Driven Cluttered Garments Retrieval with Vision-Language Reasoning." ICRA (2026).
 [[paper](https://arxiv.org/abs/2603.04158)]
