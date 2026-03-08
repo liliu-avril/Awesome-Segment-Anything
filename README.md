@@ -355,6 +355,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Byeongseong Lee, Jihong Min.<br />
+"Training-Free Target Emphasis with SAM2 Pseudo-Masks for Robust Single Object Tracking." WACV workshop (2026).
+[[paper](https://openaccess.thecvf.com/content/WACV2026W/RWS/papers/Lee_Training-Free_Target_Emphasis_with_SAM2_Pseudo-Masks_for_Robust_Single_Object_WACVW_2026_paper.pdf)]
+[2026.03]
+
 :boom:Akash Sharma, Pranjal Naman, Roopkatha Banerjee, Priyanshu Pansari, Sankalp Gawali, Mayank Arya, Sharath Chandra, Arun Josephraj, Rakshit Ramesh, Punit Rathore, Anirban Chakraborty, Raghu Krishnapuram, Vijay Kovvali, Yogesh Simmhan.<br />
 "Scaling Real-Time Traffic Analytics on Edge-Cloud Fabrics for City-Scale Camera Networks." CCGRID Workshops (2026).
 [[paper](https://arxiv.org/abs/2603.05217)]
