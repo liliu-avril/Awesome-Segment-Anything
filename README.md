@@ -355,66 +355,82 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:Byeongseong Lee, Jihong Min.<br />
+:boom:**VINE:** Hongli Liu, Yu Wang, Shengjie Zhao.<br />
+"Unify the Views: View-Consistent Prototype Learning for Few-Shot Segmentation." CVPR (2026).
+[[paper](https://arxiv.org/abs/2603.05952)]
+[[code](https://github.com/HongliLiu1/VINE-main)]
+[2026.03]
+
+:boom:**HCF-RES:** Keshen Zhou, Runnan Chen, Mingming Gong, Tongliang Liu.<br />
+"Hierarchical Collaborative Fusion for 3D Instance-aware Referring Expression Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.06250)]
+[2026.03]
+ 
+:boom:Yonghuang Wu, Zhenyang Liang, Wenwen Zeng, Xuan Xie, Jinhua Yu.<br />
+"Prompt Group-Aware Training for Robust Text-Guided Nuclei Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.06384)]
+[2026.03]
+
+- Byeongseong Lee, Jihong Min.<br />
 "Training-Free Target Emphasis with SAM2 Pseudo-Masks for Robust Single Object Tracking." WACV workshop (2026).
 [[paper](https://openaccess.thecvf.com/content/WACV2026W/RWS/papers/Lee_Training-Free_Target_Emphasis_with_SAM2_Pseudo-Masks_for_Robust_Single_Object_WACVW_2026_paper.pdf)]
 [2026.03]
 
-:boom:Akash Sharma, Pranjal Naman, Roopkatha Banerjee, Priyanshu Pansari, Sankalp Gawali, Mayank Arya, Sharath Chandra, Arun Josephraj, Rakshit Ramesh, Punit Rathore, Anirban Chakraborty, Raghu Krishnapuram, Vijay Kovvali, Yogesh Simmhan.<br />
+- Akash Sharma, Pranjal Naman, Roopkatha Banerjee, Priyanshu Pansari, Sankalp Gawali, Mayank Arya, Sharath Chandra, Arun Josephraj, Rakshit Ramesh, Punit Rathore, Anirban Chakraborty, Raghu Krishnapuram, Vijay Kovvali, Yogesh Simmhan.<br />
 "Scaling Real-Time Traffic Analytics on Edge-Cloud Fabrics for City-Scale Camera Networks." CCGRID Workshops (2026).
 [[paper](https://arxiv.org/abs/2603.05217)]
 [2026.03]
 
-:boom:Akif Islam, Raufun Nahar, Md. Ekramul Hamid.<br />
+- Akif Islam, Raufun Nahar, Md. Ekramul Hamid.<br />
 "When Denoising Hinders: Revisiting Zero-Shot ASR with SAM-Audio and Whisper." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.04710)]
 [2026.03]
 
-:boom:**GarmentPile++:** Mingleyang Li, Yuran Wang, Yue Chen, Tianxing Chen, Jiaqi Liang, Zishun Shen, Haoran Lu, Ruihai Wu, Hao Dong.<br />
+- **GarmentPile++:** Mingleyang Li, Yuran Wang, Yue Chen, Tianxing Chen, Jiaqi Liang, Zishun Shen, Haoran Lu, Ruihai Wu, Hao Dong.<br />
 "GarmentPile++: Affordance-Driven Cluttered Garments Retrieval with Vision-Language Reasoning." ICRA (2026).
 [[paper](https://arxiv.org/abs/2603.04158)]
 [[code](https://garmentpile2.github.io/)]
 [2026.03]
 
-:boom:**VANGUARD:** Yifei Chen, Xupeng Chen, Feng Wang, Niangang Jiao, Jiayin Liu.<br />
+- **VANGUARD:** Yifei Chen, Xupeng Chen, Feng Wang, Niangang Jiao, Jiayin Liu.<br />
 "VANGUARD: Vehicle-Anchored Ground Sample Distance Estimation for UAVs in GPS-Denied Environments." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.04277)]
 [2026.03]
 
-:boom:**L2G-Det:** Qifan Zhang, Sai Haneesh Allu, Jikai Wang, Yangxiao Lu, Yu Xiang.<br />
+- **L2G-Det:** Qifan Zhang, Sai Haneesh Allu, Jikai Wang, Yangxiao Lu, Yu Xiang.<br />
 "From Local Matches to Global Masks: Novel Instance Detection in Open-World Scenes." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.03577)]
 [[code](https://irvlutd.github.io/L2G/)]
 [2026.03]
 
-:boom:**SMART:** Yu Luo, Guangyu Wei, Yangfan Li, Jieyu He, Yueming Lyu.<br />
+- **SMART:** Yu Luo, Guangyu Wei, Yangfan Li, Jieyu He, Yueming Lyu.<br />
 "Uncertainty-Aware Concept and Motion Segmentation for Semi-Supervised Angiography Videos." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.00881)]
 [[code](https://github.com/qimingfan10/SMART)]
 [2026.03]
 
-:boom:Carlos Monroy, Benjamin Navarro.<br />
+- Carlos Monroy, Benjamin Navarro.<br />
 "Leveraging GenAI for Segmenting and Labeling Centuries-old Technical Documents." IEEE-CH (2026).
 [[paper](https://arxiv.org/abs/2603.00147)]
 [2026.03]
 
-:boom:**STMI:** Xingguo Xu, Zhanyu Liu, Weixiang Zhou, Yuansheng Gao, Junjie Cao, Yuhao Wang, Jixiang Luo, Dell Zhang.<br />
+- **STMI:** Xingguo Xu, Zhanyu Liu, Weixiang Zhou, Yuansheng Gao, Junjie Cao, Yuhao Wang, Jixiang Luo, Dell Zhang.<br />
 "STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification." AAAI  (2026).
 [[paper](https://arxiv.org/abs/2603.00695)]
 [2026.03]
 
-:boom:Abhinav Munagala.<br />
+- Abhinav Munagala.<br />
 "Zero-Shot and Supervised Bird Image Segmentation Using Foundation Models: A Dual-Pipeline Approach with Grounding DINO 1.5, YOLOv11, and SAM 2.1." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.00184)]
 [[code](https://github.com/mvsakrishna/bird-segmentation-2025)]
 [2026.03]
 
-:boom:**MFT:** Li, Guoqiang and Yuan, Hao and Chen, Suyang and Hu, Qi and Wang, Jun and Jiang, Kunming.<br />
+- **MFT:** Li, Guoqiang and Yuan, Hao and Chen, Suyang and Hu, Qi and Wang, Jun and Jiang, Kunming.<br />
 "MFT: Memory-Aware Fine-Tuning of SAM2 for Efficient Long-Sequence Video Object Segmentation." IEEE SPL (2026).
 [[paper](https://ieeexplore.ieee.org/document/11386858)]
 [2026.03]
 
-:boom:**ReSeg-CLIP:** Mohammadreza Heidarianbaei, Mareike Dorozynski, Hubert Kanyamahanga, Max Mehltretter, Franz Rottensteiner.<br />
+- **ReSeg-CLIP:** Mohammadreza Heidarianbaei, Mareike Dorozynski, Hubert Kanyamahanga, Max Mehltretter, Franz Rottensteiner.<br />
 "Open-Vocabulary Semantic Segmentation in Remote Sensing via Hierarchical Attention Masking and Model Composition." BMVC Workshops (2026).
 [[paper](https://arxiv.org/abs/2602.23869)]
 [[code](https://github.com/aemrhb/ReSeg-CLIP)]
