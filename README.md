@@ -355,6 +355,26 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**RPG-SAM:** Weikun Lin, Yunhao Bai, Yan Wang.<br />
+"RPG-SAM: Reliability-Weighted Prototypes and Geometric Adaptive Threshold Selection for Training-Free One-Shot Polyp Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.07436)]
+[2026.03]
+
+:boom:Haoran Ding, Liang Ma, Yaxun Yang, Wen Yang, Tianyu Liu, Anqing Duan, Xiaodan Liang, Dezhen Song, Ivan Laptev, Yoshihiko Nakamura.<br />
+"Choose What to Observe: Task-Aware Semantic-Geometric Representations for Visuomotor Policy." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.07875)]
+[2026.03]
+
+:boom:**StructSAM:** Duy M. H. Nguyen, Tuan A. Tran, Duong Nguyen, Siwei Xie, Trung Q. Nguyen, Mai T. N. Truong, Daniel Palenicek, An T. Le, Michael Barz, TrungTin Nguyen, Tuan Dam, Ngan Le, Minh Vu, Khoa Doan, Vien Ngo, Pengtao Xie, James Zou, Daniel Sonntag, Jan Peters, Mathias Niepert.<br />
+"StructSAM: Structure- and Spectrum-Preserving Token Merging for Segment Anything Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.07307)]
+[2026.03]
+ 
+:boom:**OPTED:** Kibrom Gebremedhin, Hadush Hailu, Bruk Gebregziabher.<br />
+"OPTED: Open Preprocessed Trachoma Eye Dataset Using Zero-Shot SAM 3 Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.06885)]
+[2026.03]
+
 :boom:**VINE:** Hongli Liu, Yu Wang, Shengjie Zhao.<br />
 "Unify the Views: View-Consistent Prototype Learning for Few-Shot Segmentation." CVPR (2026).
 [[paper](https://arxiv.org/abs/2603.05952)]
