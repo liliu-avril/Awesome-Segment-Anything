@@ -355,6 +355,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**VQ-SAM:** Bing Fan, Minghao Li, Hanzhi Zhang, Shaohua Dong, Naga Prudhvi Mareedu, Weishi Shi, Yunhe Feng, Yan Huang, Heng Fan.<br />
+"Towards Visual Query Segmentation in the Wild." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.08898)]
+[2026.03]
+
 :boom:**RPG-SAM:** Weikun Lin, Yunhao Bai, Yan Wang.<br />
 "RPG-SAM: Reliability-Weighted Prototypes and Geometric Adaptive Threshold Selection for Training-Free One-Shot Polyp Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.07436)]
