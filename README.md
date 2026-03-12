@@ -355,6 +355,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+ :boom:**BALD-SAM:** Prithwijit Chowdhury, Mohit Prabhushankar, Ghassan AlRegib.<br />
+"BALD-SAM: Disagreement-based Active Prompting in Interactive Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.10828)]
+[2026.03]
+ 
+:boom:**OilSAM2:** Shuaiyu Chen, Ming Yin, Peng Ren, Chunbo Luo, Zeyu Fu.<br />
+"OilSAM2: Memory-Augmented SAM2 for Scalable SAR Oil Spill Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.10231)]
+[[code](https://github.com/Chenshuaiyu1120/OILSAM2)]
+[2026.03]
+
+:boom:**SAMONAI:** Muhammad Alberb, Jianan Chen, Hossam El-rewaidy, Paul Karanicolas, Arun Seth, Yutaka Amemiya, Anne Martel, Helen Cheung.<br />
+"An Automated Radiomics Framework for Postoperative Survival Prediction in Colorectal Liver Metastases using Preoperative MRI." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.10216)]
+[2026.03]
+
+:boom:**Cybo-Waiter:** Peng Ren, Haoyang Ge, Chuan Qi, Cong Huang, Hong Li, Jiang Zhao, Pei Chi, Kai Chen.<br />
+"Cybo-Waiter: A Physical Agentic Framework for Humanoid Whole-Body Locomotion-Manipulation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.10675)]
+[2026.03]
+
+:boom:Caroline Magg, Maaike A. ter Wee, Johannes G. G. Dobbe, Geert J. Streekstra, Leendert Blankevoort, Clara I. Sánchez, Hoel Kervadec.<br />
+"Prompting with the human-touch: evaluating model-sensitivity of foundation models for musculoskeletal CT segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.10541)]
+[[code](https://github.com/CarolineMagg/segmentation-FM-benchmark/)]
+[2026.03]
+
 :boom:**VQ-SAM:** Bing Fan, Minghao Li, Hanzhi Zhang, Shaohua Dong, Naga Prudhvi Mareedu, Weishi Shi, Yunhe Feng, Yan Huang, Heng Fan.<br />
 "Towards Visual Query Segmentation in the Wild." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.08898)]
