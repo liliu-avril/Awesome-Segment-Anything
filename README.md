@@ -355,6 +355,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**PicoSAM3:** Pietro Bonazzi, Nicola Farronato, Stefan Zihlmann, Haotong Qin, Michele Magno.<br />
+"PicoSAM3: Real-Time In-Sensor Region-of-Interest Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.11917)]
+[2026.03]
+
+:boom:**DART:** Mehmet Kerem Turkcan.<br />
+"Detect Anything in Real Time: From Single-Prompt Segmentation to Multi-Class Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.11441)]
+[[code](https://github.com/mkturkcan/DART)]
+[2026.03]
+
  :boom:**BALD-SAM:** Prithwijit Chowdhury, Mohit Prabhushankar, Ghassan AlRegib.<br />
 "BALD-SAM: Disagreement-based Active Prompting in Interactive Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.10828)]
