@@ -355,81 +355,174 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**PicoSAM3:** Pietro Bonazzi, Nicola Farronato, Stefan Zihlmann, Haotong Qin, Michele Magno.<br />
+:boom:**AutoSAM:** Li, Jiayuan and Wang, Zhen and Sun, Xiao and Xu, Nan and You, Zhuhong and Huang, Deshuang.<br />
+"AutoSAM: Auto-Prompting Mamba-Based Vision Foundation Model for Multimodal Remote Sensing Semantic Segmentation." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/document/11408892)]
+[[code](https://github.com/NWPUFranklee/AutoSAM.git)]
+[2026.03]
+ 
+:boom:**SAMCM-SR:** Junchao Wang et al.<br />
+"SAMCM-SR: Applying SAM3 Under Data-Scarce Conditions for Cross-Modal Segmentation of Power Equipment Infrared Images with Super-Resolution Enhancement." Appl. Sci. (2026).
+[[paper](https://www.mdpi.com/2076-3417/16/5/2351)]
+[2026.03]
+
+:boom:**BloodCellSAM2:** Zhening Qiu.<br />
+"Research and Analysis of Fine-tuning Techniques for Cell Image Segmentation Model Based on SAM2." ArXiv (2026).
+[[paper](https://www.deanfrancis.press/ojs/index.php/te/article/view/1650)]
+[2026.03]
+
+:boom:**PolySAM-Lite:** Umar Hasan, Muhammad Ali Nayeem.<br />
+"PolySAM-Lite: Parameter-efficient adaptation of the Segment Anything Model for colorectal polyp segmentation." ArXiv (2026).
+[[paper](https://www.researchsquare.com/article/rs-8662498/v1)]
+[2026.03]
+ 
+:boom:**RT-SAM:** Khor, Hee Guan and Yang, Xin and Sun, Yihua and Huang, Sijuan and Wang, Yingni and Wang, Jie and Wang, Shaobin and Bai, Lu and Ma, Longfei and Liao, Hongen.<br />
+"RT-SAM: Visual-Prompt Fusion and Uncertainty Enhancement for Nasopharyngeal Carcinoma Radiotherapy Target Delineation." JBHI (2026).
+[[paper](https://ieeexplore.ieee.org/document/11419735)]
+[2026.03]
+
+:boom:**CPOVIS,:** Zheng, Rongkun and Qi, Lu and Chen, Xi and Wang, Yi and Wang, Kun and Qiao, Yu and Zhao, Hengshuang.<br />
+"Causal Prompts for Open-vocabulary Video Instance Segmentation." TPAMI (2026).
+[[paper](https://ieeexplore.ieee.org/document/11419811)]
+[2026.03]
+
+:boom:**USCount-Net:** Yu Wang et al.<br />
+"Low-Annotation Apple Flower Counting: A Color-SAM Enhanced and Uncertainty-Guided Semi-Supervised Framework." Plant Phenomics (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S2643651526000270)]
+[2026.03]
+
+:boom:Snehalraj Chugh, Dharmendra Singh Chaudhary, Subash Sigdel, Shubham Thapa, Lalit BC, Nishan Ghimire, Bipendra Basnyat, Nirmalya Roy.<br />
+"Segment Anything but Farms: Comparing Segmentation Paradigms for Rural UAV Captured Ultra-High-Resolution Imagery." WACVW (2026).
+[[paper](https://openaccess.thecvf.com/content/WACV2026W/GeoCV/papers/Chugh_Segment_Anything_but_Farms_Comparing_Segmentation_Paradigms_for_Rural_UAV_WACVW_2026_paper.pdf)]
+[2026.03]
+
+:boom: Linzhu Li et al.<br />
+"Classification of Densely Packed Sand Particles Using a Digital Camera and the Segment Anything Model (SAM)." Geo-Congress (2026).
+[[paper](https://ascelibrary.org/doi/abs/10.1061/9780784486719.003)]
+[2026.03]
+
+:boom:Zhipeng Chen et al.<br />
+"Occlusion-Aware Visual Object Tracking with SAM2-Based Segmentation via Temporal Convolutional Networks and a Dual-Memory Bank." ArXiv (2026).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6350476)]
+[2026.03]
+
+:boom:Minghui Xu et al.<br />
+"Automated flame boundary segmentation from droplet combustion images using SAM2 with auto-prompt selection and RANSAC fitting." ArXiv (2026).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6353899)]
+[2026.03]
+
+:boom:**OAMOT:** Guo, Wen and Wang, Tuo and Gao, Junyu and Zhang, Tianzhu and Xu, Changsheng.<br />
+"Occlusion-Aware Multi-Object Tracking via Joint Diffusion Motion Prediction and Appearance Purification." TCSVT (2026).
+[[paper](https://ieeexplore.ieee.org/document/11422937)]
+[[code](https://github.com/wangtuo111/OAMOT)]
+[2026.03]
+
+:boom:**SegTS:** Jinsong Li et al.<br />
+"SegTS: Subseries-driven temporo-spatial learning with Segment Anything Model for crop segmentation in satellite image time series." Computers and Electronics in Agriculture (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0168169926002218)]
+[2026.03]
+
+:boom:Yunhao Hu, Penglin Zou, rongguo yan, Xiyun Zeng and Qi Wang.<br />
+"Exploration and Performance Analysis of Deep Learning Applications in Spermatic Vein Ultrasound Segmentation." ArXiv (2026).
+[[paper](https://iopscience.iop.org/article/10.1088/2057-1976/ae4eed/meta)]
+[2026.03]
+
+:boom:Txai Sibley et al.<br />
+"Evaluating and enhancing Segment Anything Model transferability for microstructural image analysis in nuclear materials." Computational Materials Science (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0927025626001394)]
+[2026.03]
+
+:boom:**DIT-SAM:** Yuhan Ying et al.<br />
+"DIT-SAM: Enhancing segment anything model for automatic medical image segmentation via dual-interactive tuning." Biomedical Signal Processing and Control (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1746809426005963)]
+[[code](https://github.com/yingyuhan/DIT-SAM)]
+[2026.03]
+
+:boom:**SA-SAM:** Zhuowen Deng, Fangce Li, Shenglin Shan, Jianchang Feng.<br />
+"SA-SAM: a scale-adaptative method for wildfire scene segmentation." MLAIA (2026).
+[[paper](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14134/1413420/SA-SAM--a-scale-adaptative-method-for-wildfire-scene/10.1117/12.3110816.short)]
+[2026.03]
+
+:boom:Amirreza Fateh, et al.<br />
+"Adapting SAM with a triple-prompt strategy for one-shot semantic segmentation." Neurocomputing (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226006983)]
+[2026.03]
+
+- **PicoSAM3:** Pietro Bonazzi, Nicola Farronato, Stefan Zihlmann, Haotong Qin, Michele Magno.<br />
 "PicoSAM3: Real-Time In-Sensor Region-of-Interest Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.11917)]
 [2026.03]
 
-:boom:**DART:** Mehmet Kerem Turkcan.<br />
+- **DART:** Mehmet Kerem Turkcan.<br />
 "Detect Anything in Real Time: From Single-Prompt Segmentation to Multi-Class Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.11441)]
 [[code](https://github.com/mkturkcan/DART)]
 [2026.03]
 
- :boom:**BALD-SAM:** Prithwijit Chowdhury, Mohit Prabhushankar, Ghassan AlRegib.<br />
+- **BALD-SAM:** Prithwijit Chowdhury, Mohit Prabhushankar, Ghassan AlRegib.<br />
 "BALD-SAM: Disagreement-based Active Prompting in Interactive Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.10828)]
 [2026.03]
  
-:boom:**OilSAM2:** Shuaiyu Chen, Ming Yin, Peng Ren, Chunbo Luo, Zeyu Fu.<br />
+- **OilSAM2:** Shuaiyu Chen, Ming Yin, Peng Ren, Chunbo Luo, Zeyu Fu.<br />
 "OilSAM2: Memory-Augmented SAM2 for Scalable SAR Oil Spill Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.10231)]
 [[code](https://github.com/Chenshuaiyu1120/OILSAM2)]
 [2026.03]
 
-:boom:**SAMONAI:** Muhammad Alberb, Jianan Chen, Hossam El-rewaidy, Paul Karanicolas, Arun Seth, Yutaka Amemiya, Anne Martel, Helen Cheung.<br />
+- **SAMONAI:** Muhammad Alberb, Jianan Chen, Hossam El-rewaidy, Paul Karanicolas, Arun Seth, Yutaka Amemiya, Anne Martel, Helen Cheung.<br />
 "An Automated Radiomics Framework for Postoperative Survival Prediction in Colorectal Liver Metastases using Preoperative MRI." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.10216)]
 [2026.03]
 
-:boom:**Cybo-Waiter:** Peng Ren, Haoyang Ge, Chuan Qi, Cong Huang, Hong Li, Jiang Zhao, Pei Chi, Kai Chen.<br />
+- **Cybo-Waiter:** Peng Ren, Haoyang Ge, Chuan Qi, Cong Huang, Hong Li, Jiang Zhao, Pei Chi, Kai Chen.<br />
 "Cybo-Waiter: A Physical Agentic Framework for Humanoid Whole-Body Locomotion-Manipulation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.10675)]
 [2026.03]
 
-:boom:Caroline Magg, Maaike A. ter Wee, Johannes G. G. Dobbe, Geert J. Streekstra, Leendert Blankevoort, Clara I. Sánchez, Hoel Kervadec.<br />
+- Caroline Magg, Maaike A. ter Wee, Johannes G. G. Dobbe, Geert J. Streekstra, Leendert Blankevoort, Clara I. Sánchez, Hoel Kervadec.<br />
 "Prompting with the human-touch: evaluating model-sensitivity of foundation models for musculoskeletal CT segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.10541)]
 [[code](https://github.com/CarolineMagg/segmentation-FM-benchmark/)]
 [2026.03]
 
-:boom:**VQ-SAM:** Bing Fan, Minghao Li, Hanzhi Zhang, Shaohua Dong, Naga Prudhvi Mareedu, Weishi Shi, Yunhe Feng, Yan Huang, Heng Fan.<br />
+- **VQ-SAM:** Bing Fan, Minghao Li, Hanzhi Zhang, Shaohua Dong, Naga Prudhvi Mareedu, Weishi Shi, Yunhe Feng, Yan Huang, Heng Fan.<br />
 "Towards Visual Query Segmentation in the Wild." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.08898)]
 [2026.03]
 
-:boom:**RPG-SAM:** Weikun Lin, Yunhao Bai, Yan Wang.<br />
+- **RPG-SAM:** Weikun Lin, Yunhao Bai, Yan Wang.<br />
 "RPG-SAM: Reliability-Weighted Prototypes and Geometric Adaptive Threshold Selection for Training-Free One-Shot Polyp Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.07436)]
 [2026.03]
 
-:boom:Haoran Ding, Liang Ma, Yaxun Yang, Wen Yang, Tianyu Liu, Anqing Duan, Xiaodan Liang, Dezhen Song, Ivan Laptev, Yoshihiko Nakamura.<br />
+- Haoran Ding, Liang Ma, Yaxun Yang, Wen Yang, Tianyu Liu, Anqing Duan, Xiaodan Liang, Dezhen Song, Ivan Laptev, Yoshihiko Nakamura.<br />
 "Choose What to Observe: Task-Aware Semantic-Geometric Representations for Visuomotor Policy." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.07875)]
 [2026.03]
 
-:boom:**StructSAM:** Duy M. H. Nguyen, Tuan A. Tran, Duong Nguyen, Siwei Xie, Trung Q. Nguyen, Mai T. N. Truong, Daniel Palenicek, An T. Le, Michael Barz, TrungTin Nguyen, Tuan Dam, Ngan Le, Minh Vu, Khoa Doan, Vien Ngo, Pengtao Xie, James Zou, Daniel Sonntag, Jan Peters, Mathias Niepert.<br />
+- **StructSAM:** Duy M. H. Nguyen, Tuan A. Tran, Duong Nguyen, Siwei Xie, Trung Q. Nguyen, Mai T. N. Truong, Daniel Palenicek, An T. Le, Michael Barz, TrungTin Nguyen, Tuan Dam, Ngan Le, Minh Vu, Khoa Doan, Vien Ngo, Pengtao Xie, James Zou, Daniel Sonntag, Jan Peters, Mathias Niepert.<br />
 "StructSAM: Structure- and Spectrum-Preserving Token Merging for Segment Anything Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.07307)]
 [2026.03]
  
-:boom:**OPTED:** Kibrom Gebremedhin, Hadush Hailu, Bruk Gebregziabher.<br />
+- **OPTED:** Kibrom Gebremedhin, Hadush Hailu, Bruk Gebregziabher.<br />
 "OPTED: Open Preprocessed Trachoma Eye Dataset Using Zero-Shot SAM 3 Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.06885)]
 [2026.03]
 
-:boom:**VINE:** Hongli Liu, Yu Wang, Shengjie Zhao.<br />
+- **VINE:** Hongli Liu, Yu Wang, Shengjie Zhao.<br />
 "Unify the Views: View-Consistent Prototype Learning for Few-Shot Segmentation." CVPR (2026).
 [[paper](https://arxiv.org/abs/2603.05952)]
 [[code](https://github.com/HongliLiu1/VINE-main)]
 [2026.03]
 
-:boom:**HCF-RES:** Keshen Zhou, Runnan Chen, Mingming Gong, Tongliang Liu.<br />
+- **HCF-RES:** Keshen Zhou, Runnan Chen, Mingming Gong, Tongliang Liu.<br />
 "Hierarchical Collaborative Fusion for 3D Instance-aware Referring Expression Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.06250)]
 [2026.03]
  
-:boom:Yonghuang Wu, Zhenyang Liang, Wenwen Zeng, Xuan Xie, Jinhua Yu.<br />
+- Yonghuang Wu, Zhenyang Liang, Wenwen Zeng, Xuan Xie, Jinhua Yu.<br />
 "Prompt Group-Aware Training for Robust Text-Guided Nuclei Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.06384)]
 [2026.03]
