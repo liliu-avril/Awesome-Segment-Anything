@@ -355,6 +355,36 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SPARROW:** Mohamad Alansari, Naufal Suryanto, Divya Velayudhan, Sajid Javed, Naoufel Werghi, Muzammal Naseer.<br />
+"SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs." CVPR  (2026).
+[[paper](https://arxiv.org/abs/2603.12382)]
+[[project](https://risys-lab.github.io/SPARROW)]
+[[code](https://github.com/RISys-Lab/SPARROW)]
+[2026.03]
+
+:boom:**SAP:** Lutao Jiang, Zidong Cao, Weikai Chen, Xu Zheng, Yuanhuiyi Lyu, Zhenyang Li, Zeyu HU, Yingda Yin, Keyang Luo, Runze Zhang, Kai Yan, Shengju Qian, Haidi Fan, Yifan Peng, Xin Wang, Hui Xiong, Ying-Cong Chen.<br />
+"SAP: Segment Any 4K Panorama." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.12759)]
+[[code]( https://lutao2021.github.io/SAP_Page/)]
+[2026.03]
+ 
+:boom:**HFP-SAM:** Pingping Zhang, Tianyu Yan, Yuhao Wang, Yang Liu, Tongdan Tang, Yili Ma, Long Lv, Feng Tian, Weibing Sun, and Huchuan Lu.<br />
+"HFP-SAM: Hierarchical Frequency Prompted SAM for Efficient Marine Animal Segmentation." TIP (2026).
+[[paper](https://arxiv.org/abs/2603.12708)]
+[[code](https://github.com/Drchip61/TIP-HFP-SAM)]
+[2026.03]
+
+:boom:**SAM FTI-FDet:** Guodong Sun, Qihang Liang, Xingyu Pan, Moyun Liu, Yang Zhang.<br />
+"Prompt-Driven Lightweight Foundation Model for Instance Segmentation-Based Fault Detection in Freight Trains." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.12624)]
+[[code](https://github.com/MVME-HBUT/SAM_FTI-FDet.git)]
+[2026.03]
+
+:boom:**GoalSwarm:** MoniJesu Wonders James, Amir Atef Habel, Aleksey Fedoseev, Dzmitry Tsetserokou.<br />
+"GoalSwarm: Multi-UAV Semantic Coordination for Open-Vocabulary Object Navigation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.12908)]
+[2026.03]
+
 :boom:**AutoSAM:** Li, Jiayuan and Wang, Zhen and Sun, Xiao and Xu, Nan and You, Zhuhong and Huang, Deshuang.<br />
 "AutoSAM: Auto-Prompting Mamba-Based Vision Foundation Model for Multimodal Remote Sensing Semantic Segmentation." TGRS (2026).
 [[paper](https://ieeexplore.ieee.org/document/11408892)]
