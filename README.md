@@ -355,6 +355,50 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+ :boom:Shuai Guo, Ao Guo, Junchao Zhao, Qi Chen, Yuxiang Qi, Zechuan Li, Dong Chen, Tianjia Shao, Mingliang Xu.<br />
+"Direct Object-Level Reconstruction via Probabilistic Gaussian Splatting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.14316)]
+[2026.03]
+ 
+:boom:**Fast-SAM-3D-Body:** Timing Yang, Sicheng He, Hongyi Jing, Jiawei Yang, Zhijian Liu, Chuhang Zou, Yue Wang.<br />
+"Fast SAM 3D Body: Accelerating SAM 3D Body for Real-Time Full-Body Human Mesh Recovery." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.15603)]
+[[code](https://github.com/yangtiming/Fast-SAM-3D-Body)]
+[2026.03]
+
+:boom:**EviATTA:** Jiayi Chen, Yasmeen George, Winston Chong, Jianfei Cai.<br />
+"EviATTA: Evidential Active Test-Time Adaptation for Medical Segment Anything Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.14666)]
+[2026.03]
+
+ :boom:**StAR:** Seokju Yun, Dongheon Lee, Noori Bae, Jaesung Jun, Chanseul Cho, Youngmin Ro.<br />
+"StAR: Segment Anything Reasoner." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.14382)]
+[[code](https://github.com/ysj9909/StAR)]
+[2026.03]
+ 
+:boom:**SAIF:** Ke Wu, Shiqi Chen, Yiheng Zhong, Hengxian Liu, Yingxue Su, Yifang Wang, Junhao Jin, Guangyu Ren.<br />
+"SAIF: A Stability-Aware Inference Framework for Medical Image Segmentation with Segment Anything Model." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.13533)]
+[[code](https://anonymous.4open.science/r/SAIF)]
+[2026.03]
+
+:boom:**Colony Grounded SAM2:** Daan Korporaal, Patrick de Kruijf, Ralph H. G. M. Litjens, Bas H. M. van der Velden.<br />
+"Colony Grounded SAM2: Zero-shot detection and segmentation of bacterial colonies using foundation models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.13393)]
+[2026.03]
+
+ :boom:Elodie Germani, Krystel Nyangoh-Timoh, Pierre Jannin, John S H Baxter.<br />
+"Disentangling Prompt Dependence to Evaluate Segmentation Reliability in Gynecological MRI." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.13369)]
+[2026.03]
+
+:boom:Tomislav Medic, Liangliang Nan.<br />
+"In-Field 3D Wheat Head Instance Segmentation From TLS Point Clouds Using Deep Learning
+Without Manual Labels." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.14309)]
+[2026.03]
+
 :boom:**SPARROW:** Mohamad Alansari, Naufal Suryanto, Divya Velayudhan, Sajid Javed, Naoufel Werghi, Muzammal Naseer.<br />
 "SPARROW: Learning Spatial Precision and Temporal Referential Consistency in Pixel-Grounded Video MLLMs." CVPR  (2026).
 [[paper](https://arxiv.org/abs/2603.12382)]
