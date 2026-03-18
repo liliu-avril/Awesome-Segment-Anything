@@ -355,6 +355,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**EDP-SAM:** Jiyang Huang, Hongru Cheng, Wei Lin, Jia Wan, Antoni B. Chan.<br />
+"Exclusivity-Guided Mask Learning for Semi-Supervised Crowd Instance Segmentation and Counting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.16241)]
+[2026.03]
+
+:boom:**MessyKitchens:** Junaid Ahmed Ansari, Ran Ding, Fabio Pizzati, Ivan Laptev.<br />
+"MessyKitchens: Contact-rich object-level 3D scene reconstruction." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.16868)]
+[[code](https://messykitchens.github.io/)]
+[2026.03]
+
+:boom:**SAMSEM:** Christian Gehrmann, Jonas Ricker, Simon Damm, Deruo Cheng, Julian Speith, Yiqiong Shi, Asja Fischer, Christof Paar.<br />
+"SAMSEM -- A Generic and Scalable Approach for IC Metal Line Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.16548)]
+[2026.03]
+ 
+:boom:**BADSEG:** Guangsheng Zhang, Huan Tian, Leo Zhang, Tianqing Zhu, Ming Ding, Wanlei Zhou, Bo Liu.<br />
+"Poisoning the Pixels: Revisiting Backdoor Attacks on Semantic Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.16405)]
+[2026.03]
+
  :boom:Shuai Guo, Ao Guo, Junchao Zhao, Qi Chen, Yuxiang Qi, Zechuan Li, Dong Chen, Tianjia Shao, Mingliang Xu.<br />
 "Direct Object-Level Reconstruction via Probabilistic Gaussian Splatting." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.14316)]
