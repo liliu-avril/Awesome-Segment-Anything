@@ -355,6 +355,21 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Anwai Archit, Constantin Pape.<br />
+"Revisiting foundation models for cell instance segmentation." MIDL (2026).
+[[paper](https://arxiv.org/abs/2603.17845)]
+[2026.03]
+
+:boom:Diederick C. Niehorster, Marcus Nyström.<br />
+"Eye image segmentation using visual and concept prompts with Segment Anything Model 3 (SAM3)." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.17715)]
+[2026.03]
+
+:boom:Paulo Vitor Santana Silva, Arthur Ricardo Sousa Vitória, Diogo Fernandes Costa Silva, Arlindo Rodrigues Galvão Filho.<br />
+"Attention Guidance through Video Script: A Case Study of Object Focusing on 360° VR Video Tours." SVR (2026).
+[[paper](https://arxiv.org/abs/2603.16875)]
+[2026.03]
+
 :boom:**EDP-SAM:** Jiyang Huang, Hongru Cheng, Wei Lin, Jia Wan, Antoni B. Chan.<br />
 "Exclusivity-Guided Mask Learning for Semi-Supervised Crowd Instance Segmentation and Counting." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.16241)]
