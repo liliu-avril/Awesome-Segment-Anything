@@ -355,6 +355,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**LoGSAM:** Mohammad Robaitul Islam Bhuiyan, Sheethal Bhat, Melika Qahqaie, Tri-Thien Nguyen, Paula Andrea Pérez Toro, Tomas Arias Vergara, Andreas Maier.<br />
+"LoGSAM: Parameter-Efficient Cross-Modal Grounding for MRI Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.17576)]
+[[code](https://github.com/robayet002/LoGSAM)]
+[2026.03]
+
 :boom:Anwai Archit, Constantin Pape.<br />
 "Revisiting foundation models for cell instance segmentation." MIDL (2026).
 [[paper](https://arxiv.org/abs/2603.17845)]
