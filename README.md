@@ -355,6 +355,21 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**GoalVLM:** MoniJesu James, Amir Atef Habel, Aleksey Fedoseev, Dzmitry Tsetserokou.<br />
+"GoalVLM: VLM-driven Object Goal Navigation for Multi-Agent System." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.18210)]
+[2026.03]
+ 
+:boom:**Perceptio:** Yuchen Li, Amanmeet Garg, Shalini Chaudhuri, Rui Zhao, Garin Kessler.<br />
+"Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.18795)]
+[2026.03]
+
+:boom:**SCISSR:** Haonan Ping, Jian Jiang, Cheng Yuan, Qizhen Sun, Lv Wu, Yutong Ban.<br />
+"SCISSR: Scribble-Conditioned Interactive Surgical Segmentation and Refinement." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.18544)]
+[2026.03]
+
 :boom:**LoGSAM:** Mohammad Robaitul Islam Bhuiyan, Sheethal Bhat, Melika Qahqaie, Tri-Thien Nguyen, Paula Andrea Pérez Toro, Tomas Arias Vergara, Andreas Maier.<br />
 "LoGSAM: Parameter-Efficient Cross-Modal Grounding for MRI Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.17576)]
