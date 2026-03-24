@@ -362,6 +362,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**FoB:** Yuntian Bo, Yazhou Zhu, Piotr Koniusz, Haofeng Zhang.<br />
+"Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting." CVPR (2026).
+[[paper](https://arxiv.org/abs/2603.21287)]
+[[code](https://github.com/primebo1/FoB_SAM)]
+[2026.03]
+
+:boom:**CataractSAM-2:** Mohammad Eslami, Dhanvinkumar Ganeshkumar, Saber Kazeminasab, Michael G. Morley, Michael V. Boland, Michael M. Lin, John B. Miller, David S. Friedman, Nazlee Zebardast, Lucia Sobrin, Tobias Elze.<br />
+"CataractSAM-2: A Domain-Adapted Model for Anterior Segment Surgery Segmentation and Scalable Ground-Truth Annotation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.21566)]
+[2026.03]
+
 :boom:**Distillation-SAM:** Tang, Jiyang and Han, Hu and Shan, Shiguang and Chen, Xilin.<br />
 "Distillation-SAM: Knowledge Distillation Based Auto-prompt Embedding Learning for Surgical Image Segmentation." TMI (2026).
 [[paper](https://ieeexplore.ieee.org/document/11436118)]
