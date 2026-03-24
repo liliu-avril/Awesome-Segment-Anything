@@ -373,6 +373,26 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2603.21566)]
 [2026.03]
 
+:boom:Lei Huang, Kai-Li Wang, Zhang Chen, Zhen-Huang, Saidjafar Murodzoda, Xin Chen, Jing Chen, Chun-Hao Chen, Yu Xia, Yu-Tong Yang, Jia-Cheng Li, Dilshod Nematov, Ilhan Yavuz, Zhao-Kui Wang.<br />
+"SAM Molecular Stacking with Heterogeneous Orientationfor High-Performance Perovskite Photovoltaics." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.21657)]
+[2026.03]
+ 
+:boom:Thomas Mendelson, Joshua Francois, Galit Lahav, Tammy Riklin-Raviv.<br />
+"Boundary-Aware Instance Segmentation in Microscopy Imaging." ISBI (2026).
+[[paper](https://arxiv.org/abs/2603.21206)]
+[2026.03]
+
+:boom:Muhammad Hassan Maqsood, Yanming Zhu, Alfred Lam, Getamesay Dagnaw, Xuefei Yin, Alan Wee-Chung Liew.<br />
+"Prompt-Free Lightweight SAM Adaptation for Histopathology Nuclei Segmentation with Strong Cross-Dataset Generalization." ISBI (2026).
+[[paper](https://arxiv.org/abs/2603.20326)]
+[2026.03]
+
+:boom:Carolin Teuber, Anwai Archit, Tobias Boothe, Peter Ditte, Jochen Rink, Constantin Pape.<br />
+"Evaluating Vision Foundation Models for Pixel and Object Classification in Microscopy." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.19802)]
+[2026.03]
+
 :boom:**Distillation-SAM:** Tang, Jiyang and Han, Hu and Shan, Shiguang and Chen, Xilin.<br />
 "Distillation-SAM: Knowledge Distillation Based Auto-prompt Embedding Learning for Surgical Image Segmentation." TMI (2026).
 [[paper](https://ieeexplore.ieee.org/document/11436118)]
