@@ -378,6 +378,12 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2603.23116)]
 [2026.03]
 
+:boom:**VIRST-Audio:** Jihwan Hong, Jaeyoung Do.<br />
+"3rd Place of MeViS-Audio Track of the 5th PVUW: VIRST-Audio." CVPR workshop (2026).
+[[paper](https://arxiv.org/abs/2603.23126)]
+[[code](https://github.com/AIDASLab/VIRST/tree/virst-audio)]
+[2026.03]
+
 :boom:**FoB:** Yuntian Bo, Yazhou Zhu, Piotr Koniusz, Haofeng Zhang.<br />
 "Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting." CVPR (2026).
 [[paper](https://arxiv.org/abs/2603.21287)]
