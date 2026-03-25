@@ -362,6 +362,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**AgentRVOS:** Woojeong Jin, Jaeho Lee, Heeseong Shin, Seungho Jang, Junhwan Heo, Seungryong Kim.<br />
+"AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.23489)]
+[[code](https://cvlab-kaist.github.io/AgentRVOS/)]
+[2026.03]
+
+:boom:**FCL-COD:** Jingchen Ni, Quan Zhang, Dan Jiang, Keyu Lv, Ke Zhang, Chun Yuan.<br />
+"FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning." CVPR (2026).
+[[paper](https://arxiv.org/abs/2603.22969)]
+[2026.03]
+
+:boom:Miquel Lopez Escoriza, Pau Amargant Alvarez.<br />
+"Automatic Segmentation of 3D CT scans with SAM2 using a zero-shot approach." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.23116)]
+[2026.03]
+
 :boom:**FoB:** Yuntian Bo, Yazhou Zhu, Piotr Koniusz, Haofeng Zhang.<br />
 "Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting." CVPR (2026).
 [[paper](https://arxiv.org/abs/2603.21287)]
