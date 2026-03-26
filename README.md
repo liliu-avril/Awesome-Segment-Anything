@@ -362,6 +362,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**UW-VOS:** Hongshen Zhao, Jingkang Tai, Yuhang Wu, Wenkang Zhang, Xi Lan, Shangyan Wang, Tianyu Zhang, Wankou Yang.<br />
+"UW-VOS: A Large-Scale Dataset for Underwater Video Object Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.24006)]
+[2026.03]
+
+:boom:Mingqi Gao, Sijie Li, Jungong Han.<br />
+"Re-Prompting SAM 3 via Object Retrieval: 3rd of the 5th PVUW MOSE Track." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.23788)]
+[2026.03]
+
 :boom:**AgentRVOS:** Woojeong Jin, Jaeho Lee, Heeseong Shin, Seungho Jang, Junhwan Heo, Seungryong Kim.<br />
 "AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.23489)]
