@@ -362,6 +362,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**GridVAD:** Mohamed Eltahir, Ahmed O. Ibrahim, Obada Siralkhatim, Tabarak Abdallah, Sondos Mohamed.<br />
+"GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.25467)]
+[[code](https://gridvad.github.io/)]
+[2026.03]
+
+:boom:**XAI-SAM:** Abu Noman Md Sakib, Merjulah Roby, Zijie Zhang, Satish Muluk, Mark K. Eskandari, Ender A. Finol.<br />
+"Dissecting Model Failures in Abdominal Aortic Aneurysm Segmentation through Explainability-Driven Analysis." CVPR (2026).
+[[paper](https://arxiv.org/abs/2603.24801)]
+[2026.03]
+
+:boom:**ET-SAM:** Xike Zhang, Maoyuan Ye, Juhua Liu, Bo Du.<br />
+"ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.25168)]
+[2026.03]
+
 :boom:**UW-VOS:** Hongshen Zhao, Jingkang Tai, Yuhang Wu, Wenkang Zhang, Xi Lan, Shangyan Wang, Tianyu Zhang, Wankou Yang.<br />
 "UW-VOS: A Large-Scale Dataset for Underwater Video Object Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.24006)]
