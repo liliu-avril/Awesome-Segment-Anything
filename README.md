@@ -362,6 +362,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SemiBUVS:** Long Chen and Qingqing Zheng and Yingying Chen and Faqin Lv and Qiong Wang.<br />
+"SAM-Guided Semi-Supervised Breast Lesion Segmentation in Ultrasound Videos with A New Dataset." ESWA (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426010547)]
+[[code](https://github.com/003GH/SemiBUVS)]
+[2026.03]
+
 :boom:**GridVAD:** Mohamed Eltahir, Ahmed O. Ibrahim, Obada Siralkhatim, Tabarak Abdallah, Sondos Mohamed.<br />
 "GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.25467)]
