@@ -14,6 +14,7 @@
 
 #### We strongly encourage authors of relevant works to make a pull request and add their paper's information [[here](https://docs.google.com/spreadsheets/d/1AdOc_mZrkKP7XoKL9g7YO4EEpjlxdxEDK2yOdRZ_edg/edit?usp=sharing)].
 
+:boom:**[SAM 3.1](https://github.com/facebookresearch/sam3/blob/main/RELEASE_SAM3p1.md): ''SAM 3.1 Object Multiplex'' was released.**
 
 :boom:**[SAM Audio](https://github.com/facebookresearch/sam-audio): ''SAM Audio: Segment Anything in Audio'' was released.**
 
@@ -32,6 +33,7 @@ ____
 ## :fire: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/liliu-avril/Awesome-Segment-Anything?icon=github&label=last%20updated&color=green)
 ```
+- 2026.03.27: SAM 3.1 Object Multiplex was released.
 - 2025.12.15: SAM Audio was released.
 - 2025.11.19: SAM 3 and SAM 3D were released.
 - 2025.10.11: SAM 3 arrives! Officially announced and set to launch.
