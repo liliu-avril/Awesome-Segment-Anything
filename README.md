@@ -364,98 +364,120 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**SemiBUVS:** Long Chen and Qingqing Zheng and Yingying Chen and Faqin Lv and Qiong Wang.<br />
+:boom:**Colon-Bench:** Abdullah Hamdi, Changchun Yang, Xin Gao.<br />
+"Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.25645)]
+[[code](https://abdullahamdi.com/colon-bench)]
+[2026.03]
+
+:boom:Nitin Kulkarni, Akhil Devarashetti, Charlie Cluss, Livio Forte, Philip Schneider, Chunming Qiao, Alina Vereshchaka.<br />
+"Drive-Through 3D Vehicle Exterior Reconstruction via Dynamic-Scene SfM and Distortion-Aware Gaussian Splatting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.26638)]
+[2026.03]
+
+:boom:Guoping Xu, Jayaram K. Udupa, Yubing Tong, Xin Long, Ying Zhang, Jie Deng, Weiguo Lu, You Zhang.<br />
+"Adapting Segment Anything Model 3 for Concept-Driven Lesion Segmentation inMedical Images: An Experimental Study." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.25945)]
+[[code](https://github.com/apple1986/lesion-sam3)]
+[2026.03]
+
+:boom:Sieradzki, Alexander, Kamil Koszela, Szymon Koszykowski, Jakub Bednarek, and Jarosław Kurek.<br />
+"Zero-Shot Vertebral Instance Segmentation on DICOM Spine Radiographs Using Promptable Segment Anything Models." Journal of Clinical Medicine (2026).
+[[paper](https://www.mdpi.com/2077-0383/15/5/2042)]
+[2026.03]
+
+- **SemiBUVS:** Long Chen and Qingqing Zheng and Yingying Chen and Faqin Lv and Qiong Wang.<br />
 "SAM-Guided Semi-Supervised Breast Lesion Segmentation in Ultrasound Videos with A New Dataset." ESWA (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426010547)]
 [[code](https://github.com/003GH/SemiBUVS)]
 [2026.03]
 
-:boom:**GridVAD:** Mohamed Eltahir, Ahmed O. Ibrahim, Obada Siralkhatim, Tabarak Abdallah, Sondos Mohamed.<br />
+- **GridVAD:** Mohamed Eltahir, Ahmed O. Ibrahim, Obada Siralkhatim, Tabarak Abdallah, Sondos Mohamed.<br />
 "GridVAD: Open-Set Video Anomaly Detection via Spatial Reasoning over Stratified Frame Grids." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.25467)]
 [[code](https://gridvad.github.io/)]
 [2026.03]
 
-:boom:**XAI-SAM:** Abu Noman Md Sakib, Merjulah Roby, Zijie Zhang, Satish Muluk, Mark K. Eskandari, Ender A. Finol.<br />
+- **XAI-SAM:** Abu Noman Md Sakib, Merjulah Roby, Zijie Zhang, Satish Muluk, Mark K. Eskandari, Ender A. Finol.<br />
 "Dissecting Model Failures in Abdominal Aortic Aneurysm Segmentation through Explainability-Driven Analysis." CVPR (2026).
 [[paper](https://arxiv.org/abs/2603.24801)]
 [2026.03]
 
-:boom:**ET-SAM:** Xike Zhang, Maoyuan Ye, Juhua Liu, Bo Du.<br />
+- **ET-SAM:** Xike Zhang, Maoyuan Ye, Juhua Liu, Bo Du.<br />
 "ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.25168)]
 [2026.03]
 
-:boom:**UW-VOS:** Hongshen Zhao, Jingkang Tai, Yuhang Wu, Wenkang Zhang, Xi Lan, Shangyan Wang, Tianyu Zhang, Wankou Yang.<br />
+- **UW-VOS:** Hongshen Zhao, Jingkang Tai, Yuhang Wu, Wenkang Zhang, Xi Lan, Shangyan Wang, Tianyu Zhang, Wankou Yang.<br />
 "UW-VOS: A Large-Scale Dataset for Underwater Video Object Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.24006)]
 [2026.03]
 
-:boom:Mingqi Gao, Sijie Li, Jungong Han.<br />
+- Mingqi Gao, Sijie Li, Jungong Han.<br />
 "Re-Prompting SAM 3 via Object Retrieval: 3rd of the 5th PVUW MOSE Track." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.23788)]
 [2026.03]
 
-:boom:**AgentRVOS:** Woojeong Jin, Jaeho Lee, Heeseong Shin, Seungho Jang, Junhwan Heo, Seungryong Kim.<br />
+- **AgentRVOS:** Woojeong Jin, Jaeho Lee, Heeseong Shin, Seungho Jang, Junhwan Heo, Seungryong Kim.<br />
 "AgentRVOS: Reasoning over Object Tracks for Zero-Shot Referring Video Object Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.23489)]
 [[code](https://cvlab-kaist.github.io/AgentRVOS/)]
 [2026.03]
 
-:boom:**FCL-COD:** Jingchen Ni, Quan Zhang, Dan Jiang, Keyu Lv, Ke Zhang, Chun Yuan.<br />
+- **FCL-COD:** Jingchen Ni, Quan Zhang, Dan Jiang, Keyu Lv, Ke Zhang, Chun Yuan.<br />
 "FCL-COD: Weakly Supervised Camouflaged Object Detection with Frequency-aware and Contrastive Learning." CVPR (2026).
 [[paper](https://arxiv.org/abs/2603.22969)]
 [2026.03]
 
-:boom:Miquel Lopez Escoriza, Pau Amargant Alvarez.<br />
+- Miquel Lopez Escoriza, Pau Amargant Alvarez.<br />
 "Automatic Segmentation of 3D CT scans with SAM2 using a zero-shot approach." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.23116)]
 [2026.03]
 
-:boom:**VIRST-Audio:** Jihwan Hong, Jaeyoung Do.<br />
+- **VIRST-Audio:** Jihwan Hong, Jaeyoung Do.<br />
 "3rd Place of MeViS-Audio Track of the 5th PVUW: VIRST-Audio." CVPR workshop (2026).
 [[paper](https://arxiv.org/abs/2603.23126)]
 [[code](https://github.com/AIDASLab/VIRST/tree/virst-audio)]
 [2026.03]
 
-:boom:**FoB:** Yuntian Bo, Yazhou Zhu, Piotr Koniusz, Haofeng Zhang.<br />
+- **FoB:** Yuntian Bo, Yazhou Zhu, Piotr Koniusz, Haofeng Zhang.<br />
 "Focus on Background: Exploring SAM's Potential in Few-shot Medical Image Segmentation with Background-centric Prompting." CVPR (2026).
 [[paper](https://arxiv.org/abs/2603.21287)]
 [[code](https://github.com/primebo1/FoB_SAM)]
 [2026.03]
 
-:boom:**CataractSAM-2:** Mohammad Eslami, Dhanvinkumar Ganeshkumar, Saber Kazeminasab, Michael G. Morley, Michael V. Boland, Michael M. Lin, John B. Miller, David S. Friedman, Nazlee Zebardast, Lucia Sobrin, Tobias Elze.<br />
+- **CataractSAM-2:** Mohammad Eslami, Dhanvinkumar Ganeshkumar, Saber Kazeminasab, Michael G. Morley, Michael V. Boland, Michael M. Lin, John B. Miller, David S. Friedman, Nazlee Zebardast, Lucia Sobrin, Tobias Elze.<br />
 "CataractSAM-2: A Domain-Adapted Model for Anterior Segment Surgery Segmentation and Scalable Ground-Truth Annotation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.21566)]
 [2026.03]
 
-:boom:Lei Huang, Kai-Li Wang, Zhang Chen, Zhen-Huang, Saidjafar Murodzoda, Xin Chen, Jing Chen, Chun-Hao Chen, Yu Xia, Yu-Tong Yang, Jia-Cheng Li, Dilshod Nematov, Ilhan Yavuz, Zhao-Kui Wang.<br />
+- Lei Huang, Kai-Li Wang, Zhang Chen, Zhen-Huang, Saidjafar Murodzoda, Xin Chen, Jing Chen, Chun-Hao Chen, Yu Xia, Yu-Tong Yang, Jia-Cheng Li, Dilshod Nematov, Ilhan Yavuz, Zhao-Kui Wang.<br />
 "SAM Molecular Stacking with Heterogeneous Orientationfor High-Performance Perovskite Photovoltaics." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.21657)]
 [2026.03]
  
-:boom:Thomas Mendelson, Joshua Francois, Galit Lahav, Tammy Riklin-Raviv.<br />
+- Thomas Mendelson, Joshua Francois, Galit Lahav, Tammy Riklin-Raviv.<br />
 "Boundary-Aware Instance Segmentation in Microscopy Imaging." ISBI (2026).
 [[paper](https://arxiv.org/abs/2603.21206)]
 [2026.03]
 
-:boom:Muhammad Hassan Maqsood, Yanming Zhu, Alfred Lam, Getamesay Dagnaw, Xuefei Yin, Alan Wee-Chung Liew.<br />
+- Muhammad Hassan Maqsood, Yanming Zhu, Alfred Lam, Getamesay Dagnaw, Xuefei Yin, Alan Wee-Chung Liew.<br />
 "Prompt-Free Lightweight SAM Adaptation for Histopathology Nuclei Segmentation with Strong Cross-Dataset Generalization." ISBI (2026).
 [[paper](https://arxiv.org/abs/2603.20326)]
 [2026.03]
 
-:boom:Carolin Teuber, Anwai Archit, Tobias Boothe, Peter Ditte, Jochen Rink, Constantin Pape.<br />
+- Carolin Teuber, Anwai Archit, Tobias Boothe, Peter Ditte, Jochen Rink, Constantin Pape.<br />
 "Evaluating Vision Foundation Models for Pixel and Object Classification in Microscopy." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.19802)]
 [2026.03]
 
-:boom:**Distillation-SAM:** Tang, Jiyang and Han, Hu and Shan, Shiguang and Chen, Xilin.<br />
+- **Distillation-SAM:** Tang, Jiyang and Han, Hu and Shan, Shiguang and Chen, Xilin.<br />
 "Distillation-SAM: Knowledge Distillation Based Auto-prompt Embedding Learning for Surgical Image Segmentation." TMI (2026).
 [[paper](https://ieeexplore.ieee.org/document/11436118)]
 [[code](ttps://github.com/tjy828/DistillSAM)]
 [2026.03]
  
-:boom:**EventVCOD:** Zhang, H., Lyu, Y., Liu, H., Song, J., Yuan, D., & Yang, Y.<br />
+- **EventVCOD:** Zhang, H., Lyu, Y., Liu, H., Song, J., Yuan, D., & Yang, Y.<br />
 "Towards Explainable Video Camouflaged Object Detection: SAM2 with Eventstream-Inspired Data." AAAI (2026).
 [[paper](https://ojs.aaai.org/index.php/AAAI/article/view/38245)]
 [[code](https://github.com/lyu-yx/EventVCOD)]
