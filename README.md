@@ -364,6 +364,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SaSaSaSa2VA:** Dengxian Gong, Quanzhu Niu, Shihao Chen, Yuanzheng Wu, Yikang Zhou, Tao Zhang, Haobo Yuan, Lu Qi, Shunping Ji.<br />
+"SaSaSaSa2VA: 2nd Place of the 5th PVUW MeViS-Text Track." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.27241)]
+[2026.03]
+
 :boom:Aviraj Bevli, Sofian Chaybouti, Yasser Dahou, Hakim Hacid, Ngoc Dung Huynh, Phuc H. Le Khac, Sanath Narayan, Wamiq Reyaz Para, Ankit Singh.<br />
 "Falcon Perception." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.27365)]
