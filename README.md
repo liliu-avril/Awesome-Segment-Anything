@@ -364,6 +364,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CFR-SAM:**  Jingze Su, Tianle Zhu, Jiaxin Cai, Zhiyi Wang, Qi Li, Xiao Zhang, Tong Tong, Shu Wang, Wenxi Liu.<br />
+"Adapting SAM to Nuclei Instance Segmentation and Classification via Cooperative Fine-Grained Refinement." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.28027)]
+[2026.03]
+ 
+:boom:**RAP:** Zhihao Mao, Bangpu Chen.<br />
+"RAP: Retrieve, Adapt, and Prompt-Fit for Training-Free Few-Shot Medical Image Segmentation." IJCNN (2026).
+[[paper](https://arxiv.org/abs/2603.27705)]
+[2026.03]
+
+:boom:Samik Some, Vinay P. Namboodiri.<br />
+"Can Unsupervised Segmentation Reduce Annotation Costs for Video Semantic Segmentation?." ICVGIP (2026).
+[[paper](https://arxiv.org/abs/2603.27697)]
+[2026.03]
+
+:boom:M. Fazri Nizar.<br />
+"Domain-Guided YOLO26 with Composite BCE-Dice-Lovász Loss for Multi-Class Fetal Head Ultrasound Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.26755)]
+[2026.03]
+
+:boom:**Mask-CDKD:** Daoyu Shu and Zhan Zhang and Xiao Huang and Ru Wang and Nan Jia and Xinzhe Fu and Bingnan Yang and Fang Wan and Jianzhong Lu and Jianya Gong.<br />
+"Mask-CDKD: A source-free and label-free cross-domain knowledge distillation framework from SAM for satellite onboard VHR land-cover mapping." ISPRS Journal of Photogrammetry and Remote Sensing (2026).
+[[paper](https://doi.org/10.1016/j.isprsjprs.2026.03.035)]
+[[code](https://github.com/whujader/mask_cdkd)]
+[2026.03]
+
 :boom:**Colon-Bench:** Abdullah Hamdi, Changchun Yang, Xin Gao.<br />
 "Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.25645)]
