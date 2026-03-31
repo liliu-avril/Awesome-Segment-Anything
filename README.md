@@ -364,6 +364,51 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Aviraj Bevli, Sofian Chaybouti, Yasser Dahou, Hakim Hacid, Ngoc Dung Huynh, Phuc H. Le Khac, Sanath Narayan, Wamiq Reyaz Para, Ankit Singh.<br />
+"Falcon Perception." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.27365)]
+[[code](https://github.com/tiiuae/Falcon-Perception)]
+[2026.03]
+
+ :boom:**FT-FSOD:** Xuanlong Yu, Youyang Sha, Longfei Liu, Xi Shen, Di Yang.<br />
+"A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps." CVPR (2026).
+[[paper](https://arxiv.org/abs/2603.28182)]
+[[code](https://github.com/Intellindust-AI-Lab/FT-FSOD)]
+[2026.03]
+ 
+:boom:**LIT:** Xinyu Yang, Haozheng Yu, Yihong Sun, Bharath Hariharan, Jennifer J. Sun.<br />
+"Live Interactive Training for Video Segmentation." CVPR (2026).
+[[paper](https://arxiv.org/abs/2603.26929)]
+[[code](https://youngxinyu1802.github.io/projects/LIT/)]
+[2026.03]
+
+:boom: Xinyao Zhang, Chang Liu, Xiao Liang, Minghui Zheng, Sara Behdad.<br />
+"Evaluating Large and Lightweight Vision Models for Irregular Component Segmentation in E-Waste Disassembly." MSEC (2026).
+[[paper](https://arxiv.org/abs/2603.27441)]
+[2026.03]
+
+:boom:**Syn4Seg:** Guohuan Xie, Xin He, Dingying Fan, Le Zhang, Ming-Ming Cheng, Yun Liu.<br />
+"Make It Up: Fake Images, Real Gains in Generalized Few-shot Semantic Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.27206)]
+[2026.03]
+ 
+:boom:**IP-SAM:** Huiyao Zhang, Jin Bai, Rui Guo, JianWen Tan, HongFei Wang, Ye Li.<br />
+"IP-SAM: Prompt-Space Conditioning for Prompt-Absent Camouflaged Object Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.27250)]
+[2026.03]
+
+:boom:**OpenDPR:** Qi Guo, Jue Wang, Yinhe Liu, Yanfei Zhong.<br />
+"OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery." CVPR (2026).
+[[paper](https://arxiv.org/abs/2603.27645)]
+[[code](https://github.com/guoqi2002/OpenDPR)]
+[2026.03]
+
+:boom:**Industrial3D:** Chao Yin, Hongzhe Yue, Qing Han, Difeng Hu, Zhenyu Liang, Fangzhou Lin, Bing Sun, Boyu Wang, Mingkai Li, Wei Yao, Jack C. P. Cheng.<br />
+"Industrial3D: A Terrestrial LiDAR Point Cloud Dataset and CrossParadigm Benchmark for Industrial Infrastructure." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2603.28660)]
+[[code](https://github.com/pointcloudyc/Industrial3D)]
+[2026.03]
+
 :boom:**CFR-SAM:**  Jingze Su, Tianle Zhu, Jiaxin Cai, Zhiyi Wang, Qi Li, Xiao Zhang, Tong Tong, Shu Wang, Wenxi Liu.<br />
 "Adapting SAM to Nuclei Instance Segmentation and Classification via Cooperative Fine-Grained Refinement." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.28027)]
