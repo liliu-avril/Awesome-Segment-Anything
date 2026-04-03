@@ -368,23 +368,23 @@ If you find our work useful in your research, please consider citing:
 "IndoorCrowd: A Multi-Scene Dataset for Human Detection, Segmentation, and Tracking with an Automated Annotation Pipeline." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2604.02032)]
 [[code](https://sheepseb.github.io/IndoorCrowd/)]
-[2026.03]
+[2026.04]
  
 :boom:**GRAZE:** Syed Ahsan Masud Zaidi, Lior Shamir, William Hsu, Scott Dietrich, Talha Zaidi.<br />
 "GRAZE: Grounded Refinement and Motion-Aware Zero-Shot Event Localization ." CVPR Workshop  (2026).
 [[paper](https://arxiv.org/abs/2604.01383)]
 [[code](https://github.com/AhsanZaidi12/GRAZE)]
-[2026.03]
+[2026.04]
 
  :boom:**DPMO:** Hongru Chen, Jiyang Huang, Jia Wan, Antoni B. Chan.<br />
 "Dense Point-to-Mask Optimization with Reinforced Point Selection for Crowd Instance Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.01742)]
-[2026.03]
+[2026.04]
  
 :boom:Derek Austin.<br />
 "Better Rigs, Not Bigger Networks: A Body Model Ablation for Gaussian Avatars." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.01447)]
-[2026.03]
+[2026.04]
 
 :boom:Xusheng He, Canyang Wu, Jinrong Zhang, Weili Guan, Jianlong Wu, Liqiang Nie.<br />
 "The 1st Winner for 5th PVUW MeViS-Text Challenge: Strong MLLMs Meet SAM3 for Referring Video Object Segmentation." CVPR Workshop (2026).
