@@ -368,30 +368,30 @@ If you find our work useful in your research, please consider citing:
 "The 1st Winner for 5th PVUW MeViS-Text Challenge: Strong MLLMs Meet SAM3 for Referring Video Object Segmentation." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2604.00404)]
 [[code](https://github.com/Moujuruo/MeViSv2_Track_Solution_2026)]
-[2026.03]
+[2026.04]
 
 :boom:**TEP:** Jinrong Zhang, Canyang Wu, Xusheng He, Weili Guan, Jianlong Wu, Liqiang Nie.<br />
 "Advancing Complex Video Object Segmentation via Tracking-Enhanced Prompt: The 1st Winner for 5th PVUW MOSE Challenge." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2604.00395)]
-[2026.03]
+[2026.04]
  
 :boom:**AdaLoRA-QAT:** Prantik Deb, Srimanth Dhondy, N. Ramakrishna, Anu Kapoor, Raju S. Bapi, Tapabrata Chakraborti.<br />
 "AdaLoRA-QAT: Adaptive Low-Rank and Quantization-Aware Segmentation." ISBI (2026).
 [[paper](https://arxiv.org/abs/2604.01167)]
 [[code](https://prantik-pdeb.github.io/adaloraqat.github.io/)]
-[2026.03]
+[2026.04]
 
 :boom:**TF-SSD:** Zhijin He, Shuo Jin, Siyue Yu, Shuwei Wu, Bingfeng Zhang, Li Yu, Jimin Xiao.<br />
 "TF-SSD: A Strong Pipeline via Synergic Mask Filter for Training-free Co-salient Object Detection." CVPR (2026).
 [[paper](https://arxiv.org/abs/2604.00549)]
 [[code](https://github.com/hzz-yy/TF-SSD)]
-[2026.03]
+[2026.04]
 
 :boom:**PC-SAM:** Chengcheng Lv, Rushi Li, Mincheng Wu, Xiufang Shi, Zhenyu Wen, Shibo He.<br />
 "PC-SAM: Patch-Constrained Fine-Grained Interactive Road Segmentation in High-Resolution Remote Sensing Images." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.00495)]
 [[code](https://github.com/Cyber-CCOrange/PC-SAM)]
-[2026.03]
+[2026.04]
 
 :boom:**SaSaSaSa2VA:** Dengxian Gong, Quanzhu Niu, Shihao Chen, Yuanzheng Wu, Yikang Zhou, Tao Zhang, Haobo Yuan, Lu Qi, Shunping Ji.<br />
 "SaSaSaSa2VA: 2nd Place of the 5th PVUW MeViS-Text Track." ArXiv (2026).
