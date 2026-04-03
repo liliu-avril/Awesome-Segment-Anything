@@ -393,6 +393,67 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/Cyber-CCOrange/PC-SAM)]
 [2026.04]
 
+ :boom:**LunarRockSAM:** Wang, Yinan and Ye, Hongxia and Fa, Wenzhe.<br />
+"LunarRockSAM: A Domain-Adapted SAM with Bright-Spots Prompting and Conditional Screening for Lunar Rock Extraction." IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11442940)]
+[2026.03]
+ 
+:boom:**DBM-SAM:** Wei Gao, Teng Li, Cunang Jiang, Sicheng Wang, Yu Dai.<br />
+"DBM-SAM: Dual-branch multiscale adaptation of SAM for medical ultrasound segmentation." Displays (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0141938226001095)]
+[2026.03]
+
+ :boom:**SAM2-RoadNet:** Feng, Ruyue, Ziyou Guo, Xiao Du, and Tieru Wu.<br />
+"SAM2-RoadNet: Topology-Aware Multi-Scale Road Extraction from High-Resolution Remote Sensing Images." Remote Sensing (2026).
+[[paper](https://www.mdpi.com/2072-4292/18/6/913)]
+[2026.03]
+ 
+:boom:**IDRG-mSAM:** Wang, Leiquan and Meng, Yu and Luo, Chunbo and Xu, Mingming and Wu, Chunlei and Li, Zhongwei.<br />
+"SAM-Based Multi-Scale Fine-Tuning with Inter-layer Difference Guidance for Remote Sensing Change Detection." IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11449005/)]
+[2026.03]
+
+:boom:**SAM-ColonPolypGen:** Shasha Zhang and Yuang Cai and Yijun Chen and Xiang Cai and Peng Li.<br />
+"SAM-ColonPolypGen: Enhancing automated colon polyp report generation via reinforcement learning and prompt chaining." Biomedical Signal Processing and Control (2026).
+[[paper](https://doi.org/10.1016/j.bspc.2026.110084)]
+[2026.03]
+
+ :boom:**SemiBUVS:** Long Chen and Qingqing Zheng and Yingying Chen and Faqin Lv and Qiong Wang.<br />
+"SAM-Guided Semi-Supervised Breast Lesion Segmentation in Ultrasound Videos with A New Dataset." Expert Systems with Applications (2026).
+[[paper](https://doi.org/10.1016/j.eswa.2026.132141)]
+[[code](https://github.com/003GH/SemiBUVS)]
+[2026.03]
+ 
+:boom:**Mask-CDKD:** Daoyu Shu and Zhan Zhang and Xiao Huang and Ru Wang and Nan Jia and Xinzhe Fu and Bingnan Yang and Fang Wan and Jianzhong Lu and Jianya Gong.<br />
+"Mask-CDKD: A source-free and label-free cross-domain knowledge distillation framework from SAM for satellite onboard VHR land-cover mapping." ISPRS Journal of Photogrammetry and Remote Sensing (2026).
+[[paper](https://doi.org/10.1016/j.isprsjprs.2026.03.035)]
+[2026.03]
+
+ :boom:**SAM2-WaveUNet:** Shuzhou Lv and Shubin Zhang and Xiaoshuang Huang and Dong An and Jincun Liu and Yan Meng and Yaoguang Wei.<br />
+"SAM2-WaveUNet: A Frequency-Enhanced Segmentation Network for Fine-Grained Marine Organism Delineation." Expert Systems with Applications (2026).
+[[paper](https://doi.org/10.1016/j.eswa.2026.132175)]
+[2026.03]
+ 
+:boom:**VLP-SAM:** Sakurai, Kosuke, Ryotaro Shimizu, and Masayuki Goto.<br />
+"Vision and Language Reference for a Segment Anything Model for Few-Shot Segmentation." Journal of Imaging(2026).
+[[paper](https://www.mdpi.com/2313-433X/12/4/143)]
+[2026.03]
+
+:boom:**AutoPrompt-SAM3D:** Cheng, W., Tang, J., Wang, T. et al.<br />
+"AutoPrompt-SAM3D: integrated generation and selection for SAM2-based 3D medical segmentation." BMC Bioinformatics (2026).
+[[paper](https://doi.org/10.1186/s12859-026-06390-7)]
+[2026.03]
+
+:boom:Shata, Dina, Simon Denman, Sara Omrani, Robin Drogemuller, Hend Ali, and Ayman Wagdy.<br />
+"Parameter-Efficient Adaptation of Generative-Foundation (Flux, Qwen) vs. Zero-Shot (Gemini, SAM3) Models for Aerial Image Segmentation." Buildings (2026).
+[[paper](https://www.mdpi.com/2075-5309/16/7/1369)]
+[2026.03]
+ 
+:boom:**HATSAM:** Tang, T., Rao, Z., Wang, Y. et al.<br />
+"HATSAM: hierarchical adaptation strategy for segment anything model in medical imaging." SIViP (2026).
+[[paper](https://doi.org/10.1007/s11760-026-05288-4)]
+[2026.03]
+
 :boom:**SaSaSaSa2VA:** Dengxian Gong, Quanzhu Niu, Shihao Chen, Yuanzheng Wu, Yikang Zhou, Tao Zhang, Haobo Yuan, Lu Qi, Shunping Ji.<br />
 "SaSaSaSa2VA: 2nd Place of the 5th PVUW MeViS-Text Track." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.27241)]
