@@ -364,212 +364,212 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**IndoorCrowd:** Sebastian-Ion Nae, Radu Moldoveanu, Alexandra Stefania Ghita, Adina Magda Florea.<br />
+- **IndoorCrowd:** Sebastian-Ion Nae, Radu Moldoveanu, Alexandra Stefania Ghita, Adina Magda Florea.<br />
 "IndoorCrowd: A Multi-Scene Dataset for Human Detection, Segmentation, and Tracking with an Automated Annotation Pipeline." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2604.02032)]
 [[code](https://sheepseb.github.io/IndoorCrowd/)]
 [2026.04]
  
-:boom:**GRAZE:** Syed Ahsan Masud Zaidi, Lior Shamir, William Hsu, Scott Dietrich, Talha Zaidi.<br />
+- **GRAZE:** Syed Ahsan Masud Zaidi, Lior Shamir, William Hsu, Scott Dietrich, Talha Zaidi.<br />
 "GRAZE: Grounded Refinement and Motion-Aware Zero-Shot Event Localization ." CVPR Workshop  (2026).
 [[paper](https://arxiv.org/abs/2604.01383)]
 [[code](https://github.com/AhsanZaidi12/GRAZE)]
 [2026.04]
 
- :boom:**DPMO:** Hongru Chen, Jiyang Huang, Jia Wan, Antoni B. Chan.<br />
+- **DPMO:** Hongru Chen, Jiyang Huang, Jia Wan, Antoni B. Chan.<br />
 "Dense Point-to-Mask Optimization with Reinforced Point Selection for Crowd Instance Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.01742)]
 [2026.04]
  
-:boom:Derek Austin.<br />
+- Derek Austin.<br />
 "Better Rigs, Not Bigger Networks: A Body Model Ablation for Gaussian Avatars." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.01447)]
 [2026.04]
 
-:boom:Xusheng He, Canyang Wu, Jinrong Zhang, Weili Guan, Jianlong Wu, Liqiang Nie.<br />
+- Xusheng He, Canyang Wu, Jinrong Zhang, Weili Guan, Jianlong Wu, Liqiang Nie.<br />
 "The 1st Winner for 5th PVUW MeViS-Text Challenge: Strong MLLMs Meet SAM3 for Referring Video Object Segmentation." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2604.00404)]
 [[code](https://github.com/Moujuruo/MeViSv2_Track_Solution_2026)]
 [2026.04]
 
-:boom:**TEP:** Jinrong Zhang, Canyang Wu, Xusheng He, Weili Guan, Jianlong Wu, Liqiang Nie.<br />
+- **TEP:** Jinrong Zhang, Canyang Wu, Xusheng He, Weili Guan, Jianlong Wu, Liqiang Nie.<br />
 "Advancing Complex Video Object Segmentation via Tracking-Enhanced Prompt: The 1st Winner for 5th PVUW MOSE Challenge." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2604.00395)]
 [2026.04]
  
-:boom:**AdaLoRA-QAT:** Prantik Deb, Srimanth Dhondy, N. Ramakrishna, Anu Kapoor, Raju S. Bapi, Tapabrata Chakraborti.<br />
+- **AdaLoRA-QAT:** Prantik Deb, Srimanth Dhondy, N. Ramakrishna, Anu Kapoor, Raju S. Bapi, Tapabrata Chakraborti.<br />
 "AdaLoRA-QAT: Adaptive Low-Rank and Quantization-Aware Segmentation." ISBI (2026).
 [[paper](https://arxiv.org/abs/2604.01167)]
 [[code](https://prantik-pdeb.github.io/adaloraqat.github.io/)]
 [2026.04]
 
-:boom:**TF-SSD:** Zhijin He, Shuo Jin, Siyue Yu, Shuwei Wu, Bingfeng Zhang, Li Yu, Jimin Xiao.<br />
+- **TF-SSD:** Zhijin He, Shuo Jin, Siyue Yu, Shuwei Wu, Bingfeng Zhang, Li Yu, Jimin Xiao.<br />
 "TF-SSD: A Strong Pipeline via Synergic Mask Filter for Training-free Co-salient Object Detection." CVPR (2026).
 [[paper](https://arxiv.org/abs/2604.00549)]
 [[code](https://github.com/hzz-yy/TF-SSD)]
 [2026.04]
 
-:boom:**PC-SAM:** Chengcheng Lv, Rushi Li, Mincheng Wu, Xiufang Shi, Zhenyu Wen, Shibo He.<br />
+- **PC-SAM:** Chengcheng Lv, Rushi Li, Mincheng Wu, Xiufang Shi, Zhenyu Wen, Shibo He.<br />
 "PC-SAM: Patch-Constrained Fine-Grained Interactive Road Segmentation in High-Resolution Remote Sensing Images." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.00495)]
 [[code](https://github.com/Cyber-CCOrange/PC-SAM)]
 [2026.04]
 
- :boom:**LunarRockSAM:** Wang, Yinan and Ye, Hongxia and Fa, Wenzhe.<br />
+- **LunarRockSAM:** Wang, Yinan and Ye, Hongxia and Fa, Wenzhe.<br />
 "LunarRockSAM: A Domain-Adapted SAM with Bright-Spots Prompting and Conditional Screening for Lunar Rock Extraction." IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11442940)]
 [2026.03]
  
-:boom:**DBM-SAM:** Wei Gao, Teng Li, Cunang Jiang, Sicheng Wang, Yu Dai.<br />
+- **DBM-SAM:** Wei Gao, Teng Li, Cunang Jiang, Sicheng Wang, Yu Dai.<br />
 "DBM-SAM: Dual-branch multiscale adaptation of SAM for medical ultrasound segmentation." Displays (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0141938226001095)]
 [2026.03]
 
- :boom:**SAM2-RoadNet:** Feng, Ruyue, Ziyou Guo, Xiao Du, and Tieru Wu.<br />
+- **SAM2-RoadNet:** Feng, Ruyue, Ziyou Guo, Xiao Du, and Tieru Wu.<br />
 "SAM2-RoadNet: Topology-Aware Multi-Scale Road Extraction from High-Resolution Remote Sensing Images." Remote Sensing (2026).
 [[paper](https://www.mdpi.com/2072-4292/18/6/913)]
 [2026.03]
  
-:boom:**IDRG-mSAM:** Wang, Leiquan and Meng, Yu and Luo, Chunbo and Xu, Mingming and Wu, Chunlei and Li, Zhongwei.<br />
+- **IDRG-mSAM:** Wang, Leiquan and Meng, Yu and Luo, Chunbo and Xu, Mingming and Wu, Chunlei and Li, Zhongwei.<br />
 "SAM-Based Multi-Scale Fine-Tuning with Inter-layer Difference Guidance for Remote Sensing Change Detection." IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11449005/)]
 [2026.03]
 
-:boom:**SAM-ColonPolypGen:** Shasha Zhang and Yuang Cai and Yijun Chen and Xiang Cai and Peng Li.<br />
+- **SAM-ColonPolypGen:** Shasha Zhang and Yuang Cai and Yijun Chen and Xiang Cai and Peng Li.<br />
 "SAM-ColonPolypGen: Enhancing automated colon polyp report generation via reinforcement learning and prompt chaining." Biomedical Signal Processing and Control (2026).
 [[paper](https://doi.org/10.1016/j.bspc.2026.110084)]
 [2026.03]
 
- :boom:**SemiBUVS:** Long Chen and Qingqing Zheng and Yingying Chen and Faqin Lv and Qiong Wang.<br />
+- **SemiBUVS:** Long Chen and Qingqing Zheng and Yingying Chen and Faqin Lv and Qiong Wang.<br />
 "SAM-Guided Semi-Supervised Breast Lesion Segmentation in Ultrasound Videos with A New Dataset." Expert Systems with Applications (2026).
 [[paper](https://doi.org/10.1016/j.eswa.2026.132141)]
 [[code](https://github.com/003GH/SemiBUVS)]
 [2026.03]
  
-:boom:**Mask-CDKD:** Daoyu Shu and Zhan Zhang and Xiao Huang and Ru Wang and Nan Jia and Xinzhe Fu and Bingnan Yang and Fang Wan and Jianzhong Lu and Jianya Gong.<br />
+- **Mask-CDKD:** Daoyu Shu and Zhan Zhang and Xiao Huang and Ru Wang and Nan Jia and Xinzhe Fu and Bingnan Yang and Fang Wan and Jianzhong Lu and Jianya Gong.<br />
 "Mask-CDKD: A source-free and label-free cross-domain knowledge distillation framework from SAM for satellite onboard VHR land-cover mapping." ISPRS Journal of Photogrammetry and Remote Sensing (2026).
 [[paper](https://doi.org/10.1016/j.isprsjprs.2026.03.035)]
 [2026.03]
 
- :boom:**SAM2-WaveUNet:** Shuzhou Lv and Shubin Zhang and Xiaoshuang Huang and Dong An and Jincun Liu and Yan Meng and Yaoguang Wei.<br />
+- **SAM2-WaveUNet:** Shuzhou Lv and Shubin Zhang and Xiaoshuang Huang and Dong An and Jincun Liu and Yan Meng and Yaoguang Wei.<br />
 "SAM2-WaveUNet: A Frequency-Enhanced Segmentation Network for Fine-Grained Marine Organism Delineation." Expert Systems with Applications (2026).
 [[paper](https://doi.org/10.1016/j.eswa.2026.132175)]
 [2026.03]
  
-:boom:**VLP-SAM:** Sakurai, Kosuke, Ryotaro Shimizu, and Masayuki Goto.<br />
+- **VLP-SAM:** Sakurai, Kosuke, Ryotaro Shimizu, and Masayuki Goto.<br />
 "Vision and Language Reference for a Segment Anything Model for Few-Shot Segmentation." Journal of Imaging(2026).
 [[paper](https://www.mdpi.com/2313-433X/12/4/143)]
 [2026.03]
 
-:boom:**AutoPrompt-SAM3D:** Cheng, W., Tang, J., Wang, T. et al.<br />
+- **AutoPrompt-SAM3D:** Cheng, W., Tang, J., Wang, T. et al.<br />
 "AutoPrompt-SAM3D: integrated generation and selection for SAM2-based 3D medical segmentation." BMC Bioinformatics (2026).
 [[paper](https://doi.org/10.1186/s12859-026-06390-7)]
 [2026.03]
 
-:boom:Shata, Dina, Simon Denman, Sara Omrani, Robin Drogemuller, Hend Ali, and Ayman Wagdy.<br />
+- Shata, Dina, Simon Denman, Sara Omrani, Robin Drogemuller, Hend Ali, and Ayman Wagdy.<br />
 "Parameter-Efficient Adaptation of Generative-Foundation (Flux, Qwen) vs. Zero-Shot (Gemini, SAM3) Models for Aerial Image Segmentation." Buildings (2026).
 [[paper](https://www.mdpi.com/2075-5309/16/7/1369)]
 [2026.03]
  
-:boom:**HATSAM:** Tang, T., Rao, Z., Wang, Y. et al.<br />
+- **HATSAM:** Tang, T., Rao, Z., Wang, Y. et al.<br />
 "HATSAM: hierarchical adaptation strategy for segment anything model in medical imaging." SIViP (2026).
 [[paper](https://doi.org/10.1007/s11760-026-05288-4)]
 [2026.03]
 
-:boom:**SaSaSaSa2VA:** Dengxian Gong, Quanzhu Niu, Shihao Chen, Yuanzheng Wu, Yikang Zhou, Tao Zhang, Haobo Yuan, Lu Qi, Shunping Ji.<br />
+- **SaSaSaSa2VA:** Dengxian Gong, Quanzhu Niu, Shihao Chen, Yuanzheng Wu, Yikang Zhou, Tao Zhang, Haobo Yuan, Lu Qi, Shunping Ji.<br />
 "SaSaSaSa2VA: 2nd Place of the 5th PVUW MeViS-Text Track." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.27241)]
 [2026.03]
 
-:boom:Aviraj Bevli, Sofian Chaybouti, Yasser Dahou, Hakim Hacid, Ngoc Dung Huynh, Phuc H. Le Khac, Sanath Narayan, Wamiq Reyaz Para, Ankit Singh.<br />
+- Aviraj Bevli, Sofian Chaybouti, Yasser Dahou, Hakim Hacid, Ngoc Dung Huynh, Phuc H. Le Khac, Sanath Narayan, Wamiq Reyaz Para, Ankit Singh.<br />
 "Falcon Perception." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.27365)]
 [[code](https://github.com/tiiuae/Falcon-Perception)]
 [2026.03]
 
- :boom:**FT-FSOD:** Xuanlong Yu, Youyang Sha, Longfei Liu, Xi Shen, Di Yang.<br />
+- **FT-FSOD:** Xuanlong Yu, Youyang Sha, Longfei Liu, Xi Shen, Di Yang.<br />
 "A Closer Look at Cross-Domain Few-Shot Object Detection: Fine-Tuning Matters and Parallel Decoder Helps." CVPR (2026).
 [[paper](https://arxiv.org/abs/2603.28182)]
 [[code](https://github.com/Intellindust-AI-Lab/FT-FSOD)]
 [2026.03]
  
-:boom:**LIT:** Xinyu Yang, Haozheng Yu, Yihong Sun, Bharath Hariharan, Jennifer J. Sun.<br />
+- **LIT:** Xinyu Yang, Haozheng Yu, Yihong Sun, Bharath Hariharan, Jennifer J. Sun.<br />
 "Live Interactive Training for Video Segmentation." CVPR (2026).
 [[paper](https://arxiv.org/abs/2603.26929)]
 [[code](https://youngxinyu1802.github.io/projects/LIT/)]
 [2026.03]
 
-:boom: Xinyao Zhang, Chang Liu, Xiao Liang, Minghui Zheng, Sara Behdad.<br />
+- Xinyao Zhang, Chang Liu, Xiao Liang, Minghui Zheng, Sara Behdad.<br />
 "Evaluating Large and Lightweight Vision Models for Irregular Component Segmentation in E-Waste Disassembly." MSEC (2026).
 [[paper](https://arxiv.org/abs/2603.27441)]
 [2026.03]
 
-:boom:**Syn4Seg:** Guohuan Xie, Xin He, Dingying Fan, Le Zhang, Ming-Ming Cheng, Yun Liu.<br />
+- **Syn4Seg:** Guohuan Xie, Xin He, Dingying Fan, Le Zhang, Ming-Ming Cheng, Yun Liu.<br />
 "Make It Up: Fake Images, Real Gains in Generalized Few-shot Semantic Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.27206)]
 [2026.03]
  
-:boom:**IP-SAM:** Huiyao Zhang, Jin Bai, Rui Guo, JianWen Tan, HongFei Wang, Ye Li.<br />
+- **IP-SAM:** Huiyao Zhang, Jin Bai, Rui Guo, JianWen Tan, HongFei Wang, Ye Li.<br />
 "IP-SAM: Prompt-Space Conditioning for Prompt-Absent Camouflaged Object Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.27250)]
 [2026.03]
 
-:boom:**OpenDPR:** Qi Guo, Jue Wang, Yinhe Liu, Yanfei Zhong.<br />
+- **OpenDPR:** Qi Guo, Jue Wang, Yinhe Liu, Yanfei Zhong.<br />
 "OpenDPR: Open-Vocabulary Change Detection via Vision-Centric Diffusion-Guided Prototype Retrieval for Remote Sensing Imagery." CVPR (2026).
 [[paper](https://arxiv.org/abs/2603.27645)]
 [[code](https://github.com/guoqi2002/OpenDPR)]
 [2026.03]
 
-:boom:**Industrial3D:** Chao Yin, Hongzhe Yue, Qing Han, Difeng Hu, Zhenyu Liang, Fangzhou Lin, Bing Sun, Boyu Wang, Mingkai Li, Wei Yao, Jack C. P. Cheng.<br />
+- **Industrial3D:** Chao Yin, Hongzhe Yue, Qing Han, Difeng Hu, Zhenyu Liang, Fangzhou Lin, Bing Sun, Boyu Wang, Mingkai Li, Wei Yao, Jack C. P. Cheng.<br />
 "Industrial3D: A Terrestrial LiDAR Point Cloud Dataset and CrossParadigm Benchmark for Industrial Infrastructure." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.28660)]
 [[code](https://github.com/pointcloudyc/Industrial3D)]
 [2026.03]
 
-:boom:**CFR-SAM:**  Jingze Su, Tianle Zhu, Jiaxin Cai, Zhiyi Wang, Qi Li, Xiao Zhang, Tong Tong, Shu Wang, Wenxi Liu.<br />
+- **CFR-SAM:**  Jingze Su, Tianle Zhu, Jiaxin Cai, Zhiyi Wang, Qi Li, Xiao Zhang, Tong Tong, Shu Wang, Wenxi Liu.<br />
 "Adapting SAM to Nuclei Instance Segmentation and Classification via Cooperative Fine-Grained Refinement." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.28027)]
 [2026.03]
  
-:boom:**RAP:** Zhihao Mao, Bangpu Chen.<br />
+- **RAP:** Zhihao Mao, Bangpu Chen.<br />
 "RAP: Retrieve, Adapt, and Prompt-Fit for Training-Free Few-Shot Medical Image Segmentation." IJCNN (2026).
 [[paper](https://arxiv.org/abs/2603.27705)]
 [2026.03]
 
-:boom:Samik Some, Vinay P. Namboodiri.<br />
+- Samik Some, Vinay P. Namboodiri.<br />
 "Can Unsupervised Segmentation Reduce Annotation Costs for Video Semantic Segmentation?." ICVGIP (2026).
 [[paper](https://arxiv.org/abs/2603.27697)]
 [2026.03]
 
-:boom:M. Fazri Nizar.<br />
+- M. Fazri Nizar.<br />
 "Domain-Guided YOLO26 with Composite BCE-Dice-Lovász Loss for Multi-Class Fetal Head Ultrasound Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.26755)]
 [2026.03]
 
-:boom:**Mask-CDKD:** Daoyu Shu and Zhan Zhang and Xiao Huang and Ru Wang and Nan Jia and Xinzhe Fu and Bingnan Yang and Fang Wan and Jianzhong Lu and Jianya Gong.<br />
+- **Mask-CDKD:** Daoyu Shu and Zhan Zhang and Xiao Huang and Ru Wang and Nan Jia and Xinzhe Fu and Bingnan Yang and Fang Wan and Jianzhong Lu and Jianya Gong.<br />
 "Mask-CDKD: A source-free and label-free cross-domain knowledge distillation framework from SAM for satellite onboard VHR land-cover mapping." ISPRS Journal of Photogrammetry and Remote Sensing (2026).
 [[paper](https://doi.org/10.1016/j.isprsjprs.2026.03.035)]
 [[code](https://github.com/whujader/mask_cdkd)]
 [2026.03]
 
-:boom:**Colon-Bench:** Abdullah Hamdi, Changchun Yang, Xin Gao.<br />
+- **Colon-Bench:** Abdullah Hamdi, Changchun Yang, Xin Gao.<br />
 "Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.25645)]
 [[code](https://abdullahamdi.com/colon-bench)]
 [2026.03]
 
-:boom:Nitin Kulkarni, Akhil Devarashetti, Charlie Cluss, Livio Forte, Philip Schneider, Chunming Qiao, Alina Vereshchaka.<br />
+- Nitin Kulkarni, Akhil Devarashetti, Charlie Cluss, Livio Forte, Philip Schneider, Chunming Qiao, Alina Vereshchaka.<br />
 "Drive-Through 3D Vehicle Exterior Reconstruction via Dynamic-Scene SfM and Distortion-Aware Gaussian Splatting." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.26638)]
 [2026.03]
 
-:boom:Guoping Xu, Jayaram K. Udupa, Yubing Tong, Xin Long, Ying Zhang, Jie Deng, Weiguo Lu, You Zhang.<br />
+- Guoping Xu, Jayaram K. Udupa, Yubing Tong, Xin Long, Ying Zhang, Jie Deng, Weiguo Lu, You Zhang.<br />
 "Adapting Segment Anything Model 3 for Concept-Driven Lesion Segmentation inMedical Images: An Experimental Study." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2603.25945)]
 [[code](https://github.com/apple1986/lesion-sam3)]
 [2026.03]
 
-:boom:Sieradzki, Alexander, Kamil Koszela, Szymon Koszykowski, Jakub Bednarek, and Jarosław Kurek.<br />
+- Sieradzki, Alexander, Kamil Koszela, Szymon Koszykowski, Jakub Bednarek, and Jarosław Kurek.<br />
 "Zero-Shot Vertebral Instance Segmentation on DICOM Spine Radiographs Using Promptable Segment Anything Models." Journal of Clinical Medicine (2026).
 [[paper](https://www.mdpi.com/2077-0383/15/5/2042)]
 [2026.03]
