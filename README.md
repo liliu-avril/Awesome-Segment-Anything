@@ -364,6 +364,38 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+ :boom:**Boxer:** Daniel DeTone, Tianwei Shen, Fan Zhang, Lingni Ma, Julian Straub, Richard Newcombe, Jakob Engel.<br />
+"Boxer: Robust Lifting of Open-World 2D Bounding Boxes to 3D." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.05212)]
+[[code](http://facebookresearch.github.io/boxer)]
+[2026.04]
+ 
+:boom:Ye Bi, Bimala Acharya, David Rosero, Juan Steibel.<br />
+"Automated Segmentation and Tracking of Group Housed Pigs Using Foundation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.03426)]
+[2026.04]
+
+:boom:Abdelmoamen Nasser, Yousef Baba'a, Murad Mebrahtu, Nadya Abdel Madjid, Jorge Dias, Majid Khonji.<br />
+"Visual Prompt Based Reasoning for Offroad Mapping using Multimodal LLMs." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.04564)]
+[2026.04]
+
+ :boom:**SGPer:** Shijie Wang, Zijian Wang, Yadan Luo, Scott Chapman, Xin Yu, Zi Huang.<br />
+"Learning to Synergize Semantic and Geometric Priors for Limited-Data Wheat Disease Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.05415)]
+[2026.04]
+ 
+:boom:**Pickalo:** Alessandro Tarsi, Matteo Mastrogiuseppe, Saverio Taliani, Simone Cortinovis, Ugo Pattacini.<br />
+"Pickalo: Leveraging 6D Pose Estimation for Low-Cost Industrial Bin Picking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.04690)]
+[[code](https://mesh-iit.github.io/project-jl2-camozzi/)]
+[2026.04]
+
+ :boom:**CardioSAM:** Ujjwal Jain.<br />
+"CardioSAM: Topology-Aware Decoder Design for High-Precision Cardiac MRI Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.03313)]
+[2026.04]
+
 :boom:**FSS-SAM3:** Yi-Jen Tsai, Yen-Yu Lin, Chien-Yao Wang.<br />
 "Few-Shot Semantic Segmentation Meets SAM3." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.05433)]
