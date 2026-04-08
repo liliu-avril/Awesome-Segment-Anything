@@ -364,6 +364,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**FSS-SAM3:** Yi-Jen Tsai, Yen-Yu Lin, Chien-Yao Wang.<br />
+"Few-Shot Semantic Segmentation Meets SAM3." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.05433)]
+[[code](https://github.com/WongKinYiu/FSS-SAM3)]
+[2026.04]
+
+:boom:**XSeg:** Hongxia Gao, Litao Li, Yixin Chen, Jiali Wen, Kaijie Zhang, Qianyun Liu.<br />
+"XSeg: A Large-scale X-ray Contraband Segmentation Benchmark For Real-World Security Screening." CVPR (2026).
+[[paper](https://arxiv.org/abs/2604.03706)]
+[[code](https://huggingface.co/datasets/xi801/XSeg)]
+[2026.04]
+
 - **IndoorCrowd:** Sebastian-Ion Nae, Radu Moldoveanu, Alexandra Stefania Ghita, Adina Magda Florea.<br />
 "IndoorCrowd: A Multi-Scene Dataset for Human Detection, Segmentation, and Tracking with an Automated Annotation Pipeline." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2604.02032)]
