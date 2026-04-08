@@ -364,6 +364,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**UniSurgSAM:** Haofeng Liu, Ziyue Wang, Alex Y. W. Kong, Guanyi Qin, Yunqiu Xu, Chang Han Low, Mingqi Gao, Lap Yan Lennon Chan, Yueming Jin.<br />
+"UniSurgSAM: A Unified Promptable Model for Reliable Surgical Video Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.03645)]
+[[code](https://jinlab-imvr.github.io/UniSurgSAM)]
+[2026.04]
+
  :boom:**Boxer:** Daniel DeTone, Tianwei Shen, Fan Zhang, Lingni Ma, Julian Straub, Richard Newcombe, Jakob Engel.<br />
 "Boxer: Robust Lifting of Open-World 2D Bounding Boxes to 3D." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.05212)]
