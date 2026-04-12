@@ -364,6 +364,21 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**OVS-DINO:** Haoxi Zeng, Qiankun Liu, Yi Bin, Haiyue Zhang, Yujuan Ding, Guoqing Wang, Deqiang Ouyang, Heng Tao Shen.<br />
+"OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.08461)]
+[2026.04]
+
+:boom:**Tarot-SAM3:** Weiming Zhang, Dingwen Xiao, Songyue Guo, Guangyu Xiang, Shiqi Wen, Minwei Zhao, Lei Chen, Lin Wang.<br />
+"Tarot-SAM3: Training-free SAM3 for Any Referring Expression Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.07916)]
+[2026.04]
+
+:boom:**PanoSAM2:** Dingwen Xiao, Weiming Zhang, Shiqi Wen, Lin Wang.<br />
+"PanoSAM2: Lightweight Distortion- and Memory-aware Adaptions of SAM2 for 360 Video Object Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.07901)]
+[2026.04]
+
 :boom:**UniSurgSAM:** Haofeng Liu, Ziyue Wang, Alex Y. W. Kong, Guanyi Qin, Yunqiu Xu, Chang Han Low, Mingqi Gao, Lap Yan Lennon Chan, Yueming Jin.<br />
 "UniSurgSAM: A Unified Promptable Model for Reliable Surgical Video Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.03645)]
