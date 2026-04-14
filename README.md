@@ -416,6 +416,17 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2604.08722)]
 [2026.04]
 
+:boom:Lars Lundqvist, Earl Ranario, Hamid Kamangir, Heesup Yun, Christine Diepenbrock, Brian N. Bailey, J. Mason Earles.<br />
+"Does Your VFM Speak Plant? The Botanical Grammar of Vision Foundation Models for Object Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.09920)]
+[2026.04]
+
+:boom:**DiTTA:** Jihun Kim, Hoyong Kwon, Hyeokjun Kweon, Kuk-Jin Yoon.<br />
+"Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.10950)]
+[[code](https://github.com/jihun1998/DiTTA)]
+[2026.04]
+
 - **OVS-DINO:** Haoxi Zeng, Qiankun Liu, Yi Bin, Haiyue Zhang, Yujuan Ding, Guoqing Wang, Deqiang Ouyang, Heng Tao Shen.<br />
 "OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.08461)]
