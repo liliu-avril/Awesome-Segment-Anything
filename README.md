@@ -364,66 +364,114 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**OVS-DINO:** Haoxi Zeng, Qiankun Liu, Yi Bin, Haiyue Zhang, Yujuan Ding, Guoqing Wang, Deqiang Ouyang, Heng Tao Shen.<br />
+:boom:**VLMaterial:** Jiangyou Zhu, He Chen.<br />
+"VLMaterial: Vision-Language Model-Based Camera-Radar Fusion for Physics-Grounded Material Identification." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.11671)]
+[2026.04]
+
+:boom:**H-SPAM:** Julien Walther, Rémi Giraud, Michaël Clément.<br />
+"H-SPAM: Hierarchical Superpixel Anything Model." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.11218)]
+[2026.04]
+ 
+:boom:**SeSAM :** Anurag Das, Anna Kukleva, Xinting Hu, Yuki M. Asano, Bernt Schiele.<br />
+"Do Instance Priors Help Weakly Supervised Semantic Segmentation?." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.11170)]
+[[code](XXXXXXXXXXXXXXXXXXXXXX)]
+[2026.04]
+
+:boom:**Boxes2Pixels:** Camile Lendering, Erkut Akdag, Egor Bondarev.<br />
+"Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks." CVPR workshop (2026).
+[[paper](https://arxiv.org/abs/2604.11162)]
+[[code](https://github.com/CLendering/Boxes2Pixels)]
+[2026.04]
+ 
+:boom:Kaden Stillwagon, Alexandra Dunnum VandeLoo, Benjamin Magondu, Craig R. Forest.<br />
+"Self-supervised Pretraining of Cell Segmentation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.10609)]
+[2026.04]
+
+:boom:**RobustMedSAM:** Jieru Li, Matthew Chen, Micky C. Nnamdi, J. Ben Tamo, Benoit L. Marteau, May D. Wang.<br />
+"RobustMedSAM: Degradation-Resilient Medical Image Segmentation via Robust Foundation Model Adaptation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.09814)]
+[2026.04]
+
+:boom:**PASTA:** Melanie Neubauer, Elmar Rueckert, Christian Rauch.<br />
+"PASTA: Vision Transformer Patch Aggregation for Weakly Supervised Target and Anomaly Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.09701)]
+[2026.04]
+
+:boom:**MV3DIS:** Yibo Zhao, Yigong Zhang, Jin Xie.<br />
+"MV3DIS: Multi-View Mask Matching via 3D Guides for Zero-Shot 3D Instance Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.08916)]
+[[code](https://github.com/zybjn/MV3DIS)]
+[2026.04]
+
+:boom:Adrian Manchado, Tanner Cellio, Jonathan Keane, Yiyang Wang.<br />
+"AI Driven Soccer Analysis Using Computer Vision." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.08722)]
+[2026.04]
+
+- **OVS-DINO:** Haoxi Zeng, Qiankun Liu, Yi Bin, Haiyue Zhang, Yujuan Ding, Guoqing Wang, Deqiang Ouyang, Heng Tao Shen.<br />
 "OVS-DINO: Open-Vocabulary Segmentation via Structure-Aligned SAM-DINO with Language Guidance." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.08461)]
 [2026.04]
 
-:boom:**Tarot-SAM3:** Weiming Zhang, Dingwen Xiao, Songyue Guo, Guangyu Xiang, Shiqi Wen, Minwei Zhao, Lei Chen, Lin Wang.<br />
+- **Tarot-SAM3:** Weiming Zhang, Dingwen Xiao, Songyue Guo, Guangyu Xiang, Shiqi Wen, Minwei Zhao, Lei Chen, Lin Wang.<br />
 "Tarot-SAM3: Training-free SAM3 for Any Referring Expression Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.07916)]
 [2026.04]
 
-:boom:**PanoSAM2:** Dingwen Xiao, Weiming Zhang, Shiqi Wen, Lin Wang.<br />
+- **PanoSAM2:** Dingwen Xiao, Weiming Zhang, Shiqi Wen, Lin Wang.<br />
 "PanoSAM2: Lightweight Distortion- and Memory-aware Adaptions of SAM2 for 360 Video Object Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.07901)]
 [2026.04]
 
-:boom:**UniSurgSAM:** Haofeng Liu, Ziyue Wang, Alex Y. W. Kong, Guanyi Qin, Yunqiu Xu, Chang Han Low, Mingqi Gao, Lap Yan Lennon Chan, Yueming Jin.<br />
+- **UniSurgSAM:** Haofeng Liu, Ziyue Wang, Alex Y. W. Kong, Guanyi Qin, Yunqiu Xu, Chang Han Low, Mingqi Gao, Lap Yan Lennon Chan, Yueming Jin.<br />
 "UniSurgSAM: A Unified Promptable Model for Reliable Surgical Video Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.03645)]
 [[code](https://jinlab-imvr.github.io/UniSurgSAM)]
 [2026.04]
 
- :boom:**Boxer:** Daniel DeTone, Tianwei Shen, Fan Zhang, Lingni Ma, Julian Straub, Richard Newcombe, Jakob Engel.<br />
+- **Boxer:** Daniel DeTone, Tianwei Shen, Fan Zhang, Lingni Ma, Julian Straub, Richard Newcombe, Jakob Engel.<br />
 "Boxer: Robust Lifting of Open-World 2D Bounding Boxes to 3D." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.05212)]
 [[code](http://facebookresearch.github.io/boxer)]
 [2026.04]
  
-:boom:Ye Bi, Bimala Acharya, David Rosero, Juan Steibel.<br />
+- Ye Bi, Bimala Acharya, David Rosero, Juan Steibel.<br />
 "Automated Segmentation and Tracking of Group Housed Pigs Using Foundation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.03426)]
 [2026.04]
 
-:boom:Abdelmoamen Nasser, Yousef Baba'a, Murad Mebrahtu, Nadya Abdel Madjid, Jorge Dias, Majid Khonji.<br />
+- Abdelmoamen Nasser, Yousef Baba'a, Murad Mebrahtu, Nadya Abdel Madjid, Jorge Dias, Majid Khonji.<br />
 "Visual Prompt Based Reasoning for Offroad Mapping using Multimodal LLMs." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.04564)]
 [2026.04]
 
- :boom:**SGPer:** Shijie Wang, Zijian Wang, Yadan Luo, Scott Chapman, Xin Yu, Zi Huang.<br />
+- **SGPer:** Shijie Wang, Zijian Wang, Yadan Luo, Scott Chapman, Xin Yu, Zi Huang.<br />
 "Learning to Synergize Semantic and Geometric Priors for Limited-Data Wheat Disease Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.05415)]
 [2026.04]
  
-:boom:**Pickalo:** Alessandro Tarsi, Matteo Mastrogiuseppe, Saverio Taliani, Simone Cortinovis, Ugo Pattacini.<br />
+- **Pickalo:** Alessandro Tarsi, Matteo Mastrogiuseppe, Saverio Taliani, Simone Cortinovis, Ugo Pattacini.<br />
 "Pickalo: Leveraging 6D Pose Estimation for Low-Cost Industrial Bin Picking." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.04690)]
 [[code](https://mesh-iit.github.io/project-jl2-camozzi/)]
 [2026.04]
 
- :boom:**CardioSAM:** Ujjwal Jain.<br />
+- **CardioSAM:** Ujjwal Jain.<br />
 "CardioSAM: Topology-Aware Decoder Design for High-Precision Cardiac MRI Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.03313)]
 [2026.04]
 
-:boom:**FSS-SAM3:** Yi-Jen Tsai, Yen-Yu Lin, Chien-Yao Wang.<br />
+- **FSS-SAM3:** Yi-Jen Tsai, Yen-Yu Lin, Chien-Yao Wang.<br />
 "Few-Shot Semantic Segmentation Meets SAM3." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.05433)]
 [[code](https://github.com/WongKinYiu/FSS-SAM3)]
 [2026.04]
 
-:boom:**XSeg:** Hongxia Gao, Litao Li, Yixin Chen, Jiali Wen, Kaijie Zhang, Qianyun Liu.<br />
+- **XSeg:** Hongxia Gao, Litao Li, Yixin Chen, Jiali Wen, Kaijie Zhang, Qianyun Liu.<br />
 "XSeg: A Large-scale X-ray Contraband Segmentation Benchmark For Real-World Security Screening." CVPR (2026).
 [[paper](https://arxiv.org/abs/2604.03706)]
 [[code](https://huggingface.co/datasets/xi801/XSeg)]
