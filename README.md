@@ -364,6 +364,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**OccSAM-Bench:** Nhan Ho, Luu Le, Thanh-Huy Nguyen, Thien Nguyen, Xiaofeng Liu, Ulas Bagci.<br />
+"Seeing Through the Tool: A Controlled Benchmark for Occlusion Robustness in Foundation Segmentation Models." CVPR workshop (2026).
+[[paper](https://arxiv.org/abs/2604.11711)]
+[2026.04]
+
 :boom:**VLMaterial:** Jiangyou Zhu, He Chen.<br />
 "VLMaterial: Vision-Language Model-Based Camera-Radar Fusion for Physics-Grounded Material Identification." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.11671)]
@@ -377,7 +382,6 @@ If you find our work useful in your research, please consider citing:
 :boom:**SeSAM :** Anurag Das, Anna Kukleva, Xinting Hu, Yuki M. Asano, Bernt Schiele.<br />
 "Do Instance Priors Help Weakly Supervised Semantic Segmentation?." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.11170)]
-[[code](XXXXXXXXXXXXXXXXXXXXXX)]
 [2026.04]
 
 :boom:**Boxes2Pixels:** Camile Lendering, Erkut Akdag, Egor Bondarev.<br />
