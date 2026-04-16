@@ -364,6 +364,38 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**TF-SMOT:** Laurence Bonat, Francesco Tonini, Elisa Ricci, Lorenzo Vaquero.<br />
+"Training-Free Semantic Multi-Object Tracking with Vision-Language Models." FG (2026).
+[[paper](https://arxiv.org/abs/2604.14074)]
+[2026.04]
+ 
+:boom:Hayato Inoue, Shota Harada, Shumpei Takezaki, Ryoma Bise.<br />
+"Cell Instance Segmentation via Multi-Task Image-to-Image Schrödinger Bridge." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.12318)]
+[2026.04]
+
+:boom:**Pi-HOC:** Sravan Chittupalli, Ayush Jain, Dong Huang.<br />
+"Pi-HOC: Pairwise 3D Human-Object Contact Estimation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.12923)]
+[[code](https://pi-hoc.github.io/)]
+[2026.04]
+
+:boom:Caiwen Jiang, Lei Zeng, Wei Liu.<br />
+"A 3D SAM-Based Progressive Prompting Framework for Multi-Task Segmentation of Radiotherapy-induced Normal Tissue Injuries in Limited-Data Settings." Medical Image Analysis (2026).
+[[paper](https://arxiv.org/abs/2604.13367)]
+[2026.04]
+
+:boom:Hao Wang, Jiqing Zhang, Xin Yang, Baocai Yin, Lu Jiang, Zetian Mi, Huibing Wang.<br />
+"Modality-Agnostic Prompt Learning for Multi-Modal Camouflaged Object Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.12380)]
+[2026.04]
+
+:boom:**PR-MaGIC:** Minjae Lee, Sungwoo Hur, Soojin Hwang, Won Hwa Kim.<br />
+"PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.12113)]
+[[code](https://postech-minjaelee.github.io/PR-MaGIC/)]
+[2026.04]
+
 :boom:**OccSAM-Bench:** Nhan Ho, Luu Le, Thanh-Huy Nguyen, Thien Nguyen, Xiaofeng Liu, Ulas Bagci.<br />
 "Seeing Through the Tool: A Controlled Benchmark for Occlusion Robustness in Foundation Segmentation Models." CVPR workshop (2026).
 [[paper](https://arxiv.org/abs/2604.11711)]
@@ -422,7 +454,7 @@ If you find our work useful in your research, please consider citing:
 [2026.04]
 
 :boom:**DiTTA:** Jihun Kim, Hoyong Kwon, Hyeokjun Kweon, Kuk-Jin Yoon.<br />
-"Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation." ArXiv (2026).
+"Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation." CVPR (2026).
 [[paper](https://arxiv.org/abs/2604.10950)]
 [[code](https://github.com/jihun1998/DiTTA)]
 [2026.04]
