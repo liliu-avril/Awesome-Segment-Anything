@@ -364,6 +364,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Petro-SAM:** Yili Ren, Shiqi Wen, Li Hou, Dingwen Xiao, Weiming Zhang, Caleb Chen Cao, Lin Wang, Zilu Zheng, Qianxiao Su, Mingjun Zhao, Lei Chen.<br />
+"From Boundaries to Semantics: Prompt-Guided Multi-Task Learning for Petrographic Thin-section Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.14805)]
+[2026.04]
+ 
+:boom:**WILD-SAM:** Yucheng Pan, Heping Li, Zhangle Liu, Sajid Hussain, Bin Pan.<br />
+"WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.14540)]
+[2026.04]
+
 :boom:**TF-SMOT:** Laurence Bonat, Francesco Tonini, Elisa Ricci, Lorenzo Vaquero.<br />
 "Training-Free Semantic Multi-Object Tracking with Vision-Language Models." FG (2026).
 [[paper](https://arxiv.org/abs/2604.14074)]
