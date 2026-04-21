@@ -364,6 +364,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**DiffuSAM:** Geet Sethi, Panav Shah, Ashutosh Gandhe, Soumitra Darshan Nayak.<br />
+"DiffuSAM: Diffusion Guided Zero-Shot Object Grounding for Remote Sensing Imagery." ICLR Workshop (2026).
+[[paper](https://arxiv.org/abs/2604.18201)]
+[2026.04]
+ 
+:boom:**ViperSAM:** Dawar Jyoti Deka.<br />
+"Inference-Time Temporal Probability Smoothing for Stable Video Segmentation with SAM2 under Weak Prompts." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.17115)]
+[2026.04]
+
 :boom:Qiuyu Kong, Shakiba Sharifi, Zanxi Ruan, Yiming Wang, Marco Cristani.<br />
 "Is SAM3 ready for pathology segmentation?." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.18225)]
