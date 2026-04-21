@@ -364,106 +364,126 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**Petro-SAM:** Yili Ren, Shiqi Wen, Li Hou, Dingwen Xiao, Weiming Zhang, Caleb Chen Cao, Lin Wang, Zilu Zheng, Qianxiao Su, Mingjun Zhao, Lei Chen.<br />
+:boom:Qiuyu Kong, Shakiba Sharifi, Zanxi Ruan, Yiming Wang, Marco Cristani.<br />
+"Is SAM3 ready for pathology segmentation?." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.18225)]
+[2026.04]
+
+:boom:Yifei Yan, Yankai Liao, Linqi Ye.<br />
+"A Rapid Deployment Pipeline for Autonomous Humanoid Grasping Based on Foundation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.17258)]
+[2026.04]
+
+ :boom:**Dual-Anchoring:** Kangyi Wu, Pengna Li, Kailin Lyu, Lin Zhao, Qingrong He, Jinjun Wang, Jianyi Liu.<br />
+"Dual-Anchoring: Addressing State Drift in Vision-Language Navigation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.17473)]
+[2026.04]
+ 
+:boom:Islam Mansour, Francescopaolo Sica, Michael Schmitt.<br />
+"Prompting Foundation Models for Zero-Shot Ship Instance Segmentation in SAR Imagery." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.17920)]
+[2026.04]
+
+- **Petro-SAM:** Yili Ren, Shiqi Wen, Li Hou, Dingwen Xiao, Weiming Zhang, Caleb Chen Cao, Lin Wang, Zilu Zheng, Qianxiao Su, Mingjun Zhao, Lei Chen.<br />
 "From Boundaries to Semantics: Prompt-Guided Multi-Task Learning for Petrographic Thin-section Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.14805)]
 [2026.04]
  
-:boom:**WILD-SAM:** Yucheng Pan, Heping Li, Zhangle Liu, Sajid Hussain, Bin Pan.<br />
+- **WILD-SAM:** Yucheng Pan, Heping Li, Zhangle Liu, Sajid Hussain, Bin Pan.<br />
 "WILD-SAM: Phase-Aware Expert Adaptation of SAM for Landslide Detection in Wrapped InSAR Interferograms." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.14540)]
 [2026.04]
 
-:boom:**TF-SMOT:** Laurence Bonat, Francesco Tonini, Elisa Ricci, Lorenzo Vaquero.<br />
+- **TF-SMOT:** Laurence Bonat, Francesco Tonini, Elisa Ricci, Lorenzo Vaquero.<br />
 "Training-Free Semantic Multi-Object Tracking with Vision-Language Models." FG (2026).
 [[paper](https://arxiv.org/abs/2604.14074)]
 [2026.04]
  
-:boom:Hayato Inoue, Shota Harada, Shumpei Takezaki, Ryoma Bise.<br />
+- Hayato Inoue, Shota Harada, Shumpei Takezaki, Ryoma Bise.<br />
 "Cell Instance Segmentation via Multi-Task Image-to-Image Schrödinger Bridge." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.12318)]
 [2026.04]
 
-:boom:**Pi-HOC:** Sravan Chittupalli, Ayush Jain, Dong Huang.<br />
+- **Pi-HOC:** Sravan Chittupalli, Ayush Jain, Dong Huang.<br />
 "Pi-HOC: Pairwise 3D Human-Object Contact Estimation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.12923)]
 [[code](https://pi-hoc.github.io/)]
 [2026.04]
 
-:boom:Caiwen Jiang, Lei Zeng, Wei Liu.<br />
+- Caiwen Jiang, Lei Zeng, Wei Liu.<br />
 "A 3D SAM-Based Progressive Prompting Framework for Multi-Task Segmentation of Radiotherapy-induced Normal Tissue Injuries in Limited-Data Settings." Medical Image Analysis (2026).
 [[paper](https://arxiv.org/abs/2604.13367)]
 [2026.04]
 
-:boom:Hao Wang, Jiqing Zhang, Xin Yang, Baocai Yin, Lu Jiang, Zetian Mi, Huibing Wang.<br />
+- Hao Wang, Jiqing Zhang, Xin Yang, Baocai Yin, Lu Jiang, Zetian Mi, Huibing Wang.<br />
 "Modality-Agnostic Prompt Learning for Multi-Modal Camouflaged Object Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.12380)]
 [2026.04]
 
-:boom:**PR-MaGIC:** Minjae Lee, Sungwoo Hur, Soojin Hwang, Won Hwa Kim.<br />
+- **PR-MaGIC:** Minjae Lee, Sungwoo Hur, Soojin Hwang, Won Hwa Kim.<br />
 "PR-MaGIC: Prompt Refinement Via Mask Decoder Gradient Flow For In-Context Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.12113)]
 [[code](https://postech-minjaelee.github.io/PR-MaGIC/)]
 [2026.04]
 
-:boom:**OccSAM-Bench:** Nhan Ho, Luu Le, Thanh-Huy Nguyen, Thien Nguyen, Xiaofeng Liu, Ulas Bagci.<br />
+- **OccSAM-Bench:** Nhan Ho, Luu Le, Thanh-Huy Nguyen, Thien Nguyen, Xiaofeng Liu, Ulas Bagci.<br />
 "Seeing Through the Tool: A Controlled Benchmark for Occlusion Robustness in Foundation Segmentation Models." CVPR workshop (2026).
 [[paper](https://arxiv.org/abs/2604.11711)]
 [2026.04]
 
-:boom:**VLMaterial:** Jiangyou Zhu, He Chen.<br />
+- **VLMaterial:** Jiangyou Zhu, He Chen.<br />
 "VLMaterial: Vision-Language Model-Based Camera-Radar Fusion for Physics-Grounded Material Identification." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.11671)]
 [2026.04]
 
-:boom:**H-SPAM:** Julien Walther, Rémi Giraud, Michaël Clément.<br />
+- **H-SPAM:** Julien Walther, Rémi Giraud, Michaël Clément.<br />
 "H-SPAM: Hierarchical Superpixel Anything Model." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.11218)]
 [2026.04]
  
-:boom:**SeSAM :** Anurag Das, Anna Kukleva, Xinting Hu, Yuki M. Asano, Bernt Schiele.<br />
+- **SeSAM :** Anurag Das, Anna Kukleva, Xinting Hu, Yuki M. Asano, Bernt Schiele.<br />
 "Do Instance Priors Help Weakly Supervised Semantic Segmentation?." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.11170)]
 [2026.04]
 
-:boom:**Boxes2Pixels:** Camile Lendering, Erkut Akdag, Egor Bondarev.<br />
+- **Boxes2Pixels:** Camile Lendering, Erkut Akdag, Egor Bondarev.<br />
 "Boxes2Pixels: Learning Defect Segmentation from Noisy SAM Masks." CVPR workshop (2026).
 [[paper](https://arxiv.org/abs/2604.11162)]
 [[code](https://github.com/CLendering/Boxes2Pixels)]
 [2026.04]
  
-:boom:Kaden Stillwagon, Alexandra Dunnum VandeLoo, Benjamin Magondu, Craig R. Forest.<br />
+- Kaden Stillwagon, Alexandra Dunnum VandeLoo, Benjamin Magondu, Craig R. Forest.<br />
 "Self-supervised Pretraining of Cell Segmentation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.10609)]
 [2026.04]
 
-:boom:**RobustMedSAM:** Jieru Li, Matthew Chen, Micky C. Nnamdi, J. Ben Tamo, Benoit L. Marteau, May D. Wang.<br />
+- **RobustMedSAM:** Jieru Li, Matthew Chen, Micky C. Nnamdi, J. Ben Tamo, Benoit L. Marteau, May D. Wang.<br />
 "RobustMedSAM: Degradation-Resilient Medical Image Segmentation via Robust Foundation Model Adaptation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.09814)]
 [2026.04]
 
-:boom:**PASTA:** Melanie Neubauer, Elmar Rueckert, Christian Rauch.<br />
+- **PASTA:** Melanie Neubauer, Elmar Rueckert, Christian Rauch.<br />
 "PASTA: Vision Transformer Patch Aggregation for Weakly Supervised Target and Anomaly Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.09701)]
 [2026.04]
 
-:boom:**MV3DIS:** Yibo Zhao, Yigong Zhang, Jin Xie.<br />
+- **MV3DIS:** Yibo Zhao, Yigong Zhang, Jin Xie.<br />
 "MV3DIS: Multi-View Mask Matching via 3D Guides for Zero-Shot 3D Instance Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.08916)]
 [[code](https://github.com/zybjn/MV3DIS)]
 [2026.04]
 
-:boom:Adrian Manchado, Tanner Cellio, Jonathan Keane, Yiyang Wang.<br />
+- Adrian Manchado, Tanner Cellio, Jonathan Keane, Yiyang Wang.<br />
 "AI Driven Soccer Analysis Using Computer Vision." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.08722)]
 [2026.04]
 
-:boom:Lars Lundqvist, Earl Ranario, Hamid Kamangir, Heesup Yun, Christine Diepenbrock, Brian N. Bailey, J. Mason Earles.<br />
+- Lars Lundqvist, Earl Ranario, Hamid Kamangir, Heesup Yun, Christine Diepenbrock, Brian N. Bailey, J. Mason Earles.<br />
 "Does Your VFM Speak Plant? The Botanical Grammar of Vision Foundation Models for Object Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.09920)]
 [2026.04]
 
-:boom:**DiTTA:** Jihun Kim, Hoyong Kwon, Hyeokjun Kweon, Kuk-Jin Yoon.<br />
+- **DiTTA:** Jihun Kim, Hoyong Kwon, Hyeokjun Kweon, Kuk-Jin Yoon.<br />
 "Bootstrapping Video Semantic Segmentation Model via Distillation-assisted Test-Time Adaptation." CVPR (2026).
 [[paper](https://arxiv.org/abs/2604.10950)]
 [[code](https://github.com/jihun1998/DiTTA)]
