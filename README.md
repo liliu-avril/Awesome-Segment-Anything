@@ -364,6 +364,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**RefAtt-SAM:** Wei, Xingji and Liu, Nanqing and Lei, Sen and Li, Heng-Chao.<br />
+"Reference and Attention Guided Few-Shot Adaptation of Segment Anything Model for Remote Sensing Images." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/document/11396980)]
+[[code](https://github.com/WILSON10111/RefAtt-SAM)]
+[2026.04]
+
+:boom:**SEM-SAM:** Linlin Wei, Yongfeng Xiao, Yifei Wang, Shan Ye, Tao Xu, Congyun Liu, Shuai Shao, Linge Ma, Jihong Cheng, Haowei Pei, Shuping Yin, Zhihua Han, Fuguo Jiang.<br />
+"From Optical Inversion to AI Vision: an AI-driven SEM Workflow for Empowering Precise Granulometric Analysis." Clean Energy (2026).
+[[paper](https://doi.org/10.1093/ce/zkag015)]
+[2026.04]
+ 
+:boom:**SGCT-Net:** Jiang, Yubo and Yuan, Zheming and Zhou, Tairan and Chen, Jing and Xie, Fengying and Jiang, Zhiguo and Zhang, Haopeng.<br />
+"SGCT-Net: SAM-Guided Cross-Teaching Network for Weakly Supervised Semantic Segmentation for Generating High-Quality CAMs in High-Resolution Remote Sensing Imagery." JSTARS (2026).
+[[paper](https://ieeexplore.ieee.org/document/11477155)]
+[2026.04]
+
+:boom:**PLS:** Zhang, Aoran and Ling, Zhigang and Tan, Haoran and Wang, Yaonan.<br />
+"A Part-aware Learning Network for Weakly Supervised Semantic Segmentation." TMM (2026).
+[[paper](https://ieeexplore.ieee.org/document/11472621)]
+[2026.04]
+
 :boom:**DiffuSAM:** Geet Sethi, Panav Shah, Ashutosh Gandhe, Soumitra Darshan Nayak.<br />
 "DiffuSAM: Diffusion Guided Zero-Shot Object Grounding for Remote Sensing Imagery." ICLR Workshop (2026).
 [[paper](https://arxiv.org/abs/2604.18201)]
