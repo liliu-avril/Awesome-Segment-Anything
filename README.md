@@ -364,6 +364,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CoCo-SAM3:** Yanhui Chen, Baoyao Yang, Siqi Liu, Jingchao Wang.<br />
+"CoCo-SAM3: Harnessing Concept Conflict in Open-Vocabulary Semantic Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.19648)]
+[2026.04]
+
+:boom:**LiteBounD:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak.<br />
+"Sharpening Lightweight Models for Generalized Polyp Segmentation: A Boundary Guided Distillation from Foundation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.17865)]
+[[code](https://github.com/lostinrepo/LiteBounD)]
+[2026.04]
+ 
+:boom:**ASTM Grain Size Estimator:** Abdul Mueez, Shruti Vyas.<br />
+"Bridging Foundation Models and ASTM Metallurgical Standards for Automated Grain Size Estimation from Microscopy Images." CVPR Workshops (2026).
+[[paper](https://arxiv.org/abs/2604.18957)]
+[[code](https://github.com/mueez-overflow/ASTM-Grain-Size-Estimator)]
+[2026.04]
+
 :boom:**RefAtt-SAM:** Wei, Xingji and Liu, Nanqing and Lei, Sen and Li, Heng-Chao.<br />
 "Reference and Attention Guided Few-Shot Adaptation of Segment Anything Model for Remote Sensing Images." TGRS (2026).
 [[paper](https://ieeexplore.ieee.org/document/11396980)]
@@ -617,7 +634,12 @@ If you find our work useful in your research, please consider citing:
 "Advancing Complex Video Object Segmentation via Tracking-Enhanced Prompt: The 1st Winner for 5th PVUW MOSE Challenge." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2604.00395)]
 [2026.04]
- 
+
+- **APRVOS:** Deshui Miao, Yameng Gu, Chao Yang, Xin Li, Haijun Zhang, Ming-Hsuan Yang.<br />
+"APRVOS: 1st Place Winner of 5th PVUW MeViS-Audio Track." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.18665)]
+[2026.04]
+
 - **AdaLoRA-QAT:** Prantik Deb, Srimanth Dhondy, N. Ramakrishna, Anu Kapoor, Raju S. Bapi, Tapabrata Chakraborti.<br />
 "AdaLoRA-QAT: Adaptive Low-Rank and Quantization-Aware Segmentation." ISBI (2026).
 [[paper](https://arxiv.org/abs/2604.01167)]
