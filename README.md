@@ -364,6 +364,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SHP-SAM:** Xiao, Fen and Huang, Ruozhuo and Wu, Zhenwei and Gao, Xieping.<br />
+"Scribble-guided Hierarchical Prompt for SAM-Based Weakly Supervised Salient Object Detection." TCSVT (2026).
+[[paper](https://ieeexplore.ieee.org/document/11479339)]
+[[code](https://github.com/XTU-ICIPL/SHP-SAM)]
+[2026.04]
+
+:boom:**YOLOv10–SAM:** Verma, Pooja and Paul, Ayan and Machavaram, Rajendra and Bhattacharya, Mahua.<br />
+"Toward Grounded YOLO-SAM: Unified Detection–Segmentation Framework for Agricultural Intelligence." ACDSA (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11467945)]
+[2026.04]
+
 :boom:**CoCo-SAM3:** Yanhui Chen, Baoyao Yang, Siqi Liu, Jingchao Wang.<br />
 "CoCo-SAM3: Harnessing Concept Conflict in Open-Vocabulary Semantic Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.19648)]
