@@ -355,6 +355,12 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://openreview.net/forum?id=HwCvaJOiCj)]
 [2025.11]
 
+- **Vision Banana:** Valentin Gabeur, Shangbang Long, Songyou Peng, Paul Voigtlaender, Shuyang Sun, Yanan Bao, Karen Truong, Zhicheng Wang, Wenlei Zhou, Jonathan T. Barron, Kyle Genova, Nithish Kannen, Sherry Ben, Yandong Li, Mandy Guo, Suhas Yogin, Yiming Gu, Huizhong Chen, Oliver Wang, Saining Xie, Howard Zhou, Kaiming He, Thomas Funkhouser, Jean-Baptiste Alayrac, Radu Soricut.<br />
+"Image Generators are Generalist Vision Learners." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.20329)]
+[[code](http://vision-banana.github.io)]
+[2026.04]
+
 - **Depth Anything 3:** Haotong Lin, Sili Chen, Junhao Liew, Donny Y. Chen, Zhenyu Li, Guang Shi, Jiashi Feng, Bingyi Kang.<br />
 "Depth Anything 3: Recovering the Visual Space from Any Views." ICLR (2026).
 [[paper](https://arxiv.org/abs/2511.10647)]
@@ -364,6 +370,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Amodal SAM:** Bo Zhang, Zhuotao Tian, Xin Tao, Songlin Tang, Jun Yu, Wenjie Pei.<br />
+"Amodal SAM: A Unified Amodal Segmentation Framework with Generalization." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.20748)]
+[2026.04]
+
+:boom:**DualGaze-VLM:** Zehong Ke, Yanbo Jiang, Jinhao Li, Zhiyuan Liu, Yiqian Tu, Qingwen Meng, Heye Huang, Jianqiang Wang.<br />
+"From Scene to Object: Text-Guided Dual-Gaze Prediction." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.20191)]
+[2026.04]
+ 
+:boom:**Semantic-Fast-SAM:** Byunghyun Kim.<br />
+"Semantic-Fast-SAM: Efficient Semantic Segmenter." APSIPA ASC (2026).
+[[paper](https://arxiv.org/abs/2604.20169)]
+[[code](https://github.com/KBH00/Semantic-Fast-SAM)]
+[2026.04]
+
 :boom:**SHP-SAM:** Xiao, Fen and Huang, Ruozhuo and Wu, Zhenwei and Gao, Xieping.<br />
 "Scribble-guided Hierarchical Prompt for SAM-Based Weakly Supervised Salient Object Detection." TCSVT (2026).
 [[paper](https://ieeexplore.ieee.org/document/11479339)]
