@@ -355,17 +355,17 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://openreview.net/forum?id=HwCvaJOiCj)]
 [2025.11]
 
-- **Vision Banana:** Valentin Gabeur, Shangbang Long, Songyou Peng, Paul Voigtlaender, Shuyang Sun, Yanan Bao, Karen Truong, Zhicheng Wang, Wenlei Zhou, Jonathan T. Barron, Kyle Genova, Nithish Kannen, Sherry Ben, Yandong Li, Mandy Guo, Suhas Yogin, Yiming Gu, Huizhong Chen, Oliver Wang, Saining Xie, Howard Zhou, Kaiming He, Thomas Funkhouser, Jean-Baptiste Alayrac, Radu Soricut.<br />
-"Image Generators are Generalist Vision Learners." ArXiv (2026).
-[[paper](https://arxiv.org/abs/2604.20329)]
-[[code](http://vision-banana.github.io)]
-[2026.04]
-
 - **Depth Anything 3:** Haotong Lin, Sili Chen, Junhao Liew, Donny Y. Chen, Zhenyu Li, Guang Shi, Jiashi Feng, Bingyi Kang.<br />
 "Depth Anything 3: Recovering the Visual Space from Any Views." ICLR (2026).
 [[paper](https://arxiv.org/abs/2511.10647)]
 [[code](https://depth-anything-3.github.io/)]
 [2025.11]
+
+- **Vision Banana:** Valentin Gabeur, Shangbang Long, Songyou Peng, Paul Voigtlaender, Shuyang Sun, Yanan Bao, Karen Truong, Zhicheng Wang, Wenlei Zhou, Jonathan T. Barron, Kyle Genova, Nithish Kannen, Sherry Ben, Yandong Li, Mandy Guo, Suhas Yogin, Yiming Gu, Huizhong Chen, Oliver Wang, Saining Xie, Howard Zhou, Kaiming He, Thomas Funkhouser, Jean-Baptiste Alayrac, Radu Soricut.<br />
+"Image Generators are Generalist Vision Learners." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.20329)]
+[[code](http://vision-banana.github.io)]
+[2026.04]
 
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
