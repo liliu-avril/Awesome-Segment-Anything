@@ -370,6 +370,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**DualSplat:** Xu Wang, Zhiru Wang, Shiyun Xie, Chengwei Pan, Yisong Chen.<br />
+"DualSplat: Robust 3D Gaussian Splatting via Pseudo-Mask Bootstrapping from Reconstruction Failures." CVPR (2026).
+[[paper](https://arxiv.org/abs/2604.21631)]
+[[code](https://lans1ot.github.io/DualSplat/)]
+[2026.04]
+
 :boom:**Amodal SAM:** Bo Zhang, Zhuotao Tian, Xin Tao, Songlin Tang, Jun Yu, Wenjie Pei.<br />
 "Amodal SAM: A Unified Amodal Segmentation Framework with Generalization." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.20748)]
