@@ -370,6 +370,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**HFS-TriNet:** Xu Lu, Qianhong Peng, Qihao Zhou, Shaopeng Liu, Xiuqin Ye, Chuan Yang, Yuan Yuan.<br />
+"HFS-TriNet: A Three-Branch Collaborative Feature Learning Network for Prostate Cancer Classification from TRUS Videos." CVPR (2026).
+[[paper](https://arxiv.org/abs/2604.22388)]
+[[code](https://github.com/ayushimehrotra/H-Sets)]
+[2026.04]
+
 :boom:**HAM-SAM2:** Pan, Kanghua and Chen, Guo and Zhu, Wei and Zhao, Danhuai and Lu, Tong.<br />
 "HAM-SAM2: Enhancing SAM2 for Visual Object Tracking with Adaptive Motion Modeling and Hierarchical Memory Bank." ICASSP (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11462733)]
