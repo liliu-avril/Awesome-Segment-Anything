@@ -370,6 +370,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SemiSAM-O1:** Yichi Zhang, Le Xue, Bichun Xu, Judong Luo, Zhigang Wu, Yu Fu, Zixin Hu, Yuan Cheng, Yuan Qi.<br />
+"SemiSAM-O1: How far can we push the boundary of annotation-efficient medical image segmentation?." Medical Image Analysis (2026).
+[[paper](https://arxiv.org/abs/2604.24109)]
+[[code](https://github.com/YichiZhang98/SemiSAM-O1)]
+[2026.04]
+
 :boom:**INSIGHT:** Alexander Nikitas Dimopoulos, Joseph Grasso, John Beltz.<br />
 "INSIGHT: Indoor Scene Intelligence from Geometric-Semantic Hierarchy Transfer for Public Safety." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.23095)]
