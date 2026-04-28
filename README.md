@@ -385,6 +385,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2604.22837)]
 [2026.04]
 
+:boom:**ASR-SaSaSa2VA:** Zhiyu Wang, Xudong Kang, Shutao Li.<br />
+"2nd of the 5th PVUW MeViS-Audio Track: ASR-SaSaSa2VA." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.23935)]
+[2026.04]
+
 :boom:**DiffuSAM:** Tal Grossman, Noa Cahan, Lev Ayzenberg, Hayit Greenspan.<br />
 "DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.24719)]
