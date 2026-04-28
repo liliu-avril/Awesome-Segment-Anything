@@ -370,6 +370,36 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**INSIGHT:** Alexander Nikitas Dimopoulos, Joseph Grasso, John Beltz.<br />
+"INSIGHT: Indoor Scene Intelligence from Geometric-Semantic Hierarchy Transfer for Public Safety." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.23095)]
+[2026.04]
+
+:boom:**AgentRVOS:** Deshui Miao, Chao Yang, Chao Tian, Guoqing Zhu, Kai Yang, Zhifan Mo, Xin Li.<br />
+"AgentRVOS for MeViS-Text Track of 5th PVUW Challenge: 3rd Method." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.22836)]
+[2026.04]
+ 
+:boom:**OAMVOS:** Deshui Miao, Xingsen Huang, Yameng Gu, Xiaogang yu, Xin Li, Ming-Hsuan Yang.<br />
+"OAMVOS: 2nd Report for 5th PVUW MOSE Track." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.22837)]
+[2026.04]
+
+:boom:**DiffuSAM:** Tal Grossman, Noa Cahan, Lev Ayzenberg, Hayit Greenspan.<br />
+"DiffuSAM: Diffusion-Based Prompt-Free SAM2 for Few-Shot and Source-Free Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.24719)]
+[2026.04]
+
+:boom:**SPD:** Jingxuan Kang, Ziqi Zhang, Shaoming Zheng, Shuang Li, Uday Bharat Patel, Alexander Harry Fitzhugh, Phillip Lung, Yusuf Kiberu, Nikesh Jathanna, Shahnaz Jamil-Copley, Bernhard Kainz, Chen Qin.<br />
+"Learning from Noisy Prompts: Saliency-Guided Prompt Distillation for Robust Segmentation with SAM." CVPR (2026).
+[[paper](https://arxiv.org/abs/2604.23314)]
+[2026.04]
+
+:boom:**SGP-SAM:** Zixuan Tang, Shen Zhao.<br />
+"SGP-SAM: Self-Gated Prompting for Transferring 3D Segment Anything Models to Lesion Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.22825)]
+[2026.04]
+
 :boom:**HFS-TriNet:** Xu Lu, Qianhong Peng, Qihao Zhou, Shaopeng Liu, Xiuqin Ye, Chuan Yang, Yuan Yuan.<br />
 "HFS-TriNet: A Three-Branch Collaborative Feature Learning Network for Prostate Cancer Classification from TRUS Videos." CVPR (2026).
 [[paper](https://arxiv.org/abs/2604.22388)]
