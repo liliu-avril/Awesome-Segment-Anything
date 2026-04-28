@@ -370,6 +370,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**GeoSAM:** Wujie Zhou, Jin Xie, Caie Xu, Yuanyuan Liu, Yunchao Wang.<br />
+"Adapt, Generate, and Supervise: Geometry-Aware Diffusion-Guided SAM Framework for Remote Sensing Semantic Segmentation." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11348940)]
+[[code](https://github.com/110-011/GeoSAM)]
+[2026.04]
+
+:boom:**ATSG:** Zhang, Yifan and Jiang, Zhiguo and Zhang, Haopeng.<br />
+"ATSG: Adaptive Token Linking With Segment Anything Model Guidance for Weakly Supervised Remote Sensing Image Semantic Segmentation." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/document/11348965)]
+[[code](https://github.com/zhangyifan25/ATSG)]
+[2026.04]
+
 :boom:**SemiSAM-O1:** Yichi Zhang, Le Xue, Bichun Xu, Judong Luo, Zhigang Wu, Yu Fu, Zixin Hu, Yuan Cheng, Yuan Qi.<br />
 "SemiSAM-O1: How far can we push the boundary of annotation-efficient medical image segmentation?." Medical Image Analysis (2026).
 [[paper](https://arxiv.org/abs/2604.24109)]
