@@ -370,6 +370,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**FastSAM-CD:** Zhang, Shuxin and Lei, Tao and Wang, Xingwu and Liu, Tongfei and Lv, Zhiyong and Liu, Daqi and Gong, Maoguo and Nandi, Asoke K.<br />
+"FastSAM-CD: Remote Sensing Image Change Detection Using Vision Foundation Models With Stronger Encoder and Decoder." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/document/11371346)]
+[2026.04]
+
 :boom:**GeoSAM:** Wujie Zhou, Jin Xie, Caie Xu, Yuanyuan Liu, Yunchao Wang.<br />
 "Adapt, Generate, and Supervise: Geometry-Aware Diffusion-Guided SAM Framework for Remote Sensing Semantic Segmentation." TGRS (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11348940)]
