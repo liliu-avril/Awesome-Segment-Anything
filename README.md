@@ -370,6 +370,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CRC-SAM:** Daniel Lao.<br />
+"CRC-SAM: SAM-Based Multi-Modal Segmentation and Quantification of Colorectal Cancer in CT, Colonoscopy, and Histology Images." ISBI (2026).
+[[paper](https://arxiv.org/abs/2604.24793)]
+[2026.04]
+ 
+:boom:**MAFFNet:** Zhiwei Feng and Benyi Yang and Baosong Deng.<br />
+"SAM-Assisted Multimodal Collaborative Enhancement for Remote Sensing Image Segmentation." Information Fusion (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S156625352600312X)]
+[2026.04]
+
+:boom:Sanghati Basu.<br />
+"Robustness Evaluation of a Foundation Segmentation Model Under Simulated Domain Shifts in Abdominal CT: Implications for Health Digital Twin Deployment." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.25685)]
+[[code](https://github.com/SANGHATI23/sam-brats-robustness-audit)]
+[2026.04]
+
 :boom:**FastSAM-CD:** Zhang, Shuxin and Lei, Tao and Wang, Xingwu and Liu, Tongfei and Lv, Zhiyong and Liu, Daqi and Gong, Maoguo and Nandi, Asoke K.<br />
 "FastSAM-CD: Remote Sensing Image Change Detection Using Vision Foundation Models With Stronger Encoder and Decoder." TGRS (2026).
 [[paper](https://ieeexplore.ieee.org/document/11371346)]
