@@ -370,6 +370,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**MemOVCD:** Zuzheng Kuang, Honghao Chang, Boqiang Liang, Haoqian Wang, Lijun He, Fan Li, Haixia Bi.<br />
+"MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.26774)]
+[[code](https://github.com/kzigzag/MemOVCD)]
+[2026.04]
+
+:boom:**Bridge:** Mingbo Hong, Feng Liu, Caroline Gevaert, George Vosselman, Hao Cheng.<br />
+"Bridge: Basis-Driven Causal Inference Marries VFMs for Domain Generalization." CVPR (2026).
+[[paper](https://arxiv.org/abs/2604.26820)]
+[[code](https://mingbohong.github.io/Bridge/)]
+[2026.04]
+
 :boom:**CRC-SAM:** Daniel Lao.<br />
 "CRC-SAM: SAM-Based Multi-Modal Segmentation and Quantification of Colorectal Cancer in CT, Colonoscopy, and Histology Images." ISBI (2026).
 [[paper](https://arxiv.org/abs/2604.24793)]
