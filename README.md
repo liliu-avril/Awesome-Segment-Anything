@@ -370,6 +370,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Haiyu Yang, Miel Hostens.<br />
+"Lightweight Distillation of SAM 3 and DINOv3 for Edge-Deployable Individual-Level Livestock Monitoring and Longitudinal Visual Analytics." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2604.27128)]
+[2026.04]
+
+:boom:**SAM-FuseNet:** Zhu, Chenyang and Wang, Jierui and Zhang, Lanlan and Liang, Jia and Su, Qianxiao and Li, Baihua.<br />
+"SAM-FuseNet: Segment Anything Guided Multimodal Fusion for RGB–Thermal Aerial Robotic Perception." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/document/11314587)]
+[2026.04]
+
 :boom:**MemOVCD:** Zuzheng Kuang, Honghao Chang, Boqiang Liang, Haoqian Wang, Lijun He, Fan Li, Haixia Bi.<br />
 "MemOVCD: Training-Free Open-Vocabulary Change Detection via Cross-Temporal Memory Reasoning and Global-Local Adaptive Rectification." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.26774)]
