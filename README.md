@@ -2483,7 +2483,7 @@ Without Manual Labels." ArXiv (2026).
 [2025.12]
 
 - **Think2Seg-RS:** Xu Zhang, Junyao Ge, Yang Zheng, Kaitai Guo, Jimin Liang.<br />
-"Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Remote Sensing." ArXiv (2025).
+"Bridging Semantics and Geometry: A Decoupled LVLM-SAM Framework for Reasoning Segmentation in Remote Sensing." ISPRS Journal of Photogrammetry and Remote Sensing (2026).
 [[paper](https://arxiv.org/abs/2512.19302)]
 [[code](https://github.com/Ricardo-XZ/Think2Seg-RS)]
 [2025.12]
