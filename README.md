@@ -370,6 +370,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Remote SAMsing:** Osmar Luiz Ferreira de Carvalho, Osmar Abílio de Carvalho Júnior, Anesmar Olino de Albuquerque, Daniel Guerreiro e Silva.<br />
+"Remote SAMsing: From Segment Anything to Segment Everything." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.00256)]
+[2026.04]
+
 :boom:Haiyu Yang, Miel Hostens.<br />
 "Lightweight Distillation of SAM 3 and DINOv3 for Edge-Deployable Individual-Level Livestock Monitoring and Longitudinal Visual Analytics." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2604.27128)]
