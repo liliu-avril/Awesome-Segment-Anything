@@ -1781,7 +1781,7 @@ Without Manual Labels." ArXiv (2026).
 [2026.02]
 
 - **Fast-SAM3D:** Weilun Feng, Mingqiang Wu, Zhiliang Chen, Chuanguang Yang, Haotong Qin, Yuqi Li, Xiaokun Liu, Guoxin Fan, Zhulin An, Libo Huang, Yulun Zhang, Michele Magno, Yongjun Xu.<br />
-"Fast-SAM3D: 3Dfy Anything in Images but Faster." ArXiv (2026).
+"Fast-SAM3D: 3Dfy Anything in Images but Faster." ICML (2026).
 [[paper](https://arxiv.org/abs/2602.05293)]
 [[code](https://github.com/wlfeng0509/Fast-SAM3D)]
 [2026.02]
