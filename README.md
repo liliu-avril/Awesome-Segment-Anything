@@ -370,6 +370,40 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**X2SAM:** Hao Wang, Limeng Qiao, Chi Zhang, Lin Ma, Guanglu Wan, Xiangyuan Lan, Xiaodan Liang.<br />
+"X2SAM: Any Segmentation in Images and Videos." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.00891)]
+[[code](https://github.com/wanghao9610/X2SAM)]
+[[project](https://wanghao9610.github.io/X2SAM)]
+[2026.05]
+
+:boom:**GLASSNet:** Morteza Moradi, Mohammad Moradi, Simone Palazzo, Ali Borji, Concetto Spampinato.<br />
+"Global-Local Feature Decoding with Adapter-Guided SAMv2 for Salient Object Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.02616)]
+[2026.05]
+
+:boom:**VL-SAM-v3:** Chih-Chung Liu, Zhiwei Lin, Yongtao Wang.<br />
+"VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.03456)]
+[2026.05]
+
+:boom:**DFUDA:** Yerin Cheon, Aruna Balasubramanian, Francois Rameau.<br />
+"Dual-Foundation Models for Unsupervised Domain Adaptation." ICPR (2026).
+[[paper](https://arxiv.org/abs/2605.03365)]
+[[code](https://github.com/ycheon1101/DFUDA)]
+[2026.05]
+ 
+:boom:Chase Cartwright, Gongbo Guo, Sai Teja Pusuluri, Christopher N. Mayhew, Mark Hester, Horacio E. Castillo.<br />
+"Approaching human parity in the quality of automated organoid image segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.03053)]
+[2026.05]
+
+:boom:**SAMamba3D:** Rui Zhang, Xianzhi Song, Linqi Zhu, Branko Bijeljic, Gensheng Li, Martin J. Blunt.<br />
+"SAMamba3D: adapting Segment Anything for generalizable 3D segmentation of multiphase pore-scale images." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.00916)]
+[[code](https://github.com/ImperialCollegeLondon/SAMamba-3D)]
+[2026.05]
+
 :boom:**Remote SAMsing:** Osmar Luiz Ferreira de Carvalho, Osmar Abílio de Carvalho Júnior, Anesmar Olino de Albuquerque, Daniel Guerreiro e Silva.<br />
 "Remote SAMsing: From Segment Anything to Segment Everything." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.00256)]
