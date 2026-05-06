@@ -387,6 +387,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2605.03456)]
 [2026.05]
 
+:boom:**ViewSAM:** Jiawei Ge, Xintian Zhang, Jiuxin Cao, Bo Liu, Fabian Deuser, Chang Liu, Gong Wenkang, Siyou Li, Juexi Shao, Wenqing Wu, Chen Feng, Ioannis Patras.<br />
+"ViewSAM: Learning View-aware Cross-modal Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.02638)]
+[2026.05]
+
 :boom:**DFUDA:** Yerin Cheon, Aruna Balasubramanian, Francois Rameau.<br />
 "Dual-Foundation Models for Unsupervised Domain Adaptation." ICPR (2026).
 [[paper](https://arxiv.org/abs/2605.03365)]
