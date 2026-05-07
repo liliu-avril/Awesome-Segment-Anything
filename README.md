@@ -370,6 +370,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Ilov3Splat:** Binh Long Nguyen, Kien Nguyen, Sridha Sridharan, Clinton Fookes, Peyman Moghadam.<br />
+"Ilov3Splat: Instance-Level Open-Vocabulary 3D Scene Understanding in Gaussian Splatting." ICPR (2026).
+[[paper](https://arxiv.org/abs/2605.04506)]
+[[code](https://csiro-robotics.github.io/Ilov3Splat)]
+[2026.05]
+
+:boom:ZhiXin Sun.<br />
+"Example-Based Object Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.04501)]
+[[code](https://github.com/sunzx97/examples_based_object_detection)]
+[2026.05]
+
 :boom:**X2SAM:** Hao Wang, Limeng Qiao, Chi Zhang, Lin Ma, Guanglu Wan, Xiangyuan Lan, Xiaodan Liang.<br />
 "X2SAM: Any Segmentation in Images and Videos." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.00891)]
