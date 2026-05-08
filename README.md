@@ -370,6 +370,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**GA3T:** Siwei Cai, Knut Peterson, Quan Tran, Christian Ricks, Dhanush Parthasarathy, Amir Kaidarov, Neil Deshpande, Sukaina Najm, David Han, Lifeng Zhou.<br />
+"GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.06478)]
+[[code](https://drexel0-my.sharepoint.com/:f:/g/personal/sc3568_drexel_edu/IgAOBo94oaiBRJH3B1bgi4Y_AetpqXDjHcSPw28Rpb-h-lo?e=esDuho)]
+[2026.05]
+
+:boom:**HP-Adapter:** Hinako Mitsuoka, Kazuhiro Hotta.<br />
+"Prompt-Free and Efficient SAM2 Adaptation for Biomedical Semantic Segmentation via Dual Adapters." ICIP (2026).
+[[paper](https://arxiv.org/abs/2605.05979)]
+[2026.05]
+
 :boom:**Ilov3Splat:** Binh Long Nguyen, Kien Nguyen, Sridha Sridharan, Clinton Fookes, Peyman Moghadam.<br />
 "Ilov3Splat: Instance-Level Open-Vocabulary 3D Scene Understanding in Gaussian Splatting." ICPR (2026).
 [[paper](https://arxiv.org/abs/2605.04506)]
