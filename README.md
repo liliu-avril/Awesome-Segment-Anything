@@ -370,102 +370,108 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**GA3T:** Siwei Cai, Knut Peterson, Quan Tran, Christian Ricks, Dhanush Parthasarathy, Amir Kaidarov, Neil Deshpande, Sukaina Najm, David Han, Lifeng Zhou.<br />
+:boom:**AS-SAM2:** Lv, Tao and Ding, Shenrun and Wang, Yuji and Li, Yue and Lu, Xiaohuan and Tian, Youliang.<br />
+  "AS-SAM2: Adaptive Self-correction for Visual Tracking with SAM2." TCSVT (2026).
+  [[paper](https://ieeexplore.ieee.org/abstract/document/11506610)] 
+  [[code](https://github.com/oatlvv/AS-SAM2)]
+  [2026.05]
+  
+- **GA3T:** Siwei Cai, Knut Peterson, Quan Tran, Christian Ricks, Dhanush Parthasarathy, Amir Kaidarov, Neil Deshpande, Sukaina Najm, David Han, Lifeng Zhou.<br />
 "GA3T: A Ground-Aerial Terrain Traversability Dataset for Heterogeneous Robot Teams in Unstructured Environments." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.06478)]
 [[code](https://drexel0-my.sharepoint.com/:f:/g/personal/sc3568_drexel_edu/IgAOBo94oaiBRJH3B1bgi4Y_AetpqXDjHcSPw28Rpb-h-lo?e=esDuho)]
 [2026.05]
 
-:boom:**HP-Adapter:** Hinako Mitsuoka, Kazuhiro Hotta.<br />
+- **HP-Adapter:** Hinako Mitsuoka, Kazuhiro Hotta.<br />
 "Prompt-Free and Efficient SAM2 Adaptation for Biomedical Semantic Segmentation via Dual Adapters." ICIP (2026).
 [[paper](https://arxiv.org/abs/2605.05979)]
 [2026.05]
 
-:boom:**Ilov3Splat:** Binh Long Nguyen, Kien Nguyen, Sridha Sridharan, Clinton Fookes, Peyman Moghadam.<br />
+- **Ilov3Splat:** Binh Long Nguyen, Kien Nguyen, Sridha Sridharan, Clinton Fookes, Peyman Moghadam.<br />
 "Ilov3Splat: Instance-Level Open-Vocabulary 3D Scene Understanding in Gaussian Splatting." ICPR (2026).
 [[paper](https://arxiv.org/abs/2605.04506)]
 [[code](https://csiro-robotics.github.io/Ilov3Splat)]
 [2026.05]
 
-:boom:ZhiXin Sun.<br />
+- ZhiXin Sun.<br />
 "Example-Based Object Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.04501)]
 [[code](https://github.com/sunzx97/examples_based_object_detection)]
 [2026.05]
 
-:boom:**X2SAM:** Hao Wang, Limeng Qiao, Chi Zhang, Lin Ma, Guanglu Wan, Xiangyuan Lan, Xiaodan Liang.<br />
+- **X2SAM:** Hao Wang, Limeng Qiao, Chi Zhang, Lin Ma, Guanglu Wan, Xiangyuan Lan, Xiaodan Liang.<br />
 "X2SAM: Any Segmentation in Images and Videos." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.00891)]
 [[code](https://github.com/wanghao9610/X2SAM)]
 [[project](https://wanghao9610.github.io/X2SAM)]
 [2026.05]
 
-:boom:**GLASSNet:** Morteza Moradi, Mohammad Moradi, Simone Palazzo, Ali Borji, Concetto Spampinato.<br />
+- **GLASSNet:** Morteza Moradi, Mohammad Moradi, Simone Palazzo, Ali Borji, Concetto Spampinato.<br />
 "Global-Local Feature Decoding with Adapter-Guided SAMv2 for Salient Object Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.02616)]
 [2026.05]
 
-:boom:**VL-SAM-v3:** Chih-Chung Liu, Zhiwei Lin, Yongtao Wang.<br />
+- **VL-SAM-v3:** Chih-Chung Liu, Zhiwei Lin, Yongtao Wang.<br />
 "VL-SAM-v3: Memory-Guided Visual Priors for Open-World Object Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.03456)]
 [2026.05]
 
-:boom:**ViewSAM:** Jiawei Ge, Xintian Zhang, Jiuxin Cao, Bo Liu, Fabian Deuser, Chang Liu, Gong Wenkang, Siyou Li, Juexi Shao, Wenqing Wu, Chen Feng, Ioannis Patras.<br />
+- **ViewSAM:** Jiawei Ge, Xintian Zhang, Jiuxin Cao, Bo Liu, Fabian Deuser, Chang Liu, Gong Wenkang, Siyou Li, Juexi Shao, Wenqing Wu, Chen Feng, Ioannis Patras.<br />
 "ViewSAM: Learning View-aware Cross-modal Semantics for Weakly Supervised Cross-view Referring Multi-Object Tracking." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.02638)]
 [2026.05]
 
-:boom:**DFUDA:** Yerin Cheon, Aruna Balasubramanian, Francois Rameau.<br />
+- **DFUDA:** Yerin Cheon, Aruna Balasubramanian, Francois Rameau.<br />
 "Dual-Foundation Models for Unsupervised Domain Adaptation." ICPR (2026).
 [[paper](https://arxiv.org/abs/2605.03365)]
 [[code](https://github.com/ycheon1101/DFUDA)]
 [2026.05]
  
-:boom:Chase Cartwright, Gongbo Guo, Sai Teja Pusuluri, Christopher N. Mayhew, Mark Hester, Horacio E. Castillo.<br />
+- Chase Cartwright, Gongbo Guo, Sai Teja Pusuluri, Christopher N. Mayhew, Mark Hester, Horacio E. Castillo.<br />
 "Approaching human parity in the quality of automated organoid image segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.03053)]
 [2026.05]
 
-:boom:**SAMamba3D:** Rui Zhang, Xianzhi Song, Linqi Zhu, Branko Bijeljic, Gensheng Li, Martin J. Blunt.<br />
+- **SAMamba3D:** Rui Zhang, Xianzhi Song, Linqi Zhu, Branko Bijeljic, Gensheng Li, Martin J. Blunt.<br />
 "SAMamba3D: adapting Segment Anything for generalizable 3D segmentation of multiphase pore-scale images." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.00916)]
 [[code](https://github.com/ImperialCollegeLondon/SAMamba-3D)]
 [2026.05]
 
-:boom:**Remote SAMsing:** Osmar Luiz Ferreira de Carvalho, Osmar Abílio de Carvalho Júnior, Anesmar Olino de Albuquerque, Daniel Guerreiro e Silva.<br />
+- **Remote SAMsing:** Osmar Luiz Ferreira de Carvalho, Osmar Abílio de Carvalho Júnior, Anesmar Olino de Albuquerque, Daniel Guerreiro e Silva.<br />
 "Remote SAMsing: From Segment Anything to Segment Everything." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.00256)]
 [2026.05]
 
-:boom:**MmSAM:** Qingpeng Wang, Zhou Huang, Ying Chen, Yi Bao.<br />
+- **MmSAM:** Qingpeng Wang, Zhou Huang, Ying Chen, Yi Bao.<br />
 "MmSAM: multimodal meets SAM2 for efficient remote sensing semantic segmentation." International Journal of Applied Earth Observation and Geoinformation (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1569843226002177)]
 [[code](https://github.com/W-qp/MmSAM)]
 [2026.04]
  
-:boom:**Three-shot SAM2:** Zhongyi Zhang, Julie Hides, Enrico De Martino, Gervase Tuxworth.<br />
+- **Three-shot SAM2:** Zhongyi Zhang, Julie Hides, Enrico De Martino, Gervase Tuxworth.<br />
 "Multicenter evaluation of three-shot SAM2 segmentation for group-level quantification of lumbar paraspinal muscles at the L4/L5 level on multi-sequence MRI." European Journal of Radiology (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0720048X26002342)]
 [2026.04]
 
-:boom:Lee, H., Jo, Y., Hong, I. et al.<br />
+- Lee, H., Jo, Y., Hong, I. et al.<br />
 "Segment anything model guided dual-mask framework for anatomically faithful medical image translation." Sci Rep (2026).
 [[paper](https://doi.org/10.1038/s41598-026-50209-7)]
 [2026.04]
 
-:boom:**SAM-BM:** Huanhuan Lv, Songru Jiang, Yuhao Bai, Tuohang Wan, Chang Gou, Lijun Chen.<br />
+- **SAM-BM:** Huanhuan Lv, Songru Jiang, Yuhao Bai, Tuohang Wan, Chang Gou, Lijun Chen.<br />
 "SAM-BM: An adversarial benchmark for loss functions and multi-scale objects in segment anything models." CVIU (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1077314226001566)]
 [[code](https://github.com/Kahsolt/adv-SAM)]
 [2026.04]
 
-:boom:**SAM2-PolypNet:** Zhaoting Mu, et al.<br />
+- **SAM2-PolypNet:** Zhaoting Mu, et al.<br />
 "SAM2-PolypNet: SAM2 with adaptive context enhancement model for polyp segmentation." BSPC (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1746809426009353)]
 [[code](https://github.com/XUPTMZT/SAM2-PolypNet)]
 [2026.04]
 
-:boom:Zhihao Ni, Youwen He, Ziyue Zhou, Hankun Zhang, and Jun Tian.<br />
+- Zhihao Ni, Youwen He, Ziyue Zhou, Hankun Zhang, and Jun Tian.<br />
 "Rapid 3D reconstruction of key power plant equipment using SAM foreground segmentation and 3D Gaussian splatting." AMNA(2026).
 [[paper](https://doi.org/10.1117/12.3114168)]
 [2026.04]
