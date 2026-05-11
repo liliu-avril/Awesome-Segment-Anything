@@ -370,6 +370,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**RCoT-Seg:** Junwei Wen, Deshui Miao, Guangming Lu, Xin Li, Wenjie Pei.<br />
+"RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.07334)]
+[[code](https://github.com/Victor-wjw/RCoT-Seg)]
+[2026.05]
+
+:boom:**SARA:** Jiesong Lian, Zixiang Zhou, Ruizhe Zhong, Yuan Zhou, Qinglin Lu, Rui Wang, Long Hu, Yixue Hao, Baoru Huang.<br />
+"SARA: Semantically Adaptive Relational Alignment for Video Diffusion Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.07800)]
+[2026.05]
+
+:boom:**SAM 3D Animal:** Xuyi Hu, Jin Lyu, Jiuming Liu, Yebin Liu, Silvia Zuffi, Liang An, Stefan Goetz.<br />
+"SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.07604)]
+[2026.05]
+
+:boom:**UniD-Shift:** Shuai Zhang, Zhecheng Shi, Zhuxiao Li, Jing Ou, Tengxi Wang, Yuan Liu, Wufan Zhao.<br />
+"UniD-Shift: Towards Unified Semantic Segmentation via Interpretable Share-Private Multimodal Decomposition." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.07356)]
+[[code](https://github.com/shuaizhang69/UniD-Shift)]
+[2026.05]
+ 
+:boom:**Qwen3-VL-Seg:** Yuan Yao, Qiushi Yang, Humen Zhong, Jiangning Wei, Yifang Men, Shuai Bai, Miaomiao Cui, Zhibo Yang.<br />
+"Qwen3-VL-Seg: Unlocking Open-World Referring Segmentation with Vision-Language Grounding." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.07141)]
+[2026.05]
+
 :boom:**AS-SAM2:** Lv, Tao and Ding, Shenrun and Wang, Yuji and Li, Yue and Lu, Xiaohuan and Tian, Youliang.<br />
   "AS-SAM2: Adaptive Self-correction for Visual Tracking with SAM2." TCSVT (2026).
   [[paper](https://ieeexplore.ieee.org/abstract/document/11506610)] 
