@@ -370,6 +370,30 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**RUAC:** Hongyou Zhou, Marc Toussaint, Ling Shao, Zihan Ye.<br />
+"Segment Anything with Robust Uncertainty-Accuracy Correlation." ICML (2026).
+[[paper](https://arxiv.org/abs/2605.10603)]
+[[code](https://github.com/HongyouZhou/ruac.git)]
+[2026.05]
+
+:boom:**FSAM:** Phuoc-Nguyen Bui, Van-Nguyen Pham, Duc-Tai Le, Junghyun Bum, Hyunseung Choo.<br />
+"Frequency Adapter with SAM for Generalized Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.09925)]
+[2026.05]
+
+:boom:**CAFE:** Shuang Liang, Zeqing Wang, Yuxian Li, Xihui Liu, Han Wang.<br />
+"From Pixels to Concepts: Do Segmentation Models Understand What They Segment?." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.09591)]
+[[code](https://github.com/T-S-Liang/CAFE)]
+[[project](https://t-s-liang.github.io/CAFE)]
+[[dataset](https://huggingface.co/datasets/teemosliang/CAFE)]
+[2026.05]
+ 
+:boom:**SAMOFT:** Yanchao Wang, Dawei Zhang, Chengzhuan Yang, Wei Liu, Minglu Li, Hua Wang, Zhonglong Zheng, Ming-Hsuan Yang.<br />
+"SAMOFT: Robust Multi-Object Tracking via Region and Flow." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.09417)]
+[2026.05]
+
 :boom:**RCoT-Seg:** Junwei Wen, Deshui Miao, Guangming Lu, Xin Li, Wenjie Pei.<br />
 "RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.07334)]
