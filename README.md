@@ -394,6 +394,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2605.09417)]
 [2026.05]
 
+:boom:R. James Cotton, Pouyan Firouzabadi, Wendy Murray.<br />
+"Monocular Biomechanical Tracking of Fingers with Inverse Kinematics to Foundation Models." EMBC (2026).
+[[paper](https://arxiv.org/abs/2605.09258)]
+[2026.05]
+
 :boom:**RCoT-Seg:** Junwei Wen, Deshui Miao, Guangming Lu, Xin Li, Wenjie Pei.<br />
 "RCoT-Seg: Reinforced Chain-of-Thought for Video Reasoning and Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.07334)]
