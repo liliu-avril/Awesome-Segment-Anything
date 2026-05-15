@@ -370,6 +370,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**PointGS:** Yixiao Song, Qingyong Li, Wen Wang, Zhicheng Yan.<br />
+"PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting." CVPR (2026).
+[[paper](https://arxiv.org/abs/2605.11520)]
+[[code](https://github.com/SebastianYIXIAO/pointGS)]
+[2026.05]
+
+:boom:**FocusDepth:** Yuxin Du, Tao Lin, Zile Zhong, Runting Li, Xiyao Chen, Jiting Liu, Chenglin Liu, Ying-Cong Chen, Yuqian Fu, Bo Zhao.<br />
+"Focusable Monocular Depth Estimation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.11756)]
+[2026.05]
+
+:boom:**M4-SAM:** Jiyuan Liu, Jia Lin, Xiaofei Zhou, Runmin Cong, Deyang Liu, Zhi Liu.<br />
+"M4-SAM: Multi-Modal Mixture-of-Experts with Memory-Augmented SAM for RGB-D Video Salient Object Detection." CVPR (2026).
+[[paper](https://arxiv.org/abs/2605.11760)]
+[[code](https://github.com/HankLiu2020/M4-SAM)]
+[2026.05]
+ 
+:boom:Stefano Colamonaco, Andrei-Bogdan Florea, Jaron Maene.<br />
+"Weakly Supervised Segmentation as Semantic-Based Regularization." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.13674)]
+[2026.05]
+
 :boom:**RUAC:** Hongyou Zhou, Marc Toussaint, Ling Shao, Zihan Ye.<br />
 "Segment Anything with Robust Uncertainty-Accuracy Correlation." ICML (2026).
 [[paper](https://arxiv.org/abs/2605.10603)]
