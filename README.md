@@ -370,6 +370,30 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**DeFakerOne:** GuangJian Team, Ant Group.<br />
+"Venus-DeFakerOne: Unified Fake Image Detection & Localization." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.14091)]
+[[code](https://github.com/venus-guangjian/Venus-DeFakerOne)]
+[2026.05]
+ 
+:boom:**PDI-Bench:** Jiaxin Wu, Yihao Pi, Yinling Zhang, Yuheng Li, Xueyan Zou.<br />
+"Quantitative Video World Model Evaluation for Geometric-Consistency." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.15185)]
+[[code](https://pdi-bench.github.io/)]
+[2026.05]
+
+:boom:**MedCore:** Cenwei Zhang, Suncheng Xiang, Lei You.<br />
+"MedCore: Boundary-Preserving Medical Core Pruning for MedSAM." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.13688)]
+[[code](https://github.com/cenweizhang/MedCore)]
+[2026.05]
+
+:boom:**Seg-Agent:** Chao Hao, Jun Xu, Ji Du, Shuo Ye, Ziyue Qiao, Xiaodong Cun, Guangcong Wang, Xubin Zheng, Zitong Yu.<br />
+"Seg-Agent: Test-Time Multimodal Reasoning for Training-Free Language-Guided Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.12953)]
+[[code](https://github.com/Fanye12/Seg-Agent)]
+[2026.05]
+
 :boom:**PointGS:** Yixiao Song, Qingyong Li, Wen Wang, Zhicheng Yan.<br />
 "PointGS: Semantic-Consistent Unsupervised 3D Point Cloud Segmentation with 3D Gaussian Splatting." CVPR (2026).
 [[paper](https://arxiv.org/abs/2605.11520)]
