@@ -370,6 +370,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom: Eugenia Moris, Alicia Costábile, Sebastián Rey, Irene Ferreiro, Joaquín Hurtado, Lizandra Lissette Luciano, Matías Villagrán, Aisha Espino Vázquez, Jomari Ramos, Isadora Monteiro, María Victoria de Santiago, Pilar Moreno, Gonzalo Moratorio, José Ignacio Orlando.<br />
+"End-to-end plaque counting and virus titration from laboratory plate images with deep learning." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.16008)]
+[2026.05]
+
+:boom:Raushan Joshi, Jean-Yves Guillemaut.<br />
+"Robust Prior-Guided Segmentation for Editable 3D Gaussian Splatting." ICIP (2026).
+[[paper](https://arxiv.org/abs/2605.16065)]
+[2026.05]
+ 
+:boom:**MT-SAM:** Litao Zhao, Yuhan Zhang, Libiao Ji, Jie Bao, Caizi Li, Chi-Fai NG and Pheng-Ann Heng.<br />
+"MT-SAM: A Mamba-Transformer Enhanced SAM with Prior-guided Prompting for Multi-modal Prostate Cancer Delineation." TMI (2026).
+[[paper](https://ieeexplore.ieee.org/document/11516322/)]
+[[code](https://github.com/LuckLT/MT-SAM)]
+[2026.05]
+
+:boom:**DT-ZSAM:** Fan, Zhanpeng, Xinglei Gu, Qiyu Liu, Yangheng Hu, and Liang Yu.<br />
+"Fusing Dual-Threshold Prompts with SAM for Shot Peening Coverage Assessment on Aircraft Propeller Blades." Applied Sciences (2026).
+[[paper](https://doi.org/10.3390/app16094309)]
+[2026.05]
+
 :boom:**DeFakerOne:** GuangJian Team, Ant Group.<br />
 "Venus-DeFakerOne: Unified Fake Image Detection & Localization." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.14091)]
