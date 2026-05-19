@@ -370,6 +370,21 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**TinySAM 2:** Zhaoyuan Ding, Yijing Yang, Han Shu, Xinghao Chen.<br />
+"TinySAM 2: Extreme Memory Compression for Efficient Track Anything Model." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.18013)]
+[2026.05]
+
+:boom:**SparseSAM:** Hoai-Chau Tran, Chi H. Nguyen, Duy M. H. Nguyen, Mathias Niepert, Fan Lai, Khoa D. Doan.<br />
+"SparseSAM: Structured Sparsification of Activations in Segment Anything Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.17633)]
+[2026.05]
+
+:boom:**CAR-SAM:** Houji Wen, Jiangyong Yu, Jun Li, Dawei Yang.<br />
+"CAR-SAM: Cross-Attention Reconstruction for Post-Training Quantization of the Segment Anything Model." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.16901)]
+[2026.05]
+
 :boom: Eugenia Moris, Alicia Costábile, Sebastián Rey, Irene Ferreiro, Joaquín Hurtado, Lizandra Lissette Luciano, Matías Villagrán, Aisha Espino Vázquez, Jomari Ramos, Isadora Monteiro, María Victoria de Santiago, Pilar Moreno, Gonzalo Moratorio, José Ignacio Orlando.<br />
 "End-to-end plaque counting and virus titration from laboratory plate images with deep learning." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.16008)]
