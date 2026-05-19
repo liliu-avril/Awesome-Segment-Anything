@@ -370,6 +370,34 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**D3S2:** Yachan Guo, JoseLuis Gomez Zurita, Danna Xue, Yi Xiao, AntonioManuel Lopez Pena.<br />
+"Metric-Guided Feature Fusion of Visual Foundation Models for Segmentation Tasks." CVPR Findings (2026).
+[[paper](https://arxiv.org/abs/2605.16864)]
+[[code](https://github.com/gyc-code/metric-guided-fusion)]
+[2026.05]
+
+:boom:**HyperVision:** Guanyiman Fu, Jingtao Li, Zihang Cheng, Zhuanfeng Li, Diqi Chen, Yan Xu, Fengchao Xiong, Jianfeng Lu, Jun Zhou.<br />
+"HyperVision: A Channel-Adaptive Ground-Based Hyperspectral Vision Pre-trained Backbone." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.17286)]
+[[code](https://github.com/lronkitty/HyperVision)]
+[2026.05]
+ 
+:boom:**Rad-VLSM:** Fengyi Zhang, Xujie Zeng, Mohan Liu, Zengyi Wang, Yalong Jiang.<br />
+"Rad-VLSM: A Cross-Modal Framework with Semantics-Assisted Prompting for Medical Segmentation and Diagnosis." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.18130)]
+[2026.05]
+
+:boom:Divya Joshi, J. D. Peiffer, Colleen Peyton, R. James Cotton.<br />
+"Markerless Motion Capture for Biomechanical Whole-Body Kinematic Estimation in Infants." EMBC (2026).
+[[paper](https://arxiv.org/abs/2605.17120)]
+[2026.05]
+
+:boom:**WOW-Seg:** Danyang Li, Tianhao Wu, Bin Li, Zhenyuan Chen, Yang Zhang, Yuxuan Li, Ming-Ming Cheng, Xiang Li.<br />
+"WOW-Seg: A Word-free Open World Segmentation Model." ICLR (2026).
+[[paper](https://arxiv.org/abs/2605.16903)]
+[[code](https://github.com/AAwCAA/WOW-Seg-Meta)]
+[2026.05]
+
 :boom:**TinySAM 2:** Zhaoyuan Ding, Yijing Yang, Han Shu, Xinghao Chen.<br />
 "TinySAM 2: Extreme Memory Compression for Efficient Track Anything Model." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.18013)]
