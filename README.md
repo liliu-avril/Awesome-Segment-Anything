@@ -370,6 +370,30 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**DarkLLM:** Ye Sun, Xin Wang, Jiaming Zhang, Yifeng Gao, Yixu Wang, Yifan Ding, Qixian Zhang, Henghui Ding, Xingjun Ma, Yu-Gang Jiang.<br />
+"DarkLLM: Learning Language-Driven Adversarial Attacks with Large Language Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.18868)]
+[[code](https://github.com/sunye23/DarkLLM)]
+[2026.05]
+
+:boom:Tonghao Zhuang, Shanglong Hu, Yongsheng Luo, Zhiqi Zhang, Yu Li.<br />
+"Synergistic Foundation Models for Semi-Supervised Fetal Cardiac Ultrasound Analysis: SAM-Med2D Boundary Refinement and DINOv3 Semantic Enhancement." MICCAI Workshop (2026).
+[[paper](https://arxiv.org/abs/2605.19799)]
+[[code](https://github.com/2826056177/zcst_fetus2026)]
+[2026.05]
+ 
+:boom:Ananth Sriram, Neel Mokaria, Rajveer Singh.<br />
+"Passive Construction Site Safety Monitoring via Persona-Scaffolded Adversarial Chain-of-Thought VLM Verification." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.19869)]
+[[code](https://github.com/ananthsriram1/ironsite-hackathon-project-safety_assistant)]
+[2026.05]
+
+:boom:**MedFM-Robust:** Xiangxiang Cui, Tianjin Huang, Yifang Wang, Lijie Hu, Lu Yin.<br />
+"MedFM-Robust: Benchmarking Robustness of Medical Foundation Models." MICCAI (2026).
+[[paper](https://arxiv.org/abs/2605.19027)]
+[[code](https://github.com/AbnerAI/MedFM-Robust)]
+[2026.05]
+
 :boom:**OmniVL-Guard Pro:** Jinjie Shen, Zheng Huang, Yuchen Zhang, Yujiao Wu, Yaxiong Wang, Lechao Cheng, Shengeng Tang, Tianrui Hui, Nan Pu, Zhun Zhong.<br />
 "OmniVL-Guard Pro: A Tool-Augmented Agent for Omnibus Vision-Language Forensics." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.16962)]
