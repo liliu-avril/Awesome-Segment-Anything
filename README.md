@@ -370,6 +370,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**OmniVL-Guard Pro:** Jinjie Shen, Zheng Huang, Yuchen Zhang, Yujiao Wu, Yaxiong Wang, Lechao Cheng, Shengeng Tang, Tianrui Hui, Nan Pu, Zhun Zhong.<br />
+"OmniVL-Guard Pro: A Tool-Augmented Agent for Omnibus Vision-Language Forensics." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.16962)]
+[[code](https://github.com/shen8424/OmniVL-Guard-Pro)]
+[2026.05]
+ 
+:boom:**SegRAG:** Abderrahmene Boudiaf, Irfan Hussain, Sajid Javed.<br />
+"SegRAG: Training-Free Retrieval-Augmented Semantic Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.17630)]
+[[code](https://github.com/boudiafA/SegRAG)]
+[2026.05]
+
 :boom:**D3S2:** Yachan Guo, JoseLuis Gomez Zurita, Danna Xue, Yi Xiao, AntonioManuel Lopez Pena.<br />
 "Metric-Guided Feature Fusion of Visual Foundation Models for Segmentation Tasks." CVPR Findings (2026).
 [[paper](https://arxiv.org/abs/2605.16864)]
