@@ -370,6 +370,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**VASA:** Zilin Wang, Stella X. Yu.<br />
+"Vision Harnessing Agent for Open Ad-hoc Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.19410)]
+[2026.05]
+
 :boom:**DarkLLM:** Ye Sun, Xin Wang, Jiaming Zhang, Yifeng Gao, Yixu Wang, Yifan Ding, Qixian Zhang, Henghui Ding, Xingjun Ma, Yu-Gang Jiang.<br />
 "DarkLLM: Learning Language-Driven Adversarial Attacks with Large Language Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.18868)]
