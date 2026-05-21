@@ -370,6 +370,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**DECA:** Lifeng Yang, Linshu Chen, Anxing Hu, et al.<br />
+"Underwater image segmentation method based on dual-encoder." ICCIIA (2026).
+[[paper](https://doi.org/10.1117/12.3113443)]
+[2026.05]
+
 :boom:**SGA:** Jinjin Zhang, Xiefan Guo, Di Huang.<br />
 "Spatial Gram Alignment for Ultra-High-Resolution Image Synthesis." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.20808)]
