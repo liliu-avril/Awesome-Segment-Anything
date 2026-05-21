@@ -370,6 +370,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SGA:** Jinjin Zhang, Xiefan Guo, Di Huang.<br />
+"Spatial Gram Alignment for Ultra-High-Resolution Image Synthesis." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.20808)]
+[[code](https://github.com/zhang0jhon/SGA)]
+[2026.05]
+
+:boom:**HyDAR-Pano3D:** Yaoyao Yue, Jérôme Schmid, Xiaoshuang Li, Eduardo Delamare, Jinman Kim.<br />
+"HyDAR-Pano3D: A Hybrid Disentangled Anatomical Recovery Framework for Panoramic-to-3D Reconstruction." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.20827)]
+[2026.05]
+ 
+:boom:**SAM-Sode:** Wanying Tan, Shuo Yan, Dazhi Huang, Yazheng Liu, Zili Shao, Rufeng Chen, Hechang Chen, Mude Shi, Tianxing Ji, Sihong Xie.<br />
+"SAM-Sode: Towards Faithful Explanations for Tiny Bacteria Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.21186)]
+[2026.05]
+
+:boom:**Stream3D:** Kaichen Zhou, Zeyang Bai, Xinhai Chang, Mengyu Wang, Paul Liang, Fangneng Zhan.<br />
+"Stream3D: Sequential Multi-View 3D Generation via Evidential Memory." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.21472)]
+[[code](https://anonymous-submission-20.github.io/streaming3D.github.io/)]
+[2026.05]
+
+:boom:** LCA:** Qisai Liu, Alloy Das, Zhanhong Jiang, Joshua R. Waite, Aditya Balu, Adarsh Krishnamurthy, Soumik Sarkar.<br />
+"Lighting-aware Unified Model for Instance Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.20436)]
+[2026.05]
+
 :boom:**VASA:** Zilin Wang, Stella X. Yu.<br />
 "Vision Harnessing Agent for Open Ad-hoc Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.19410)]
