@@ -370,6 +370,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Sebastian Cavada, Francesco Pelosin, Lapo Faggi.<br />
+"Training-Free Fine-Grained Semantic Segmentations in Low Data Regimes: A FungiTastic Baseline." CVPRW (2026).
+[[paper](https://arxiv.org/abs/2605.22492)]
+[2026.05]
+
+:boom:**COCOTree:** Junhyub Lee, Seunghun Chae, Hyosu Kim.<br />
+"COCOTree: A Dataset and Benchmark for Open Tree-Structured Visual Decomposition." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.22068)]
+[[code](https://github.com/melonkick3090/COCOTree)]
+[2026.05]
+
 :boom:**SAMOSA:** Deyi Zhu, Yuji Wang, Yong Liu, Yansong Tang, Bingyao Yu, Jiwen Lu, Jie Zhou.<br />
 "Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.22538)]
