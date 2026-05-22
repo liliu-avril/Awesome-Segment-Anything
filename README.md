@@ -370,6 +370,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAMOSA:** Deyi Zhu, Yuji Wang, Yong Liu, Yansong Tang, Bingyao Yu, Jiwen Lu, Jie Zhou.<br />
+"Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.22538)]
+[[code](https://github.com/DurYi/SAMOSA)]
+[2026.05]
+
 :boom:**DECA:** Lifeng Yang, Linshu Chen, Anxing Hu, et al.<br />
 "Underwater image segmentation method based on dual-encoder." ICCIIA (2026).
 [[paper](https://doi.org/10.1117/12.3113443)]
@@ -397,7 +403,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://anonymous-submission-20.github.io/streaming3D.github.io/)]
 [2026.05]
 
-:boom:** LCA:** Qisai Liu, Alloy Das, Zhanhong Jiang, Joshua R. Waite, Aditya Balu, Adarsh Krishnamurthy, Soumik Sarkar.<br />
+:boom:**LCA:** Qisai Liu, Alloy Das, Zhanhong Jiang, Joshua R. Waite, Aditya Balu, Adarsh Krishnamurthy, Soumik Sarkar.<br />
 "Lighting-aware Unified Model for Instance Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.20436)]
 [2026.05]
