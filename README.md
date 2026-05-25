@@ -370,7 +370,114 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-- **FAST-ME :** Kakia Panagidi, Stathes Hadjieftymiadis.<br />
+:boom:**MGGA:** Fan Gao, et al.<br />
+"MedSAM-guided geometry-aware 2D-3D feature fusion for medical image registration." Neural Networks (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608026005265)]
+[[code](https://github.com/goghfan/MGGA)]
+[2026.05]
+
+:boom:**PromptLessSAM:** Mohammed Al-Mustafa Hendo, et al.<br />
+"PromptLessSAM: From Foundational Model to Domain Expert via Lightweight Decoder Adaptation for Crack Segmentation." Electrical, Computer and Communications Engineering (2026).
+[[paper](https://journals.iium.edu.my/ejournal/index.php/iiumej/article/view/4124)]
+[2026.05]
+ 
+:boom:**MT-SAM:** Zhao, Litao and Zhang, Yuhan and Ji, Libiao and Bao, Jie and Li, Caizi and NG, Chi-Fai and Heng, Pheng-Ann.<br />
+"MT-SAM: A Mamba-Transformer Enhanced SAM with Prior-guided Prompting for Multi-modal Prostate Cancer Delineation." TMI (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11516322)]
+[[code](https://github.com/LuckLT/MT-SAM)]
+[2026.05]
+
+:boom:**STATUARIO-40K:** Palmieri, Giorgio and Ranieri, Andrea and Vasarelli, Andrea and Di Angelo, Luca.<br />
+"STATUARIO-40K: Fine-Tuning SAM 3 for Instance Segmentation at Scale of Monuments, Statues, and Cracks." ArXiv (2026).
+[[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6751498)]
+[[dataset](http://deeplearning.ge.imati.cnr.it/statuario-40k)]
+[2026.05]
+
+:boom:**Per-SAM-MCPA:** Hu, Chuting, Size Dai, Shifan Wu, Qiaolin Ye, and He Yan.<br />
+"Per-SAM-MCPA: A Lightweight Framework for Individual Tree Crown Segmentation from UAV Imagery." Remote Sens (2026).
+[[paper](https://www.mdpi.com/2072-4292/18/10/1559)]
+[2026.05]
+
+:boom:**ColorSAM:** Bangcheng Zhan, et al.<br />
+"ColorSAM: teaching SAM to segment color medical images via quaternion decoding and prompt generation." ESWA (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0957417426017707)]
+[[code](https://github.com/Chasingbetter/ColorSAM)]
+[2026.05]
+
+:boom:**PromptSAMNet:** A.R. Revathi, et al.<br />
+"PromptSAMNet: A memory-enhanced adaptive prompting and clustering-augmented SAM 2.0 framework for multi-leaf plant disease diagnosis." Applied Soft Computing (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1568494626008951)]
+[2026.05]
+
+:boom:**SDDNet:** Zhao, Yu and Sun, Jing and Zhang, Guohui and Sun, Fuming and Li, Haojie.<br />
+"Enhancing SAM2 for Industrial Defect Detection via Dual-Adapter Fine-Tuning." TIM (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11520404)]
+[[code](https://github.com/wellMachine/SDDNet/)]
+[2026.05]
+
+:boom:**FS-Grasp:** Zhai, Di-Hua and Yu, Sheng and Xia, Yuanqing.<br />
+"Fast and Efficient 6-DoF Grasp Estimation With Segment Anything Model in Cluttered Scenes." IEEE/ASME Transactions on Mechatronics (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11520551)]
+[2026.05]
+ 
+:boom:**AISCT-SAM:** Kuang, Hulin and Tan, Xianzhen and Li, Shunuo and Kan, Shichao and Liu, Jin and Sun, Jiarui and Zhang, Jingyang and Yang, Chunfeng and Qiu, Wu and Zhang, Jiulou and Chen, Yang and Wang, Jianxin.<br />
+"AISCT-SAM: Customized SAM-Med2D with 3D Context Awareness and Self-Prompt Generation for Fully Automatic Acute Ischemic Stroke Lesion Segmentation on Non-Contrast CT Scans." JBHI (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11520231)]
+[2026.05]
+
+:boom:**MUP-SAM:** Lyuyang Tong, Jingwen Jiang, Bo Du.<br />
+"MUP-SAM: Multi-Scale Vision Mamba UNet Prompt Generation for SAM in Multi-Organ Medical Image Segmentation." Neural Networks (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0893608026005666)]
+[2026.05]
+
+:boom:**CraterSAM+:** Li, Miyu and Li, Junjie and Wang, Yumei and Liu, Yu.<br />
+"Self-Improving SAM with Specialist Knowledge via Adaptive Direct Preference Optimization for Crater Segmentation." IEEE Geoscience and Remote Sensing Letters (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11520836)]
+[2026.05]
+
+:boom:**MedSAM-COALF:** Zhao, Pengyu and Hou, Yonghong and Wu, Jiasai and Yan, Ke and Huo, Shuwei.<br />
+"MedSAM-COALF: A Cold-Start One-Shot Active Learning Framework for Medical Image Segmentation via Foundation Model-Guided Proxy Tasks and Uncertainty-Aware Sampling."IEEE Sensors Journal (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11521038)]
+[2026.05]
+
+:boom:**SAM-SS:** Wang, Yalin and Han, Wei and Peng, Hong and Zheng, Weihao and Li, Xiaoxu and Kang, Zhongfeng and Chan, Sixian.<br />
+"SAM-SS: Straightforward and Efficient Designs Based on Segment Anything Model for Semantic Segmentation." TCSS (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11520893)]
+[2026.05]
+
+:boom:**S2C-Net:** Ning, Hailong and Li, Haojie and Zhang, Wuxia and Lei, Tao and Chen, Yanping and Cao, Xiaopeng and Nandi, Asoke K..<br />
+"S2C-Net: SAM2-Based Dual-Domain Feature Reconstruction and Semantic Decoupling for Tiny Remote Sensing Object Counting." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11520899)]
+[[code](https://github.com/xuptLHj/S2C-Net)]
+[2026.05]
+
+:boom:**LiteWaveRep-MedSAM:** Lieqiang Liu, Chengping Zhao, Tengxiao Xu, Wutao Xiong and Yuxiao Zhang.<br />
+"LiteWaveRep-MedSAM: A lightweight medical image segmentation model based on wavelet transform and reparameterization." Biomedical Physics & Engineering Express (2026).
+[[paper](https://iopscience.iop.org/article/10.1088/2057-1976/ae6e48/meta)]
+[[code](https://github.com/LIU1116268/litewaverep)]
+[2026.05]
+ 
+:boom:**TorqueSAM:** Rahat, Shahzalal Khan, et al.<br />
+"TorqueSAM: unsupervised kidney CT analysis with localization and SAM-integrated torque clustering segmentation." ArXiv (2026).
+[[paper](https://dspace.bracu.ac.bd/xmlui/handle/10361/28062)]
+[2026.05]
+
+:boom:Elgström, Albert, Diaz, Jose, Bosch, Carles.<br />
+"Hierarchical Annotation of Mural Paintings Using SAM." ArXiv (2026).
+[[paper](https://diglib.eg.org/items/ccb00843-2db2-4859-93e2-16ccd7f35e57)]
+[2026.05]
+
+:boom:**ERSF-AS:** Cheng Ju, et al.<br />
+"ERSF-AS: Explainable recursive zero-shot anomaly segmentation with spatial-frequency priors via CLIP-SAM collaboration." Neurocomputing (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226014256)]
+[2026.05]
+
+:boom:Tan, L., Xia, Y., Teng, D. et al.<br />
+"Comparative evaluation of conventional radiomics and VGG-SAM fusion strategies for MRI-based preoperative prediction of perineural invasion in cervical cancer." Abdom Radiol (2026).
+[[paper](https://doi.org/10.1007/s00261-026-05559-1)]
+[2026.05]
+
+:boom:**FAST-ME :** Kakia Panagidi, Stathes Hadjieftymiadis.<br />
 "FAST-ME: Foundation-aware Adaptive Stopping for Motion Estimation for Efficient IoT Video Analysis." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.23428)]
 [2026.05]
