@@ -370,6 +370,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**FAST-ME :** Kakia Panagidi, Stathes Hadjieftymiadis.<br />
+"FAST-ME: Foundation-aware Adaptive Stopping for Motion Estimation for Efficient IoT Video Analysis." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.23428)]
+[2026.05]
+
 :boom:Sebastian Cavada, Francesco Pelosin, Lapo Faggi.<br />
 "Training-Free Fine-Grained Semantic Segmentations in Low Data Regimes: A FungiTastic Baseline." CVPRW (2026).
 [[paper](https://arxiv.org/abs/2605.22492)]
