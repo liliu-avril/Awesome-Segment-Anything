@@ -370,6 +370,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**InstructSAM:** Yuqian Yuan, Wentong Li, Zhaocheng Li, Yutong Lin, Juncheng Li, Siliang Tang, Jun Xiao, Yueting Zhuang, Wenqiao Zhang.<br />
+"InstructSAM: Segment Any Instance with Any Instructions." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.26102)]
+[[code](https://github.com/DCDmllm/InstructSAM)]
+[2026.05]
+
 :boom:**BED-SAM2:** Tyler Rust, Dara McNally, Kyle O'Donnell, Colin Kelly, Chandra Kambhamettu.<br />
 "BED-SAM2: Boundary-Enhanced-Depth SAM2 via Monocular Geometric Priors." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2605.24893)]
