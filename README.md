@@ -370,6 +370,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**BED-SAM2:** Tyler Rust, Dara McNally, Kyle O'Donnell, Colin Kelly, Chandra Kambhamettu.<br />
+"BED-SAM2: Boundary-Enhanced-Depth SAM2 via Monocular Geometric Priors." CVPR Workshop (2026).
+[[paper](https://arxiv.org/abs/2605.24893)]
+[[code](https://github.com/TylerRust-1/BED-SAM2)]
+[2026.05]
+
+:boom:**ANAUS:** Chunzheng Zhu, Yijun Wang, Jianxin Lin, Feng Wang, Hongwei Wang, Lei Zhao, Shengli Li, Kenli Li.<br />
+"Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation." MICCAI (2026).
+[[paper](https://arxiv.org/abs/2605.25402)]
+[[code](https://github.com/zhcz328/ANAUS)]
+[2026.05]
+
+:boom:**RepSAM:** Wenhui Chu.<br />
+"RepSAM: Bridging Foundation Models to Robotic Vision via Representation-Guided Adaptation." IJCAI-ECAI 2026 workshop (2026).
+[[paper](https://arxiv.org/abs/2605.25495)]
+[2026.05]
+
 :boom:**SAM 3-to-YOLOv8:** Marcos Vinicius Mendes Faria, Thiago Borges Pereira, Isabella C. F. S. Condotta, Thiago Meireles Paixão, Francisco de Assis Boldt.<br />
 "SAM3-Assisted Training of Lightweight YOLO Models for Precision Pig Farming." IEEE SAS  (2026).
 [[paper](https://arxiv.org/abs/2605.25860)]
