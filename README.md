@@ -370,6 +370,31 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM 3-to-YOLOv8:** Marcos Vinicius Mendes Faria, Thiago Borges Pereira, Isabella C. F. S. Condotta, Thiago Meireles Paixão, Francisco de Assis Boldt.<br />
+"SAM3-Assisted Training of Lightweight YOLO Models for Precision Pig Farming." IEEE SAS  (2026).
+[[paper](https://arxiv.org/abs/2605.25860)]
+[2026.05]
+ 
+:boom:**DeCoDrift:** H. M. Shadman Tabib, Md. Shamsuzzoha Bayzid, M Sohel Rahman.<br />
+"DeCoDrift: Stabilizing Decoder Coupling in Closed-Loop Foundation Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.25730)]
+[2026.05]
+
+:boom:**MGNet,:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.<br />
+"Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.25385)]
+[2026.05]
+
+:boom:**CLIP-Guided SAM:** Shayan Jalilian, Abdul Bais.<br />
+"CLIP-Guided SAM: Parameter-Efficient Semantic Conditioning for Promptable Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.24807)]
+[2026.05]
+
+:boom:**ViViD-5K:** Xiangzhi Tong, Chengrui Zhang, Mac Flaherty, Andre Matteo Garcia, Dominic Gorman, Jonathan Jaramillo, Justine E. Vanden Heuvel, Yu Jiang.<br />
+"ViViD-5K: Vineyard vision dataset for field-based berry detection and segmentation and grape cluster closure estimation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.24353)]
+[2026.05]
+
 :boom:**ConceptSeg-R1:** Yuan Zhao, Youwei Pang, Jiaming Zuo, Wei Ji, Kailai Zhou, Bin Fan, Yunkang Cao, Lihe Zhang, Xiaofeng Liu, Huchuan Lu, Weisi Lin, Dacheng Tao, Xiaoqi Zhao.<br />
 "ConceptSeg-R1: Segment Any Concept via Meta-Reinforcement Learning." ArXiv (2026).
 [[paper](https://arxiv.org/pdf/2605.20385)]
