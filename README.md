@@ -370,6 +370,13 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ConceptSeg-R1:** Yuan Zhao, Youwei Pang, Jiaming Zuo, Wei Ji, Kailai Zhou, Bin Fan, Yunkang Cao, Lihe Zhang, Xiaofeng Liu, Huchuan Lu, Weisi Lin, Dacheng Tao, Xiaoqi Zhao.<br />
+"ConceptSeg-R1: Segment Any Concept via Meta-Reinforcement Learning." ArXiv (2026).
+[[paper](https://arxiv.org/pdf/2605.20385)]
+[[project](https://ntu-ai4x.github.io/ConceptSeg-R1/)]
+[[code](https://github.com/NTU-AI4X/ConceptSeg-R1)]
+[2026.05]
+
 :boom:**MGGA:** Fan Gao, et al.<br />
 "MedSAM-guided geometry-aware 2D-3D feature fusion for medical image registration." Neural Networks (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608026005265)]
