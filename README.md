@@ -370,6 +370,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Water-AutoSAM:** Sun, Yingrui, Yang Hong, Xiaowei Zhou, and Junyu Dong.<br />
+"Water-AutoSAM: Dual-Domain Enhanced Auto-Prompting SAM for Underwater Segmentation." Journal of Marine Science and Engineering (2026).
+[[paper](https://doi.org/10.3390/jmse14100953)]
+[2026.05]
+
 :boom:Dmytro Klepachevskyi, Alexander Wong, Sirisha Rambhatla, Yuhao Chen.<br />
 "Zero-Shot Object Re-Identification in Egocentric Kitchen Videos via Multi-Stage SAM3 Feature Fusion." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.26383)]
