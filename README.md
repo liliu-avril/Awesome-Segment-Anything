@@ -370,6 +370,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Dmytro Klepachevskyi, Alexander Wong, Sirisha Rambhatla, Yuhao Chen.<br />
+"Zero-Shot Object Re-Identification in Egocentric Kitchen Videos via Multi-Stage SAM3 Feature Fusion." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.26383)]
+[2026.05]
+
+:boom:**PlayClass:** Prince Ravi Leow, Neil Scheidwasser, Rebecca Oscarsson, Per Jensen, Samir Bhatt, David Alejandro Duchêne.<br />
+"PlayClass: Automated Play Behaviour Classification in Poultry." CVPR Workshop (2026).
+[[paper](https://arxiv.org/abs/2605.27304)]
+[[code](https://github.com/sbhattlab/PlayClassCV4Animals)]
+[2026.05]
+ 
+:boom:**PinPoint:** Pouya Sadeghi, Shawn He, Pedro Pablo Guerrero Vela, C. Thomas, Alex Wong, Sirisha Rambhatla.<br />
+"PinPoint: Prompting with Informative Interior Points." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.26689)]
+[2026.05]
+
+:boom: Mannat Khurana, Sanyam Jain, Rishav Agarwal.<br />
+"Generative Animations: A Multi-Model Pipeline for Prompt-Driven Motion Synthesis." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.27203)]
+[2026.05]
+
 :boom:**InstructSAM:** Yuqian Yuan, Wentong Li, Zhaocheng Li, Yutong Lin, Juncheng Li, Siliang Tang, Jun Xiao, Yueting Zhuang, Wenqiao Zhang.<br />
 "InstructSAM: Segment Any Instance with Any Instructions." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.26102)]
