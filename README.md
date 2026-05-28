@@ -370,6 +370,13 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Toomas Tahves, Mauro Bellone, Junyi Gu, Raivo Sell.<br />
+"SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.28136)]
+[[project](https://app.visin.eu/projects/sam-zod)]
+[[dataset](https://app.visin.eu/datasets)]
+[2026.05]
+
 :boom:**Water-AutoSAM:** Sun, Yingrui, Yang Hong, Xiaowei Zhou, and Junyu Dong.<br />
 "Water-AutoSAM: Dual-Domain Enhanced Auto-Prompting SAM for Underwater Segmentation." Journal of Marine Science and Engineering (2026).
 [[paper](https://doi.org/10.3390/jmse14100953)]
