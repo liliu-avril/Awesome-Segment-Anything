@@ -370,6 +370,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ESAM++:** Qin Liu, Lavisha Aggarwal, Saptarashmi Bandyopadhyay, Vikas Bahirwani, Marc Niethammer, Ehsan Adeli, Andrea Colaco.<br />
+"ESAM++: Efficient Online 3D Perception on the Edge." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.29505)]
+[[code](https://github.com/qinliuliuqin/esamplusplus)]
+[2026.05]
+
+:boom:**DOST:** Bolian Peng, Ying Tang, Xu Liu, Long Sun, Xiaoqiang Lu.<br />
+"Turbulence-Robust Dynamic Object Segmentation with Multi-Signal Priors and SAM2 Refinement." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.29292)]
+[2026.05]
+
+:boom:**ViTA:** Ji-Hoon Hwang, Jisung Bae, Dong-Wook Kim, Yeonkyu Lee, Seung-Woo Seo.<br />
+"From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.29565)]
+[2026.05]
+
+:boom:**CoP:** Sanghyun Jo, Seo Jin Lee, Seohyung Hong, Yoorim Gang, Hyeongsub Kim, Hyungseok Seo, Kyungsu Kim.<br />
+"One Click per Cell Type Suffices: Training-free Group Interaction for Cell Instance Segmentation." MICCAI (2026).
+[[paper](https://arxiv.org/abs/2605.29429)]
+[[code](https://shjo-april.github.io/Chain-of-Prompts/)]
+[2026.05]
+
 :boom:Toomas Tahves, Mauro Bellone, Junyi Gu, Raivo Sell.<br />
 "SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.28136)]
