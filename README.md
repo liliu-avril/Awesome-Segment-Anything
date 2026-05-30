@@ -370,6 +370,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CM-SAM:** Jiexin Liang, et al.<br />
+"CM-SAM: Chaos-enhanced hybrid encoder for medical image segmentation with segment anything model." Biomedical Signal Processing and Control (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1746809426012310)]
+[2026.05]
+
+:boom:**SAM3D-Phys:** Xin Dong, Weijian Deng, Lihan Zhang, Tianru Dai, Wenfeng Deng, Yansong Tang.<br />
+"SAM3D-Phys: Towards Multi-Object Interactive Simulation in Real World." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.30239)]
+[[code](https://chnxindong.github.io/sam3d-phys/)]
+[2026.05]
+
 :boom:**ESAM++:** Qin Liu, Lavisha Aggarwal, Saptarashmi Bandyopadhyay, Vikas Bahirwani, Marc Niethammer, Ehsan Adeli, Andrea Colaco.<br />
 "ESAM++: Efficient Online 3D Perception on the Edge." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.29505)]
