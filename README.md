@@ -370,6 +370,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Suyog Jadhav, Dilip K. Prasad, Krishna Agarwal.<br />
+"SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy." CVPR Workshops (2026).
+[[paper](https://arxiv.org/abs/2605.31284)]
+[2026.05]
+
 :boom:**CM-SAM:** Jiexin Liang, et al.<br />
 "CM-SAM: Chaos-enhanced hybrid encoder for medical image segmentation with segment anything model." Biomedical Signal Processing and Control (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1746809426012310)]
