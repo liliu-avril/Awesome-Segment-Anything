@@ -370,6 +370,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CLOC:** Mengqi Lei, Shuokun Cheng, Wei Bao, Shaoyi Du, Jun-Hai Yong, Siqi Li, Yue Gao.<br />
+"Count Anything." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2605.30846)]
+[[code](https://github.com/Mengqi-Lei/count-anything)]
+[2026.05]
+
 :boom:Suyog Jadhav, Dilip K. Prasad, Krishna Agarwal.<br />
 "SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy." CVPR Workshops (2026).
 [[paper](https://arxiv.org/abs/2605.31284)]
