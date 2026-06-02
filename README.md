@@ -382,6 +382,12 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/GCVCG/PerBite-CVPR-MetaFood-2026)]
 [2026.06]
 
+:boom:**LG-SAM:** Panav Shah, Geet Sethi, Ashutosh Gandhe.<br />
+"Improving Visual Grounding in Remote Sensing via Cluster-Guided Refinement and Model Ensemble Voting." CVPR Workshops (2026).
+[[paper](https://arxiv.org/abs/2606.00556)]
+[[code](https://github.com/PanavShah1/LG-SAM)]
+[2026.06]
+
 :boom:Sakib Mohammad, Jarin Ritu, Md Sakhawat Hossain.<br />
 "Single-Channel Tissue Segmentation via Cross-Modal Distillation from Foundation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.00928)]
