@@ -370,6 +370,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**FLAME:** Yiming Wang, Baiqi Wu, Qingming Li, Jiahao Chen, Tong Zhang, Shouling Ji.<br />
+"Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization." ICML  (2026).
+[[paper](https://arxiv.org/abs/2606.02178)]
+[[code](https://github.com/phoenixnir/FLAME)]
+[2026.06]
+ 
+:boom:**PerBite:** Ahmad AlMughrabi, Farid Al-Areqi, David Fernández Gómez, Umair Haroon, Marc Bolaños, Ricardo Marques, Petia Radeva.<br />
+"PerBite: A Curated Diagnostic Workflow for Bite-Aware Food Volume Estimation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.02021)]
+[[code](https://github.com/GCVCG/PerBite-CVPR-MetaFood-2026)]
+[2026.06]
+
+:boom:Sakib Mohammad, Jarin Ritu, Md Sakhawat Hossain.<br />
+"Single-Channel Tissue Segmentation via Cross-Modal Distillation from Foundation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.00928)]
+[2026.06]
+
 :boom:**GeoSAM-3D:** Arun Sharma.<br />
 "GeoSAM-3D: Geodesic Prompt Propagation for Open-Vocabulary 3D Scene Segmentation from Monocular Video." (NeurIPS(2026).
 [[paper](https://arxiv.org/abs/2606.00447)]
