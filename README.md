@@ -370,6 +370,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**GeoSAM-3D:** Arun Sharma.<br />
+"GeoSAM-3D: Geodesic Prompt Propagation for Open-Vocabulary 3D Scene Segmentation from Monocular Video." (NeurIPS(2026).
+[[paper](https://arxiv.org/abs/2606.00447)]
+[2026.06]
+ 
+:boom:**MLAM):** Yuliang Zhang, Fang He, Lulu Peng, Tianyu Yan, Pingping Zhang, Ting Song, Lili Du, Dunjin Chen.<br />
+"3D Segment Anything Model with Visual Mamba for Diagnosing Placenta Accreta Spectrum." TIP (2026).
+[[paper](https://arxiv.org/abs/2606.00489)]
+[[code](https://github.com/Drchip61/PASD)]
+[2026.06]
+
 :boom:**CLOC:** Mengqi Lei, Shuokun Cheng, Wei Bao, Shaoyi Du, Jun-Hai Yong, Siqi Li, Yue Gao.<br />
 "Count Anything." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.30846)]
@@ -381,235 +392,235 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2605.31284)]
 [2026.05]
 
-:boom:**CM-SAM:** Jiexin Liang, et al.<br />
+- **CM-SAM:** Jiexin Liang, et al.<br />
 "CM-SAM: Chaos-enhanced hybrid encoder for medical image segmentation with segment anything model." Biomedical Signal Processing and Control (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1746809426012310)]
 [2026.05]
 
-:boom:**SAM3D-Phys:** Xin Dong, Weijian Deng, Lihan Zhang, Tianru Dai, Wenfeng Deng, Yansong Tang.<br />
+- **SAM3D-Phys:** Xin Dong, Weijian Deng, Lihan Zhang, Tianru Dai, Wenfeng Deng, Yansong Tang.<br />
 "SAM3D-Phys: Towards Multi-Object Interactive Simulation in Real World." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.30239)]
 [[code](https://chnxindong.github.io/sam3d-phys/)]
 [2026.05]
 
-:boom:**ESAM++:** Qin Liu, Lavisha Aggarwal, Saptarashmi Bandyopadhyay, Vikas Bahirwani, Marc Niethammer, Ehsan Adeli, Andrea Colaco.<br />
+- **ESAM++:** Qin Liu, Lavisha Aggarwal, Saptarashmi Bandyopadhyay, Vikas Bahirwani, Marc Niethammer, Ehsan Adeli, Andrea Colaco.<br />
 "ESAM++: Efficient Online 3D Perception on the Edge." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.29505)]
 [[code](https://github.com/qinliuliuqin/esamplusplus)]
 [2026.05]
 
-:boom:**DOST:** Bolian Peng, Ying Tang, Xu Liu, Long Sun, Xiaoqiang Lu.<br />
+- **DOST:** Bolian Peng, Ying Tang, Xu Liu, Long Sun, Xiaoqiang Lu.<br />
 "Turbulence-Robust Dynamic Object Segmentation with Multi-Signal Priors and SAM2 Refinement." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.29292)]
 [2026.05]
 
-:boom:**ViTA:** Ji-Hoon Hwang, Jisung Bae, Dong-Wook Kim, Yeonkyu Lee, Seung-Woo Seo.<br />
+- **ViTA:** Ji-Hoon Hwang, Jisung Bae, Dong-Wook Kim, Yeonkyu Lee, Seung-Woo Seo.<br />
 "From General Vision to Reliable Traversability Estimation: Adapting Vision Foundation Models for Unstructured Outdoor Environments." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.29565)]
 [2026.05]
 
-:boom:**CoP:** Sanghyun Jo, Seo Jin Lee, Seohyung Hong, Yoorim Gang, Hyeongsub Kim, Hyungseok Seo, Kyungsu Kim.<br />
+- **CoP:** Sanghyun Jo, Seo Jin Lee, Seohyung Hong, Yoorim Gang, Hyeongsub Kim, Hyungseok Seo, Kyungsu Kim.<br />
 "One Click per Cell Type Suffices: Training-free Group Interaction for Cell Instance Segmentation." MICCAI (2026).
 [[paper](https://arxiv.org/abs/2605.29429)]
 [[code](https://shjo-april.github.io/Chain-of-Prompts/)]
 [2026.05]
 
-:boom:Toomas Tahves, Mauro Bellone, Junyi Gu, Raivo Sell.<br />
+- Toomas Tahves, Mauro Bellone, Junyi Gu, Raivo Sell.<br />
 "SAM-Enhanced Segmentation on Road Datasets: Balancing Critical Classes in Autonomous Driving." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.28136)]
 [[project](https://app.visin.eu/projects/sam-zod)]
 [[dataset](https://app.visin.eu/datasets)]
 [2026.05]
 
-:boom:**Water-AutoSAM:** Sun, Yingrui, Yang Hong, Xiaowei Zhou, and Junyu Dong.<br />
+- **Water-AutoSAM:** Sun, Yingrui, Yang Hong, Xiaowei Zhou, and Junyu Dong.<br />
 "Water-AutoSAM: Dual-Domain Enhanced Auto-Prompting SAM for Underwater Segmentation." Journal of Marine Science and Engineering (2026).
 [[paper](https://doi.org/10.3390/jmse14100953)]
 [2026.05]
 
-:boom:Dmytro Klepachevskyi, Alexander Wong, Sirisha Rambhatla, Yuhao Chen.<br />
+- Dmytro Klepachevskyi, Alexander Wong, Sirisha Rambhatla, Yuhao Chen.<br />
 "Zero-Shot Object Re-Identification in Egocentric Kitchen Videos via Multi-Stage SAM3 Feature Fusion." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.26383)]
 [2026.05]
 
-:boom:**PlayClass:** Prince Ravi Leow, Neil Scheidwasser, Rebecca Oscarsson, Per Jensen, Samir Bhatt, David Alejandro Duchêne.<br />
+- **PlayClass:** Prince Ravi Leow, Neil Scheidwasser, Rebecca Oscarsson, Per Jensen, Samir Bhatt, David Alejandro Duchêne.<br />
 "PlayClass: Automated Play Behaviour Classification in Poultry." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2605.27304)]
 [[code](https://github.com/sbhattlab/PlayClassCV4Animals)]
 [2026.05]
  
-:boom:**PinPoint:** Pouya Sadeghi, Shawn He, Pedro Pablo Guerrero Vela, C. Thomas, Alex Wong, Sirisha Rambhatla.<br />
+- **PinPoint:** Pouya Sadeghi, Shawn He, Pedro Pablo Guerrero Vela, C. Thomas, Alex Wong, Sirisha Rambhatla.<br />
 "PinPoint: Prompting with Informative Interior Points." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.26689)]
 [2026.05]
 
-:boom: Mannat Khurana, Sanyam Jain, Rishav Agarwal.<br />
+- Mannat Khurana, Sanyam Jain, Rishav Agarwal.<br />
 "Generative Animations: A Multi-Model Pipeline for Prompt-Driven Motion Synthesis." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.27203)]
 [2026.05]
 
-:boom:**InstructSAM:** Yuqian Yuan, Wentong Li, Zhaocheng Li, Yutong Lin, Juncheng Li, Siliang Tang, Jun Xiao, Yueting Zhuang, Wenqiao Zhang.<br />
+- **InstructSAM:** Yuqian Yuan, Wentong Li, Zhaocheng Li, Yutong Lin, Juncheng Li, Siliang Tang, Jun Xiao, Yueting Zhuang, Wenqiao Zhang.<br />
 "InstructSAM: Segment Any Instance with Any Instructions." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.26102)]
 [[code](https://github.com/DCDmllm/InstructSAM)]
 [2026.05]
 
-:boom:**BED-SAM2:** Tyler Rust, Dara McNally, Kyle O'Donnell, Colin Kelly, Chandra Kambhamettu.<br />
+- **BED-SAM2:** Tyler Rust, Dara McNally, Kyle O'Donnell, Colin Kelly, Chandra Kambhamettu.<br />
 "BED-SAM2: Boundary-Enhanced-Depth SAM2 via Monocular Geometric Priors." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2605.24893)]
 [[code](https://github.com/TylerRust-1/BED-SAM2)]
 [2026.05]
 
-:boom:**ANAUS:** Chunzheng Zhu, Yijun Wang, Jianxin Lin, Feng Wang, Hongwei Wang, Lei Zhao, Shengli Li, Kenli Li.<br />
+- **ANAUS:** Chunzheng Zhu, Yijun Wang, Jianxin Lin, Feng Wang, Hongwei Wang, Lei Zhao, Shengli Li, Kenli Li.<br />
 "Anatomy-Anchored Self-Supervision: Distilling Vision Foundation Models for Invariant Ultrasound Representation." MICCAI (2026).
 [[paper](https://arxiv.org/abs/2605.25402)]
 [[code](https://github.com/zhcz328/ANAUS)]
 [2026.05]
 
-:boom:**RepSAM:** Wenhui Chu.<br />
+- **RepSAM:** Wenhui Chu.<br />
 "RepSAM: Bridging Foundation Models to Robotic Vision via Representation-Guided Adaptation." IJCAI-ECAI 2026 workshop (2026).
 [[paper](https://arxiv.org/abs/2605.25495)]
 [2026.05]
 
-:boom:**SAM 3-to-YOLOv8:** Marcos Vinicius Mendes Faria, Thiago Borges Pereira, Isabella C. F. S. Condotta, Thiago Meireles Paixão, Francisco de Assis Boldt.<br />
+- **SAM 3-to-YOLOv8:** Marcos Vinicius Mendes Faria, Thiago Borges Pereira, Isabella C. F. S. Condotta, Thiago Meireles Paixão, Francisco de Assis Boldt.<br />
 "SAM3-Assisted Training of Lightweight YOLO Models for Precision Pig Farming." IEEE SAS  (2026).
 [[paper](https://arxiv.org/abs/2605.25860)]
 [2026.05]
  
-:boom:**DeCoDrift:** H. M. Shadman Tabib, Md. Shamsuzzoha Bayzid, M Sohel Rahman.<br />
+- **DeCoDrift:** H. M. Shadman Tabib, Md. Shamsuzzoha Bayzid, M Sohel Rahman.<br />
 "DeCoDrift: Stabilizing Decoder Coupling in Closed-Loop Foundation Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.25730)]
 [2026.05]
 
-:boom:**MGNet,:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.<br />
+- **MGNet,:** Xia Li, Xinran Liu, Lin Qi, Junyu Dong.<br />
 "Weakly Supervised Camouflaged Object Detection Based on the SAM Model and Mask Guidance." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.25385)]
 [2026.05]
 
-:boom:**CLIP-Guided SAM:** Shayan Jalilian, Abdul Bais.<br />
+- **CLIP-Guided SAM:** Shayan Jalilian, Abdul Bais.<br />
 "CLIP-Guided SAM: Parameter-Efficient Semantic Conditioning for Promptable Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.24807)]
 [2026.05]
 
-:boom:**ViViD-5K:** Xiangzhi Tong, Chengrui Zhang, Mac Flaherty, Andre Matteo Garcia, Dominic Gorman, Jonathan Jaramillo, Justine E. Vanden Heuvel, Yu Jiang.<br />
+- **ViViD-5K:** Xiangzhi Tong, Chengrui Zhang, Mac Flaherty, Andre Matteo Garcia, Dominic Gorman, Jonathan Jaramillo, Justine E. Vanden Heuvel, Yu Jiang.<br />
 "ViViD-5K: Vineyard vision dataset for field-based berry detection and segmentation and grape cluster closure estimation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.24353)]
 [2026.05]
 
-:boom:**ConceptSeg-R1:** Yuan Zhao, Youwei Pang, Jiaming Zuo, Wei Ji, Kailai Zhou, Bin Fan, Yunkang Cao, Lihe Zhang, Xiaofeng Liu, Huchuan Lu, Weisi Lin, Dacheng Tao, Xiaoqi Zhao.<br />
+- **ConceptSeg-R1:** Yuan Zhao, Youwei Pang, Jiaming Zuo, Wei Ji, Kailai Zhou, Bin Fan, Yunkang Cao, Lihe Zhang, Xiaofeng Liu, Huchuan Lu, Weisi Lin, Dacheng Tao, Xiaoqi Zhao.<br />
 "ConceptSeg-R1: Segment Any Concept via Meta-Reinforcement Learning." ArXiv (2026).
 [[paper](https://arxiv.org/pdf/2605.20385)]
 [[project](https://ntu-ai4x.github.io/ConceptSeg-R1/)]
 [[code](https://github.com/NTU-AI4X/ConceptSeg-R1)]
 [2026.05]
 
-:boom:**MGGA:** Fan Gao, et al.<br />
+- **MGGA:** Fan Gao, et al.<br />
 "MedSAM-guided geometry-aware 2D-3D feature fusion for medical image registration." Neural Networks (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608026005265)]
 [[code](https://github.com/goghfan/MGGA)]
 [2026.05]
 
-:boom:**PromptLessSAM:** Mohammed Al-Mustafa Hendo, et al.<br />
+- **PromptLessSAM:** Mohammed Al-Mustafa Hendo, et al.<br />
 "PromptLessSAM: From Foundational Model to Domain Expert via Lightweight Decoder Adaptation for Crack Segmentation." Electrical, Computer and Communications Engineering (2026).
 [[paper](https://journals.iium.edu.my/ejournal/index.php/iiumej/article/view/4124)]
 [2026.05]
  
-:boom:**MT-SAM:** Zhao, Litao and Zhang, Yuhan and Ji, Libiao and Bao, Jie and Li, Caizi and NG, Chi-Fai and Heng, Pheng-Ann.<br />
+- **MT-SAM:** Zhao, Litao and Zhang, Yuhan and Ji, Libiao and Bao, Jie and Li, Caizi and NG, Chi-Fai and Heng, Pheng-Ann.<br />
 "MT-SAM: A Mamba-Transformer Enhanced SAM with Prior-guided Prompting for Multi-modal Prostate Cancer Delineation." TMI (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11516322)]
 [[code](https://github.com/LuckLT/MT-SAM)]
 [2026.05]
 
-:boom:**STATUARIO-40K:** Palmieri, Giorgio and Ranieri, Andrea and Vasarelli, Andrea and Di Angelo, Luca.<br />
+- **STATUARIO-40K:** Palmieri, Giorgio and Ranieri, Andrea and Vasarelli, Andrea and Di Angelo, Luca.<br />
 "STATUARIO-40K: Fine-Tuning SAM 3 for Instance Segmentation at Scale of Monuments, Statues, and Cracks." ArXiv (2026).
 [[paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6751498)]
 [[dataset](http://deeplearning.ge.imati.cnr.it/statuario-40k)]
 [2026.05]
 
-:boom:**Per-SAM-MCPA:** Hu, Chuting, Size Dai, Shifan Wu, Qiaolin Ye, and He Yan.<br />
+- **Per-SAM-MCPA:** Hu, Chuting, Size Dai, Shifan Wu, Qiaolin Ye, and He Yan.<br />
 "Per-SAM-MCPA: A Lightweight Framework for Individual Tree Crown Segmentation from UAV Imagery." Remote Sens (2026).
 [[paper](https://www.mdpi.com/2072-4292/18/10/1559)]
 [2026.05]
 
-:boom:**ColorSAM:** Bangcheng Zhan, et al.<br />
+- **ColorSAM:** Bangcheng Zhan, et al.<br />
 "ColorSAM: teaching SAM to segment color medical images via quaternion decoding and prompt generation." ESWA (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0957417426017707)]
 [[code](https://github.com/Chasingbetter/ColorSAM)]
 [2026.05]
 
-:boom:**PromptSAMNet:** A.R. Revathi, et al.<br />
+- **PromptSAMNet:** A.R. Revathi, et al.<br />
 "PromptSAMNet: A memory-enhanced adaptive prompting and clustering-augmented SAM 2.0 framework for multi-leaf plant disease diagnosis." Applied Soft Computing (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S1568494626008951)]
 [2026.05]
 
-:boom:**SDDNet:** Zhao, Yu and Sun, Jing and Zhang, Guohui and Sun, Fuming and Li, Haojie.<br />
+- **SDDNet:** Zhao, Yu and Sun, Jing and Zhang, Guohui and Sun, Fuming and Li, Haojie.<br />
 "Enhancing SAM2 for Industrial Defect Detection via Dual-Adapter Fine-Tuning." TIM (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11520404)]
 [[code](https://github.com/wellMachine/SDDNet/)]
 [2026.05]
 
-:boom:**FS-Grasp:** Zhai, Di-Hua and Yu, Sheng and Xia, Yuanqing.<br />
+- **FS-Grasp:** Zhai, Di-Hua and Yu, Sheng and Xia, Yuanqing.<br />
 "Fast and Efficient 6-DoF Grasp Estimation With Segment Anything Model in Cluttered Scenes." IEEE/ASME Transactions on Mechatronics (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11520551)]
 [2026.05]
  
-:boom:**AISCT-SAM:** Kuang, Hulin and Tan, Xianzhen and Li, Shunuo and Kan, Shichao and Liu, Jin and Sun, Jiarui and Zhang, Jingyang and Yang, Chunfeng and Qiu, Wu and Zhang, Jiulou and Chen, Yang and Wang, Jianxin.<br />
+- **AISCT-SAM:** Kuang, Hulin and Tan, Xianzhen and Li, Shunuo and Kan, Shichao and Liu, Jin and Sun, Jiarui and Zhang, Jingyang and Yang, Chunfeng and Qiu, Wu and Zhang, Jiulou and Chen, Yang and Wang, Jianxin.<br />
 "AISCT-SAM: Customized SAM-Med2D with 3D Context Awareness and Self-Prompt Generation for Fully Automatic Acute Ischemic Stroke Lesion Segmentation on Non-Contrast CT Scans." JBHI (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11520231)]
 [2026.05]
 
-:boom:**MUP-SAM:** Lyuyang Tong, Jingwen Jiang, Bo Du.<br />
+- **MUP-SAM:** Lyuyang Tong, Jingwen Jiang, Bo Du.<br />
 "MUP-SAM: Multi-Scale Vision Mamba UNet Prompt Generation for SAM in Multi-Organ Medical Image Segmentation." Neural Networks (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0893608026005666)]
 [2026.05]
 
-:boom:**CraterSAM+:** Li, Miyu and Li, Junjie and Wang, Yumei and Liu, Yu.<br />
+- **CraterSAM+:** Li, Miyu and Li, Junjie and Wang, Yumei and Liu, Yu.<br />
 "Self-Improving SAM with Specialist Knowledge via Adaptive Direct Preference Optimization for Crater Segmentation." IEEE Geoscience and Remote Sensing Letters (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11520836)]
 [2026.05]
 
-:boom:**MedSAM-COALF:** Zhao, Pengyu and Hou, Yonghong and Wu, Jiasai and Yan, Ke and Huo, Shuwei.<br />
+- **MedSAM-COALF:** Zhao, Pengyu and Hou, Yonghong and Wu, Jiasai and Yan, Ke and Huo, Shuwei.<br />
 "MedSAM-COALF: A Cold-Start One-Shot Active Learning Framework for Medical Image Segmentation via Foundation Model-Guided Proxy Tasks and Uncertainty-Aware Sampling."IEEE Sensors Journal (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11521038)]
 [2026.05]
 
-:boom:**SAM-SS:** Wang, Yalin and Han, Wei and Peng, Hong and Zheng, Weihao and Li, Xiaoxu and Kang, Zhongfeng and Chan, Sixian.<br />
+- **SAM-SS:** Wang, Yalin and Han, Wei and Peng, Hong and Zheng, Weihao and Li, Xiaoxu and Kang, Zhongfeng and Chan, Sixian.<br />
 "SAM-SS: Straightforward and Efficient Designs Based on Segment Anything Model for Semantic Segmentation." TCSS (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11520893)]
 [2026.05]
 
-:boom:**S2C-Net:** Ning, Hailong and Li, Haojie and Zhang, Wuxia and Lei, Tao and Chen, Yanping and Cao, Xiaopeng and Nandi, Asoke K..<br />
+- **S2C-Net:** Ning, Hailong and Li, Haojie and Zhang, Wuxia and Lei, Tao and Chen, Yanping and Cao, Xiaopeng and Nandi, Asoke K..<br />
 "S2C-Net: SAM2-Based Dual-Domain Feature Reconstruction and Semantic Decoupling for Tiny Remote Sensing Object Counting." TGRS (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11520899)]
 [[code](https://github.com/xuptLHj/S2C-Net)]
 [2026.05]
 
-:boom:**LiteWaveRep-MedSAM:** Lieqiang Liu, Chengping Zhao, Tengxiao Xu, Wutao Xiong and Yuxiao Zhang.<br />
+- **LiteWaveRep-MedSAM:** Lieqiang Liu, Chengping Zhao, Tengxiao Xu, Wutao Xiong and Yuxiao Zhang.<br />
 "LiteWaveRep-MedSAM: A lightweight medical image segmentation model based on wavelet transform and reparameterization." Biomedical Physics & Engineering Express (2026).
 [[paper](https://iopscience.iop.org/article/10.1088/2057-1976/ae6e48/meta)]
 [[code](https://github.com/LIU1116268/litewaverep)]
 [2026.05]
  
-:boom:**TorqueSAM:** Rahat, Shahzalal Khan, et al.<br />
+- **TorqueSAM:** Rahat, Shahzalal Khan, et al.<br />
 "TorqueSAM: unsupervised kidney CT analysis with localization and SAM-integrated torque clustering segmentation." ArXiv (2026).
 [[paper](https://dspace.bracu.ac.bd/xmlui/handle/10361/28062)]
 [2026.05]
 
-:boom:Elgström, Albert, Diaz, Jose, Bosch, Carles.<br />
+- Elgström, Albert, Diaz, Jose, Bosch, Carles.<br />
 "Hierarchical Annotation of Mural Paintings Using SAM." ArXiv (2026).
 [[paper](https://diglib.eg.org/items/ccb00843-2db2-4859-93e2-16ccd7f35e57)]
 [2026.05]
 
-:boom:**ERSF-AS:** Cheng Ju, et al.<br />
+- **ERSF-AS:** Cheng Ju, et al.<br />
 "ERSF-AS: Explainable recursive zero-shot anomaly segmentation with spatial-frequency priors via CLIP-SAM collaboration." Neurocomputing (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231226014256)]
 [2026.05]
 
-:boom:Tan, L., Xia, Y., Teng, D. et al.<br />
+- Tan, L., Xia, Y., Teng, D. et al.<br />
 "Comparative evaluation of conventional radiomics and VGG-SAM fusion strategies for MRI-based preoperative prediction of perineural invasion in cervical cancer." Abdom Radiol (2026).
 [[paper](https://doi.org/10.1007/s00261-026-05559-1)]
 [2026.05]
 
-:boom:**FAST-ME :** Kakia Panagidi, Stathes Hadjieftymiadis.<br />
+- **FAST-ME :** Kakia Panagidi, Stathes Hadjieftymiadis.<br />
 "FAST-ME: Foundation-aware Adaptive Stopping for Motion Estimation for Efficient IoT Video Analysis." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.23428)]
 [2026.05]
