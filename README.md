@@ -370,6 +370,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CR-SEG:** Yifan Cao, Xiaocui Yang, Faxian Wan, Shi Feng, Daling Wang, Yifei Zhang.<br />
+"CR-SEG: Attention-Guided and CoT-Enhanced Coarse-to-Refined Reasoning Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.03564)]
+[2026.06]
+ 
+:boom:**SAMatcher:** Xu Pan, Qiyuan Ma, Mingyue Dong, He Chen, Wei Ji, Xianwei Zheng.<br />
+"SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.03406)]
+[[code](https://xupan.top/Projects/samatcher)]
+[2026.06]
+
+:boom:Sema Helali, Lina Abu Nadab, Sausan Alqawas, Alaa Abd-Alrazaq, Faleh Tamimi, Rafat Damseh.<br />
+"Large AI Models in Dental Healthcare: From General-Purpose Systems to Domain-Specific Foundation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.02914)]
+[2026.06]
+
 :boom:**FLAME:** Yiming Wang, Baiqi Wu, Qingming Li, Jiahao Chen, Tong Zhang, Shouling Ji.<br />
 "Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization." ICML  (2026).
 [[paper](https://arxiv.org/abs/2606.02178)]
