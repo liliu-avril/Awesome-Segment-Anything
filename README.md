@@ -152,6 +152,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://dl.acm.org/doi/full/10.1145/3769748.3773346)]
 [2025.12]
 
+
 ## Paper List
 ### Seminal Papers
 - **SAM:** Alexander Kirillov, Eric Mintun, Nikhila Ravi, Hanzi Mao, Chloe Rolland, Laura Gustafson, Tete Xiao, Spencer Whitehead, Alexander C. Berg, Wan-Yen Lo, Piotr Dollár, Ross Girshick.<br />
