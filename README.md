@@ -371,6 +371,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**MedSAM-BoxPredictor:** Amirhossein Movahedisefat, Amirreza Fateh, Mohammad Reza Mohammadi.<br />
+"Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.04705)]
+[[code](https://github.com/Amirhosseinmovahedi/MedSAM-BoxPredictor)]
+[2026.06]
+
 :boom:**CR-SEG:** Yifan Cao, Xiaocui Yang, Faxian Wan, Shi Feng, Daling Wang, Yifei Zhang.<br />
 "CR-SEG: Attention-Guided and CoT-Enhanced Coarse-to-Refined Reasoning Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.03564)]
