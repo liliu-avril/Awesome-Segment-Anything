@@ -371,6 +371,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Pigformer:** Mk Bashar, Kuljit Bhatti, Gary Rohrer, Madonna Benjamin, Tami Brown-Brandl, Daniel Morris.<br />
+"What's Under the Skin? Estimating Swine Body Condition." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.05611)]
+[[code](https://github.com/iambashar/Pigformer)]
+[2026.06]
+ 
+:boom:**TopoPult-SSL:** Nicolò Savioli, Luca Del Tongo.<br />
+"TopoPult-SSL: Gland-Mask-Free Cross-Device Meibomian Gland Segmentation via Self-Distilled Weak Clinical Priors." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.05347)]
+[2026.06]
+
 :boom:**MedSAM-BoxPredictor:** Amirhossein Movahedisefat, Amirreza Fateh, Mohammad Reza Mohammadi.<br />
 "Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.04705)]
