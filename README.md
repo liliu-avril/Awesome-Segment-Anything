@@ -432,7 +432,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2606.00447)]
 [2026.06]
  
-:boom:**MLAM):** Yuliang Zhang, Fang He, Lulu Peng, Tianyu Yan, Pingping Zhang, Ting Song, Lili Du, Dunjin Chen.<br />
+:boom:**MLAM:** Yuliang Zhang, Fang He, Lulu Peng, Tianyu Yan, Pingping Zhang, Ting Song, Lili Du, Dunjin Chen.<br />
 "3D Segment Anything Model with Visual Mamba for Diagnosing Placenta Accreta Spectrum." TIP (2026).
 [[paper](https://arxiv.org/abs/2606.00489)]
 [[code](https://github.com/Drchip61/PASD)]
