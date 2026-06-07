@@ -33,6 +33,7 @@ ____
 ## :fire: Highlights
 ![Last Updated](https://badgen.net/github/last-commit/liliu-avril/Awesome-Segment-Anything?icon=github&label=last%20updated&color=green)
 ```
+- 2026.06.05: SAM 3D won the CVPR 2026 Best Paper Honorable Mention.
 - 2026.03.27: SAM 3.1 Object Multiplex was released.
 - 2025.12.15: SAM Audio was released.
 - 2025.11.19: SAM 3 and SAM 3D were released.
@@ -184,7 +185,7 @@ If you find our work useful in your research, please consider citing:
   [2025.10]
 
 - **SAM 3D:** SAM 3D Team, Xingyu Chen, Fu-Jen Chu, Pierre Gleize, Kevin J Liang, Alexander Sax, Hao Tang Weiyao Wang, Michelle Guo, Thibaut Hardin, Xiang Li, Aohan Lin, Jiawei Liu, Ziqi Ma, Anushka Sagar, Bowen Song, Xiaodong Wang, Jianing Yang, Bowen Zhang, Piotr Dollár, Georgia Gkioxari, MattFeiszli, Jitendra Malik.<br />
-"SAM 3D: 3Dfy Anything in Images." ArXiv (2025).
+"SAM 3D: 3Dfy Anything in Images." CVPR (2026). **CVPR (2026) Best Paper Honorable Mention**.
 [[paper](https://ai.meta.com/research/publications/sam-3d-3dfy-anything-in-images/)]
 [[code](https://github.com/facebookresearch/sam-3d-objects)]
 [[project](https://ai.meta.com/sam3d/)]
