@@ -372,6 +372,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM-Flow:** Haowang Cui, Rui Chen, Tao Luo, Tao Guo, Zheng Qin, Jiaze Wang.<br />
+"SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.06228)]
+[[code](https://github.com/chwbob/Sam-Flow)]
+[2026.06]
+
 :boom:**Pigformer:** Mk Bashar, Kuljit Bhatti, Gary Rohrer, Madonna Benjamin, Tami Brown-Brandl, Daniel Morris.<br />
 "What's Under the Skin? Estimating Swine Body Condition." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.05611)]
