@@ -372,6 +372,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**RTVP:** Zekai Zhang, Qinghui Chen, Maomao Xiong, Shijiao Ding, Zhanzhi Su, Xinjie Yao, Yiming Sun, Cong Bai, Jinglin Zhang.<br />
+"Zero-Shot Learning in Industrial Scenarios: New Large-Scale Benchmark, Challenges and Baseline." AAAI (2025).
+[[paper](https://arxiv.org/abs/2606.07965)]
+[[code](https://github.com/hellozzk/MMIO)]
+[2026.06]
+ 
+:boom:**Open-V:** Silas Kwabla Gah, Ebenezer Owusu.<br />
+"Training-Free Generalized Few-Shot Segmentation through Open-Vocabulary Semantic Arbitration." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.09474)]
+[2026.06]
+
 :boom:**SAM-Flow:** Haowang Cui, Rui Chen, Tao Luo, Tao Guo, Zheng Qin, Jiaze Wang.<br />
 "SAM-Flow: Source-Anchored Masked Flow for Training-Free Image Editing." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.06228)]
