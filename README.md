@@ -372,6 +372,31 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**LSAC:** Yuxuan Chen, Haoyuan Xu, Peize He.<br />
+"Inside the Latent Flow: Causal Deciphering of Attention Dynamics in Audio Separation Foundation Models." INTERSPEECH  (2026).
+[[paper](https://arxiv.org/abs/2606.10046)]
+[2026.06]
+
+:boom:**ZODS-RS:** Zuan Gu, Tianhan Gao, Langxu Zhao.<br />
+"ZODS-RS -- Zero-training Oriented Detection & Segmentation for Remote Sensing." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.10769)]
+[2026.06]
+
+:boom:Avi Gupta, Nilotpal Sinha, Vishnu Raj, Sambuddha Saha, Pratik Joshi, Koteswar Rao Jerripothula, Tammam Tillo.<br />
+"Listen, Look, and Learn: Learning Without Forgetting through SAM-Audio."  ICML Workshop (2026).
+[[paper](https://arxiv.org/abs/2606.10887)]
+[2026.06]
+ 
+:boom:**IPSM-Bench:** Jinglin Xu, Shangyan Zhao, Jiabo Wang, Xinghong Mu, Yulong Lei, Jiacheng Zhang, Hongbo Sun, Yageng Li.<br />
+"IPSM-Bench: A New Intermediate Phase Segmentation Benchmark in Microstructure Images of Zinc-Based Absorbable Biomaterials." IJCAI  (2026).
+[[paper](https://arxiv.org/abs/2606.11001)]
+[2026.06]
+
+:boom:Nermeen Abou Baker, Uwe Handmann.<br />
+"Don't waste SAM." ESANN (2023).
+[[paper](https://arxiv.org/abs/2606.10696)]
+[2026.06]
+
 :boom:**RTVP:** Zekai Zhang, Qinghui Chen, Maomao Xiong, Shijiao Ding, Zhanzhi Su, Xinjie Yao, Yiming Sun, Cong Bai, Jinglin Zhang.<br />
 "Zero-Shot Learning in Industrial Scenarios: New Large-Scale Benchmark, Challenges and Baseline." AAAI (2025).
 [[paper](https://arxiv.org/abs/2606.07965)]
