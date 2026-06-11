@@ -414,80 +414,80 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/chwbob/Sam-Flow)]
 [2026.06]
 
-:boom:**Pigformer:** Mk Bashar, Kuljit Bhatti, Gary Rohrer, Madonna Benjamin, Tami Brown-Brandl, Daniel Morris.<br />
+- **Pigformer:** Mk Bashar, Kuljit Bhatti, Gary Rohrer, Madonna Benjamin, Tami Brown-Brandl, Daniel Morris.<br />
 "What's Under the Skin? Estimating Swine Body Condition." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.05611)]
 [[code](https://github.com/iambashar/Pigformer)]
 [2026.06]
  
-:boom:**TopoPult-SSL:** Nicolò Savioli, Luca Del Tongo.<br />
+- **TopoPult-SSL:** Nicolò Savioli, Luca Del Tongo.<br />
 "TopoPult-SSL: Gland-Mask-Free Cross-Device Meibomian Gland Segmentation via Self-Distilled Weak Clinical Priors." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.05347)]
 [2026.06]
 
-:boom:**MedSAM-BoxPredictor:** Amirhossein Movahedisefat, Amirreza Fateh, Mohammad Reza Mohammadi.<br />
+- **MedSAM-BoxPredictor:** Amirhossein Movahedisefat, Amirreza Fateh, Mohammad Reza Mohammadi.<br />
 "Enhancing MedSAM with a Lightweight Box Predictor for Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.04705)]
 [[code](https://github.com/Amirhosseinmovahedi/MedSAM-BoxPredictor)]
 [2026.06]
 
-:boom:**CR-SEG:** Yifan Cao, Xiaocui Yang, Faxian Wan, Shi Feng, Daling Wang, Yifei Zhang.<br />
+- **CR-SEG:** Yifan Cao, Xiaocui Yang, Faxian Wan, Shi Feng, Daling Wang, Yifei Zhang.<br />
 "CR-SEG: Attention-Guided and CoT-Enhanced Coarse-to-Refined Reasoning Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.03564)]
 [2026.06]
  
-:boom:**SAMatcher:** Xu Pan, Qiyuan Ma, Mingyue Dong, He Chen, Wei Ji, Xianwei Zheng.<br />
+- **SAMatcher:** Xu Pan, Qiyuan Ma, Mingyue Dong, He Chen, Wei Ji, Xianwei Zheng.<br />
 "SAMatcher: Co-Visibility Modeling with Segment Anything for Robust Feature Matching." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.03406)]
 [[code](https://xupan.top/Projects/samatcher)]
 [2026.06]
 
-:boom:Sema Helali, Lina Abu Nadab, Sausan Alqawas, Alaa Abd-Alrazaq, Faleh Tamimi, Rafat Damseh.<br />
+- Sema Helali, Lina Abu Nadab, Sausan Alqawas, Alaa Abd-Alrazaq, Faleh Tamimi, Rafat Damseh.<br />
 "Large AI Models in Dental Healthcare: From General-Purpose Systems to Domain-Specific Foundation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.02914)]
 [2026.06]
 
-:boom:**FLAME:** Yiming Wang, Baiqi Wu, Qingming Li, Jiahao Chen, Tong Zhang, Shouling Ji.<br />
+- **FLAME:** Yiming Wang, Baiqi Wu, Qingming Li, Jiahao Chen, Tong Zhang, Shouling Ji.<br />
 "Order within Chaos: Capturing Intrinsic Energy Anomalies for AI-Manipulated Image Forgery Localization." ICML  (2026).
 [[paper](https://arxiv.org/abs/2606.02178)]
 [[code](https://github.com/phoenixnir/FLAME)]
 [2026.06]
  
-:boom:**PerBite:** Ahmad AlMughrabi, Farid Al-Areqi, David Fernández Gómez, Umair Haroon, Marc Bolaños, Ricardo Marques, Petia Radeva.<br />
+- **PerBite:** Ahmad AlMughrabi, Farid Al-Areqi, David Fernández Gómez, Umair Haroon, Marc Bolaños, Ricardo Marques, Petia Radeva.<br />
 "PerBite: A Curated Diagnostic Workflow for Bite-Aware Food Volume Estimation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.02021)]
 [[code](https://github.com/GCVCG/PerBite-CVPR-MetaFood-2026)]
 [2026.06]
 
-:boom:**LG-SAM:** Panav Shah, Geet Sethi, Ashutosh Gandhe.<br />
+- **LG-SAM:** Panav Shah, Geet Sethi, Ashutosh Gandhe.<br />
 "Improving Visual Grounding in Remote Sensing via Cluster-Guided Refinement and Model Ensemble Voting." CVPR Workshops (2026).
 [[paper](https://arxiv.org/abs/2606.00556)]
 [[code](https://github.com/PanavShah1/LG-SAM)]
 [2026.06]
 
-:boom:Sakib Mohammad, Jarin Ritu, Md Sakhawat Hossain.<br />
+- Sakib Mohammad, Jarin Ritu, Md Sakhawat Hossain.<br />
 "Single-Channel Tissue Segmentation via Cross-Modal Distillation from Foundation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.00928)]
 [2026.06]
 
-:boom:**GeoSAM-3D:** Arun Sharma.<br />
+- **GeoSAM-3D:** Arun Sharma.<br />
 "GeoSAM-3D: Geodesic Prompt Propagation for Open-Vocabulary 3D Scene Segmentation from Monocular Video." (NeurIPS(2026).
 [[paper](https://arxiv.org/abs/2606.00447)]
 [2026.06]
  
-:boom:**MLAM:** Yuliang Zhang, Fang He, Lulu Peng, Tianyu Yan, Pingping Zhang, Ting Song, Lili Du, Dunjin Chen.<br />
+- **MLAM:** Yuliang Zhang, Fang He, Lulu Peng, Tianyu Yan, Pingping Zhang, Ting Song, Lili Du, Dunjin Chen.<br />
 "3D Segment Anything Model with Visual Mamba for Diagnosing Placenta Accreta Spectrum." TIP (2026).
 [[paper](https://arxiv.org/abs/2606.00489)]
 [[code](https://github.com/Drchip61/PASD)]
 [2026.06]
 
-:boom:**CLOC:** Mengqi Lei, Shuokun Cheng, Wei Bao, Shaoyi Du, Jun-Hai Yong, Siqi Li, Yue Gao.<br />
+- **CLOC:** Mengqi Lei, Shuokun Cheng, Wei Bao, Shaoyi Du, Jun-Hai Yong, Siqi Li, Yue Gao.<br />
 "Count Anything." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2605.30846)]
 [[code](https://github.com/Mengqi-Lei/count-anything)]
 [2026.05]
 
-:boom:Suyog Jadhav, Dilip K. Prasad, Krishna Agarwal.<br />
+- Suyog Jadhav, Dilip K. Prasad, Krishna Agarwal.<br />
 "SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy." CVPR Workshops (2026).
 [[paper](https://arxiv.org/abs/2605.31284)]
 [2026.05]
