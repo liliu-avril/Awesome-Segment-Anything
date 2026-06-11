@@ -504,7 +504,7 @@ If you find our work useful in your research, please consider citing:
 [2026.05]
 
 - **ESAM++:** Qin Liu, Lavisha Aggarwal, Saptarashmi Bandyopadhyay, Vikas Bahirwani, Marc Niethammer, Ehsan Adeli, Andrea Colaco.<br />
-"ESAM++: Efficient Online 3D Perception on the Edge." ArXiv (2026).
+"ESAM++: Efficient Online 3D Perception on the Edge." CVPR (2026).
 [[paper](https://arxiv.org/abs/2605.29505)]
 [[code](https://github.com/qinliuliuqin/esamplusplus)]
 [2026.05]
