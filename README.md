@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM-Deep-EIoU:** Alexander Holmberg.<br />
+"SAM-Deep-EIoU: Selective Mask Propagation for Multi-Object Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.13033)]
+[2026.06]
+
 :boom:Li, Chenying, Xiao Tan, Xinyu Huang, Ling Sa, Nailong Zhang, and Gang Qiu.<br />
 "Galloping Target Tracking and Parameter Measurement Method for Overhead Transmission Lines Based on SAM2 Video Segmentation." Electronics (2026).
 [[paper](https://doi.org/10.3390/electronics15112305)]
