@@ -372,6 +372,38 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Nadav Orenstein, Aviad Cohen Zada, Shai Avidan, Gal Oren.<br />
+"Where Does Texture Evidence Live in SAM? Features, Proposal Masks, and Texture Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.14755)]
+[2026.06]
+
+:boom:Changwoo Song.<br />
+"Parameter-Efficient Adaptation of SAM 3 for Automated ITV Generation from 4DCT Images." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.15604)]
+[2026.06]
+ 
+:boom:Aniq Ahmad, Heather Bedle, Ahmad Mustafa.<br />
+"Domain-Guided Prompting of the Segment Anything Model for Seismic Interpretation: The Role of Attributes, Visualization, and Hybrid Prompts." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.15786)]
+[2026.06]
+
+:boom:Yiping Li, Ronald de Jong, Romy van Jaarsveld, Franco Badaloni, Gino Kuiper, Jelle Ruurda, Josien Pluim, Marcel Breeuwer.<br />
+"Object Tokens as a Bridge Between Segmentation and Visual Question Answering in Robotic Surgery." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.15861)]
+[2026.06]
+
+:boom:**MaxCode:** Qiyue Liang, Steven Ingram, George Vanica, Andi Gavrilescu, Newfel Harrat, Hassan Sipra, Sethuraman Sankaran.<br />
+"Agentic Framework for Deep Learning workload migration via In-Context Learning." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.15994)]
+[[code](https://github.com/AI-Hypercomputer/accelerator-agents/tree/main/MaxCode)]
+[2026.06]
+ 
+:boom:**ActiveSAM:** Tran Dinh Tien, Zhiqiang Shen.<br />
+"ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.16996)]
+[[code](https://github.com/VILA-Lab/ActiveSAM)]
+[2026.06]
+
 :boom:**MooMIns:** Robert Langendörfer, Markus Hillemann, Markus Ulrich.<br />
 "MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.14389)]
