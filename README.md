@@ -372,6 +372,40 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Nicholas A. Welsh, Lennon J. Shikhman, Monty Nehru Attazs, Seemanthini K. Putane, Van Minh Nguyen, Ryan T. White.<br />
+"Post-Launch Capability Expansion of Vision-Language Models via Prompting for On-Orbit Spacecraft Inspection." CVPR Workshop (2026).
+[[paper](https://arxiv.org/abs/2606.15427)]
+[2026.06]
+
+:boom:**TVG:** Junkai Zhang, Yihe Deng, Kai-Wei Chang, Wei Wang.<br />
+"Thinking with Visual Grounding." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.16122)]
+[[code](https://github.com/Jun-Kai-Zhang/visually_grounded_thinking)]
+[[dataset](https://huggingface.co/datasets/JunkaiZ/TVG)]
+[2026.06]
+ 
+:boom:**Multi-HMR 2:** Guénolé Fiche, Philippe Weinzaepfel, Romain Brégier, Fabien Baradel.<br />
+"Multi-HMR 2: Multi-Person Camera-Centric Human Detection, Mesh Recovery and Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.14841)]
+[2026.06]
+
+:boom:**DETECTURE:** Aviad Cohen Zada, Nadav Orenstein, Shai Avidan, Gal Oren.<br />
+"Sub-Semantic Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.14754)]
+[[code](https://github.com/Scientific-Computing-Lab/TextureDetecture)]
+[2026.06]
+
+:boom:**MuDuo:** Fuyou Mao, Beining Wu, Yanfeng Jiang, Bohan Xu, Lixin Lin, Naye Ji, Hao Zhang, Yan Tang.<br />
+"Mutual Distillation of Dual-Foundation Models for Semi-Supervised PET/CT Segmentation." MICCAI (2026).
+[[paper](https://arxiv.org/abs/2606.15611)]
+[[code](https://github.com/Wu-beining/MuDuo)]
+[2026.06]
+ 
+:boom:**Gen-VCoT::** Zhiqiang Zhou, Xu Ling, Junliang Dai.<br />
+"Gen-VCoT: Generative Visual Chain-of-Thought Reasoning via Diffusion-Based RGB Intermediate Representations." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.16783)]
+[2026.06]
+
 :boom:Nadav Orenstein, Aviad Cohen Zada, Shai Avidan, Gal Oren.<br />
 "Where Does Texture Evidence Live in SAM? Features, Proposal Masks, and Texture Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.14755)]
