@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Paul Julius Kühn, Saptarshi Neil Sinha, Jakob Hansen, Robin Horst.<br />
+"Human-in-the-Loop Atlas-Based 3D Asset Segmentation for Interactive Content Workflows." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.17824)]
+[2026.06]
+
 :boom:Nicholas A. Welsh, Lennon J. Shikhman, Monty Nehru Attazs, Seemanthini K. Putane, Van Minh Nguyen, Ryan T. White.<br />
 "Post-Launch Capability Expansion of Vision-Language Models via Prompting for On-Orbit Spacecraft Inspection." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2606.15427)]
