@@ -372,6 +372,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Intrinsic-GS:** Hasan Yazar, Mohamed Rayan Barhdadi, Erchin Serpedin, Mehmet Tuncel, Hasan Kurban.<br />
+"Intrinsic 4D Gaussian Segmentation from Scene Cues." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.18623)]
+[[code](https://kurbanintelligencelab.github.io/intrinsic-gs/)]
+[2026.06]
+
+:boom:Sonata Simonaitis-Boyd, Soonhong Lee, Lauren N. O'Brien, Brandon T. Turner, Ralph Massarczyk, Steven R. Elliott, Aobo Li, Alexander F. Leder.<br />
+"Vision AI Agent for Continuous Material Monitoring of LEGEND-1000 LoFi Reentrant Tube." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.18294)]
+[2026.06]
+
+:boom:**PEFT-MedSAM:** Asad Channa, Abdullah Khan, Asghar Ali Chandio, Aamir Akbar, Shahzad Memon, Aqib Hussain, Ameer Hamza.<br />
+"PEFT-MedSAM: Efficient Fine-Tuning of Medical Foundation Models for Explainable Skin Lesion Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.18707)]
+[2026.06]
+
 :boom:Paul Julius Kühn, Saptarshi Neil Sinha, Jakob Hansen, Robin Horst.<br />
 "Human-in-the-Loop Atlas-Based 3D Asset Segmentation for Interactive Content Workflows." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.17824)]
