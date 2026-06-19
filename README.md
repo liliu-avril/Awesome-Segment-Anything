@@ -372,6 +372,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SA-VIS:** Edoardo Mello Rella, Ajad Chhatkuli, Shipra Jain, Ender Konukoglu, Luc Van Gool.<br />
+"SA-VIS: Sparse frame Annotations for training Video Instance Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.20140)]
+[2026.06]
+
+:boom:SAM3 Self-Distillation for Fine-Grained GOOSE 2D Semantic Segmentation.<br />
+"SAM3 Self-Distillation for Fine-Grained GOOSE 2D Semantic Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.20130)]
+[2026.06]
+
 :boom:**Intrinsic-GS:** Hasan Yazar, Mohamed Rayan Barhdadi, Erchin Serpedin, Mehmet Tuncel, Hasan Kurban.<br />
 "Intrinsic 4D Gaussian Segmentation from Scene Cues." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.18623)]
