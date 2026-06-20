@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Auto-SAM:** Yijun Wang and Dongyu Zheng and Mingcai Hou and Hongjun Li and Wei Zeng and Caihua Chen and Sixuan Wu and Yujie Gao and Yifan Bai.<br />
+"An auto-prompting Segment Anything Model for dual-modal grain segmentation in rock images." Applied Computing and Geosciences (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S2590197426000595)]
+[2026.06]
+
 :boom:**SA-VIS:** Edoardo Mello Rella, Ajad Chhatkuli, Shipra Jain, Ender Konukoglu, Luc Van Gool.<br />
 "SA-VIS: Sparse frame Annotations for training Video Instance Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.20140)]
