@@ -372,6 +372,39 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**DR-MV3D:** Jiho Choi, Seonho Lee, Seojeong Park, Hyunjung Shim.<br />
+"Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views." ECCV (2026).
+[[paper](https://arxiv.org/abs/2606.23557)]
+[[code](https://github.com/kaist-cvml/dr-mv3d)]
+[2026.06]
+ 
+:boom:**ARTEMIS:** Tong Wang, Siwen Wang, Yaolei Qi, Jinxing Zhou, Yuting He, Guanyu Yang, Yutong Xie.<br />
+"ARTEMIS: Agent-guided Reliability-aware Temporal Mask Evolution for Imperfectly Supervised Video Polyp Segmentation." IEEE TIP (2026).
+[[paper](https://arxiv.org/abs/2606.20161)]
+[[code](https://github.com/wangtong627/ARTEMIS)]
+[2026.06]
+
+:boom:**VTOS:** Jinchao Ge, Lingqiao Liu, Shuwen Zhao, Lei Wang.<br />
+"VTOS: Learning to Orchestrate Vision Tools by Co-Searching Solutions and Observers." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.20728)]
+[2026.06]
+
+:boom:**SSL.Prop.:** Tatsuya Suzuki, Kazuya Ijuin, Hideki Tomimori, Megumi Chikano, Katsushi Sakai.<br />
+"Sparse Point-Guided Fusion of Supervised and Self-Supervised Learning Model for Seaweed Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.21026)]
+[2026.06]
+ 
+:boom:**ProC-SAM3:** Yanghui Song, Nanqing Liu, Haonan Yin, Yingjie Gao, Chengfu Yang, Qi Ming.<br />
+"Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation." GRSL (2026).
+[[paper](https://arxiv.org/abs/2606.21863)]
+[[code](https://github.com/YanghuiSong/ProC-SAM3)]
+[2026.06]
+
+:boom:**Match:** Marei Freitag, Olesia Korchevaia, Luca Freckmann, Anwai Archit, Constantin Pape.<br />
+"Match: Foundation Models for Semi-supervised Learning and Domain Adaptation in EM." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.21605)]
+[2026.06]
+
 :boom:**CM-TTA:** Yubo Zhou, Jianghao Wu, Ping Ye, Shaoting Zhang, Guotai Wang.<br />
 "Concept Alignment Contrast and Long-Short Prompt Memory for Test-Time Adaptation of SAM3 in Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.22963)]
