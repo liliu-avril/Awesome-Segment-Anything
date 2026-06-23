@@ -372,115 +372,137 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**Auto-SAM:** Yijun Wang and Dongyu Zheng and Mingcai Hou and Hongjun Li and Wei Zeng and Caihua Chen and Sixuan Wu and Yujie Gao and Yifan Bai.<br />
+:boom:**CM-TTA:** Yubo Zhou, Jianghao Wu, Ping Ye, Shaoting Zhang, Guotai Wang.<br />
+"Concept Alignment Contrast and Long-Short Prompt Memory for Test-Time Adaptation of SAM3 in Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.22963)]
+[2026.06]
+ 
+:boom:**Hi-Seg:** Hongqiao Dong, Wenhao Chi, Ruobing Liang, Xiaokui Yang, Wenhua Liang, Peng Hou, Wenjun Pu, Yipeng Zhao, Ping Chen, Haiping Liu, Jianxing He, Bo Liu.<br />
+"Human and AI collaboration for pulmonary nodule segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.22486)]
+[2026.06]
+
+:boom:**DeformX:** Yi Yang, Xiang Fei, Lehong Wang, Chenhao Li, Zilin Dai, Henry Kou, Lu Li, Howie Choset.<br />
+"DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects." IROS (2026).
+[[paper](https://arxiv.org/abs/2606.22116)]
+[[code](https://deformx.github.io/)]
+[2026.06]
+
+:boom:**SARIF:** Dong-Hyun Moon, Ju-Hyeon Nam, Sang-Chul Lee.<br />
+"SARIF: Segment Anything for Robust Image Forensics." ECCV (2026).
+[[paper](https://arxiv.org/abs/2606.21108)]
+[[code](https://github.com/Inha-CVAI/SARIF_ECCV2026)]
+[2026.06]
+
+- **Auto-SAM:** Yijun Wang and Dongyu Zheng and Mingcai Hou and Hongjun Li and Wei Zeng and Caihua Chen and Sixuan Wu and Yujie Gao and Yifan Bai.<br />
 "An auto-prompting Segment Anything Model for dual-modal grain segmentation in rock images." Applied Computing and Geosciences (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S2590197426000595)]
 [2026.06]
 
-:boom:**SA-VIS:** Edoardo Mello Rella, Ajad Chhatkuli, Shipra Jain, Ender Konukoglu, Luc Van Gool.<br />
+- **SA-VIS:** Edoardo Mello Rella, Ajad Chhatkuli, Shipra Jain, Ender Konukoglu, Luc Van Gool.<br />
 "SA-VIS: Sparse frame Annotations for training Video Instance Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.20140)]
 [2026.06]
 
-:boom:SAM3 Self-Distillation for Fine-Grained GOOSE 2D Semantic Segmentation.<br />
+- SAM3 Self-Distillation for Fine-Grained GOOSE 2D Semantic Segmentation.<br />
 "SAM3 Self-Distillation for Fine-Grained GOOSE 2D Semantic Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.20130)]
 [2026.06]
 
-:boom:**Intrinsic-GS:** Hasan Yazar, Mohamed Rayan Barhdadi, Erchin Serpedin, Mehmet Tuncel, Hasan Kurban.<br />
+- **Intrinsic-GS:** Hasan Yazar, Mohamed Rayan Barhdadi, Erchin Serpedin, Mehmet Tuncel, Hasan Kurban.<br />
 "Intrinsic 4D Gaussian Segmentation from Scene Cues." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.18623)]
 [[code](https://kurbanintelligencelab.github.io/intrinsic-gs/)]
 [2026.06]
 
-:boom:Sonata Simonaitis-Boyd, Soonhong Lee, Lauren N. O'Brien, Brandon T. Turner, Ralph Massarczyk, Steven R. Elliott, Aobo Li, Alexander F. Leder.<br />
+- Sonata Simonaitis-Boyd, Soonhong Lee, Lauren N. O'Brien, Brandon T. Turner, Ralph Massarczyk, Steven R. Elliott, Aobo Li, Alexander F. Leder.<br />
 "Vision AI Agent for Continuous Material Monitoring of LEGEND-1000 LoFi Reentrant Tube." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.18294)]
 [2026.06]
 
-:boom:**PEFT-MedSAM:** Asad Channa, Abdullah Khan, Asghar Ali Chandio, Aamir Akbar, Shahzad Memon, Aqib Hussain, Ameer Hamza.<br />
+- **PEFT-MedSAM:** Asad Channa, Abdullah Khan, Asghar Ali Chandio, Aamir Akbar, Shahzad Memon, Aqib Hussain, Ameer Hamza.<br />
 "PEFT-MedSAM: Efficient Fine-Tuning of Medical Foundation Models for Explainable Skin Lesion Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.18707)]
 [2026.06]
 
-:boom:Paul Julius Kühn, Saptarshi Neil Sinha, Jakob Hansen, Robin Horst.<br />
+- Paul Julius Kühn, Saptarshi Neil Sinha, Jakob Hansen, Robin Horst.<br />
 "Human-in-the-Loop Atlas-Based 3D Asset Segmentation for Interactive Content Workflows." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.17824)]
 [2026.06]
 
-:boom:Nicholas A. Welsh, Lennon J. Shikhman, Monty Nehru Attazs, Seemanthini K. Putane, Van Minh Nguyen, Ryan T. White.<br />
+- Nicholas A. Welsh, Lennon J. Shikhman, Monty Nehru Attazs, Seemanthini K. Putane, Van Minh Nguyen, Ryan T. White.<br />
 "Post-Launch Capability Expansion of Vision-Language Models via Prompting for On-Orbit Spacecraft Inspection." CVPR Workshop (2026).
 [[paper](https://arxiv.org/abs/2606.15427)]
 [2026.06]
 
-:boom:**TVG:** Junkai Zhang, Yihe Deng, Kai-Wei Chang, Wei Wang.<br />
+- **TVG:** Junkai Zhang, Yihe Deng, Kai-Wei Chang, Wei Wang.<br />
 "Thinking with Visual Grounding." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.16122)]
 [[code](https://github.com/Jun-Kai-Zhang/visually_grounded_thinking)]
 [[dataset](https://huggingface.co/datasets/JunkaiZ/TVG)]
 [2026.06]
  
-:boom:**Multi-HMR 2:** Guénolé Fiche, Philippe Weinzaepfel, Romain Brégier, Fabien Baradel.<br />
+- **Multi-HMR 2:** Guénolé Fiche, Philippe Weinzaepfel, Romain Brégier, Fabien Baradel.<br />
 "Multi-HMR 2: Multi-Person Camera-Centric Human Detection, Mesh Recovery and Tracking." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.14841)]
 [2026.06]
 
-:boom:**DETECTURE:** Aviad Cohen Zada, Nadav Orenstein, Shai Avidan, Gal Oren.<br />
+- **DETECTURE:** Aviad Cohen Zada, Nadav Orenstein, Shai Avidan, Gal Oren.<br />
 "Sub-Semantic Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.14754)]
 [[code](https://github.com/Scientific-Computing-Lab/TextureDetecture)]
 [2026.06]
 
-:boom:**MuDuo:** Fuyou Mao, Beining Wu, Yanfeng Jiang, Bohan Xu, Lixin Lin, Naye Ji, Hao Zhang, Yan Tang.<br />
+- **MuDuo:** Fuyou Mao, Beining Wu, Yanfeng Jiang, Bohan Xu, Lixin Lin, Naye Ji, Hao Zhang, Yan Tang.<br />
 "Mutual Distillation of Dual-Foundation Models for Semi-Supervised PET/CT Segmentation." MICCAI (2026).
 [[paper](https://arxiv.org/abs/2606.15611)]
 [[code](https://github.com/Wu-beining/MuDuo)]
 [2026.06]
  
-:boom:**Gen-VCoT::** Zhiqiang Zhou, Xu Ling, Junliang Dai.<br />
+- **Gen-VCoT::** Zhiqiang Zhou, Xu Ling, Junliang Dai.<br />
 "Gen-VCoT: Generative Visual Chain-of-Thought Reasoning via Diffusion-Based RGB Intermediate Representations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.16783)]
 [2026.06]
 
-:boom:Nadav Orenstein, Aviad Cohen Zada, Shai Avidan, Gal Oren.<br />
+- Nadav Orenstein, Aviad Cohen Zada, Shai Avidan, Gal Oren.<br />
 "Where Does Texture Evidence Live in SAM? Features, Proposal Masks, and Texture Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.14755)]
 [2026.06]
 
-:boom:Changwoo Song.<br />
+- Changwoo Song.<br />
 "Parameter-Efficient Adaptation of SAM 3 for Automated ITV Generation from 4DCT Images." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.15604)]
 [2026.06]
  
-:boom:Aniq Ahmad, Heather Bedle, Ahmad Mustafa.<br />
+- Aniq Ahmad, Heather Bedle, Ahmad Mustafa.<br />
 "Domain-Guided Prompting of the Segment Anything Model for Seismic Interpretation: The Role of Attributes, Visualization, and Hybrid Prompts." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.15786)]
 [2026.06]
 
-:boom:Yiping Li, Ronald de Jong, Romy van Jaarsveld, Franco Badaloni, Gino Kuiper, Jelle Ruurda, Josien Pluim, Marcel Breeuwer.<br />
+- Yiping Li, Ronald de Jong, Romy van Jaarsveld, Franco Badaloni, Gino Kuiper, Jelle Ruurda, Josien Pluim, Marcel Breeuwer.<br />
 "Object Tokens as a Bridge Between Segmentation and Visual Question Answering in Robotic Surgery." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.15861)]
 [2026.06]
 
-:boom:**MaxCode:** Qiyue Liang, Steven Ingram, George Vanica, Andi Gavrilescu, Newfel Harrat, Hassan Sipra, Sethuraman Sankaran.<br />
+- **MaxCode:** Qiyue Liang, Steven Ingram, George Vanica, Andi Gavrilescu, Newfel Harrat, Hassan Sipra, Sethuraman Sankaran.<br />
 "Agentic Framework for Deep Learning workload migration via In-Context Learning." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.15994)]
 [[code](https://github.com/AI-Hypercomputer/accelerator-agents/tree/main/MaxCode)]
 [2026.06]
  
-:boom:**ActiveSAM:** Tran Dinh Tien, Zhiqiang Shen.<br />
+- **ActiveSAM:** Tran Dinh Tien, Zhiqiang Shen.<br />
 "ActiveSAM: Image-Conditional Class Pruning for Fast and Accurate Open-Vocabulary Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.16996)]
 [[code](https://github.com/VILA-Lab/ActiveSAM)]
 [2026.06]
 
-:boom:**MooMIns:** Robert Langendörfer, Markus Hillemann, Markus Ulrich.<br />
+- **MooMIns:** Robert Langendörfer, Markus Hillemann, Markus Ulrich.<br />
 "MooMIns -- Monocular 3D Reconstruction and Object Pose Estimation from Multiple Instances." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.14389)]
 [[code](https://pimpilimpo.github.io/projects/MooMIns/)]
 [2026.06]
  
-:boom:Keyi Zhu, Kyle Lammers, Chaaran Arunachalam, Kaixiang Zhang, Renfu Lu, Zhaojian Li.<br />
+- Keyi Zhu, Kyle Lammers, Chaaran Arunachalam, Kaixiang Zhang, Renfu Lu, Zhaojian Li.<br />
 "A Modular Dual-Arm Apple Harvesting Robot with Enhanced Field Performance." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.14089)]
 [2026.06]
@@ -496,7 +518,7 @@ If you find our work useful in your research, please consider citing:
 [2026.06]
  
 - **MSBA-SAM:** Tao Guo, Kui Xu, Kailei Chen, Chun Xie, Shi Qiu & Rui Ye.<br />
-"MSBA-SAM: a multi-scale and boundary-awareframework for power grid segmentation in aerialimage." Energy Informatics(2026).
+"MSBA-SAM: a multi-scale and boundary-aware framework for power grid segmentation in aerial image." Energy Informatics(2026).
 [[paper](https://link.springer.com/content/pdf/10.1186/s42162-026-00669-y_reference.pdf)]
 [2026.06]
 
