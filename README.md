@@ -422,7 +422,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/YanghuiSong/ProC-SAM3)]
 [2026.06]
 
-:boom:**Match:** Marei Freitag, Olesia Korchevaia, Luca Freckmann, Anwai Archit, Constantin Pape.<br />
+:boom:**&mu;Match:** Marei Freitag, Olesia Korchevaia, Luca Freckmann, Anwai Archit, Constantin Pape.<br />
 "Match: Foundation Models for Semi-supervised Learning and Domain Adaptation in EM." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.21605)]
 [2026.06]
