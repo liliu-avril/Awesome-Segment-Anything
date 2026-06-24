@@ -372,6 +372,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SENTRY:** Mohamad Alansari, Yonathan Michael, Hasan AlMarzouqi, Muzammal Naseer, Naoufel Werghi, Sajid Javed.<br />
+"SENTRY: SAM2-Enhanced Neighbor-Aware and Temporally Reasoned Memory for Visual Tracking." ECCV (2026).
+[[paper](https://arxiv.org/abs/2606.24449)]
+[[code](https://hamadya.github.io/SENTRY/page/)]
+[2026.06]
+
+:boom:**MorVess:** Fuyou Mao, Yifei Chen, Beining Wu, Lixin Lin, Jinnan Dai, Zhiling Li, Yilei Chen, Yaqi Wang, Hao Zhang, Yan Tang, Huiyu Zhou, Feiwei Qin.<br />
+"MorVess: Morphology-Aware Pulmonary Vessel Segmentation Network." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.24214)]
+[[code](https://github.com/MaoFuyou/MorVess)]
+[2026.06]
+ 
+:boom:Marvin Rüdt, Hao Pang, Constantin Enke, Zäzilia Seibold, Kai Furmans.<br />
+"Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics." IEEE ETFA (2026).
+[[paper](https://arxiv.org/abs/2606.24814)]
+[2026.06]
+
+:boom:**FEENet:** Yang, Zhiyuan and Xu, Jindong and Ni, Mengying and Su, Menghui and Peng, Jiantao.<br />
+"A Fuzzy-Embedded Edge Enhancement Network via Segment Anything Model for VHR Remote Sensing Images Change Detection." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/document/11318031)]
+[2026.06]
+
 :boom:**DR-MV3D:** Jiho Choi, Seonho Lee, Seojeong Park, Hyunjung Shim.<br />
 "Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views." ECCV (2026).
 [[paper](https://arxiv.org/abs/2606.23557)]
