@@ -372,6 +372,19 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**M2C:** Quan Zhou, Shaoqing Zhai, Qiang Hu Jia Chen, Qiang Li, Zhiwei Wang.<br />
+"Mask to Concept: Auto-Promptable SAM3 via Efficient Test-Time Concept Embedding Search for Few-Shot Annotation." MICCAI (2026).
+[[paper](https://arxiv.org/abs/2606.26711)]
+[[code](https://github.com/Huster-Hq/M2C)]
+[2026.06]
+ 
+:boom:**SAM2Matting:** Ruiqi Shen, Guangquan Jie, Chang Liu, Henghui Ding.<br />
+"SAM2Matting: Generalized Image and Video Matting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.27339)]
+[[code](https://github.com/FudanCVL/SAM2Matting)]
+[[website](https://henghuiding.com/SAM2Matting)]
+[2026.06]
+
 :boom:**SENTRY:** Mohamad Alansari, Yonathan Michael, Hasan AlMarzouqi, Muzammal Naseer, Naoufel Werghi, Sajid Javed.<br />
 "SENTRY: SAM2-Enhanced Neighbor-Aware and Temporally Reasoned Memory for Visual Tracking." ECCV (2026).
 [[paper](https://arxiv.org/abs/2606.24449)]
