@@ -372,91 +372,145 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**M2C:** Quan Zhou, Shaoqing Zhai, Qiang Hu Jia Chen, Qiang Li, Zhiwei Wang.<br />
+:boom:**Simple-ViLMedSAM:** Chengcan Qian, Dong Nie, Geng Chen, Daoqiang Zhang, Xuyun Wen.<br />
+"Simple-ViLMedSAM: Simple Text Prompts Meet Vision-Language Models for Medical Image Segmentation." CVPR (2026).
+[[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Qian_Simple-ViLMedSAM_Simple_Text_Prompts_Meet_Vision-Language_Models_for_Medical_Image_CVPR_2026_paper.html)]
+[[code](https://github.com/qcc001/Simple-ViLMedSAM)]
+[2026.06]
+
+:boom:**ScribSAM:** Long Chen, et al.<br />
+"ScribSAM: A robust scribble-supervised framework for spatiotemporal segmentation of breast lesions in ultrasound videos." Computerized Medical Imaging and Graphics (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0895611126000935)]
+[[code](https://github.com/003-GH/ScribSAM)]
+[2026.06]
+ 
+:boom:**Stat-SAM:** Juan Chen, et al.<br />
+"Stat-SAM: Learning Global Echo-Intensity Priors as Prompts for SAM in Ultrasound Image Segmentation." ICMR (2026).
+[[paper](https://doi.org/10.1145/3805622.3810649)]
+[2026.06]
+
+:boom:Lv, X. et al.<br />
+"Lightweight Shape-Aware Segment Anything for Cardiac Ultrasound Segmentation." SMC-IOT (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-981-95-8232-7_57)]
+[2026.06]
+
+:boom:**Lighted-SAM:** Yuhan Jia, Lixin Duan, Wen Li, and Fengmao Lv.<br />
+"Lighted-SAM: Lightening Open-World SAM for Low-Light Segmentation." TIP (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11568962)]
+[[code](https://github.com/Jaaaahan/LightedSAM)]
+[2026.06]
+ 
+:boom:**NeuroSeg-MF:** Zhehao Xu, Weiyi Liu, Shanshan Liang, Hongbo Jia, Xiaowei Chen, Han Qin, and Xiang Liao.<br />
+"NeuroSeg-MF: robust neuron segmentation in two-photon Ca2+ imaging using multi-feature fusion and detection-guided SAM." Biomed. Opt. Express (2026).
+[[paper](https://opg.optica.org/boe/fulltext.cfm?uri=boe-17-7-3727)]
+[2026.06]
+
+:boom:**CPPS-SAM:** Zerong Zhang, Lianghua He.<br />
+"SAM foundation model and expert model cross prompting framework for semi-supervised medical image segmentation." Journal of Visual Communication and Image Representation (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320326001719)]
+[[code](https://github.com/zzzz-r/CPPS-SAM)]
+[2026.06]
+
+:boom:Elakiya Sivakumar.<br />
+"Fine-Tuning SAM2 for Coronary Artery Segmentation in X-Ray Fluoroscopy." ArXiv (2026).
+[[paper](https://www.medrxiv.org/content/10.64898/2026.06.16.26355803v1)]
+[2026.06]
+ 
+:boom:Tian, J., Cai, W., Sun, Z. et al.<br />
+"Unsupervised Change Detection in Remote Sensing Images Using an Integrated SAM and MAD Method." J Indian Soc Remote Sens (2026).
+[[paper](https://link.springer.com/article/10.1007/s12524-026-02473-3)]
+[2026.06]
+
+:boom:Hizukuri, A.<br />
+"Computerized Classification Method for Glioma Molecular Subtypes on Brain MR Images Using SAM-Med3D with Low-Rank Adaptation." J Digit Imaging. Inform. med.(2026).
+[[paper](https://link.springer.com/article/10.1007/s10278-026-02074-z)]
+[2026.06]
+
+- **M2C:** Quan Zhou, Shaoqing Zhai, Qiang Hu Jia Chen, Qiang Li, Zhiwei Wang.<br />
 "Mask to Concept: Auto-Promptable SAM3 via Efficient Test-Time Concept Embedding Search for Few-Shot Annotation." MICCAI (2026).
 [[paper](https://arxiv.org/abs/2606.26711)]
 [[code](https://github.com/Huster-Hq/M2C)]
 [2026.06]
  
-:boom:**SAM2Matting:** Ruiqi Shen, Guangquan Jie, Chang Liu, Henghui Ding.<br />
+- **SAM2Matting:** Ruiqi Shen, Guangquan Jie, Chang Liu, Henghui Ding.<br />
 "SAM2Matting: Generalized Image and Video Matting." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.27339)]
 [[code](https://github.com/FudanCVL/SAM2Matting)]
 [[website](https://henghuiding.com/SAM2Matting)]
 [2026.06]
 
-:boom:**SENTRY:** Mohamad Alansari, Yonathan Michael, Hasan AlMarzouqi, Muzammal Naseer, Naoufel Werghi, Sajid Javed.<br />
+- **SENTRY:** Mohamad Alansari, Yonathan Michael, Hasan AlMarzouqi, Muzammal Naseer, Naoufel Werghi, Sajid Javed.<br />
 "SENTRY: SAM2-Enhanced Neighbor-Aware and Temporally Reasoned Memory for Visual Tracking." ECCV (2026).
 [[paper](https://arxiv.org/abs/2606.24449)]
 [[code](https://hamadya.github.io/SENTRY/page/)]
 [2026.06]
 
-:boom:**MorVess:** Fuyou Mao, Yifei Chen, Beining Wu, Lixin Lin, Jinnan Dai, Zhiling Li, Yilei Chen, Yaqi Wang, Hao Zhang, Yan Tang, Huiyu Zhou, Feiwei Qin.<br />
+- **MorVess:** Fuyou Mao, Yifei Chen, Beining Wu, Lixin Lin, Jinnan Dai, Zhiling Li, Yilei Chen, Yaqi Wang, Hao Zhang, Yan Tang, Huiyu Zhou, Feiwei Qin.<br />
 "MorVess: Morphology-Aware Pulmonary Vessel Segmentation Network." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.24214)]
 [[code](https://github.com/MaoFuyou/MorVess)]
 [2026.06]
  
-:boom:Marvin Rüdt, Hao Pang, Constantin Enke, Zäzilia Seibold, Kai Furmans.<br />
+- Marvin Rüdt, Hao Pang, Constantin Enke, Zäzilia Seibold, Kai Furmans.<br />
 "Vision-Language Model Reasoning for Contextual Semantic Mapping in Intralogistics." IEEE ETFA (2026).
 [[paper](https://arxiv.org/abs/2606.24814)]
 [2026.06]
 
-:boom:**FEENet:** Yang, Zhiyuan and Xu, Jindong and Ni, Mengying and Su, Menghui and Peng, Jiantao.<br />
+- **FEENet:** Yang, Zhiyuan and Xu, Jindong and Ni, Mengying and Su, Menghui and Peng, Jiantao.<br />
 "A Fuzzy-Embedded Edge Enhancement Network via Segment Anything Model for VHR Remote Sensing Images Change Detection." TGRS (2026).
 [[paper](https://ieeexplore.ieee.org/document/11318031)]
 [2026.06]
 
-:boom:**DR-MV3D:** Jiho Choi, Seonho Lee, Seojeong Park, Hyunjung Shim.<br />
+- **DR-MV3D:** Jiho Choi, Seonho Lee, Seojeong Park, Hyunjung Shim.<br />
 "Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views." ECCV (2026).
 [[paper](https://arxiv.org/abs/2606.23557)]
 [[code](https://github.com/kaist-cvml/dr-mv3d)]
 [2026.06]
  
-:boom:**ARTEMIS:** Tong Wang, Siwen Wang, Yaolei Qi, Jinxing Zhou, Yuting He, Guanyu Yang, Yutong Xie.<br />
+- **ARTEMIS:** Tong Wang, Siwen Wang, Yaolei Qi, Jinxing Zhou, Yuting He, Guanyu Yang, Yutong Xie.<br />
 "ARTEMIS: Agent-guided Reliability-aware Temporal Mask Evolution for Imperfectly Supervised Video Polyp Segmentation." IEEE TIP (2026).
 [[paper](https://arxiv.org/abs/2606.20161)]
 [[code](https://github.com/wangtong627/ARTEMIS)]
 [2026.06]
 
-:boom:**VTOS:** Jinchao Ge, Lingqiao Liu, Shuwen Zhao, Lei Wang.<br />
+- **VTOS:** Jinchao Ge, Lingqiao Liu, Shuwen Zhao, Lei Wang.<br />
 "VTOS: Learning to Orchestrate Vision Tools by Co-Searching Solutions and Observers." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.20728)]
 [2026.06]
 
-:boom:**SSL.Prop.:** Tatsuya Suzuki, Kazuya Ijuin, Hideki Tomimori, Megumi Chikano, Katsushi Sakai.<br />
+- **SSL.Prop.:** Tatsuya Suzuki, Kazuya Ijuin, Hideki Tomimori, Megumi Chikano, Katsushi Sakai.<br />
 "Sparse Point-Guided Fusion of Supervised and Self-Supervised Learning Model for Seaweed Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.21026)]
 [2026.06]
  
-:boom:**ProC-SAM3:** Yanghui Song, Nanqing Liu, Haonan Yin, Yingjie Gao, Chengfu Yang, Qi Ming.<br />
+- **ProC-SAM3:** Yanghui Song, Nanqing Liu, Haonan Yin, Yingjie Gao, Chengfu Yang, Qi Ming.<br />
 "Prompt-Calibrated SAM 3 for Open-Vocabulary Remote Sensing Semantic Segmentation." GRSL (2026).
 [[paper](https://arxiv.org/abs/2606.21863)]
 [[code](https://github.com/YanghuiSong/ProC-SAM3)]
 [2026.06]
 
-:boom:**&mu;Match:** Marei Freitag, Olesia Korchevaia, Luca Freckmann, Anwai Archit, Constantin Pape.<br />
+- **&mu;Match:** Marei Freitag, Olesia Korchevaia, Luca Freckmann, Anwai Archit, Constantin Pape.<br />
 "Match: Foundation Models for Semi-supervised Learning and Domain Adaptation in EM." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.21605)]
 [2026.06]
 
-:boom:**CM-TTA:** Yubo Zhou, Jianghao Wu, Ping Ye, Shaoting Zhang, Guotai Wang.<br />
+- **CM-TTA:** Yubo Zhou, Jianghao Wu, Ping Ye, Shaoting Zhang, Guotai Wang.<br />
 "Concept Alignment Contrast and Long-Short Prompt Memory for Test-Time Adaptation of SAM3 in Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.22963)]
 [2026.06]
  
-:boom:**Hi-Seg:** Hongqiao Dong, Wenhao Chi, Ruobing Liang, Xiaokui Yang, Wenhua Liang, Peng Hou, Wenjun Pu, Yipeng Zhao, Ping Chen, Haiping Liu, Jianxing He, Bo Liu.<br />
+- **Hi-Seg:** Hongqiao Dong, Wenhao Chi, Ruobing Liang, Xiaokui Yang, Wenhua Liang, Peng Hou, Wenjun Pu, Yipeng Zhao, Ping Chen, Haiping Liu, Jianxing He, Bo Liu.<br />
 "Human and AI collaboration for pulmonary nodule segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.22486)]
 [2026.06]
 
-:boom:**DeformX:** Yi Yang, Xiang Fei, Lehong Wang, Chenhao Li, Zilin Dai, Henry Kou, Lu Li, Howie Choset.<br />
+- **DeformX:** Yi Yang, Xiang Fei, Lehong Wang, Chenhao Li, Zilin Dai, Henry Kou, Lu Li, Howie Choset.<br />
 "DeformX: A Versatile Co-Simulation Framework for Deformable Linear Objects." IROS (2026).
 [[paper](https://arxiv.org/abs/2606.22116)]
 [[code](https://deformx.github.io/)]
 [2026.06]
 
-:boom:**SARIF:** Dong-Hyun Moon, Ju-Hyeon Nam, Sang-Chul Lee.<br />
+- **SARIF:** Dong-Hyun Moon, Ju-Hyeon Nam, Sang-Chul Lee.<br />
 "SARIF: Segment Anything for Robust Image Forensics." ECCV (2026).
 [[paper](https://arxiv.org/abs/2606.21108)]
 [[code](https://github.com/Inha-CVAI/SARIF_ECCV2026)]
