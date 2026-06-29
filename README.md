@@ -372,6 +372,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**TEP-SAM:** Yinghui Xing, Donghao Chu, Shizhou Zhang, Di Xu.<br />
+"Temporal-Emerged Prompting for Segment Anything in Multiframe Infrared Small Target Detection." ICML (2026).
+[[paper](https://arxiv.org/abs/2606.27655)]
+[[code](https://github.com/cdh8285/TEP-SAM)]
+[2026.06]
+
 :boom:**Simple-ViLMedSAM:** Chengcan Qian, Dong Nie, Geng Chen, Daoqiang Zhang, Xuyun Wen.<br />
 "Simple-ViLMedSAM: Simple Text Prompts Meet Vision-Language Models for Medical Image Segmentation." CVPR (2026).
 [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Qian_Simple-ViLMedSAM_Simple_Text_Prompts_Meet_Vision-Language_Models_for_Medical_Image_CVPR_2026_paper.html)]
