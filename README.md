@@ -372,6 +372,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CG-ICS:** Zhigang Chen, Xiawu Zheng, Rongrong Ji.<br />
+"Toward Robust In-Context Segmentation via Concept Guidance." ECCV (2026).
+[[paper](https://arxiv.org/abs/2606.28149)]
+[2026.06]
+
+:boom:Nicola Fanelli, Pasquale De Marinis, Raffaele Scaringi, Eva Cetinic, Gennaro Vessio, Giovanna Castellano.<br />
+"Understanding How MLLMs Describe Artworks Using Token Activation Maps." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.27947)]
+[[code](https://nicolafan.github.io/tamart/)]
+[2026.06]
+
 :boom:**TEP-SAM:** Yinghui Xing, Donghao Chu, Shizhou Zhang, Di Xu.<br />
 "Temporal-Emerged Prompting for Segment Anything in Multiframe Infrared Small Target Detection." ICML (2026).
 [[paper](https://arxiv.org/abs/2606.27655)]
