@@ -372,6 +372,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**PGE-SAM:** Tuan-Duc Nguyen, Anh-Tuan Mai, Duc-Trong Le.<br />
+"PGE-SAM: Prompt-Guided Feature Enhancement for Interactive Segmentation under Degradation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.30477)]
+[2026.06]
+
+:boom:**ExACT:** Zixiao Zhang, Lingling Li, Pei He, Xu Liu, Licheng Jiao.<br />
+"ExACT: Exemplar-Driven Calibrated Refinement for Training-Free Visual Grounding in Remote Sensing Images." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.28920)]
+[2026.06]
+ 
+:boom:**SemDynReg:** Ruitao Chen, Mozhang Guo, Jinge Li.<br />
+"SemDynReg: Semantics-Guided Deformation Regularization for Dynamic 3D Gaussian Splatting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.28656)]
+[[code](https://dyn-reg-3dgs.github.io/)]
+[2026.06]
+
+:boom:Xin Dong, Wenfeng Deng, Yansong Tang.<br />
+"Occlusion-Robust Multi-Object Decoupling for Physics-Based Interaction." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.29303)]
+[2026.06]
+
 :boom:**CG-ICS:** Zhigang Chen, Xiawu Zheng, Rongrong Ji.<br />
 "Toward Robust In-Context Segmentation via Concept Guidance." ECCV (2026).
 [[paper](https://arxiv.org/abs/2606.28149)]
