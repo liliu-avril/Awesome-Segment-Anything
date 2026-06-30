@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**BEE:** Zhiqiang Hou, et al.<br />
+"Bridging the encoder gap: Stability-aware efficient adaptation of SAM2 for video object segmentation." ArXiv (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0031320326012987)]
+[2026.06]
+
 :boom:**EpiSAM:** Arnav Sharma, Pratyush Jena, Amal Joseph, Ravi Kiran Sarvadevabhatla.<br />
 "EpiSAM: Character Segmentation in Challenging Stone Inscriptions." ICDAR (2026).
 [[paper](https://arxiv.org/abs/2606.28859)]
