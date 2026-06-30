@@ -372,6 +372,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**EpiSAM:** Arnav Sharma, Pratyush Jena, Amal Joseph, Ravi Kiran Sarvadevabhatla.<br />
+"EpiSAM: Character Segmentation in Challenging Stone Inscriptions." ICDAR (2026).
+[[paper](https://arxiv.org/abs/2606.28859)]
+[[code](https://ihdia.iiit.ac.in/episam/)]
+[2026.06]
+
 :boom:**PGE-SAM:** Tuan-Duc Nguyen, Anh-Tuan Mai, Duc-Trong Le.<br />
 "PGE-SAM: Prompt-Guided Feature Enhancement for Interactive Segmentation under Degradation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.30477)]
