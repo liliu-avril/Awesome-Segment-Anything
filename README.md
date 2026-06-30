@@ -393,6 +393,12 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2606.29303)]
 [2026.06]
 
+:boom:**SPARK:** Bryce Grant, Aryeh Rothenberg, Logan Senning, Zonghe Chua, Zach Patterson, Peng Wang.<br />
+"Sequential Planning via Anchored Robotic Keypoints." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.30613)]
+[[code](https://cwru-aism.github.io/spark-page/)]
+[2026.06]
+
 :boom:**CG-ICS:** Zhigang Chen, Xiawu Zheng, Rongrong Ji.<br />
 "Toward Robust In-Context Segmentation via Concept Guidance." ECCV (2026).
 [[paper](https://arxiv.org/abs/2606.28149)]
