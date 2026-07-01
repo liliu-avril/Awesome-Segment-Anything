@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Chenyan Jing, Hao Ding, Lalithkumar Seenivasan, Jacob M. Delgado López, Mathias Unberath.<br />
+"Dense Structural Priors for Sparse Functional Landmark Localization in Surgical Videos." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2606.31007)]
+[2026.06]
+
 :boom:**BEE:** Zhiqiang Hou, et al.<br />
 "Bridging the encoder gap: Stability-aware efficient adaptation of SAM2 for video object segmentation." ArXiv (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326012987)]
