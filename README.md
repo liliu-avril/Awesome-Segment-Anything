@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Jian Song, Tian Zi, Shen Guanting.<br />
+"From Technical Metrics to User Perception: A User Study of a Multimodal Human–Robot Interaction System for Object Detection and Grasping." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.00530)]
+[2026.06]
+
 :boom:Chenyan Jing, Hao Ding, Lalithkumar Seenivasan, Jacob M. Delgado López, Mathias Unberath.<br />
 "Dense Structural Priors for Sparse Functional Landmark Localization in Surgical Videos." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.31007)]
