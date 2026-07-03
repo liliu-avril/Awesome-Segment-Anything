@@ -372,6 +372,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**LongEgoRefer:** Shunya Kato, Taiki Miyanishi, Shuhei Kurita, Mahiro Ukai, Nakamasa Inoue, Chenhui Chu.<br />
+"LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension." ECCV (2026).
+[[paper](https://arxiv.org/abs/2607.02096)]
+[[code](https://github.com/shunya-kato/LongEgoRefer)]
+[2026.06]
+ 
+:boom:**MMIR-TCM:** Lihui Luo, Joongwon Chae, Ziyan Chen, Yang Liu, Siyi Cheng, Weihan Gao, Zelin Zeng, Xiaoming Yin, Samaneh Beheshti Kashi, Dongmei Yu, Lian Zhang, Jing Sui, Zeming Liang, Jiansong Ji, Peter E. Lobie, Peiwu Qin.<br />
+"MMIR-TCM: Memory-Integrated Multimodal Inference and Retrieval for TCM Clinical Decision Support." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.01814)]
+[[code](https://github.com/jw-chae/MMIR-TCM)]
+[2026.06]
+
+:boom:**AdaCount:** Muhammad Ibraheem Siddiqui, Muhammad Haris Khan.<br />
+"AdaCount: Training-Free Similarity-Guided Spatial and Feature Adaptation for Zero-Shot Object Counting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.02139)]
+[[code](https://muhammad-ibraheem-siddiqui.github.io/AdaCount/)]
+[2026.06]
+
+:boom:**Object LeJEPA:** Jakob Geusen, Ender Konukoglu.<br />
+"Object-centric LeJEPA." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.02404)]
+[2026.06]
+
 :boom:Jian Song, Tian Zi, Shen Guanting.<br />
 "From Technical Metrics to User Perception: A User Study of a Multimodal Human–Robot Interaction System for Object Detection and Grasping." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.00530)]
