@@ -3886,7 +3886,7 @@ Without Manual Labels." ArXiv (2026).
 [2025.12]
 
 - **SAM3-I:** Jingjing Li, Yue Feng, Yuchen Guo, Jincai Huang, Yongri Piao, Qi Bi, Miao Zhang, Xiaoqi Zhao, Qiang Chen, Shihao Zou, Wei Ji, Huchuan Lu, Li Cheng.<br />
-"SAM3-I: Segment Anything with Instructions." ArXiv (2025).
+"SAM3-I: Segment Anything with Instructions." ACL (2026).
 [[paper](https://arxiv.org/abs/2512.04585)]
 [[code](https://github.com/debby-0527/SAM3-I)]
 [2025.12]
