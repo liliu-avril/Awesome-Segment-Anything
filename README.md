@@ -372,144 +372,179 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**LongEgoRefer:** Shunya Kato, Taiki Miyanishi, Shuhei Kurita, Mahiro Ukai, Nakamasa Inoue, Chenhui Chu.<br />
+:boom:**Improved Iris-SAM:** Maduabuchi Kingsley Okorie, et al.<br />
+"Improved Iris-SAM -Based Iris Segmentation for Recognition in Biometric Security." EJASET (2026).
+[[paper](https://ejaset.com/index.php/journal/article/view/523)]
+[2026.07]
+
+:boom:**GPS:** Park, J., Jeong, J.<br />
+"GPS: GlobalCLIP-PatchCore-SAM Based Zero-Shot Anomaly Detection and Localization in Smart Manufacturing." ICCSA (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-032-30488-9_28)]
+[2026.07]
+ 
+:boom:**SE-MTDNet:** Qing Geng and Kaiqi Ye and Fan Xu and Yu Meng and Miao Huang and Chunyan Yuan and Li Li and Bingbo Gao and Hu Zhou and Jianyu Yang and Ying Li and Jianxi Huang and Xiaochuang Yao.<br />
+"A data- and knowledge-driven cropland parcel recognition method based on segment anything model (SAM)." International Journal of Applied Earth Observation and Geoinformation (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S1569843226003584)]
+[2026.07]
+
+:boom:**SAM2-ICHNet:** Wanying Xie, Ronghui Ju, He Li, Wei Guo, Zhaoxuan Gong & Guodong Zhang.<br />
+"SAM2-ICHNet: A detection-guided intracranial hemorrhage segmentation framework for tiny lesions and complex backgrounds." SIViP (2026).
+[[paper](https://link.springer.com/article/10.1007/s11760-026-05517-w)]
+[2026.07]
+
+:boom:**G2TAM:** Chenming Zhu, Peizhou Cao, Jingli Lin, Wenbo Hu, Yunlong Ran, Jiangmiao Pang, Tai Wang, Xihui Liu.<br />
+"G2TAM: Geometry Grounded Track Anything Model." ICML (2026).
+[[paper](https://openreview.net/forum?id=mkguKl16Ou)]
+[2026.07]
+ 
+:boom:**HBF-BCER:** Shengyang Ping,Zhijie Lin  *,Liliang Lin,Lei Zhao,Lisha Ye,Bangguo Wang,Tao Wang.<br />
+"A Prompt-Preserving MedSAM Enhancement Framework with Historical Feature Fusion and Soft Convolutional Expert Weighting for Medical Image Segmentation." ArXiv (2026).
+[[paper](https://www.preprints.org/manuscript/202607.0078)]
+[2026.07]
+
+:boom:**SAMURAI:** Carlos Perez, Neeru Gupta, Ipek Oruc.<br />
+"SAMURAI: A Two-Stage Foundation Model Pipeline for Robust Optic Nerve Head Segmentation in Fundus Images." The 39th Canadian Conference on Artificial Intelligence (2026).
+[[paper](https://raw.githubusercontent.com/mlresearch/v318/main/assets/perez26a/perez26a.pdf)]
+[2026.07]
+
+- **LongEgoRefer:** Shunya Kato, Taiki Miyanishi, Shuhei Kurita, Mahiro Ukai, Nakamasa Inoue, Chenhui Chu.<br />
 "LongEgoRefer: A Benchmark for Long-Form Egocentric Video Referring Expression Comprehension." ECCV (2026).
 [[paper](https://arxiv.org/abs/2607.02096)]
 [[code](https://github.com/shunya-kato/LongEgoRefer)]
 [2026.06]
  
-:boom:**MMIR-TCM:** Lihui Luo, Joongwon Chae, Ziyan Chen, Yang Liu, Siyi Cheng, Weihan Gao, Zelin Zeng, Xiaoming Yin, Samaneh Beheshti Kashi, Dongmei Yu, Lian Zhang, Jing Sui, Zeming Liang, Jiansong Ji, Peter E. Lobie, Peiwu Qin.<br />
+- **MMIR-TCM:** Lihui Luo, Joongwon Chae, Ziyan Chen, Yang Liu, Siyi Cheng, Weihan Gao, Zelin Zeng, Xiaoming Yin, Samaneh Beheshti Kashi, Dongmei Yu, Lian Zhang, Jing Sui, Zeming Liang, Jiansong Ji, Peter E. Lobie, Peiwu Qin.<br />
 "MMIR-TCM: Memory-Integrated Multimodal Inference and Retrieval for TCM Clinical Decision Support." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.01814)]
 [[code](https://github.com/jw-chae/MMIR-TCM)]
 [2026.06]
 
-:boom:**AdaCount:** Muhammad Ibraheem Siddiqui, Muhammad Haris Khan.<br />
+- **AdaCount:** Muhammad Ibraheem Siddiqui, Muhammad Haris Khan.<br />
 "AdaCount: Training-Free Similarity-Guided Spatial and Feature Adaptation for Zero-Shot Object Counting." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.02139)]
 [[code](https://muhammad-ibraheem-siddiqui.github.io/AdaCount/)]
 [2026.06]
 
-:boom:**Object LeJEPA:** Jakob Geusen, Ender Konukoglu.<br />
+- **Object LeJEPA:** Jakob Geusen, Ender Konukoglu.<br />
 "Object-centric LeJEPA." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.02404)]
 [2026.06]
 
-:boom:Jian Song, Tian Zi, Shen Guanting.<br />
+- Jian Song, Tian Zi, Shen Guanting.<br />
 "From Technical Metrics to User Perception: A User Study of a Multimodal Human–Robot Interaction System for Object Detection and Grasping." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.00530)]
 [2026.06]
 
-:boom:Chenyan Jing, Hao Ding, Lalithkumar Seenivasan, Jacob M. Delgado López, Mathias Unberath.<br />
+- Chenyan Jing, Hao Ding, Lalithkumar Seenivasan, Jacob M. Delgado López, Mathias Unberath.<br />
 "Dense Structural Priors for Sparse Functional Landmark Localization in Surgical Videos." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.31007)]
 [2026.06]
 
-:boom:**BEE:** Zhiqiang Hou, et al.<br />
+- **BEE:** Zhiqiang Hou, et al.<br />
 "Bridging the encoder gap: Stability-aware efficient adaptation of SAM2 for video object segmentation." ArXiv (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326012987)]
 [2026.06]
 
-:boom:**EpiSAM:** Arnav Sharma, Pratyush Jena, Amal Joseph, Ravi Kiran Sarvadevabhatla.<br />
+- **EpiSAM:** Arnav Sharma, Pratyush Jena, Amal Joseph, Ravi Kiran Sarvadevabhatla.<br />
 "EpiSAM: Character Segmentation in Challenging Stone Inscriptions." ICDAR (2026).
 [[paper](https://arxiv.org/abs/2606.28859)]
 [[code](https://ihdia.iiit.ac.in/episam/)]
 [2026.06]
 
-:boom:**PGE-SAM:** Tuan-Duc Nguyen, Anh-Tuan Mai, Duc-Trong Le.<br />
+- **PGE-SAM:** Tuan-Duc Nguyen, Anh-Tuan Mai, Duc-Trong Le.<br />
 "PGE-SAM: Prompt-Guided Feature Enhancement for Interactive Segmentation under Degradation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.30477)]
 [2026.06]
 
-:boom:**ExACT:** Zixiao Zhang, Lingling Li, Pei He, Xu Liu, Licheng Jiao.<br />
+- **ExACT:** Zixiao Zhang, Lingling Li, Pei He, Xu Liu, Licheng Jiao.<br />
 "ExACT: Exemplar-Driven Calibrated Refinement for Training-Free Visual Grounding in Remote Sensing Images." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.28920)]
 [2026.06]
  
-:boom:**SemDynReg:** Ruitao Chen, Mozhang Guo, Jinge Li.<br />
+- **SemDynReg:** Ruitao Chen, Mozhang Guo, Jinge Li.<br />
 "SemDynReg: Semantics-Guided Deformation Regularization for Dynamic 3D Gaussian Splatting." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.28656)]
 [[code](https://dyn-reg-3dgs.github.io/)]
 [2026.06]
 
-:boom:Xin Dong, Wenfeng Deng, Yansong Tang.<br />
+- Xin Dong, Wenfeng Deng, Yansong Tang.<br />
 "Occlusion-Robust Multi-Object Decoupling for Physics-Based Interaction." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.29303)]
 [2026.06]
 
-:boom:**SPARK:** Bryce Grant, Aryeh Rothenberg, Logan Senning, Zonghe Chua, Zach Patterson, Peng Wang.<br />
+- **SPARK:** Bryce Grant, Aryeh Rothenberg, Logan Senning, Zonghe Chua, Zach Patterson, Peng Wang.<br />
 "Sequential Planning via Anchored Robotic Keypoints." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.30613)]
 [[code](https://cwru-aism.github.io/spark-page/)]
 [2026.06]
 
-:boom:**CG-ICS:** Zhigang Chen, Xiawu Zheng, Rongrong Ji.<br />
+- **CG-ICS:** Zhigang Chen, Xiawu Zheng, Rongrong Ji.<br />
 "Toward Robust In-Context Segmentation via Concept Guidance." ECCV (2026).
 [[paper](https://arxiv.org/abs/2606.28149)]
 [2026.06]
 
-:boom:Nicola Fanelli, Pasquale De Marinis, Raffaele Scaringi, Eva Cetinic, Gennaro Vessio, Giovanna Castellano.<br />
+- Nicola Fanelli, Pasquale De Marinis, Raffaele Scaringi, Eva Cetinic, Gennaro Vessio, Giovanna Castellano.<br />
 "Understanding How MLLMs Describe Artworks Using Token Activation Maps." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2606.27947)]
 [[code](https://nicolafan.github.io/tamart/)]
 [2026.06]
 
-:boom:**TEP-SAM:** Yinghui Xing, Donghao Chu, Shizhou Zhang, Di Xu.<br />
+- **TEP-SAM:** Yinghui Xing, Donghao Chu, Shizhou Zhang, Di Xu.<br />
 "Temporal-Emerged Prompting for Segment Anything in Multiframe Infrared Small Target Detection." ICML (2026).
 [[paper](https://arxiv.org/abs/2606.27655)]
 [[code](https://github.com/cdh8285/TEP-SAM)]
 [2026.06]
 
-:boom:**Simple-ViLMedSAM:** Chengcan Qian, Dong Nie, Geng Chen, Daoqiang Zhang, Xuyun Wen.<br />
+- **Simple-ViLMedSAM:** Chengcan Qian, Dong Nie, Geng Chen, Daoqiang Zhang, Xuyun Wen.<br />
 "Simple-ViLMedSAM: Simple Text Prompts Meet Vision-Language Models for Medical Image Segmentation." CVPR (2026).
 [[paper](https://openaccess.thecvf.com/content/CVPR2026/html/Qian_Simple-ViLMedSAM_Simple_Text_Prompts_Meet_Vision-Language_Models_for_Medical_Image_CVPR_2026_paper.html)]
 [[code](https://github.com/qcc001/Simple-ViLMedSAM)]
 [2026.06]
 
-:boom:**ScribSAM:** Long Chen, et al.<br />
+- **ScribSAM:** Long Chen, et al.<br />
 "ScribSAM: A robust scribble-supervised framework for spatiotemporal segmentation of breast lesions in ultrasound videos." Computerized Medical Imaging and Graphics (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0895611126000935)]
 [[code](https://github.com/003-GH/ScribSAM)]
 [2026.06]
  
-:boom:**Stat-SAM:** Juan Chen, et al.<br />
+- **Stat-SAM:** Juan Chen, et al.<br />
 "Stat-SAM: Learning Global Echo-Intensity Priors as Prompts for SAM in Ultrasound Image Segmentation." ICMR (2026).
 [[paper](https://doi.org/10.1145/3805622.3810649)]
 [2026.06]
 
-:boom:Lv, X. et al.<br />
+- Lv, X. et al.<br />
 "Lightweight Shape-Aware Segment Anything for Cardiac Ultrasound Segmentation." SMC-IOT (2026).
 [[paper](https://link.springer.com/chapter/10.1007/978-981-95-8232-7_57)]
 [2026.06]
 
-:boom:**Lighted-SAM:** Yuhan Jia, Lixin Duan, Wen Li, and Fengmao Lv.<br />
+- **Lighted-SAM:** Yuhan Jia, Lixin Duan, Wen Li, and Fengmao Lv.<br />
 "Lighted-SAM: Lightening Open-World SAM for Low-Light Segmentation." TIP (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11568962)]
 [[code](https://github.com/Jaaaahan/LightedSAM)]
 [2026.06]
  
-:boom:**NeuroSeg-MF:** Zhehao Xu, Weiyi Liu, Shanshan Liang, Hongbo Jia, Xiaowei Chen, Han Qin, and Xiang Liao.<br />
+- **NeuroSeg-MF:** Zhehao Xu, Weiyi Liu, Shanshan Liang, Hongbo Jia, Xiaowei Chen, Han Qin, and Xiang Liao.<br />
 "NeuroSeg-MF: robust neuron segmentation in two-photon Ca2+ imaging using multi-feature fusion and detection-guided SAM." Biomed. Opt. Express (2026).
 [[paper](https://opg.optica.org/boe/fulltext.cfm?uri=boe-17-7-3727)]
 [2026.06]
 
-:boom:**CPPS-SAM:** Zerong Zhang, Lianghua He.<br />
+- **CPPS-SAM:** Zerong Zhang, Lianghua He.<br />
 "SAM foundation model and expert model cross prompting framework for semi-supervised medical image segmentation." Journal of Visual Communication and Image Representation (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S1047320326001719)]
 [[code](https://github.com/zzzz-r/CPPS-SAM)]
 [2026.06]
 
-:boom:Elakiya Sivakumar.<br />
+- Elakiya Sivakumar.<br />
 "Fine-Tuning SAM2 for Coronary Artery Segmentation in X-Ray Fluoroscopy." ArXiv (2026).
 [[paper](https://www.medrxiv.org/content/10.64898/2026.06.16.26355803v1)]
 [2026.06]
  
-:boom:Tian, J., Cai, W., Sun, Z. et al.<br />
+- Tian, J., Cai, W., Sun, Z. et al.<br />
 "Unsupervised Change Detection in Remote Sensing Images Using an Integrated SAM and MAD Method." J Indian Soc Remote Sens (2026).
 [[paper](https://link.springer.com/article/10.1007/s12524-026-02473-3)]
 [2026.06]
 
-:boom:Hizukuri, A.<br />
+- Hizukuri, A.<br />
 "Computerized Classification Method for Glioma Molecular Subtypes on Brain MR Images Using SAM-Med3D with Low-Rank Adaptation." J Digit Imaging. Inform. med.(2026).
 [[paper](https://link.springer.com/article/10.1007/s10278-026-02074-z)]
 [2026.06]
