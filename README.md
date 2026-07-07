@@ -372,6 +372,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**DA-SAM3:** Ying Chen, Jinyue Li, Kun Wang, Qiankun Li, Yang Liu.<br />
+"Dual-Adaptive SAM3: Hierarchical Routing over Low-Rank Expert Layers for Parameter-Efficient Medical Image Segmentation." MICCAI (2026).
+[[paper](https://arxiv.org/abs/2607.02571)]
+[[code](https://github.com/Reconsider80/DA-SAM3)]
+[2026.07]
+
 :boom:**RVAF:** Jin Yang, Ping Wei, Nanning Zheng.<br />
 "Differential Amplifier-Inspired AmpAttention for Multi-View Robotic Manipulation." IROS (2026).
 [[paper](https://arxiv.org/abs/2607.02845)]
