@@ -372,6 +372,44 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**RVAF:** Jin Yang, Ping Wei, Nanning Zheng.<br />
+"Differential Amplifier-Inspired AmpAttention for Multi-View Robotic Manipulation." IROS (2026).
+[[paper](https://arxiv.org/abs/2607.02845)]
+[[code](https://anonymous.4open.science/w/RVAF-Anonymization)]
+[2026.07]
+
+:boom:**GeoSAM-Lite:** Yongcong Wang, Jie Zhang, Rui Jiang, Xubing Yang, Ting Yun, Li Zhang.<br />
+"GeoSAM-Lite: A Lightweight Foundation Model for Onboard Remote Sensing Segmentation." GRSL (2026).
+[[paper](https://arxiv.org/abs/2607.03760)]
+[2026.07]
+ 
+:boom:**GLLS:** Runzhi Deng, Yundi Hu, Yiming Zhong, Zhao Wang, Xixi Liu, Hongsong Wang, Caifeng Shan, Fang Zhao.<br />
+"Global Logic and Local Search: Dual-Stream Multimodal In-Context Learning for Verifiable Industrial Anomaly Detection." ECCV (2026).
+[[paper](https://arxiv.org/abs/2607.03817)]
+[2026.07]
+
+:boom:**SharpSplat:** Porus Vaid, Shivam Chopra, Vaibhav Kumar.<br />
+"SharpSplat: Edge-Regularized 3D Gaussian Splatting for High Fidelity Urban Building Reconstruction from UAV images." IGARSS(2026).
+[[paper](https://arxiv.org/abs/2607.03872)]
+[2026.07]
+
+:boom:**ChatImage:** Wencan Jiang, Jiangning Zhang, Yong Liu.<br />
+"ChatImage: Navigating Long-Form LLM Answers through Interactive Images." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.05290)]
+[[code](https://wencanjiang.github.io/ChatImage)]
+[[project](https://wencanjiang.github.io/ChatImage/)]
+[2026.07]
+ 
+:boom:**IPS-Seg:** Le-Anh Tran.<br />
+"Exploring SAM Supervision for Fine-Grained UAV Target Segmentation under Data Scarcity." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.03754)]
+[2026.07]
+
+:boom:Muhammad Aamir, Matthew Wijers, Sangyun Shin, Andrew Loveridge, Andrew Markham.<br />
+"A non-invasive video-based method for individual identification of wildlife using gait dynamics." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.04518)]
+[2026.07]
+
 :boom:**Improved Iris-SAM:** Maduabuchi Kingsley Okorie, et al.<br />
 "Improved Iris-SAM -Based Iris Segmentation for Recognition in Biometric Security." EJASET (2026).
 [[paper](https://ejaset.com/index.php/journal/article/view/523)]
