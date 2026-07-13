@@ -372,6 +372,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Mohammad Dabaja, Turgay Celik.<br />
+"Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.09583)]
+[2026.07]
+
+:boom:**SAM-MT:** Ruiqi Shen, Chang Liu, Henghui Ding.<br />
+"SAM-MT: Real-Time Interactive Multi-Target Video Segmentation." ECCV (2026).
+[[paper](https://arxiv.org/abs/2607.08688)]
+[[code](https://henghuiding.com/SAM-MT/)]
+[2026.07]
+
+:boom:**EP-SAM:** Wenhao Li, Fangyi Liu, Bo Du.<br />
+"An Edge-aware Prompt-enhanced SAM for Ultrasound Image Segmentation." ICME (2026).
+[[paper](https://arxiv.org/abs/2607.07240)]
+[2026.07]
+ 
+:boom:**HPR-SAM:** Yingzhen Hu, Yiheng Zhong, Keying Zhu, Zimu Zhang, Zihan Ye, Sifan Song, Jionglong Su, Xiaofeng Liu.<br />
+"HPR-SAM: Hierarchical Probabilistic Representation Learning for Prompt-free SAM-based Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.06972)]
+[[code](https://anonymous.4open.science/r/HPR-SAM-E4AF)]
+[2026.07]
+
 :boom:**DA-SAM3:** Ying Chen, Jinyue Li, Kun Wang, Qiankun Li, Yang Liu.<br />
 "Dual-Adaptive SAM3: Hierarchical Routing over Low-Rank Expert Layers for Parameter-Efficient Medical Image Segmentation." MICCAI (2026).
 [[paper](https://arxiv.org/abs/2607.02571)]
