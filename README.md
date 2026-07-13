@@ -372,6 +372,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**REBASE:** Mantha Sai Gopal, Jaison Saji Chacko, Harsh Nandwana, Sandesh Hegde, Debarshi Banerjee, Uma Mahesh.<br />
+"REBASE: Reference-Background Subspace Elimination for Training-Free In-Context Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.09082)]
+[[code](https://github.com/ai-and-lab/rebase)]
+[2026.07]
+
+:boom:**CtrlVTON:** Seungyong Lee, Hyun Jun Jang, Sangoh Kim, Sungjoon Park.<br />
+"CtrlVTON: Controllable Virtual Try-On via Visual-Instance-Prompt Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.09362)]
+[[code](https://github.com/nxnai/CtrlVTON)]
+[2026.07]
+
+:boom:**SAMPLe:** Hossein Rajoli, Fatemeh Lotfi, Niloufar Alipour Talemi, Hossein Kashiani, Xiaolong Ma, Fatemeh Afghah.<br />
+"SAMPLe: SAM-based Optimizer for Prompt Learning in VLMs." ECCV  (2026).
+[[paper](https://arxiv.org/abs/2607.05727)]
+[2026.07]
+
 :boom:Mohammad Dabaja, Turgay Celik.<br />
 "Promptable Concept Segmentation from Above: Evaluating SAM 3's Zero-Shot and One-Shot Capabilities in Remote Sensing." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.09583)]
