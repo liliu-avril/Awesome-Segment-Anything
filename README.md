@@ -372,6 +372,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SERD:** Shipeng Liu, Zhanping Song, Liang Zhao, Dengfeng Chen.<br />
+"Semantic-Edge Response Decoding of SAM3 for Zero-Shot Crack Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.12292)]
+[[code](https://github.com/xauat-liushipeng/SERD)]
+[2026.07]
+
+:boom:**GFR-SAM:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.<br />
+"GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.11732)]
+[2026.07]
+ 
+:boom:**MobileSAM2:** Kai Jiang, Jiaxing Huang, Jingyi Zhang, Weiying Xie, Yunsong Li, Yufei Wang, Aoran Xiao, Dacheng Tao.<br />
+"MobileSAM2: Lightweight Segment Anything for Spatial Intelligence." ECCV (2026).
+[[paper](https://arxiv.org/abs/2607.12297)]
+[2026.07]
+
 :boom:**REBASE:** Mantha Sai Gopal, Jaison Saji Chacko, Harsh Nandwana, Sandesh Hegde, Debarshi Banerjee, Uma Mahesh.<br />
 "REBASE: Reference-Background Subspace Elimination for Training-Free In-Context Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.09082)]
