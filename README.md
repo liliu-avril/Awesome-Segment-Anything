@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ReportMedSAM:** Anghong Du, Theodoros N. Arvanitis, Colin Watts, Alejandro F. Frangi, Le Zhang.<br />
+"ReportMedSAM: Guiding Segmentation Through Radiology Reports." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.14116)]
+[2026.07]
+
 :boom:**ViPSAM:** San Lee, Nalee Kim, Jeong Il Yu, Hee Chul Park, Boah Kim.<br />
 "ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model." MICCAI (2026).
 [[paper](https://arxiv.org/abs/2607.14328)]
