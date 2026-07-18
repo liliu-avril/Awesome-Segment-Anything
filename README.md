@@ -397,7 +397,7 @@ If you find our work useful in your research, please consider citing:
 :boom:**SAM-PAG:** Wenqi Si, Gongyang Li, Shixiang Shi, Weisi Lin.<br />
 "Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion." IEEE TMM (2026).
 [[paper](https://arxiv.org/abs/2607.15041)]
-[[code](https://github.com/Switch457/WeakS2Diff SOD)]
+[[code](https://github.com/Switch457/WeakS2Diff_SOD)]
 [2026.07]
 
 :boom:**SERD:** Shipeng Liu, Zhanping Song, Liang Zhao, Dengfeng Chen.<br />
