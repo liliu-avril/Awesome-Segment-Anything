@@ -372,6 +372,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Scene-SAM3D:** Yuqi Zhang, et al.<br />
+"Scene-SAM3D: Multi-View Scene Asset Generation Without Fine-Tuning." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.16805)]
+[[code](https://github.com/xibi777/Scene-SAM3D)]
+[2026.07]
+
 :boom:**OP-HRG:** Kazi Sajeed Mehrab, Hani Alomari, Najibul Haque Sarker, Chia-Wei Tang, Zaber Ibn Abdul Hakim, Anuj Karpatne, Chris Thomas.<br />
 "Reasoning-Guided Part-Level Visual Grounding via Reinforcement Learning." ECCV  (2026).
 [[paper](https://arxiv.org/abs/2607.15374)]
