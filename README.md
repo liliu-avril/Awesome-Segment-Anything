@@ -372,6 +372,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**OP-HRG:** Kazi Sajeed Mehrab, Hani Alomari, Najibul Haque Sarker, Chia-Wei Tang, Zaber Ibn Abdul Hakim, Anuj Karpatne, Chris Thomas.<br />
+"Reasoning-Guided Part-Level Visual Grounding via Reinforcement Learning." ECCV  (2026).
+[[paper](https://arxiv.org/abs/2607.15374)]
+[[code](https://github.com/sajeedmehrab/op-hrg)]
+[2026.07]
+
+:boom:Silas kwabla Gah, Ebenezer Owusu.<br />
+"Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.15331)]
+[2026.07]
+
+:boom:Jinchang Zhang, Arnold Zumbrun, Jing Lin, and Guoyu Lu.<br />
+"Foundation-Assisted Active Learning for Object Detection Annotation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.16671)]
+[2026.07]
+
 :boom:**Lite-Pi:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Dwarikanath Mahapatra, Debesh Jha.<br />
 "Induce to Empower: Improving Lightweight Baselines via Foundation Model Induction for Generalized Polyp Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.17208)]
