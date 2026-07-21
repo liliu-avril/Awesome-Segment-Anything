@@ -372,6 +372,39 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Lite-Pi:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Dwarikanath Mahapatra, Debesh Jha.<br />
+"Induce to Empower: Improving Lightweight Baselines via Foundation Model Induction for Generalized Polyp Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.17208)]
+[[code](https://github.com/lostinrepo/Lite-Pi)]
+[2026.07]
+
+:boom: Joey Páolo Kardolus, Daan Hendriks, Jaap Jansen.<br />
+"Direct Clinical Joint Angle Extraction from Parametric Body Model Rotation Matrices." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.17639)]
+[[code](https://github.com/Babon-Innovations-b-v/movalytics)]
+[2026.07]
+
+:boom:Zhe Xin, Hanzhi Chang, Penghui Huang, Yinian Mao, Guoquan Huang.<br />
+"Robust Multimodal Dynamic Object Segmentation." ICRA (2026).
+[[paper](https://arxiv.org/abs/2607.18153)]
+[2026.07]
+ 
+:boom:Minghui Xu, Chaoyi Zhou, Aaron P. Cecil, Xi Liu, Siyu Huang, Yuhao Xu.<br />
+"Digital measurement of droplet flame diameter in microgravity combustion images using Segment Anything Model 2 with automatic prompt selection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.16587)]
+[2026.07]
+
+:boom:**SAMRI-3D:** Zhao Wang, Wei Dai, Hongfu Sun, Craig Engstrom, Shekhar S. Chandra.<br />
+"SAMRI-3D: Adapting SAM2 for 3D MRI Segmentation with Global Volume Tokens." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.18014)]
+[[code](https://github.com/wangzhaomxy/SAMRI-3D)]
+[2026.07]
+
+:boom:**IMTrack:** Zhiqiang Hou, Chuangye Xu, Sugang Ma, Xiaobao Yang, Lei Pu.<br />
+"Robust visual tracking via implicit memory-guided re-detection." EAAI (2026).
+[[paper](https://doi.org/10.1016/j.engappai.2026.115596)]
+[2026.07]
+
 :boom:**ReportMedSAM:** Anghong Du, Theodoros N. Arvanitis, Colin Watts, Alejandro F. Frangi, Le Zhang.<br />
 "ReportMedSAM: Guiding Segmentation Through Radiology Reports." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.14116)]
