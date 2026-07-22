@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Samy Mounir, Mikolaj Cieslak, Najmeddine Dhieb, Hakim Ghazzai, Jonathan Klein, Katja Froehlich, Soeren Pirk, Wojciech Palubicki, Gianluca Setti, Ahmed M. Eltawil, Dominik L. Michels.<br />
+"Text-conditioned Segmentation for Tomato Phenotyping via Procedural Synthetic Data." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.18576)]
+[2026.07]
+
 :boom:**Scene-SAM3D:** Yuqi Zhang, et al.<br />
 "Scene-SAM3D: Multi-View Scene Asset Generation Without Fine-Tuning." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.16805)]
