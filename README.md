@@ -372,6 +372,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**FluxGraph:** Yihong Sun, Bharath Hariharan.<br />
+"Efficient Tracking and Understanding Object Transformations." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.19743)]
+[[code](https://github.com/YihongSun/FluxGraph)]
+[2026.07]
+
+:boom:**SENSATION-DS:** Hakan Calim, Anamaria Dumitrescu, Adarsh Bhandary Panambur, Huzaifa Asif, Andreas Maier.<br />
+"Safety-oriented sidewalk and road segmentation for smartphone-based assistive navigation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.21137)]
+[2026.07]
+ 
+:boom:**Lean-SAM2:** Xudong Ouyang, Wenlun Zhang, Yimin Xu, Huazhong Liu, Yunshan Zhong.<br />
+"Lean-SAM2: Target-Anchored Memory and Encoder Acceleration for SAM2." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.19811)]
+[[code](https://github.com/DeawhaleQwQ/Lean-SAM2)]
+[2026.07]
+
 :boom:Samy Mounir, Mikolaj Cieslak, Najmeddine Dhieb, Hakim Ghazzai, Jonathan Klein, Katja Froehlich, Soeren Pirk, Wojciech Palubicki, Gianluca Setti, Ahmed M. Eltawil, Dominik L. Michels.<br />
 "Text-conditioned Segmentation for Tomato Phenotyping via Procedural Synthetic Data." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.18576)]
