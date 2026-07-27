@@ -372,6 +372,13 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Mohammadreza Narimani, Vikram Anand, Parastoo Farajpoor.<br />
+"Farmland Extent and Visible Boundary Mapping from 1 m NAIP Imagery Using Residual U-Net and Text-Prompted SAM 3 Refinement." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.21881)]
+[[code](https://github.com/MohammadrezaNarimaniUCDavis/NAIP_Farmland_ResSAM)]
+[[dataset](https://doi.org/10.5281/zenodo.21519912)]
+[2026.07]
+
 :boom:**FluxGraph:** Yihong Sun, Bharath Hariharan.<br />
 "Efficient Tracking and Understanding Object Transformations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.19743)]
