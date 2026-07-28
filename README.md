@@ -372,6 +372,68 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**LSP-SAM2:** Zhaoyuan Wu, Naiyang Guan, Yinghui Gao, Longfei Su, Min Liu.<br />
+"A Light-Weight Self-Prompting Foundation Model for Automatous Video Object Segmentation." ICIC (2026).
+[[paper](https://dl.acm.org/doi/abs/10.1007/978-981-92-3510-0_29)]
+[[code](https://github.com/jone-Wu/LSP-SAM2)]
+[2026.07]
+ 
+:boom:**FESAM:** Chaoyue Wang, Jiang Wang, Lingfang Li, Weijian Hu & Lizhen Cui .<br />
+"FESAM: Frequency-Enhanced SAM with Boundary-Aware Decoding for Ultrasound Image Segmentation." ICIC (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-981-92-3538-4_4)]
+[2026.07]
+
+:boom:**Agent-SAM-I2V:** Guo Yang, Jiaqi Zhang, Yao Zhu & Longze Fan.<br />
+"Agent-SAM-I2V: Self-correcting Promptable Video Segmentation via Agentic Drift Detection and Multi-Prompt Fusion." ICIC (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-981-92-3513-1_49)]
+[2026.07]
+
+:boom:**GB-SAM:** Chenlin Xu, Lei Zhang, Lituan Wang, Xinyu Pu, Pengfei Ma, Guangwu Qian.<br />
+"GB-SAM: Gaussian-Prior and Boundary-Guided Test-Time Adaptation for Medical Image Segmentation." ICIC (2026).
+[[paper](https://dl.acm.org/doi/abs/10.1007/978-981-92-3501-8_23)]
+[[code](https://github.com/Emilychenlin/GB-SAM/tree/main)]
+[2026.07]
+ 
+:boom:**CME-SAM:** Qiyuan Wang, Jinfu Wang, Chuyu Chen, Pengtao Ren, Shijie Ling, Kejiang Xiao.<br />
+"CME-SAM: Contrastive Mask-Enhanced Segment Anything Model for Generalizable Medical Image Segmentation." ICIC (2026).
+[[paper](https://dl.acm.org/doi/abs/10.1007/978-981-92-3513-1_8)]
+[2026.07]
+
+:boom:**IBS-EMA:** Yizhuo Wang, Shiquan Min, Jiangping Zhu & Pei Zhou.<br />
+"IBS-EMA: Mitigating Test-Time Prompt Distribution Shift for Medical Segment Anything Models." ICIC (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-981-92-3378-6_14)]
+[2026.07]
+
+:boom:**HCFNet:** Yu, Jiwei, Kecheng Zhou, Ting Wang, Hongxiao Gan, Yu Wang, and Shuzhi Gao.<br />
+"HCFNet: A SAM2-Based Hierarchical Cross-Branch Frequency-Aware Network for Industrial Surface Defect Segmentation." Sensors (2026).
+[[paper](https://www.mdpi.com/1424-8220/26/14/4597)]
+[2026.07]
+ 
+:boom:**ZA-SAM:** Jinliang Su, Yun Jiang, Zequn Zhang & Yuhang Li .<br />
+"Adaptive Prompted, Zero-Annotation SAM: Weakly Supervised Binary Medical Image Segmentation." ICIC (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-981-92-3378-6_12)]
+[2026.07]
+
+:boom:**SURE-SAM2:** Yucan Duan, Chun Wang, Kaiyu Miao & Xiaoyan He.<br />
+"SURE-SAM2: Semantic and Uncertainty-aware Refinement SAM2 for Change Detection." ICIC (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-981-92-3378-6_21)]
+[2026.07]
+
+:boom:**PolypSAM-Lite:** Hasan, Umar, and Muhammad Ali Nayeem.<br />
+"Low-Rank Attention Reparameterization for Parameter-Efficient Adaptation of the Segment Anything Model to Colorectal Polyp Segmentation." Mathematics (2026).
+[[paper](https://www.mdpi.com/2227-7390/14/14/2646)]
+[2026.07]
+ 
+:boom:Koki AMANO, Otoha YAMANAKA, Wakana KAWAI, Tatsuya HAYASHI, Nobuo KOCHI, Ippeita DAN.<br />
+"Segment-Anything-based AOI Analysis for Eye-tracking: A Gaze Judgment Method Considering the Visual Angle." J-STAGE(2026).
+[[paper](https://www.jstage.jst.go.jp/article/ijae/advpub/0/advpub_IJAE-D-25-00049/_article/-char/ja/)]
+[2026.07]
+
+:boom:**Naka-SAM:** Chen, Juan; Wu, Jiajie; Guo, Lei; Ge, Wenping; Ma, Jie.<br />
+"Naka-SAM: A Cognition-Inspired Framework with Nakagami Prior for Ultrasound Segmentation." Proceedings of the Annual Meeting of the Cognitive Science Society (2026).
+[[paper](https://escholarship.org/uc/item/7hd8g739)]
+[2026.07]
+
 :boom:**CG-SAM2:** Bin He, Zhiwei Chen, Shengmin Zhao, Qinqin Zhou, Aiwen Jiang, Miaohui Zhang.<br />
 "CG-SAM2: Confidence-Guided Pseudo-label Refinement for Weakly Supervised Camouflaged Object Detection." ICIC (2026).
 [[paper](https://dl.acm.org/doi/abs/10.1007/978-981-92-3507-0_2)]
