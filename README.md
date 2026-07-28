@@ -372,6 +372,34 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SADe:** Hang Xing, Guangjun Liu, Yan Xia, Xueming Ding.<br />
+"SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.24706)]
+[2026.07]
+
+:boom:**ConFusion:** Guo Yurong, He Yufei, Li Yonghao, Chang Dongliang, Zhang Ke, Ma Zhanyu.<br />
+"ConFusion: Continuous Fusion Space Learning for Fine-Grained Controllable Infrared and Visible Image Fusion." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.23600)]
+[[code](https://github.com/HeyufeiAnto/Confusion)]
+[2026.07]
+ 
+:boom:**EditCLEVR:** Anuraag Gadehothur Karnam, Tarunesh Sathish.<br />
+"EditCLEVR: A Paired-Scene Intervention Benchmark for Compositional Faithfulness of Object-Centric Representations." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.22705)]
+[[code](https://github.com/torux-bughunter/EditCLEVR)]
+[2026.07]
+
+:boom:**SurgSAM3:** Changjing Liu, Yiming Huang, Beilei Cui, Liangjing Shao, Long Bai, Yanheng Li, Haoxuan Che, Hongliang Ren.<br />
+"Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation." MICCAI Workshop (2026).
+[[paper](https://arxiv.org/abs/2607.23694)]
+[[code](https://github.com/ChangjingLiu/SurgSAM3)]
+[2026.07]
+
+:boom:Hiu Ching Cheung, Wenchao Yue, Zhengran Han, Mingcong Chen, Guanglin Cao, Hongbin Liu, Hongliang Ren.<br />
+"Learning-based Hierarchical Tracheal Anatomy Understanding from Sparse Surgical Demonstration Annotations for Ultrasound Robots." ICCBS (2026).
+[[paper](https://arxiv.org/abs/2607.22789)]
+[2026.07]
+
 :boom:**LSP-SAM2:** Zhaoyuan Wu, Naiyang Guan, Yinghui Gao, Longfei Su, Min Liu.<br />
 "A Light-Weight Self-Prompting Foundation Model for Automatous Video Object Segmentation." ICIC (2026).
 [[paper](https://dl.acm.org/doi/abs/10.1007/978-981-92-3510-0_29)]
