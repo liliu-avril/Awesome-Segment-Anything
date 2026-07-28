@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CG-SAM2:** Bin He, Zhiwei Chen, Shengmin Zhao, Qinqin Zhou, Aiwen Jiang, Miaohui Zhang.<br />
+"CG-SAM2: Confidence-Guided Pseudo-label Refinement for Weakly Supervised Camouflaged Object Detection." ICIC (2026).
+[[paper](https://dl.acm.org/doi/abs/10.1007/978-981-92-3507-0_2)]
+[2026.07]
+
 :boom:Mohammadreza Narimani, Vikram Anand, Parastoo Farajpoor.<br />
 "Farmland Extent and Visible Boundary Mapping from 1 m NAIP Imagery Using Residual U-Net and Text-Prompted SAM 3 Refinement." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.21881)]
@@ -379,128 +384,128 @@ If you find our work useful in your research, please consider citing:
 [[dataset](https://doi.org/10.5281/zenodo.21519912)]
 [2026.07]
 
-:boom:**FluxGraph:** Yihong Sun, Bharath Hariharan.<br />
+- **FluxGraph:** Yihong Sun, Bharath Hariharan.<br />
 "Efficient Tracking and Understanding Object Transformations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.19743)]
 [[code](https://github.com/YihongSun/FluxGraph)]
 [2026.07]
 
-:boom:**SENSATION-DS:** Hakan Calim, Anamaria Dumitrescu, Adarsh Bhandary Panambur, Huzaifa Asif, Andreas Maier.<br />
+- **SENSATION-DS:** Hakan Calim, Anamaria Dumitrescu, Adarsh Bhandary Panambur, Huzaifa Asif, Andreas Maier.<br />
 "Safety-oriented sidewalk and road segmentation for smartphone-based assistive navigation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.21137)]
 [2026.07]
  
-:boom:**Lean-SAM2:** Xudong Ouyang, Wenlun Zhang, Yimin Xu, Huazhong Liu, Yunshan Zhong.<br />
+- **Lean-SAM2:** Xudong Ouyang, Wenlun Zhang, Yimin Xu, Huazhong Liu, Yunshan Zhong.<br />
 "Lean-SAM2: Target-Anchored Memory and Encoder Acceleration for SAM2." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.19811)]
 [[code](https://github.com/DeawhaleQwQ/Lean-SAM2)]
 [2026.07]
 
-:boom:Samy Mounir, Mikolaj Cieslak, Najmeddine Dhieb, Hakim Ghazzai, Jonathan Klein, Katja Froehlich, Soeren Pirk, Wojciech Palubicki, Gianluca Setti, Ahmed M. Eltawil, Dominik L. Michels.<br />
+- Samy Mounir, Mikolaj Cieslak, Najmeddine Dhieb, Hakim Ghazzai, Jonathan Klein, Katja Froehlich, Soeren Pirk, Wojciech Palubicki, Gianluca Setti, Ahmed M. Eltawil, Dominik L. Michels.<br />
 "Text-conditioned Segmentation for Tomato Phenotyping via Procedural Synthetic Data." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.18576)]
 [2026.07]
 
-:boom:**Scene-SAM3D:** Yuqi Zhang, et al.<br />
+- **Scene-SAM3D:** Yuqi Zhang, et al.<br />
 "Scene-SAM3D: Multi-View Scene Asset Generation Without Fine-Tuning." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.16805)]
 [[code](https://github.com/xibi777/Scene-SAM3D)]
 [2026.07]
 
-:boom:**OP-HRG:** Kazi Sajeed Mehrab, Hani Alomari, Najibul Haque Sarker, Chia-Wei Tang, Zaber Ibn Abdul Hakim, Anuj Karpatne, Chris Thomas.<br />
+- **OP-HRG:** Kazi Sajeed Mehrab, Hani Alomari, Najibul Haque Sarker, Chia-Wei Tang, Zaber Ibn Abdul Hakim, Anuj Karpatne, Chris Thomas.<br />
 "Reasoning-Guided Part-Level Visual Grounding via Reinforcement Learning." ECCV  (2026).
 [[paper](https://arxiv.org/abs/2607.15374)]
 [[code](https://github.com/sajeedmehrab/op-hrg)]
 [2026.07]
 
-:boom:Silas kwabla Gah, Ebenezer Owusu.<br />
+- Silas kwabla Gah, Ebenezer Owusu.<br />
 "Training-Free Open-Vocabulary 3D Point-Cloud Segmentation on the Generalized Few-Shot Benchmark." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.15331)]
 [2026.07]
 
-:boom:Jinchang Zhang, Arnold Zumbrun, Jing Lin, and Guoyu Lu.<br />
+- Jinchang Zhang, Arnold Zumbrun, Jing Lin, and Guoyu Lu.<br />
 "Foundation-Assisted Active Learning for Object Detection Annotation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.16671)]
 [2026.07]
 
-:boom:**Lite-Pi:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Dwarikanath Mahapatra, Debesh Jha.<br />
+- **Lite-Pi:** Shivanshu Agnihotri, Snehashis Majhi, Deepak Ranjan Nayak, Dwarikanath Mahapatra, Debesh Jha.<br />
 "Induce to Empower: Improving Lightweight Baselines via Foundation Model Induction for Generalized Polyp Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.17208)]
 [[code](https://github.com/lostinrepo/Lite-Pi)]
 [2026.07]
 
-:boom: Joey Páolo Kardolus, Daan Hendriks, Jaap Jansen.<br />
+- Joey Páolo Kardolus, Daan Hendriks, Jaap Jansen.<br />
 "Direct Clinical Joint Angle Extraction from Parametric Body Model Rotation Matrices." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.17639)]
 [[code](https://github.com/Babon-Innovations-b-v/movalytics)]
 [2026.07]
 
-:boom:Zhe Xin, Hanzhi Chang, Penghui Huang, Yinian Mao, Guoquan Huang.<br />
+- Zhe Xin, Hanzhi Chang, Penghui Huang, Yinian Mao, Guoquan Huang.<br />
 "Robust Multimodal Dynamic Object Segmentation." ICRA (2026).
 [[paper](https://arxiv.org/abs/2607.18153)]
 [2026.07]
  
-:boom:Minghui Xu, Chaoyi Zhou, Aaron P. Cecil, Xi Liu, Siyu Huang, Yuhao Xu.<br />
+- Minghui Xu, Chaoyi Zhou, Aaron P. Cecil, Xi Liu, Siyu Huang, Yuhao Xu.<br />
 "Digital measurement of droplet flame diameter in microgravity combustion images using Segment Anything Model 2 with automatic prompt selection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.16587)]
 [2026.07]
 
-:boom:**SAMRI-3D:** Zhao Wang, Wei Dai, Hongfu Sun, Craig Engstrom, Shekhar S. Chandra.<br />
+- **SAMRI-3D:** Zhao Wang, Wei Dai, Hongfu Sun, Craig Engstrom, Shekhar S. Chandra.<br />
 "SAMRI-3D: Adapting SAM2 for 3D MRI Segmentation with Global Volume Tokens." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.18014)]
 [[code](https://github.com/wangzhaomxy/SAMRI-3D)]
 [2026.07]
 
-:boom:**IMTrack:** Zhiqiang Hou, Chuangye Xu, Sugang Ma, Xiaobao Yang, Lei Pu.<br />
+- **IMTrack:** Zhiqiang Hou, Chuangye Xu, Sugang Ma, Xiaobao Yang, Lei Pu.<br />
 "Robust visual tracking via implicit memory-guided re-detection." EAAI (2026).
 [[paper](https://doi.org/10.1016/j.engappai.2026.115596)]
 [2026.07]
 
-:boom:**ReportMedSAM:** Anghong Du, Theodoros N. Arvanitis, Colin Watts, Alejandro F. Frangi, Le Zhang.<br />
+- **ReportMedSAM:** Anghong Du, Theodoros N. Arvanitis, Colin Watts, Alejandro F. Frangi, Le Zhang.<br />
 "ReportMedSAM: Guiding Segmentation Through Radiology Reports." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.14116)]
 [2026.07]
 
-:boom:**ViPSAM:** San Lee, Nalee Kim, Jeong Il Yu, Hee Chul Park, Boah Kim.<br />
+- **ViPSAM:** San Lee, Nalee Kim, Jeong Il Yu, Hee Chul Park, Boah Kim.<br />
 "ViPSAM: Visual Prompting Medical Image Segmentation Using Segment Anything Model." MICCAI (2026).
 [[paper](https://arxiv.org/abs/2607.14328)]
 [2026.07]
 
-:boom:**XCT-SAM:** Md Mahedi Hasan, Md Mushfiqur Rahaman, Alan Pachkovskiy, Imtiaz Ahmed, Jeremy Dawson, Srinjoy Das.<br />
+- **XCT-SAM:** Md Mahedi Hasan, Md Mushfiqur Rahaman, Alan Pachkovskiy, Imtiaz Ahmed, Jeremy Dawson, Srinjoy Das.<br />
 "XCT-SAM: Sequential Parameter-Efficient Domain Adaptation of SAM for Industrial XCT Defect Segmentation." ICPR workshop (2026).
 [[paper](https://arxiv.org/abs/2607.14287)]
 [[code](https://github.com/Mahedi-61/XCT-SAM.git)]
 [2026.07]
 
-:boom:Yuanzhi He.<br />
+- Yuanzhi He.<br />
 "Detector Confidence Signals Presence Rather Than Occlusion in Cluttered Manipulation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.13361)]
 [2026.07]
 
-:boom:**SARFA:** Tyler Ward, Abdullah Imran.<br />
+- **SARFA:** Tyler Ward, Abdullah Imran.<br />
 "SARFA: Segment Anything with Radiomic Feature Alignment." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.13323)]
 [[code](https://github.com/tbwa233/SARFA)]
 [2026.07]
  
-:boom:**SAM-PAG:** Wenqi Si, Gongyang Li, Shixiang Shi, Weisi Lin.<br />
+- **SAM-PAG:** Wenqi Si, Gongyang Li, Shixiang Shi, Weisi Lin.<br />
 "Weakly-Supervised RGB-D Salient Object Detection via SAM-driven Pseudo Annotation and State Space Interaction-based Diffusion." IEEE TMM (2026).
 [[paper](https://arxiv.org/abs/2607.15041)]
 [[code](https://github.com/Switch457/WeakS2Diff_SOD)]
 [2026.07]
 
-:boom:**SERD:** Shipeng Liu, Zhanping Song, Liang Zhao, Dengfeng Chen.<br />
+- **SERD:** Shipeng Liu, Zhanping Song, Liang Zhao, Dengfeng Chen.<br />
 "Semantic-Edge Response Decoding of SAM3 for Zero-Shot Crack Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.12292)]
 [[code](https://github.com/xauat-liushipeng/SERD)]
 [2026.07]
 
-:boom:**GFR-SAM:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.<br />
+- **GFR-SAM:** Yilong Yang, Jianxin Tian, Shengchuan Zhang, Liujuan Cao.<br />
 "GFR-SAM: Training-Free Referring Camouflaged Object Segmentation via Cross-Image Prompting." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.11732)]
 [2026.07]
  
-:boom:**MobileSAM2:** Kai Jiang, Jiaxing Huang, Jingyi Zhang, Weiying Xie, Yunsong Li, Yufei Wang, Aoran Xiao, Dacheng Tao.<br />
+- **MobileSAM2:** Kai Jiang, Jiaxing Huang, Jingyi Zhang, Weiying Xie, Yunsong Li, Yufei Wang, Aoran Xiao, Dacheng Tao.<br />
 "MobileSAM2: Lightweight Segment Anything for Spatial Intelligence." ECCV (2026).
 [[paper](https://arxiv.org/abs/2607.12297)]
 [2026.07]
