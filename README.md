@@ -372,6 +372,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.<br />
+"RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection." ACMMM (2026).
+[[paper](https://arxiv.org/abs/2607.25392)]
+[[code](https://github.com/ltynick/RDVSv2)]
+[2026.07]
+
+:boom:Sanjay Subramanian, Junwei Yu, Zirui Wang, Rohil Malpani, Maggie Chung, Adam Yala, Dan Klein, Trevor Darrell.<br />
+"Open-Ended CT Volume Segmentation with Weak Supervision from Language." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.25860)]
+[2026.07]
+
 :boom:**SADe:** Hang Xing, Guangjun Liu, Yan Xia, Xueming Ding.<br />
 "SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.24706)]
