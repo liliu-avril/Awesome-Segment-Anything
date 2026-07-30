@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Nevio Dubbini, Lisa Yeomans, Marco Pavia, Ramazan Parmaksiz, Ayse Atas Hooglugt, Gabriele Gattiglia, Beatrice Demarchi.<br />
+"Multimodal fusion of visual and morphometric features for avian bone classification." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.26743)]
+[2026.07]
+
 :boom:**RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.<br />
 "RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection." ACMMM (2026).
 [[paper](https://arxiv.org/abs/2607.25392)]
