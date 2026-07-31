@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM3D-VLA:** Zonghe Liu, et al.<br />
+"SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.25912)]
+[2026.07]
+
 :boom:Jinghong Liu, Yuchuan Deng, Fanping Liu, Meng Huang, Xirong Li.<br />
 "Benchmarking Foundation and Large Language Models for Few-Shot Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.27856)]
