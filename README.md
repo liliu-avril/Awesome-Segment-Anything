@@ -372,6 +372,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Jinghong Liu, Yuchuan Deng, Fanping Liu, Meng Huang, Xirong Li.<br />
+"Benchmarking Foundation and Large Language Models for Few-Shot Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.27856)]
+[2026.07]
+
+:boom:**ZMIS-SAM:** Dekun Yuan, Zhongwei Li, Zheng Qiao, Jie Zhang.<br />
+"ZMIS-SAM: Segment Anything Model Enhanced with Wavelet Transform for Zooplankton Microscopy Image Instance Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.27585)]
+[[code](https://github.com/sdydk/ZMIS-SAM)]
+[2026.07]
+
 :boom:Nevio Dubbini, Lisa Yeomans, Marco Pavia, Ramazan Parmaksiz, Ayse Atas Hooglugt, Gabriele Gattiglia, Beatrice Demarchi.<br />
 "Multimodal fusion of visual and morphometric features for avian bone classification." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.26743)]
