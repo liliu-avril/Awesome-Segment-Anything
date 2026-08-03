@@ -395,134 +395,134 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://ieeexplore.ieee.org/abstract/document/11597947)]
 [2026.08]
 
-:boom:**SAM3D-VLA:** Zonghe Liu, et al.<br />
+- **SAM3D-VLA:** Zonghe Liu, et al.<br />
 "SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.25912)]
 [2026.07]
 
-:boom:Jinghong Liu, Yuchuan Deng, Fanping Liu, Meng Huang, Xirong Li.<br />
+- Jinghong Liu, Yuchuan Deng, Fanping Liu, Meng Huang, Xirong Li.<br />
 "Benchmarking Foundation and Large Language Models for Few-Shot Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.27856)]
 [2026.07]
 
-:boom:**ZMIS-SAM:** Dekun Yuan, Zhongwei Li, Zheng Qiao, Jie Zhang.<br />
+- **ZMIS-SAM:** Dekun Yuan, Zhongwei Li, Zheng Qiao, Jie Zhang.<br />
 "ZMIS-SAM: Segment Anything Model Enhanced with Wavelet Transform for Zooplankton Microscopy Image Instance Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.27585)]
 [[code](https://github.com/sdydk/ZMIS-SAM)]
 [2026.07]
 
-:boom:Nevio Dubbini, Lisa Yeomans, Marco Pavia, Ramazan Parmaksiz, Ayse Atas Hooglugt, Gabriele Gattiglia, Beatrice Demarchi.<br />
+- Nevio Dubbini, Lisa Yeomans, Marco Pavia, Ramazan Parmaksiz, Ayse Atas Hooglugt, Gabriele Gattiglia, Beatrice Demarchi.<br />
 "Multimodal fusion of visual and morphometric features for avian bone classification." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.26743)]
 [2026.07]
 
-:boom:**RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.<br />
+- **RDVSv2:** Tianyu Li, Jiahao He, Keren Fu, Qijun Zhao.<br />
 "RDVSv2: A Large-scale Benchmark for RGB-D Video Salient Object Detection." ACMMM (2026).
 [[paper](https://arxiv.org/abs/2607.25392)]
 [[code](https://github.com/ltynick/RDVSv2)]
 [2026.07]
 
-:boom:Sanjay Subramanian, Junwei Yu, Zirui Wang, Rohil Malpani, Maggie Chung, Adam Yala, Dan Klein, Trevor Darrell.<br />
+- Sanjay Subramanian, Junwei Yu, Zirui Wang, Rohil Malpani, Maggie Chung, Adam Yala, Dan Klein, Trevor Darrell.<br />
 "Open-Ended CT Volume Segmentation with Weak Supervision from Language." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.25860)]
 [2026.07]
 
-:boom:**SADe:** Hang Xing, Guangjun Liu, Yan Xia, Xueming Ding.<br />
+- **SADe:** Hang Xing, Guangjun Liu, Yan Xia, Xueming Ding.<br />
 "SADe: Sparse-Atom Support Decontamination for Few-Shot Segmentation with Weak Support Annotations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.24706)]
 [2026.07]
 
-:boom:**ConFusion:** Guo Yurong, He Yufei, Li Yonghao, Chang Dongliang, Zhang Ke, Ma Zhanyu.<br />
+- **ConFusion:** Guo Yurong, He Yufei, Li Yonghao, Chang Dongliang, Zhang Ke, Ma Zhanyu.<br />
 "ConFusion: Continuous Fusion Space Learning for Fine-Grained Controllable Infrared and Visible Image Fusion." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.23600)]
 [[code](https://github.com/HeyufeiAnto/Confusion)]
 [2026.07]
  
-:boom:**EditCLEVR:** Anuraag Gadehothur Karnam, Tarunesh Sathish.<br />
+- **EditCLEVR:** Anuraag Gadehothur Karnam, Tarunesh Sathish.<br />
 "EditCLEVR: A Paired-Scene Intervention Benchmark for Compositional Faithfulness of Object-Centric Representations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.22705)]
 [[code](https://github.com/torux-bughunter/EditCLEVR)]
 [2026.07]
 
-:boom:**SurgSAM3:** Changjing Liu, Yiming Huang, Beilei Cui, Liangjing Shao, Long Bai, Yanheng Li, Haoxuan Che, Hongliang Ren.<br />
+- **SurgSAM3:** Changjing Liu, Yiming Huang, Beilei Cui, Liangjing Shao, Long Bai, Yanheng Li, Haoxuan Che, Hongliang Ren.<br />
 "Parameter-Efficient Adaptation of SAM3 for Prompt-Driven Surgical Concept Segmentation." MICCAI Workshop (2026).
 [[paper](https://arxiv.org/abs/2607.23694)]
 [[code](https://github.com/ChangjingLiu/SurgSAM3)]
 [2026.07]
 
-:boom:Hiu Ching Cheung, Wenchao Yue, Zhengran Han, Mingcong Chen, Guanglin Cao, Hongbin Liu, Hongliang Ren.<br />
+- Hiu Ching Cheung, Wenchao Yue, Zhengran Han, Mingcong Chen, Guanglin Cao, Hongbin Liu, Hongliang Ren.<br />
 "Learning-based Hierarchical Tracheal Anatomy Understanding from Sparse Surgical Demonstration Annotations for Ultrasound Robots." ICCBS (2026).
 [[paper](https://arxiv.org/abs/2607.22789)]
 [2026.07]
 
-:boom:**LSP-SAM2:** Zhaoyuan Wu, Naiyang Guan, Yinghui Gao, Longfei Su, Min Liu.<br />
+- **LSP-SAM2:** Zhaoyuan Wu, Naiyang Guan, Yinghui Gao, Longfei Su, Min Liu.<br />
 "A Light-Weight Self-Prompting Foundation Model for Automatous Video Object Segmentation." ICIC (2026).
 [[paper](https://dl.acm.org/doi/abs/10.1007/978-981-92-3510-0_29)]
 [[code](https://github.com/jone-Wu/LSP-SAM2)]
 [2026.07]
  
-:boom:**FESAM:** Chaoyue Wang, Jiang Wang, Lingfang Li, Weijian Hu & Lizhen Cui .<br />
+- **FESAM:** Chaoyue Wang, Jiang Wang, Lingfang Li, Weijian Hu & Lizhen Cui .<br />
 "FESAM: Frequency-Enhanced SAM with Boundary-Aware Decoding for Ultrasound Image Segmentation." ICIC (2026).
 [[paper](https://link.springer.com/chapter/10.1007/978-981-92-3538-4_4)]
 [2026.07]
 
-:boom:**Agent-SAM-I2V:** Guo Yang, Jiaqi Zhang, Yao Zhu & Longze Fan.<br />
+- **Agent-SAM-I2V:** Guo Yang, Jiaqi Zhang, Yao Zhu & Longze Fan.<br />
 "Agent-SAM-I2V: Self-correcting Promptable Video Segmentation via Agentic Drift Detection and Multi-Prompt Fusion." ICIC (2026).
 [[paper](https://link.springer.com/chapter/10.1007/978-981-92-3513-1_49)]
 [2026.07]
 
-:boom:**GB-SAM:** Chenlin Xu, Lei Zhang, Lituan Wang, Xinyu Pu, Pengfei Ma, Guangwu Qian.<br />
+- **GB-SAM:** Chenlin Xu, Lei Zhang, Lituan Wang, Xinyu Pu, Pengfei Ma, Guangwu Qian.<br />
 "GB-SAM: Gaussian-Prior and Boundary-Guided Test-Time Adaptation for Medical Image Segmentation." ICIC (2026).
 [[paper](https://dl.acm.org/doi/abs/10.1007/978-981-92-3501-8_23)]
 [[code](https://github.com/Emilychenlin/GB-SAM/tree/main)]
 [2026.07]
  
-:boom:**CME-SAM:** Qiyuan Wang, Jinfu Wang, Chuyu Chen, Pengtao Ren, Shijie Ling, Kejiang Xiao.<br />
+- **CME-SAM:** Qiyuan Wang, Jinfu Wang, Chuyu Chen, Pengtao Ren, Shijie Ling, Kejiang Xiao.<br />
 "CME-SAM: Contrastive Mask-Enhanced Segment Anything Model for Generalizable Medical Image Segmentation." ICIC (2026).
 [[paper](https://dl.acm.org/doi/abs/10.1007/978-981-92-3513-1_8)]
 [2026.07]
 
-:boom:**IBS-EMA:** Yizhuo Wang, Shiquan Min, Jiangping Zhu & Pei Zhou.<br />
+- **IBS-EMA:** Yizhuo Wang, Shiquan Min, Jiangping Zhu & Pei Zhou.<br />
 "IBS-EMA: Mitigating Test-Time Prompt Distribution Shift for Medical Segment Anything Models." ICIC (2026).
 [[paper](https://link.springer.com/chapter/10.1007/978-981-92-3378-6_14)]
 [2026.07]
 
-:boom:**HCFNet:** Yu, Jiwei, Kecheng Zhou, Ting Wang, Hongxiao Gan, Yu Wang, and Shuzhi Gao.<br />
+- **HCFNet:** Yu, Jiwei, Kecheng Zhou, Ting Wang, Hongxiao Gan, Yu Wang, and Shuzhi Gao.<br />
 "HCFNet: A SAM2-Based Hierarchical Cross-Branch Frequency-Aware Network for Industrial Surface Defect Segmentation." Sensors (2026).
 [[paper](https://www.mdpi.com/1424-8220/26/14/4597)]
 [2026.07]
  
-:boom:**ZA-SAM:** Jinliang Su, Yun Jiang, Zequn Zhang & Yuhang Li .<br />
+- **ZA-SAM:** Jinliang Su, Yun Jiang, Zequn Zhang & Yuhang Li .<br />
 "Adaptive Prompted, Zero-Annotation SAM: Weakly Supervised Binary Medical Image Segmentation." ICIC (2026).
 [[paper](https://link.springer.com/chapter/10.1007/978-981-92-3378-6_12)]
 [2026.07]
 
-:boom:**SURE-SAM2:** Yucan Duan, Chun Wang, Kaiyu Miao & Xiaoyan He.<br />
+- **SURE-SAM2:** Yucan Duan, Chun Wang, Kaiyu Miao & Xiaoyan He.<br />
 "SURE-SAM2: Semantic and Uncertainty-aware Refinement SAM2 for Change Detection." ICIC (2026).
 [[paper](https://link.springer.com/chapter/10.1007/978-981-92-3378-6_21)]
 [2026.07]
 
-:boom:**PolypSAM-Lite:** Hasan, Umar, and Muhammad Ali Nayeem.<br />
+- **PolypSAM-Lite:** Hasan, Umar, and Muhammad Ali Nayeem.<br />
 "Low-Rank Attention Reparameterization for Parameter-Efficient Adaptation of the Segment Anything Model to Colorectal Polyp Segmentation." Mathematics (2026).
 [[paper](https://www.mdpi.com/2227-7390/14/14/2646)]
 [2026.07]
  
-:boom:Koki AMANO, Otoha YAMANAKA, Wakana KAWAI, Tatsuya HAYASHI, Nobuo KOCHI, Ippeita DAN.<br />
+- Koki AMANO, Otoha YAMANAKA, Wakana KAWAI, Tatsuya HAYASHI, Nobuo KOCHI, Ippeita DAN.<br />
 "Segment-Anything-based AOI Analysis for Eye-tracking: A Gaze Judgment Method Considering the Visual Angle." J-STAGE(2026).
 [[paper](https://www.jstage.jst.go.jp/article/ijae/advpub/0/advpub_IJAE-D-25-00049/_article/-char/ja/)]
 [2026.07]
 
-:boom:**Naka-SAM:** Chen, Juan; Wu, Jiajie; Guo, Lei; Ge, Wenping; Ma, Jie.<br />
+- **Naka-SAM:** Chen, Juan; Wu, Jiajie; Guo, Lei; Ge, Wenping; Ma, Jie.<br />
 "Naka-SAM: A Cognition-Inspired Framework with Nakagami Prior for Ultrasound Segmentation." Proceedings of the Annual Meeting of the Cognitive Science Society (2026).
 [[paper](https://escholarship.org/uc/item/7hd8g739)]
 [2026.07]
 
-:boom:**CG-SAM2:** Bin He, Zhiwei Chen, Shengmin Zhao, Qinqin Zhou, Aiwen Jiang, Miaohui Zhang.<br />
+- **CG-SAM2:** Bin He, Zhiwei Chen, Shengmin Zhao, Qinqin Zhou, Aiwen Jiang, Miaohui Zhang.<br />
 "CG-SAM2: Confidence-Guided Pseudo-label Refinement for Weakly Supervised Camouflaged Object Detection." ICIC (2026).
 [[paper](https://dl.acm.org/doi/abs/10.1007/978-981-92-3507-0_2)]
 [2026.07]
 
-:boom:Mohammadreza Narimani, Vikram Anand, Parastoo Farajpoor.<br />
+- Mohammadreza Narimani, Vikram Anand, Parastoo Farajpoor.<br />
 "Farmland Extent and Visible Boundary Mapping from 1 m NAIP Imagery Using Residual U-Net and Text-Prompted SAM 3 Refinement." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.21881)]
 [[code](https://github.com/MohammadrezaNarimaniUCDavis/NAIP_Farmland_ResSAM)]
