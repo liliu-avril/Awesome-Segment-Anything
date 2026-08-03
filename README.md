@@ -372,6 +372,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM+D:** Yu Song, Hao Sun, Shiyu Teng, Ikuko Nishikawa, Yen-wei Chen.<br />
+"SAM+D: Parameter-Efficient Dimensional Lifting of SAM-Family Models via Depth-Routed LoRA and Depth Shifting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.29033)]
+[[code](https://github.com/JerrySongCST/SAM-Plus-D)]
+[2026.08]
+
+:boom:**TMMSAM2:** Fu, Xiyou and Zhang, Ting and Zhang, Xiaoyu and Lin, Mingying and Lv, Zijun and He, Wangquan and Ren, Qi and Xu, Meng and Jia, Sen.<br />
+"TMMSAM2: Tracker-Aided Multitemporal Memory SAM2 for Hyperspectral Object Tracking." TNNLS (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11597947)]
+[2026.08]
+
 :boom:**SAM3D-VLA:** Zonghe Liu, et al.<br />
 "SAM3D-Guided Object-Centric Representation Alignment for Vision-Language-Action Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.25912)]
