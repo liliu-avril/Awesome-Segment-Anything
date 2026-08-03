@@ -372,6 +372,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ELFSS-AR:** Xueting Bai, Huan Ni.<br />
+"Training-Free Entity-Level Few-Shot Segmentation of Remote Sensing Images with Advection Refinement." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.29278)]
+[[code](https://github.com/yu-ni1989/ELFSS-AR)]
+[2026.08]
+
+:boom:**UltraSAM3:** Bo Xu, Quanhao Zhu, Rui Lin, Boling Zhu, Chenyuan Wang, Hongfei Lin, Feng Xia, Chenhua Ji.<br />
+"UltraSAM3: A Concept-Driven Foundation Model for Universal Ultrasound Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2607.29200)]
+[[code](https://github.com/zhuqh19/UltraSAM3)]
+[2026.08]
+
 :boom:**SAM+D:** Yu Song, Hao Sun, Shiyu Teng, Ikuko Nishikawa, Yen-wei Chen.<br />
 "SAM+D: Parameter-Efficient Dimensional Lifting of SAM-Family Models via Depth-Routed LoRA and Depth Shifting." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.29033)]
