@@ -372,6 +372,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**FS-CPL:** Rahul Venkataramani, Rachana Sathish.<br />
+"Few-Shot Concept Prompt Learning for Segmentation Foundation Models via Visual Grounding." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.01663)]
+[2026.08]
+
+:boom:**ACTrack:** Wenrui Cai, Yuzhe Li, Qingjie Liu, Yunhong Wang.<br />
+"Models as Tools: An Agentic Coordination Framework for Unified Multimodal Visual Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.00847)]
+[2026.08]
+
 :boom:**GaussianSelector:** Baihan Yang, Tiexin Li, Yuheng Liu, Xin Lin, Xinke Li, Xiaohui Xie, Truong Nguyen.<br />
 "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.01492)]
