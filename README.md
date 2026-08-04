@@ -372,6 +372,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**GaussianSelector:** Baihan Yang, Tiexin Li, Yuheng Liu, Xin Lin, Xinke Li, Xiaohui Xie, Truong Nguyen.<br />
+"GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.01492)]
+[2026.08]
+
+:boom:**EOVSAM:** Haomin Peng, Yongkang Li, Zhaoxiang Liu, Xiaojie Jin, Shiguo Lian, Yunchao Wei, Xinggang Wang.<br />
+"EOVSAM: Efficient Open-Vocabulary Segmentation with SAM 3 in One Pass." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.02284)]
+[[code](https://github.com/hustvl/EOVSAM)]
+[2026.08]
+
+:boom:**PhenoStitch:** Xuechen Li.<br />
+"PhenoStitch: Training-Free Panoptic Crop Mapping from Satellite Image Time Series." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.00870)]
+[2026.08]
+
 :boom:**ELFSS-AR:** Xueting Bai, Huan Ni.<br />
 "Training-Free Entity-Level Few-Shot Segmentation of Remote Sensing Images with Advection Refinement." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.29278)]
