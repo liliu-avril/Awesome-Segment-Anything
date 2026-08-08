@@ -372,6 +372,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Hao Wang, Yuxuan Zhang, Wei Yang.<br />
+"Universal Concept Disruption for SAM3 Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.05983)]
+[2026.08]
+
+:boom:**EgoAfford:** Xinyuan Guan, Feifan Chen, Xinyu Zhan, Fu-Cheng Zhang, Cewu Lu, Lixin Yang.<br />
+"EgoAfford: Task-Oriented Affordance Grounding via Egocentric Referring Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.04533)]
+[[code](https://egoafford.github.io)]
+[2026.08]
+
+:boom:Jonathan Klingspon, Scott McAvoy, Maurizio Seracini, Falko Kuester.<br />
+"Material-Segmented Per-Pixel Emissivity Correction for Thermographic Anomaly Detection in Cultural Heritage Digital Twins." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.02964)]
+[2026.08]
+ 
+:boom:**CROSS:** Tingzhang Luo, Ruizhong Liu, Yichao Liu, Cheng Fan, Yu Liu, Jianyuan Guo.<br />
+"CROSS: Cascaded Distillation and Dual-Constraint Grounding for Remote Sensing Referring Segmentation." ECCV (2026).
+[[paper](https://arxiv.org/abs/2608.03147)]
+[[code](https://clarence-cv.github.io/CROSS/)]
+[2026.08]
+
 :boom:**FS-CPL:** Rahul Venkataramani, Rachana Sathish.<br />
 "Few-Shot Concept Prompt Learning for Segmentation Foundation Models via Visual Grounding." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.01663)]
