@@ -372,6 +372,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**KD-SAM:** Yang Fang and Bingbing Jiang and Haopeng Huo and Uswah Khairuddin and Yeon Lee and Yong Qin.<br />
+"KD-SAM: Keep-Awake and Detail-Enhanced Segment Anything Model for Multi-Modality Multi-Organ Medical Image Segmentation." Expert Systems with Applications (2026).
+[[paper](https://doi.org/10.1016/j.eswa.2026.133883)]
+[[code](https://github.com/ShowUNow/KD-SAM)]
+[2026.08]
+
 :boom:**S3-Diff:** Jiaming Liang, QiHui Han, Guangye Ou, Jiawen Liu, Haolin Chen, Xi Zhong, Jiazhou Chen, Xiaoqi Sheng, Hongmin Cai.<br />
 "S3-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.03540)]
