@@ -372,6 +372,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**S3-Diff:** Jiaming Liang, QiHui Han, Guangye Ou, Jiawen Liu, Haolin Chen, Xi Zhong, Jiazhou Chen, Xiaoqi Sheng, Hongmin Cai.<br />
+"S3-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.03540)]
+[2026.08]
+
+:boom:**GeoDistill-Refine:** Yonglong Zhang, Zongwu Xie, Yang Liu.<br />
+"GeoDistill-Refine: Silhouette-First Geometry Distillation for Annotation-Free Spacecraft Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.07405)]
+[2026.08]
+
 :boom:Hao Wang, Yuxuan Zhang, Wei Yang.<br />
 "Universal Concept Disruption for SAM3 Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.05983)]
