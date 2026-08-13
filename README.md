@@ -372,89 +372,137 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**KD-SAM:** Yang Fang and Bingbing Jiang and Haopeng Huo and Uswah Khairuddin and Yeon Lee and Yong Qin.<br />
+:boom:Mike Szklarzewski, CJ George, Gavin Smithson, Christopher Stokes, Dakota Fulp, William M. Jones, Benjamin Wynn, Alexander Ur, Agit Yesiloz, Clint Kallenbach, Mark Swartz, Nathan DeBardeleben, Sharmistha Chakrabarti.<br />
+"From Benchmark Performance to Tool Deployment: Human-in-the-Loop Anomaly Detection." ICMLA (2026).
+[[paper](https://arxiv.org/abs/2608.07770)]
+[2026.08]
+
+:boom:**BAP-MOS:** Satvik Praveen, Shengji Jin, Ahmed Lamidi, Xin Qian, Yi Sheng.<br />
+"BAP-MOS: Bandit-Based Adaptive Prompting for Boundary-Sensitive Multi-Organ Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.08191)]
+[[code](https://github.com/SatvikPraveen/BAP-MOS)]
+[2026.08]
+ 
+:boom:Shah Imran Ahsan Chowdhury, Kazi Jihadur Rashid, Rajsree Das Tuli, Rahul Saha, Bulbul Ahammad.<br />
+"GeoAI-based post-segmentation quality validation of building footprints via spatial feature engineering." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.09048)]
+[2026.08]
+
+:boom:**LEGO:** Yuning Peng, Haiping Wang, Yuan Liu, Yipeng Lu, Zhen Dong, Bisheng Yang.<br />
+"LEGO: Leveled Language Gaussian Splatting." ECCV (2026).
+[[paper](https://arxiv.org/abs/2608.11458)]
+[[code](https://pz0826.github.io/LEGO-Webpage/)]
+[2026.08]
+
+:boom:**SSUPER:** Jungyoon Lee, Gyuil Lim, Doeon Kim, Seong-heum Kim.<br />
+"Multi-Agent Target-Existence Verification and Learned Mask Geometry Refinement: Winning Report of the MeViS-Text Track at the 8th LSVOS Challenge 2026." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.11458)]
+[2026.08]
+ 
+:boom:Duy Tran Thanh, Yeejin Lee, Byeongkeun Kang.<br />
+"Learning from Multimodal Pseudo-Labels for Robust Open-Vocabulary Instance and Panoptic Segmentation." Neurocomputing (2026).
+[[paper](https://arxiv.org/abs/2608.11681)]
+[2026.08]
+
+:boom:AmirHossein Eshghi, Hamid Saadatfar, Seyyed Ali Hoseini, AmirMohsen Eshghi, Siavash Arjomand Bigdel.<br />
+"Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.12299)]
+[2026.08]
+
+:boom:**VOLA:** Yuchen Zhang, Yuan Gao, Sebastian Schmidt, Johannes Betz.<br />
+"VOLA: Improving Open-World Driving by VLM-Based Semantic Attribute Prediction." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.11777)]
+[[code](https://anonymous.4open.science/r/VOLA)]
+[2026.08]
+ 
+:boom:**SAM3tool:** Nakul Poudel, Richard Simon, Cristian A. Linte.<br />
+"Toward Mask Annotation-Free Surgical Instrument Segmentation from Endoscopic Images Using Text-Prompted Segment Anything Model 3 (SAM3)." MIUA (2026).
+[[paper](https://arxiv.org/abs/2608.08844)]
+[2026.08]
+
+- **KD-SAM:** Yang Fang and Bingbing Jiang and Haopeng Huo and Uswah Khairuddin and Yeon Lee and Yong Qin.<br />
 "KD-SAM: Keep-Awake and Detail-Enhanced Segment Anything Model for Multi-Modality Multi-Organ Medical Image Segmentation." Expert Systems with Applications (2026).
 [[paper](https://doi.org/10.1016/j.eswa.2026.133883)]
 [[code](https://github.com/ShowUNow/KD-SAM)]
 [2026.08]
 
-:boom:**S3-Diff:** Jiaming Liang, QiHui Han, Guangye Ou, Jiawen Liu, Haolin Chen, Xi Zhong, Jiazhou Chen, Xiaoqi Sheng, Hongmin Cai.<br />
+- **S3-Diff:** Jiaming Liang, QiHui Han, Guangye Ou, Jiawen Liu, Haolin Chen, Xi Zhong, Jiazhou Chen, Xiaoqi Sheng, Hongmin Cai.<br />
 "S3-Diff: Structural Semantic Synergy Diffusion Model for High Fidelity Super Resolution of Pathological Images." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.03540)]
 [2026.08]
 
-:boom:**GeoDistill-Refine:** Yonglong Zhang, Zongwu Xie, Yang Liu.<br />
+- **GeoDistill-Refine:** Yonglong Zhang, Zongwu Xie, Yang Liu.<br />
 "GeoDistill-Refine: Silhouette-First Geometry Distillation for Annotation-Free Spacecraft Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.07405)]
 [2026.08]
 
-:boom:Hao Wang, Yuxuan Zhang, Wei Yang.<br />
+- Hao Wang, Yuxuan Zhang, Wei Yang.<br />
 "Universal Concept Disruption for SAM3 Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.05983)]
 [2026.08]
 
-:boom:**EgoAfford:** Xinyuan Guan, Feifan Chen, Xinyu Zhan, Fu-Cheng Zhang, Cewu Lu, Lixin Yang.<br />
+- **EgoAfford:** Xinyuan Guan, Feifan Chen, Xinyu Zhan, Fu-Cheng Zhang, Cewu Lu, Lixin Yang.<br />
 "EgoAfford: Task-Oriented Affordance Grounding via Egocentric Referring Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.04533)]
 [[code](https://egoafford.github.io)]
 [2026.08]
 
-:boom:Jonathan Klingspon, Scott McAvoy, Maurizio Seracini, Falko Kuester.<br />
+- Jonathan Klingspon, Scott McAvoy, Maurizio Seracini, Falko Kuester.<br />
 "Material-Segmented Per-Pixel Emissivity Correction for Thermographic Anomaly Detection in Cultural Heritage Digital Twins." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.02964)]
 [2026.08]
  
-:boom:**CROSS:** Tingzhang Luo, Ruizhong Liu, Yichao Liu, Cheng Fan, Yu Liu, Jianyuan Guo.<br />
+- **CROSS:** Tingzhang Luo, Ruizhong Liu, Yichao Liu, Cheng Fan, Yu Liu, Jianyuan Guo.<br />
 "CROSS: Cascaded Distillation and Dual-Constraint Grounding for Remote Sensing Referring Segmentation." ECCV (2026).
 [[paper](https://arxiv.org/abs/2608.03147)]
 [[code](https://clarence-cv.github.io/CROSS/)]
 [2026.08]
 
-:boom:**FS-CPL:** Rahul Venkataramani, Rachana Sathish.<br />
+- **FS-CPL:** Rahul Venkataramani, Rachana Sathish.<br />
 "Few-Shot Concept Prompt Learning for Segmentation Foundation Models via Visual Grounding." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.01663)]
 [2026.08]
 
-:boom:**ACTrack:** Wenrui Cai, Yuzhe Li, Qingjie Liu, Yunhong Wang.<br />
+- **ACTrack:** Wenrui Cai, Yuzhe Li, Qingjie Liu, Yunhong Wang.<br />
 "Models as Tools: An Agentic Coordination Framework for Unified Multimodal Visual Tracking." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.00847)]
 [2026.08]
 
-:boom:**GaussianSelector:** Baihan Yang, Tiexin Li, Yuheng Liu, Xin Lin, Xinke Li, Xiaohui Xie, Truong Nguyen.<br />
+- **GaussianSelector:** Baihan Yang, Tiexin Li, Yuheng Liu, Xin Lin, Xinke Li, Xiaohui Xie, Truong Nguyen.<br />
 "GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.01492)]
 [2026.08]
 
-:boom:**EOVSAM:** Haomin Peng, Yongkang Li, Zhaoxiang Liu, Xiaojie Jin, Shiguo Lian, Yunchao Wei, Xinggang Wang.<br />
+- **EOVSAM:** Haomin Peng, Yongkang Li, Zhaoxiang Liu, Xiaojie Jin, Shiguo Lian, Yunchao Wei, Xinggang Wang.<br />
 "EOVSAM: Efficient Open-Vocabulary Segmentation with SAM 3 in One Pass." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.02284)]
 [[code](https://github.com/hustvl/EOVSAM)]
 [2026.08]
 
-:boom:**PhenoStitch:** Xuechen Li.<br />
+- **PhenoStitch:** Xuechen Li.<br />
 "PhenoStitch: Training-Free Panoptic Crop Mapping from Satellite Image Time Series." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.00870)]
 [2026.08]
 
-:boom:**ELFSS-AR:** Xueting Bai, Huan Ni.<br />
+- **ELFSS-AR:** Xueting Bai, Huan Ni.<br />
 "Training-Free Entity-Level Few-Shot Segmentation of Remote Sensing Images with Advection Refinement." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.29278)]
 [[code](https://github.com/yu-ni1989/ELFSS-AR)]
 [2026.08]
 
-:boom:**UltraSAM3:** Bo Xu, Quanhao Zhu, Rui Lin, Boling Zhu, Chenyuan Wang, Hongfei Lin, Feng Xia, Chenhua Ji.<br />
+- **UltraSAM3:** Bo Xu, Quanhao Zhu, Rui Lin, Boling Zhu, Chenyuan Wang, Hongfei Lin, Feng Xia, Chenhua Ji.<br />
 "UltraSAM3: A Concept-Driven Foundation Model for Universal Ultrasound Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2607.29200)]
 [[code](https://github.com/zhuqh19/UltraSAM3)]
 [2026.08]
 
-:boom:**SAM+D:** Yu Song, Hao Sun, Shiyu Teng, Ikuko Nishikawa, Yen-wei Chen.<br />
+- **SAM+D:** Yu Song, Hao Sun, Shiyu Teng, Ikuko Nishikawa, Yen-wei Chen.<br />
 "SAM+D: Parameter-Efficient Dimensional Lifting of SAM-Family Models via Depth-Routed LoRA and Depth Shifting." ECCV (2026).
 [[paper](https://arxiv.org/abs/2607.29033)]
 [[code](https://github.com/JerrySongCST/SAM-Plus-D)]
 [2026.08]
 
-:boom:**TMMSAM2:** Fu, Xiyou and Zhang, Ting and Zhang, Xiaoyu and Lin, Mingying and Lv, Zijun and He, Wangquan and Ren, Qi and Xu, Meng and Jia, Sen.<br />
+- **TMMSAM2:** Fu, Xiyou and Zhang, Ting and Zhang, Xiaoyu and Lin, Mingying and Lv, Zijun and He, Wangquan and Ren, Qi and Xu, Meng and Jia, Sen.<br />
 "TMMSAM2: Tracker-Aided Multitemporal Memory SAM2 for Hyperspectral Object Tracking." TNNLS (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11597947)]
 [2026.08]
