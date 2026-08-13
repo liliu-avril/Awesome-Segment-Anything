@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Yiwen Ren, Jianing Liu, Yingxin Wang, Kexin Zhang, Licheng Jiao, Lingling Li, Xu Liu.<br />
+"Agreement-Based Audio-Visual Segmentation:Champion Report for the MeViS-Audio Track in the 8th LSVOS Challenge." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.09475)]
+[2026.08]
+
 :boom:**RoboSeg:** Zhaochen Lan, Mengxiang Lin.<br />
 "RoboSeg: Online Part-Level Semantic Reconstruction for Robotic Manipulation via a Single Eye-in-Hand Camera." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.09778)]
