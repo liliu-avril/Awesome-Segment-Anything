@@ -372,6 +372,21 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**RoboSeg:** Zhaochen Lan, Mengxiang Lin.<br />
+"RoboSeg: Online Part-Level Semantic Reconstruction for Robotic Manipulation via a Single Eye-in-Hand Camera." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.09778)]
+[2026.08]
+
+:boom:Roni Blushtein-Livnon, Tal Svoray, Osher Rafaeli, Michael Dorman, Itay Fischhendler, Havazelet Yahel, Emir Galilee.<br />
+"Evaluating Semantic and Spatial Guidance for Foundation Model Segmentation of Small-Scale PV in Remote Sensing Imagery." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.10801)]
+[2026.08]
+ 
+:boom:**Seed2GS:** Zongjian Ding, Yudong Gao, Jiale Liu, Xinglin Yu, Junxing Ren, Dong Wei, Yajing Chen, Shan Huang, Mingjun Cheng, Min Li.<br />
+"Seed2GS: Camera-Free, Training-Free Object Extraction from 3D Gaussian Scenes via a Single Reference-View Grounding." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.11928)]
+[2026.08]
+
 :boom:Mike Szklarzewski, CJ George, Gavin Smithson, Christopher Stokes, Dakota Fulp, William M. Jones, Benjamin Wynn, Alexander Ur, Agit Yesiloz, Clint Kallenbach, Mark Swartz, Nathan DeBardeleben, Sharmistha Chakrabarti.<br />
 "From Benchmark Performance to Tool Deployment: Human-in-the-Loop Anomaly Detection." ICMLA (2026).
 [[paper](https://arxiv.org/abs/2608.07770)]
