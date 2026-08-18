@@ -372,6 +372,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**RISE:** Yanbo Jiang, Haotian Zheng, Jiahao Wang, Hanxiao Ren, Yitao Xu, Yining Xing, Zehong Ke, Hao Cheng, Yiqian Tu, Jinhao Li, Zhiyuan Xuan, Fang Zhang, Jianqiang Wang.<br />
+"RISE: Roadside Infrastructure Sequence Understanding across 3D Tracking and Structured Vision-Language Reasoning." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.16480)]
+[2026.08]
+ 
+:boom:**DreamX-Phi 1.0:** DreamX Team, Rui Chen, Xiangxiang Chu, Geng Li, Jifan Li, Qingfeng Shi, Datao Tang, Jing Tang, Jun Wang, Pengfei Zhang.<br />
+"DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.13489)]
+[[code](https://github.com/AMAP-ML/DreamX-Phi)]
+[2026.08]
+
+:boom:**VOS-Agent:** Canyang Wu, Jinrong Zhang, Xusheng He, Ce Bian, Xianjing Han, Jianlong Wu.<br />
+"VOS-Agent: The 1st Place Solution for the 8th LSVOS Challenge (MOSEv2 Track)." ECCV Workshop(2026).
+[[paper](https://arxiv.org/abs/2608.12721)]
+[2026.08]
+
 :boom:**TCSR-Monito:** Hieu D. Pham, Dang P. M. Cao, Thanh Trung Huynh.<br />
 "Beyond Uncertainty: Generalizable Failure Monitoring for Surgical Segmentation under Acquisition Degradation." MICCAI Workshop(2026).
 [[paper](https://arxiv.org/abs/2608.16748)]
