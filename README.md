@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM-Med2D-GeoCrop:** Wang, Tianqi and Li, Jianuo and Yang, Chenhao and Xu, Jinyi and Zhou, Mian and Dang, Kang and Zhang, Linxue.<br />
+"ROI-Focused Geometry-Aware Adaptation for Accurate Small-Structure Segmentation in Medical SAM." ICIP (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11629916)]
+[2026.08]
+
 :boom:**RISE:** Yanbo Jiang, Haotian Zheng, Jiahao Wang, Hanxiao Ren, Yitao Xu, Yining Xing, Zehong Ke, Hao Cheng, Yiqian Tu, Jinhao Li, Zhiyuan Xuan, Fang Zhang, Jianqiang Wang.<br />
 "RISE: Roadside Infrastructure Sequence Understanding across 3D Tracking and Structured Vision-Language Reasoning." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.16480)]
