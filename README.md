@@ -372,6 +372,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**TCSR-Monito:** Hieu D. Pham, Dang P. M. Cao, Thanh Trung Huynh.<br />
+"Beyond Uncertainty: Generalizable Failure Monitoring for Surgical Segmentation under Acquisition Degradation." MICCAI Workshop(2026).
+[[paper](https://arxiv.org/abs/2608.16748)]
+[[code](https://github.com/dinhieufam/tcsr-monitor)]
+[2026.08]
+
 :boom:**SUGFW+:** Xiaochuan Ma, Ning Zhu, Jia Fu, Lanfeng Zhong, Hanyu Jiang, Bin Song, Kang Li, Guotai Wang.<br />
 "SUGFW+: An Uncertainty-guided Feature Weighting Framework for Cold Start Active Adaptation of SAM in Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.16110)]
