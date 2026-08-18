@@ -372,6 +372,25 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SUGFW+:** Xiaochuan Ma, Ning Zhu, Jia Fu, Lanfeng Zhong, Hanyu Jiang, Bin Song, Kang Li, Guotai Wang.<br />
+"SUGFW+: An Uncertainty-guided Feature Weighting Framework for Cold Start Active Adaptation of SAM in Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.16110)]
+[[code](https://github.com/HiLab-git/SUGFW-plus)]
+[2026.08]
+
+:boom:**FE-SAM:** Feng Gao, Zizhe Pan, Haoting Wang, Ruzhuang Hua, Jingchao Cao, Junyu Dong, Qian Du.<br />
+"Frequency and Edge-Guided Segment Anything Model for Remote Sensing Image Semantic Segmentation." IEEE TGRS (2026).
+[[paper](https://arxiv.org/abs/2608.15054)]
+[[code](https://github.com/oucailab/FE-SAM)]
+[2026.08]
+
+:boom:Mohammadreza Narimani, Shreyan Mitra, Parastoo Farajpoor.<br />
+"From crown candidates to neighborhood screening: integrating optical GeoAI and spatial modeling for urban-canopy assessment in Davis, California." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.13856)]
+[[code](https://github.com/MohammadrezaNarimaniUCDavis/Davis_Urban_Canopy_GeoAI)]
+[[dataset](https://doi.org/10.5281/zenodo.21925527)]
+[2026.08]
+
 :boom:Yiwen Ren, Jianing Liu, Yingxin Wang, Kexin Zhang, Licheng Jiao, Lingling Li, Xu Liu.<br />
 "Agreement-Based Audio-Visual Segmentation:Champion Report for the MeViS-Audio Track in the 8th LSVOS Challenge." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.09475)]
