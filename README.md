@@ -372,6 +372,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**EpigraphNet:** Utsav Poudel, Rasik Bhattarai, Siddhartha Pathak, Raghavendra Ramacharna, Gaurav Jaswal.<br />
+"Zero-Shot SAM2 Segmentation and Vision Transformer-Based Recognition of Elamite Cuneiform Symbols from Degraded Tablet Images." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.18544)]
+[[code](https://github.com/r11up/sam-guided-vit)]
+[2026.08]
+
+:boom:Cesar Borja, Breck A. McCollum, Jarret E. Byrnes, Kenneth Sebens, Ana C. Murillo.<br />
+"Leveraging existing sparse point annotations for benthic imagery dense segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.17561)]
+[2026.08]
+ 
+:boom:**SSSAM:** Ruichao Hou, Boyue Xu, Tongwei Ren, Dongming Zhou, Gangshan Wu, Jinde Cao.<br />
+"S3AM: A Single-Stream SAM with Reliability-Calibrated Frequency Adapter for Multi-modal Salient Object Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.17475)]
+[[code](https://github.com/xuboyue1999/SSSAM)]
+[2026.08]
+
 :boom:**SAM-RNO:** Wang, F., Liu, Q. & Wu, G.<br />
 "Road negative obstacle segmentation via a dual-branch segment anything model with RGB-depth cross-prompting." J Supercomput (2026).
 [[paper](https://link.springer.com/article/10.1007/s11227-026-08745-6)]
