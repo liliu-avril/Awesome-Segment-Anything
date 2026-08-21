@@ -372,10 +372,25 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM2Dual:** JeongRae Kim and Changwon Lim.<br />
+"SAM2Dual: Training-Free, Dual Memory for Long-Term Video Object Segmentation." TIP (2026).
+[[paper](https://arxiv.org/abs/2608.18640)]
+[2026.08]
+ 
+:boom:**SAM2-DPT:** Steven Landgraf, Joceline Hinz, Markus Ulrich.<br />
+"A Critical Synthesis of Uncertainty Quantification and Foundation Models for Semantic Segmentation." ISPRS (2026).
+[[paper](https://arxiv.org/abs/2608.18709)]
+[2026.08]
+
 :boom:**EpigraphNet:** Utsav Poudel, Rasik Bhattarai, Siddhartha Pathak, Raghavendra Ramacharna, Gaurav Jaswal.<br />
 "Zero-Shot SAM2 Segmentation and Vision Transformer-Based Recognition of Elamite Cuneiform Symbols from Degraded Tablet Images." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.18544)]
 [[code](https://github.com/r11up/sam-guided-vit)]
+[2026.08]
+
+:boom:Ce Bian, Xusheng He, Jinrong Zhang, Canyang Wu, Xianjing Han, Jianlong Wu.<br />
+"Key-Frame Reasoning with SAM3: Third Place Solution for the MeViS-Text Track of the 8th LSVOS Challenge." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.17279)]
 [2026.08]
 
 :boom:Cesar Borja, Breck A. McCollum, Jarret E. Byrnes, Kenneth Sebens, Ana C. Murillo.<br />
