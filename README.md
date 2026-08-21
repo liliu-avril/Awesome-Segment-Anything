@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM-RNO:** Wang, F., Liu, Q. & Wu, G.<br />
+"Road negative obstacle segmentation via a dual-branch segment anything model with RGB-depth cross-prompting." J Supercomput (2026).
+[[paper](https://link.springer.com/article/10.1007/s11227-026-08745-6)]
+[2026.08]
+
 :boom:**SAM-Med2D-GeoCrop:** Wang, Tianqi and Li, Jianuo and Yang, Chenhao and Xu, Jinyi and Zhou, Mian and Dang, Kang and Zhang, Linxue.<br />
 "ROI-Focused Geometry-Aware Adaptation for Accurate Small-Structure Segmentation in Medical SAM." ICIP (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11629916)]
