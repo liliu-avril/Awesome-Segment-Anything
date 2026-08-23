@@ -4138,7 +4138,8 @@ Without Manual Labels." ArXiv (2026).
 [2026.01]
 
 
-
+#### 2025
+[Paper list 2025](https://github.com/liliu-avril/Awesome-Segment-Anything/blob/main/Paper_List/paper_list_2025.md)
 
 #### 2024
 [Paper list 2024](https://github.com/liliu-avril/Awesome-Segment-Anything/blob/main/Paper_List/paper_list_2024.md)
