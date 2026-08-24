@@ -372,6 +372,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SPARK-SAM:** Aji Mao, Zhenming Peng, Bailin Mu, Tian Pu.<br />
+"SPARK-SAM: Self-Prompt Adaptation with Response Knowledge for SAM in Infrared Small Target Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.20754)]
+[[code](https://github.com/Sakauma/SPARK-SAM)]
+[2026.08]
+ 
+:boom:**GAP-SAM:** Haozhen Yan, Siyuan Shan, Zijian Yu, Youqi Wang, Yan Hong, Jun Lan, Jianfu Zhang.<br />
+"GAP-SAM: A Global Artifact Prior for Generalizable AI-Generated Image Manipulation Localization." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.20929)]
+[2026.08]
+
 :boom:Manani, Hiren.<br />
 "From Detection to Segmentation: A Foundation Model Approach to Organoid Brightfield Image Analysis Using SAM 3." ArXiv (2026).
 [[paper](https://www.proquest.com/openview/bc6be627378a7492620e94471f278918/1?pq-origsite=gscholar&cbl=18750&diss=y)]
