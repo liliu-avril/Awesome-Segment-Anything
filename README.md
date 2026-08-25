@@ -372,6 +372,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**OptiSight:** Alperen Avan, Jordi Sanchez-Riera.<br />
+"OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.23354)]
+[[code](https://github.com/avanalperen/OptiSight-Python-Multimodal-CoT-for-Visual-Reasoning)]
+[2026.08]
+ 
+:boom:Liangtao Shi, Jinxia Xie, Xiantao Hu, Ting Liu.<br />
+"MLLM-Assisted Audio VOS: A 3rd Place Report for the MeViS-Audio Track, 8th LSVOS Challenge." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.23234)]
+[2026.08]
+
+:boom:**SAM3Dual:** JeongRae Kim, Chaehyun Kim, Changwon Lim.<br />
+"SAM3Dual: A 3rd Place Solution to the MOSEv2 Track, 8th LSVOS Challenge." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.22193)]
+[2026.08]
+
+:boom:Mingqi Gao, Sijie Li, Jungong Han.<br />
+"Competitive Memory Readout for Robust Video Object Segmentation: 2nd Place Technical Report for the MOSEv2 Track of the 8th LSVOS Challenge." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.22064)]
+[2026.08]
+ 
+:boom:**RAVP:** Salvatore Calcagno, Marco Finocchiaro, Giovanni Bellitto, Daniela Giordano, Concetto Spampinato, Federica Proietto Salanitri.<br />
+"Retrieval-Augmented Visual Prompting: Guiding Foundation Models in Two-Photon Imaging." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.21970)]
+[2026.08]
+
 :boom:**SPARK-SAM:** Aji Mao, Zhenming Peng, Bailin Mu, Tian Pu.<br />
 "SPARK-SAM: Self-Prompt Adaptation with Response Knowledge for SAM in Infrared Small Target Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.20754)]
