@@ -372,6 +372,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**HPMA:** Xinning Yao, Jingjing Wang, Jinghua Yue, Xiaoyan Luo, Fugen Zhou, Bo Liu.<br />
+"Hierarchical Prototype-Memory Adaptation of SAM for Surgical Instrument Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.24541)]
+[2026.08]
+
+:boom:**XXX:** Jiaxin Wen, Ming Yin, Lu Liu, Zeyu Fu.<br />
+"ReGround-Surg: Reliability-Guided Anchor Grounding for Referring Surgical Video Segmentation." PRCV (2026).
+[[paper](https://arxiv.org/abs/2608.24671)]
+[[code](https://github.com/JiaxinWen1/ReGround-Surg)]
+[2026.08]
+
 :boom:**OptiSight:** Alperen Avan, Jordi Sanchez-Riera.<br />
 "OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.23354)]
