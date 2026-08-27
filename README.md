@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**LiDAR-SAM2:** Jihun Kim, Hyun-Kurl Jang, Hyemin Yang, Jinnyeong Yang, Hyeokjun Kweon, Kuk-Jin Yoon.<br />
+"Bootstrapping a 4D LiDAR Annotation Tool from Video Foundation Models." ECCV Workshop(2026).
+[[paper](https://arxiv.org/abs/2608.25418)]
+[2026.08]
+
 :boom:**HPMA:** Xinning Yao, Jingjing Wang, Jinghua Yue, Xiaoyan Luo, Fugen Zhou, Bo Liu.<br />
 "Hierarchical Prototype-Memory Adaptation of SAM for Surgical Instrument Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.24541)]
