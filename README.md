@@ -377,7 +377,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2608.24541)]
 [2026.08]
 
-:boom:**XXX:** Jiaxin Wen, Ming Yin, Lu Liu, Zeyu Fu.<br />
+:boom:**ReGround-Surg:** Jiaxin Wen, Ming Yin, Lu Liu, Zeyu Fu.<br />
 "ReGround-Surg: Reliability-Guided Anchor Grounding for Referring Surgical Video Segmentation." PRCV (2026).
 [[paper](https://arxiv.org/abs/2608.24671)]
 [[code](https://github.com/JiaxinWen1/ReGround-Surg)]
