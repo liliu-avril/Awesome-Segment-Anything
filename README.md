@@ -372,6 +372,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**AffectOmni:** Yibo Wang, Rui Yang, Jisheng Dang, Bimei Wang, Yitao Wu, Pengfei Cao, Wencan Zhang, Hong Peng, Bin Hu, Tat-Seng Chua.<br />
+"AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.26193)]
+[[code](https://github.com/eliot127825-rgb/AffectOmni_nobody)]
+[2026.08]
+
+:boom:**SD-SAM 3:** Ali Lesani, Chul Min Yeum, Su-Min Kang.<br />
+"Saliency-Depth Conditioning for Zero-Shot Segmentation of Communication-Tower Components in Cluttered UAV Imagery." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.25435)]
+[2026.08]
+
 :boom:**T2S:** Kumju Jo, Heesun Jung, Sungyong Baik.<br />
 "Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator." KBS (2026).
 [[paper](https://arxiv.org/abs/2608.26624)]
