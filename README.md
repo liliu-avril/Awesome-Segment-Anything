@@ -372,6 +372,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**T2S:** Kumju Jo, Heesun Jung, Sungyong Baik.<br />
+"Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator." KBS (2026).
+[[paper](https://arxiv.org/abs/2608.26624)]
+[2026.08]
+
+:boom:**FAN-LoRA:** Ziquan Liu, Zhewei Zhu, Xuyang Shi.<br />
+"FAN-LoRA: A Fourier-Adaptive Nonlinear Low-Rank Adaptor for Medical Foundation Model Domain Adaptation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.26531)]
+[2026.08]
+
 :boom:**LiDAR-SAM2:** Jihun Kim, Hyun-Kurl Jang, Hyemin Yang, Jinnyeong Yang, Hyeokjun Kweon, Kuk-Jin Yoon.<br />
 "Bootstrapping a 4D LiDAR Annotation Tool from Video Foundation Models." ECCV Workshop(2026).
 [[paper](https://arxiv.org/abs/2608.25418)]
