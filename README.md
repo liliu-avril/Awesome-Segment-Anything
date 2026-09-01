@@ -372,182 +372,192 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**AffectOmni:** Yibo Wang, Rui Yang, Jisheng Dang, Bimei Wang, Yitao Wu, Pengfei Cao, Wencan Zhang, Hong Peng, Bin Hu, Tat-Seng Chua.<br />
+:boom:**SAM-STIR:** Hu, Xiao and Zhou, Yun and Lv, Jian and Lai, Wenjie and Jiang, Yadong.<br />
+"SAM-STIR: Detection-Guided Memory Update for SAM 3-Based Infrared Small and Tiny Object Tracking." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11664481)]
+[2026.08]
+ 
+:boom:**RASP-SAM:** Peng Zhang and Chen Liu and Zeyu Liu and Guanglei Zhang and Hongming Shan and Wenjian Wang.<br />
+"Adapting foundation models to weakly-supervised few-shot medical image segmentation via retrieval-augmented semantic prompting." Pattern Recognition (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0031320326017383)]
+[2026.08]
+
+- **AffectOmni:** Yibo Wang, Rui Yang, Jisheng Dang, Bimei Wang, Yitao Wu, Pengfei Cao, Wencan Zhang, Hong Peng, Bin Hu, Tat-Seng Chua.<br />
 "AffectOmni: RL-Verifiable People-Centric Grounded Affective Reasoning for Social and Art-Related Scenes." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.26193)]
 [[code](https://github.com/eliot127825-rgb/AffectOmni_nobody)]
 [2026.08]
 
-:boom:**SD-SAM 3:** Ali Lesani, Chul Min Yeum, Su-Min Kang.<br />
+- **SD-SAM 3:** Ali Lesani, Chul Min Yeum, Su-Min Kang.<br />
 "Saliency-Depth Conditioning for Zero-Shot Segmentation of Communication-Tower Components in Cluttered UAV Imagery." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.25435)]
 [2026.08]
 
-:boom:**T2S:** Kumju Jo, Heesun Jung, Sungyong Baik.<br />
+- **T2S:** Kumju Jo, Heesun Jung, Sungyong Baik.<br />
 "Text-to-seed generation: Training-free open-vocabulary seeded semantic segmentation via re-purposing diffusion as text-guided seed generator." KBS (2026).
 [[paper](https://arxiv.org/abs/2608.26624)]
 [2026.08]
 
-:boom:**FAN-LoRA:** Ziquan Liu, Zhewei Zhu, Xuyang Shi.<br />
+- **FAN-LoRA:** Ziquan Liu, Zhewei Zhu, Xuyang Shi.<br />
 "FAN-LoRA: A Fourier-Adaptive Nonlinear Low-Rank Adaptor for Medical Foundation Model Domain Adaptation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.26531)]
 [2026.08]
 
-:boom:**LiDAR-SAM2:** Jihun Kim, Hyun-Kurl Jang, Hyemin Yang, Jinnyeong Yang, Hyeokjun Kweon, Kuk-Jin Yoon.<br />
+- **LiDAR-SAM2:** Jihun Kim, Hyun-Kurl Jang, Hyemin Yang, Jinnyeong Yang, Hyeokjun Kweon, Kuk-Jin Yoon.<br />
 "Bootstrapping a 4D LiDAR Annotation Tool from Video Foundation Models." ECCV Workshop(2026).
 [[paper](https://arxiv.org/abs/2608.25418)]
 [2026.08]
 
-:boom:**HPMA:** Xinning Yao, Jingjing Wang, Jinghua Yue, Xiaoyan Luo, Fugen Zhou, Bo Liu.<br />
+- **HPMA:** Xinning Yao, Jingjing Wang, Jinghua Yue, Xiaoyan Luo, Fugen Zhou, Bo Liu.<br />
 "Hierarchical Prototype-Memory Adaptation of SAM for Surgical Instrument Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.24541)]
 [2026.08]
 
-:boom:**ReGround-Surg:** Jiaxin Wen, Ming Yin, Lu Liu, Zeyu Fu.<br />
+- **ReGround-Surg:** Jiaxin Wen, Ming Yin, Lu Liu, Zeyu Fu.<br />
 "ReGround-Surg: Reliability-Guided Anchor Grounding for Referring Surgical Video Segmentation." PRCV (2026).
 [[paper](https://arxiv.org/abs/2608.24671)]
 [[code](https://github.com/JiaxinWen1/ReGround-Surg)]
 [2026.08]
 
-:boom:**OptiSight:** Alperen Avan, Jordi Sanchez-Riera.<br />
+- **OptiSight:** Alperen Avan, Jordi Sanchez-Riera.<br />
 "OptiSight: Bridging Semantic Reasoning and Geometric Control for Embodied Navigation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.23354)]
 [[code](https://github.com/avanalperen/OptiSight-Python-Multimodal-CoT-for-Visual-Reasoning)]
 [2026.08]
  
-:boom:Liangtao Shi, Jinxia Xie, Xiantao Hu, Ting Liu.<br />
+- Liangtao Shi, Jinxia Xie, Xiantao Hu, Ting Liu.<br />
 "MLLM-Assisted Audio VOS: A 3rd Place Report for the MeViS-Audio Track, 8th LSVOS Challenge." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.23234)]
 [2026.08]
 
-:boom:**SAM3Dual:** JeongRae Kim, Chaehyun Kim, Changwon Lim.<br />
+- **SAM3Dual:** JeongRae Kim, Chaehyun Kim, Changwon Lim.<br />
 "SAM3Dual: A 3rd Place Solution to the MOSEv2 Track, 8th LSVOS Challenge." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.22193)]
 [2026.08]
 
-:boom:Mingqi Gao, Sijie Li, Jungong Han.<br />
+- Mingqi Gao, Sijie Li, Jungong Han.<br />
 "Competitive Memory Readout for Robust Video Object Segmentation: 2nd Place Technical Report for the MOSEv2 Track of the 8th LSVOS Challenge." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.22064)]
 [2026.08]
  
-:boom:**RAVP:** Salvatore Calcagno, Marco Finocchiaro, Giovanni Bellitto, Daniela Giordano, Concetto Spampinato, Federica Proietto Salanitri.<br />
+- **RAVP:** Salvatore Calcagno, Marco Finocchiaro, Giovanni Bellitto, Daniela Giordano, Concetto Spampinato, Federica Proietto Salanitri.<br />
 "Retrieval-Augmented Visual Prompting: Guiding Foundation Models in Two-Photon Imaging." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.21970)]
 [2026.08]
 
-:boom:**SPARK-SAM:** Aji Mao, Zhenming Peng, Bailin Mu, Tian Pu.<br />
+- **SPARK-SAM:** Aji Mao, Zhenming Peng, Bailin Mu, Tian Pu.<br />
 "SPARK-SAM: Self-Prompt Adaptation with Response Knowledge for SAM in Infrared Small Target Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.20754)]
 [[code](https://github.com/Sakauma/SPARK-SAM)]
 [2026.08]
  
-:boom:**GAP-SAM:** Haozhen Yan, Siyuan Shan, Zijian Yu, Youqi Wang, Yan Hong, Jun Lan, Jianfu Zhang.<br />
+- **GAP-SAM:** Haozhen Yan, Siyuan Shan, Zijian Yu, Youqi Wang, Yan Hong, Jun Lan, Jianfu Zhang.<br />
 "GAP-SAM: A Global Artifact Prior for Generalizable AI-Generated Image Manipulation Localization." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.20929)]
 [2026.08]
 
-:boom:Manani, Hiren.<br />
+- Manani, Hiren.<br />
 "From Detection to Segmentation: A Foundation Model Approach to Organoid Brightfield Image Analysis Using SAM 3." ArXiv (2026).
 [[paper](https://www.proquest.com/openview/bc6be627378a7492620e94471f278918/1?pq-origsite=gscholar&cbl=18750&diss=y)]
 [2026.08]
 
-:boom:**DPD-SAM:** Ma, Yize and Liang, Zhenyang and Yin, Feiyu and Song, Pengfei and Song, Junyi and Yang, Shengxiang and Wu, Guoqing and Ren, Yan and Yu, Jinhua.<br />
+- **DPD-SAM:** Ma, Yize and Liang, Zhenyang and Yin, Feiyu and Song, Pengfei and Song, Junyi and Yang, Shengxiang and Wu, Guoqing and Ren, Yan and Yu, Jinhua.<br />
 "Latent Domain-Specific Prompt-Driven SAM via Conditional Diffusion Refinement for Postoperative Glioma Segmentation." TII (2026).
 [[paper](https://doi.org/10.1109/TII.2026.3716639)]
 [2026.08]
  
-:boom:Hilla Fred and Mogens Agerbo Krogh and Britt {Bang Jensen} and Laura Ruotsalainen and Jouni Vielma and Matti Pastell.<br />
+- Hilla Fred and Mogens Agerbo Krogh and Britt {Bang Jensen} and Laura Ruotsalainen and Jouni Vielma and Matti Pastell.<br />
 "Automatic visual detection of fish in Recirculated Aquaculture Systems using the Segment Anything Model." Aquaculture (2026).
 [[paper](https://doi.org/10.1016/j.aquaculture.2026.744459)]
 [2026.08]
 
-:boom:**SNFusion:** Yang Fang and Jingjing Chen and Dahang Wan and Xianli Lang and Shuangbao Shu and Rongsheng Lu and Qianqian Wu.<br />
+- **SNFusion:** Yang Fang and Jingjing Chen and Dahang Wan and Xianli Lang and Shuangbao Shu and Rongsheng Lu and Qianqian Wu.<br />
 "SNFusion: A SAMv2-guided boundary-aware fusion framework for visible-infrared maritime vessel detection." Ocean Engineering (2026).
 [[paper](https://doi.org/10.1016/j.oceaneng.2026.127219)]
 [[code](https://github.com/Young7Sun/SNFusion)]
 [2026.08]
 
-:boom:**ACRIS-SAM2:** Jiaxiang Luo, Weiwen Chen.<br />
+- **ACRIS-SAM2:** Jiaxiang Luo, Weiwen Chen.<br />
 "ACRIS-SAM2: Attribute-driven cross-modal interaction and dual semantic prompting for few-shot segmentation." Neurocomputing (2026).
 [[paper](https://doi.org/10.1016/j.neucom.2026.134805)]
 [2026.08]
 
-:boom:**SAM2 R-CNN:** Mehdi Gharbage, Céline Teulière, Pierre Bouges & Thierry Chateau .<br />
+- **SAM2 R-CNN:** Mehdi Gharbage, Céline Teulière, Pierre Bouges & Thierry Chateau .<br />
 "SAM2 R-CNN: Transferring SAM 2 Knowledge for Data Efficient Instance Segmentation." ICPR (2026).
 [[paper](https://link.springer.com/chapter/10.1007/978-3-032-31920-3_27)]
 [[code](https://github.com/comsee-research/sam2-rcnn)]
 [2026.08]
  
-:boom:Yang, Chenzheng, Shenhua Yang, Pu Wang, Weijun Wang, and Zeyang Huang.<br />
+- Yang, Chenzheng, Shenhua Yang, Pu Wang, Weijun Wang, and Zeyang Huang.<br />
 "Constrained Boundary Enhancement for SAM 2-Based Ship Segmentation in UAV Berthing and Unberthing Videos." Applied Sciences (2026).
 [[paper](https://www.mdpi.com/2076-3417/16/15/7730)]
 [2026.08]
 
-:boom:Swapnil Biswas.<br />
+- Swapnil Biswas.<br />
 "Enhancing Skin Lesion Classification in Teledermatology via SAM-Based Segmentation and Wavelet-Based Convolutional Autoencoder." ArXiv (2026).
 [[paper](https://www.proquest.com/openview/a030812e3a877d8f96b50bebd9fc43bb/1?pq-origsite=gscholar&cbl=18750&diss=y)]
 [2026.08]
 
-:boom:**FlexiCrackNet:** Xiaoyan Jiang, et al.<br />
+- **FlexiCrackNet:** Xiaoyan Jiang, et al.<br />
 "FlexiCrackNet: A Flexible Pipeline for Lightweight Crack Segmentation with Distilled Features from SAM." ArXiv (2026).
 [[paper](https://dx.doi.org/10.2139/ssrn.7291688)]
 [[code](https://github.com/sky-visionX/FlexiCrackNet)]
 [2026.08]
  
-:boom:**EchoFlow-SAM:** Wanting Li, et al.<br />
+- **EchoFlow-SAM:** Wanting Li, et al.<br />
 "EchoFlow-SAM: Motion-guided semi-supervised segmentation for echocardiographic videos." Biomedical Signal Processing and Control (2026).
 [[paper](https://doi.org/10.1016/j.bspc.2026.111256)]
 [2026.08]
 
-:boom:Geng, Chao, Yajie Wang, Quanming Li, Zhentao Li, Xianfeng Shi, Botao Fu, Wei Li, Cheng Chen, Hong Zhang, Yukai Wang, and et al.<br />
+- Geng, Chao, Yajie Wang, Quanming Li, Zhentao Li, Xianfeng Shi, Botao Fu, Wei Li, Cheng Chen, Hong Zhang, Yukai Wang, and et al.<br />
 "Automated Detection and Segmentation of Cracks in Urban Underground Structures Based on YOLOv8-SAM2." Buildings (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S2643651526001019)]
 [2026.08]
 
-:boom:**SAM-CLIP-Thermal:** Yiyuan Lin and Chenjiao Tan and Changying Li and Yu Jiang.<br />
+- **SAM-CLIP-Thermal:** Yiyuan Lin and Chenjiao Tan and Changying Li and Yu Jiang.<br />
 "SAM-CLIP-Thermal: Leveraging large multimodal models for reliable and scalable annotation in thermal image segmentation for field plant phenotyping." Plant Phenomics (2026).
 [[paper](https://doi.org/10.1016/j.plaphe.2026.100264)]
 [[code](https://cornell.box.com/s/dh69xf84464yrc1vlws92l1tflx7qa89)]
 [2026.08]
 
-:boom:**HBF-BCER:** Ping, Shengyang, Zhijie Lin, Liliang Lin, Lei Zhao, Lisha Ye, Bangguo Wang, and Tao Wang.<br />
+- **HBF-BCER:** Ping, Shengyang, Zhijie Lin, Liliang Lin, Lei Zhao, Lisha Ye, Bangguo Wang, and Tao Wang.<br />
 "A Prompt-Preserving SAM ViT-B Adaptation Framework with Historical Branch Fusion and Soft Convolutional Expert Weighting for Medical Image Segmentation." Bioengineering (2026).
 [[paper](https://www.mdpi.com/2306-5354/13/8/914)]
 [2026.08]
 
-:boom:Puspitasari, Fachrina Dewi and Zhang, Chaoning and Mandal, Avilasha and Zheng, Sheng and Qin, Caiyan and Kim, Tae-Ho and Lee, Jewon and Wang, Guoqing and Yang, Yang and Shen, Heng Tao.<br />
+- Puspitasari, Fachrina Dewi and Zhang, Chaoning and Mandal, Avilasha and Zheng, Sheng and Qin, Caiyan and Kim, Tae-Ho and Lee, Jewon and Wang, Guoqing and Yang, Yang and Shen, Heng Tao.<br />
 "Accelerating SAM2 with Efficient Memory Attention Module via Spatiotemporal Token Pruning." TPAMI (2026).
 [[paper](https://doi.org/10.1109/TPAMI.2026.3723878)]
 [2026.08]
  
-:boom:**Token-Adaptive LoRA:** Xin Chen, Jun Yan, Zhiyu Yan, Jianwen Deng, Jiaqi Wu, Yonghong Gong, Xiaohua Jiang.<br />
+- **Token-Adaptive LoRA:** Xin Chen, Jun Yan, Zhiyu Yan, Jianwen Deng, Jiaqi Wu, Yonghong Gong, Xiaohua Jiang.<br />
 "Token-Adaptive LoRA: Enhancing Segment Anything for Remote Sensing Imagery through Parameter-Efficient Fine- Tuning." ArXiv (2026).
 [[paper](https://www.researchsquare.com/article/rs-10597532/v1)]
 [2026.08]
 
-:boom:**Zero-Click-SAM2:** Pasierb, Daniel and Wijata, Agata M. and Nalepa, Jakub.<br />
+- **Zero-Click-SAM2:** Pasierb, Daniel and Wijata, Agata M. and Nalepa, Jakub.<br />
 "Zero-Click Brain Tumor Segmentation Using Segment Anything Model 2." ICIP (2026).
 [[paper](https://doi.org/10.1109/ICIP61757.2026.11630246)]
 [[code](https://github.com/smile-research/Zero-Click-SAM2)]
 [2026.08]
 
-:boom:Bui-Tran, Quang-Khai and Nguyen, Thanh-Huy and Le, Bac and Xu, Min.<br />
+- Bui-Tran, Quang-Khai and Nguyen, Thanh-Huy and Le, Bac and Xu, Min.<br />
 "Adapting SAM Without Labels: Uncertainty-Aware Source-Free Medical Image Segmentation." ICIP (2026).
 [[paper](https://doi.org/10.1109/ICIP61757.2026.11630514)]
 [2026.08]
  
-:boom:**SAM2TC:** Cocco, Marco and Dunnhofer, Matteo and Micheloni, Christian.<br />
+- **SAM2TC:** Cocco, Marco and Dunnhofer, Matteo and Micheloni, Christian.<br />
 "Representation Compensation of SAM2 for Segmenting Objects under Transformation in Videos." ICIP (2026).
 [[paper](https://doi.org/10.1109/ICIP61757.2026.11630455)]
 [2026.08]
 
-:boom:**FE-SAM:** Gao, Feng and Pan, Zizhe and Wang, Haoting and Hua, Ruzhuang and Cao, Jingchao and Dong, Junyu and Du, Qian.<br />
+- **FE-SAM:** Gao, Feng and Pan, Zizhe and Wang, Haoting and Hua, Ruzhuang and Cao, Jingchao and Dong, Junyu and Du, Qian.<br />
 "Frequency and Edge-Guided Segment Anything Model for Remote Sensing Image Semantic Segmentation." TGRS (2026).
 [[paper](https://doi.org/10.1109/TGRS.2026.3724839)]
 [[code](https://github.com/oucailab/FE-SAM)]
 [2026.08]
 
-:boom:Sachin Dudda Nagaraju, Bendik Skarre Abrahamsen, Ashkan Moradi, Mattijs Elschot.<br />
+- Sachin Dudda Nagaraju, Bendik Skarre Abrahamsen, Ashkan Moradi, Mattijs Elschot.<br />
 "A Few Cases Are All You Need: An Empirical Study of Annotation-Efficient LoRA Fine-Tuning of MedSAM3." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.18731)]
 [2026.08]
