@@ -372,6 +372,43 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**AcrossVAM1.0:** Yafei Zhang, Nan Wu.<br />
+"AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.28491)]
+[2026.08]
+
+:boom:**OPUS:** Xiaoyan Wei, Zhimin Yao, Ruilin Yang, Wei Zhang, Yong Dai, Yi Zhang, Wei Ge.<br />
+"OPUS: A Simple yet Effective Unified Framework for Open-Vocabulary Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.30247)]
+[2026.08]
+
+:boom:Marin Maletic, Goran Vasiljevic.<br />
+"Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring." ICCAS (2026).
+[[paper](https://arxiv.org/abs/2608.28246)]
+[2026.08]
+ 
+:boom:**MemMTL:** Yangyang Xu, Haobo Yuan, Yuzhu Wang, Duo Su, Xi Ye, Yibo Yang, Jun Zhu.<br />
+"Task-State Adaptation with Prototype Memory for Multi-Task Dense Prediction." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.28078)]
+[2026.08]
+
+:boom:**MariSat:** Amir Abbes, Ines Harrabi, Lucas Justin Yirepoa Kinda, Rim Trabelsi, Adnane Cabani, Fatma Abdelkefi.<br />
+"MariSat: A Maritime Dataset for Instance Segmentation of Objects in Satellite and Aerial Images." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2608.29852)]
+[[code](https://github.com/amirabbes/P2M-Maritime-Segmentation)]
+[2026.08]
+ 
+:boom:**SAM-3D-Body:** R. James Cotton, J. D. Peiffer, Lucinda Williamson, John Leske, Georgios Pavlakos.<br />
+"Biomechanical 3D Body: Self-Supervised Distillation of Biomechanical Pose from a 3D Body Foundation Model." ECCVW (2026).
+[[paper](https://arxiv.org/abs/2608.29928)]
+[2026.08]
+
+:boom:**FoundYou:** Gabriele Trivigno, Marcos Alfaro, Claudia Cuttano, Gabriele Berton, Luis Payá, Carlo Masone.<br />
+"FoundYou: A Unified Model for Personalized Segmentation and Retrieval." ECCV (2026).
+[[paper](https://arxiv.org/abs/2608.29917)]
+[[code](https://github.com/ga1i13o/FoundYou)]
+[2026.08]
+
 :boom:**SAM-STIR:** Hu, Xiao and Zhou, Yun and Lv, Jian and Lai, Wenjie and Jiang, Yadong.<br />
 "SAM-STIR: Detection-Guided Memory Update for SAM 3-Based Infrared Small and Tiny Object Tracking." TGRS (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11664481)]
