@@ -372,6 +372,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM3-LoRA:** P. Malaisree, S. Youwai, S. Janrungautai, D. Amorndechaphon, P. Rojanavasu, W. Songkitti.<br />
+"SAM3-LoRA: Parameter-Efficient Adaptation of a Concept-Promptable Foundation Model for Multi-Class Structural Defect Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.00469)]
+[2026.09]
+
+:boom:Udo Schlegel, Shubhangi, Gabriel Dax, Sai Rahul Kaminwar, Florian Karl, Thomas Seidl.<br />
+"Vision-Language-Guided Pseudo-Labels for Unsupervised Domain Adaptation in Semantic Segmentation for Waste Sorting." ECML-PKDD(2026).
+[[paper](https://arxiv.org/abs/2609.00898)]
+[2026.09]
+
 :boom:**NeuSOGA:** Qingde Li, Qingqi Hong, Jie Tian.<br />
 "Neuro-Symbolic Geometric Abstraction (NeuSOGA): From Observations to Symbolic Mathematical Representations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.01408)]
@@ -389,7 +399,7 @@ If you find our work useful in your research, please consider citing:
 [2026.08]
 
 :boom:Marin Maletic, Goran Vasiljevic.<br />
-"Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring." ICCAS (2026).
+"Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring." ICASSP (2026).
 [[paper](https://arxiv.org/abs/2608.28246)]
 [2026.08]
  
