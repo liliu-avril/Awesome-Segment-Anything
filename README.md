@@ -372,6 +372,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**NeuSOGA:** Qingde Li, Qingqi Hong, Jie Tian.<br />
+"Neuro-Symbolic Geometric Abstraction (NeuSOGA): From Observations to Symbolic Mathematical Representations." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.01408)]
+[[code](https://github.com/QL-UoHull/NeuSOGA)]
+[2026.09]
+
 :boom:**AcrossVAM1.0:** Yafei Zhang, Nan Wu.<br />
 "AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.28491)]
