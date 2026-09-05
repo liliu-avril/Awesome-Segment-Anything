@@ -372,6 +372,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**WireSeg-32K:** Zilin Dai, Lehong Wang, Yi Yang, Xiang Fei.<br />
+"WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation." CVPRW (2026).
+[[paper](https://arxiv.org/abs/2609.03102)]
+[[code](https://deformx.github.io/)]
+[2026.09]
+
+:boom:Hailong Ning, Hao Wang, Yimeng Wang, Tao Lei, Renwei Dian, Asoke K. Nandi.<br />
+"Progressive Pseudo-Label Optimization for Point-Supervised Change Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.02171)]
+[2026.09]
+ 
+:boom:**FreNet:** Yinan Liu, Jiankang Hong, Zhen Gao, Ye Lu.<br />
+"Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.03535)]
+[2026.09]
+
+:boom:**ENEAS:** Javier del Pino, Salvador Rodríguez, Alejandro Garabito, Javier Álvarez, Chema Garabito.<br/>
+"ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.03756)]
+[[code](https://github.com/speridlabs/eneas)]
+[2026.09]
+
 :boom:**SAM3-LoRA:** P. Malaisree, S. Youwai, S. Janrungautai, D. Amorndechaphon, P. Rojanavasu, W. Songkitti.<br />
 "SAM3-LoRA: Parameter-Efficient Adaptation of a Concept-Promptable Foundation Model for Multi-Class Structural Defect Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.00469)]
