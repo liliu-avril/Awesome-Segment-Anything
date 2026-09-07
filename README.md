@@ -461,6 +461,11 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://www.iaeng.org/IJCS/issues_v53/issue_9/IJCS_53_9_38.pdf)]
 [2026.09]
 
+:boom:**CLON:** Seojin Ji, Yoojin Kwon, Hyung-Sin Kim.<br />
+"CLON: Cue-Calibrated Linguistic Object Onboarding for Zero-Shot 6D Pose Front-Ends." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.04784)]
+[2026.09]
+
 - **WireSeg-32K:** Zilin Dai, Lehong Wang, Yi Yang, Xiang Fei.<br />
 "WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation." CVPRW (2026).
 [[paper](https://arxiv.org/abs/2609.03102)]
