@@ -372,87 +372,176 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**WireSeg-32K:** Zilin Dai, Lehong Wang, Yi Yang, Xiang Fei.<br />
+:boom:Hesham, S.A.S., Liu, Y., Sun, G. et al.<br />
+"Evaluating SAM2 for Video Semantic Segmentation." Mach. Intell. Res.(2026).
+[[paper](https://link.springer.com/article/10.1007/s11633-026-1638-9)]
+[2026.09]
+
+:boom:Carballo Pérez, Áurea Genoveva, Pablo Magariños-Docampo, Pedro Orgeira-Crespo, and Fernando Aguado-Agelet.<br />
+"Weakly Supervised Segmentation of Macroalgae Through Gradient Analysis in Convolutional Neural Networks and Segment Anything Model." Applied Sciences(2026).
+[[paper](https://www.mdpi.com/2076-3417/16/17/8470)]
+[2026.09]
+
+:boom:**STCM:** Dong, Wuzhou, Yulin Chen, Zhipan Wang, and Qingling Zhang.<br />
+"Semantic–Texture Complementation and Prediction-Guided SAM Fusion for Plastic Mulch Segmentation in GF-7 Imagery." Remote Sensing (2026).
+[[paper](https://doi.org/10.3390/rs18172885)]
+[2026.09]
+
+:boom:**SarSAM:** Fatih Fehmi Ş İMŞEK, Melih ALTAY, Saygin ABDIKAN.<br />
+"SarSAM: An Integrated Framework for Agricultural Field Boundary Delineation and Mapping Using High-Resolution SAR (PAZ) Imagery and the Segment Anything Model." Advances in Space Research (2026).
+[[paper](https://doi.org/10.1016/j.asr.2026.08.100)]
+[2026.09]
+ 
+:boom:**SMART:** Gao, Fang and Shi, Lei and Jin, Yan and Zheng, Hanbo and Huang, Qingbao and Yu, Jun.<br />
+"Say, Move, and Remember: Enhancing SAM2 for Referring Video Segmentation via Motion Modeling and Key Action-Aware Memory." TMM (2026).
+[[paper](https://ieeexplore.ieee.org/document/11672817/)]
+[[code](https://github.com/GXU-LIPE/SMART)]
+[2026.09]
+
+:boom:**TeF-SAM:** Jinxin Liang, Xiaoming Liu, Zhiyuan Zang, Xin Wang, Yicheng Qi, Xiang Li.<br />
+"TeF-SAM: Prototype memory for medical lesion segmentation with text-free inference." Computerized Medical Imaging and Graphics (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0895611126001199)]
+[[code](https://github.com/Jinxinya2/TeF-SAM)]
+[2026.09]
+
+:boom:**FastSAM-GAL:** Zhu, Zhifu and Yuan, Xiping and Gan, Shu and Luo, Weidong and Chen, Cheng and Li, Xuan.<br />
+"FastSAM Guided Adversarial Learning for Unsupervised Multimodal Remote Sensing Change Detection." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/document/11668965/)]
+[2026.09]
+ 
+:boom:**A2SAM:** Yong Chen and Renyi Chen and Qingbo Kang and Rui Wang and He Lyu and Zekun Jiang and Hongqiu Wang and Huan Song and Kang Li.<br />
+"Informativeness-driven active adaptation of SAM: Structural prompts and contrastive parameter selection for medical tubular segmentation." MIA (2026).
+[[paper](https://doi.org/10.1016/j.media.2026.104285)]
+[[code](https://github.com/YongChen-Exact/A2SAM)]
+[2026.09]
+
+:boom:Yuxiang Huang, et al.<br />
+"Automated Zero-Shot Video Segmentation of Indoor Walls via SAM2 with Pretrained Semantic Prompts." Construction Research Congress(2026).
+[[paper](https://ascelibrary.org/doi/abs/10.1061/9780784486962.058)]
+[2026.09]
+
+:boom:**SAM3TGNet:** Zhang, Jiayin, Nan Mo, Gege Ma, and Bangyan Tang.<br />
+"SAM3TGNet: A SAM3 Feature Encoding and Global Context Spatiotemporal Attention-Enhanced Change Detection Method for Optical Remote Sensing Images." Sensors (2026).
+[[paper](https://www.mdpi.com/1424-8220/26/17/5469)]
+[2026.09]
+ 
+:boom:**SAM-AUT:** Amir-M. Naddaf-Sh, Vinay S Baburao, Hassan Zargarzadeh.<br />
+"SAM for Weld Defect Detection in Ultrasonic B-Scans." ArXiv (2026).
+[[paper](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003766575-10/sam-weld-defect-detection-ultrasonic-scans-amir-naddaf-sh-vinay-baburao-hassan-zargarzadeh)]
+[[code](https://github.com/amirmohammadnsh/SAM-AUT)]
+[2026.09]
+
+:boom:**SWIFT:** Lucie Bracq, Romain Guiet, Sandra Offner, Béatrice Kunz, Gisou van der Goot & Nathalie Brandenberg.<br />
+"A Single-organoid Workflow for quantitative Imaging classiFication and Tracking (SWIFT)." Communications Biology (2026).
+[[paper](https://www.nature.com/articles/s42003-026-10768-x)]
+[2026.09]
+
+:boom:**SarSAM:** Fatih Fehmi ŞİMŞEK and Melih ALTAY and Saygin ABDIKAN.<br />
+"SarSAM: An Integrated Framework for Agricultural Field Boundary Delineation and Mapping Using High-Resolution SAR (PAZ) Imagery and the Segment Anything Model." Advances in Space Research (2026).
+[[paper](https://doi.org/10.1016/j.asr.2026.08.100)]
+[2026.09]
+ 
+:boom:**ReliSAM:** Shen Jiang and Xiaoyan Kui and Zhipeng Hu and Yangyang Shi and Ziwei Zou and Zexin Ji and Zeru Hai and Qinsong Li and Zuheng Ming and Haodong Xu and Beiji Zou.<br />
+"Reliability-guided dual-view learning with SAM distillation for semi-supervised medical image segmentation." Expert Systems with Applications (2026).
+[[paper](https://doi.org/10.1016/j.eswa.2026.134128)]
+[2026.09]
+
+:boom:**SAMLoRA:** Wang, Xuewu, Wenlu Zhao, Cai Wang, Xu Chen, Yan Xu, Zuoman Zhang, Xirui Qiao, Bing Cao, Huifang Wang, and Hao Liu.<br />
+"High-Resolution Mapping and Spatial Pattern Analysis of Areca Palm Plantations in Sanya, China, Using SAMLoRA." Forests (2026).
+[[paper](https://doi.org/10.3390/f17091031)]
+[2026.09]
+
+:boom: Kai Zhao and Chenchen Kang and Suzy Rogiers and Oula Ghannoum and Yi Guo.<br />
+"Adapting SAM3 for 3D fruit counting with cross-view contrastive learning and Hough voting." Computers and Electronics in Agriculture (2026).
+[[paper](https://www.sciencedirect.com/science/article/pii/S0168169926009233)]
+[2026.09]
+ 
+:boom:** SAM-FSYOLO:** Zhongyi Wang, Luohua Zhang, Changning Wei, Richu Jin, Dongjun Zhang, Tijun Bie, and Yonghui Yang.<br />
+"SAM-FSYOLO: An Integrated Framework for Miniature Covert Imaging Device Detection in Hotel Environments." ArXiv (2026).
+[[paper](https://www.iaeng.org/IJCS/issues_v53/issue_9/IJCS_53_9_38.pdf)]
+[2026.09]
+
+- **WireSeg-32K:** Zilin Dai, Lehong Wang, Yi Yang, Xiang Fei.<br />
 "WireSeg-32K: A Physics-Grounded Synthetic Dataset for Wire Instance Segmentation." CVPRW (2026).
 [[paper](https://arxiv.org/abs/2609.03102)]
 [[code](https://deformx.github.io/)]
 [2026.09]
 
-:boom:Hailong Ning, Hao Wang, Yimeng Wang, Tao Lei, Renwei Dian, Asoke K. Nandi.<br />
+- Hailong Ning, Hao Wang, Yimeng Wang, Tao Lei, Renwei Dian, Asoke K. Nandi.<br />
 "Progressive Pseudo-Label Optimization for Point-Supervised Change Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.02171)]
 [2026.09]
  
-:boom:**FreNet:** Yinan Liu, Jiankang Hong, Zhen Gao, Ye Lu.<br />
+- **FreNet:** Yinan Liu, Jiankang Hong, Zhen Gao, Ye Lu.<br />
 "Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.03535)]
 [2026.09]
 
-:boom:**ENEAS:** Javier del Pino, Salvador Rodríguez, Alejandro Garabito, Javier Álvarez, Chema Garabito.<br/>
+- **ENEAS:** Javier del Pino, Salvador Rodríguez, Alejandro Garabito, Javier Álvarez, Chema Garabito.<br/>
 "ENEAS: Embedding-guided Neural Ensemble for Adaptive Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.03756)]
 [[code](https://github.com/speridlabs/eneas)]
 [2026.09]
 
-:boom:**SAM3-LoRA:** P. Malaisree, S. Youwai, S. Janrungautai, D. Amorndechaphon, P. Rojanavasu, W. Songkitti.<br />
+- **SAM3-LoRA:** P. Malaisree, S. Youwai, S. Janrungautai, D. Amorndechaphon, P. Rojanavasu, W. Songkitti.<br />
 "SAM3-LoRA: Parameter-Efficient Adaptation of a Concept-Promptable Foundation Model for Multi-Class Structural Defect Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.00469)]
 [2026.09]
 
-:boom:Udo Schlegel, Shubhangi, Gabriel Dax, Sai Rahul Kaminwar, Florian Karl, Thomas Seidl.<br />
+- Udo Schlegel, Shubhangi, Gabriel Dax, Sai Rahul Kaminwar, Florian Karl, Thomas Seidl.<br />
 "Vision-Language-Guided Pseudo-Labels for Unsupervised Domain Adaptation in Semantic Segmentation for Waste Sorting." ECML-PKDD(2026).
 [[paper](https://arxiv.org/abs/2609.00898)]
 [2026.09]
 
-:boom:**NeuSOGA:** Qingde Li, Qingqi Hong, Jie Tian.<br />
+- **NeuSOGA:** Qingde Li, Qingqi Hong, Jie Tian.<br />
 "Neuro-Symbolic Geometric Abstraction (NeuSOGA): From Observations to Symbolic Mathematical Representations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.01408)]
 [[code](https://github.com/QL-UoHull/NeuSOGA)]
 [2026.09]
 
-:boom:**AcrossVAM1.0:** Yafei Zhang, Nan Wu.<br />
+- **AcrossVAM1.0:** Yafei Zhang, Nan Wu.<br />
 "AcrossVAM1.0: Particle World Modeling for Text-Assisted Robot Video Prediction." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.28491)]
 [2026.08]
 
-:boom:**OPUS:** Xiaoyan Wei, Zhimin Yao, Ruilin Yang, Wei Zhang, Yong Dai, Yi Zhang, Wei Ge.<br />
+- **OPUS:** Xiaoyan Wei, Zhimin Yao, Ruilin Yang, Wei Zhang, Yong Dai, Yi Zhang, Wei Ge.<br />
 "OPUS: A Simple yet Effective Unified Framework for Open-Vocabulary Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.30247)]
 [2026.08]
 
-:boom:Marin Maletic, Goran Vasiljevic.<br />
+- Marin Maletic, Goran Vasiljevic.<br />
 "Training-free Suction Grasp Detection for Deformed Aseptic Cartons Using Vision-Language Models and Geometric Surface Scoring." ICASSP (2026).
 [[paper](https://arxiv.org/abs/2608.28246)]
 [2026.08]
  
-:boom:**MemMTL:** Yangyang Xu, Haobo Yuan, Yuzhu Wang, Duo Su, Xi Ye, Yibo Yang, Jun Zhu.<br />
+- **MemMTL:** Yangyang Xu, Haobo Yuan, Yuzhu Wang, Duo Su, Xi Ye, Yibo Yang, Jun Zhu.<br />
 "Task-State Adaptation with Prototype Memory for Multi-Task Dense Prediction." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.28078)]
 [2026.08]
 
-:boom:**MariSat:** Amir Abbes, Ines Harrabi, Lucas Justin Yirepoa Kinda, Rim Trabelsi, Adnane Cabani, Fatma Abdelkefi.<br />
+- **MariSat:** Amir Abbes, Ines Harrabi, Lucas Justin Yirepoa Kinda, Rim Trabelsi, Adnane Cabani, Fatma Abdelkefi.<br />
 "MariSat: A Maritime Dataset for Instance Segmentation of Objects in Satellite and Aerial Images." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2608.29852)]
 [[code](https://github.com/amirabbes/P2M-Maritime-Segmentation)]
 [2026.08]
  
-:boom:**SAM-3D-Body:** R. James Cotton, J. D. Peiffer, Lucinda Williamson, John Leske, Georgios Pavlakos.<br />
+- **SAM-3D-Body:** R. James Cotton, J. D. Peiffer, Lucinda Williamson, John Leske, Georgios Pavlakos.<br />
 "Biomechanical 3D Body: Self-Supervised Distillation of Biomechanical Pose from a 3D Body Foundation Model." ECCVW (2026).
 [[paper](https://arxiv.org/abs/2608.29928)]
 [2026.08]
 
-:boom:**FoundYou:** Gabriele Trivigno, Marcos Alfaro, Claudia Cuttano, Gabriele Berton, Luis Payá, Carlo Masone.<br />
+- **FoundYou:** Gabriele Trivigno, Marcos Alfaro, Claudia Cuttano, Gabriele Berton, Luis Payá, Carlo Masone.<br />
 "FoundYou: A Unified Model for Personalized Segmentation and Retrieval." ECCV (2026).
 [[paper](https://arxiv.org/abs/2608.29917)]
 [[code](https://github.com/ga1i13o/FoundYou)]
 [2026.08]
 
-:boom:**SAM-STIR:** Hu, Xiao and Zhou, Yun and Lv, Jian and Lai, Wenjie and Jiang, Yadong.<br />
+- **SAM-STIR:** Hu, Xiao and Zhou, Yun and Lv, Jian and Lai, Wenjie and Jiang, Yadong.<br />
 "SAM-STIR: Detection-Guided Memory Update for SAM 3-Based Infrared Small and Tiny Object Tracking." TGRS (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11664481)]
 [2026.08]
  
-:boom:**RASP-SAM:** Peng Zhang and Chen Liu and Zeyu Liu and Guanglei Zhang and Hongming Shan and Wenjian Wang.<br />
+- **RASP-SAM:** Peng Zhang and Chen Liu and Zeyu Liu and Guanglei Zhang and Hongming Shan and Wenjian Wang.<br />
 "Adapting foundation models to weakly-supervised few-shot medical image segmentation via retrieval-augmented semantic prompting." Pattern Recognition (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0031320326017383)]
 [2026.08]
