@@ -372,6 +372,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**MorphoOrgaAgent:** Hanyi Zhang, Maximilian Hoermann, Lion J. Gleiter, Yiling Xu, Bettina Katalin Budai, Hans-Ulrich Kauczor, Carsten Marr, Tingying Peng.<br />
+"MorphoOrgaAgent: A Foundation-Model-Based Multi-Agent System for Autonomous Organoid Analysis." MICCAI workshop (2026).
+[[paper](https://arxiv.org/abs/2609.08696)]
+[[code](https://github.com/peng-lab/MorphoOrgaAgent)]
+[2026.09]
+
+:boom:**SAM3-O2D2:** Lucas Görnhardt, Timo Bartels, Tim Fingscheidt.<br />
+"SAM3-O2D2: Zero-Shot Object Out-of-Distribution Detection by Object Class Prompting of the SAM3-Image Model." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.08281)]
+[2026.09]
+
+:boom:**MR-RS-SDFR:** Quanxin Zheng, Shuai Zhao.<br />
+"MRI-Guided Reslice-Refined Cross-Slice SDF Reconstruction of the Left Ventricle from Cardiac MRI with Sparse Axial Supervision." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.08148)]
+[2026.09]
+
+:boom:Andreas Gilson, Laura Hennig, Peter Pietrzyk.<br />
+"Zero-Shot 3D Plant Organ Segmentation with SAM3 and Semantic NeRFs." ECCVW (2026).
+[[paper](https://arxiv.org/abs/2609.07724)]
+[2026.09]
+
+:boom:**CoRe-SAM3:** Shipeng Liu, Liang Zhao, Dengfeng Chen.<br />
+"CoRe-SAM3: Conditional Semantic--Visual Reconciliation for SAM3 Crack Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.05816)]
+[[code](https://github.com/xauat-liushipeng/CoRe-SAM3)]
+[2026.09]
+
 :boom:**DriveZero:** Hao He, Chengcheng Hu, Zirun Su, Heng Zhang, Haisong Liu, Jinke Li, Haochen Tian, Zhenwei Shen, Hongyang Li, Zhichao Li, Yunchen Yang, Bochao Huang, Siyu Zhang, Kuangye Chen, Xiongjie Zhang, Wentao Dai, Hengchen Dai, Siyuan Liu, Zehao Huang, Naiyan Wang.<br />
 "DriveZero: End-to-End Driving Beyond Human Demonstrations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.06055)]
