@@ -372,6 +372,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**DriveZero:** Hao He, Chengcheng Hu, Zirun Su, Heng Zhang, Haisong Liu, Jinke Li, Haochen Tian, Zhenwei Shen, Hongyang Li, Zhichao Li, Yunchen Yang, Bochao Huang, Siyu Zhang, Kuangye Chen, Xiongjie Zhang, Wentao Dai, Hengchen Dai, Siyuan Liu, Zehao Huang, Naiyan Wang.<br />
+"DriveZero: End-to-End Driving Beyond Human Demonstrations." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.06055)]
+[[code](https://xiaomiautol3.github.io/DriveZero)]
+[2026.09]
+
+:boom:**CrACK:** Feifei Liu, Jintao Cheng, Chi Man Vong, Xiaoyu Tang.<br />
+"CrACK: Adversarial Attacks on Cross-Model Consistency in Collaborative Vision Foundation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.07499)]
+[2026.09]
+
+:boom:**SAM-Radar:** Jue Wang, Xuan Wang, Hao Zhou, Ruixiang Zhou, Yixuan Zhou, Tianshuo Yuan, Jieming Ma, Jie Zhang, Fei Luo.<br />
+"Segment Any Motion with Radar: Robust Multimodal Moving-Object Segmentation and Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.08346)]
+[2026.09]
+
+:boom:**SeGDeP:** Linnan Zhao, Xu Liu, Lingling Li, Licheng Jiao, Fang Liu, Wenping Ma.<br />
+"SeGDeP: Semantic- and Geometric-Aware Decoupled Prompts for Reasoning Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.08867)]
+[2026.09]
+
+:boom:**Diffuse2Seg:** Christoph Hümmer, Joachim Sicking, Fabian Hüger, Hanno Gottschalk.<br />
+"Diffuse2Seg: Diffusion Models Can Segment Anything Without Supervision." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.06491)]
+[2026.09]
+
 :boom:Hesham, S.A.S., Liu, Y., Sun, G. et al.<br />
 "Evaluating SAM2 for Video Semantic Segmentation." Mach. Intell. Res.(2026).
 [[paper](https://link.springer.com/article/10.1007/s11633-026-1638-9)]
@@ -456,7 +482,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://www.sciencedirect.com/science/article/pii/S0168169926009233)]
 [2026.09]
  
-:boom:** SAM-FSYOLO:** Zhongyi Wang, Luohua Zhang, Changning Wei, Richu Jin, Dongjun Zhang, Tijun Bie, and Yonghui Yang.<br />
+:boom:**SAM-FSYOLO:** Zhongyi Wang, Luohua Zhang, Changning Wei, Richu Jin, Dongjun Zhang, Tijun Bie, and Yonghui Yang.<br />
 "SAM-FSYOLO: An Integrated Framework for Miniature Covert Imaging Device Detection in Hotel Environments." ArXiv (2026).
 [[paper](https://www.iaeng.org/IJCS/issues_v53/issue_9/IJCS_53_9_38.pdf)]
 [2026.09]
