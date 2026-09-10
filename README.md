@@ -372,6 +372,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**LeCor:** Yi Luo, Yike Guo, Wenxuan Li, Zongwei Zhou, Rui Zhang, Kai Ding.<br />
+"LeCor: Learning to Be Corrected by Meta-Learned Test-Time Training for Interactive 3D Lung-Tumour Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.09477)]
+[2026.09]
+
+:boom:**Guided SAM 3D:** Jerred Chen, Simon Weber, Ronald Clark.<br />
+"Guiding Image-to-3D Generation with Test-Time Partial Observations." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.10531)]
+[2026.09]
+
 :boom:**PBP-SAM:** Liangchao Chen, Guanying Huo, Weifeng Kong, Ziheng Cao, and Jiaying Chen.<br />
 "PBP-SAM: polarization-driven boundary prompt SAM for camouflaged object detection." Applied Optics (2026).
 [[paper](https://opg.optica.org/ao/viewmedia.cfm?uri=ao-65-26-9102&seq=0)]
