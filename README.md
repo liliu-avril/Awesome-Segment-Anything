@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**PBP-SAM:** Liangchao Chen, Guanying Huo, Weifeng Kong, Ziheng Cao, and Jiaying Chen.<br />
+"PBP-SAM: polarization-driven boundary prompt SAM for camouflaged object detection." Applied Optics (2026).
+[[paper](https://opg.optica.org/ao/viewmedia.cfm?uri=ao-65-26-9102&seq=0)]
+[2026.09]
+
 :boom:**LSVOS:** Chang Liu, Henghui Ding, Lingyi Hong, Ning Xu, Linjie Yang, Yuchen Fan, Canyang Wu, Jinrong Zhang, Xusheng He, Ce Bian, Xianjing Han, Jianlong Wu, Mingqi Gao, Sijie Li, Jungong Han, JeongRae Kim, Chaehyun Kim, Changwon Lim, Jungyoon Lee, Gyuil Lim, Doeon Kim, Seong-heum Kim, Pranjal Aggarwal, Sean Welleck, Yiwen Ren, Jianing Liu, Yingxin Wang, Kexin Zhang, Licheng Jiao, Lingling Li, Xu Liu, Jinxing Zhou, Suiyi Zhao, Yanghao Zhou, Ruohao Guo, Liangtao Shi, Jinxia Xie, Xiantao Hu, Ting Liu.<br />
 "Report of the 8th LSVOS Challenge: Complex and Multimodal Video Object Segmentation." ECCVW (2026).
 [[paper](https://arxiv.org/abs/2609.06078)]
