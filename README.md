@@ -372,6 +372,26 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAMV-DUSt3R:** Langxu Zhao, Zuan Gu, Yingdan Zhang, Pengfei Zhao, Tianhan Gao.<br />
+"SAMV-DUSt3R: Instance-Centric 3D Scene Decoupling from Sparse Multi-Views." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.11279)]
+[2026.09]
+
+:boom:**DINO-Med:** Boya Wang, Ruizhe Li, Chao Chen, Xin Chen.<br />
+"DINO-Med: A Unified Patch-Based Adaptation Framework for Multi-Modal Medical Image Analysis Applied to Liver Fibrosis Staging." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.11380)]
+[2026.09]
+
+:boom:**BruNet:** Qiming Wang, Richard J. Motley, Ebube E. Obi, Xianfang Sun, Paul L. Rosin.<br />
+"BruNet: A Cross-Domain Transfer Framework for Bruise Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.11463)]
+[2026.09]
+
+:boom:**DiSECT:** Ramtin Mojtahedi, Mohammad Hamghalam, Jacob J. Peoples, Natalie Gangai, Mithat Gonen, Yun Shin Chun, HyunSeon Christine Kang, Richard K. G. Do, Amber L. Simpson.<br />
+"Spectral Adapters for Segment Anything Model-based Segmentation of Colorectal Liver Metastases in Computed Tomography." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.11703)]
+[2026.09]
+
 :boom:**LeCor:** Yi Luo, Yike Guo, Wenxuan Li, Zongwei Zhou, Rui Zhang, Kai Ding.<br />
 "LeCor: Learning to Be Corrected by Meta-Learned Test-Time Training for Interactive 3D Lung-Tumour Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.09477)]
