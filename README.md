@@ -389,6 +389,11 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/Aazzz66/MIESAM)]
 [2026.09]
 
+:boom:Silas Kwabla Gah, Ebenezer Owusu.<br />
+"Beyond Argmax: A Mechanistic Study of Semantic Retention in Frozen Foundation-Model Composition for Generalized Few-Shot 3D Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.12099)]
+[2026.09]
+
 - **SAMV-DUSt3R:** Langxu Zhao, Zuan Gu, Yingdan Zhang, Pengfei Zhao, Tianhan Gao.<br />
 "SAMV-DUSt3R: Instance-Centric 3D Scene Decoupling from Sparse Multi-Views." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.11279)]
