@@ -585,6 +585,7 @@ If you find our work useful in your research, please consider citing:
 - **SAM3-LoRA:** P. Malaisree, S. Youwai, S. Janrungautai, D. Amorndechaphon, P. Rojanavasu, W. Songkitti.<br />
 "SAM3-LoRA: Parameter-Efficient Adaptation of a Concept-Promptable Foundation Model for Multi-Class Structural Defect Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.00469)]
+[[code](https://github.com/Sompote/sam3_lora)]
 [2026.09]
 
 - Udo Schlegel, Shubhangi, Gabriel Dax, Sai Rahul Kaminwar, Florian Karl, Thomas Seidl.<br />
