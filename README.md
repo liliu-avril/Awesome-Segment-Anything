@@ -372,190 +372,207 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**SAMV-DUSt3R:** Langxu Zhao, Zuan Gu, Yingdan Zhang, Pengfei Zhao, Tianhan Gao.<br />
+:boom:**WorldMem:** Aditi Tiwari, Akshit Bhalla, Darshan Prasad, Heng Ji.<br />
+"Does Video Memory Use What It Retrieves? A Causal Audit of Memory Specificity." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.12090)]
+[2026.09]
+
+:boom:**ResoSeg:** Chunkai Li, Junhao Yin, Ke Li, Jingde Chen.<br />
+"ResoSeg: Resonance Tagger using Transformer and Segment Model." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.12610)]
+[[code](https://github.com/oashen/ResoSeg)]
+[2026.09]
+
+:boom:**MIE-SAM:** Ze Li, Ying Ying Zhang, Shuai Zhang, Zhi Peng Wang.<br />
+"Multi-modal interaction enhanced segment anything model (MIE-SAM) for RGB-T salient object detection." Neural Networks (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0893608026010439)]
+[[code](https://github.com/Aazzz66/MIESAM)]
+[2026.09]
+
+- **SAMV-DUSt3R:** Langxu Zhao, Zuan Gu, Yingdan Zhang, Pengfei Zhao, Tianhan Gao.<br />
 "SAMV-DUSt3R: Instance-Centric 3D Scene Decoupling from Sparse Multi-Views." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.11279)]
 [2026.09]
 
-:boom:**DINO-Med:** Boya Wang, Ruizhe Li, Chao Chen, Xin Chen.<br />
+- **DINO-Med:** Boya Wang, Ruizhe Li, Chao Chen, Xin Chen.<br />
 "DINO-Med: A Unified Patch-Based Adaptation Framework for Multi-Modal Medical Image Analysis Applied to Liver Fibrosis Staging." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.11380)]
 [2026.09]
 
-:boom:**BruNet:** Qiming Wang, Richard J. Motley, Ebube E. Obi, Xianfang Sun, Paul L. Rosin.<br />
+- **BruNet:** Qiming Wang, Richard J. Motley, Ebube E. Obi, Xianfang Sun, Paul L. Rosin.<br />
 "BruNet: A Cross-Domain Transfer Framework for Bruise Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.11463)]
 [2026.09]
 
-:boom:**DiSECT:** Ramtin Mojtahedi, Mohammad Hamghalam, Jacob J. Peoples, Natalie Gangai, Mithat Gonen, Yun Shin Chun, HyunSeon Christine Kang, Richard K. G. Do, Amber L. Simpson.<br />
+- **DiSECT:** Ramtin Mojtahedi, Mohammad Hamghalam, Jacob J. Peoples, Natalie Gangai, Mithat Gonen, Yun Shin Chun, HyunSeon Christine Kang, Richard K. G. Do, Amber L. Simpson.<br />
 "Spectral Adapters for Segment Anything Model-based Segmentation of Colorectal Liver Metastases in Computed Tomography." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.11703)]
 [2026.09]
 
-:boom:**LeCor:** Yi Luo, Yike Guo, Wenxuan Li, Zongwei Zhou, Rui Zhang, Kai Ding.<br />
+- **LeCor:** Yi Luo, Yike Guo, Wenxuan Li, Zongwei Zhou, Rui Zhang, Kai Ding.<br />
 "LeCor: Learning to Be Corrected by Meta-Learned Test-Time Training for Interactive 3D Lung-Tumour Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.09477)]
 [2026.09]
 
-:boom:**Guided SAM 3D:** Jerred Chen, Simon Weber, Ronald Clark.<br />
+- **Guided SAM 3D:** Jerred Chen, Simon Weber, Ronald Clark.<br />
 "Guiding Image-to-3D Generation with Test-Time Partial Observations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.10531)]
 [2026.09]
 
-:boom:**PBP-SAM:** Liangchao Chen, Guanying Huo, Weifeng Kong, Ziheng Cao, and Jiaying Chen.<br />
+- **PBP-SAM:** Liangchao Chen, Guanying Huo, Weifeng Kong, Ziheng Cao, and Jiaying Chen.<br />
 "PBP-SAM: polarization-driven boundary prompt SAM for camouflaged object detection." Applied Optics (2026).
 [[paper](https://opg.optica.org/ao/viewmedia.cfm?uri=ao-65-26-9102&seq=0)]
 [2026.09]
 
-:boom:**LSVOS:** Chang Liu, Henghui Ding, Lingyi Hong, Ning Xu, Linjie Yang, Yuchen Fan, Canyang Wu, Jinrong Zhang, Xusheng He, Ce Bian, Xianjing Han, Jianlong Wu, Mingqi Gao, Sijie Li, Jungong Han, JeongRae Kim, Chaehyun Kim, Changwon Lim, Jungyoon Lee, Gyuil Lim, Doeon Kim, Seong-heum Kim, Pranjal Aggarwal, Sean Welleck, Yiwen Ren, Jianing Liu, Yingxin Wang, Kexin Zhang, Licheng Jiao, Lingling Li, Xu Liu, Jinxing Zhou, Suiyi Zhao, Yanghao Zhou, Ruohao Guo, Liangtao Shi, Jinxia Xie, Xiantao Hu, Ting Liu.<br />
+- **LSVOS:** Chang Liu, Henghui Ding, Lingyi Hong, Ning Xu, Linjie Yang, Yuchen Fan, Canyang Wu, Jinrong Zhang, Xusheng He, Ce Bian, Xianjing Han, Jianlong Wu, Mingqi Gao, Sijie Li, Jungong Han, JeongRae Kim, Chaehyun Kim, Changwon Lim, Jungyoon Lee, Gyuil Lim, Doeon Kim, Seong-heum Kim, Pranjal Aggarwal, Sean Welleck, Yiwen Ren, Jianing Liu, Yingxin Wang, Kexin Zhang, Licheng Jiao, Lingling Li, Xu Liu, Jinxing Zhou, Suiyi Zhao, Yanghao Zhou, Ruohao Guo, Liangtao Shi, Jinxia Xie, Xiantao Hu, Ting Liu.<br />
 "Report of the 8th LSVOS Challenge: Complex and Multimodal Video Object Segmentation." ECCVW (2026).
 [[paper](https://arxiv.org/abs/2609.06078)]
 [[code](https://lsvos.github.io/)]
 [2026.09]
 
-:boom:**MorphoOrgaAgent:** Hanyi Zhang, Maximilian Hoermann, Lion J. Gleiter, Yiling Xu, Bettina Katalin Budai, Hans-Ulrich Kauczor, Carsten Marr, Tingying Peng.<br />
+- **MorphoOrgaAgent:** Hanyi Zhang, Maximilian Hoermann, Lion J. Gleiter, Yiling Xu, Bettina Katalin Budai, Hans-Ulrich Kauczor, Carsten Marr, Tingying Peng.<br />
 "MorphoOrgaAgent: A Foundation-Model-Based Multi-Agent System for Autonomous Organoid Analysis." MICCAI workshop (2026).
 [[paper](https://arxiv.org/abs/2609.08696)]
 [[code](https://github.com/peng-lab/MorphoOrgaAgent)]
 [2026.09]
 
-:boom:**SAM3-O2D2:** Lucas Görnhardt, Timo Bartels, Tim Fingscheidt.<br />
+- **SAM3-O2D2:** Lucas Görnhardt, Timo Bartels, Tim Fingscheidt.<br />
 "SAM3-O2D2: Zero-Shot Object Out-of-Distribution Detection by Object Class Prompting of the SAM3-Image Model." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.08281)]
 [2026.09]
 
-:boom:**MR-RS-SDFR:** Quanxin Zheng, Shuai Zhao.<br />
+- **MR-RS-SDFR:** Quanxin Zheng, Shuai Zhao.<br />
 "MRI-Guided Reslice-Refined Cross-Slice SDF Reconstruction of the Left Ventricle from Cardiac MRI with Sparse Axial Supervision." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.08148)]
 [2026.09]
 
-:boom:Andreas Gilson, Laura Hennig, Peter Pietrzyk.<br />
+- Andreas Gilson, Laura Hennig, Peter Pietrzyk.<br />
 "Zero-Shot 3D Plant Organ Segmentation with SAM3 and Semantic NeRFs." ECCVW (2026).
 [[paper](https://arxiv.org/abs/2609.07724)]
 [2026.09]
 
-:boom:**CoRe-SAM3:** Shipeng Liu, Liang Zhao, Dengfeng Chen.<br />
+- **CoRe-SAM3:** Shipeng Liu, Liang Zhao, Dengfeng Chen.<br />
 "CoRe-SAM3: Conditional Semantic--Visual Reconciliation for SAM3 Crack Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.05816)]
 [[code](https://github.com/xauat-liushipeng/CoRe-SAM3)]
 [2026.09]
 
-:boom:**DriveZero:** Hao He, Chengcheng Hu, Zirun Su, Heng Zhang, Haisong Liu, Jinke Li, Haochen Tian, Zhenwei Shen, Hongyang Li, Zhichao Li, Yunchen Yang, Bochao Huang, Siyu Zhang, Kuangye Chen, Xiongjie Zhang, Wentao Dai, Hengchen Dai, Siyuan Liu, Zehao Huang, Naiyan Wang.<br />
+- **DriveZero:** Hao He, Chengcheng Hu, Zirun Su, Heng Zhang, Haisong Liu, Jinke Li, Haochen Tian, Zhenwei Shen, Hongyang Li, Zhichao Li, Yunchen Yang, Bochao Huang, Siyu Zhang, Kuangye Chen, Xiongjie Zhang, Wentao Dai, Hengchen Dai, Siyuan Liu, Zehao Huang, Naiyan Wang.<br />
 "DriveZero: End-to-End Driving Beyond Human Demonstrations." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.06055)]
 [[code](https://xiaomiautol3.github.io/DriveZero)]
 [2026.09]
 
-:boom:**CrACK:** Feifei Liu, Jintao Cheng, Chi Man Vong, Xiaoyu Tang.<br />
+- **CrACK:** Feifei Liu, Jintao Cheng, Chi Man Vong, Xiaoyu Tang.<br />
 "CrACK: Adversarial Attacks on Cross-Model Consistency in Collaborative Vision Foundation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.07499)]
 [2026.09]
 
-:boom:**SAM-Radar:** Jue Wang, Xuan Wang, Hao Zhou, Ruixiang Zhou, Yixuan Zhou, Tianshuo Yuan, Jieming Ma, Jie Zhang, Fei Luo.<br />
+- **SAM-Radar:** Jue Wang, Xuan Wang, Hao Zhou, Ruixiang Zhou, Yixuan Zhou, Tianshuo Yuan, Jieming Ma, Jie Zhang, Fei Luo.<br />
 "Segment Any Motion with Radar: Robust Multimodal Moving-Object Segmentation and Tracking." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.08346)]
 [2026.09]
 
-:boom:**SeGDeP:** Linnan Zhao, Xu Liu, Lingling Li, Licheng Jiao, Fang Liu, Wenping Ma.<br />
+- **SeGDeP:** Linnan Zhao, Xu Liu, Lingling Li, Licheng Jiao, Fang Liu, Wenping Ma.<br />
 "SeGDeP: Semantic- and Geometric-Aware Decoupled Prompts for Reasoning Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.08867)]
 [2026.09]
 
-:boom:**Diffuse2Seg:** Christoph Hümmer, Joachim Sicking, Fabian Hüger, Hanno Gottschalk.<br />
+- **Diffuse2Seg:** Christoph Hümmer, Joachim Sicking, Fabian Hüger, Hanno Gottschalk.<br />
 "Diffuse2Seg: Diffusion Models Can Segment Anything Without Supervision." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.06491)]
 [2026.09]
 
-:boom:Hesham, S.A.S., Liu, Y., Sun, G. et al.<br />
+- Hesham, S.A.S., Liu, Y., Sun, G. et al.<br />
 "Evaluating SAM2 for Video Semantic Segmentation." Mach. Intell. Res.(2026).
 [[paper](https://link.springer.com/article/10.1007/s11633-026-1638-9)]
 [2026.09]
 
-:boom:Carballo Pérez, Áurea Genoveva, Pablo Magariños-Docampo, Pedro Orgeira-Crespo, and Fernando Aguado-Agelet.<br />
+- Carballo Pérez, Áurea Genoveva, Pablo Magariños-Docampo, Pedro Orgeira-Crespo, and Fernando Aguado-Agelet.<br />
 "Weakly Supervised Segmentation of Macroalgae Through Gradient Analysis in Convolutional Neural Networks and Segment Anything Model." Applied Sciences(2026).
 [[paper](https://www.mdpi.com/2076-3417/16/17/8470)]
 [2026.09]
 
-:boom:**STCM:** Dong, Wuzhou, Yulin Chen, Zhipan Wang, and Qingling Zhang.<br />
+- **STCM:** Dong, Wuzhou, Yulin Chen, Zhipan Wang, and Qingling Zhang.<br />
 "Semantic–Texture Complementation and Prediction-Guided SAM Fusion for Plastic Mulch Segmentation in GF-7 Imagery." Remote Sensing (2026).
 [[paper](https://doi.org/10.3390/rs18172885)]
 [2026.09]
 
-:boom:**SarSAM:** Fatih Fehmi Ş İMŞEK, Melih ALTAY, Saygin ABDIKAN.<br />
+- **SarSAM:** Fatih Fehmi Ş İMŞEK, Melih ALTAY, Saygin ABDIKAN.<br />
 "SarSAM: An Integrated Framework for Agricultural Field Boundary Delineation and Mapping Using High-Resolution SAR (PAZ) Imagery and the Segment Anything Model." Advances in Space Research (2026).
 [[paper](https://doi.org/10.1016/j.asr.2026.08.100)]
 [2026.09]
  
-:boom:**SMART:** Gao, Fang and Shi, Lei and Jin, Yan and Zheng, Hanbo and Huang, Qingbao and Yu, Jun.<br />
+- **SMART:** Gao, Fang and Shi, Lei and Jin, Yan and Zheng, Hanbo and Huang, Qingbao and Yu, Jun.<br />
 "Say, Move, and Remember: Enhancing SAM2 for Referring Video Segmentation via Motion Modeling and Key Action-Aware Memory." TMM (2026).
 [[paper](https://ieeexplore.ieee.org/document/11672817/)]
 [[code](https://github.com/GXU-LIPE/SMART)]
 [2026.09]
 
-:boom:**TeF-SAM:** Jinxin Liang, Xiaoming Liu, Zhiyuan Zang, Xin Wang, Yicheng Qi, Xiang Li.<br />
+- **TeF-SAM:** Jinxin Liang, Xiaoming Liu, Zhiyuan Zang, Xin Wang, Yicheng Qi, Xiang Li.<br />
 "TeF-SAM: Prototype memory for medical lesion segmentation with text-free inference." Computerized Medical Imaging and Graphics (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0895611126001199)]
 [[code](https://github.com/Jinxinya2/TeF-SAM)]
 [2026.09]
 
-:boom:**FastSAM-GAL:** Zhu, Zhifu and Yuan, Xiping and Gan, Shu and Luo, Weidong and Chen, Cheng and Li, Xuan.<br />
+- **FastSAM-GAL:** Zhu, Zhifu and Yuan, Xiping and Gan, Shu and Luo, Weidong and Chen, Cheng and Li, Xuan.<br />
 "FastSAM Guided Adversarial Learning for Unsupervised Multimodal Remote Sensing Change Detection." TGRS (2026).
 [[paper](https://ieeexplore.ieee.org/document/11668965/)]
 [2026.09]
  
-:boom:**A2SAM:** Yong Chen and Renyi Chen and Qingbo Kang and Rui Wang and He Lyu and Zekun Jiang and Hongqiu Wang and Huan Song and Kang Li.<br />
+- **A2SAM:** Yong Chen and Renyi Chen and Qingbo Kang and Rui Wang and He Lyu and Zekun Jiang and Hongqiu Wang and Huan Song and Kang Li.<br />
 "Informativeness-driven active adaptation of SAM: Structural prompts and contrastive parameter selection for medical tubular segmentation." MIA (2026).
 [[paper](https://doi.org/10.1016/j.media.2026.104285)]
 [[code](https://github.com/YongChen-Exact/A2SAM)]
 [2026.09]
 
-:boom:Yuxiang Huang, et al.<br />
+- Yuxiang Huang, et al.<br />
 "Automated Zero-Shot Video Segmentation of Indoor Walls via SAM2 with Pretrained Semantic Prompts." Construction Research Congress(2026).
 [[paper](https://ascelibrary.org/doi/abs/10.1061/9780784486962.058)]
 [2026.09]
 
-:boom:**SAM3TGNet:** Zhang, Jiayin, Nan Mo, Gege Ma, and Bangyan Tang.<br />
+- **SAM3TGNet:** Zhang, Jiayin, Nan Mo, Gege Ma, and Bangyan Tang.<br />
 "SAM3TGNet: A SAM3 Feature Encoding and Global Context Spatiotemporal Attention-Enhanced Change Detection Method for Optical Remote Sensing Images." Sensors (2026).
 [[paper](https://www.mdpi.com/1424-8220/26/17/5469)]
 [2026.09]
  
-:boom:**SAM-AUT:** Amir-M. Naddaf-Sh, Vinay S Baburao, Hassan Zargarzadeh.<br />
+- **SAM-AUT:** Amir-M. Naddaf-Sh, Vinay S Baburao, Hassan Zargarzadeh.<br />
 "SAM for Weld Defect Detection in Ultrasonic B-Scans." ArXiv (2026).
 [[paper](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003766575-10/sam-weld-defect-detection-ultrasonic-scans-amir-naddaf-sh-vinay-baburao-hassan-zargarzadeh)]
 [[code](https://github.com/amirmohammadnsh/SAM-AUT)]
 [2026.09]
 
-:boom:**SWIFT:** Lucie Bracq, Romain Guiet, Sandra Offner, Béatrice Kunz, Gisou van der Goot & Nathalie Brandenberg.<br />
+- **SWIFT:** Lucie Bracq, Romain Guiet, Sandra Offner, Béatrice Kunz, Gisou van der Goot & Nathalie Brandenberg.<br />
 "A Single-organoid Workflow for quantitative Imaging classiFication and Tracking (SWIFT)." Communications Biology (2026).
 [[paper](https://www.nature.com/articles/s42003-026-10768-x)]
 [2026.09]
 
-:boom:**SarSAM:** Fatih Fehmi ŞİMŞEK and Melih ALTAY and Saygin ABDIKAN.<br />
+- **SarSAM:** Fatih Fehmi ŞİMŞEK and Melih ALTAY and Saygin ABDIKAN.<br />
 "SarSAM: An Integrated Framework for Agricultural Field Boundary Delineation and Mapping Using High-Resolution SAR (PAZ) Imagery and the Segment Anything Model." Advances in Space Research (2026).
 [[paper](https://doi.org/10.1016/j.asr.2026.08.100)]
 [2026.09]
  
-:boom:**ReliSAM:** Shen Jiang and Xiaoyan Kui and Zhipeng Hu and Yangyang Shi and Ziwei Zou and Zexin Ji and Zeru Hai and Qinsong Li and Zuheng Ming and Haodong Xu and Beiji Zou.<br />
+- **ReliSAM:** Shen Jiang and Xiaoyan Kui and Zhipeng Hu and Yangyang Shi and Ziwei Zou and Zexin Ji and Zeru Hai and Qinsong Li and Zuheng Ming and Haodong Xu and Beiji Zou.<br />
 "Reliability-guided dual-view learning with SAM distillation for semi-supervised medical image segmentation." Expert Systems with Applications (2026).
 [[paper](https://doi.org/10.1016/j.eswa.2026.134128)]
 [2026.09]
 
-:boom:**SAMLoRA:** Wang, Xuewu, Wenlu Zhao, Cai Wang, Xu Chen, Yan Xu, Zuoman Zhang, Xirui Qiao, Bing Cao, Huifang Wang, and Hao Liu.<br />
+- **SAMLoRA:** Wang, Xuewu, Wenlu Zhao, Cai Wang, Xu Chen, Yan Xu, Zuoman Zhang, Xirui Qiao, Bing Cao, Huifang Wang, and Hao Liu.<br />
 "High-Resolution Mapping and Spatial Pattern Analysis of Areca Palm Plantations in Sanya, China, Using SAMLoRA." Forests (2026).
 [[paper](https://doi.org/10.3390/f17091031)]
 [2026.09]
 
-:boom: Kai Zhao and Chenchen Kang and Suzy Rogiers and Oula Ghannoum and Yi Guo.<br />
+- Kai Zhao and Chenchen Kang and Suzy Rogiers and Oula Ghannoum and Yi Guo.<br />
 "Adapting SAM3 for 3D fruit counting with cross-view contrastive learning and Hough voting." Computers and Electronics in Agriculture (2026).
 [[paper](https://www.sciencedirect.com/science/article/pii/S0168169926009233)]
 [2026.09]
  
-:boom:**SAM-FSYOLO:** Zhongyi Wang, Luohua Zhang, Changning Wei, Richu Jin, Dongjun Zhang, Tijun Bie, and Yonghui Yang.<br />
+- **SAM-FSYOLO:** Zhongyi Wang, Luohua Zhang, Changning Wei, Richu Jin, Dongjun Zhang, Tijun Bie, and Yonghui Yang.<br />
 "SAM-FSYOLO: An Integrated Framework for Miniature Covert Imaging Device Detection in Hotel Environments." ArXiv (2026).
 [[paper](https://www.iaeng.org/IJCS/issues_v53/issue_9/IJCS_53_9_38.pdf)]
 [2026.09]
 
-:boom:**CLON:** Seojin Ji, Yoojin Kwon, Hyung-Sin Kim.<br />
+- **CLON:** Seojin Ji, Yoojin Kwon, Hyung-Sin Kim.<br />
 "CLON: Cue-Calibrated Linguistic Object Onboarding for Zero-Shot 6D Pose Front-Ends." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.04784)]
 [2026.09]
