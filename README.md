@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ViCo-SAM3:** Qiangqiang Zhou, Wenjun Tang, Yong Chen, Dandan Zhu, Jiawei Xu.<br />
+"ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.15418)]
+[2026.09]
+
 :boom:**PEFT-SAM-Liver-CT:** Ramtin Mojtahedi, Mohammad Hamghalam, Jacob J. Peoples, Richard K. G. Do, Amber L. Simpson.<br />
 "Parameter-Efficient Fine-Tuning of Foundation Models for Liver Tumor Segmentation in CT." SPIE Medical Imaging(2026).
 [[paper](https://arxiv.org/abs/2609.14106)]
