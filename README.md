@@ -372,6 +372,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**PEFT-SAM-Liver-CT:** Ramtin Mojtahedi, Mohammad Hamghalam, Jacob J. Peoples, Richard K. G. Do, Amber L. Simpson.<br />
+"Parameter-Efficient Fine-Tuning of Foundation Models for Liver Tumor Segmentation in CT." SPIE Medical Imaging(2026).
+[[paper](https://arxiv.org/abs/2609.14106)]
+[[code](https://github.com/Ramtin-Mojtahedi/PEFT-SAM-Liver-CT)]
+[2026.09]
+
+:boom:**PRR:** Weihong Qi, Chen Ling.<br />
+"Perceive, Refine, Reason: A Calibrated Pipeline for Measuring Indicators in Strategic Visual Communication on Social Media." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.14699)]
+[2026.09]
+
 :boom:**WorldMem:** Aditi Tiwari, Akshit Bhalla, Darshan Prasad, Heng Ji.<br />
 "Does Video Memory Use What It Retrieves? A Causal Audit of Memory Specificity." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.12090)]
