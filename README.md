@@ -372,6 +372,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ReliSAM:** Shen Jiang and Xiaoyan Kui and Zhipeng Hu and Yangyang Shi and Ziwei Zou and Zexin Ji and Zeru Hai and Qinsong Li and Zuheng Ming and Haodong Xu and Beiji Zou.<br />
+"Reliability-guided dual-view learning with SAM distillation for semi-supervised medical image segmentation." Expert Systems with Applications (2026).
+[[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426030344)]
+[2026.09]
+
 :boom:**ViCo-SAM3:** Qiangqiang Zhou, Wenjun Tang, Yong Chen, Dandan Zhu, Jiawei Xu.<br />
 "ViCo-SAM3: Vision-Conditioned Alignment for Open-Vocabulary Camouflaged Object Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.15418)]
