@@ -372,6 +372,17 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**PSMP-CLIP:** Xuezhi Xiang, Guanghao Wu, Heqi Xiang, Jiayao Liu, Xiaoheng Li, Yiming Chen, Shanjun Zhang.<br />
+"PSMP-CLIP: Patch-Prompt SAM and Multi-Semantic Prompting for CLIP-Based Zero-Shot Anomaly Detection." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.16785)]
+[2026.09]
+
+:boom:**VPRef:** Quanwei Liu, Tao Huang, Jiaqi Yang, Wei Xiang.<br />
+"VPRef: A Cross-Domain Benchmark for Referring Remote Sensing Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.16486)]
+[[code](https://github.com/quanweiliu/VPRef)]
+[2026.09]
+
 :boom:**ReliSAM:** Shen Jiang and Xiaoyan Kui and Zhipeng Hu and Yangyang Shi and Ziwei Zou and Zexin Ji and Zeru Hai and Qinsong Li and Zuheng Ming and Haodong Xu and Beiji Zou.<br />
 "Reliability-guided dual-view learning with SAM distillation for semi-supervised medical image segmentation." Expert Systems with Applications (2026).
 [[paper](https://www.sciencedirect.com/science/article/abs/pii/S0957417426030344)]
