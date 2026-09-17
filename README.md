@@ -372,6 +372,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SetPlanner:** Dawei Yan, Yuezhe Yang, Menglan Ruan, Chunfeng Yang, Yudong Zhang.<br />
+"SetPlanner: A Lightweight Plug-in Point-Set Planner for Frozen SAM." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.18037)]
+[[code](https://github.com/davidyan200012-bot/SetPlanner)]
+[2026.09]
+
 :boom:**PSMP-CLIP:** Xuezhi Xiang, Guanghao Wu, Heqi Xiang, Jiayao Liu, Xiaoheng Li, Yiming Chen, Shanjun Zhang.<br />
 "PSMP-CLIP: Patch-Prompt SAM and Multi-Semantic Prompting for CLIP-Based Zero-Shot Anomaly Detection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.16785)]
