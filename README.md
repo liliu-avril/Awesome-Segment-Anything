@@ -372,6 +372,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Ömer Faruk Deniz, Mustafa Taha Koçyiğit.<br />
+"Open-vocabulary 3D object detection with promptable segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.19358)]
+[2026.09]
+
+:boom:Chao Qin, Fahad Shahbaz Khan, Salman Khan, Sarim Ather, Siddiq Anwar, Rao Muhammad Anwer, Shadab Khan.<br />
+"Open ultrasound foundation model for robust segmentation and clinical measurement across heterogeneous settings." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.19230)]
+[2026.09]
+
+:boom:**HYDRA:** Ignacio M. De la Jara, Cristian Rodriguez-Opazo, Damith Ranasinghe.<br />
+"Queries Knew More Than We Thought: Uncovering Latent Knowledge in Segmentation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.20283)]
+[2026.09]
+
+:boom:Thevathayarajh Thayananthan, Xin Zhang, Isuru Laddusinghe Badu, Jonathan Harjono, Glen C. Rains, Beiwen Li, Leonardo M. Bastos, Nuwan K. Wijewardane, Vitor S. Martins.<br />
+"Selective Cotton Boll Localization for Robotic Harvesting: Evaluation of Deep Learning Vision Models Under Field Conditions." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.19592)]
+[[code](https://github.com/imtheva/CottonBoll_Harvest)]
+[2026.09]
+
 :boom:**SetPlanner:** Dawei Yan, Yuezhe Yang, Menglan Ruan, Chunfeng Yang, Yudong Zhang.<br />
 "SetPlanner: A Lightweight Plug-in Point-Set Planner for Frozen SAM." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.18037)]
