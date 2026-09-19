@@ -372,6 +372,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**WOFT-SAM:** Jonáš Šerých ⋅ Jiri Matas.<br />
+"Segmentation-Guided Homography Estimation for Long-Term Planar Tracking." ECCV (2026).
+[[paper](https://eccv.ecva.net/virtual/2026/poster/5987)] 
+[[code](https://github.com/serycjon/WOFTSAM)]
+[2026.09]
+  
 :boom:Ömer Faruk Deniz, Mustafa Taha Koçyiğit.<br />
 "Open-vocabulary 3D object detection with promptable segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.19358)]
