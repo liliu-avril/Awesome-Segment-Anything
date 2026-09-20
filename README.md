@@ -3400,8 +3400,9 @@ If you find our work useful in your research, please consider citing:
 [2026.03]
 
 - **ET-SAM:** Xike Zhang, Maoyuan Ye, Juhua Liu, Bo Du.<br />
-"ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis." ArXiv (2026).
+"ET-SAM: Efficient Point Prompt Prediction in SAM for Unified Scene Text Detection and Layout Analysis." ECCV (2026).
 [[paper](https://arxiv.org/abs/2603.25168)]
+[[code](https://github.com/zxk0228/ET-SAM)]
 [2026.03]
 
 - **UW-VOS:** Hongshen Zhao, Jingkang Tai, Yuhang Wu, Wenkang Zhang, Xi Lan, Shangyan Wang, Tianyu Zhang, Wankou Yang.<br />
