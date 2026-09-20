@@ -372,6 +372,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAM3_Remote_Sensing_LoRA:** Nermeen Abou Baker.<br />
+"Parameter-Efficient Adaptation of SAM3 for Remote Sensing Segmentation Beyond Single-Domain Prompting." ICANN (2026).
+[[paper](https://link.springer.com/chapter/10.1007/978-3-032-38401-0_28)]
+[[code](https://github.com/NermeenAbouBaker/SAM3_Remote_Sensing_LoRA)]
+[2026.09]
+
+:boom:**MTGF-SAM:** Zhang, Liangdong and Liu, Xiaohui and Zhang, Junxiao and Shao, Qinglong and Xing, Huaqiao and Zhu, Qing.<br />
+"MTGF-SAM: Multi-Level Terrain-Gated Fusion of Segment Anything Model for Landslide Detection in Remote Sensing Imagery." JSTARS (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11691586)]
+[2026.09]
+
+:boom:**YLSAM2:** Jinghui Yang and Liang Wang and Shuyin Hu and Bohao Zhang and Huiyuan Pang and Longqin Xu and Meng Cui and Shuangyin Liu.<br />
+"YLSAM2: Attention-guided LoRA enhanced underwater multi-scene fish segmentation and counting based on YOLO11 prompting SAM2." Aquacultural Engineering (2026).
+[[paper](https://doi.org/10.1016/j.aquaeng.2026.102821)]
+[2026.09]
+
+:boom:Busra Aslan.<br />
+"YOLO–SAM-Guided ROI-Based Deep Learning for Non-Invasive Neonatal Jaundice Detection." BALKAN JOURNAL OF ELECTRICAL & COMPUTER ENGINEERING(2026).
+[[paper](https://dergipark.org.tr/en/pub/bajece/article/1871168)]
+[2026.09]
+
+:boom:**ES-SAM:** Xudong Yang, Xinnan Fan, Peiyu Zhao, Qi Sun, Pengfei Shi.<br />
+"ES-SAM: An Enhanced Semantic-SAM for semantic segmentation." PR (2026).
+[[paper](https://doi.org/10.1016/j.patcog.2026.114914)]
+[2026.09]
+
 :boom:**WOFT-SAM:** Jonáš Šerých ⋅ Jiri Matas.<br />
 "Segmentation-Guided Homography Estimation for Long-Term Planar Tracking." ECCV (2026).
 [[paper](https://eccv.ecva.net/virtual/2026/poster/5987)] 
