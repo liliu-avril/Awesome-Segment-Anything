@@ -3317,8 +3317,8 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2603.27206)]
 [2026.03]
  
-- **IP-SAM:** Huiyao Zhang, Jin Bai, Rui Guo, JianWen Tan, HongFei Wang, Ye Li.<br />
-"IP-SAM: Prompt-Space Conditioning for Prompt-Absent Camouflaged Object Detection." ArXiv (2026).
+- **IP-SAM:** Huiyao Zhang, Jin Bai, Rui Guo, JianWen Tan, HongFei Wang, Ye Li.<br />
+"IP-SAM: Prompt-Space Conditioning for Prompt-Absent Camouflaged Object Detection." ECCV (2026).
 [[paper](https://arxiv.org/abs/2603.27250)]
 [2026.03]
 
