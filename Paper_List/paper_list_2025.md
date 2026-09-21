@@ -3372,7 +3372,7 @@ Express (2025).
 [2025.06]
 
 - **PathSegmentor:** Zhixuan Chen, Junlin Hou, Liqi Lin, Yihui Wang, Yequan Bie, Xi Wang, Yanning Zhou, Ronald Cheong Kin Chan, Hao Chen.<br />
-"Segment Anything in Pathology Images with Natural Language." ArXiv (2025).
+"Segment Anything in Pathology Images with Natural Language." NMI (2026).
 [[paper](https://arxiv.org/abs/2506.20988)]
 [[code](https://github.com/zhi-xuan-chen/PathSegmentor)]
 [2025.06]
