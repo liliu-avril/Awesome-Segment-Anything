@@ -3234,7 +3234,7 @@ Express (2025).
 [2025.07]
 
 - **ViRefSAM:** Hanbo Bi, Yulong Xu, Ya Li, Yongqiang Mao, Boyuan Tong, Chongyang Li, Chunbo Lang, Wenhui Diao, Hongqi Wang, Yingchao Feng, Xian Sun.<br />
-"ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation." ArXiv (2025).
+"ViRefSAM: Visual Reference-Guided Segment Anything Model for Remote Sensing Segmentation." TGRS (2026).
 [[paper](https://arxiv.org/abs/2507.02294)]
 [2025.07]
 
