@@ -372,6 +372,22 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**FOM-SAM3:** Haolong Meng, Fangbo Qin, Mengchen Bai, Houwu Wang, Cirong Liu, Shan Yu.<br />
+"Towards Fine-Grained Object Manipulation: SAM3-Guided Visuomotor Policy with Persistent Memory Learning and Focused Visual Conditioning." ICRA (2026).
+[[paper](https://arxiv.org/abs/2609.21621)]
+[[code](https://hlmeng-casia.github.io/FOM-SAM3-Policy/)]
+[2026.09]
+
+:boom:**AgenticSwarm:** Muhammad Ahsan Mustafa, Yasheerah Yaqoot, Faryal Batool, Roohan Ahmed Khan, Valerii Serpiva, Dzmitry Tsetserukou.<br />
+"AgenticSwarm: Semantic Perception and Adaptive Task Allocation for Heterogeneous Multi-UAV Missions." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.21716)]
+[2026.09]
+ 
+:boom:**P3-SAM:** Qian Xu, Hang Xiong, Anpeng Wang, Sam Kwong, Cong Zhang, Runmin Cong.<br />
+"P3-SAM: SAM with Perceptual Parallel Prompt for Few-Shot Strip Steel Surface Defect Segmentation." ICME (2026).
+[[paper](https://arxiv.org/abs/2609.21424)]
+[2026.09]
+
 :boom:**FedSAM-3D:** Xinran Wu, Rencheng Zheng, Yuxiang Dai, Hui Zhang, Xueqin Xia, Yu Cheng, Chengyan Wang, He Wang.<br />
 "FedSAM-3D: Adapter-Constrained Federated Adaptation for Transferable Medical Segmentation Foundation Models." TBME (2026).
 [[paper](https://doi.org/10.1109/TBME.2026.3730634)]
