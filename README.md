@@ -380,6 +380,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Dhruv Gamdha, James Afful, Shambhavi Joshi, Ulrike Passe, Adarsh Krishnamurthy, Baskar Ganapathysubramanian.<br />
+"Semi-automated reconstruction of indoor geometry from 360-degree video for CFD-based airflow analysis in classrooms." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.23425)]
+[2026.09]
+
+:boom:**SRPR-Net:** Lufei Liu, Guojie Li, Suncheng Xiang, Fan Zhang.<br />
+"SRPR-Net: Semantic and Relational Prompt Refinement for Automated SAM-based Instance Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.24226)]
+[[code](https://github.com/JeremyXSC/SRPR-Net)]
+[2026.09]
+ 
+:boom:**RoboDistill:** Ziying Song, Lin Liu, Hongyu Pan, Shaoqing Xu, Lei Yang, Mingzhe Guo, Caiyan Jia.<br />
+"Towards robust multimodal 3D object detection via visual foundation models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.23541)]
+[2026.09]
+
+:boom:**CODY-SAM3:** Laura Cif, Zohra Souei, Diane Demailly, Mayte Castro-Jimenez, Juan Dario Ortigoza-Escobar, Muhammad Mushhood Ur Rehman, Morgan Dornadic, Sophie Huby, Gun-Marie Hariz, Cecile Hubsch, Nathalie Dorison, Eduardo M. Moraud, Jocelyne Bloch, Gabriella Horvath, Olivier Oullier, Xavier Vasques.<br />
+"Foundation-model-based multi-label phenotyping of combined hyperkinetic movement disorders." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.22369)]
+[[code](https://github.com/xaviervasques/cody-sam3)]
+[[data](https://doi.org/10.5281/zenodo.22232609)]
+[2026.09]
+
 :boom:**FOM-SAM3:** Haolong Meng, Fangbo Qin, Mengchen Bai, Houwu Wang, Cirong Liu, Shan Yu.<br />
 "Towards Fine-Grained Object Manipulation: SAM3-Guided Visuomotor Policy with Persistent Memory Learning and Focused Visual Conditioning." ICRA (2026).
 [[paper](https://arxiv.org/abs/2609.21621)]
