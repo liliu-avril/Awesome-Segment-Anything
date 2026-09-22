@@ -380,6 +380,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SAFe:** Anja Delić, Jurica Runtas, Marin Oršić, Ivan Marković, Ivan Petrović.<br />
+"SAFe: Segment-guided Aggregation of Feature Densities for Anomaly-aware Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.24204)]
+[2026.09]
+ 
+:boom:**PhysReflect:** Shuheng Ge, Hongwei Ren, Li Zhang, Xiangqian Wu.<br />
+"PhysReflect: Geometry and Perception Guided Diffusion for Physically-Plausible Mirror Reflections." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.23442)]
+[2026.09]
+
 :boom:Dhruv Gamdha, James Afful, Shambhavi Joshi, Ulrike Passe, Adarsh Krishnamurthy, Baskar Ganapathysubramanian.<br />
 "Semi-automated reconstruction of indoor geometry from 360-degree video for CFD-based airflow analysis in classrooms." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.23425)]
