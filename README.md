@@ -369,6 +369,14 @@ If you find our work useful in your research, please consider citing:
 [[code](http://vision-banana.github.io)]
 [2026.04]
 
+- **RelateAnything:** Maëlic Neau.<br />
+"RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.12552)]
+[[code](https://github.com/Maelic/RelateAnything)]
+[[models](https://huggingface.co/collections/maelic/relateanything)]
+[[dataset](https://huggingface.co/datasets/maelic/RA-4M)]
+[2026.09]
+
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
