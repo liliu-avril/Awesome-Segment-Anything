@@ -392,6 +392,11 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/gong208/SAM-V.git)]
 [2026.09]
 
+:boom:Sepideh Gohari, Goodarz Mehr, Azim Eskandarian.<br />
+"Real-World Perception for Autonomous Driving in Adverse Weather: Enhancing Standard Detectors via Foundation-Guided Auto-Annotation." TITS (2026).
+[[paper](https://arxiv.org/abs/2609.25515)]
+[2026.09]
+
 :boom:**SAFe:** Anja Delić, Jurica Runtas, Marin Oršić, Ivan Marković, Ivan Petrović.<br />
 "SAFe: Segment-guided Aggregation of Feature Densities for Anomaly-aware Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.24204)]
