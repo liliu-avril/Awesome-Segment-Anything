@@ -380,6 +380,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**AgentDSM:** Wentao Sun, Zhengsen Xu, Yiping Chen, John S. Zelek, Jonathan Li.<br />
+"Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.25578)]
+[[code](https://w27sun.github.io/agentdsm/)]
+[2026.09]
+
+:boom:**SAM-V:** Jiangshan Gong, Yuqun Wu, Qiqian Fu, Yao Xiao, Chuhang Zou, Shenlong Wang, Derek Hoiem.<br />
+"SAM-V: Geometry-Aware Segment Anything for Multi-View Instance Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.25490)]
+[[code](https://github.com/gong208/SAM-V.git)]
+[2026.09]
+
 :boom:**SAFe:** Anja Delić, Jurica Runtas, Marin Oršić, Ivan Marković, Ivan Petrović.<br />
 "SAFe: Segment-guided Aggregation of Feature Densities for Anomaly-aware Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.24204)]
