@@ -380,6 +380,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**GaussianDS:** Yufei Zhang, Chenlu Zhan, Hongwei Wang.<br />
+"GaussianDS: Depth-supervised Semantic Gaussian Splatting for Scene Understanding." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.27850)]
+[2026.09]
+
+:boom:Mehmet Kerem Turkcan, Soham Samal, Zoran Kostic.<br />
+"Surgical Kinematics from Monocular Video with Learned Articulated Motion Constraints." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.27227)]
+[2026.09]
+ 
+:boom:**LiAM-SAM:** Grégoire Francisco, Alessandro D'Amico, Samuele Costantini, Gianpiero Francesca, Lorenzo Garattoni.<br />
+"LiAM-SAM: Lifecycle-Aware Memory for Robust SAM2-Based MOT." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.28078)]
+[2026.09]
+
+:boom:Arman Taghizadeh, Ulf Krumnack, Kai-Uwe Kühnberger.<br />
+"Zero-Shot Object Removal via Attention Masking, Latent Anchoring, and Refinement." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.28342)]
+[[code](https://github.com/arman-taghizadeh/zero-shot-diffusion-object-removal)]
+[2026.09]
+
 :boom:**AgentDSM:** Wentao Sun, Zhengsen Xu, Yiping Chen, John S. Zelek, Jonathan Li.<br />
 "Agentic Building-Aware Satellite Gaussian Splatting for Auditable Urban DSM Reconstruction." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.25578)]
