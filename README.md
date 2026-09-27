@@ -380,6 +380,13 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**RNP-OSOD:** Bingqian Chai, Jue Wang, Zhuo Zheng, Liang Chen, Xiaodong Gong, Wenchao Liu
+.<br />
+"Remote Sensing-Oriented Small-Object Detection Based on Rotation-Normalized Prompting Segment Anything Model." TGRS (2026).
+[[paper](https://ieeexplore.ieee.org/abstract/document/11482631)]
+[[code](https://github.com/cbq233333/RNP-OSOD)]
+[2026.09]
+
 :boom:**DietSAM2:** Yu, Zhenni and Xiao, Guobao and Zhang, Xiaoqin and He, Lianghua.<br />
 "SAM2 on a Diet: Unlocking Massive Potential With Minimal Data for Semi-Supervised Video Camouflaged Object Detection." TPAMI (2026).
 [[paper](https://ieeexplore.ieee.org/abstract/document/11695587)]
