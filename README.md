@@ -380,6 +380,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ReG-SAM:** Donghang Lyu, Zichen Zhang, Oleh Dzyubachyk, Marius Staring.<br />
+"ReG-SAM: Reference Graph-Driven SAM for 2D Foundational Vessel Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.31160)]
+[2026.09]
+ 
+:boom:Valentin Boussot, Cedric Hemon, Caroline Lafond, Jean-Claude Nunes, Jean-Louis Dillenseger.<br />
+"When Misalignment Becomes Supervision: Structured Label Noise in Supervised Synthetic CT Generation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.29387)]
+[2026.09]
+
 :boom:**RNP-OSOD:** Bingqian Chai, Jue Wang, Zhuo Zheng, Liang Chen, Xiaodong Gong, Wenchao Liu
 .<br />
 "Remote Sensing-Oriented Small-Object Detection Based on Rotation-Normalized Prompting Segment Anything Model." TGRS (2026).
