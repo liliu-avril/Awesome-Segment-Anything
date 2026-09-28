@@ -400,7 +400,7 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2609.30080)]
 [2026.09]
  
-:boom:** MK-FSS:** Yijun Hu, Heng Fan, Libo Zhang.<br />
+:boom:**MK-FSS:** Yijun Hu, Heng Fan, Libo Zhang.<br />
 "Exploiting Target Knowledge from MLLMs for Robust Few-Shot Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.28949)]
 [[code](XXXXXXXXXXXXXXXXXXXXXX)]
@@ -412,7 +412,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://github.com/doubleblind-afk/MEVL-STP)]
 [2026.09]
 
-:boom:, Shifeng Bao, Yihan Zhao, Haitao Shen, Haoyang Li, Chen Zhao, Tong Yang, Jie Tang, Jing Zhang.<br />
+:boom:Shifeng Bao, Yihan Zhao, Haitao Shen, Haoyang Li, Chen Zhao, Tong Yang, Jie Tang, Jing Zhang.<br />
 "Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.31207)]
 [2026.09]
