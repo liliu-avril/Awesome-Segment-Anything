@@ -390,6 +390,38 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2609.29387)]
 [2026.09]
 
+:boom:Guanlin Li, Shifeng Bao, Yihan Zhao, Haitao Shen, Haoyang Li, Chen Zhao, Tong Yang, Jie Tang, Jing Zhang.<br />
+"Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.31207)]
+[2026.09]
+
+:boom:**SPHERETRUST:** Xinge Guo, Fengyang Xiao, Dingming Zhang, Yuhan Chen, Rihan Zhang, Xingjian Li, Tianyang Wang, Chunming He, Sina Farsiu.<br />
+"Can Frozen Hyperspherical Features Guide the Selection of Pseudo Masks?." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.30080)]
+[2026.09]
+ 
+:boom:** MK-FSS:** Yijun Hu, Heng Fan, Libo Zhang.<br />
+"Exploiting Target Knowledge from MLLMs for Robust Few-Shot Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.28949)]
+[[code](XXXXXXXXXXXXXXXXXXXXXX)]
+[2026.09]
+ 
+:boom:**MEVL-STP:**  Aman Anand, Partha Pratim Roy, Shivakumara Palaiahnakote.<br />
+"MEVL-STP: Multi-Encoder and Vision Language Model for Arbitrarily Shaped Scene Text Spotting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.28857)]
+[[code](https://github.com/doubleblind-afk/MEVL-STP)]
+[2026.09]
+
+:boom:, Shifeng Bao, Yihan Zhao, Haitao Shen, Haoyang Li, Chen Zhao, Tong Yang, Jie Tang, Jing Zhang.<br />
+"Enabling a Unified Cross-Domain Representation for Two-Finger Gripper Manipulation via Interaction-Centric Modeling." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.31207)]
+[2026.09]
+
+:boom:**GeoNLI :** Ashutosh Gandhe, Anupam Rawat, Geet Sethi, Kabir Nasiruddin, Madhav Kotecha, Panav Shah, Rakshit Sawarn, Soumitra Nayak.<br />
+"GeoNLI - A Natural Language Interpreter for Satellite Imagery." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.28741)]
+[2026.09]
+
 :boom:**RNP-OSOD:** Bingqian Chai, Jue Wang, Zhuo Zheng, Liang Chen, Xiaodong Gong, Wenchao Liu
 .<br />
 "Remote Sensing-Oriented Small-Object Detection Based on Rotation-Normalized Prompting Segment Anything Model." TGRS (2026).
