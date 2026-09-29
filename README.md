@@ -380,6 +380,64 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Robot-GST:** Sichao Liu, Zekun Wang, Lixuan Tang, Yiming Li, Xiaohan Wang, Hanzhi Zhang, Daqiang Guo, Peng Zhou, Lihui Wang.<br />
+"Robot-GST: geometry-aware spatial-temporal robot policy representation and evaluation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.33872)]
+[[code](https://robot-gst.github.io/)]
+[2026.09]
+ 
+:boom:Yueh-Cheng Huang.<br />
+"When Does Geometric View Synthesis Help Wine Label Retrieval? A Public One-Shot Benchmark Across Self-Supervised and Vision-Language Backbones." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.33359)]
+[2026.09]
+ 
+:boom:**DS-CRF:** Joshua Li, Yuri Boykov.<br />
+"CRF Loss is How Networks Should Learn Boundaries in Weakly Supervised Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.34183)]
+[2026.09]
+
+:boom:**USA:** Qiyong Zhong, Mao Zheng, Mingyang Song, Huwei Ji, Houcheng Jiang, Jiajie Su, Li Zhang, Gengsheng Li, Junfeng Fang.<br />
+"USA: Update-aware SAM for Cross-domain On-Policy Disitllation of Language Agents." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.34225)]
+[2026.09]
+ 
+:boom:**HyperDAM:** Ryoga Yuzawa, Tasuku Takagi.<br />
+"HyperDAM: Hyperspectral Distractor-Aware Memory with Amodal Expansion for SAM 3 Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.34396)]
+[2026.09]
+ 
+:boom:**XFlow:** Geon Choi, Hangyul Yoon, Hyunki Park, Sang Hoon Seo, Edward Choi.<br />
+"XFlow: A Workflow Model for Instruction-Guided Lesion Segmentation in Chest X-rays." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.34513)]
+[[code](XXXXXXXXXXXXXXXXXXXXXX)]
+[2026.09]
+
+:boom:Shuxing Zhang, Yongquan Ni, Zhenyu Ding, Yawen Lin.<br />
+"Privacy-Preserving Full-Body Meshing from mmWave Radar via Mesh Foundation Model Supervision." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.34768)]
+[2026.09]
+ 
+:boom:Zhilin Guo, Boqiao Zhang, Oszkár Urbán, Josef Bengtson, Hakan Aktas, Wenzhao Li, Siyu Hong, Kyle Fogarty, Chenliang Zhou, Ali Senguel, Cengiz Oztireli.<br />
+"One Sensor, Whole Body - 3D Body Pose from a Single Consumer Earbud IMU." ACM MM Workshop (2026).
+[[paper](https://github.com/ZhilinGuo/one-sensor-whole-body)]
+[2026.09]
+ 
+:boom:Zhilin Guo, Boqiao Zhang, Oszkár Urbán, Josef Bengtson, Hakan Aktas, Wenzhao Li, Siyu Hong, Kyle Fogarty, Chenliang Zhou, Ali Senguel, Cengiz Oztireli.<br />
+"Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.35764)]
+[[code](https://github.com/ZhilinGuo/reliability-gated-imu-fusion)]
+[2026.09]
+
+:boom:Yueh-Cheng Huang.<br />
+"When Does Geometric View Synthesis Help Wine Label Retrieval? A Public One-Shot Benchmark Across Self-Supervised and Vision-Language Backbones." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.33359)]
+[2026.09]
+ 
+:boom:**TriO:** Quinlan Sykora, Sourav Biswas, Christopher Diehl, Andrew Cunningham, Thomas Gilles, Raquel Urtasun.<br />
+"TriO: Tri-Modal Unsupervised Occupancy World Model for Anything Perception." ECCV (2026).
+[[paper](https://arxiv.org/abs/2609.32013)]
+[2026.09]
+
 :boom:**ReG-SAM:** Donghang Lyu, Zichen Zhang, Oleh Dzyubachyk, Marius Staring.<br />
 "ReG-SAM: Reference Graph-Driven SAM for 2D Foundational Vessel Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.31160)]
