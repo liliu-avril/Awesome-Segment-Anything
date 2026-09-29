@@ -380,6 +380,26 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Tanguy Dieudonné, Jack B. Jedlicki, Heng Yang.<br />
+"Where Memory Belongs: Ledger, an Object Ledger for Memory-Augmented VLAs." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.34554)]
+[2026.09]
+
+:boom:**SegBanana:** Xiaoye Liang, Ye Yan, Mingze Yin, Shikun Feng, Mai Xu, Haiguang Liu, Lai Jiang, Yiheng Zhu.<br />
+"SegBanana: Steering Unified Multimodal Models into Medical Segmenters." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.34235)]
+[2026.09]
+ 
+:boom:Prerak Srivastava, Bhaiya Vaibhaw Kumar, Kavita Vemuri.<br />
+"Eyes on the Road: A Naturalistic Comparison of MTW Rider Gaze in Urban Indian Traffic." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.33811)]
+[2026.09]
+ 
+:boom:Jiaming Wang.<br />
+"What Stops Recursive Self-Improvement in Robotics? Lessons from 123 Rounds of Agentic Skill Discovery." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.31760)]
+[2026.09]
+
 :boom:**Robot-GST:** Sichao Liu, Zekun Wang, Lixuan Tang, Yiming Li, Xiaohan Wang, Hanzhi Zhang, Daqiang Guo, Peng Zhou, Lihui Wang.<br />
 "Robot-GST: geometry-aware spatial-temporal robot policy representation and evaluation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.33872)]
