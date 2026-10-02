@@ -380,6 +380,16 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+"MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.38078)]
+[[code](https://motor-mind.github.io/)]
+[2026.09]
+
+:boom:Arash Rocky, Q. M. Jonathan Wu.<br />
+"Towards Automatic Video Annotation with ASH: Zero-Shot Open-Vocabulary Multi-Object Tracking and Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.01022)]
+[2026.09]
+
 :boom:Xiaoyu Yang, Sen Han, Da Li, Nan Wu.<br />
 "Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.37776)]
