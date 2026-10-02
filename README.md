@@ -438,6 +438,17 @@ If you find our work useful in your research, please consider citing:
 [[paper](https://arxiv.org/abs/2609.36875)]
 [2026.09]
 
+:boom:**RoboFin3D:** Haowei Wen, Shangtao Li, Vaibhav Sanjay, Philip Huang, Jiaoyang Li, Changliu Liu.<br />
+"RoboFin3D: A Sim-to-Real Platform for Robotic Surface Finishing." IROS Workshop(2026).
+[[paper](https://arxiv.org/abs/2609.37560)]
+[2026.09]
+ 
+:boom:**EDRRM:** Abu Hanif Muhammad Syarubany, Jaehyun Jang, Siwoo Lim, Seungyeon Ryu, Chang D. Yoo.<br />
+"Event-Driven Refresh and Recurrence Memory to Reduce Stale Grounding in Referring Video Object Segmentation." IEEE Access(2026).
+[[paper](https://arxiv.org/abs/2609.38758)]
+[[code](https://arxiv.org/abs/2609.38758)]
+[2026.09]
+
 - Tanguy Dieudonné, Jack B. Jedlicki, Heng Yang.<br />
 "Where Memory Belongs: Ledger, an Object Ledger for Memory-Augmented VLAs." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.34554)]
