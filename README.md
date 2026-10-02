@@ -380,6 +380,43 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Dyna3:** Xinhao Xiang, Weiyang Li, Zhijie Zheng, Abhijeet Rastogi, Jiawei Zhang.<br />
+"Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.01286)]
+[2026.09]
+
+:boom:**PixelDense:** Lehan Yang, Daiqing Qi, Wenhao Zhang, Avery Li, Yiqing Yang, Yifan Li, Yu Kong, Haitian Zheng, Zhifei Zhang, Zhe Lin, Varun Jampani, Sheng Li.<br />
+"PixelDense: Dense Prediction as Representation Alignment for Pixel Diffusion." NeurIPS (2026).
+[[paper](https://arxiv.org/abs/2610.00483)]
+[2026.09]
+
+:boom:**MoSA:** Weijian Jian, Xiaoyue Zhang, Bin Xiao, Chunyu Xie, Yixiao He, Yutao Liu, Dawei Leng, Yuhui Yin.<br />
+"Seeing as Humans Do: Learning from Motion to Segment Anything Without Supervision." ECCV (2026).
+[[paper](https://arxiv.org/abs/2609.39785)]
+[[code](https://github.com/360CVGroup/MoSA)]
+[2026.09]
+
+:boom:**AdvPCS:** Ziqi Zhou, Yifan Hu, Yufei Song, Haowen Jiang, Xianlong Wang, Shengshan Hu, Dezhong Yao, Leo Yu Zhang.<br />
+"Universal Cross-Prompt Adversarial Attacks on Promptable Concept Segmentation." NeurIPS (2026).
+[[paper](https://arxiv.org/abs/2609.39265)]
+[2026.09]
+
+:boom:**DCM-SAM:** Md Mushfiqur Rahaman, Md Mahedi Hasan, Imtiaz Ahmed, Srinjoy Das.<br />
+"DCM-SAM: Defect-Conditioned Mixture of LoRA Experts for NPU-Deployed AM Defect Segmentation." NeurIPS Workshop (2026).
+[[paper](https://arxiv.org/abs/2609.38811)]
+[[code](https://github.com/MushfiqShovon/DCM-SAM)]
+[2026.09]
+
+:boom:**HyperSAM:** Li Pang, Xinqiao Wu, Jing Yao, Pedram Ghamisi, Jun Zhou, Zhengchao Chen, Deyu Meng, Xiangyong Cao.<br />
+"HyperSAM: A Promptable Foundation Model for Hyperspectral Remote Sensing." GRSM(2026).
+[[paper](https://arxiv.org/abs/2609.37340)]
+[2026.09]
+
+:boom:**S4VY:** Jingdong Zhang, Xin Li, Jan Kautz, Wenping Wang, Chris Choy.<br />
+"S4VY: Segment Anything in Feed-Forward 4D Visual Geometry." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.36875)]
+[2026.09]
+
 - Tanguy Dieudonné, Jack B. Jedlicki, Heng Yang.<br />
 "Where Memory Belongs: Ledger, an Object Ledger for Memory-Augmented VLAs." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.34554)]
