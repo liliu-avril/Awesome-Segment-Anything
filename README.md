@@ -380,6 +380,7 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**MotorMind:** Bingxuan Li, Siqi Song, Yizhuo Wu, Jiarui Yao, Tong Zhang, Huan Zhang.<br />
 "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.38078)]
 [[code](https://motor-mind.github.io/)]
