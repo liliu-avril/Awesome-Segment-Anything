@@ -380,6 +380,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Xiaoyu Yang, Sen Han, Da Li, Nan Wu.<br />
+"Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.37776)]
+[2026.09]
+
+:boom:Xuyang Cao, Enyou Liu, Jun Zhao, Zhuoyun Liu, Jintao Fei, Leo.<br />
+"SAM Meets VLM: Parameter-Decoupled Full-Parameter Training for Unified Medical Reasoning and Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.37283)]
+[2026.09]
+
+:boom:**UniAfford:** Yuhao Liu, Yiming Zhong, Hanqing Wang, Shaocheng Yan, Yuhang Zhang, Wenzhou Lyu, Ziyang Ding, Wei Zhang, Xue Zhao, Jin Pan, Yuexin Ma, Xinge Zhu.<br />
+"UniAfford: Token-Routed Multitask Learning for Generalizable 2D-3D Affordance Perception." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.37264)]
+[[code](https://4dvlab.github.io/UniAfford)]
+[2026.09]
+
+:boom:**FOCAL:** Chenqi Kong, Song Xia, Anwei Luo, Peisong He, Alex C. Kot, Yuming Fang.<br />
+"Forensic-Aware Continual Adaptation for Image Forgery Localization." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2609.38251)]
+[2026.09]
+
 :boom:**Dyna3:** Xinhao Xiang, Weiyang Li, Zhijie Zheng, Abhijeet Rastogi, Jiawei Zhang.<br />
 "Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.01286)]
