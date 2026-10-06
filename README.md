@@ -380,6 +380,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ViTok:** Hailun Xu, Kanchan Sarkar.<br />
+"ViTok: Improving Dense Semantics in AM-RADIO-Style Multi-Teacher Distillation with PHI-S and Masked Image Modelling." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.02903)]
+[2026.10]
+ 
+:boom:**OAMR,:** Jianzheng Wang, Huan Ni, Xiaonan Niu, Danfeng Hong, Haiyan Guan.<br />
+"A Geometric-Transformation Feature-Adaptive Manifold Restoration Method for Open-Vocabulary Semantic Segmentation of Remote Sensing Images." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.04300)]
+[2026.10]
+
+:boom:**GS-Pool:** Boaz Keren-Gil, James Gain, Patrick Marais.<br />
+"GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.06688)]
+[2026.10]
+ 
+:boom:**FaVOS:** Jihwan Hong, Woohyeon Park, Jaeik Kim, Jaeyoung Do.<br />
+"When Predicting Nothing Beats SAM 3: Revisiting Evaluation in Video Object Segmentation." NeurIPS (2026).
+[[paper](https://arxiv.org/abs/2610.02946)]
+[[code](https://aidaslab.github.io/FaVOS)]
+[2026.10]
+
 :boom:**FrontVeg V2:** Abdoul Djalil Ousseini Hamza, Herearii Metuarea, Corentin Lothod{é}, Morgane Roth, Jacem Ben Hamden, Eric Duch{ê}ne, Lionel Ley, David Alletru, David Rousseau.<br />
 "FrontVeg V2: A Training-Free Software Framework for Foreground-Aware Zero-Shot Plant Trait Segmentation in High-Resolution Images of Trellised Crops." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.06575)]
