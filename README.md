@@ -380,6 +380,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**FrontVeg V2:** Abdoul Djalil Ousseini Hamza, Herearii Metuarea, Corentin Lothod{é}, Morgane Roth, Jacem Ben Hamden, Eric Duch{ê}ne, Lionel Ley, David Alletru, David Rousseau.<br />
+"FrontVeg V2: A Training-Free Software Framework for Foreground-Aware Zero-Shot Plant Trait Segmentation in High-Resolution Images of Trellised Crops." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.06575)]
+[2026.10]
+ 
+:boom:**PAR:** Yimin Fu, Songbo Wang, Lizhuo Liu, Baicheng Pan, Zhunga Liu, Michael K. Ng.<br />
+"Prompt and Refinement: Asymmetric Mutual Learning for Infrared Small Target Detection with Noisy Labels." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.05918)]
+[[code](https://github.com/fuyimin96/PAR)]
+[2026.10]
+ 
+:boom:**RAGrasp:** Shenzhe Zhu, Chengxiao He, Jan Harder.<br />
+"RAGrasp: Geometry-Semantic Template Retrieval and Grasp Transfer." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.04438)]
+[2026.10]
+ 
+:boom:Zewen Zhuo, Ilya Belevich, Eija Jokitalo, Alejandra Sierra, Jussi Tohka.<br />
+"A Fully Automatic Pipeline for 3D Dendrite Instance Segmentation in SBF-SEM." IECBES(2026).
+[[paper](https://arxiv.org/abs/2610.01286)]
+[[code](https://github.com/ZE-WEN/dendrite-3d-instance-seg)]
+[2026.10]
+
 :boom:**MotorMind:** Bingxuan Li, Siqi Song, Yizhuo Wu, Jiarui Yao, Tong Zhang, Huan Zhang.<br />
 "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.38078)]
