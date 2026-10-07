@@ -380,6 +380,21 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**LAO-X:** Yaqi Cai, Mingxuan Liu, Lorenzo Vaquero, Ning Wang, Nan Pu, Feng Xue, Elisa Ricci, Nicu Sebe.<br />
+"Localize Any Object in X-Ray Security Scans without Human Annotation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.07326)]
+[2026.10]
+
+:boom:Estela Monserrat Arriaga Santana, Julian Rosas Scull, Ibeth P. Alarcón, Bibiana Montoya, Aylin Sosa Mejía, Hugo Jair Escalante.<br />
+"Towards benchmarking Western Bluebird detection in the wild." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.07802)]
+[2026.10]
+ 
+:boom:**UniCounting:** Jinshi Liu, Pan Liu, Lei He, Weichao Luo, Rui Qian.<br />
+"UniCounting: Instance-Aware Proposal Consolidation for Image-Query-Free Multi-Category Counting." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.08379)]
+[2026.10]
+
 :boom:**ViTok:** Hailun Xu, Kanchan Sarkar.<br />
 "ViTok: Improving Dense Semantics in AM-RADIO-Style Multi-Teacher Distillation with PHI-S and Masked Image Modelling." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.02903)]
