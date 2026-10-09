@@ -380,6 +380,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**RSPoint-SAM:** Yujia Chen, Hao Cui, Zuohang Wu, Bin Lei, Guo Zhang, Li Zhang, Chunyang Zhu, Tian Feng, Gui Gao.<br />
+"RSPoint-SAM: A SAM-Driven Method With Cross-Level Feature Fusion for Point Supervised Segmentation." TGRS (2026).
+[[paper](https://xplorestaging.ieee.org/document/11483149)]
+[[code](https://github.com/Yujia73/RSPoint-SAM)]
+[2026.10]
+
 :boom:**LAO-X:** Yaqi Cai, Mingxuan Liu, Lorenzo Vaquero, Ning Wang, Nan Pu, Feng Xue, Elisa Ricci, Nicu Sebe.<br />
 "Localize Any Object in X-Ray Security Scans without Human Annotation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.07326)]
