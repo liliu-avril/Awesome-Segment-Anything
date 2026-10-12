@@ -380,6 +380,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**FastBench:** Yuxuan Hu, Weikang Shi, Yang Bo, Xudong Lu, Xintong Guo, Shuhan Li, Yuyang He, Huankang Guan, Peiwen Sun, Yunqiao Yang, Wenbo Li, Rui Liu, Hongsheng Li.<br />
+"FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams? ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.12427)]
+[[code](https://github.com/Ashone3/FastBench)]
+[2026.10]
+
 :boom:Estela Monserrat Arriaga Santana, Julian Rosas Scull, Ibeth P. Alarcón, Bibiana Montoya, Aylin Sosa Mejía, Hugo Jair Escalante.<br />
 "Towards benchmarking Western Bluebird detection in the wild ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.07802)]
