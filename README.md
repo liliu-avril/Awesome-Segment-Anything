@@ -380,6 +380,24 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**LAO-X:** Yaqi Cai, Mingxuan Liu, Lorenzo Vaquero, Ning Wang, Nan Pu, Feng Xue, Elisa Ricci, Nicu Sebe.<br />
+"Localize Any Object in X-Ray Security Scans without Human Annotation ." NeurIPS (2026).
+[[paper](https://arxiv.org/abs/2610.07326)]
+[[code](https://github.com/yaqicai/LAO-X)]
+[[project](https://yaqicai.github.io/lao-x/)]
+[2026.10]
+ 
+:boom:**Anaximander:** Satej S. Soman, Akram Zaytar, Girmaw A. Tadesse, Gilles Q. Hacheme, Muhammad S. Danish, Inbal Becker-Reshef, Rahul Dodhia, Juan Lavista Ferres.<br />
+"Anaximander: Interactively Running Geospatial Deep Learning Models on Any Compute Backend." ECCVW (2026).
+[[paper](https://arxiv.org/abs/2610.09085)]
+[[code](https://github.com/microsoft/nxmndr)]
+[2026.10]
+ 
+:boom:Ehsan Agha Ebrahimi, Yong-Cheol Lee, Keith G. Mills.<br />
+"Domain Adaptation of SAM 2.1 for Building-Component Segmentation in Image-Based 3D Reconstruction." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.12786)]
+[2026.10]
+
 :boom:**RSPoint-SAM:** Yujia Chen, Hao Cui, Zuohang Wu, Bin Lei, Guo Zhang, Li Zhang, Chunyang Zhu, Tian Feng, Gui Gao.<br />
 "RSPoint-SAM: A SAM-Driven Method With Cross-Level Feature Fusion for Point Supervised Segmentation." TGRS (2026).
 [[paper](https://xplorestaging.ieee.org/document/11483149)]
