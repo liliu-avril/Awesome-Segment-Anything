@@ -380,6 +380,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Estela Monserrat Arriaga Santana, Julian Rosas Scull, Ibeth P. Alarcón, Bibiana Montoya, Aylin Sosa Mejía, Hugo Jair Escalante.<br />
+"Towards benchmarking Western Bluebird detection in the wild ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.07802)]
+[2026.10]
+ 
+:boom:Tejaswi V. Panchagnula, Allison M. Davis, Fengqing Zhu.<br />
+"One-Shot Adaptive Segmentation For Scientific Images ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.10306)]
+[2026.10]
+ 
+:boom:Vivan Kumar, Gautham Vinod, Fengqing Zhu.<br />
+"Reference-Free Food Volume Estimation from Egocentric Stereo Video ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.12735)]
+[2026.10]
+ 
+:boom:**Gamma:**  Yudong Liu, Yueqian Lin, Zijia Tang, Yuxi Zheng, Yuan Li, Shuai Zhang, Yi Li, Taotao Jing, Shuangjun Liu, Dashan Gao, Ning Bi, Jingwei Sun, Yiran Chen, Hai Helen Li.<br />
+"Gamma: Grounded Multi-Agent Memory with Mechanical Audit for Memory-Intensive Manipulation ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.12793)]
+[[code](https://github.com/1999Lyd/GAMMA)]
+[2026.10]
+ 
+:boom:Minh Sao Khue Luu, Bair N. Tuchinov.<br />
+"Dataset-Specific Encoding of Image Content Underlies Cross-Dataset Failure in Brain MRI Foundation Models ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.13027)]
+[[code](https://github.com/BrainFM/brainfm-profiler/tree/main/representation_utility)]
+[2026.10]
+
 :boom:**LAO-X:** Yaqi Cai, Mingxuan Liu, Lorenzo Vaquero, Ning Wang, Nan Pu, Feng Xue, Elisa Ricci, Nicu Sebe.<br />
 "Localize Any Object in X-Ray Security Scans without Human Annotation ." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2610.07326)]
