@@ -380,6 +380,28 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**GDBA-Net:** Biplab Poudel, Betserai Albert Magarire, Anish Kumar Shah, Jiacheng Xie, Dong Xu.<br />
+"GDBA-Net: A Gated Dual-Branch Adaptation of SAM2 for Robust Cross-Domain Nuclei Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.20073)]
+[[code](https://github.com/biplabpoudel25/GDBA_Net)]
+[2026.10]
+ 
+:boom:Weiwei Zhai, Penggao Yan, Liang Wang, Li-Ta Hsu.<br />
+"Point-Supervised Visual Learning for GNSS Measurement Quality Assessment." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.14822)]
+[2026.10]
+ 
+:boom:**MARTS:** Rajmeet Singh, Manveen Kaur, Yusuf Adamu, Lochan Kshetrimayum, Irfan Hussain.<br />
+"MARTS: A Modular Agricultural Robot for Targeted Spraying of Diseased Tomato Plants in Greenhouses." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.18123)]
+[2026.10]
+ 
+:boom:**NavAble:** Hochul Hwang, Jahir Sadik Monon, Soowan Yang, Shiven Umeshbhai Patel, Anh Nhat Hong Nguyen, Kien Nguyen, Keshav Garg, Dylan Gage, Duretti Hordofaa, Anshu Anjna, Eshed Ohn-Bar, Donghyun Kim.<br />
+"NavAble: A Large-Scale Dataset and Synthetic Data Generation Pipeline for Blind Navigation." NeurIPS (2026).
+[[paper](https://arxiv.org/abs/2610.19330)]
+[[code](https://huggingface.co/datasets/NavAble/NeurIPS_2026_BLV)]
+[2026.10]
+
 :boom:**TAG:** Hao Zhu, Heyu Sun, Shuo Jin, Jiayu Xiao, Feng Dai.<br />
 "TAG: Calibrating SAM3 for Universal Image Segmentation without Dense Supervision." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.14651)]
