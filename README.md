@@ -380,196 +380,234 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**FastBench:** Yuxuan Hu, Weikang Shi, Yang Bo, Xudong Lu, Xintong Guo, Shuhan Li, Yuyang He, Huankang Guan, Peiwen Sun, Yunqiao Yang, Wenbo Li, Rui Liu, Hongsheng Li.<br />
+:boom:**TAG:** Hao Zhu, Heyu Sun, Shuo Jin, Jiayu Xiao, Feng Dai.<br />
+"TAG: Calibrating SAM3 for Universal Image Segmentation without Dense Supervision." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.14651)]
+[[code](https://github.com/MiSsU-HH/TAG_SAM3)]
+[2026.10]
+ 
+:boom:**AD-GS:** Zonglin Li, Kexian Xie, Feiran Li, Chu Zhou, Yixing Huang, Ruiyang Chen, Zhanyu Ma, Heng Guo.<br />
+"AD-GS: Anatomical Density-guided 3D Gaussian Splatting for Sparse-View Dental CBCT Reconstruction." BMVC(2026).
+[[paper](https://arxiv.org/abs/2610.14963)]
+[[code](https://github.com/yulinjiaxue/AD-GS-BMVC2026)]
+[2026.10]
+ 
+:boom:**BaT-SAM:** Sumiaya Jannat, Md Mahedi Hasan, Md Shamimul Islam, Md Nur Hossain.<br />
+"BaT-SAM: Introducing Inductive Bias into SAM via a Mixture of Convolutional Experts for Brain Tumor Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.15330)]
+[2026.10]
+ 
+:boom:**Dual-Agent:** Valay Bundele, Susmit Agrawal, Mehran Hosseinzadeh, The Nam Nguyen, Hendrik P. A. Lensch.<br />
+"When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation." NeurIPS (2026).
+[[paper](https://arxiv.org/abs/2610.15929)]
+[[code](https://valaybundele.github.io/Dual-Agent)]
+[2026.10]
+ 
+:boom:**SG-GS:** Yueling Liao, San Jiang, Xing Zhang, Zhongwen Hu.<br />
+"3D Gaussian Splatting for Fine-grained Urban Scene Reconstruction via Semantic-guided Density Control and Loss Design." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.16292)]
+[2026.10]
+
+:boom:Michalis Pistos, Bartłomiej W. Papież.<br />
+"Beyond the Encoder: Object-Centric Representations Emerging from Segmentation Foundation Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.18543)]
+[2026.10]
+ 
+:boom:**SAM3RL:** Tomáš Čížek, Matej Straka, Illia Volkov, Matěj Kripner, Ervin Macić, Jiri Matas, Klara Janouskova, Martin Schmid.<br />
+"SAM3RL: Memory Control via Reinforcement Learning for Visual Object Tracking." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.19931)]
+[2026.10]
+
+- **FastBench:** Yuxuan Hu, Weikang Shi, Yang Bo, Xudong Lu, Xintong Guo, Shuhan Li, Yuyang He, Huankang Guan, Peiwen Sun, Yunqiao Yang, Wenbo Li, Rui Liu, Hongsheng Li.<br />
 "FastBench: Can Streaming VLMs Perceive High-Dynamic Real-World Streams? ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.12427)]
 [[code](https://github.com/Ashone3/FastBench)]
 [2026.10]
 
-:boom:Estela Monserrat Arriaga Santana, Julian Rosas Scull, Ibeth P. Alarcón, Bibiana Montoya, Aylin Sosa Mejía, Hugo Jair Escalante.<br />
+- Estela Monserrat Arriaga Santana, Julian Rosas Scull, Ibeth P. Alarcón, Bibiana Montoya, Aylin Sosa Mejía, Hugo Jair Escalante.<br />
 "Towards benchmarking Western Bluebird detection in the wild ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.07802)]
 [2026.10]
  
-:boom:Tejaswi V. Panchagnula, Allison M. Davis, Fengqing Zhu.<br />
+- Tejaswi V. Panchagnula, Allison M. Davis, Fengqing Zhu.<br />
 "One-Shot Adaptive Segmentation For Scientific Images ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.10306)]
 [2026.10]
  
-:boom:Vivan Kumar, Gautham Vinod, Fengqing Zhu.<br />
+- Vivan Kumar, Gautham Vinod, Fengqing Zhu.<br />
 "Reference-Free Food Volume Estimation from Egocentric Stereo Video ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.12735)]
 [2026.10]
  
-:boom:**Gamma:**  Yudong Liu, Yueqian Lin, Zijia Tang, Yuxi Zheng, Yuan Li, Shuai Zhang, Yi Li, Taotao Jing, Shuangjun Liu, Dashan Gao, Ning Bi, Jingwei Sun, Yiran Chen, Hai Helen Li.<br />
+- **Gamma:**  Yudong Liu, Yueqian Lin, Zijia Tang, Yuxi Zheng, Yuan Li, Shuai Zhang, Yi Li, Taotao Jing, Shuangjun Liu, Dashan Gao, Ning Bi, Jingwei Sun, Yiran Chen, Hai Helen Li.<br />
 "Gamma: Grounded Multi-Agent Memory with Mechanical Audit for Memory-Intensive Manipulation ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.12793)]
 [[code](https://github.com/1999Lyd/GAMMA)]
 [2026.10]
  
-:boom:Minh Sao Khue Luu, Bair N. Tuchinov.<br />
+- Minh Sao Khue Luu, Bair N. Tuchinov.<br />
 "Dataset-Specific Encoding of Image Content Underlies Cross-Dataset Failure in Brain MRI Foundation Models ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.13027)]
 [[code](https://github.com/BrainFM/brainfm-profiler/tree/main/representation_utility)]
 [2026.10]
 
-:boom:**LAO-X:** Yaqi Cai, Mingxuan Liu, Lorenzo Vaquero, Ning Wang, Nan Pu, Feng Xue, Elisa Ricci, Nicu Sebe.<br />
+- **LAO-X:** Yaqi Cai, Mingxuan Liu, Lorenzo Vaquero, Ning Wang, Nan Pu, Feng Xue, Elisa Ricci, Nicu Sebe.<br />
 "Localize Any Object in X-Ray Security Scans without Human Annotation ." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2610.07326)]
 [[code](https://github.com/yaqicai/LAO-X)]
 [[project](https://yaqicai.github.io/lao-x/)]
 [2026.10]
  
-:boom:**Anaximander:** Satej S. Soman, Akram Zaytar, Girmaw A. Tadesse, Gilles Q. Hacheme, Muhammad S. Danish, Inbal Becker-Reshef, Rahul Dodhia, Juan Lavista Ferres.<br />
+- **Anaximander:** Satej S. Soman, Akram Zaytar, Girmaw A. Tadesse, Gilles Q. Hacheme, Muhammad S. Danish, Inbal Becker-Reshef, Rahul Dodhia, Juan Lavista Ferres.<br />
 "Anaximander: Interactively Running Geospatial Deep Learning Models on Any Compute Backend." ECCVW (2026).
 [[paper](https://arxiv.org/abs/2610.09085)]
 [[code](https://github.com/microsoft/nxmndr)]
 [2026.10]
  
-:boom:Ehsan Agha Ebrahimi, Yong-Cheol Lee, Keith G. Mills.<br />
+- Ehsan Agha Ebrahimi, Yong-Cheol Lee, Keith G. Mills.<br />
 "Domain Adaptation of SAM 2.1 for Building-Component Segmentation in Image-Based 3D Reconstruction." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.12786)]
 [2026.10]
 
-:boom:**RSPoint-SAM:** Yujia Chen, Hao Cui, Zuohang Wu, Bin Lei, Guo Zhang, Li Zhang, Chunyang Zhu, Tian Feng, Gui Gao.<br />
+- **RSPoint-SAM:** Yujia Chen, Hao Cui, Zuohang Wu, Bin Lei, Guo Zhang, Li Zhang, Chunyang Zhu, Tian Feng, Gui Gao.<br />
 "RSPoint-SAM: A SAM-Driven Method With Cross-Level Feature Fusion for Point Supervised Segmentation." TGRS (2026).
 [[paper](https://xplorestaging.ieee.org/document/11483149)]
 [[code](https://github.com/Yujia73/RSPoint-SAM)]
 [2026.10]
 
-:boom:**LAO-X:** Yaqi Cai, Mingxuan Liu, Lorenzo Vaquero, Ning Wang, Nan Pu, Feng Xue, Elisa Ricci, Nicu Sebe.<br />
+- **LAO-X:** Yaqi Cai, Mingxuan Liu, Lorenzo Vaquero, Ning Wang, Nan Pu, Feng Xue, Elisa Ricci, Nicu Sebe.<br />
 "Localize Any Object in X-Ray Security Scans without Human Annotation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.07326)]
 [2026.10]
 
-:boom:Estela Monserrat Arriaga Santana, Julian Rosas Scull, Ibeth P. Alarcón, Bibiana Montoya, Aylin Sosa Mejía, Hugo Jair Escalante.<br />
+- Estela Monserrat Arriaga Santana, Julian Rosas Scull, Ibeth P. Alarcón, Bibiana Montoya, Aylin Sosa Mejía, Hugo Jair Escalante.<br />
 "Towards benchmarking Western Bluebird detection in the wild." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.07802)]
 [2026.10]
  
-:boom:**UniCounting:** Jinshi Liu, Pan Liu, Lei He, Weichao Luo, Rui Qian.<br />
+- **UniCounting:** Jinshi Liu, Pan Liu, Lei He, Weichao Luo, Rui Qian.<br />
 "UniCounting: Instance-Aware Proposal Consolidation for Image-Query-Free Multi-Category Counting." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.08379)]
 [2026.10]
 
-:boom:**ViTok:** Hailun Xu, Kanchan Sarkar.<br />
+- **ViTok:** Hailun Xu, Kanchan Sarkar.<br />
 "ViTok: Improving Dense Semantics in AM-RADIO-Style Multi-Teacher Distillation with PHI-S and Masked Image Modelling." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.02903)]
 [2026.10]
  
-:boom:**OAMR,:** Jianzheng Wang, Huan Ni, Xiaonan Niu, Danfeng Hong, Haiyan Guan.<br />
+- **OAMR,:** Jianzheng Wang, Huan Ni, Xiaonan Niu, Danfeng Hong, Haiyan Guan.<br />
 "A Geometric-Transformation Feature-Adaptive Manifold Restoration Method for Open-Vocabulary Semantic Segmentation of Remote Sensing Images." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.04300)]
 [2026.10]
 
-:boom:**GS-Pool:** Boaz Keren-Gil, James Gain, Patrick Marais.<br />
+- **GS-Pool:** Boaz Keren-Gil, James Gain, Patrick Marais.<br />
 "GS-Pool: Object-Level Change Detection in 3D Gaussian Splatting." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.06688)]
 [2026.10]
  
-:boom:**FaVOS:** Jihwan Hong, Woohyeon Park, Jaeik Kim, Jaeyoung Do.<br />
+- **FaVOS:** Jihwan Hong, Woohyeon Park, Jaeik Kim, Jaeyoung Do.<br />
 "When Predicting Nothing Beats SAM 3: Revisiting Evaluation in Video Object Segmentation." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2610.02946)]
 [[code](https://aidaslab.github.io/FaVOS)]
 [2026.10]
 
-:boom:**FrontVeg V2:** Abdoul Djalil Ousseini Hamza, Herearii Metuarea, Corentin Lothod{é}, Morgane Roth, Jacem Ben Hamden, Eric Duch{ê}ne, Lionel Ley, David Alletru, David Rousseau.<br />
+- **FrontVeg V2:** Abdoul Djalil Ousseini Hamza, Herearii Metuarea, Corentin Lothod{é}, Morgane Roth, Jacem Ben Hamden, Eric Duch{ê}ne, Lionel Ley, David Alletru, David Rousseau.<br />
 "FrontVeg V2: A Training-Free Software Framework for Foreground-Aware Zero-Shot Plant Trait Segmentation in High-Resolution Images of Trellised Crops." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.06575)]
 [2026.10]
  
-:boom:**PAR:** Yimin Fu, Songbo Wang, Lizhuo Liu, Baicheng Pan, Zhunga Liu, Michael K. Ng.<br />
+- **PAR:** Yimin Fu, Songbo Wang, Lizhuo Liu, Baicheng Pan, Zhunga Liu, Michael K. Ng.<br />
 "Prompt and Refinement: Asymmetric Mutual Learning for Infrared Small Target Detection with Noisy Labels." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.05918)]
 [[code](https://github.com/fuyimin96/PAR)]
 [2026.10]
  
-:boom:**RAGrasp:** Shenzhe Zhu, Chengxiao He, Jan Harder.<br />
+- **RAGrasp:** Shenzhe Zhu, Chengxiao He, Jan Harder.<br />
 "RAGrasp: Geometry-Semantic Template Retrieval and Grasp Transfer." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.04438)]
 [2026.10]
  
-:boom:Zewen Zhuo, Ilya Belevich, Eija Jokitalo, Alejandra Sierra, Jussi Tohka.<br />
+- Zewen Zhuo, Ilya Belevich, Eija Jokitalo, Alejandra Sierra, Jussi Tohka.<br />
 "A Fully Automatic Pipeline for 3D Dendrite Instance Segmentation in SBF-SEM." IECBES(2026).
 [[paper](https://arxiv.org/abs/2610.01286)]
 [[code](https://github.com/ZE-WEN/dendrite-3d-instance-seg)]
 [2026.10]
 
-:boom:**MotorMind:** Bingxuan Li, Siqi Song, Yizhuo Wu, Jiarui Yao, Tong Zhang, Huan Zhang.<br />
+- **MotorMind:** Bingxuan Li, Siqi Song, Yizhuo Wu, Jiarui Yao, Tong Zhang, Huan Zhang.<br />
 "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.38078)]
 [[code](https://motor-mind.github.io/)]
 [2026.09]
 
-:boom:Arash Rocky, Q. M. Jonathan Wu.<br />
+- Arash Rocky, Q. M. Jonathan Wu.<br />
 "Towards Automatic Video Annotation with ASH: Zero-Shot Open-Vocabulary Multi-Object Tracking and Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.01022)]
 [2026.09]
 
-:boom:Xiaoyu Yang, Sen Han, Da Li, Nan Wu.<br />
+- Xiaoyu Yang, Sen Han, Da Li, Nan Wu.<br />
 "Geometry-Preserving Human-to-Robot Upper-Body Motion Retargeting from Monocular Video." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.37776)]
 [2026.09]
 
-:boom:Xuyang Cao, Enyou Liu, Jun Zhao, Zhuoyun Liu, Jintao Fei, Leo.<br />
+- Xuyang Cao, Enyou Liu, Jun Zhao, Zhuoyun Liu, Jintao Fei, Leo.<br />
 "SAM Meets VLM: Parameter-Decoupled Full-Parameter Training for Unified Medical Reasoning and Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.37283)]
 [2026.09]
 
-:boom:**UniAfford:** Yuhao Liu, Yiming Zhong, Hanqing Wang, Shaocheng Yan, Yuhang Zhang, Wenzhou Lyu, Ziyang Ding, Wei Zhang, Xue Zhao, Jin Pan, Yuexin Ma, Xinge Zhu.<br />
+- **UniAfford:** Yuhao Liu, Yiming Zhong, Hanqing Wang, Shaocheng Yan, Yuhang Zhang, Wenzhou Lyu, Ziyang Ding, Wei Zhang, Xue Zhao, Jin Pan, Yuexin Ma, Xinge Zhu.<br />
 "UniAfford: Token-Routed Multitask Learning for Generalizable 2D-3D Affordance Perception." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.37264)]
 [[code](https://4dvlab.github.io/UniAfford)]
 [2026.09]
 
-:boom:**FOCAL:** Chenqi Kong, Song Xia, Anwei Luo, Peisong He, Alex C. Kot, Yuming Fang.<br />
+- **FOCAL:** Chenqi Kong, Song Xia, Anwei Luo, Peisong He, Alex C. Kot, Yuming Fang.<br />
 "Forensic-Aware Continual Adaptation for Image Forgery Localization." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.38251)]
 [2026.09]
 
-:boom:**Dyna3:** Xinhao Xiang, Weiyang Li, Zhijie Zheng, Abhijeet Rastogi, Jiawei Zhang.<br />
+- **Dyna3:** Xinhao Xiang, Weiyang Li, Zhijie Zheng, Abhijeet Rastogi, Jiawei Zhang.<br />
 "Dyna3: VLM-Guided Training-Free 4D Reconstruction via Depth Foundation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.01286)]
 [2026.09]
 
-:boom:**PixelDense:** Lehan Yang, Daiqing Qi, Wenhao Zhang, Avery Li, Yiqing Yang, Yifan Li, Yu Kong, Haitian Zheng, Zhifei Zhang, Zhe Lin, Varun Jampani, Sheng Li.<br />
+- **PixelDense:** Lehan Yang, Daiqing Qi, Wenhao Zhang, Avery Li, Yiqing Yang, Yifan Li, Yu Kong, Haitian Zheng, Zhifei Zhang, Zhe Lin, Varun Jampani, Sheng Li.<br />
 "PixelDense: Dense Prediction as Representation Alignment for Pixel Diffusion." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2610.00483)]
 [2026.09]
 
-:boom:**MoSA:** Weijian Jian, Xiaoyue Zhang, Bin Xiao, Chunyu Xie, Yixiao He, Yutao Liu, Dawei Leng, Yuhui Yin.<br />
+- **MoSA:** Weijian Jian, Xiaoyue Zhang, Bin Xiao, Chunyu Xie, Yixiao He, Yutao Liu, Dawei Leng, Yuhui Yin.<br />
 "Seeing as Humans Do: Learning from Motion to Segment Anything Without Supervision." ECCV (2026).
 [[paper](https://arxiv.org/abs/2609.39785)]
 [[code](https://github.com/360CVGroup/MoSA)]
 [2026.09]
 
-:boom:**AdvPCS:** Ziqi Zhou, Yifan Hu, Yufei Song, Haowen Jiang, Xianlong Wang, Shengshan Hu, Dezhong Yao, Leo Yu Zhang.<br />
+- **AdvPCS:** Ziqi Zhou, Yifan Hu, Yufei Song, Haowen Jiang, Xianlong Wang, Shengshan Hu, Dezhong Yao, Leo Yu Zhang.<br />
 "Universal Cross-Prompt Adversarial Attacks on Promptable Concept Segmentation." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2609.39265)]
 [2026.09]
 
-:boom:**DCM-SAM:** Md Mushfiqur Rahaman, Md Mahedi Hasan, Imtiaz Ahmed, Srinjoy Das.<br />
+- **DCM-SAM:** Md Mushfiqur Rahaman, Md Mahedi Hasan, Imtiaz Ahmed, Srinjoy Das.<br />
 "DCM-SAM: Defect-Conditioned Mixture of LoRA Experts for NPU-Deployed AM Defect Segmentation." NeurIPS Workshop (2026).
 [[paper](https://arxiv.org/abs/2609.38811)]
 [[code](https://github.com/MushfiqShovon/DCM-SAM)]
 [2026.09]
 
-:boom:**HyperSAM:** Li Pang, Xinqiao Wu, Jing Yao, Pedram Ghamisi, Jun Zhou, Zhengchao Chen, Deyu Meng, Xiangyong Cao.<br />
+- **HyperSAM:** Li Pang, Xinqiao Wu, Jing Yao, Pedram Ghamisi, Jun Zhou, Zhengchao Chen, Deyu Meng, Xiangyong Cao.<br />
 "HyperSAM: A Promptable Foundation Model for Hyperspectral Remote Sensing." GRSM(2026).
 [[paper](https://arxiv.org/abs/2609.37340)]
 [2026.09]
 
-:boom:**S4VY:** Jingdong Zhang, Xin Li, Jan Kautz, Wenping Wang, Chris Choy.<br />
+- **S4VY:** Jingdong Zhang, Xin Li, Jan Kautz, Wenping Wang, Chris Choy.<br />
 "S4VY: Segment Anything in Feed-Forward 4D Visual Geometry." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2609.36875)]
 [2026.09]
 
-:boom:**RoboFin3D:** Haowei Wen, Shangtao Li, Vaibhav Sanjay, Philip Huang, Jiaoyang Li, Changliu Liu.<br />
+- **RoboFin3D:** Haowei Wen, Shangtao Li, Vaibhav Sanjay, Philip Huang, Jiaoyang Li, Changliu Liu.<br />
 "RoboFin3D: A Sim-to-Real Platform for Robotic Surface Finishing." IROS Workshop(2026).
 [[paper](https://arxiv.org/abs/2609.37560)]
 [2026.09]
  
-:boom:**EDRRM:** Abu Hanif Muhammad Syarubany, Jaehyun Jang, Siwoo Lim, Seungyeon Ryu, Chang D. Yoo.<br />
+- **EDRRM:** Abu Hanif Muhammad Syarubany, Jaehyun Jang, Siwoo Lim, Seungyeon Ryu, Chang D. Yoo.<br />
 "Event-Driven Refresh and Recurrence Memory to Reduce Stale Grounding in Referring Video Object Segmentation." IEEE Access(2026).
 [[paper](https://arxiv.org/abs/2609.38758)]
 [[code](https://arxiv.org/abs/2609.38758)]
