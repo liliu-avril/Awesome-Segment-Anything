@@ -380,62 +380,79 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**GDBA-Net:** Biplab Poudel, Betserai Albert Magarire, Anish Kumar Shah, Jiacheng Xie, Dong Xu.<br />
+:boom:**DCR-SAM:** Wenbin Liao, Hao Zhu, Yike Ma, Hao Jiang, Feng Dai.<br />
+"Efficient SAM3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations." NeurIPS (2026).
+[[paper](https://arxiv.org/abs/2610.27960)]
+[[code](https://github.com/set-path/DCR-SAM/tree/main)]
+[2026.10]
+ 
+:boom:**TEMPL:** Ashiqur Rahman, Venkata Devesh Reddy Seethi, Austin Yunker, Rajkumar Kettimuthu, Hamed Alhoori.<br />
+"TEMPL: A Resource-Efficient and Transparent Model-Free Framework for Pseudo-Label Generation in Material CT Scans." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.28974)]
+[2026.10]
+ 
+:boom:**CVP-BAA:** Mei Wang, Minghui Li, Libin Lan.<br />
+"CVP-BAA: Efficiently Adapting Segment Anything Model for Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.30672)]
+[[code](https://github.com/WangMei-wm/CVP-BAA)]
+[2026.10]
+
+- **GDBA-Net:** Biplab Poudel, Betserai Albert Magarire, Anish Kumar Shah, Jiacheng Xie, Dong Xu.<br />
 "GDBA-Net: A Gated Dual-Branch Adaptation of SAM2 for Robust Cross-Domain Nuclei Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.20073)]
 [[code](https://github.com/biplabpoudel25/GDBA_Net)]
 [2026.10]
  
-:boom:Weiwei Zhai, Penggao Yan, Liang Wang, Li-Ta Hsu.<br />
+- Weiwei Zhai, Penggao Yan, Liang Wang, Li-Ta Hsu.<br />
 "Point-Supervised Visual Learning for GNSS Measurement Quality Assessment." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.14822)]
 [2026.10]
  
-:boom:**MARTS:** Rajmeet Singh, Manveen Kaur, Yusuf Adamu, Lochan Kshetrimayum, Irfan Hussain.<br />
+- **MARTS:** Rajmeet Singh, Manveen Kaur, Yusuf Adamu, Lochan Kshetrimayum, Irfan Hussain.<br />
 "MARTS: A Modular Agricultural Robot for Targeted Spraying of Diseased Tomato Plants in Greenhouses." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.18123)]
 [2026.10]
  
-:boom:**NavAble:** Hochul Hwang, Jahir Sadik Monon, Soowan Yang, Shiven Umeshbhai Patel, Anh Nhat Hong Nguyen, Kien Nguyen, Keshav Garg, Dylan Gage, Duretti Hordofaa, Anshu Anjna, Eshed Ohn-Bar, Donghyun Kim.<br />
+- **NavAble:** Hochul Hwang, Jahir Sadik Monon, Soowan Yang, Shiven Umeshbhai Patel, Anh Nhat Hong Nguyen, Kien Nguyen, Keshav Garg, Dylan Gage, Duretti Hordofaa, Anshu Anjna, Eshed Ohn-Bar, Donghyun Kim.<br />
 "NavAble: A Large-Scale Dataset and Synthetic Data Generation Pipeline for Blind Navigation." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2610.19330)]
 [[code](https://huggingface.co/datasets/NavAble/NeurIPS_2026_BLV)]
 [2026.10]
 
-:boom:**TAG:** Hao Zhu, Heyu Sun, Shuo Jin, Jiayu Xiao, Feng Dai.<br />
+- **TAG:** Hao Zhu, Heyu Sun, Shuo Jin, Jiayu Xiao, Feng Dai.<br />
 "TAG: Calibrating SAM3 for Universal Image Segmentation without Dense Supervision." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.14651)]
 [[code](https://github.com/MiSsU-HH/TAG_SAM3)]
 [2026.10]
  
-:boom:**AD-GS:** Zonglin Li, Kexian Xie, Feiran Li, Chu Zhou, Yixing Huang, Ruiyang Chen, Zhanyu Ma, Heng Guo.<br />
+- **AD-GS:** Zonglin Li, Kexian Xie, Feiran Li, Chu Zhou, Yixing Huang, Ruiyang Chen, Zhanyu Ma, Heng Guo.<br />
 "AD-GS: Anatomical Density-guided 3D Gaussian Splatting for Sparse-View Dental CBCT Reconstruction." BMVC(2026).
 [[paper](https://arxiv.org/abs/2610.14963)]
 [[code](https://github.com/yulinjiaxue/AD-GS-BMVC2026)]
 [2026.10]
  
-:boom:**BaT-SAM:** Sumiaya Jannat, Md Mahedi Hasan, Md Shamimul Islam, Md Nur Hossain.<br />
+- **BaT-SAM:** Sumiaya Jannat, Md Mahedi Hasan, Md Shamimul Islam, Md Nur Hossain.<br />
 "BaT-SAM: Introducing Inductive Bias into SAM via a Mixture of Convolutional Experts for Brain Tumor Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.15330)]
 [2026.10]
  
-:boom:**Dual-Agent:** Valay Bundele, Susmit Agrawal, Mehran Hosseinzadeh, The Nam Nguyen, Hendrik P. A. Lensch.<br />
+- **Dual-Agent:** Valay Bundele, Susmit Agrawal, Mehran Hosseinzadeh, The Nam Nguyen, Hendrik P. A. Lensch.<br />
 "When Trackers Fail: VLM-Guided Verification and Recovery for Robust Video Object Segmentation." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2610.15929)]
 [[code](https://valaybundele.github.io/Dual-Agent)]
 [2026.10]
  
-:boom:**SG-GS:** Yueling Liao, San Jiang, Xing Zhang, Zhongwen Hu.<br />
+- **SG-GS:** Yueling Liao, San Jiang, Xing Zhang, Zhongwen Hu.<br />
 "3D Gaussian Splatting for Fine-grained Urban Scene Reconstruction via Semantic-guided Density Control and Loss Design." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.16292)]
 [2026.10]
 
-:boom:Michalis Pistos, Bartłomiej W. Papież.<br />
+- Michalis Pistos, Bartłomiej W. Papież.<br />
 "Beyond the Encoder: Object-Centric Representations Emerging from Segmentation Foundation Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.18543)]
 [2026.10]
  
-:boom:**SAM3RL:** Tomáš Čížek, Matej Straka, Illia Volkov, Matěj Kripner, Ervin Macić, Jiri Matas, Klara Janouskova, Martin Schmid.<br />
+- **SAM3RL:** Tomáš Čížek, Matej Straka, Illia Volkov, Matěj Kripner, Ervin Macić, Jiri Matas, Klara Janouskova, Martin Schmid.<br />
 "SAM3RL: Memory Control via Reinforcement Learning for Visual Object Tracking." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.19931)]
 [2026.10]
