@@ -380,6 +380,18 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**LECDrive:** Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen.<br />
+"Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving." NeurIPS (2026).
+[[paper](https://arxiv.org/abs/2610.25734)]
+[[code](https://wj-cv.github.io/LECDrive/)]
+[2026.10]
+ 
+:boom:**WholeBodyMem:** Chenyuan Chen, Ran Ding, Lechen Zhang, Zewen He, Yoshihiko Nakamura.<br />
+"Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.31166)]
+[[code](https://memory-before-goal.github.io)]
+[2026.10]
+
 :boom:**ATLAS:** Hamidreza Dastmalchi, Ali Cheraghian, Aijun An, Abdelwahed Khamis, Lars Petersson.<br />
 "ATLAS: Learning to Adapt LVLM Attention for Reasoning Video Segmentation." WACV (2026).
 [[paper](https://arxiv.org/abs/2610.24783)]
