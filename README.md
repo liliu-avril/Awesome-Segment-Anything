@@ -380,6 +380,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ATLAS:** Hamidreza Dastmalchi, Ali Cheraghian, Aijun An, Abdelwahed Khamis, Lars Petersson.<br />
+"ATLAS: Learning to Adapt LVLM Attention for Reasoning Video Segmentation." WACV (2026).
+[[paper](https://arxiv.org/abs/2610.24783)]
+[[code](https://hamidreza-136.github.io/atlas/)]
+[2026.10]
+ 
+:boom:**CVG-SGM:** Jiahui Hu, Li Gao, Yu Liu, Pengzhan Zhou.<br />
+"Cross-Visibility-Gap Identity Persistence for 4D Scene Graphs." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.27505)]
+[2026.10]
+
+:boom:**OccJEPA:** Genpei Zhang.<br />
+"OccJEPA: Occlusion as Masking for Amodal Video Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.29061)]
+[[code](https://github.com/zgp110/occjepa)]
+[2026.10]
+ 
+:boom:**GuidedSAM-Plume:** Taddeo D'Adamo, Simon Thivet, Catherine Pothier, Riccardo Simionato, Allan Fries, Jonathan Lemus, Costanza Bonadonna, Laure Tougne Rodet, Bertrand Kerautret.<br />
+"GuidedSAM-Plume: An Expert-Guided Segmentation Framework for Volcanic Plumes." ICPR Workshops (2026).
+[[paper](https://arxiv.org/abs/2610.29825)]
+[[code](https://github.com/tad-damo/GuidedSAM-Plume)]
+[2026.10]
+
 :boom:**CLUE:** Megh Shukla, Edo Collins, Prashanth Chandran, Karel Petránek, Sergio Orts-Escolano, Mathieu Salzmann, Alexandre Alahi.<br />
 "Modeling Uncertainty Propagation in 3D Morphable Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.24646)]
