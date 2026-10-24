@@ -380,6 +380,29 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CLUE:** Megh Shukla, Edo Collins, Prashanth Chandran, Karel Petránek, Sergio Orts-Escolano, Mathieu Salzmann, Alexandre Alahi.<br />
+"Modeling Uncertainty Propagation in 3D Morphable Models." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.24646)]
+[[code](https://github.com/vita-epfl/CLUE)]
+[2026.10]
+ 
+:boom:**ViTA-SAM:** Tianqi Wei, Zhi Chen, Xin Yu, Scott Chapman, Zi Huang.<br />
+"Visual Memory and Textual Alignment for Cross-Modal Few-Shot Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.25641)]
+[2026.10]
+ 
+:boom:**LLMSeg:** Abdullah Hamdi.<br />
+"LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.29409)]
+[[code](https://abdullahamdi.com/llmseg/)]
+[2026.10]
+ 
+:boom:**AOV-GS:** Rodion Shkokov, Tatiana Zemskova, Dmitry Yudin.<br />
+"AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting." AIST (2026).
+[[paper](https://arxiv.org/abs/2610.29374)]
+[[code](https://github.com/OptimusFaber/AOV-GS)]
+[2026.10]
+
 :boom:**DCR-SAM:** Wenbin Liao, Hao Zhu, Yike Ma, Hao Jiang, Feng Dai.<br />
 "Efficient SAM3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2610.27960)]
