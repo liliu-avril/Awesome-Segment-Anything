@@ -380,6 +380,34 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**Sam-Correction:** Takuro Shimaya, Masahiro Saiko.<br />
+"Sam-Correction: Fully Adaptive Label Noise Reduction for Medical Image Segmentation." ISBI (2026).
+[[paper](https://arxiv.org/abs/2610.32377)]
+[2026.10]
+ 
+:boom:**DRA-SAM:**  Jisheng Dang, Huaiyuan Peng, Wencan Zhang, Bimei Wang, Jingwen Zhao, Wenjun Ma, Hong Peng, Bin Hu, Qi Tian, Tat-Seng Chua.<br />
+"DRA-SAM: Disagreement-Driven Referential Active SAM for Low-Altitude Drone Referring Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.33057)]
+[[code](https://github.com/phy709/DRA-SAM)]
+[2026.10]
+
+:boom:**PhySeg:** Jialin Li, Jinkun Jiang, Yuezun Li, Junyu Dong.<br />
+"Progressively Refining SAM for Accurate Phytoplankton Segmentation ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.36722)]
+[[code](https://github.com/lijialin404/PhySeg)]
+[2026.10]
+  
+:boom:**RoSAMDepth:** Xuanang Gao, Zhiwei Ning, Gengming Zhang, Jiaxi Cao, Runze Yang, Zhonglong Zheng, Jie Yang, Rong Xiao, Wei Liu.<br />
+"RoSAMDepth: Robust Self-supervised Depth Estimation Leveraging Segment Anything Model ." CVPR (2026).
+[[paper](https://arxiv.org/abs/2610.38587)]
+[[code](https://github.com/xagao/RoSAMDepth)]
+[2026.10]
+ 
+:boom:**SAMBA-UNet:** Chenchen Wang, You Zhou.<br />
+"Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.40029)]
+[[code](XXXXXXXXXXXXXXXXXXXXXX)]
+[2026.10]
 :boom:**SurgGAP:** Song, Shuang, Chengbo Duan, Huaikang Li, Tongyu Jia, Jingdan Zhang, Haoyu Yuan, Dian Song, and Ruoxiu Xiao.<br />
 "SurgGAP: Geometry-Guided Automatic Prompting for SAM2-Based Multiclass Surgical Instrument Video Segmentation." Electronics (2026).
 [[paper](https://www.mdpi.com/2079-9292/15/20/4689)]
