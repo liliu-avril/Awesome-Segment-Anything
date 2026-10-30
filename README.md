@@ -380,6 +380,11 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SurgGAP:** Song, Shuang, Chengbo Duan, Huaikang Li, Tongyu Jia, Jingdan Zhang, Haoyu Yuan, Dian Song, and Ruoxiu Xiao.<br />
+"SurgGAP: Geometry-Guided Automatic Prompting for SAM2-Based Multiclass Surgical Instrument Video Segmentation." Electronics (2026).
+[[paper](https://www.mdpi.com/2079-9292/15/20/4689)]
+[2026.10]
+
 :boom:**LECDrive:** Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen.<br />
 "Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2610.25734)]
