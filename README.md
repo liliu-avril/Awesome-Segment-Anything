@@ -380,6 +380,30 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**CAST-Bench:** Yucong Liu, Qi Tian, Shuyuan Tu, Kaihang Pan, Weijie Kong, Chao Pan.<br />
+"CAST-Bench: Tracing Every Sound to Its Source in Multi-Shot Audio-Video Generation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.05422)]
+[[code](https://github.com/yucong-liu/CAST-Bench-public)]
+[2026.11]
+ 
+:boom:**FAH:**  Jinkun Cao.<br />
+"Fast and Accurate Hand Estimation in Pixels, Interaction and World Space." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.07711)]
+[[code](https://github.com/noahcao/FAH)]
+[2026.11]
+ 
+:boom:**TerraMesh-Masks:** Benedikt Blumenstiel, Hugues Devimeux, Johannes Jakubik, Konrad Schindler.<br />
+"TerraMesh-Masks: Open-Vocabulary Segmentation for Earth Observation ." NeurIPS (2026).
+[[paper](https://arxiv.org/abs/2611.08081)]
+[[code](https://huggingface.co/datasets/ibm-esa-geospatial/TerraMesh-Masks)]
+[2026.11]
+ 
+:boom:**ControlAnything:** Bektur Ryskeldiev.<br />
+"ControlAnything: Generative UI and On-Demand Device Integration for Mixed-Reality Hand Interaction by a Coding Agent." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.08321)]
+[[code](https://github.com/Apolotary/controlanything)]
+[2026.11]
+
 :boom:**TileSAM3:** Tae E. Cooper, Michael Gee, Sheila Whitman, Jemma Dengel, Anthony Katselas, Duygu Dengiz, Frank Keutsch, Joanna Aizenberg.<br />
 "Analyzing Condensation on Patterned Surfaces via Deep Learning ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.39195)]
