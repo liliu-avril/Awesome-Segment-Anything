@@ -380,109 +380,156 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:**Sam-Correction:** Takuro Shimaya, Masahiro Saiko.<br />
+:boom:**TileSAM3:** Tae E. Cooper, Michael Gee, Sheila Whitman, Jemma Dengel, Anthony Katselas, Duygu Dengiz, Frank Keutsch, Joanna Aizenberg.<br />
+"Analyzing Condensation on Patterned Surfaces via Deep Learning ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.39195)]
+[2026.11]
+ 
+:boom:**SAMBA-UNet:** Chenchen Wang.<br />
+"Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.40029)]
+[2026.11]
+
+:boom:**Pancreas-MedNeXt:** Zach Eidex, Mojtaba Safari, Kundan Thind, Parag J. Parikh, Zhen Tian, Xiaofeng Yang.<br />
+"Segment Anything Pancreas: A Unified MRI Segmentation Model for Pancreatic Cancer Radiotherapy." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.41063)]
+[2026.11]
+ 
+:boom:**RI-SAM3:** Jiahao Nie, Yun Xing, Wenbin An, Qixin Zhang, Yap-Peng Tan, Alex C. Kot, Shijian Lu.<br />
+"From Visual Matching to Textual Conditioning: Cross-Domain Few-Shot Segmentation via Reference Inversion." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.04084)]
+[2026.11]
+ 
+:boom:Jie Liu, Xusheng Tang, Chao Wang, Zhengxiao Yan, Yuchen Dai, Qi Zhang, Conghe Song.<br />
+"Using GeoAI and machine learning tools for consistent high-resolution land cover mapping based on time-series NAIP imagery ." Landscape Ecology (2026).
+[[paper](https://arxiv.org/abs/2611.04470)]
+[2026.11]
+ 
+:boom:**MV-PVMapper:**  WenHao Duan, Qi Chen, Penglei Zhang, Ruizhe Deng, Zhiling Guo, Haoran Zhang, Yuntian Chen.<br />
+"High-fidelity training-free photovoltaic module mapping from multi-view UAV imagery ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.05131)]
+[2026.11]
+ 
+:boom:**AgentCount:**  Zhuosheng Liu, Austin E. Weber.<br />
+"AgentCount: An Agentic Workflow for Traceable Colony Counting and Insight Generation from Agar Plate Images." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.05398)]
+[2026.11]
+ 
+:boom:**PTQ4SAM3:** Xi Xiao, Yunbei Zhang, Lin Zhao, Janet Wang, Xinru Jiang, Yanshu Li, Chenrui Ma, Pan Wang, Tianyang Wang, Xiao Wang.<br />
+"PTQ4SAM3: Semantics-Preserving Post-Training Quantization for Segment Anything Model 3 ." WACV (2026).
+[[paper](https://arxiv.org/abs/2611.06143)]
+[2026.11]
+ 
+:boom:**HG-Omni:** Jisheng Dang, Kai Wei, Ronghao Lin, Bimei Wang, Hong Peng, Wei-Shi Zheng, Bin Hu, Qi Tian, Tat-Seng Chua.<br />
+"HG-Omni: Traceable Human-Centric Graph Supervision for Video Reasoning ." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.07836)]
+[[code](https://anonymous.4open.science/r/review-n94hhfcwp5666/)]
+[2026.11]
+
+- **Sam-Correction:** Takuro Shimaya, Masahiro Saiko.<br />
 "Sam-Correction: Fully Adaptive Label Noise Reduction for Medical Image Segmentation." ISBI (2026).
 [[paper](https://arxiv.org/abs/2610.32377)]
 [2026.10]
  
-:boom:**DRA-SAM:**  Jisheng Dang, Huaiyuan Peng, Wencan Zhang, Bimei Wang, Jingwen Zhao, Wenjun Ma, Hong Peng, Bin Hu, Qi Tian, Tat-Seng Chua.<br />
+- **DRA-SAM:**  Jisheng Dang, Huaiyuan Peng, Wencan Zhang, Bimei Wang, Jingwen Zhao, Wenjun Ma, Hong Peng, Bin Hu, Qi Tian, Tat-Seng Chua.<br />
 "DRA-SAM: Disagreement-Driven Referential Active SAM for Low-Altitude Drone Referring Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.33057)]
 [[code](https://github.com/phy709/DRA-SAM)]
 [2026.10]
 
-:boom:**PhySeg:** Jialin Li, Jinkun Jiang, Yuezun Li, Junyu Dong.<br />
+- **PhySeg:** Jialin Li, Jinkun Jiang, Yuezun Li, Junyu Dong.<br />
 "Progressively Refining SAM for Accurate Phytoplankton Segmentation ." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.36722)]
 [[code](https://github.com/lijialin404/PhySeg)]
 [2026.10]
   
-:boom:**RoSAMDepth:** Xuanang Gao, Zhiwei Ning, Gengming Zhang, Jiaxi Cao, Runze Yang, Zhonglong Zheng, Jie Yang, Rong Xiao, Wei Liu.<br />
+- **RoSAMDepth:** Xuanang Gao, Zhiwei Ning, Gengming Zhang, Jiaxi Cao, Runze Yang, Zhonglong Zheng, Jie Yang, Rong Xiao, Wei Liu.<br />
 "RoSAMDepth: Robust Self-supervised Depth Estimation Leveraging Segment Anything Model ." CVPR (2026).
 [[paper](https://arxiv.org/abs/2610.38587)]
 [[code](https://github.com/xagao/RoSAMDepth)]
 [2026.10]
  
-:boom:**SAMBA-UNet:** Chenchen Wang, You Zhou.<br />
+- **SAMBA-UNet:** Chenchen Wang, You Zhou.<br />
 "Segment Anything Model Based Context Guided Mamba Unet for Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.40029)]
 [[code](XXXXXXXXXXXXXXXXXXXXXX)]
 [2026.10]
-:boom:**SurgGAP:** Song, Shuang, Chengbo Duan, Huaikang Li, Tongyu Jia, Jingdan Zhang, Haoyu Yuan, Dian Song, and Ruoxiu Xiao.<br />
+
+- **SurgGAP:** Song, Shuang, Chengbo Duan, Huaikang Li, Tongyu Jia, Jingdan Zhang, Haoyu Yuan, Dian Song, and Ruoxiu Xiao.<br />
 "SurgGAP: Geometry-Guided Automatic Prompting for SAM2-Based Multiclass Surgical Instrument Video Segmentation." Electronics (2026).
 [[paper](https://www.mdpi.com/2079-9292/15/20/4689)]
 [2026.10]
 
-:boom:**LECDrive:** Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen.<br />
+- **LECDrive:** Jie Wang, Guang Li, Zhijian Huang, Jinlong Li, Chenxu Dang, Hangjun Ye, Yahong Han, Long Chen.<br />
 "Think Densely, Act Sparsely: Latent Expert Cognitive Chains for Vision-Language-Action Autonomous Driving." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2610.25734)]
 [[code](https://wj-cv.github.io/LECDrive/)]
 [2026.10]
  
-:boom:**WholeBodyMem:** Chenyuan Chen, Ran Ding, Lechen Zhang, Zewen He, Yoshihiko Nakamura.<br />
+- **WholeBodyMem:** Chenyuan Chen, Ran Ding, Lechen Zhang, Zewen He, Yoshihiko Nakamura.<br />
 "Memory before Goal: Role of Pre-History Memory for Humanoid Loco-Manipulation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.31166)]
 [[code](https://memory-before-goal.github.io)]
 [2026.10]
 
-:boom:**ATLAS:** Hamidreza Dastmalchi, Ali Cheraghian, Aijun An, Abdelwahed Khamis, Lars Petersson.<br />
+- **ATLAS:** Hamidreza Dastmalchi, Ali Cheraghian, Aijun An, Abdelwahed Khamis, Lars Petersson.<br />
 "ATLAS: Learning to Adapt LVLM Attention for Reasoning Video Segmentation." WACV (2026).
 [[paper](https://arxiv.org/abs/2610.24783)]
 [[code](https://hamidreza-136.github.io/atlas/)]
 [2026.10]
  
-:boom:**CVG-SGM:** Jiahui Hu, Li Gao, Yu Liu, Pengzhan Zhou.<br />
+- **CVG-SGM:** Jiahui Hu, Li Gao, Yu Liu, Pengzhan Zhou.<br />
 "Cross-Visibility-Gap Identity Persistence for 4D Scene Graphs." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.27505)]
 [2026.10]
 
-:boom:**OccJEPA:** Genpei Zhang.<br />
+- **OccJEPA:** Genpei Zhang.<br />
 "OccJEPA: Occlusion as Masking for Amodal Video Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.29061)]
 [[code](https://github.com/zgp110/occjepa)]
 [2026.10]
  
-:boom:**GuidedSAM-Plume:** Taddeo D'Adamo, Simon Thivet, Catherine Pothier, Riccardo Simionato, Allan Fries, Jonathan Lemus, Costanza Bonadonna, Laure Tougne Rodet, Bertrand Kerautret.<br />
+- **GuidedSAM-Plume:** Taddeo D'Adamo, Simon Thivet, Catherine Pothier, Riccardo Simionato, Allan Fries, Jonathan Lemus, Costanza Bonadonna, Laure Tougne Rodet, Bertrand Kerautret.<br />
 "GuidedSAM-Plume: An Expert-Guided Segmentation Framework for Volcanic Plumes." ICPR Workshops (2026).
 [[paper](https://arxiv.org/abs/2610.29825)]
 [[code](https://github.com/tad-damo/GuidedSAM-Plume)]
 [2026.10]
 
-:boom:**CLUE:** Megh Shukla, Edo Collins, Prashanth Chandran, Karel Petránek, Sergio Orts-Escolano, Mathieu Salzmann, Alexandre Alahi.<br />
+- **CLUE:** Megh Shukla, Edo Collins, Prashanth Chandran, Karel Petránek, Sergio Orts-Escolano, Mathieu Salzmann, Alexandre Alahi.<br />
 "Modeling Uncertainty Propagation in 3D Morphable Models." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.24646)]
 [[code](https://github.com/vita-epfl/CLUE)]
 [2026.10]
  
-:boom:**ViTA-SAM:** Tianqi Wei, Zhi Chen, Xin Yu, Scott Chapman, Zi Huang.<br />
+- **ViTA-SAM:** Tianqi Wei, Zhi Chen, Xin Yu, Scott Chapman, Zi Huang.<br />
 "Visual Memory and Textual Alignment for Cross-Modal Few-Shot Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.25641)]
 [2026.10]
- 
-:boom:**LLMSeg:** Abdullah Hamdi.<br />
+
+- **LLMSeg:** Abdullah Hamdi.<br />
 "LLMSeg: Training-Free Text-Prompted Image Segmentation with B-Splines." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.29409)]
 [[code](https://abdullahamdi.com/llmseg/)]
 [2026.10]
  
-:boom:**AOV-GS:** Rodion Shkokov, Tatiana Zemskova, Dmitry Yudin.<br />
+- **AOV-GS:** Rodion Shkokov, Tatiana Zemskova, Dmitry Yudin.<br />
 "AOV-GS: Active Open-Vocabulary Semantic Mapping with 3D Gaussian Splatting." AIST (2026).
 [[paper](https://arxiv.org/abs/2610.29374)]
 [[code](https://github.com/OptimusFaber/AOV-GS)]
 [2026.10]
 
-:boom:**DCR-SAM:** Wenbin Liao, Hao Zhu, Yike Ma, Hao Jiang, Feng Dai.<br />
+- **DCR-SAM:** Wenbin Liao, Hao Zhu, Yike Ma, Hao Jiang, Feng Dai.<br />
 "Efficient SAM3 Adaptation for Multi-Class Semantic Segmentation via Dense Competitive Representations." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2610.27960)]
 [[code](https://github.com/set-path/DCR-SAM/tree/main)]
 [2026.10]
  
-:boom:**TEMPL:** Ashiqur Rahman, Venkata Devesh Reddy Seethi, Austin Yunker, Rajkumar Kettimuthu, Hamed Alhoori.<br />
+- **TEMPL:** Ashiqur Rahman, Venkata Devesh Reddy Seethi, Austin Yunker, Rajkumar Kettimuthu, Hamed Alhoori.<br />
 "TEMPL: A Resource-Efficient and Transparent Model-Free Framework for Pseudo-Label Generation in Material CT Scans." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.28974)]
 [2026.10]
  
-:boom:**CVP-BAA:** Mei Wang, Minghui Li, Libin Lan.<br />
+- **CVP-BAA:** Mei Wang, Minghui Li, Libin Lan.<br />
 "CVP-BAA: Efficiently Adapting Segment Anything Model for Medical Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2610.30672)]
 [[code](https://github.com/WangMei-wm/CVP-BAA)]
