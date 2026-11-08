@@ -380,6 +380,23 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ASCoR:** Zitong Wang, Shuchang Lyu, Meng Li, Qiang Wang, Guangliang Cheng, Zhenwei Shi.<br />
+"ASCoR: Asymmetric Semantic-Spatial Learning for Remote Sensing Domain Generalization." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.03382)]
+[[code](https://github.com/WangZitong42/ASCoR)]
+[2026.11]
+ 
+:boom:**Event-SAMA:** Sergei Fedorchenko, Max Zehnder, Nikola Zubić, Rong Zou, Davide Scaramuzza.<br />
+"Event-SAMA: Language-Grounded Video Object Segmentation on Neuromorphic Event Streams." NeurIPSW(2026).
+[[paper](https://arxiv.org/abs/2610.39676)]
+[2026.11]
+ 
+:boom:**ReVEAL:** Zhongyuan Bao, Cunjie He, Lejun Zhang, Zenglin Xu, Yanwei Fu.<br />
+"ReVEAL: Eliciting Role-Aware Latent Visual Evidence from MLLMs for Reasoning Video Object Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2610.41257)]
+[[code](https://github.com/Lexarymade/ReVEAL)]
+[2026.11]
+
 :boom:**CAST-Bench:** Yucong Liu, Qi Tian, Shuyuan Tu, Kaihang Pan, Weijie Kong, Chao Pan.<br />
 "CAST-Bench: Tracing Every Sound to Its Source in Multi-Shot Audio-Video Generation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.05422)]
