@@ -380,6 +380,32 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Weidan Xiong, Kaijie Qu, Shihao Feng, Shunqi Fan, Rongyu Xiong, Hui Huang.<br />
+"Segmenting Geometric Textures of 3D Meshes." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.08897)]
+[2026.11]
+ 
+:boom:**V3DSAM:** Maolin Ye, Dongqing Zhao, Linyang Li, Shuai Xue, Yuan Liu, Yiyuan Wang, Wen Li.<br />
+"V3DSAM: Semantic-Geometric Loop Verification and Geometry-Anchored Persistent Instance Mapping for Feed-Forward Dense SLAM." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.12452)]
+[2026.11]
+ 
+:boom:**RigidGS:** Paul Sansah Gyreyiri, Diksha Shukla.<br />
+"RigidGS: Geometry-Aware Object Decoupling for Rigid-Body Interaction in 3D Gaussian Splatting." WACV (2026).
+[[paper](https://arxiv.org/abs/2611.10199)]
+[[code](https://gyreyirisansah.github.io/rigidgs)]
+[2026.11]
+ 
+:boom:**DPGS-SLAM:** Yifan Luo, Takafumi Matsumaru, Vibekananda Dutta, Xin He.<br />
+"DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.12038)]
+[2026.11]
+ 
+:boom:**PSG:** Yuhuan Hong, Yiming Ren, Zhiqiang Lin, Feize Wu, Xingyun Liu, Yitong Xie, Lei Zhou, Lisheng Wu, Junjie Wang, Yujiu Yang.<br />
+"The Target Is a Predicate: Predicate-State Grounding for Semantic-Level Video Reasoning Segmentation." EMNLP (2026).
+[[paper](https://arxiv.org/abs/2611.13785)]
+[2026.11]
+
 :boom:**HOC2R:** Hongkun Yu, Francisco M. López, Francisco Cruz.<br />
 "HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer." ACRA (2026).
 [[paper](https://arxiv.org/abs/2611.08920)]
