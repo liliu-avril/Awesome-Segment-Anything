@@ -380,6 +380,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**EviSAM3:** Duan, Yuhang and Wu, Xiaoshuai and Zhang, Chengqi and Lu, Jincheng and Zhang, Mingwei and Liu, Yu.<br />
+"EviSAM3: Evidence-Driven SAM3 for Referring Remote Sensing Image Segmentation." NeurIPS (2026).
+[[paper](https://neurips.cc/virtual/2026/poster/150827)]
+[[code](https://github.com/YaofireJinglian/EviSAM3)]
+[2026.11]
+
 :boom:**ASCoR:** Zitong Wang, Shuchang Lyu, Meng Li, Qiang Wang, Guangliang Cheng, Zhenwei Shi.<br />
 "ASCoR: Asymmetric Semantic-Spatial Learning for Remote Sensing Domain Generalization." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.03382)]
