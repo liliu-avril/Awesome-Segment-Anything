@@ -380,6 +380,33 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**HOC2R:** Hongkun Yu, Francisco M. López, Francisco Cruz.<br />
+"HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer." ACRA (2026).
+[[paper](https://arxiv.org/abs/2611.08920)]
+[2026.11]
+
+:boom:**MetricPose:** Shifan Zhu, Sabad Modi, Hang Yang, Arushi Agrawal, Steven Gao, Meghan Huber, Nathan Wycoff, Donghyun Kim.<br />
+"MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.08954)]
+[[code](https://metric3db.github.io/metric-3db)]
+[2026.11]
+ 
+:boom:**InstantHMR:** Mohamed Adjel, Kahina Chalabi, Vincent Bonnet.<br />
+"InstantHMR: Real-Time Human Mesh Recovery on Your Phone." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.09195)]
+[[code](https://github.com/Naturalpad-studio/InstantHMR)]
+[2026.11]
+ 
+:boom:Manveen Kaur, Rajmeet Singh, Saeed Mozaffari, Majid Ahmadi, Shahpour Alirezaee.<br />
+"CucumberVision at the Edge: Accuracy, Throughput, and Energy of RGB-D Cucumber Sizing on Jetson Orin Nano and Raspberry Pi 4." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.09490)]
+[2026.11]
+ 
+:boom:**SNAP:** Khayrul Islam, Christopher Frederic Miller.<br />
+"Adapting Frozen Promptable Segmenters to User-Defined Taxonomies via Few-Shot Proposal Learning." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.10092)]
+[2026.11]
+
 :boom:**STEER:** Youquan Fu, Dongnuan Cai, Yu Pan, Henghui Du, Yujia Zhang, Ping Luo, Quande Liu, Yake Wei, Xi Chen, Hongyuan Zhang, Di Hu.<br />
 "Steer Unified Audio Editing Toward Reliable Source Selection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.10630)]
