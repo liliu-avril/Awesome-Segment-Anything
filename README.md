@@ -380,6 +380,27 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**SCoRe:** Abhishek Kathpal, Adarsh Jagan Sathyamoorthy, Utsav Patel.<br />
+"SCoRe: Support-Calibrated Role Fusion for Training-Free Cross-Domain Few-Shot Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.20582)]
+[2026.11]
+ 
+:boom:**vividRGB:** Masahiro Ryo.<br />
+"vividRGB: Various visual cue detection in RGB photographs with forced focused attention." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.20942)]
+[2026.11]
+ 
+:boom:**XXX:** Eerik Alamikkotervo, Risto Ojala.<br />
+"Improving Zero-shot 3D Semantic Mapping in Offroad with Geometric Priors." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.24696)]
+[[code](XXXXXXXXXXXXXXXXXXXXXX)]
+[2026.11]
+
+:boom:**LoCaR:** Rahim Hossain, Dipanwita Saha, Ashirbad Mishra, Xinxin Shu, Svetlana Strunjas, Binbin Li.<br />
+"LoCaR: Localized Canvas Retrieval With Frozen Vision-Language Model." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.22131)]
+[2026.11]
+
 :boom: Guobiao Wang.<br />
 "Whole-Slice Misses Escape Round-Trip Filtering and Volumetric Dice in a Source-Free Flow-Matching Segmenter." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.18710)]
