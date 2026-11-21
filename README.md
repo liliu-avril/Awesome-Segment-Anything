@@ -380,60 +380,76 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
-:boom:Weidan Xiong, Kaijie Qu, Shihao Feng, Shunqi Fan, Rongyu Xiong, Hui Huang.<br />
+:boom:**OSC:** Songlin Li, Hui Ma, Zhiqing Guo, Dan Ma, Gaobo Yang, Xin Liao.<br />
+"A Unified Framework for Image Manipulation Localization Under Multi-Type Weak Supervision." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.25371)]
+[2026.10]
+ 
+:boom:**NativeSeg:** Chengqian Ma, Gaole Dai, Zijie Meng, Weixuan Jin, Yijie Du, Yuexiao Ma, Xiawu Zheng, Fei Chao.<br />
+"NativeSeg: Native Vision Language Segmentation of 3D Computed Tomography via Spatial Visual Tokens and Verified Local Zoom." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.24443)]
+[[code](https://github.com/step-out/NativeSeg)]
+[2026.11]
+ 
+:boom:Abdalmalek Aburaddaha, Samir A. Rawashdeh.<br />
+"From Cloud to Edge: A Fully Local Pipeline for Pothole Risk Assessment and Driver Warning Generation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.19737)]
+[2026.11]
+
+- Weidan Xiong, Kaijie Qu, Shihao Feng, Shunqi Fan, Rongyu Xiong, Hui Huang.<br />
 "Segmenting Geometric Textures of 3D Meshes." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.08897)]
 [2026.11]
  
-:boom:**V3DSAM:** Maolin Ye, Dongqing Zhao, Linyang Li, Shuai Xue, Yuan Liu, Yiyuan Wang, Wen Li.<br />
+- **V3DSAM:** Maolin Ye, Dongqing Zhao, Linyang Li, Shuai Xue, Yuan Liu, Yiyuan Wang, Wen Li.<br />
 "V3DSAM: Semantic-Geometric Loop Verification and Geometry-Anchored Persistent Instance Mapping for Feed-Forward Dense SLAM." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.12452)]
 [2026.11]
  
-:boom:**RigidGS:** Paul Sansah Gyreyiri, Diksha Shukla.<br />
+- **RigidGS:** Paul Sansah Gyreyiri, Diksha Shukla.<br />
 "RigidGS: Geometry-Aware Object Decoupling for Rigid-Body Interaction in 3D Gaussian Splatting." WACV (2026).
 [[paper](https://arxiv.org/abs/2611.10199)]
 [[code](https://gyreyirisansah.github.io/rigidgs)]
 [2026.11]
  
-:boom:**DPGS-SLAM:** Yifan Luo, Takafumi Matsumaru, Vibekananda Dutta, Xin He.<br />
+- **DPGS-SLAM:** Yifan Luo, Takafumi Matsumaru, Vibekananda Dutta, Xin He.<br />
 "DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.12038)]
 [2026.11]
  
-:boom:**PSG:** Yuhuan Hong, Yiming Ren, Zhiqiang Lin, Feize Wu, Xingyun Liu, Yitong Xie, Lei Zhou, Lisheng Wu, Junjie Wang, Yujiu Yang.<br />
+- **PSG:** Yuhuan Hong, Yiming Ren, Zhiqiang Lin, Feize Wu, Xingyun Liu, Yitong Xie, Lei Zhou, Lisheng Wu, Junjie Wang, Yujiu Yang.<br />
 "The Target Is a Predicate: Predicate-State Grounding for Semantic-Level Video Reasoning Segmentation." EMNLP (2026).
 [[paper](https://arxiv.org/abs/2611.13785)]
 [2026.11]
 
-:boom:**HOC2R:** Hongkun Yu, Francisco M. López, Francisco Cruz.<br />
+- **HOC2R:** Hongkun Yu, Francisco M. López, Francisco Cruz.<br />
 "HOC2R: Hand-Object Contact Trajectories for Human-to-Robot Motion Transfer." ACRA (2026).
 [[paper](https://arxiv.org/abs/2611.08920)]
 [2026.11]
 
-:boom:**MetricPose:** Shifan Zhu, Sabad Modi, Hang Yang, Arushi Agrawal, Steven Gao, Meghan Huber, Nathan Wycoff, Donghyun Kim.<br />
+- **MetricPose:** Shifan Zhu, Sabad Modi, Hang Yang, Arushi Agrawal, Steven Gao, Meghan Huber, Nathan Wycoff, Donghyun Kim.<br />
 "MetricPose: Flexible 3D Human Pose Estimation with Depth and Geometric Cues." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.08954)]
 [[code](https://metric3db.github.io/metric-3db)]
 [2026.11]
  
-:boom:**InstantHMR:** Mohamed Adjel, Kahina Chalabi, Vincent Bonnet.<br />
+- **InstantHMR:** Mohamed Adjel, Kahina Chalabi, Vincent Bonnet.<br />
 "InstantHMR: Real-Time Human Mesh Recovery on Your Phone." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.09195)]
 [[code](https://github.com/Naturalpad-studio/InstantHMR)]
 [2026.11]
  
-:boom:Manveen Kaur, Rajmeet Singh, Saeed Mozaffari, Majid Ahmadi, Shahpour Alirezaee.<br />
+- Manveen Kaur, Rajmeet Singh, Saeed Mozaffari, Majid Ahmadi, Shahpour Alirezaee.<br />
 "CucumberVision at the Edge: Accuracy, Throughput, and Energy of RGB-D Cucumber Sizing on Jetson Orin Nano and Raspberry Pi 4." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.09490)]
 [2026.11]
  
-:boom:**SNAP:** Khayrul Islam, Christopher Frederic Miller.<br />
+- **SNAP:** Khayrul Islam, Christopher Frederic Miller.<br />
 "Adapting Frozen Promptable Segmenters to User-Defined Taxonomies via Few-Shot Proposal Learning." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.10092)]
 [2026.11]
 
-:boom:**STEER:** Youquan Fu, Dongnuan Cai, Yu Pan, Henghui Du, Yujia Zhang, Ping Luo, Quande Liu, Yake Wei, Xi Chen, Hongyuan Zhang, Di Hu.<br />
+- **STEER:** Youquan Fu, Dongnuan Cai, Yu Pan, Henghui Du, Yujia Zhang, Ping Luo, Quande Liu, Yake Wei, Xi Chen, Hongyuan Zhang, Di Hu.<br />
 "Steer Unified Audio Editing Toward Reliable Source Selection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.10630)]
 [[code](https://github.com/GeWu-Lab/SteerSound)]
@@ -441,73 +457,73 @@ If you find our work useful in your research, please consider citing:
 [[dataset](https://huggingface.co/datasets/GeWu-Lab/SteerSound)]
 [2026.11]
  
-:boom:**CallCleaner:** Michael Xie, Gašper Beguš, Morris Alper.<br />
+- **CallCleaner:** Michael Xie, Gašper Beguš, Morris Alper.<br />
 "CallCleaner: Lightweight Bioacoustic Denoising from an Audio Foundation Model." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.11491)]
 [[code](https://callcleaner.github.io/)]
 [2026.11]
  
-:boom:**SAM-VTP:** Lucas Hoefs, Hui Xie, Senjian An, Fangyi Zhang.<br />
+- **SAM-VTP:** Lucas Hoefs, Hui Xie, Senjian An, Fangyi Zhang.<br />
 "SAM-VTP: Video Memory and Measured Geometry for Continuous Traversability Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.12099)]
 [2026.11]
  
-:boom:**EgoLabel:** Xiaozhi Zhang, Changjia Xu, Yaoyuan Yan, Haoxiang Jie, Bingjie Fu.<br />
+- **EgoLabel:** Xiaozhi Zhang, Changjia Xu, Yaoyuan Yan, Haoxiang Jie, Bingjie Fu.<br />
 "EgoLabel: Zero-Shot Egocentric Auto-Labeling with Cross-Modal Consistency." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.12149)]
 [2026.11]
  
-:boom:**PerMultiSeg:** Quang Qui-Vinh Nguyen, Hung Nguyen, Rang Nguyen, Khoi Nguyen.<br />
+- **PerMultiSeg:** Quang Qui-Vinh Nguyen, Hung Nguyen, Rang Nguyen, Khoi Nguyen.<br />
 "Where is My Mug? Training-Free Framework for Personalized Image Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.15216)]
 [2026.11]
 
-:boom:**Lang-SVG:** Xi Liu, Chaoyi Zhou, Run Wang, Jiaang Li, Feng Luo, Junxiang Huang, Siyu Huang.<br />
+- **Lang-SVG:** Xi Liu, Chaoyi Zhou, Run Wang, Jiaang Li, Feng Luo, Junxiang Huang, Siyu Huang.<br />
 "Lang-SVG: Hierarchical Image Vectorization with Language Priors." NeurIPS (2026).
 [[paper](https://arxiv.org/abs/2611.15941)]
 [[code](https://xiliu8006.github.io/Lang-SVG/)]
 [2026.11]
  
-:boom:Abdalmalek Aburaddaha, Zaid A. El Shair, Ali Al-Bustami, Samir A. Rawashdeh.<br />
+- Abdalmalek Aburaddaha, Zaid A. El Shair, Ali Al-Bustami, Samir A. Rawashdeh.<br />
 "Pothole Risk Assessment with Geometrically Grounded Vision Language Models." IEEE Access (2026).
 [[paper](https://arxiv.org/abs/2611.16061)]
 [[code](https://github.com/malekaburaddaha/Pothole_Assessment_Pipeline)]
 [2026.11]
  
-:boom:**SpotDiff:** Anit Upadhyaya, Ata Akbari Asanjan, Chaitanya Jalluri, Subash Yeggina, Jeremy Kravitz.<br />
+- **SpotDiff:** Anit Upadhyaya, Ata Akbari Asanjan, Chaitanya Jalluri, Subash Yeggina, Jeremy Kravitz.<br />
 "SpotDiff: A Plug-and-Play Framework for Zero-Shot Change Detection in Remote Sensing Imagery." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.17172)]
 [2026.11]
  
-:boom:**THG-Omni:** Jisheng Dang, Kai Wei, Ronghao Lin, Bimei Wang, Hong Peng, Wei-Shi Zheng, Bin Hu, Qi Tian, Tat-Seng Chua.<br />
+- **THG-Omni:** Jisheng Dang, Kai Wei, Ronghao Lin, Bimei Wang, Hong Peng, Wei-Shi Zheng, Bin Hu, Qi Tian, Tat-Seng Chua.<br />
 "THG-Omni: Traceable Human-Centric Graph Supervision for Video Reasoning." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.07836)]
 [[code](https://anonymous.4open.science/r/review-n94hhfcwp5666/)]
 [2026.11]
  
-:boom:Pedro Oliveira Torrente, Diego Giaretta de Paulo, Lucas Pascotti Valem, Jianglong Yan, Everton Castelão Tetila, Jayme Garcia Arnal Barbedo, Liang Zhao.<br />
+- Pedro Oliveira Torrente, Diego Giaretta de Paulo, Lucas Pascotti Valem, Jianglong Yan, Everton Castelão Tetila, Jayme Garcia Arnal Barbedo, Liang Zhao.<br />
 "UAV-Based Computer Vision for Cattle Detection and Feed Bunk Spatial Analysis."  IEEE Transactions on AgriFood Electronics (2026).
 [[paper](https://arxiv.org/abs/2611.08928)]
 [2026.11]
  
-:boom:**MESAM:** Tianyu Zou, Shengwu Xiong, Rui Wu, Ruilin Yao, Yi Rong.<br />
+- **MESAM:** Tianyu Zou, Shengwu Xiong, Rui Wu, Ruilin Yao, Yi Rong.<br />
 "MESAM: Enhancing SAM2 for Few-Shot Segmentation through Semantic-Visual Memory Generation and Refinement." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.08943)]
 [[code](https://github.com/tianyu-zou/MESAM)]
 [2026.11]
  
-:boom:Sayed Amir Karim.<br />
+- Sayed Amir Karim.<br />
 "Deterministic, Reproducible Inference in Exact Integer Arithmetic, and Verifiable Distributed Inference as Its Consequence." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.13730)]
 [[code](https://github.com/pelloran-inc/tritify)]
 [2026.11]
  
-:boom:**PVIS-10K:** Penglei Zhang, Wan Zhang, Ruizhe Deng, Bo Chen, Wenhao Duan, Jinhe Zhang, Yanzhen Zhang, Qi Chen, Zhiling Guo, Haoran Zhang, Yuntian Chen.<br />
+- **PVIS-10K:** Penglei Zhang, Wan Zhang, Ruizhe Deng, Bo Chen, Wenhao Duan, Jinhe Zhang, Yanzhen Zhang, Qi Chen, Zhiling Guo, Haoran Zhang, Yuntian Chen.<br />
 "A 10K drone image dataset with component-level annotations for rooftop photovoltaic inspection." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.13892)]
 [2026.11]
 
-:boom:**EviSAM3:** Duan, Yuhang and Wu, Xiaoshuai and Zhang, Chengqi and Lu, Jincheng and Zhang, Mingwei and Liu, Yu.<br />
+- **EviSAM3:** Duan, Yuhang and Wu, Xiaoshuai and Zhang, Chengqi and Lu, Jincheng and Zhang, Mingwei and Liu, Yu.<br />
 "EviSAM3: Evidence-Driven SAM3 for Referring Remote Sensing Image Segmentation." NeurIPS (2026).
 [[paper](https://neurips.cc/virtual/2026/poster/150827)]
 [[code](https://github.com/YaofireJinglian/EviSAM3)]
