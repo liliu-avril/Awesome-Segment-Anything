@@ -380,6 +380,66 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom: Guobiao Wang.<br />
+"Whole-Slice Misses Escape Round-Trip Filtering and Volumetric Dice in a Source-Free Flow-Matching Segmenter." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.18710)]
+[2026.11]
+ 
+:boom:**DecoEdit:** Xiaotang Gai, Jinbo Xing, Zijie Meng, Jiayi Yi, Jimin Xiao, Yixuan Qian, Yu Liu, Chaojie Mao, Zuozhu Liu.<br />
+"DecoEdit: Beyond Flat Control for 3D-Aware Unified Image Editing." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.19121)]
+[2026.11]
+ 
+:boom:Ho Tim Tsui, Jongyun Kim.<br />
+"Prompt Re-Specification and Target-Mask Availability in Mask-Conditioned Visual Reinforcement Learning for Moving-Platform Landing." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.20075)]
+[2026.11]
+ 
+:boom:**FM-ANONYMIZE:** Max A. Buettner, Mark Azer, Fabian B. Flohr.<br />
+"Training-Free Anonymization of Driving Data with Promptable Segmentation and 3D Human Mesh Recovery." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.20412)]
+[[code](https://github.com/max-a-ai/FM-Anonymize)]
+[2026.11]
+ 
+:boom:Christoph Dalitz, Oskar Waedt, Steffen Goebbels, Mahdieh Shamsadini Motlagh, Gabriel Gerzabek.<br />
+"Power Line Detection in Point Clouds with Point-SAM and RANSAC." VISAPP (2026).
+[[paper](https://arxiv.org/abs/2611.21438)]
+[2026.11]
+
+:boom:**PromptPack:** Sophia Zalewski, Mustafa Munir, Enting Liu, Anjul Patney, David Dynerman.<br />
+"PromptPack: Training-Free Augmentation of Diffusion Editors for Intent-Aligned Spatial and Semantic Control." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.21865)]
+[2026.11]
+ 
+:boom:**RoadAnnoter:** Nazmul Haque, Arnob Protim Roy.<br />
+"RoadAnnoter: An AI-Assisted Desktop Tool for Semantic Segmentation Annotation of Road-Scene Images." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.22884)]
+[2026.11]
+ 
+:boom:**Fiberpose:** Viktor A. Balashov, Daniil S. Antonenko.<br />
+"Fiberpose: state-of-the-art fiber morphometry and instance segmentation with a distance-transform neural network." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.22953)]
+[[code](https://github.com/vikba/fiberpose)]
+[2026.11]
+
+:boom:**SegAnyFruit:** Yanan Wang, Yuzheng wang, Yibin Ying, Zhenghao Fei.<br />
+"SegAnyFruit: Learning Generalizable and Edge Deployable Fruit Instance Segmentation at Scale." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.25475)]
+[[code](XXXXXXXXXXXXXXXXXXXXXX)]
+[2026.11]
+ 
+:boom:**UNVEIL:** Yu-Huan Wu, Yun Liu, Liangli Zhen.<br />
+"SAM 3 Sees More Than It Detects: Promptable Concept Maps Beyond Categories." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.25747)]
+[[code](https://github.com/yuhuan-wu/UNVEIL)]
+[2026.11]
+ 
+:boom:**FAB:** Jinkun Cao.<br />
+"Fast and Accurate Body Estimation in Pixels, World Space and Scenes." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.25801)]
+[[code](https://www.jinkuncao.com/FAB)]
+[2026.11]
+
 :boom:**OSC:** Songlin Li, Hui Ma, Zhiqing Guo, Dan Ma, Gaobo Yang, Xin Liao.<br />
 "A Unified Framework for Image Manipulation Localization Under Multi-Type Weak Supervision." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.25371)]
