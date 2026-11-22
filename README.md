@@ -380,6 +380,12 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**ReA-OVCD:** Hongming Zhu , Huaji Chen , Bowen Du, Sicong Liu, and Qin Liu.<br />
+"ReA-OVCD: Training-Free Open-Vocabulary Change Detection via Semantic-Spatial Reliability Assessment." ArXiv (2026).
+[[paper](https://github.com/Funny0101/ReA-OVCD)]
+[[code](https://github.com/Funny0101/ReA-OVCD)]
+[2026.11]
+
 :boom:**SCoRe:** Abhishek Kathpal, Adarsh Jagan Sathyamoorthy, Utsav Patel.<br />
 "SCoRe: Support-Calibrated Role Fusion for Training-Free Cross-Domain Few-Shot Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.20582)]
