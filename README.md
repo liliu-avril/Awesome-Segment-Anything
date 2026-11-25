@@ -5794,6 +5794,7 @@ Without Manual Labels." ArXiv (2026).
 | 070  | LiteMedSAM  | LiteMedSAM   |  [Project page](https://github.com/bowang-lab/MedSAM/tree/LiteMedSAM)  |  [Code](https://github.com/bowang-lab/MedSAM/tree/LiteMedSAM)  | - | A lightweight version of MedSAM for fast training and inference. |
 | 071  | ISAT_with_segment_anything  | ISAT_with_segment_anything   |  [Project page](https://github.com/yatengLG/ISAT_with_segment_anything)  |  [Code](https://github.com/yatengLG/ISAT_with_segment_anything)  | - | An Interactive Semi-automatic Annotation Tool based on segment anything model, supporting SAM, SAM2, SAM-HQ, MobileSAM, EdgeSAM, etc. |
 | 072  |  Track Anything Annotate    | Track Anything Annotate      | [Project page](https://github.com/lnikioffic/track-anything-annotate)  |  [Code](https://github.com/lnikioffic/track-anything-annotate)  | - | A video annotation tool combining SAM2 and Xmem++. |
+| 073  | AudioGhost  | Pull Any Sound out of Audio or Video  |  [Project page](https://audioghost.suixu.ai)  |  [Code](https://github.com/0x0funky/audioghost-ai)  | - | A desktop app built on SAM Audio: type a sound to isolate it or remove it from audio and video; smaller checkpoints run on 6 GB GPUs. |
 
 ## Awesome Repositories for SAM
 - [VainF/Awesome-Anything](https://github.com/VainF/Awesome-Anything)
