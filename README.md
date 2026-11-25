@@ -380,6 +380,35 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:**adapt–label–distill:** Zhengye Yang, Anthony Wang, Yuyang Li, Mehmet Kerem Turkcan, Beizhan Yan, Zoran Kostic.<br />
+"Adapt, Label, Distill: Foundation-Model Supervision for Efficient Object Detection." WACV Workshop (2026).
+[[paper](https://arxiv.org/abs/2611.31604)]
+[[code](https://github.com/zk2172-columbia/ProjectAdaptLabelDistill_ObjectDetection)]
+[2026.10]
+
+:boom:**HS-OVSeg:** Wei Huang, Chenying Liu, Xudong Kang, Xiao Xiang Zhu.<br />
+"HS-OVSeg: Multi-Granularity Open-Vocabulary Semantic Segmentation in Remote Sensing via Heterogeneous Supervision." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.32518)]
+[[code](https://github.com/zhu-xlab/HS-OVSeg)]
+[2026.11]
+ 
+:boom:**AUV:** Ruiqi Shen, Chang Liu, Henghui Ding.<br />
+"Attack-Inference Aligned Universal Adversarial Attacks on Video Object Segmentation." NeurIPS (2026).
+[[paper](https://arxiv.org/abs/2611.32658)]
+[[code](https://henghuiding.com/AUV/)]
+[2026.11]
+
+:boom:**DistractAttackDistractors are the Real Enemy: Visual Distraction Adversarial Perturbations on SAM2-Based Video Tracking and Segmentation:** Adonay Demewez Gebremedhin, Mohamad Alansari, Wessam Shehieb, Muzammal Naseer.<br />
+"Distractors are the Real Enemy: Visual Distraction Adversarial Perturbations on SAM2-Based Video Tracking and Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.32011)]
+[[code](https://adonaydem.github.io/sam2-da-page/)]
+[2026.11]
+
+:boom:Tri Tin Vo, Vu Thien An Ngo, Nhi Kieu, Cuong Hung Luu, Giang V. H. Phan, Kien Nguyen, Clinton Fookes.<br />
+"Benchmarking Foundation Models for Bone Scaffold Pore Detection: A Comparative Analysis of Few-Shot Performance." AusDM (2026).
+[[paper](https://arxiv.org/abs/2611.28113)]
+[2026.11]
+
 :boom:Allan Kazakov, Abdurrahman Javat, Duygu Cakir.<br />
 "How Does SAM-3 Adapt? Capacity, Update Geometry, and Domain Transfer." ECCVW (2026).
 [[paper](https://arxiv.org/abs/2611.27142)]
