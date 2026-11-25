@@ -398,7 +398,7 @@ If you find our work useful in your research, please consider citing:
 [[code](https://henghuiding.com/AUV/)]
 [2026.11]
 
-:boom:**DistractAttackDistractors are the Real Enemy: Visual Distraction Adversarial Perturbations on SAM2-Based Video Tracking and Segmentation:** Adonay Demewez Gebremedhin, Mohamad Alansari, Wessam Shehieb, Muzammal Naseer.<br />
+:boom:**DistractAttack:** Adonay Demewez Gebremedhin, Mohamad Alansari, Wessam Shehieb, Muzammal Naseer.<br />
 "Distractors are the Real Enemy: Visual Distraction Adversarial Perturbations on SAM2-Based Video Tracking and Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.32011)]
 [[code](https://adonaydem.github.io/sam2-da-page/)]
