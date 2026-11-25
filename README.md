@@ -380,6 +380,51 @@ If you find our work useful in your research, please consider citing:
 ### Follow-up Papers
 #### The latest papers within a week are marked with a :boom:
 #### 2026
+:boom:Allan Kazakov, Abdurrahman Javat, Duygu Cakir.<br />
+"How Does SAM-3 Adapt? Capacity, Update Geometry, and Domain Transfer." ECCVW (2026).
+[[paper](https://arxiv.org/abs/2611.27142)]
+[2026.11]
+ 
+:boom:**TIPO:** Davide Gardenal, Mingxuan Liu, Flavio Vella, Quentin Guimard, Elisa Ricci.<br />
+"Taking Apart and Putting Together: Tracking Objects Through Physical Transformations." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.27398)]
+[[code](https://davidegardenal.github.io/tipo-tracking)]
+[2026.10]
+
+:boom:**ROSE-SAM3:** Yanghui Song, Chengfu Yang, Yongpeng Wen, Zhanxuan Hu, Wei Lu, Qi Ming, Nanqing Liu, Heng-Chao Li.<br />
+"ROSE-SAM3: Response-Oriented Prompt Selection for Open-Vocabulary Remote Sensing Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.28112)]
+[[code](https://github.com/YanghuiSong/ROSE-SAM3)]
+[2026.11]
+ 
+:boom:**US-Seg:** Chen Ma, Yunshu Li, Shuyu Liang, Qin Wang, Junhu Fu, Zeju Li, Yi Guo, Yuanyuan Wang.<br />
+"US-Seg: One Reference for Universal Ultrasound Segmentation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.28740)]
+[2026.11]
+
+:boom:**PINE:** Zeyu Ren, Jie Ni, Rui Qian, Jiahao Wei, Hao Tang, Yongtai Liu, Zeyu Zhang.<br />
+"PINE: Point, Instance and Normal Estimation in One-Step Diffusion Model." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.29389)]
+[[code](https://aigeeksgroup.github.io/PINE)]
+[2026.11]
+ 
+:boom:**RoA:** Zehang Weng, Ci Li.<br />
+"Ride on Anything: Contact-Coupled Monocular 4D Reconstruction of a Rider and Horse in Camera and World Frames." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.29435)]
+[[code](https://wengzehang.github.io/rideonanything/)]
+[2026.11]
+ 
+:boom:**HandiVid:** Chaoyang Zhang, Shaohao Rui, Xiaofeng Mao, Yuanxun Xu, Haoyuan Xia, Xiaohong Liu, Qinghe Du, Weijie Ma.<br />
+"HandiVid: A High-Quality Dataset for Hand-Driven Interactive Video Generation." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.29693)]
+[[code](https://github.com/LynnReal-AI/LynnReal)]
+[2026.10]
+
+:boom:Frances Yung, Muhammad Naufilr.<br />
+"Co-speech Gesture Attribute Annotation with 3D Human Mesh Recovery." ArXiv (2026).
+[[paper](https://arxiv.org/abs/2611.30725)]
+[2026.11]
+
 :boom:**GEG-SAM:** Ao Wang, Lei Zhang, Lituan Wang, Zhenwei Zhang, Xiangbao Gong, Zhiyi Zhang, Shunyao Wang, Xianglei Yuan, Zizhou Wang.<br />
 "GEG-SAM: Gaze Exploration-Guided Segment Anything Model for Weakly Supervised Polyp Segmentation." ArXiv (2026).
 [[paper](https://arxiv.org/abs/2611.27183)]
